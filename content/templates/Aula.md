@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: [NOME DO TÓPICO] — [NOME DA DISCIPLINA]"
 created: '2026-08-22'
 modified: '2026-08-22'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - engenharia-de-computacao

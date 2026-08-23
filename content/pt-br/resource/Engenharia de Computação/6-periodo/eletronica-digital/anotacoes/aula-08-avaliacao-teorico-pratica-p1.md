@@ -3,7 +3,7 @@ publish: true
 title: "Aula 08: Avaliação Teórico-Prática P1 — Eletrônica Digital"
 created: '2026-10-19'
 modified: '2026-10-19'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-08

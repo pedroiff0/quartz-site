@@ -3,7 +3,7 @@ publish: true
 title: "Aula 09: Tratamento Robusto de Exceções — Programação Orientada a Objetos I"
 created: '2026-10-28'
 modified: '2026-10-28'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-09

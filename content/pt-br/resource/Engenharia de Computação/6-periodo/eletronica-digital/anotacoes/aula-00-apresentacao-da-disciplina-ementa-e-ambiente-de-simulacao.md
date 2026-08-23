@@ -3,7 +3,7 @@ publish: true
 title: "Aula 00: Apresentação da Disciplina, Ementa e Ambiente de Simulação — Eletrônica Digital"
 created: '2026-08-24'
 modified: '2026-08-24'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-00

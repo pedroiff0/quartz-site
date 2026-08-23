@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Sistemas de Numeração: Decimal; Binário; Octal; e Hexadecimal. — Fundamentos de Computação"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

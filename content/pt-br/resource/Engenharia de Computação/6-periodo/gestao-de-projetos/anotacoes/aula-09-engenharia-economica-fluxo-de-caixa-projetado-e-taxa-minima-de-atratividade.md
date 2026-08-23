@@ -3,7 +3,7 @@ publish: true
 title: "Aula 09: Engenharia Econômica: Fluxo de Caixa Projetado e Taxa Mínima de Atratividade — Gestão de Projetos"
 created: '2026-10-29'
 modified: '2026-10-29'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-09

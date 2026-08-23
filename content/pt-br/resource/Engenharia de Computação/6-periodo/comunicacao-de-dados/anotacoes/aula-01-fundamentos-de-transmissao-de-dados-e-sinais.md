@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: Fundamentos de Transmissão de Dados e Sinais — Comunicação de Dados"
 created: '2026-09-01'
 modified: '2026-09-01'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-01

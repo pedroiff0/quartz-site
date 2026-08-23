@@ -3,7 +3,7 @@ publish: true
 title: "Aula 10: Controle de Concorrência: Bloqueio em Duas Fases (2PL) e Timestamps — Banco de Dados"
 created: '2026-11-03'
 modified: '2026-11-03'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-10

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 08: Análise Sintática Ascendente Avançada: LR(1), LALR(1) e Bison/Yacc — Compiladores"
 created: '2026-10-23'
 modified: '2026-10-23'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-08

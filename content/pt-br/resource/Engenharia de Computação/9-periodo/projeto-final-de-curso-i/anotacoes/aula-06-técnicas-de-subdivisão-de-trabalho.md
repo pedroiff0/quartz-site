@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Técnicas de Subdivisão de Trabalho; — Projeto Final de Curso I"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

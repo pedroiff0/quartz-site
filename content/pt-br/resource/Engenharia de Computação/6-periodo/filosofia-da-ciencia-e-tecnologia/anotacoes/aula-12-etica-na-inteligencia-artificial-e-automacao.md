@@ -3,7 +3,7 @@ publish: true
 title: "Aula 12: Ética na Inteligência Artificial e Automação — Filosofia da Ciência e Tecnologia"
 created: '2026-11-18'
 modified: '2026-11-18'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-12

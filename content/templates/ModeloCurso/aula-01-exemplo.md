@@ -4,7 +4,7 @@ draft: true
 title: "Aula 01: Teorema Fundamental do Cálculo e Integração por Substituição"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - calculo-i
   - anotaçoes-de-quadro

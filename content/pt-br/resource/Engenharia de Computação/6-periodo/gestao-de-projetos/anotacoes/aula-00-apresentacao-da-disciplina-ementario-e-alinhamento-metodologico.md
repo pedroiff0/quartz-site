@@ -3,7 +3,7 @@ publish: true
 title: "Aula 00: Apresentação da Disciplina, Ementário e Alinhamento Metodológico — Gestão de Projetos"
 created: '2026-08-27'
 modified: '2026-08-27'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-00

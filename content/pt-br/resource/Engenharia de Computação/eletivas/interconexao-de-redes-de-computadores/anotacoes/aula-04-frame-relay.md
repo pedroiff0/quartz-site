@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Frame Relay — Interconexão de Redes de Computadores"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

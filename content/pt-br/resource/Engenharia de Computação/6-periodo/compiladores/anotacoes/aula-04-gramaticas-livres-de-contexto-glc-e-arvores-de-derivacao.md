@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Gramáticas Livres de Contexto (GLC) e Árvores de Derivação — Compiladores"
 created: '2026-09-25'
 modified: '2026-09-25'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-04

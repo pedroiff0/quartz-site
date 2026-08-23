@@ -3,7 +3,7 @@ publish: true
 title: "Aula 10: Métodos de Avaliação de Investimentos: Payback Simples e Descontado — Gestão de Projetos"
 created: '2026-11-05'
 modified: '2026-11-05'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-10

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 12: Arquitetura de Software em Camadas e MVC — Análise de Software Orientada a Objetos"
 created: '2026-11-18'
 modified: '2026-11-18'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-12

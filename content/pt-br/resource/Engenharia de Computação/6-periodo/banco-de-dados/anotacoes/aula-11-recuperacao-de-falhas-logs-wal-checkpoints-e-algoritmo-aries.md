@@ -3,7 +3,7 @@ publish: true
 title: "Aula 11: Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES — Banco de Dados"
 created: '2026-11-10'
 modified: '2026-11-10'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-11

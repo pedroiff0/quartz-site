@@ -3,7 +3,7 @@ publish: true
 title: "Aula 08: Gestão de Custos: Estimativas, Orçamento e Análise de Ponto de Equilíbrio — Gestão de Projetos"
 created: '2026-10-22'
 modified: '2026-10-22'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-08

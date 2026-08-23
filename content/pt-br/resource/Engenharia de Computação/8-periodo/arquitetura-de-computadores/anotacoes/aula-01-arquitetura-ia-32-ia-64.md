@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: Arquitetura IA-32 / IA-64 — Arquitetura de Computadores"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

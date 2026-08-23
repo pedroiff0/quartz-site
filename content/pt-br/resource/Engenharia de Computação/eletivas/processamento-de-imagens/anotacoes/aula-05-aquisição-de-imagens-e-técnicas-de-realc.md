@@ -3,7 +3,7 @@ publish: true
 title: "Aula 05: Aquisição de Imagens e Técnicas de Realce e Melhoria de Imagens — Processamento de Imagens"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

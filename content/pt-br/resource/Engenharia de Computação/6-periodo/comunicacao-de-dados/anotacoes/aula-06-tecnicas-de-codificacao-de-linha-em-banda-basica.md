@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Técnicas de Codificação de Linha em Banda Básica — Comunicação de Dados"
 created: '2026-10-06'
 modified: '2026-10-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-06

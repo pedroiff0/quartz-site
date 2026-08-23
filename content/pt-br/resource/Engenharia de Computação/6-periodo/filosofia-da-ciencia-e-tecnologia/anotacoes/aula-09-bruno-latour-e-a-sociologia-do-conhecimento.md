@@ -3,7 +3,7 @@ publish: true
 title: "Aula 09: Bruno Latour e a Sociologia do Conhecimento — Filosofia da Ciência e Tecnologia"
 created: '2026-10-28'
 modified: '2026-10-28'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-09

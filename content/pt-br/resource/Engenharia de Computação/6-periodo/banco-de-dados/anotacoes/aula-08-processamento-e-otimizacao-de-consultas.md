@@ -3,7 +3,7 @@ publish: true
 title: "Aula 08: Processamento e Otimização de Consultas — Banco de Dados"
 created: '2026-10-20'
 modified: '2026-10-20'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-08

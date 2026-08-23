@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Diagramas de Atividades e Máquinas de Estados — Análise de Software Orientada a Objetos"
 created: '2026-10-07'
 modified: '2026-10-07'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-06

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 10: Flip-Flops Disparados por Borda (SR, D, JK, T) — Eletrônica Digital"
 created: '2026-11-02'
 modified: '2026-11-02'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-10

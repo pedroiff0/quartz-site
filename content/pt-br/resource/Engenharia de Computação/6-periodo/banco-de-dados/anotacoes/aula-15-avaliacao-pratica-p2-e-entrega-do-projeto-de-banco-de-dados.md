@@ -3,7 +3,7 @@ publish: true
 title: "Aula 15: Avaliação Prática P2 e Entrega do Projeto de Banco de Dados — Banco de Dados"
 created: '2026-12-08'
 modified: '2026-12-08'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-15

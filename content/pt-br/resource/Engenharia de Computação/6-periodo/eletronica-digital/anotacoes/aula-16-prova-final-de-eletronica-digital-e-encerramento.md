@@ -3,7 +3,7 @@ publish: true
 title: "Aula 16: Prova Final de Eletrônica Digital e Encerramento — Eletrônica Digital"
 created: '2026-12-14'
 modified: '2026-12-14'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-16

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 14: Métricas OO e Qualidade de Software — Análise de Software Orientada a Objetos"
 created: '2026-12-02'
 modified: '2026-12-02'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-14

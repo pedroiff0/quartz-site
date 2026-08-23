@@ -3,7 +3,7 @@ publish: true
 title: "Aula 13: Registradores de Deslocamento — Eletrônica Digital"
 created: '2026-11-23'
 modified: '2026-11-23'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-13

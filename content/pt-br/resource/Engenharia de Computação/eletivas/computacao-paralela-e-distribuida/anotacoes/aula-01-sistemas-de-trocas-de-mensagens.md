@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: Sistemas de Trocas de Mensagens — Computação Paralela e Distribuída"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

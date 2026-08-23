@@ -3,7 +3,7 @@ publish: true
 title: "Aula 10: Análise Semântica: Esquemas de Tradução Dirigidos por Sintaxe (SDT) — Compiladores"
 created: '2026-11-06'
 modified: '2026-11-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-10

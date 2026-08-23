@@ -3,7 +3,7 @@ publish: true
 title: "Aula 03: Portas Lógicas Fundamentais e Formas Canônicas — Eletrônica Digital"
 created: '2026-09-14'
 modified: '2026-09-14'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-03

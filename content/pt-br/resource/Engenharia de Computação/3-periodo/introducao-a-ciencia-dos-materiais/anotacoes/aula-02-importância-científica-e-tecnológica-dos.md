@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Importância científica e tecnológica dos materiais — Introdução à Ciência dos Materiais"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

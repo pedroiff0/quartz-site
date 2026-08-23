@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Função dos algoritmos na Computação; — Algoritmos e Técnicas de Programação"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

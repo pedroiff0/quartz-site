@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: Classes, Instanciação e Tipos por Referência vs Valor — Programação Orientada a Objetos I"
 created: '2026-09-02'
 modified: '2026-09-02'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-01

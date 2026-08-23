@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis — Eletrônica Digital"
 created: '2026-09-21'
 modified: '2026-09-21'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-04

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 03: SQL Avançado: Subconsultas, Agrupamento e Junções Complexas — Banco de Dados"
 created: '2026-09-15'
 modified: '2026-09-15'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-03

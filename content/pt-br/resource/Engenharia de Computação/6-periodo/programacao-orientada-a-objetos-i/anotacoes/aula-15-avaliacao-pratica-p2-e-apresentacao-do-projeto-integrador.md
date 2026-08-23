@@ -3,7 +3,7 @@ publish: true
 title: "Aula 15: Avaliação Prática P2 e Apresentação do Projeto Integrador — Programação Orientada a Objetos I"
 created: '2026-12-09'
 modified: '2026-12-09'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-15

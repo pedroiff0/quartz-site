@@ -3,7 +3,7 @@ publish: true
 title: "Aula 00: Apresentação da Disciplina, Configuração da JDK e Ambiente — Programação Orientada a Objetos I"
 created: '2026-08-26'
 modified: '2026-08-26'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-00

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 05: A língua brasileira de Sinais. — Libras"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

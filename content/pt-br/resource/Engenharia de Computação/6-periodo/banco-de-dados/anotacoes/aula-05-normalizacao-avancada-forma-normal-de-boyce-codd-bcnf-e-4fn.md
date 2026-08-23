@@ -3,7 +3,7 @@ publish: true
 title: "Aula 05: Normalização Avançada: Forma Normal de Boyce-Codd (BCNF) e 4FN — Banco de Dados"
 created: '2026-09-29'
 modified: '2026-09-29'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-05

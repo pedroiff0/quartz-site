@@ -3,7 +3,7 @@ publish: true
 title: "Aula 03: Sistema Internacional de Unidades; — Fenômenos de Transporte"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

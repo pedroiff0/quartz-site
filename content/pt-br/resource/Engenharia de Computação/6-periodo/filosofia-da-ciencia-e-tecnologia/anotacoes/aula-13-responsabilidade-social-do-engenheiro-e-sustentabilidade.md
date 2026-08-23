@@ -3,7 +3,7 @@ publish: true
 title: "Aula 13: Responsabilidade Social do Engenheiro e Sustentabilidade — Filosofia da Ciência e Tecnologia"
 created: '2026-11-25'
 modified: '2026-11-25'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-13

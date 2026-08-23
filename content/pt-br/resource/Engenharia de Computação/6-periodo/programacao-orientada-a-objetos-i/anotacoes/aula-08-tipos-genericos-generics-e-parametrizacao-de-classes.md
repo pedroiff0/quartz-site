@@ -3,7 +3,7 @@ publish: true
 title: "Aula 08: Tipos Genéricos (Generics) e Parametrização de Classes — Programação Orientada a Objetos I"
 created: '2026-10-21'
 modified: '2026-10-21'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-08

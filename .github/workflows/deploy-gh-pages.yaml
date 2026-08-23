@@ -31,6 +31,8 @@ jobs:
       - name: Install Quartz Plugins
         run: npx quartz plugin install
       - name: Build Quartz
+        env:
+          QUARTZ_ENCRYPT_PASSWORD: ${{ secrets.QUARTZ_ENCRYPT_PASSWORD || 'eng232' }}
         run: npx quartz build
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3

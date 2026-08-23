@@ -3,7 +3,7 @@ publish: true
 title: "Aula 13: Gerenciamento de Aquisições, Contratos e Comunicação — Gestão de Projetos"
 created: '2026-11-26'
 modified: '2026-11-26'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-13

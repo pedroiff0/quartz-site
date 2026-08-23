@@ -3,7 +3,7 @@ publish: true
 title: "Aula 14: Desenvolvimento de Interface Gráfica e Arquitetura Modular — Programação Orientada a Objetos I"
 created: '2026-12-02'
 modified: '2026-12-02'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-14

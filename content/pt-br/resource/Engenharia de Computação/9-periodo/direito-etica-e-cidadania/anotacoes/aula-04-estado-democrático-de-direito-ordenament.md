@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Estado Democrático de Direito; Ordenamento Jurídico Brasileiro com ênfase na Constituição Federal de 1988. — Direito, Ética e Cidadania"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 10: Transmissão Síncrona vs Assíncrona e Interfaceamento Físico — Comunicação de Dados"
 created: '2026-11-03'
 modified: '2026-11-03'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-10

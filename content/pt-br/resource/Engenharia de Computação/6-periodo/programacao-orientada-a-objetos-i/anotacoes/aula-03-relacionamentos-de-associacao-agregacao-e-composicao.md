@@ -3,7 +3,7 @@ publish: true
 title: "Aula 03: Relacionamentos de Associação, Agregação e Composição — Programação Orientada a Objetos I"
 created: '2026-09-16'
 modified: '2026-09-16'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-03

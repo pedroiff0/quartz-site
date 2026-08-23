@@ -3,7 +3,7 @@ publish: true
 title: "Aula 14: Ambientes de Tempo de Execução, Alocação de Pilha e Coleta de Lixo — Compiladores"
 created: '2026-12-04'
 modified: '2026-12-04'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-14

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: História da Internet e da World Wide Web. — Desenvolvimento Web"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

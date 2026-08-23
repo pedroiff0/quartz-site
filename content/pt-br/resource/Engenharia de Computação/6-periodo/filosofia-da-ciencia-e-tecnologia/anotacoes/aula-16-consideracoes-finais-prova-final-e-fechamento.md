@@ -3,7 +3,7 @@ publish: true
 title: "Aula 16: Considerações Finais, Prova Final e Fechamento — Filosofia da Ciência e Tecnologia"
 created: '2026-12-16'
 modified: '2026-12-16'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-16

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Concepções de Direito; Teoria Tridimensional do Direito; Direito Positivo e Direito Consuetudinário; Hermenêutica. — Direito, Ética e Cidadania"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

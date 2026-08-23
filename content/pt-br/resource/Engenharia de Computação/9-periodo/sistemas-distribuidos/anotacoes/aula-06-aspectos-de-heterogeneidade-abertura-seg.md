@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Aspectos de Heterogeneidade, abertura, segurança, escalabilidade, tolerância a falhas, concorrência e transparência em sistemas distribuídos — Sistemas Distribuídos"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

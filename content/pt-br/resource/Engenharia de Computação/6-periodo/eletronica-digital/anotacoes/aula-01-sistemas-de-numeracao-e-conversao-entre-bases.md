@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: Sistemas de Numeração e Conversão entre Bases — Eletrônica Digital"
 created: '2026-08-31'
 modified: '2026-08-31'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-01

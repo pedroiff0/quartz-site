@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Encapsulamento, Modificadores de Acesso e Construtores — Programação Orientada a Objetos I"
 created: '2026-09-09'
 modified: '2026-09-09'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-02

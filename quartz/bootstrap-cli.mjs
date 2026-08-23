@@ -7,6 +7,12 @@ if (major < 22) {
   )
   process.exit(1)
 }
+import fs from "fs"
+if (fs.existsSync(".env")) {
+  try {
+    process.loadEnvFile(".env")
+  } catch (e) {}
+}
 import yargs from "yargs"
 import { hideBin } from "yargs/helpers"
 import {

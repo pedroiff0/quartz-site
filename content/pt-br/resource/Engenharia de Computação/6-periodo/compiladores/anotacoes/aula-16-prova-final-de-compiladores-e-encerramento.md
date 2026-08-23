@@ -3,7 +3,7 @@ publish: true
 title: "Aula 16: Prova Final de Compiladores e Encerramento — Compiladores"
 created: '2026-12-18'
 modified: '2026-12-18'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-16

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 13: Protocolos de Janela Deslizante: Go-Back-N e Selective Repeat — Comunicação de Dados"
 created: '2026-11-24'
 modified: '2026-11-24'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-13

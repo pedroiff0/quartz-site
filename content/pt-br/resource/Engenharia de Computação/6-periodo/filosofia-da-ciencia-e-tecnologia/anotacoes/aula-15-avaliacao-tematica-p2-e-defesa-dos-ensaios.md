@@ -3,7 +3,7 @@ publish: true
 title: "Aula 15: Avaliação Temática P2 e Defesa dos Ensaios — Filosofia da Ciência e Tecnologia"
 created: '2026-12-09'
 modified: '2026-12-09'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-15

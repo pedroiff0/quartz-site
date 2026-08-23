@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Tensão em um plano oblíquo — Mecânica dos Sólidos"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

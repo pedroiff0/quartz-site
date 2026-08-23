@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Álgebra Booleana, Postulados e Teoremas de De Morgan — Eletrônica Digital"
 created: '2026-09-07'
 modified: '2026-09-07'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-02

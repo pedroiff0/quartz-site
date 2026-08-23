@@ -3,7 +3,7 @@ publish: true
 title: "Aula 07: Multiplexadores, Demultiplexadores, Codificadores e Decodificadores — Eletrônica Digital"
 created: '2026-10-12'
 modified: '2026-10-12'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-07

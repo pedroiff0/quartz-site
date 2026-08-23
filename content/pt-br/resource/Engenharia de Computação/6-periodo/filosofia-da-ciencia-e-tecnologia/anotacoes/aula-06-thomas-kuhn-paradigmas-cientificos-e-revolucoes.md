@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Thomas Kuhn: Paradigmas Científicos e Revoluções — Filosofia da Ciência e Tecnologia"
 created: '2026-10-07'
 modified: '2026-10-07'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-06

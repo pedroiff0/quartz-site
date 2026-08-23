@@ -3,7 +3,7 @@ publish: true
 title: "Aula 05: Análise Sintática Descendente: LL(1) e Parser por Descida Recursiva — Compiladores"
 created: '2026-10-02'
 modified: '2026-10-02'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-05

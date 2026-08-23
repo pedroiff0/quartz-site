@@ -3,7 +3,7 @@ publish: true
 title: "Aula 11: Mapas e Tabelas de Dispersão — Programação Orientada a Objetos I"
 created: '2026-11-11'
 modified: '2026-11-11'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-11

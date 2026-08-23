@@ -3,7 +3,7 @@ publish: true
 title: "Aula 09: Elementos de Memória: Latches SR e D com Habilitação — Eletrônica Digital"
 created: '2026-10-26'
 modified: '2026-10-26'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-09

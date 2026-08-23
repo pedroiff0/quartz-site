@@ -3,7 +3,7 @@ publish: true
 title: "Aula 12: Gestão de Riscos em Projetos: Identificação e Matriz de Probabilidade — Gestão de Projetos"
 created: '2026-11-19'
 modified: '2026-11-19'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-12

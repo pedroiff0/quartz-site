@@ -3,7 +3,7 @@ publish: true
 title: "Aula 12: Projeto de Contadores Síncronos e Assíncronos — Eletrônica Digital"
 created: '2026-11-16'
 modified: '2026-11-16'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-12

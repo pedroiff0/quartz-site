@@ -3,7 +3,7 @@ publish: true
 title: "Aula 10: Civilização Tecnológica e o Determinismo Tecnológico — Filosofia da Ciência e Tecnologia"
 created: '2026-11-04'
 modified: '2026-11-04'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-10

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 16: Prova Final, Encerramento e Feedback do Semestre — Análise de Software Orientada a Objetos"
 created: '2026-12-16'
 modified: '2026-12-16'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-16

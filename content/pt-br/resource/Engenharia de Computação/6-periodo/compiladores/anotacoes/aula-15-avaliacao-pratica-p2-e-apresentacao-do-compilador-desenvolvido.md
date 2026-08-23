@@ -3,7 +3,7 @@ publish: true
 title: "Aula 15: Avaliação Prática P2 e Apresentação do Compilador Desenvolvido — Compiladores"
 created: '2026-12-11'
 modified: '2026-12-11'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-15

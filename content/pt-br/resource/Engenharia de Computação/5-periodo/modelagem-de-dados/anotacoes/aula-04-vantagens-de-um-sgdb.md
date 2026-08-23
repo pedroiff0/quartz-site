@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Vantagens de um SGDB — Modelagem de Dados"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

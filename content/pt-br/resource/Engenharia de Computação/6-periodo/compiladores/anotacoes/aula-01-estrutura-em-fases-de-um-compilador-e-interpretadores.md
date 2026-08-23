@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: Estrutura em Fases de um Compilador e Interpretadores — Compiladores"
 created: '2026-09-04'
 modified: '2026-09-04'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-01

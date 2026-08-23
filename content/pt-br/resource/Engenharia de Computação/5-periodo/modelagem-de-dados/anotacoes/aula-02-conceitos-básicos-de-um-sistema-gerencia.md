@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Conceitos Básicos de um Sistema Gerenciador de Banco de Dados (SGBDs) — Modelagem de Dados"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

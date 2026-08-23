@@ -3,7 +3,7 @@ publish: true
 title: "Aula 05: Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis — Eletrônica Digital"
 created: '2026-09-28'
 modified: '2026-09-28'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-05

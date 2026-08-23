@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Engenharia de Requisitos e Modelagem de Negócio — Análise de Software Orientada a Objetos"
 created: '2026-09-09'
 modified: '2026-09-09'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-02

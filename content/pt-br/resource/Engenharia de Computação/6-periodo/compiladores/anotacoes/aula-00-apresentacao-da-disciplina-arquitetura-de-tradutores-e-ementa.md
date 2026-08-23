@@ -3,7 +3,7 @@ publish: true
 title: "Aula 00: Apresentação da Disciplina, Arquitetura de Tradutores e Ementa — Compiladores"
 created: '2026-08-28'
 modified: '2026-08-28'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-00

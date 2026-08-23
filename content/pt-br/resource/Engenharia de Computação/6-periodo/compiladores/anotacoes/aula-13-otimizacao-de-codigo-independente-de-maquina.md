@@ -3,7 +3,7 @@ publish: true
 title: "Aula 13: Otimização de Código Independente de Máquina — Compiladores"
 created: '2026-11-27'
 modified: '2026-11-27'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-13

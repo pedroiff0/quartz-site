@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Classes Abstratas e Interfaces como Contratos de Software — Programação Orientada a Objetos I"
 created: '2026-10-07'
 modified: '2026-10-07'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-06

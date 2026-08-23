@@ -3,7 +3,7 @@ publish: true
 title: "Aula 11: Sistemas de Tipos, Inferência e Verificação Semântica — Compiladores"
 created: '2026-11-13'
 modified: '2026-11-13'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-11

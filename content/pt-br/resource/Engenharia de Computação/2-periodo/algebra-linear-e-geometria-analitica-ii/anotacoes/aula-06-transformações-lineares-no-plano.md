@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Transformações lineares no plano; — Álgebra Linear e Geometria Analítica II"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

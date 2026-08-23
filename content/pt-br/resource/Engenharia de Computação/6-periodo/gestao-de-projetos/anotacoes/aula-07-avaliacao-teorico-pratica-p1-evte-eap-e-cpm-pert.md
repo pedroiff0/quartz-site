@@ -3,7 +3,7 @@ publish: true
 title: "Aula 07: Avaliação Teórico-Prática P1 (EVTE, EAP e CPM/PERT) — Gestão de Projetos"
 created: '2026-10-15'
 modified: '2026-10-15'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-07

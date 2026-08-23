@@ -3,7 +3,7 @@ publish: true
 title: "Aula 16: Prova Final de Gestão de Projetos e Fechamento — Gestão de Projetos"
 created: '2026-12-17'
 modified: '2026-12-17'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-16

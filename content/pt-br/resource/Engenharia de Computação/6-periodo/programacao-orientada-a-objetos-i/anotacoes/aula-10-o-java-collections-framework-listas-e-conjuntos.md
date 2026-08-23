@@ -3,7 +3,7 @@ publish: true
 title: "Aula 10: O Java Collections Framework: Listas e Conjuntos — Programação Orientada a Objetos I"
 created: '2026-11-04'
 modified: '2026-11-04'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-10

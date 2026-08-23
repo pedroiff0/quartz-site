@@ -3,7 +3,7 @@ publish: true
 title: "Aula 11: Ciência, Tecnologia e Humanismo no Século XXI — Filosofia da Ciência e Tecnologia"
 created: '2026-11-11'
 modified: '2026-11-11'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-11

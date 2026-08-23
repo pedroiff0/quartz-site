@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Álgebra Relacional: Seleção, Projeção, Junção e Divisão — Banco de Dados"
 created: '2026-09-08'
 modified: '2026-09-08'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-02

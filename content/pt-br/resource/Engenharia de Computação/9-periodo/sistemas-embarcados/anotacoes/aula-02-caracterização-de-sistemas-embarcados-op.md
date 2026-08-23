@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Caracterização de Sistemas Embarcados Operando em Tempo Real; — Sistemas Embarcados"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

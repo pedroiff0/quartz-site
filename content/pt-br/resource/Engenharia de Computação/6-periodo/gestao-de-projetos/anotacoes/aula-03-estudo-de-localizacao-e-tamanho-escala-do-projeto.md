@@ -3,7 +3,7 @@ publish: true
 title: "Aula 03: Estudo de Localização e Tamanho/Escala do Projeto — Gestão de Projetos"
 created: '2026-09-17'
 modified: '2026-09-17'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-03

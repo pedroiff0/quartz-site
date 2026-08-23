@@ -3,7 +3,7 @@ publish: true
 title: "Aula 05: Planejamento de Escopo: Estrutura Analítica do Projeto (EAP / WBS) — Gestão de Projetos"
 created: '2026-10-01'
 modified: '2026-10-01'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-05

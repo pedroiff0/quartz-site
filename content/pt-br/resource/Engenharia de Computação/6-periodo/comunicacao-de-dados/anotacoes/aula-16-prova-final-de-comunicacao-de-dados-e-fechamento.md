@@ -3,7 +3,7 @@ publish: true
 title: "Aula 16: Prova Final de Comunicação de Dados e Fechamento — Comunicação de Dados"
 created: '2026-12-15'
 modified: '2026-12-15'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-16

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Análise Sintática Ascendente: Conceitos LR(0) e Tabelas SLR(1) — Compiladores"
 created: '2026-10-09'
 modified: '2026-10-09'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-06

@@ -26,3 +26,6 @@ cap30.pdf
 # Python cache (não versionar)
 __pycache__/
 *.pyc
+
+.env
+.env.*

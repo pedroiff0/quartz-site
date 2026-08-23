@@ -3,7 +3,7 @@ publish: true
 title: "Aula 12: Controle de Enlace de Dados e Protocolos ARQ — Comunicação de Dados"
 created: '2026-11-17'
 modified: '2026-11-17'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-12

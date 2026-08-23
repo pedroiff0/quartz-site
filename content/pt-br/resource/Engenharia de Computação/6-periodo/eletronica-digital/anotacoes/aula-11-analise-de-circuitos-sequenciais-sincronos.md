@@ -3,7 +3,7 @@ publish: true
 title: "Aula 11: Análise de Circuitos Sequenciais Síncronos — Eletrônica Digital"
 created: '2026-11-09'
 modified: '2026-11-09'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-11

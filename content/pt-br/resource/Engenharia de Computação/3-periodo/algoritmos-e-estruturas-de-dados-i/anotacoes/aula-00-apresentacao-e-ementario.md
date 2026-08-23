@@ -3,7 +3,7 @@ publish: true
 title: "Aula 00: Apresentação da Disciplina e Ementário — Algoritmos e Estruturas de Dados I"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula-00
   - ementario

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 07: Avaliação Teórico-Prática P1 (Léxica e Sintática) — Compiladores"
 created: '2026-10-16'
 modified: '2026-10-16'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-07

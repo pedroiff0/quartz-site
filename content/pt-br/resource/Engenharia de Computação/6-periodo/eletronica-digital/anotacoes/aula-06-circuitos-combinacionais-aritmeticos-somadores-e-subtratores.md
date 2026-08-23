@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Circuitos Combinacionais Aritméticos: Somadores e Subtratores — Eletrônica Digital"
 created: '2026-10-05'
 modified: '2026-10-05'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-06

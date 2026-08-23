@@ -3,7 +3,7 @@ publish: true
 title: "Aula 12: Fluxos de Entrada e Saída (I/O) e Serialização de Objetos — Programação Orientada a Objetos I"
 created: '2026-11-18'
 modified: '2026-11-18'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-12

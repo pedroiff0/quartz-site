@@ -3,7 +3,7 @@ publish: true
 title: "Aula 03: Linguagem, Sintaxe, Semântica e Propriedades Semânticas; — Lógica para Computação"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 14: Técnicas de Multiplexação: FDM, TDM e WDM — Comunicação de Dados"
 created: '2026-12-01'
 modified: '2026-12-01'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-14

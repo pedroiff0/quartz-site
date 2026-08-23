@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Modelagem Estrutural: Diagramas de Classes e Pacotes — Análise de Software Orientada a Objetos"
 created: '2026-09-23'
 modified: '2026-09-23'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-04

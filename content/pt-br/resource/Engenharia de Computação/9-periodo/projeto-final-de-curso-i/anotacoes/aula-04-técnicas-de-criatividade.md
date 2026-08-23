@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Técnicas de Criatividade; — Projeto Final de Curso I"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

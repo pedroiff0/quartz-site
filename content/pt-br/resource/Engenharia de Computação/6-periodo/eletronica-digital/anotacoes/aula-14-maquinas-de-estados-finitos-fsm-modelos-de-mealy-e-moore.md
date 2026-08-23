@@ -3,7 +3,7 @@ publish: true
 title: "Aula 14: Máquinas de Estados Finitos (FSM): Modelos de Mealy e Moore — Eletrônica Digital"
 created: '2026-11-30'
 modified: '2026-11-30'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-14

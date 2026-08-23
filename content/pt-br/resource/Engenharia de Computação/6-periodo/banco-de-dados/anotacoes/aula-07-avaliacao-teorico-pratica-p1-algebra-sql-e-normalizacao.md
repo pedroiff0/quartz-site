@@ -3,7 +3,7 @@ publish: true
 title: "Aula 07: Avaliação Teórico-Prática P1 (Álgebra, SQL e Normalização) — Banco de Dados"
 created: '2026-10-13'
 modified: '2026-10-13'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-07

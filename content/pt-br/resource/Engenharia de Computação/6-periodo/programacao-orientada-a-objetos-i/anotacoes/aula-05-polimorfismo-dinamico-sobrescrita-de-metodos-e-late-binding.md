@@ -3,7 +3,7 @@ publish: true
 title: "Aula 05: Polimorfismo Dinâmico, Sobrescrita de Métodos e Late Binding — Programação Orientada a Objetos I"
 created: '2026-09-30'
 modified: '2026-09-30'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-05

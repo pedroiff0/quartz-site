@@ -3,7 +3,7 @@ publish: true
 title: "Aula 03: Princípios jurídicos e cláusulas gerais do direito: dignidade da pessoa, solidariedade, razoabilidade/proporcionalidade, igualdade, legalidade, contraditório e ampla defesa, boafé, vedação ao enriquecimento ilícito, acesso à Justiça. — Direito, Ética e Cidadania"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

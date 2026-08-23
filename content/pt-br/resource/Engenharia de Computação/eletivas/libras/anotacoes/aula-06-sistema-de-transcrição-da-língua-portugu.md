@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Sistema de transcrição da Língua Portuguesa para a Língua de Sinais. Variação linguística. — Libras"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

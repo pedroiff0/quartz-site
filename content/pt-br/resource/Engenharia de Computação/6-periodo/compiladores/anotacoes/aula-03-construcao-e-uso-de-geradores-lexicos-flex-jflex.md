@@ -3,7 +3,7 @@ publish: true
 title: "Aula 03: Construção e Uso de Geradores Léxicos (Flex / JFlex) — Compiladores"
 created: '2026-09-18'
 modified: '2026-09-18'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-03

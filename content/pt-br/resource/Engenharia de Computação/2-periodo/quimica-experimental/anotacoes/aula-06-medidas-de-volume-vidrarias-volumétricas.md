@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Medidas de volume. Vidrarias volumétricas. Determinação de densidade. — Química Experimental"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

@@ -3,7 +3,7 @@ publish: true
 title: "Aula 09: Gerenciamento de Transações e Propriedades ACID — Banco de Dados"
 created: '2026-10-27'
 modified: '2026-10-27'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-09

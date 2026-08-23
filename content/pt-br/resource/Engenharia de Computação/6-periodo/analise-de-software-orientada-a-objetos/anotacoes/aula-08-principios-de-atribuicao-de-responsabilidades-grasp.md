@@ -3,7 +3,7 @@ publish: true
 title: "Aula 08: Princípios de Atribuição de Responsabilidades (GRASP) — Análise de Software Orientada a Objetos"
 created: '2026-10-21'
 modified: '2026-10-21'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-08

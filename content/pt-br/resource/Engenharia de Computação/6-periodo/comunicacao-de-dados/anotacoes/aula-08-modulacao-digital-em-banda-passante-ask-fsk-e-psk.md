@@ -3,7 +3,7 @@ publish: true
 title: "Aula 08: Modulação Digital em Banda Passante: ASK, FSK e PSK — Comunicação de Dados"
 created: '2026-10-20'
 modified: '2026-10-20'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-08

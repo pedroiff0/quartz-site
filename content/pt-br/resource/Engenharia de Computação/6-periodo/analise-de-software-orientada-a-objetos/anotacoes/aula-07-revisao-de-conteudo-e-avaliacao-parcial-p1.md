@@ -3,7 +3,7 @@ publish: true
 title: "Aula 07: Revisão de Conteúdo e Avaliação Parcial P1 — Análise de Software Orientada a Objetos"
 created: '2026-10-14'
 modified: '2026-10-14'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-07

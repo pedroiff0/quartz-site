@@ -3,7 +3,7 @@ publish: true
 title: "Aula 11: Padrões de Projeto GoF Comportamentais — Análise de Software Orientada a Objetos"
 created: '2026-11-11'
 modified: '2026-11-11'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-11

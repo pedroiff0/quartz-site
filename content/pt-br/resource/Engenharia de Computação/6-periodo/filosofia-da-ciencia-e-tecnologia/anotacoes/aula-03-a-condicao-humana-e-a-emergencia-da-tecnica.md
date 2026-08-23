@@ -3,7 +3,7 @@ publish: true
 title: "Aula 03: A Condição Humana e a Emergência da Técnica — Filosofia da Ciência e Tecnologia"
 created: '2026-09-16'
 modified: '2026-09-16'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-03

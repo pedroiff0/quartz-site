@@ -3,7 +3,7 @@ publish: true
 title: "Aula 00: Apresentação da Disciplina, Ementário e Critérios — Filosofia da Ciência e Tecnologia"
 created: '2026-08-26'
 modified: '2026-08-26'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-00

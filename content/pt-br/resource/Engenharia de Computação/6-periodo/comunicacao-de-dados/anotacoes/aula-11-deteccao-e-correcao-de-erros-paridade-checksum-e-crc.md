@@ -3,7 +3,7 @@ publish: true
 title: "Aula 11: Detecção e Correção de Erros: Paridade, Checksum e CRC — Comunicação de Dados"
 created: '2026-11-10'
 modified: '2026-11-10'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-11

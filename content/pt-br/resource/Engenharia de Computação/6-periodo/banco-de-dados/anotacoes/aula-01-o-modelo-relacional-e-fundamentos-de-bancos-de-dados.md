@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: O Modelo Relacional e Fundamentos de Bancos de Dados — Banco de Dados"
 created: '2026-09-01'
 modified: '2026-09-01'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-01

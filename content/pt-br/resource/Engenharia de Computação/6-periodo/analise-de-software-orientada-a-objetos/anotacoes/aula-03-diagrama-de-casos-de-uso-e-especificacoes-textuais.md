@@ -3,7 +3,7 @@ publish: true
 title: "Aula 03: Diagrama de Casos de Uso e Especificações Textuais — Análise de Software Orientada a Objetos"
 created: '2026-09-16'
 modified: '2026-09-16'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-03

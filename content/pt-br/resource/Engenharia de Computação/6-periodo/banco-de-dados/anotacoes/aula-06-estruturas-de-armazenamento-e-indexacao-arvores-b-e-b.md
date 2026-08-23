@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Estruturas de Armazenamento e Indexação: Árvores B e B+ — Banco de Dados"
 created: '2026-10-06'
 modified: '2026-10-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-06

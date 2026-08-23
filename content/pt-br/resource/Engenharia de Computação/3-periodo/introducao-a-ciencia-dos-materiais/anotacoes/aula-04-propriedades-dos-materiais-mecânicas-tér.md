@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Propriedades dos materiais (mecânicas, térmicas, elétricas, magnéticas, químicas e óticas) — Introdução à Ciência dos Materiais"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

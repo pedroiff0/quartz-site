@@ -3,7 +3,7 @@ publish: true
 title: "Aula 15: Avaliação Prática P2 e Montagem de Circuitos Sequenciais — Eletrônica Digital"
 created: '2026-12-07'
 modified: '2026-12-07'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-15

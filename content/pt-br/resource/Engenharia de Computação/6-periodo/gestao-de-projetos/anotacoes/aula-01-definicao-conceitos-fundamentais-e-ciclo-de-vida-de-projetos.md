@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: Definição, Conceitos Fundamentais e Ciclo de Vida de Projetos — Gestão de Projetos"
 created: '2026-09-03'
 modified: '2026-09-03'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-01

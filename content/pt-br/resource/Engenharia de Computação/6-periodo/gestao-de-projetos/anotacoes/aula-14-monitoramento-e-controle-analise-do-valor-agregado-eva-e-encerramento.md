@@ -3,7 +3,7 @@ publish: true
 title: "Aula 14: Monitoramento e Controle: Análise do Valor Agregado (EVA) e Encerramento — Gestão de Projetos"
 created: '2026-12-03'
 modified: '2026-12-03'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-14

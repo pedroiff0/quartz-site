@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Análise Léxica: Expressões Regulares, Tokens e Autômatos Finitos — Compiladores"
 created: '2026-09-11'
 modified: '2026-09-11'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-02

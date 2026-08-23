@@ -3,7 +3,7 @@ publish: true
 title: "Aula 12: Geração de Código Intermediário: Árvores Sintáticas e TAC — Compiladores"
 created: '2026-11-20'
 modified: '2026-11-20'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-12

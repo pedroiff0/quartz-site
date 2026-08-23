@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Erros e medidas (precisão e exatidão). Incerteza nos resultados experimentais. — Química Experimental"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

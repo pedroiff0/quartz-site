@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Arte, Técnica, Ciência e Engenharia — Definições — Filosofia da Ciência e Tecnologia"
 created: '2026-09-09'
 modified: '2026-09-09'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-02

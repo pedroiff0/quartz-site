@@ -3,7 +3,7 @@ publish: true
 title: "Aula 07: A Crise da Ciência e do Paradigma Dominante — Filosofia da Ciência e Tecnologia"
 created: '2026-10-14'
 modified: '2026-10-14'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-07

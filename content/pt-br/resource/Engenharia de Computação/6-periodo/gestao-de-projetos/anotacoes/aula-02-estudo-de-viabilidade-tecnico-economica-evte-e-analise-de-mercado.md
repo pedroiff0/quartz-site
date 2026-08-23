@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Estudo de Viabilidade Técnico-Econômica (EVTE) e Análise de Mercado — Gestão de Projetos"
 created: '2026-09-10'
 modified: '2026-09-10'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-02

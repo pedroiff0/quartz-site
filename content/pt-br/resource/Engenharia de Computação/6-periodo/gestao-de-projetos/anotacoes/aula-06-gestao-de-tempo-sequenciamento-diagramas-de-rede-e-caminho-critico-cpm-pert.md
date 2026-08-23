@@ -3,7 +3,7 @@ publish: true
 title: "Aula 06: Gestão de Tempo: Sequenciamento, Diagramas de Rede e Caminho Crítico (CPM/PERT) — Gestão de Projetos"
 created: '2026-10-08'
 modified: '2026-10-08'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-06

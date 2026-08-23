@@ -3,7 +3,7 @@ publish: true
 title: "Aula 15: Espalhamento Espectral: DSSS, FHSS e CDMA — Comunicação de Dados"
 created: '2026-12-08'
 modified: '2026-12-08'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-15

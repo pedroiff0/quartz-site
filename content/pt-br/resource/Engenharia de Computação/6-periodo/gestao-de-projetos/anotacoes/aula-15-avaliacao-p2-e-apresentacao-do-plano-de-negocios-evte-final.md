@@ -3,7 +3,7 @@ publish: true
 title: "Aula 15: Avaliação P2 e Apresentação do Plano de Negócios / EVTE Final — Gestão de Projetos"
 created: '2026-12-10'
 modified: '2026-12-10'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-15

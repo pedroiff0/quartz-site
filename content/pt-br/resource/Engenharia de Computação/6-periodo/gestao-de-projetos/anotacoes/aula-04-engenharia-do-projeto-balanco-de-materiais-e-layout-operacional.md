@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Engenharia do Projeto, Balanço de Materiais e Layout Operacional — Gestão de Projetos"
 created: '2026-09-24'
 modified: '2026-09-24'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-04

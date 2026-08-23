@@ -3,7 +3,7 @@ publish: true
 title: "Aula 07: Avaliação Prática em Laboratório P1 — Programação Orientada a Objetos I"
 created: '2026-10-14'
 modified: '2026-10-14'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-07

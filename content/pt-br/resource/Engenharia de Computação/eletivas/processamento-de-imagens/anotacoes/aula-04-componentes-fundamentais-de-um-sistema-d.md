@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Componentes fundamentais de um sistema de processamento e análise de imagens — Processamento de Imagens"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

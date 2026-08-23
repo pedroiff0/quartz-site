@@ -3,7 +3,7 @@ publish: true
 title: "Aula 15: Avaliação Parcial P2 e Apresentação de Projetos — Análise de Software Orientada a Objetos"
 created: '2026-12-09'
 modified: '2026-12-09'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-15

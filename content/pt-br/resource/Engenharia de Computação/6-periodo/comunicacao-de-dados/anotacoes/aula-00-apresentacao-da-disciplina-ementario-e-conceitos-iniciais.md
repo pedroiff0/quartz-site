@@ -3,7 +3,7 @@ publish: true
 title: "Aula 00: Apresentação da Disciplina, Ementário e Conceitos Iniciais — Comunicação de Dados"
 created: '2026-08-25'
 modified: '2026-08-25'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-00

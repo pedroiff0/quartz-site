@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: Dinâmica de sistemas lineares e não-lineares. — Modelagem Ambiental"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

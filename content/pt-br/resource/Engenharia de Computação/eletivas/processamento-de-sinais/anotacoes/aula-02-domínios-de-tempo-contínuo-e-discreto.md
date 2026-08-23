@@ -3,7 +3,7 @@ publish: true
 title: "Aula 02: Domínios de Tempo Contínuo e Discreto — Processamento de Sinais"
 created: '2026-08-06'
 modified: '2026-08-06'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - quadro-negro

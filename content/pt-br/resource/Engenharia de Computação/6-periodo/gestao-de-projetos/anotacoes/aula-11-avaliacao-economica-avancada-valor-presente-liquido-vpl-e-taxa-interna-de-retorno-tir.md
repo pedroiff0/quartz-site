@@ -3,7 +3,7 @@ publish: true
 title: "Aula 11: Avaliação Econômica Avançada: Valor Presente Líquido (VPL) e Taxa Interna de Retorno (TIR) — Gestão de Projetos"
 created: '2026-11-12'
 modified: '2026-11-12'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-11

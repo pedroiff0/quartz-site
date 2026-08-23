@@ -3,7 +3,7 @@ publish: true
 title: "Aula 13: Expressões Lambda e Streams API — Programação Orientada a Objetos I"
 created: '2026-11-25'
 modified: '2026-11-25'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-13

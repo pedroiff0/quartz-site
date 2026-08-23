@@ -3,7 +3,7 @@ publish: true
 title: "Aula 12: Programação no Banco: Stored Procedures e Triggers em PL/pgSQL — Banco de Dados"
 created: '2026-11-17'
 modified: '2026-11-17'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-12

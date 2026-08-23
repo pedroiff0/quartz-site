@@ -3,7 +3,7 @@ publish: true
 title: "Aula 05: Karl Popper, Falsificacionismo e o Racionalismo Crítico — Filosofia da Ciência e Tecnologia"
 created: '2026-09-30'
 modified: '2026-09-30'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-05

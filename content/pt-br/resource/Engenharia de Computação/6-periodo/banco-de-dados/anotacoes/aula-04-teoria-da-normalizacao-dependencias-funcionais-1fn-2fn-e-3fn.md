@@ -3,7 +3,7 @@ publish: true
 title: "Aula 04: Teoria da Normalização: Dependências Funcionais, 1FN, 2FN e 3FN — Banco de Dados"
 created: '2026-09-22'
 modified: '2026-09-22'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-04

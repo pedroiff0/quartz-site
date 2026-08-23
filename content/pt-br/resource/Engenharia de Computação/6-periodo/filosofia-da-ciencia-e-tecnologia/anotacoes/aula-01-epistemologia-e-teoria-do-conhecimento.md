@@ -3,7 +3,7 @@ publish: true
 title: "Aula 01: Epistemologia e Teoria do Conhecimento — Filosofia da Ciência e Tecnologia"
 created: '2026-09-02'
 modified: '2026-09-02'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-01

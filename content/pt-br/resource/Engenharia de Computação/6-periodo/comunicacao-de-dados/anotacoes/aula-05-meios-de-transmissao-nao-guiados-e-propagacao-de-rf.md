@@ -3,7 +3,7 @@ publish: true
 title: "Aula 05: Meios de Transmissão Não-Guiados e Propagação de RF — Comunicação de Dados"
 created: '2026-09-29'
 modified: '2026-09-29'
-password: "eng232"
+encrypted: true
 tags:
   - aula
   - aula-05
