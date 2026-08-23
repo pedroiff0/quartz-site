@@ -92,4 +92,5 @@ tags:
 > 6. CARVALHO ROCHOL, J. Sistemas de Comunicação Sem Fio: Conceitos e Aplicações. Porto Alegre: Bookman, 2018.
 
 ## 📝 Anotações e Arquivos Didáticos
+- 📖 **[Short Lecture — Comunicação de Dados (Compêndio Completo)](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)**
 - 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes)**

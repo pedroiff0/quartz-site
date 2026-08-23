@@ -2,52 +2,205 @@
 publish: true
 title: "6º Período"
 created: 2026-07-21
-modified: 2026-08-06
+modified: 2026-08-22
 ---
 
 > [!info] 🎓 Visão Geral e Carga Horária do Período
-> - **Carga Horária Total do Bloco:** `440h`
-> - **Resumo Pedagógico:** Sistemas de bancos de dados, linguagens formais e circuitos digitais.
+> - **Carga Horária Total do Bloco:** `500h` (340h teóricas + 160h práticas / projetos)
+> - **Semestre Letivo:** `2026-2` (24 de Agosto de 2026 a 18 de Dezembro de 2026 · 17 Semanas)
+> - **Resumo Pedagógico:** Análise e engenharia orientada a objetos, bancos de dados relacionais e avançados, circuitos lógicos digitais, teoria e construção de compiladores, telecomunicações e redes físicas, reflexão epistemológica e viabilidade técnica/econômica de projetos de engenharia.
 
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[Bancos de Dados I](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Especifico)
-> - 📘 **[Compiladores](/pt-br/resource/engenharia-de-computação/6-periodo/compiladores)** (`80h` · Núcleo Especifico)
-> - 📘 **[Circuitos Digitais](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Especifico)
-> - 📘 **[Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i)** (`80h` · Núcleo Especifico)
-> - 📘 **[Eletrônica Analógica II](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`60h` · Núcleo Especifico)
-> - 📘 **[Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados)** (`60h` · Núcleo Especifico)
+> - 📘 **[Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos)** (`60h` · Prof. Bruno · Quarta 13:40–16:30)
+> - 📘 **[Filosofia da Ciência e Tecnologia](/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia)** (`60h` · Prof. Hugo · Quarta 19:20–22:00)
+> - 📘 **[Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados)** (`60h` · Prof. Sérgio · Terça 13:40–16:30)
+> - 📘 **[Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i)** (`60h` · Prof. Sérgio/Bruno · Quarta 16:40–19:20)
+> - 📘 **[Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital)** (`60h` · Prof. Rogério · Segunda 16:40–19:20)
+> - 📘 **[Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados)** (`60h` · Prof. Rômulo/Paulo · Terça 16:40–19:20)
+> - 📘 **[Compiladores](/pt-br/resource/engenharia-de-computação/6-periodo/compiladores)** (`60h` · Prof. Fabrício Barros · Sexta 13:40–16:30)
+> - 📘 **[Gestão de Projetos](/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos)** (`80h` · Prof. Hilton · Quinta 14:00–17:00 / 16:40–20:10)
 
-> [!tip] 📎 Documentos e Horários Institucionais
-> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
-> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
+---
+
+## 🕒 Quadro de Horários Semanal (2026-2)
+
+<div style="display: flex; gap: 12px; margin-bottom: 1.5rem; flex-wrap: wrap;" class="schedule-actions-bar">
+  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/cronograma-6-periodo.json" download="cronograma-6-periodo.json" class="btn-action" style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; background: #2563eb; color: #ffffff; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 0.9rem; box-shadow: 0 2px 4px rgba(37,99,235,0.2);">
+    📥 Exportar Cronograma (JSON)
+  </a>
+  <button onclick="window.print()" class="btn-action" style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; background: #059669; color: #ffffff; border: none; border-radius: 8px; font-weight: 600; font-size: 0.9rem; cursor: pointer; box-shadow: 0 2px 4px rgba(5,150,105,0.2);">
+    🖨️ Imprimir / Salvar em PDF
+  </a>
+</div>
+
+<style>
+@media print {
+  body { background: white !important; color: black !important; font-size: 11pt; }
+  .schedule-actions-bar, nav, header, footer, .sidebar, .explorer, .toc { display: none !important; }
+  .schedule-table-wrapper { width: 100% !important; margin: 0 !important; }
+}
+.schedule-badge {
+  display: block;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-decoration: none;
+  line-height: 1.25;
+}
+.badge-bd { background: #e0f2fe; color: #0369a1; border-left: 3px solid #0284c7; }
+.badge-asoo { background: #fef3c7; color: #92400e; border-left: 3px solid #f59e0b; }
+.badge-comp { background: #f3e8ff; color: #6b21a8; border-left: 3px solid #9333ea; }
+.badge-ed { background: #dcfce7; color: #166534; border-left: 3px solid #16a34a; }
+.badge-cd { background: #ffedd5; color: #9a3412; border-left: 3px solid #ea580c; }
+.badge-poo { background: #fee2e2; color: #991b1b; border-left: 3px solid #dc2626; }
+.badge-gp { background: #e0e7ff; color: #3730a3; border-left: 3px solid #4f46e5; }
+.badge-filo { background: #f1f5f9; color: #334155; border-left: 3px solid #64748b; }
+.intervalo-row { background: var(--light, #f8fafc); color: var(--gray, #94a3b8); font-size: 0.75rem; text-align: center; font-style: italic; }
+</style>
+
+<div class="schedule-table-wrapper" style="overflow-x: auto; margin-bottom: 2rem;">
+  <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.88rem;">
+    <thead>
+      <tr style="background: var(--lightgray, #f1f5f9); border-bottom: 2px solid var(--gray, #cbd5e1);">
+        <th style="padding: 10px;">⏰ Horário</th>
+        <th style="padding: 10px;">Segunda (SEG)</th>
+        <th style="padding: 10px;">Terça (TER)</th>
+        <th style="padding: 10px;">Quarta (QUA)</th>
+        <th style="padding: 10px;">Quinta (QUI)</th>
+        <th style="padding: 10px;">Sexta (SEX)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">13:40–14:30</td>
+        <td>—</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="schedule-badge badge-bd"><b>CSECBJI.44</b><br>Banco de Dados</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="schedule-badge badge-asoo"><b>CSECBJI.42</b><br>Análise de Software OO</a></td>
+        <td>—</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="schedule-badge badge-comp"><b>CSECBJI.48</b><br>Compiladores</a></td>
+      </tr>
+      <tr class="intervalo-row">
+        <td style="padding: 4px 10px;">14:30–14:50</td>
+        <td colspan="5" style="padding: 4px 10px;">☕ Intervalo / Transição de Turno (20 min)</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">14:50–15:40</td>
+        <td>—</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="schedule-badge badge-bd"><b>CSECBJI.44</b><br>Banco de Dados</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="schedule-badge badge-asoo"><b>CSECBJI.42</b><br>Análise de Software OO</a></td>
+        <td>—</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="schedule-badge badge-comp"><b>CSECBJI.48</b><br>Compiladores</a></td>
+      </tr>
+      <tr>
+        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">15:40–16:30</td>
+        <td>—</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="schedule-badge badge-bd"><b>CSECBJI.44</b><br>Banco de Dados</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="schedule-badge badge-asoo"><b>CSECBJI.42</b><br>Análise de Software OO</a></td>
+        <td>—</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="schedule-badge badge-comp"><b>CSECBJI.48</b><br>Compiladores</a></td>
+      </tr>
+      <tr class="intervalo-row">
+        <td style="padding: 4px 10px;">16:30–16:40</td>
+        <td colspan="5" style="padding: 4px 10px;">☕ Intervalo (10 min)</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">16:40–17:30</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="schedule-badge badge-ed"><b>CSECBJI.46</b><br>Eletrônica Digital</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="schedule-badge badge-cd"><b>CSECBJI.47</b><br>Comunicação de Dados</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="schedule-badge badge-poo"><b>CSECBJI.45</b><br>Programação OO I</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos</a></td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">17:30–18:20</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="schedule-badge badge-ed"><b>CSECBJI.46</b><br>Eletrônica Digital</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="schedule-badge badge-cd"><b>CSECBJI.47</b><br>Comunicação de Dados</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="schedule-badge badge-poo"><b>CSECBJI.45</b><br>Programação OO I</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos</a></td>
+        <td>—</td>
+      </tr>
+      <tr class="intervalo-row">
+        <td style="padding: 4px 10px;">18:20–18:30</td>
+        <td colspan="5" style="padding: 4px 10px;">☕ Intervalo (10 min)</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">18:30–19:20</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="schedule-badge badge-ed"><b>CSECBJI.46</b><br>Eletrônica Digital</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="schedule-badge badge-cd"><b>CSECBJI.47</b><br>Comunicação de Dados</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="schedule-badge badge-poo"><b>CSECBJI.45</b><br>Programação OO I</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos</a></td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">19:20–20:10</td>
+        <td>—</td>
+        <td>—</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="schedule-badge badge-filo"><b>CSECBJI.43</b><br>Filosofia Ciência & Tec.</a></td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos</a></td>
+        <td>—</td>
+      </tr>
+      <tr class="intervalo-row">
+        <td style="padding: 4px 10px;">20:10–20:20</td>
+        <td colspan="5" style="padding: 4px 10px;">☕ Intervalo (10 min)</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">20:20–21:10</td>
+        <td>—</td>
+        <td>—</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="schedule-badge badge-filo"><b>CSECBJI.43</b><br>Filosofia Ciência & Tec.</a></td>
+        <td>—</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">21:10–22:00</td>
+        <td>—</td>
+        <td>—</td>
+        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="schedule-badge badge-filo"><b>CSECBJI.43</b><br>Filosofia Ciência & Tec.</a></td>
+        <td>—</td>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
 
 ## 🎨 Carrossel de Disciplinas do Período
 
 Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
-  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/bancos-de-dados-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Bancos de Dados I" />
-    <div class="slide-caption">Bancos de Dados I</div>
+  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Análise de Software Orientada a Objetos" />
+    <div class="slide-caption">Análise de Software OO</div>
+  </a>
+  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Filosofia da Ciência e Tecnologia" />
+    <div class="slide-caption">Filosofia da Ciência e Tecnologia</div>
+  </a>
+  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Banco de Dados" />
+    <div class="slide-caption">Banco de Dados</div>
+  </a>
+  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Programação Orientada a Objetos I" />
+    <div class="slide-caption">POO I</div>
+  </a>
+  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Eletrônica Digital" />
+    <div class="slide-caption">Eletrônica Digital</div>
+  </a>
+  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Comunicação de Dados" />
+    <div class="slide-caption">Comunicação de Dados</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Compiladores" />
     <div class="slide-caption">Compiladores</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/circuitos-digitais" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Circuitos Digitais" />
-    <div class="slide-caption">Circuitos Digitais</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Programação Orientada a Objetos I" />
-    <div class="slide-caption">Programação Orientada a Objetos I</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-analogica-ii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Eletrônica Analógica II" />
-    <div class="slide-caption">Eletrônica Analógica II</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Comunicação de Dados" />
-    <div class="slide-caption">Comunicação de Dados</div>
+  <a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Gestão de Projetos" />
+    <div class="slide-caption">Gestão de Projetos</div>
   </a>
 </div>

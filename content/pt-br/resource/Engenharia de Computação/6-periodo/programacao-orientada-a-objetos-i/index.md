@@ -88,4 +88,5 @@ tags:
 > 6. SILVEIRA, P. Introdução à arquitetura e design de software: uma visão sobre a plataforma Java. Rio de Janeiro: Elsevier, 2012.
 
 ## 📝 Anotações e Arquivos Didáticos
+- 📖 **[Short Lecture — Programação Orientada a Objetos I (Compêndio Completo)](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/short-lecture)**
 - 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes)**

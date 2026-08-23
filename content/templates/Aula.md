@@ -1,36 +1,34 @@
 ---
-publish: false
-draft: true
+publish: true
 title: "Aula 01: [NOME DO TÓPICO] — [NOME DA DISCIPLINA]"
-created: '2026-08-08'
-modified: '2026-08-08'
-password: "SEU_PASSWORD_AQUI"
+created: '2026-08-22'
+modified: '2026-08-22'
+password: "eng232"
 tags:
   - aula
   - engenharia-de-computacao
   - anotacoes-de-quadro
 disciplina: "[NOME DA DISCIPLINA]"
 professor: "[NOME DO PROFESSOR]"
-conteudo: "[RESUMO EM UMA FRASE DO CONTEÚDO MINISTRADO NA AULA]"
+conteudo: "[RESUMO EM UMA FRASE DO CONTEÚDO MINISTRADO]"
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]/anotacoes/aula-00-[SLUG]">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]">Anotações da Disciplina</a></b></div>
-  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]/anotacoes/aula-02-[SLUG]">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>
+  <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
 </div>
 
 > [!info] 📌 Informações da Aula & Contexto do Quadro
 > - **Disciplina:** [NOME DA DISCIPLINA]
 > - **Docente Responsável:** [NOME DO PROFESSOR]
 > - **Tópico Principal do Quadro:** [TÓPICO PRINCIPAL]
-> - **Status das Anotações:** 🟢 Completo (Copiado do Quadro + Revisão Pessoal)
+> - **Status das Anotações:** 🟢 Completo
 
 > [!note] 📦 Material Didático e Recursos da Aula
 > ### 📑 Material da Aula
-> - 📄 **[Slides da Aula — Modelo Branco (PDF)](/assets/biblioteca/[SLUG-DISCIPLINA]/slides-aula-01-branco.pdf)** — *Apresentação em tema claro.*
-> - 📄 **[Slides da Aula — Modelo Preto (PDF)](/assets/biblioteca/[SLUG-DISCIPLINA]/slides-aula-01-preto.pdf)** — *Apresentação em tema escuro.*
-> - 📝 **[Notas de Aula em PDF (Apostila Institucional)](/assets/biblioteca/[SLUG-DISCIPLINA]/notes-aula-01.pdf)** — *Material de apoio oficial.*
+> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/)**
+> - 📖 **[Short Lecture da Disciplina](../short-lecture)**
 
 ## 📋 Sumário Interativo
 - [📍 1. Anotações do Quadro: Definições & Teoremas](#-1-anotações-do-quadro-definições--teoremas)
@@ -41,18 +39,18 @@ conteudo: "[RESUMO EM UMA FRASE DO CONTEÚDO MINISTRADO NA AULA]"
 
 ---
 
-## 📌 1. Anotações do Quadro: Definições & Teoremas
+## 📅 Sessão 1 — [DATA]: [Subtópico Teórico]
 
 ### 📐 Definição Fundamental: [NOME DO CONCEITO]
-No contexto de **[NOME DA DISCIPLINA]**, a formulação fundamental estabelece que:
+No contexto de **[NOME DA DISCIPLINA]**, a formulação analítica estabelece que:
 
 $$\mathcal{F}(x) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(x) + \int_{0}^{\infty} \lambda(t) \, dt$$
 
 ---
 
-## 🧮 2. Exemplo do Quadro Resolvido Passo a Passo
+## 📅 Sessão 2 — [DATA]: [Exercícios & Laboratório]
 
-### ✏️ Exercício do Quadro
+### ✏️ Exemplo do Quadro Resolvido Passo a Passo
 Desenvolva a solução analítica para a aplicação de **[CONCEITO]**:
 
 1. **Passo 1:** Identificar os parâmetros de entrada e restrições do sistema.
@@ -95,7 +93,7 @@ flowchart TD
 - [ ] Exercício 02: Revisar os conceitos da bibliografia básica recomendada.
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]/anotacoes/aula-00-[SLUG]">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]">Anotações da Disciplina</a></b></div>
-  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]/anotacoes/aula-02-[SLUG]">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>
+  <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
 </div>

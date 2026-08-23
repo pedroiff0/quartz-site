@@ -1,6 +1,5 @@
 ---
 publish: true
-password: "eng232"
 titulo:  260406-Aula-Pesquisa-1
 disciplina:
 conteudo:

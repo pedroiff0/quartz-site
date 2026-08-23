@@ -1,0 +1,368 @@
+===================================================================================================================================
+
+EMENTA DE Cidadania
+
+EMENTA:
+Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação dos novos aspectos e relações jurídicas da sociedade da informação. Análise das principais manifestações do direito digital e eletrônico nos ramos do direito. Introdução aos mecanismos de governança da internet no Brasil e no mundo. Regulação do ambiente online e o Marco Civil da Internet. Direitos e deveres no ciberespaço. Responsabilidade de usuários, provedores e governo. Inovação nas tecnologias de informação e comunicação. Propriedade intelectual na era digital. Acessibilidade, inclusão digital e ciberativismo. Profissional de computação. Princípios de conduta ética e profissional do engenheiro de software. Propriedade intelectual e pirataria. Privacidade. Responsabilidade social. O que é ética; Código de ética da ACM e IEEE. Direitos autorais e estudos de casos sobre ética na computação. Ética na internet: liberdade de informação, privacidade e censura.
+
+OBJETIVOS:
+• Correlacionar, de forma interdisciplinar, o Direito com a Engenharia de Computação, levando o estudante a compreender a presença do Direito em sua vida pessoal e profissional, assim como em questões contemporâneas que envolvem ética e cidadania;
+• Aprofundar a reflexão sobre a ética, dedicando-se aos estudos sobre valores morais e princípios ideais do comportamento humano, abordando o caráter e a conduta humana, bem como a ética enquanto instrumento mediador das questões de relacionamento entre cidadãos;
+• Capacitar o discente, enquanto cidadão, a reconhecer seus direitos e deveres, bem como a sua importância enquanto agente receptor mas também modificador de direitos, introduzindo-o no universo do Direito, da ética e da cidadania;
+• Proporcionar a percepção do impacto e da influência que as transformações sociais e os instrumentos tecnológicos acarretam nas relações sociais que são regulamentadas pelo Direito, ressaltando situações concretas que envolvem Direito, ética, cidadania e computação;
+• Tratar de leis e códigos de ética no âmbito da Engenharia de Computação, destacando os aspectos jurídicos (legais e jurisprudenciais) pertinentes, em consonância com as diretrizes constitucionais e seus princípios norteadores;
+• Realizar palestras, rodas de conversa e seminários sobre situações concretas que envolvem Direito, ética, cidadania e computação.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Introdução ao Direito, Estado Democrático de Direito e Cidadania:
+- 
+
+- Concepções de Direito; Teoria Tridimensional do Direito; Direito Positivo e Direito Consuetudinário; Hermenêutica.
+
+- 
+
+- Princípios jurídicos e cláusulas gerais do direito: dignidade da pessoa, solidariedade, razoabilidade/proporcionalidade, igualdade, legalidade, contraditório e ampla defesa, boafé, vedação ao enriquecimento ilícito, acesso à Justiça.
+
+- 
+
+- Estado Democrático de Direito; Ordenamento Jurídico Brasileiro com ênfase na Constituição Federal de 1988.
+
+- 
+
+- Conceito de cidadania; exercício de cidadania no Estado Democrático de Direito;
+- Co stituição Cidadã .
+
+- Computação, Internet e Direito
+- 
+
+- A Nova Tecnologia da Informação (Internet); Internet, Estado e Direito; Internet: aspectos constitucionais, liberdade de acesso e proteção do usuário.
+
+- 
+
+- Delitos e responsabilidade na rede; Internet: entre a liberdade e a censura; Internet: delitos possíveis e tentativas de controle; crimes virtuais e delitos informáticos (Lei n. 12.737/2012) no Código Penal Brasileiro.
+
+- 
+
+- Computação, Internet e Privacidade; direito à privacidade; Internet: privacidade, liberdade e
+- poder público.
+
+- 
+
+- Computação, Internet e Direito de Autor; Lei n. 9.610/98 sobre direitos autorais; Lei n.
+9. 610/98 sobre propriedade intelectual de programa de computador; Lei n. 9.610/98 sobre propriedade industrial.
+
+- 
+
+- Responsabilidade Civil na Internet e no Mercado Informático; Responsabilidade no Código Civil (Lei n. 10.406/ 2002); Internet e aplicação das várias modalidades de culpa; Internet e aplicação da teoria do risco; Internet: riscos previsíveis; Internet e excludentes da responsabilidade; Internet: dano moral e sua irreparabilidade; Marco Civil da Internet (Lei nº 12.965/2014) e direito ao esquecimento.
+
+- Cidadania e Computação
+- 
+
+- Ética versus Moral; Normas morais, jurídicas e religiosas; Senso moral e consciência moral;
+- Juízo de fato e juízo de valor; Ética e violência; Liberdade e autonomia; Os constituintes do campo ético: agente moral, os meios morais e os valores ou fins éticos.
+3. 2. Ética e Computação; Critérios éticos; O profissional de computação; Abrangência da ética na computação; A importância do raciocínio na tomada de decisões.
+
+- 
+
+- Ética e Regulamentação da Profissão; Códigos de Ética Profissional; Código de ética da ACM;
+- Código de ética da IEEE; Código de ética do Conselho Federal de Engenharia e Agronomia;
+- Métodos para tomadas de decisão em situações éticas.
+
+- 
+
+- Acesso não autorizado; Crimes envolvendo computadores; Hacking; Tipos de invasões;
+- Propriedade intelectual e responsabilidade; Direito Autoral; Patente; Segredo de negócio;
+- Engenharia reversa; Ética na Internet.
+
+- Computação e Cidadania
+- 
+
+- Evolução histórica do conceito de cidadania; Contratualismo e Estado Democrático de Direito; Racionalismo, Democracia e Direitos Fundamentais; Liberalismo Político x Liberalismo Econômico; Welfare State; direitos e garantias individuais do cidadão na CRFB/88; direitos sociais na CRFB/88.
+
+- 
+
+- Breve História do Brasil: desigualdades e luta por direitos; mitigação das desigualdades sociais e políticas afirmativas; cultura e relações étnico-raciais no Brasil.
+
+- 
+
+- Internet, redes sociais, globalização e cultura no viés da cidadania; inclusão digital; software livre x software proprietário; educação e ferramentas tecnológicas; conceitos de cultura, multiculturalismo, identidade, pertencimento, etnia, racismo, etnocentrismo e preconceito racial; formas de preconceito e discriminação étnico-raciais socialmente construídas, assim como busca de estratégias que permitam eliminá-las das representações sociais e coletivas.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. DI FELICE, M. A Cidadania Digital: a crise da ideia ocidental de democracia e a participação nas redes sociais São Paulo; Paulus, 2021.
+
+2. QUARESMA, R. A. Ética, direito e cidadania: Brasil sociopolítico e jurídico atual. Curitiba:Juruá Editora, 2008.
+
+3. MASIERO, P. C. Ética em Computação. São Paulo: EDUSP, 2008.
+
+4. PAESANI, L. M. Direito e Internet – Liberdade de Informação, Privacidade e Responsabilidade Civil.
+5. São Paulo: Atlas, 2014.
+
+6. ____________. Manual de Propriedade Intelectual: Direito de Autor, Direito da Propriedade Industrial, Direitos Intelectuais Sui Generes. São Paulo: Atlas, 2012.
+
+7. PINHEIRO, P. P. Direito Digital.
+8. ª ed. São Paulo: Saraiva, 2021.
+
+9. ROVER, A. J. (org). Direito e Informática. São Paulo: Manole, 2004.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BARCELLOS, A. P. A eficácia jurídica dos princípios constitucionais: o princípio da dignidade da pessoa humana. Rio de Janeiro: Renovar, 2002.
+
+2. BARROS FILHO, Clóvis de; POMPEU, Júlio. A Filosofia Explica as Grandes Questões da Humanidade.
+3. Rio de Janeiro/São Paulo: Casa do Saber/Casa da Palavra, 2013.
+4. CASTELLS, M. Redes de indignação e esperança: movimentos sociais na era da internet. Rio de Janeiro: Zahar, 2013.
+5. COMPARATO, F. C. Ética: Direito, Moral e Religião no Mundo Moderno. São Paulo: Companhia das Letras, 2006.
+6. LEAL, S. R. C. S. Contratos Eletrônicos: Validade Jurídica dos Contratos Via Internet. São Paulo:
+7. Atlas. 2009 MARCONDES, D. Textos Básicos de Ética: De Platão a Foucault. Rio de Janeiro: Zahar, 2007.
+8. PAESANI, L. M. Direito e Internet – Liberdade de Informação, Privacidade e Responsabilidade Civil.
+9. São Paulo: Atlas, 2014.
+10. PEKKA, H. A Ética dos Hackers e o espírito da era da informação: a diferença entre o bom e o mau hacker. Rio de Janeiro: Campus, 2001.
+11. PINHEIRO, Patricia Peck (org.). Direito Digital Aplicado. São Paulo: Intelligence, 2012.
+
+12. PINSKY, J; PINSKY, C. História da Cidadania. São Paulo: Contexto, 2003.
+13. SILVA, R. B. T.; SANTOS, M. J. P. Responsabilidade Civil na Internet e Nos Demais Meios de Comunicação. São Paulo: Saraiva, 2012.
+14. TARTUCE, Flávio. Manual de Direito Civil – volume único. São Paulo: Método, 2013.
+15. VALLS, Álvaro L. M. O que é Ética. São Paulo: Brasiliense, 2002.
+
+===================================================================================================================================
+
+EMENTA DE Projeto Final de Curso I
+
+EMENTA:
+Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de Elaboração de Documentos Técnicos; Técnicas de Criatividade; Orientação sobre Preparação e Apresentação de Palestra; Técnicas de Subdivisão de Trabalho; Estabelecimento de Cronograma; Orçamento de Projeto; Desenvolvimento do Projeto de Fim de Curso.
+
+OBJETIVOS:
+• rientar o aluno no desenvolvimento do projeto final
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Metodologia de Planejamento;
+- rientação de Pesquisa Bibliográfica;
+- Regras de Elaboração de Documentos Técnicos;
+- Técnicas de Criatividade;
+- rientação sobre Preparação e Apresentação de Palestra;
+- Técnicas de Subdivisão de Trabalho;
+- Estabelecimento de Cronograma;
+- rçamento de Projeto;
+- Desenvolvimento do Projeto de Fim de Curso.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo: Atlas, 2017.
+2. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
+
+3. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo:
+4. Elsevier, 2014.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto. 3ª Edição. Porto Alegre: São Paulo, 2010.
+2. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.
+3. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 2017.
+4. ______. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017.
+5. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição. São Paulo:
+6. Penso, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Empreendedorismo
+
+EMENTA:
+Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor e medidas de qualidade. Startups.
+
+OBJETIVOS:
+• Proporcionar aos acadêmicos o conhecimento das características empreendedoras, a busca das oportunidades de negócios e o desenvolvimento do plano de negócios de empresas, bem como prepará-los para empreender e avaliar os riscos em atividades voltadas a sua atuação na área da engenharia de computação.
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Empreendedor e os Fatores de Sucesso
+- 
+- 
+- 
+- 
+- 
+- 
+
+- Conceito de Empreendedorismo O que é ser Empreendedor Perfil empreendedor e autoavaliação de competências Empreendedor de negócios e de empresas Fatores de sucesso Depoimento de um empreendedor
+
+- 
+
+- Marketing do Gerente Empreendedor
+- 
+- 
+- 
+- 
+
+- caso das MPEs, seus números e importância, informalidade Aspectos do Mercado Brasileiro e Global Análise de Cenários Importância das Relações com o Mercado Formulação de redes
+
+- Mercado e as Oportunidades de Negócios
+- 
+- 
+- 
+- 
+- 
+- 
+
+- Ambiente de Estímulo ao Empreendedorismo Cultura Empreendedora Intraempreendedorismos nas empresas O Gerente e o Colaborador Empreendedor
+
+- Empreendedor e a Economia de Mercado
+- 
+- 
+- 
+- 
+- 
+
+- Estudo de caso de empreendedores
+
+- portunidades em Mercados Inovadores e Tradicionais Oportunidades em Negócios Inovadores e Tradicionais Estímulos do Governo e de Outros Orgãos ao Empreendedorismo Leis Voltadas às Microempresas Empreendedorismo Social Estudos de Caso de Empresas
+
+- Plano de Negócios
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- Prospecção de Oportunidades Etapas de um Plano de Negócios Aspectos de Marketing Aspectos de Produção Aspectos da gestão Financeira Aspectos e Medidas da Qualidade Simulação de um Plano de Negócios
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004.
+2. CHÉR, R. Empreendedorismo na veia: um aprendizado constante. Rio de Janeiro: Elsevier: SEBRAE,
+3. TAJRA, S. F. Empreendedorismo: Conceitos e Práticas Inovadoras. 1 Ed. São Paulo. Érica, 2014.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. DRUCKER, P. F. Inovação e espírito empreendedor: prática e princípios. São Paulo: Pioneira, 2005. liveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo:
+3. Atlas, 2011;
+4. KOTLER, P. Administração de marketing.
+5. KOTLER, P; KELLER, K.L.; Tradução YAMAMOTO, S. M.;
+6. Revisão técnica CRESCITELLI, E. 14ª ed. Pearson Education do Brasil. São Paulo, SP.
+7. DORNELAS, J, C. Empreendedorismo: transformando ideias em negócios. 2.ed. Rio de Janeiro:
+8. Elsevier, 2001.
+9. TELLES, A.& MATOS, C. O empreendedor Viável: uma mentoria para empresas na época da cultura startup. Rio de Janeiro: Le Ya, 2013.
+10. RIES, E. A startup enxuta: como os empreendedores atuais utilizam a inovação contínua para criar empresas extremamente bem-sucedidas. São Paulo: Lua de Papel, 2012.
+11. BERNARDI, L.A.. Manual de empreendedorismo e gestão: fundamentos, estratégias e dinâmicas. São Paulo, SP: Atlas, 2010. 314 p.
+12. DEGEN, J, R. O empreendedor: fundamentos da iniciativa empresarial. São Paulo: Pearson Education do Brasil, 1989.
+13. Negócios de impacto socioambiental no Brasil: como empreender, financiar e apoiar / Organizadores: Edgard Barki, Graziella Maria Comini, Haroldo da Gama Torres. - Rio de Janeiro : FGV Editora, 2019. 376 p.
+
+===================================================================================================================================
+
+EMENTA DE Sistemas Embarcados
+
+EMENTA:
+Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementação. Programação concorrente. Núcleos operacionais. Escalonamento.
+
+OBJETIVOS:
+• Apresentar os conceitos, problemas e soluções típicas no desenvolvimento de sistemas computacionais embarcados, incluindo os que operam em tempo real.
+• Realizar o processo de desenvolvimento de um sistema em tempo real, em laboratório, desde a sua especificação até o teste final.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Sistemas de Tempo Real
+- Caracterização de Sistemas Embarcados Operando em Tempo Real;
+2. Sistemas Embarcados: Modelagem, Projeto e Implementação
+- Processo de Desenvolvimento de Sistemas Embarcados
+- Modelagem e Projeto de Sistemas Embarcados Através de Statecharts
+- Estrutura de Implementação de Sistemas Embarcados
+3. Programação Concorrente
+- Conceituação de Concorrência
+- Problema de Exclusão Mútua
+- Comunicação e Sincronização em Memória Compartilhada
+- Comunicação e Sincronização via Troca de Mensagens 4. Núcleos Operacionais
+- Conceituação de Núcleos Operacionais
+- Funcionalidades de Núcleos Operacionais 5. Escalonamento
+- Conceituação
+- Objetivos
+- Escalonadores Canônicos
+- Escalonamento por Prioridades
+- Escalonamento em Taxa Monotônica
+- Modelagem Matemática de Escalonadores
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
+2. DENARDIN, G. W. Sistemas Operacionais de Tempo Real e sua Aplicação em Sistemas Embarcados.
+3. São Paulo: 2019.
+4. SHAW, A. C. Sistemas e Software de Tempo Real. Porto Alegre: Bookman, 2003.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
+2. LIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição.
+3. São Paulo: Erica, 2010.
+4. STEVAN JR., S. L., SILVA, R. A. A. Automação e Instrumentação Industrial com Arduino: Teoria e Projetos. São Paulo: Erica, 2015.
+5. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+6. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+7. Porto Alegre: Bookman, 2018.
+
+===================================================================================================================================
+
+EMENTA DE Sistemas Distribuídos
+
+EMENTA:
+Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sincronização em Sistemas Distribuídos; Modelo de Falha e Segurança; Middewares para Aplicações Distribuídas; Transações Distribuídas e Controle de Concorrência.
+
+OBJETIVOS:
+• Conhecer e aplicar conceitos e tecnologias de Sistemas Distribuídos
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Conceito de Sistemas Distribuídos
+- Definição e Principais Características de Sistemas Distribuídos
+- Motivação para o Desenvolvimento de Aplicações Distribuídas
+2. Motivação para o Desenvolvimento de Aplicações Distribuídas
+3. Exemplos de Sistemas Distribuídos 4. Aspectos de Heterogeneidade, abertura, segurança, escalabilidade, tolerância a falhas, concorrência e transparência em sistemas distribuídos 5. Arquitetura de Sistemas Distribuídos
+- Cliente-Servidor
+- Peer-to-Peer 6. Sincronização em Sistemas Distribuídos
+- Modelo de Interação i. Síncrono
+- Assincrono 7. Características da comunicação entre processos 8. Primitivas de comunicação 9. Sincronização interna e externa de relógios físicos 10. Modelo de Falha e Segurança
+- Modelo de Falhas i. Falhas em Processos e em Canais de comunicação
+- Modelo de Segurança i. Ameaças
+- Métodos de ataque
+- Mecanismo de segurança 11. Middleware para Aplicações Distribuídas
+- Comunicação entre Objetos Distribuídos
+
+- Referência de Objetos Remotos
+- Serviço de Nomes
+- Arquitetura de Eventos e Notificações
+- Middleware para Aplicações Distribuídas 12. Transações Distribuídas e Controle de Concorrência
+- Propriedades ACID de uma Transação
+- Estados de uma Transação
+- Protocolos de efetivação de uma transação
+- Transações planas e aninhadas
+- Leituras sujas, cancelamento em cascata, escritas prematuras 13. Controle de concorrência 14. Impasses
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
+2. Porto Alegre: Bookman, 2007.
+3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
+4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
+2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+3. Pearson, 2013.
+4. RHODES, B.
+5. GOERZEN, J. Programação de Redes com Python: Guia Abrangente de Programação e Gerenciamento de Redes com Python 3. São Paulo: Novatec, 2015.
+6. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+7. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+8. Porto Alegre: Bookman, 2018.
+
+===================================================================================================================================
+
+EMENTA DE Algoritmos e Técnicas de Programação
+
+EMENTA:
+Sem ementa disponível no PDF.
+
+===================================================================================================================================
+
+EMENTA DE Matemática Discreta
+
+EMENTA:
+Sem ementa disponível no PDF.
+
+===================================================================================================================================
+
+EMENTA DE Química
+
+EMENTA:
+Sem ementa disponível no PDF.

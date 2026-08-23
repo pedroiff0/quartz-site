@@ -1,6 +1,5 @@
 ---
 publish: true
-password: "eng232"
 titulo:  260405-Aula-Diodos-1
 disciplina:
 conteudo:
@@ -97,3 +96,4 @@ PDF
 
 
 Exemplo 3.2
+

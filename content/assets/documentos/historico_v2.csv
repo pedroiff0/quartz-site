@@ -1,0 +1,83 @@
+Período;Ano;Semestre;Componente Curricular;CH;CH_SUAP;Créditos;Nota;Frequência;Situação
+;2026;1;Dimensionamento de Redes de Computadores;60;50,00;60;6,1;85;Aprovado
+1;2023;2;Fundamentos da Computação;40;33,33;40;9,5;100;Aprovado
+1;2023;2;Cálculo I;120;100,00;120;1,7;100;Reprovado
+1;2024;1;Cálculo I;120;100,00;120;3,0;100;Reprovado
+1;2025;1;Cálculo I;120;100,00;120;6,0;100;Aprovado
+1;2023;2;Álgebra Linear e Geometria Analítica I;80;66,66;80;5,3;100;Reprovado
+1;2024;1;Álgebra Linear e Geometria Analítica I;80;66,66;80;5,6;80;Reprovado
+1;2025;1;Álgebra Linear e Geometria Analítica I;80;66,66;80;2,7;85;Reprovado
+1;2026;1;Álgebra Linear e Geometria Analítica I;80;66,66;80;6,0;92;Aprovado
+1;2023;2;Teoria Geral da Administração;60;50,00;60;8,1;90;Aprovado
+1;2023;2;Desenho Técnico para Engenharia;80;66,66;80;6,5;90;Aprovado
+1;2023;2;Expressão Oral e Escrita;40;33,33;40;8,4;100;Aprovado
+1;2023;2;Introdução à Engenharia;40;33,33;40;10,0;100;Aprovado
+1;2023;2;Lógica para Computação;60;50,00;60;3,9;100;Reprovado
+1;2024;1;Lógica para Computação;60;50,00;60;6,6;100;Aprovado
+2;;;Cálculo II;80;66,66;80;;;Não Cursado
+2;2025;2;Cálculo II;80;66,66;80;2,5;100;Reprovado
+2;;;Álgebra Linear e Geometria Analítica II;80;66,66;80;;;Não Cursado
+2;;;Física I;80;66,66;80;;;Não Cursado
+2;;;Física Experimental I;40;33,33;40;;;Não Cursado
+2;2024;2;Química;60;50,00;60;6,0;85;Aprovado
+2;;;Química Experimental;40;33,33;40;;;Não Cursado
+2;2024;2;Química Experimental;40;33,33;40;0,0;5;Reprovado por Falta
+2;2025;2;Química Experimental;40;33,33;40;4,1;90;Reprovado
+2;2024;1;Algoritmos e Técnicas de Programação;60;50,00;60;5,3;95;Reprovado
+2;2024;2;Algoritmos e Técnicas de Programação;60;50,00;60;6,9;85;Aprovado
+2;;;Matemática Discreta;60;50,00;60;;;Não Cursado
+2;2024;2;Matemática Discreta;60;50,00;60;0,0;77;Reprovado
+2;2025;2;Matemática Discreta;60;50,00;60;3,2;100;Reprovado
+3;;;Cálculo III;80;66,66;80;;;Não Cursado
+3;;;Equações Diferenciais;80;66,66;80;;;Não Cursado
+3;;;Física II;80;66,66;80;;;Não Cursado
+3;;;Física Experimental II;40;33,33;40;;;Não Cursado
+3;;;Mecânica dos Sólidos;80;66,66;80;;;Não Cursado
+3;;;Introdução à Ciência dos Materiais;60;50,00;60;;;Não Cursado
+3;2026;1;Ciências do Ambiente;40;33,33;40;9,0;100;Aprovado
+3;2025;1;Algoritmos e Estruturas de Dados I;60;50,00;60;7,0;98;Aprovado
+4;;;Cálculo Numérico;80;66,66;80;;;Não Cursado
+4;;;Física III;80;66,66;80;;;Não Cursado
+4;;;Física Experimental III;40;33,33;40;;;Não Cursado
+4;;;Fenômenos de Transporte;80;66,66;80;;;Não Cursado
+4;;;Probabilidade e Estatística;60;50,00;60;;;Não Cursado
+4;2024;1;Probabilidade e Estatística;60;50,00;60;3,8;85;Reprovado
+4;;;Cálculo IV;80;66,66;80;;;Não Cursado
+4;2025;1;Economia;40;33,33;40;8,5;94;Aprovado
+4;2025;2;Algoritmos e Estruturas de Dados II;60;50,00;60;9,0;100;Aprovado
+5;;;Eletricidade Aplicada;60;50,00;60;;;Não Cursado
+5;2024;2;Gestão Ambiental;60;50,00;60;6,1;95;Aprovado
+5;;;Projeto e Análise de Algoritmos;60;50,00;60;;;Não Cursado
+5;2025;2;Engenharia de Software;60;50,00;60;10,0;95;Aprovado
+5;;;Eletrônica Analógica;60;50,00;60;;;Não Cursado
+5;2026;1;Paradigmas de Linguagem de Programação;60;50,00;60;8,0;90;Aprovado
+5;;;Avaliação e Desempenho de Sistemas;60;50,00;60;;;Não Cursado
+5;;;Linguagens Formais e Autômatos;60;50,00;60;;;Não Cursado
+5;;;Modelagem de Dados;40;33,33;40;;;Não Cursado
+6;;;Eletrônica Digital;60;50,00;60;;;Não Cursado
+6;2025;1;Comunicação de Dados;60;50,00;60;7,0;100;Aprovado
+6;;;Compiladores;60;50,00;60;;;Não Cursado
+6;;;Análise de Software Orientado a Objetos;60;50,00;60;;;Não Cursado
+6;2025;1;Filosofia da Ciência e Tecnologia;60;50,00;60;7,3;93;Aprovado
+6;;;Banco de Dados;60;50,00;60;;;Não Cursado
+6;;;Programação Orientada a Objetos I;60;50,00;60;;;Não Cursado
+7;2025;2;Organização de Computadores;60;50,00;60;7,0;100;Aprovado
+7;;;Sistemas Operacionais I;60;50,00;60;;;Não Cursado
+7;;;Projeto de Software Orientado a Objetos;60;50,00;60;;;Não Cursado
+7;;;Programação Orientada a Objetos II;60;50,00;60;;;Não Cursado
+7;;;Sistemas Digitais;60;50,00;60;;;Não Cursado
+7;;;Computação, Sociedade e Inclusão;60;50,00;60;;;Não Cursado
+7;2025;2;Redes de Computadores I;60;50,00;60;8,5;95;Aprovado
+8;2026;1;Metodologia Cientifica e Tecnológica;40;33,33;40;10,0;100;Aprovado
+8;;;Segurança e Higiene do Trabalho;80;66,66;80;;;Não Cursado
+8;;;Sistemas Operacionais II;60;50,00;60;;;Não Cursado
+8;;;Arquitetura de Computadores;60;50,00;60;;;Não Cursado
+8;2026;1;Redes de Computadores II;60;50,00;60;9,0;100;Aprovado
+8;2026;1;Microcontroladores;60;50,00;60;10,0;100;Aprovado
+9;;;Direito, Ética e Cidadania;60;50,00;60;;;Não Cursado
+9;;;Projeto Final de Curso I;80;66,66;80;;;Não Cursado
+9;;;Empreendedorismo;40;33,33;40;;;Não Cursado
+9;;;Sistemas Embarcados;60;50,00;60;;;Não Cursado
+9;;;Sistemas Distribuídos;60;50,00;60;;;Não Cursado
+10;;;Projeto Final de Curso II;80;66,66;80;;;Não Cursado
+;2026;1;Gestão de Projetos;96;80,00;96;10,0;100;Aprovado

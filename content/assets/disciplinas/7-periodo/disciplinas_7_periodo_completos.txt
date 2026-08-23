@@ -1,0 +1,343 @@
+===================================================================================================================================
+
+EMENTA DE Projeto de Software Orientado a Objetos 2020
+
+EMENTA:
+Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.
+
+OBJETIVOS:
+• Aprofundar os conhecimentos acerca de projetos de software orientado à objetos;
+
+CONTEÚDOS PROGRAMÁTICOS:
+29. Princípios de Projeto Orientado a Objetos
+- Single Responsibility Principle
+- Open/Closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle 30. Padrões de Projeto
+- Padrões de Criação i. Abstract Factory ii. Builder iii. Factory Method iv. Prototype v. Singleton
+- Padrões Estruturais i. Adapter ii. Bridge iii. Composite iv. Decorator v. Façade vi. Flyweight vii. Proxy
+- Padrões Comportamentais i. Chain of Responsability ii. Command iii. Interpreter iv. Iterator v. Mediator vi. Memento vii. Observer viii. State ix. Strategy x. Template Method xi. Visitor
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. FREEMAN, E.; FREEMAN, E. Use a cabeça! Padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books,
+2. GAMMA, E., HELM, R., JHONSON, R., VLISSIDES, J. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. Porto Alegre: Bookman, 2000.
+3. SILVEIRA, P., SILVEIRA, G., LOPES, S., MOREIRA, G., STEPPAT, N., KUNG, F. Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java. São Paulo: Elsevier, 2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017.
+2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier,
+3. DENNIS, A., WIXOM, B. H., ROTH, R. H. Análise e Projeto de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 4. ENGHOLM JR., H. Análise e Design Orientados a Objetos. São Paulo: Novatec, 2013.
+4. GOES, W. M. Aprenda UML por Meio de Estudos de Caso. São Paulo: Novatec, 2014.
+
+===================================================================================================================================
+
+EMENTA DE Programação Orientada a Objetos II
+
+EMENTA:
+Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.
+
+OBJETIVOS:
+• Aprofundar os conhecimentos acerca de programação orientado à objetos;
+
+CONTEÚDOS PROGRAMÁTICOS:
+31. Princípios de Projeto Orientado a Objetos
+- Single Responsibility Principle
+- Open/Closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle 32. Padrões de Projeto
+- Padrões de Criação i. Abstract Factory ii. Builder iii. Factory Method iv. Prototype v. Singleton
+- Padrões Estruturais i. Adapter ii. Bridge iii. Composite iv. Decorator v. Façade vi. Flyweight vii. Proxy
+- Padrões Comportamentais i. Chain of Responsability ii. Command iii. Interpreter iv. Iterator v. Mediator vi. Memento vii. Observer viii. State
+
+- ix. Strategy x. Template Method xi. Visitor
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. FREEMAN, E.; FREEMAN, E. Use a cabeça! Padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books, 5.
+2. GAMMA, E., HELM, R., JHONSON, R., VLISSIDES, J. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. Porto Alegre: Bookman, 2000.
+3. SILVEIRA, P., SILVEIRA, G., LOPES, S., MOREIRA, G., STEPPAT, N., KUNG, F. Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java. São Paulo: Elsevier, 2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017.
+2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier,
+
+3. DENNIS, A., WIXOM, B. H., ROTH, R. H. Análise e Projeto de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 9. ENGHOLM JR., H. Análise e Design Orientados a Objetos. São Paulo: Novatec, 2013.
+4. GOES, W. M. Aprenda UML por Meio de Estudos de Caso. São Paulo: Novatec, 2014.
+
+===================================================================================================================================
+
+EMENTA DE Organização de Computadores
+
+EMENTA:
+Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dispositivos de Entrada/Saída
+
+OBJETIVOS:
+• Proporcionar conhecimentos introdutórios e essenciais de teoria e prática em Arquitetura e Organização de Computadores, bem como possibilitar ao aluno embasamento para as disciplinas seguintes do curso.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Arquitetura Básica de Processador
+- Unidade Central de Processamento i. Unidade de Controle ii. Unidade Lógica e Aritmética iii. Registradores
+- Barramento Internos
+- Ciclo Básico de Instrução (Busca-Decodifica-Executa)
+2. Memórias
+- Memória Primária i. Endereços de Memória ii. Códigos de Correção de Erros iii. Memória Cache iv. Empacotamento e Tipos de Memória
+- Memória Secundária i. Discos Magnéticos
+
+- ii. Discos Flexíveis iii. Discos Óticos
+3. Entrada/Saída
+- Barramentos
+- Terminais
+- Dispositivos Apontadores
+- Impressoras
+- Equipamentos de Telecomunicações
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
+2. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
+3. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003.
+2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007.
+3. HENNESSY, J. Organização e Projeto de Computadores. 5ª Edição. São Paulo: Elsevier, 2017.
+4. HENESSY, J. L., PATTERSON, D. A. Arquitetura de Computadores. Uma Abordagem Quantitativa. 5ª Edição. São Paulo: Elsevier, 2013.
+
+5. WEBER, R. F. Fundamentos de Arquitetura de Computadores. 4ª Edição. Porto Alegre: Bookman,
+
+===================================================================================================================================
+
+EMENTA DE Sistemas Digitais
+
+EMENTA:
+Análise e síntese de circuitos digitais sequenciais; contadores e registradores; famílias lógicas, circuitos integrados; conversores: analógico / digital e digital/ analógico; dispositivos de memórias; noções de dispositivos programáveis.
+
+OBJETIVOS:
+• Dimensionar e interpretar circuitos eletrônicos digitais. Analisar e sintetizar circuitos sequenciais;
+• Caracterizar as diferentes famílias lógicas aplicadas em circuitos digitais;
+• Compreender as técnicas de conversão digital analógica e analógico-digital;
+• Analisar e projetar sistemas digitais lógicos e programáveis.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Análise e Síntese de Circuitos Digitais
+- Contadores Síncronos e Assíncronos
+- Projetos de Máquinas Sequenciais Síncronas i. Tabela de Transição ii. Diagramas de Estado
+- Geradores e Detectores de Sequências
+- Registradores Série-Paralelo
+- Registradores de deslocamento
+- Aplicação de Simbologia IEC g. Circuitos Integrados Comerciais
+2. Características das Famílias Lógicas Digitais
+- Estrutura Interna
+- Características
+- Parâmetros Elétricos
+- Limitações
+- Aplicações das Tecnologias RTL, TTL, ETL, CMOS e BiCMOS
+- Subfamílias ou Séries
+
+- 
+
+- Restrições de Carregamento e Interfaceamento de Diferentes Famílias Tecnológicas em Circuitos Digitais
+3. Conversores Analógico-Digital e Digital-Analógica
+- Conversores DA i. Em Rede Resistiva Ponderada ii. Em Rede R-2R
+- Conversores AD i. Paralelo ii. Rampa Simples iii. Rampa Dupla iv. Aproximação Sucessiva v. Modulador delta vi. Circuitos de Amostragem vii. Retenção, Quantização e Codificação Digital 4. Dispositivos de Memórias
+- Memórias Semicondutoras i. ROM ii. PROM iii. EPROM iv. EEPROM v. Flash vi. SRAM vii. DRAM
+- Características Elétricas e Pinagem de Circuitos Integrados Comerciais
+- Saídas de Alta Impedância, Barramentos de I/O, Endereçamento e Sinais de Controle
+- Associação de Memórias
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
+2. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo:
+3. Elsevier, 2016.
+4. TOCCI, R. J., WIDMER, N. S., MOSS, G. L. Sistemas Digitais: Princípios e Aplicações. 11ª Edição. São Paulo: Pearson, 2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
+2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
+3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
+4. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 2: Sistemas Sequenciais. São Paulo:
+5. Bookman, 2013.
+6. VAHID, F. Sistemas Digitais: Projeto, Otimização e HDLs. Porto Alegre: Bookman, 2008.
+
+===================================================================================================================================
+
+EMENTA DE Computação, Sociedade e Inclusão
+
+EMENTA:
+Apropriações da computação e relações de poder: o espaço público, o privado e o sujeito. Recursos e repositórios educacionais abertos. Conteúdos e identidade cultural. Cidadania e educação na sociedade digital. Ferramental tecnológico como construção sócio-cultural.
+
+OBJETIVOS:
+• Capacitar o aluno para entender as questões sociais, éticas, econômicas, culturais e políticas associadas ao uso do computador.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Fundamentação e Discussão Crítica acerca de Computação e Sociedade:
+- Aspectos Sociais;
+- Aspectos Econômicos;
+- Aspectos Culturais;
+- Aspectos Políticos;
+2. computador na sociedade atual:
+- Aplicação de Computadores e sua Influência na Sociedade;
+- Vantagens e Desvantagens da Automação;
+3. Apropriações da Computação e Relações de Poder:
+- O espaço público, o privado e o sujeito.
+4. Recursos e Repositórios Educacionais Abertos:
+- Histórico
+- Definições
+- Políticas Públicas
+5. d. Projetos Conteúdos e Identidade Cultural:
+- Homem, Cultura e Sociedade;
+- Estudo da Cultura e o Trabalho Etnográfico;
+- Universalismo e Particularismo;
+- Identidade Individuais e Sociais;
+- Cultura Contemporânea, Sociedade e Tecnologias de Informação e Comunicação.
+- Cidadania e Educação na Sociedade Digital
+- Educação i. Educação Presencial ii. Educação à Distância
+- Cidadania
+6. c. Educação, Cidadania e Inclusão Social Ferramental Tecnológico como Construção Sócio-Cultural:
+- Tecnologia Social: Conceitos e Debates;
+
+- Tecnologia Social e Tecnologia Convencional
+- Tecnologia Social no Brasil
+- Tecnologia no Mundo Relevância Social e Investimento em Tecnologia Social
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. HALL, S. A Identidade Cultural na Pós-Modernidade. Rio de Janeiro: Lamparina, 2019.
+2. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. São Paulo: Arquipélago, 2018.
+3. SOUZA, J. (et. al). A Sociedade de Controle: manipulação e modulação nas redes sociais. São Paulo:
+4. Hedra, 2021.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2013.
+2. ______. O Poder da Identidade. São Paulo: Paz e Terra, 2018.
+3. CAZELOTO, E. Inclusão Digital: uma visão crítica. São Paulo: Senac, 2019.
+4. FREIRE, P. Extensão ou Comunicação?. 8ª Edição. Rio de Janeiro: Paz e Terra, 2021.
+5. FREIRE, E., BATISTA, S. S. S. Sociedade e Tecnologia na Era Digital. São Paulo: Erica, 2014.
+6. HOOKS, B. Ensinando a Transgredir: A Educação como Prática da Liberdade. 2ª Edição. São Paulo:
+7. WMF Martins Fontes, 2017.
+8. PISCHETOLA, M. Inclusão digital e educação: a nova cultura da sala de aula.
+9. Petrópolis: Vozes, 2016.
+10. VALLEJO, A. P., ZWIEREWICZ, M., COPPETE, M. C., BORGES, M. K., PEREIRA, C. D. Sociedade da Informação, Educação Digital e Inclusão. Santa Catarina: Insular, 2007.
+
+===================================================================================================================================
+
+EMENTA DE Redes de Computadores I
+
+EMENTA:
+Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Redes; Qualidade de Serviço; Segurança; Protocolo IP.
+
+OBJETIVOS:
+• Apresentar os princípios básicos de redes de computadores.
+• Estudar os fundamentos de redes para que o acadêmico consiga estruturar, planejar, e configurar uma estrutura básica de redes;
+
+• Compreender as camadas de referência das estruturas de redes;
+• Entender endereçamento IP para configuração e planejamento de redes.
+
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Introdução as Redes de Computadores
+- Conceituação
+- Tipos
+- Topologias
+
+- Evolução e Histórico das Redes de Computadores
+- Equipamentos Utilizados Modelos OSI e TCP/IP
+- Modelo OSI e Modelo TCP/IP
+- Camadas do Modelo OSI i. Física ii. Enlace iii. Rede iv. Transporte v. Sessão vi. Apresentação vii. Aplicação
+- Camadas do Modelo TCP/IP i. Rede ii. Internet iii. Transporte iv. Aplicação
+- Modelo OSI x Modelo TCP/IP Arquitetura das Redes
+- Escalabilidade
+- Tolerância à Falhas Qualidade de Serviço Segurança Meio de Comunicação
+- Fio de Cobre
+- Sem Fio
+- Óptico Protocolo IP
+- Conceituação do Protocolo IP
+- Endereçamento IP
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre:
+2. Bookman, 2015.
+3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem TopDown. 6ª Edição. Pearson, 2013.
+4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books, 2009.
+2. CARISSIMI, A. S., ROCHOL, J.
+3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman, 2017.
+4. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 4.
+5. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo:
+6. Novatec, 2015.
+
+7. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.
+
+===================================================================================================================================
+
+EMENTA DE Sistemas Operacionais I
+
+EMENTA:
+Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Memória.
+
+OBJETIVOS:
+• Compreender o funcionamento dos mecanismos internos de Sistemas Operacionais.
+
+CONTEÚDOS PROGRAMÁTICOS:
+8. Introdução
+- O que é um Sistema Operacional?
+- Revisão sobre Hardware de Computadores
+- Tipos de Sistemas Operacionais
+- Conceitos sobre Sistemas Operacionais i. Processos ii. Espaços de Endereçamento iii. Arquivos iv. Entrada e Saída v. Segurança vi. Interpretador de Comandos
+- Chamadas de Sistemas i. Chamadas de Gerenciamento de Processos ii. Chamadas de Gerenciamento de Gerenciamento de Arquivos iii. Chamadas de Gerenciamento de Diretórios iv. Outras Chamadas de Sistema
+- Estrutura de Sistemas Operacionais i. Sistemas Monolíticos ii. Sistemas em Camadas iii. Micronúcleo iv. Modelo Cliente-Servidor v. Máquinas Virtuais vi. Exonúcleo 9. Processos e Threads
+- Processos
+- Threads
+- Comunicação entre Processos
+- Escalonamento
+- Problemas Básicos de IPC 10. Gerenciamento de Memória
+- Sem Abstração de Memória
+- Abstração de Memória: Espaços de Endereçamento
+- Memória Virtual
+- Algoritmos de Substituição de Páginas
+- Questões de Projeto para Sistemas de Paginação
+- Questões de Implementação g. Segmentação
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
+2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+4. Porto Alegre: Bookman, 2018.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
+2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.
+3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição. Rio de Janeiro: LTC, 2015.
+4. WARD, B. Como o Linux Funciona: O que Todo Super Usuário Deveria Saber. 2ª Edição. São Paulo:
+5. Novatec, 2015.
+6. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Algoritmos e Técnicas de Programação
+
+EMENTA:
+Sem ementa disponível no PDF.
+
+===================================================================================================================================
+
+EMENTA DE Matemática Discreta
+
+EMENTA:
+Sem ementa disponível no PDF.
+
+===================================================================================================================================
+
+EMENTA DE Química
+
+EMENTA:
+Sem ementa disponível no PDF.

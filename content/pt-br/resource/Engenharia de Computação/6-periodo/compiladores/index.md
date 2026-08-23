@@ -106,4 +106,5 @@ tags:
 > 9. Elsevier, 2001.
 
 ## 📝 Anotações e Arquivos Didáticos
+- 📖 **[Short Lecture — Compiladores (Compêndio Completo)](/pt-br/resource/engenharia-de-computação/6-periodo/compiladores/short-lecture)**
 - 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes)**

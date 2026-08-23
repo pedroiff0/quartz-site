@@ -1,0 +1,459 @@
+===================================================================================================================================
+
+EMENTA DE Cálculo II
+
+EMENTA:
+Aplicações da integral definida; Integrais impróprias; Funções de várias variáveis; Derivadas parciais; Aplicações das derivadas parciais; Integração múltipla.
+
+OBJETIVOS:
+• Compreender os conceitos, procedimentos e técnicas do Cálculo II, desenvolvendo a capacidade de formular hipóteses e selecionar estratégias de ação;
+• Utilizar os conhecimentos e técnicas do Cálculo II na resolução de problemas em outras áreas do currículo e principalmente em sua vida profissional quando esses conhecimentos e técnicas se fizerem necessários;
+• Desenvolver a capacidade de interpretar e criticar resultados obtidos;
+• Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Aplicações da Integral Definida:
+- Cálculo de área;
+- Volume de Sólido de Revolução;
+- Centro de Massa;
+- Comprimento de Arco.
+2. Integrais Impróprias:
+- Formas Indeterminadas;
+- Limites Infinitos de Integração;
+
+- Funções de Várias Variáveis;
+- Funções de mais de uma variável;
+- Limites, Continuidade.
+3. Derivadas Parciais:
+- Regra da Cadeia;
+- Derivação Implícita.
+4. Aplicação das Derivadas Parciais:
+- Derivada Direcional e Gradiente;
+- Planos Tangentes e Normais a Superfícies;
+- Derivadas Parciais de Ordem Superior.
+5. Integração Múltipla:
+- Integrais iteradas;
+- Integrais duplas;
+- Integrais triplas.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. GUIDORIZZI, H. Um Curso de Cálculo Diferencial e Integral: Volume II. Rio de Janeiro: LTC, 2018.
+2. LEITHOLD, L. Cálculo com Geometria Analítica. 3ª Edição. São Paulo: Harbra, 1994. Vol.
+3. MUNEM, M. A.; FOULIS, D.J. Cálculo. Rio de Janeiro: LTC, 1982. Vol.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I. 10ª Edição. Porto Alegre: Bookman, 2014 FLEMMING, D. M., GONÇALVES, M. B. Cálculo B: Funções de Várias Variáveis, Integrais Múltiplas, Integrais Curvilíneas e de Superfície. 2ª Edição. São Paulo: Pearson, 2007.
+2. STEWART, J. Cálculo. 8ª Edição. São Paulo: Cengage Learning, 2017. Vol.
+3. YAMASHIRO, S., SOUZA, S. A. O. Matemática com Aplicações Tecnológica: Cálculo II. São Paulo:
+4. Blucher, 2018.
+5. ZEGARELLI, M. Cálculo II para Leigos. Rio de Janeiro: Alta Books, 2012.
+
+===================================================================================================================================
+
+EMENTA DE Álgebra Linear e Geometria Analítica II
+
+EMENTA:
+Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores autoadjuntos e ortogonais. Valores e vetores próprios. Formas Quadráticas, Cônicas e Quadráticas.
+
+OBJETIVOS:
+• Aprofundar os estudos em transformações lineares, abordando a mudança de base, matrizes semelhantes, autovalores, autovetores e diagonalização de matrizes. Na geometria analítica é auxílio para encontrar formas canônicas de cônicas e quádricas.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Transformações Lineares:
+- Transformações lineares;
+- Núcleo e imagem de uma transformação linear;
+- Matriz de uma transformação linear;
+- Operações com transformações lineares;
+- Transformações lineares no plano;
+
+- Transformações lineares no espaço;
+2. peradores Lineares:
+- Operadores Inversíveis;
+- Mudança de base;
+- Matrizes Semelhantes;
+- Operadores auto-adjuntos;
+- Operadores ortogonais.
+3. Valores e Vetores Próprios:
+- Determinação dos valores próprios e dos vetores próprios;
+- Propriedades;
+- Diagonalização de operadores;
+- Diagonalização de matrizes simétricas;
+4. Formas Quadráticas:
+- Forma quadrática no plano;
+- Classificação de cônicas;
+- Forma quadrática no espaço;
+- Classificação de quádricas.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear.
+2. ª Edição. São Paulo: Harbra, 1984.
+3. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
+4. STEINBRUCH, A., WINTERLE, P. Álgebra Linear.
+5. ª Edição. São Paulo: Pearson, 1995.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
+2. LAY, D. C., LAY, S. R.
+3. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC, LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018.
+4. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011.
+5. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014.
+
+===================================================================================================================================
+
+EMENTA DE Física I
+
+EMENTA:
+Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conservação: da energia mecânica e do momento (linear e angular).
+
+OBJETIVOS:
+• Apresentar aos alunos os conceitos fundamentais do estudo da mecânica.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Movimento em uma dimensão:
+- Velocidade média e instantânea – modelos de análise;
+- Aceleração;
+- Diagramas de movimento;
+- A partícula com aceleração constante;
+- Corpos em queda livre.
+2. Movimento em duas dimensões:
+- Os vetores posição, velocidade e aceleração;
+- Movimento bidimensional com aceleração constante;
+
+- Movimento projétil;
+- A partícula com movimento circular uniforme;
+- Aceleração tangencial e radial;
+- Velocidade relativa;
+- Órbitas circulares.
+3. As Leis do Movimento:
+- O conceito de força;
+- A Primeira Lei de Newton;
+- Massa inercial;
+- A Segunda Lei de Newton – Ação de uma força resultante;
+- A força gravitacional e o peso;
+- A Terceira Lei de Newton;
+4. g. Aplicações das Leis de Newton Aplicações Adicionais das Leis de Newton:
+- Forças de atrito;
+- A Segunda Lei de Newton aplicada a uma partícula em movimento circular uniforme;
+- Movimento circular não uniforme;
+- Movimento na presença de forças resistivas dependentes da velocidade;
+- O campo gravitacional.
+5. Energia e Transferência de Energia:
+- Trabalho feito por uma força constante;
+- Trabalho feito por uma força variável;
+- Potência;
+- Sistemas conservativos;
+- Sistemas não conservativos.
+6. Momento e Colisões:
+- Movimento linear e sua conservação;
+- Impulso e momento;
+- Colisões;
+- Colisões bidimensionais;
+- O centro de massa;
+- O movimento de um centro de partículas.
+7. Movimento Rotacional:
+- Velocidade angular e aceleração angular;
+- O corpo rígido em aceleração angular constante;
+- Energia cinética rotacional;
+- Torque e o produto vetorial;
+- Momento angular e sua conservação.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
+2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALLIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:
+3. LTC, 2016. Vol.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017.
+2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013.
+3. TAVARES, A. D. Mecânica Física: Abordagem Experimental e Teórica. Rio de Janeiro: LTC, 2014.
+4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009.
+5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Mecânica. São Paulo: AMGH, 2012.
+
+===================================================================================================================================
+
+EMENTA DE Física Experimental I
+
+EMENTA:
+Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Conservação da Energia Mecânica.
+
+OBJETIVOS:
+• Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Algarismos Significativos – ál ulo do valo de π;
+2. Softwares de tratamento de dados;
+3. Propagação de erros;
+4. Gráficos;
+5. MRU;
+6. MRUV e Cálculo de g;
+7. Aplicação das Leis de Newton;
+8. Energia Mecânica e sua Conservação;
+9. Conservação de momento.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
+2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:
+3. LTC, 2016. Vol.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017.
+2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013.
+3. TAVARES, A. D. Mecânica Física: Abordagem Experimental e Teórica. Rio de Janeiro: LTC, 2014.
+4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009.
+5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Mecânica. São Paulo: AMGH, 2012.
+
+===================================================================================================================================
+
+EMENTA DE Algoritmo e Técnicas de Programação
+
+EMENTA:
+Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exemplos informais de algoritmos. Tipos primitivos de dados. Variáveis e constantes. Expressões aritméticas e operadores aritméticos. Expressões lógicas. Operadores relacionais e lógicos. Tabelas verdade. Comando de atribuição. Comandos de entrada e saída. Seleção simples, composta, encadeada e de múltipla escolha. Estruturas de repetição.
+
+OBJETIVOS:
+• Identificar as diferenças entre algoritmo e programa de computador;
+• Distinguir as etapas necessárias para elaboração de um algoritmo e de um programa de computador;
+• Acompanhar a execução de um programa de computador;
+• Conhecer as principais estruturas para construção de algoritmos voltados para a programação de computadores;
+• Relacionar problemas com estruturas semelhantes;
+• Aplicar o raciocínio lógico-dedutivo na criação de programas computacionais em linguagem de Programação C.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Introdução a Algoritmos e Linguagens de Programação:
+- Introdução à organização de computadores;
+- Algoritmos, estruturas de dados e programas;
+- Função dos algoritmos na Computação;
+- Exemplos informais de algoritmos;
+- Notações gráficas e descritivas de algoritmos;
+- Paradigmas de linguagens de programação;
+- Evolução das linguagens de programação.
+2. Conceitos de Programação em Linguagem de Programação C:
+- Apresentação da linguagem de Programação C;
+- Tipos primitivos de dados;
+- Identificadores, constantes e variáveis;
+- Comando de atribuição;
+- Entrada e saída de dados;
+- Operadores aritméticos, relacionais e lógicos;
+3. g. Blocos de instruções e linhas de comentários Estruturas de Seleção:
+- Conceito de estruturas de seleção;
+- Seleção simples (IF);
+- Seleção composta (IF-ELSE);
+- Seleção encadeada (IF's encadeados);
+- Seleção de múltipla escolha (SWITCH-CASE);
+- Utilização de funções e estruturas de seleção na resolução de problemas.
+4. Estruturas de Repetição:
+- Conceito de estruturas de repetição;
+- Repetição com teste no início (WHILE);
+- Repetição com teste no final (DO-WHILE);
+- Repetição com variável de controle (FOR).
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
+2. PIVA JR, D., NAKAMITI, G. S., ENGELBRECHT, A. M., BIANCHI, F. Algoritmos e Programação de Computadores. São Paulo: Elsevier, 2012.
+3. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
+2. FORBELLONE, A. L., EBERSPACHER, H. Lógica de Programação: A Construção de Algoritmos e Estrutura de dados. 3ª Edição. São Paulo: Pearson, 2005.
+3. LOPES, A., GARCIA, G. Introdução à Programação: 500 Algoritmos Resolvidos. São Paulo: Campus, MANZANO, J. A. Estudo Dirigido de Linguagem C. 17ª Edição. São Paulo: Editora Érica,2002.
+4. MANZANO, J. A., OLIVEIRA, J. F. Algoritmos: Lógica para Desenvolvimento de Programação de Computadores. 28º Edição. São Paulo: Editora Érica, 2016.
+
+===================================================================================================================================
+
+EMENTA DE Matemática Discreta
+
+EMENTA:
+Teoria dos conjuntos, relações e funções, indução e recursão, análise combinatória, teoria dos números, teoria dos grafos e árvores.
+
+OBJETIVOS:
+• Fornecer aos alunos conhecimento das principais técnicas de matemática discreta e sua relação com a Computação.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Teoria dos Conjuntos:
+- Tipos de Conjuntos;
+- Igualdade de Conjuntos;
+- Subconjuntos;
+- Operações entre Conjuntos;
+- Produto Cartesiano;
+- Identidade de Conjuntos.
+2. Relações e Funções:
+- Definição;
+- Tipos de Relações;
+- Relação de Equivalência;
+- Função;
+- Propriedades das Funções;
+3. Indução e Recursão:
+- O Princípio da Indução Finita;
+- Provas por Indução;
+- Recursividade;
+- Problemas Recursivos.
+4. Análise Combinatória:
+- Princípios Básicos da Contagem;
+- Arranjos;
+- Permutações;
+- Combinações.
+5. Teoria dos Números:
+- Introdução;
+- Algoritmo da Divisão;
+- MDC;
+- Aritmética Modular;
+- Números Primos;
+- Algoritmo Usual de Números Primos e sua Eficiência;
+- Teoria dos grafos e árvores.
+- 
+- 
+- 
+- 
+
+- Definição;
+- Propriedades;
+- Formas de Representação;
+- Árvores.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016.
+2. MENEZES, P. B. Matemática Discreta para Computação e Informática. 4ª Edição. Bookman, 2013.
+3. SCHEINERMAN, E. Matemática Discreta: Uma Introdução. 3ª Edição. Cengage Learning.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. HUNTER, D. J. Fundamentos da Matemática Discreta. Rio de Janeiro: LTC, 2011.
+2. LIPSCHUTZ, S; LIPSON, M. Matemática Discreta. 3ª Edição. São Paulo: Bookman, 2013.
+3. MENEZES, P. B., TOSCANI, L. V., LÓPEZ, J. G. Aprendendo Matemática Discreta com Exercícios.
+4. Bookman, 2009.
+5. ROSEN, K. H. Matemática Discreta e Suas Aplicações. 6ª Edição. Mc Graw Hill, 2009.
+6. STEIN, C., DRYSDALE, R. L., BOGART, K. Matemática Discreta para Ciência da Computação. São Paulo: Pearson, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Química
+
+EMENTA:
+Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Químicas. Introdução à Termodinâmica Química. Termoquímica, Combustíveis e Combustão. Equilíbrio Químico. Cinética Química. Eletroquímica. Noções de Química Orgânica.
+
+OBJETIVOS:
+• Rever e aprofundar os conceitos relativos aos constituintes básicos da matéria permitindo uma avaliação das características físicas e químicas das substâncias e dos materiais, de tal forma a capacitar o aluno para reconhecer a importância da química na vida cotidiana, como também sua aplicação em outros domínios.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Estrutura da matéria:
+- Esquemas básicos da química: sistema, matéria, propriedades, energia e transformações;
+- Modelo atômico de Dalton;
+- Modelo atômico de Thomson;
+- Modelo atômico de Rutherford e Bohr;
+- Noções de mecânica ondulatória;
+- Modelo atômico atual.
+2. Periodicidade química:
+- Tabela Periódica;
+- Periodicidade e Configuração eletrônica;
+- Propriedades periódicas dos elementos: raio atômico, energia de ionização, afinidade eletrônica e eletronegatividade.
+3. Ligações químicas:
+- Ligação iônica;
+- Ligação covalente;
+- Ligação metálica.
+4. Reações Químicas:
+- Equações Químicas
+- Estequiometria
+5. c. Reações em solução aquosa Noções de Termodinâmica Química e Termoquímica:
+- Primeira lei da termodinâmica: calor, trabalho e energia interna;
+- Definição e cálculos de entalpia de processos físicos e químicos;
+- Entalpia de combustão e os combustíveis;
+- Segunda lei da termodinâmica: a entropia;
+- Energia livre de Gibbs e espontaneidade dos processos.
+6. Equilíbrio Químico:
+
+- Equilíbrio químico homogêneo e as constantes de equilíbrio
+- Princípio de Le Chatelier e o deslocamento do equilíbrio
+- Equilíbrio químico heterogêneo
+- Equilíbrio químico em solução aquosa: ácido, base e pH.
+7. Cinética Química:
+- Conceito e determinação da velocidade das reações químicas;
+- Lei de velocidade da reação química;
+- Teoria das colisões moleculares, complexo ativado e estado de transição;
+- Mecanismos de reações químicas;
+- Catálise.
+8. Eletroquímica:
+- Reações de óxido redução
+- Noção de potencial eletroquímico
+- Células galvânicas
+- Células eletrolíticas
+9. e. Energia livre de Gibbs, tensão de célula e equilíbrio Noções de química orgânica:
+- O átomo de carbono;
+- As cadeias carbônicas;
+- As funções orgânicas;
+- Introdução aos polímeros.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. ATKINS, P., JONES, L., LAVERMANM L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 7ª Edição. Porto Alegre: Bookman, 2018.
+
+2. KOTZ, J., TREICHEL, P. M., TOWNSEND, J., TREICHEL, D. Química Geral e Reações Químicas: Volume 1 e 2. 3ª Edição. São Paulo: Cengage Learning, 2015.
+
+3. RUSSEL, J. B. Química Geral: Volume 1 e 2. 2ª Edição. São Paulo: Pearson, 1994.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BRADY, J. E., RUSSEL, J. W., HOLUM, J. R. Química: A Matéria e Suas Transformações.
+2. ª ed., vol. 1 e 2, Rio de Janeiro: LTC, 2009 BROWN, T. L., LEMAY, H. E., BURSTEN, B. E., BURDGE, J. R. Química: A Ciência Central. 10ª Edição.
+3. São Paulo: Pearson, 2016.
+4. BROWN, L., HOLME, T. Química Geral Aplicada à Engenharia. 2ª Edição. São Paulo: Cengage Learning, 2014.
+5. ROSENBERG, J. L., EPSTEIN, L. M., KRIEGER, P. J. Química Geral. 9ª Edição. Porto Alegre: Bookman, SOLOMONS, T. W. G, FRYHLE, C. B.
+6. SNYDER, S. A. Química Orgânica: Volume 1 e 2. 12ª Edição. Rio de Janeiro: LTC, 2018.
+
+===================================================================================================================================
+
+EMENTA DE Química Experimental
+
+EMENTA:
+Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais. Ferramentas profissionais na área de química experimental. Teste de chama. Medidas de massa e de volume. Soluções. Reações químicas. Estequiometria. Titulação ácido-base. Termoquímica. Equilíbrio Químico. Cinética Química. Eletroquímica. Grupos funcionais orgânicos.
+
+OBJETIVOS:
+• Relacionar as práticas envolvidas nesta disciplina com a teoria abordada na disciplina de Química, de tal forma a contribuir para a aquisição do aprendizado teórico. Somado a isso, adquirir o conhecimento básico sobre as principais ferramentas profissionais utilizadas em um laboratório de química e compreender como a metodologia científica está envolvida desde o planejamento do experimento até a interpretação dos resultados.
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Estrutura, funcionamento e noções básicas de segurança em laboratório de química.
+- Erros e medidas (precisão e exatidão). Incerteza nos resultados experimentais.
+- Ferramentas Profissionais.
+- Teste de chama.
+- Pesagem. Balança semianalítica e analítica. Teor de umidade.
+- Medidas de volume. Vidrarias volumétricas. Determinação de densidade.
+- Soluções iônicas e soluções moleculares. Soluções eletrolíticas e não eletrolíticas. Polaridade de solubilidade.
+- Estequiometria. Precipitação. Filtração e secagem. Rendimento de reação de precipitação.
+- A escala de pH. Indicadores. Preparo e padronização de soluções. Titulação ácido-base.
+- Termoquímica. Lei de Hess.
+- Fatores que influenciam o equilíbrio químico. Equilíbrio de solubilidade. O efeito do íon comum.
+- Fatores que influenciam a velocidade das reações. Determinação da velocidade de uma reação.
+- rdem de reação e constante de velocidade. Catálise.
+- Pilhas eletroquímicas. Eletrólise. Corrosão.
+- Identificação de grupos funcionais orgânicos. Reatividade de álcoois, aldeídos, cetonas, ácidos carboxílicos e aminas.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BACCAN, N.; ANDRADE, J. C.; GODINHO, O. E. S.; BARONE, J. S. Química Analítica Quantitativa e Elementar. São Paulo: Edgard Blüche, 1998.
+2. MENDHAM, J.; DENNEY, R. C.; BARNES, J. D.; THOMAS, M. J. K. Vogel - Análise Química Quantitativa. 6 ed. Rio de Janeiro: LTC, 2002.
+4. VOGEL, A. I. Química Analítica Qualitativa. ed., São Paulo: Editora Mestre Jou, 1981.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ATKINS, P. Princípios de Química: questionando a vida moderna e o meio ambiente, 5ª ed. Porto Alegre: Bookman, 2012.
+2. FIOROTTO, N. R. Técnicas Experimentais em Química – Normas e Procedimentos. 1 ed. São Paulo:
+3. Erica, 2014.
+4. HARRIS, D. 1948 - Análise Química Quantitativa/; Tradução Jairo Bordinhão..[et al.], - [Reimpr.], -Rio de Janeiro:LTC, 2011.
+5. ROCHA-FILHO, R. C.; SILVA, R. R. Cálculos Básicos da Química. 4ª ed. São Carlos: EdUFSCar, 2017.
+6. SILVA, R. R., BOCCHI, N., ROCHA-FILHO, R. C.; MACHADO, P. F. L. Introdução à Química Experimental. 3 ed. São Carlos: EdUFSCar, 2019.
+
+===================================================================================================================================
+
+EMENTA DE Algoritmos e Técnicas de Programação
+
+EMENTA:
+Sem ementa disponível no PDF.

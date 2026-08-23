@@ -1,0 +1,457 @@
+===================================================================================================================================
+
+EMENTA DE Cálculo III
+
+EMENTA:
+Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss;
+
+OBJETIVOS:
+• Compreender os conceitos, procedimentos e técnicas do Cálculo III, desenvolvendo a capacidade de formular hipóteses e selecionar estratégias de ação;
+• Utilizar os conhecimentos e técnicas do Cálculo III na resolução de problemas em outras áreas do currículo e principalmente em sua vida profissional quando esses conhecimentos e técnicas se fizerem necessários;
+• Desenvolver a capacidade de interpretar e criticar resultados obtidos;
+• Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Funções a valores vetoriais
+- Definições, limite e continuidade
+- Curvas no plano e no espaço: forma vetorial
+- Limites de funções a valores vetoriais
+- Continuidade de funções a valores vetoriais
+- Diferenciação e integração
+- Derivadas de funções a valores vetoriais g. Integrais de funções a valores vetoriais h. Velocidade vetorial e escalar, aceleração vetorial i. Comprimento de arco j. Cálculo do comprimento de arco k. A função comprimento de arco l. O parâmetro comprimento de arco Análise vetorial
+- Campos vetoriais
+- Definição
+- Campos conservativos
+- Função potencial
+- Condição para campos conservativos no plano
+- Rotacional de campos tridimensionais g. Condição para campos conservativos tridimensionais h. Divergência i. Integrais de linha j. Integrais de linha de campos escalares k. Integrais de linha de campos vetoriais l. Campos conservativos e independência de caminhos Teorema de Green Teorema de Stokes Teorema da Divergência
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.
+2. ______. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.
+3. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 3. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
+4. ______. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
+5. STEWART, J. Cálculo: Volume 1. 8ª Edição. São Paulo: Cengage Learning, 2017.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. FERREIRA, P. C. P. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 1. Rio de Janeiro:
+2. Ciência Moderna, 2013.
+3. ______. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 2. Rio de Janeiro: Ciência Moderna, 2013.
+4. ______. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 3. Rio de Janeiro: Ciência Moderna, 2013.
+5. FLEMMING, M. B., GONÇALVES, D. M. Cálculo C: Funções Vetoriais, Integrais Curvilíneas e Integrais de Superfície. 3ª Edição. São Paulo: Pearson, 2000.
+6. VALADARES, R. J. C. Cálculo e Aplicações II: Funções Vetoriais. Rio de Janeiro: Ciência Moderna, WEIR, M. D., HASS, J.
+7. THOMAS, G. B. Cálculo: Volume 2. 12ª Edição. São Paulo: Pearson Learning, ______. Cálculo: Volume 1. 12ª Edição. São Paulo: Pearson Learning, 2012.
+
+===================================================================================================================================
+
+EMENTA DE Equações Diferenciais
+
+EMENTA:
+Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explícitas. Equações lineares de 2.ª ordem. Equações diferenciais lineares de ordem superior. O método da variação dos parâmetros. Solução de equações diferenciais ordinárias. Introdução a equações diferenciais parciais.
+
+OBJETIVOS:
+• Apresentar ao aluno os conceitos básicos de equações diferenciais ordinárias e parciais;
+• Resolver problemas.
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Conceitos fundamentais em equações diferenciais
+- Definição de Equação Diferencial Ordinária
+- Ordem e Grau de uma Equação Diferencial
+- Equação Diferencial Ordinária Linear de ordem n
+- Solução de uma Equação Diferencial
+- Existência e unicidade de solução para uma EDO
+- Problema de Valor Inicial (PVI) Equações diferenciais ordinárias de primeira ordem
+- As formas normal e diferencial de primeira ordem
+- Equações separáveis de primeira ordem
+- Modelos Matemáticos e Equações Diferenciais
+- Crescimento Populacional
+- Equações homogêneas de primeira ordem
+- Equações Exatas de primeira ordem g. Teorema de Existência e Unicidade de solução de um PVI h. Simplificação de equações lineares de primeira ordem Equações diferenciais ordinárias de segunda ordem
+- Equações lineares de segunda ordem
+- Equações Lineares homogêneas de segunda ordem
+- Teorema de Existência e Unicidade de solução de um PVI
+- Equações Lineares de 2.ª ordem com coeficientes constantes
+- Solução da equação homogênea associada
+- Método de d’Ale e t pa a o te out a solução g. Equação equidimensional de Euler-Cauchy h. Método dos Coeficientes a Determinar
+
+- Método da Variação dos Parâmetros (Lagrange) Redução da ordem de uma equação diferencial Aplicações de equações diferenciais ordinárias
+- Decaimento Radioativo
+- Elementos de Eletricidade
+- Circuitos Elétricos RLC Introdução a Equações Diferencias Parcias
+- Exemplos de Equações Diferenciais Parciais
+- Ordem e grau de uma Equação Diferencial Parcial
+- Exemplos relacionados com ordem e grau de uma EDP
+- Soluções de Equações Diferenciais Parciais
+- Problemas com Condições Iniciais/de Contorno
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno.
+2. ª Edição Rio de Janeiro: LTC, 2015.
+3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
+4. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
+2. ÇENGEL, Y. A., PALM III, W. J. Equações Diferenciais. São Paulo: McGrall Hill, 2014.
+3. DIACU, F. Introdução à Equações Diferenciais: Teoria e Aplicações. Rio de Janeiro, 2004.
+
+4. KREYSZIG, E. Matemática Superior para Engenharia: Volume 1. 9ª Edição. São Paulo, LTC, 2008.
+5. NAGLE, K. R., SAFF, E. B., SNYDER, A. D. Equações Diferenciais. 8ª Edição. São Paulo: Pearson, 2012.
+
+===================================================================================================================================
+
+EMENTA DE FÍSICA II
+
+EMENTA:
+Princípios da termodinâmica: conceitos de temperatura e calor; 1.ª lei da termodinâmica; Teoria cinética dos gases; Entropia; 2.ª lei da termodinâmica.
+
+OBJETIVOS:
+• ● Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas;
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Oscilações
+- Equação diferencial de um MHS, método de solução;
+- Equação diferencial de uma oscilação amortecida, método de solução;
+- Equação diferencial de uma solução forçada, possíveis soluções;
+- Conceito de impedância, reatância e ressonância;
+- Osciladores acoplados;
+- Batimento.
+2. Ondas em meios elásticos
+- Modelagem matemática de um movimento ondulatório f(x – vt);
+- Equação diferencial relacionando o comportamento no espaço e no tempo;
+- Velocidades de ondas em diferentes meios;
+- Interferência / Sobreposição de ondas;
+- Modos normais de vibração.
+3. Ondas sonoras
+- Vibrações do meio relacionadas com perturbações da pressão;
+- Nível sonoro (dB);
+- Efeito Doppler;
+- Ressonância em tubos.
+4. Temperatura e Calor
+- Temperatura;
+- Dilatação de sólidos e Líquidos;
+- Trocas de calor.
+
+- Teoria Cinética dos Gases e Primeira Lei da Termodinâmica
+- As grandezas de estados de um gás;
+- Conceito de energia interna dos gases monoatômicos, diatômicos, poliatômicos;
+- Transformações termodinâmicas;
+- Diferentes modos de se calcular o trabalho;
+- Modelagem matemática da Primeira Lei.
+- Aplicações Entropia e Segunda Lei da Termodinâmica
+- Máquinas térmicas, ciclo de Carnot e os limites impostos pela natureza;
+- Entropia e reversibilidade;
+- Uma interpretação estatística para entropia.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. RESNICK, R., WALKER, J.
+2. HALLIDAY, D. Fundamentos de Física – Volume 2 – Gravitação, Ondas e Termodinâmica. 10ª Edição. Rio de Janeiro, LTC, 2016.
+3. SERWAY, R., JEWETT, J. Princípios de Física – Volume II – Oscilações, Ondas e Termodinâmica. 2ª Edição. São Paulo: Cengage Learning, 2014.
+4. YOUNG, H. D., FREEDMAN, R.A. Física II: Termodinâmica e Ondas. 14ª Edição. São Paulo: Pearson, 2015. Vol. 2.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 2: Oscilações, Ondas e Termodinâmica. 9ª Edição. São Paulo: Cengage Learning, 2017.
+
+2. NUSSENZVEIG, H. M. Curso de Física Básica: Fluidos, Oscilações, Ondas e Calor. 5ª Edição. São Paulo: Blucher, 2014.
+3. CHAVES, A. Física Básica: Gravitação, Fluídos, Ondas e Termodinâmica. Rio de Janeiro, LTC.
+4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009.
+5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Relatividade, Oscilações, Ondas e Calor. São Paulo: AMGH, 2013.
+
+===================================================================================================================================
+
+EMENTA DE FÍSICA EXPERIMENTAL II
+
+EMENTA:
+Estudo das ondas num meio material. Ondas estacionárias. Ondas numa corda. O Pêndulo simples. Os princípios da Termodinâmica: características de substâncias simples e sua relação com as mudanças de temperatura. Dilatação linear. Calor Específico. Entropia e os processos reversíveis.
+
+OBJETIVOS:
+• ● Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas;
+• ● Reconhecer ondas mecânicas.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Oscilações e ondas mecânicas;
+2. Ondas estacionárias e onda numa corda;
+3. Pêndulo;
+4. Dilatação linear e calor específico;
+5. Princípios da termodinâmica: conceitos de temperatura e calor;
+6. Entropia e os processos irreversíveis.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. RESNICK, R., WALKER, J.
+2. HALLIDAY, D. Fundamentos de Física – Volume 2 – Gravitação, Ondas e Termodinâmica. 10ª Edição. Rio de Janeiro, LTC, 2016.
+3. SERWAY, R., JEWETT, J. Princípios de Física – Volume II – Oscilações, Ondas e Termodinâmica. 2ª Edição. São Paulo: Cengage Learning, 2014.
+4. YOUNG, H. D., FREEDMAN, R.A. Física II: Termodinâmica e Ondas. 14ª Edição. São Paulo: Pearson, 2015. Vol. 2.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 2: Oscilações, Ondas e Termodinâmica. 9ª Edição. São Paulo: Cengage Learning, 2017.
+2. NUSSENZVEIG, H. M. Curso de Física Básica: Fluidos, Oscilações, Ondas e Calor. 5ª Edição. São Paulo: Blucher, 2014.
+3. CHAVES, A. Física Básica: Gravitação, Fluídos, Ondas e Termodinâmica. Rio de Janeiro, LTC. 2007.
+4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009.
+
+5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Relatividade, Oscilações, Ondas e Calor. São Paulo: AMGH, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Mecânica dos Sólidos
+
+EMENTA:
+Conceito de tensão, Forças distribuídas, Carregamentos axiais, Torção, Flexão, Cisalhamento, Carregamento combinado, Análise de tensões, transformação de tensão e Flambagem de colunas.
+
+OBJETIVOS:
+• Apresentar os conceitos, as teorias e os métodos de soluções de problemas de vigas submetidas a deformações em virtude de cargas externas, efeitos térmicos e esforços internos.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Introdução ao conceito de tensão
+- Métodos da estática
+- Tensões nos elementos de uma estrutura
+- Tensão em um plano oblíquo
+- Tensões sob condições gerais de carregamento
+- Componentes de tensão
+- Considerações de projeto
+2. Forças distribuídas
+- Centro de gravidade e centroide de superfície
+- Centro de gravidade e centroide de sólidos
+- Momentos de inércia de superfícies
+- Momentos de inércia dos corpos
+3. Tensão e deformação – carregamento axial
+- Conceito da tensão e deformação
+- problemas estaticamente indeterminados
+- Problemas que envolvem mudança de temperatura
+- Coeficiente de Poisson
+- Carregamento multiaxial
+- Deformação de cisalhamento g. Distribuição de tensão e deformação específica sob carregamento axial – princípio de SaintVenant h. Concentração de tensões i. Deformações plásticas 4. Torção
+- Torção de eixo de seção circular
+- Ângulo de torção no regime elástico
+- Eixos estaticamente indeterminados – eixo de transmissão 5. Flexão
+- Barras simétricas em flexão pura
+- Tensões e deformações no regime elástico
+- Deformação em uma seção transversal
+- Barra de material composto
+- Concentração de tensões
+- Cargas excêntricas
+
+- Análise e projeto de vigas em flexão
+- Diagrama de força cortante e momento fletor
+- Relação entre força, força cortante e momento fletor
+- Projeto de vigas Tensões de cisalhamento em vigas e elementos de parede fina
+- Tensão de cisalhamento horizontal nas vigas
+- Cisalhamento longitudinal
+- Tensão de cisalhamento em elementos de parede fina Análise de transformação de tensão e deformação
+- Transformação do estado plano de tensão
+- Círculo de Mohr para o estado plano de tensão Colunas
+- Estabilidade de estruturas
+- Projeto de colunas
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BEER, F. P.; JOHNSTON Jr, E. R.; DEWOLF, J. T.; MASUREK, D. F. Mecânica dos Materiais. Tradução José Benaque Rubert. 7. ed. Porto Alegre: AMGH, 2015. 840 p.
+2. CRAIG Jr, R. R. Mecânica dos Materiais. T adução Jos Ro e to Mo aes d’Al eida, “id ei Pa io ik, Verônica Calado. ed. [Reimp]. Rio de Janeiro: LTC, 2017. 552 p.
+4. HIBBELLER, R. C. Resistencia dos Materiais. Tradução Sérgio Nascimento, Revisão técnica Sebastião Simões da Cunha. 10. ed. São Paulo: Pearson Education do Brasil, 2018. 754 p.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BEER, F. P.; JOHNSTO JR, E. R.; MASUREK, D. F. Mecânica vetorial para engenheiros: estática.
+2. Tradução Clara Állyergra Lyra Peter. ed. Porto Alegre: AMGH, 2019. 634 p.
+4. DOWLING, N. Comportamento Mecânico dos Materiais. São Paulo: Cengage Learning, 2017.
+5. GERE, J., GOODNO, B. Mecânica dos Materiais. Tradução Roberto Henrique Torrejon. 8. ed. São Paulo:
+6. Cengage Learning, 2017.
+
+7. PHILPOT, T. A. Mecânica dos Materiais: Um Sistema Integrado de Ensino. ed. [Reimp]. Rio de Janeiro: LTC, 2019.
+9. RILEY, W. P., STURGES, L. D., MORRIS, D. H. Mecânica dos Materiais. ed. Rio de Janeiro: LTC, 2003.
+11. SCHÖN, C. G. Mecânica dos Materiais: Fundamentos e Tecnologia do Comportamento. São Paulo:
+12. Elsevier, 2013.
+13. UGURAL, A. C. Mecânica dos Materiais. Tradução Fernando Ribeiro da Silva. Rio de Janeiro: LTC, 2009.
+
+===================================================================================================================================
+
+EMENTA DE Algoritmos e Estruturas de Dados I
+
+EMENTA:
+Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de Parâmetros; Alocação Dinâmica de Memória; Estruturas de Dados Lineares; Recursividade; Algoritmos para Pesquisa e Ordenação.
+
+OBJETIVOS:
+• Proporcionar aos alunos conhecimentos teóricos e práticos em programação, envolvendo o estudo de conceitos fundamentais de algoritmos e estruturas de dados.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Estruturas de Dados Homogêneas:
+- Vetores;
+- Marizes.
+2. Estruturas de Dados Heterogêneas:
+- Registro.
+3. Passagem de Parâmetros:
+- Passagem de parâmetros por valor;
+- Passagem de parâmetros por referência.
+4. Alocação Dinâmica de Memória
+5. a. Ponteiros 5. Estruturas de Dados Lineares:
+- Listas Lineares;
+- Listas Simplesmente Encadeadas;
+- Listas Duplamente Encadeada;
+- Listas Circulares;
+- Pilhas;
+- Filas;
+- Listas Ordenadas.
+
+6. Recursividade Algoritmos para Pesquisa e Ordenação:
+- Busca Sequencial;
+- Busca Binária;
+- Buble-Sort;
+- Merge-Sort;
+- Heap-Sort;
+- Quick-Sort.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,
+2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014.
+3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C São Paulo: Cengage, 2010 BIBLIOGRAFIA COMPLEMENTAR:
+
+4. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo: McGrall Hill, 2007.
+5. ASCENCIO, A. F. G., ARAÚJO, G. A. Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++. São Paulo: Pearson, 2015.
+6. BACKES, A. Estrutura de Dados Descomplicada em Linguagem C. São Paulo: Elsevier, 2016.
+7. CELES, W., CERQUEIRA, R., RANGEL, J. L. Introdução à Estruturas de Dados: Com Técnicas de Programação em C. 2ª Edição. São Paulo: Elsevier, 2016.
+8. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
+
+===================================================================================================================================
+
+EMENTA DE Introdução à Ciência dos Materiais
+
+EMENTA:
+Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em Sólidos; Difusão; Propriedades Mecânicas dos Metais; Mecanismo de Aumento de Resistência; Falha; Diagrama de Fase; Ligas Metálicas; Corrosão e Degradação dos Materiais; Ensaios não Destrutivos.
+
+OBJETIVOS:
+• Desenvolver habilidade para seleção e utilização de materiais na engenharia;
+• Proporcionar aos alunos a aquisição de conhecimentos em ciência e tecnologia de materiais, capacitando-o a reconhecer, classificar e selecionar materiais aplicados a equipamentos e processos no campo da tecnologia de automação.
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Ciência e engenharia dos materiais
+- Importância científica e tecnológica dos materiais
+- Classificação geral dos materiais usados na engenharia
+- Propriedades dos materiais (mecânicas, térmicas, elétricas, magnéticas, químicas e óticas) Estrutura de sólidos cristalinos
+- Estruturas cristalinas: célula unitária
+- Cálculo de densidade
+- Polimorfismo e alotropia
+- Direções e planos cristalográficos
+- Densidades atômicas linear e planar
+- Monocristais
+
+- Materiais policristalinos h. Anisotropia
+3. Imperfeições em sólidos
+- Defeitos pontuais: lacunas e impurezas
+- Discordâncias
+- Defeitos interfaciais
+- Defeitos volumétricos ou de massa
+- Vibrações atômicas 4. Difusão
+- Mecanismos da difusão
+- Fatores que influenciam a difusão 5. Propriedades mecânicas dos metais
+- Conceitos de tensão e deformação
+- Deformação elástica
+- Deformação plástica
+- Dureza 6. Mecanismos de aumento de resistência
+- Discordâncias e a deformação plástica
+- Aumento da resistência pela redução do tamanho de grão
+- Aumento da resistência por solução sólida
+- Encruamento
+- Recuperação, recristalização e crescimento de grão 7. Falha
+- Fratura
+- Fadiga
+- Fluência 8. Diagrama de fase
+- Diagramas de fase em condições de equilíbrio
+- Sistema Ferro Carbono
+- Transformações de fase
+- Alterações microestruturais e das propriedades em ligas ferro carbono 9. Ligas Metálicas
+- Fabricação dos metais
+- Ligas ferrosas
+- Ligas não-ferrosas 10. Corrosão e degradação dos materiais 11. Ensaios não destrutivos
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. ASKELAND, D., WRIGHT, W. Ciência e Engenharia dos Materiais. 2ª Edição. São Paulo: Cengage,
+2. CALLISTER, W. D., RETHWISCH, D. Ciência e Engenharia dos Materiais: Uma Introdução. 9ª Edição.
+3. Rio de Janeiro: LTC, 2016.
+4. VAN VLACK, L. H. Princípios de Ciência e Tecnologia dos Materiais. São Paulo: Editora Campus, BIBLIOGRAFIA COMPLEMENTAR:
+
+5. BOTELHO, M. H. C. Resistência dos Materiais: Para Entender e Gostar. 4ª Edição. São Paulo:
+6. Blucher, 2017.
+7. GARCIA, A.
+8. SPIM, J. A., SANTOS, C. A. Ensaio dos Materiais. 2ª Edição. Rio de Janeiro: LTC, 2012.
+9. NEWELL, J. Fundamentos da Moderna Engenharia e Ciência dos Materiais. Rio de Janeiro: LTC, SHACKELFORD, J. F., Ciência dos Materiais. 6ª Edição. São Paulo: Pearson, 2008.
+10. SMITH, W. F., HASHEMI, J. Fundamentos de Engenharia e Ciência dos Materiais. 5ª Edição. São Paulo: McGraw Hill, 2012.
+
+===================================================================================================================================
+
+EMENTA DE Ciências do Ambiente
+
+EMENTA:
+Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; Desenvolvimento Sustentável.
+
+OBJETIVOS:
+• Desenvolver a compreensão sobre os principais conceitos envolvidos e fundamentos ecológicos relacionados ao estudo da disciplina ciências do ambiente, mostrando a importância do estudo ao futuro profissional, capacitando-o de forma contextualizada com a profissão.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Conceitos Básicos
+- A crise ambiental
+- Recursos Naturais
+- Poluição
+2. Ecossistemas
+- Definição e estrutura
+- Reciclagem de matéria e fluxo de energia
+- Cadeias alimentares
+- Produtividade primária
+- Sucessão ecológica
+- Amplificação biológica g. Biomas
+3. Ciclos Biogeoquímicos
+- O ciclo do carbono
+- O ciclo do nitrogênio
+- O ciclo do fósforo
+- O ciclo do enxofre
+- O ciclo hidrológico 4. Poluição Ambiental
+- A energia e o meio ambiente
+- O meio aquático
+- O meio terrestre
+- O meio atmosférico 5. Desenvolvimento Sustentável
+- Economia e Meio ambiente
+- Avaliação de impactos ambientais
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BRAGA, B., HESPANHOL, I., CONEJO, J. G. L., MIERZWA, J. C., BARROS, M. T. L., CAPAZ, R. S., NOGUEIRA, L. H. Ciências Ambientais para Engenharia. São Paulo: Elsevier, 2014.
+2. FANTINATTI, P., ZUFFO, A., ARGOLLO, A. F. Indicadores de Sustentabilidade em Engenharia. São Paulo: Elsevier, 2014.
+3. SPENCER, M.
+4. NUCCI, N.
+5. JULIANO, N.
+6. ELGER, S. Introdução à engenharia ambiental: O Desafio do Desenvolvimento Sustentável. São Paulo: Pearson, 2005.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BOTKIN, D. B., KELLER, E. A. Ciência Ambiental: Terra, um Planeta Vivo. 7ª Edição. Rio de Janeiro, LTC, 2011.
+2. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:
+3. Elsevier, 2012.
+4. CHRISTOFOLETTI, A. Modelagem de Sistemas Ambientais. São Paulo: Blucher, 1999.
+5. DAVIS, M. L., MASTEN, S. Princípios de Engenharia Ambiental. 3ª Edição. São Paulo: Mc Graw Hill, 5.
+6. MILLER, G. T., SPOOLMAN, S. Ciência Ambiental. 2ª Edição. São Paulo: Cengage, 2015.
+7. MIHELCIC, J. R., ZIMMERMAN, J. B. Engenharia Ambiental: Fundamentos, Sustentabilidade e Projeto. Rio de Janeiro: LTC, 2017.
+
+===================================================================================================================================
+
+EMENTA DE Algoritmos e Técnicas de Programação
+
+EMENTA:
+Sem ementa disponível no PDF.
+
+===================================================================================================================================
+
+EMENTA DE Matemática Discreta
+
+EMENTA:
+Sem ementa disponível no PDF.
+
+===================================================================================================================================
+
+EMENTA DE Química
+
+EMENTA:
+Sem ementa disponível no PDF.

@@ -1,0 +1,282 @@
+===================================================================================================================================
+
+EMENTA DE Redes de Computadores II
+
+EMENTA:
+Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com Switches; Configuração de Switch; VLANs; Listas de Controle de Acesso; DHCP; NAT para IPv4; Descoberta, Gerenciamento e Manutenção de Dispositivos.
+
+OBJETIVOS:
+• Aprofundar conhecimentos em redes de computadores acerca de redes comutadas, switching, roteamento.
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Roteadores e suas Tecnologias Conceitos de Roteamento Roteamento Estático Roteamento Dinâmico Redes com Switches Configuração de Switch VLANs Listas de Controle de Acesso DHCP 10. NAT para IPv4 11. Descoberta, Gerenciamento e Manutenção de Dispositivos
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
+2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+3. Pearson, 2013.
+4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
+2. CARISSIMI, A. S., ROCHOL, J.
+3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman,
+4. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013.
+5. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015.
+6. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.
+
+===================================================================================================================================
+
+EMENTA DE Segurança e Higiene no Trabalho
+
+EMENTA:
+Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (NR-5), Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho – Sesmt (NR-4), Equipamento de Proteção Individual (NR-6), Programa de Controle Médico de Saúde Ocupacional – Pcmso (NR-7), Programa de Prevenção de Riscos Ambientais – Ppra (NR-9), Segurança em Instalações e Serviços em Eletricidade (NR-10), Atividades e Operações Insalubres (NR-15), Atividades e Operações Perigosas (NR-16), Proteção Contra Incêndio (NR23).
+
+OBJETIVOS:
+• Identificar os conceitos básicos de Higiene e Segurança do Trabalho, bem como sua aplicação tanto em estudo de casos como em situações cotidianas;
+
+• Demonstrar a importância das Normas e Legislações pertinentes à HST.
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Introdução à Segurança no Trabalho Comissão Interna de Prevenção de Acidentes – CIPA (NR-5) Equipamento de Proteção Individual (NR-6) Programa de Controle Médico de Saúde Ocupacional – PCMSO (NR-7) Programa de Prevenção de Riscos Ambientais – PPRA (NR-9)
+- Definição
+- Do objeto e campo de aplicação
+- Agentes Segurança em Instalações e Serviços em Eletricidade (NR-10)
+- Objetivo
+- Tipos e características de trabalhos em instalações elétricas
+- Campo de Aplicação
+- Riscos Elétricos
+- Medidas de Controle
+- Medidas de Proteção Coletiva (continuação) g. Prontuário de Instalações Elétricas h. Critérios mínimos a serem atendidos por profissionais que, direta ou indiretamente, atuem em instalações elétricas.
+- Treinamento Atividades e operações insalubres (NR-15)
+- Definição
+- Agentes Qualitativos e Quantitativos
+- Limites de Tolerância
+- Adicional de Insalubridade
+- Anexos da NR 15
+- Graus de Insalubridade Atividades e Operações Perigosas (NR-16)
+- Definição
+- Adicional de Periculosidade
+- Anexos da NR 16 Proteção Contra Incêndio (NR23)
+- Conceitos Básicos de Incêndio
+- Classe de Incêndio
+- Agentes e tipos de Extintores
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BARSANO, P. R., BARBOSA, R. P. Higiene e Segurança do Trabalho. 2ª Edição. São Paulo: Erica, 2018.
+2. ______. Segurança do Trabalho: Guia Prático e Didático. 2ª Edição. São Paulo: Erica, 2018.
+3. CAMISASSA, M. Q. Segurança e Saúde no Trabalho: NRs 1 a 36 Comentadas e Descomplicadas. 5ª Edição. São Paulo: Método, 2018.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BARBOSA, R. P. Avaliação de Risco e Impacto Ambiental. São Paulo: Erica, 2014.
+2. CARDELLA, B. Segurança no Trabalho e Prevenção de Acidentes: Uma Abordagem Holística. 2ª Edição. Rio de Janeiro: LTC, 2016.
+3. MATTOS, U. Higiene e Segurança do Trabalho. São Paulo: Elsevier, 2011.
+4. PAOLESCHI. B. CIPA: Guia Prático de Segurança do Trabalho. São Paulo: Erica, 2009.
+5. PONTE JR, G. P. Gerenciamento de Riscos Baseado em Fatores Humanos e Cultura de Segurança. São Paulo: Elsevier, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Arquitetura de Computadores
+
+EMENTA:
+Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; Barramentos de computadores pessoais; Interfaceamento via rede; Práticas de laboratório.
+
+OBJETIVOS:
+• Capacitar o aluno, através do conhecimento básico da arquitetura IA-32/IA-64, a interfacear e integrar novos projetos e produtos dentro dessa arquitetura que é a base da maioria dos computadores pessoais modernos.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Arquitetura IA-32 / IA-64
+- Operação em Modelo Real
+- Operação em Modo Protegido
+- Paginação de Memória
+- Comutação de Tarefas em Ambiente Multitarefa
+- Mecanismos de Interrupção
+2. Memórias Dinâmicas e Subsistemas Cache
+- Memórias Dinâmicas
+- Subsistemas Cache
+3. Processamento Numérico e de Sinais
+- Processamento de Números Inteiros
+- Processamento de Números Reais
+- Processamento de Sinais em Computador com SIMD 4. Barramentos Utilizados nos Computadores Pessoais
+- Barramento PCI e PCI-Express
+- Barramento USB
+4. c. Outros Barramentos 5. Interfaceamento Via Rede:
+- Protocolo TCP/IP
+- Acesso à rede por software
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
+2. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
+3. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003.
+2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007.
+3. HENNESSY, J. Organização e Projeto de Computadores. 5ª Edição. São Paulo: Elsevier, 2017.
+4. HENESSY, J. L., PATTERSON, D. A. Arquitetura de Computadores. Uma Abordagem Quantitativa. 5ª Edição. São Paulo: Elsevier, 2013.
+5. WEBER, R. F. Fundamentos de Arquitetura de Computadores. 4ª Edição. Porto Alegre: Bookman,
+
+===================================================================================================================================
+
+EMENTA DE Microcontroladores
+
+EMENTA:
+Principais características; Tipos de arquiteturas; Memórias internas; Registradores; Modos de endereçamento; Instruções; Linguagem assembly; Compiladores e ferramentas de desenvolvimento; Sistema de interrupções; Dispositivos de entrada e saída (I/O); Estudo dos conversores A/D; Estudo dos conversores D/A; Dispositivos periféricos; Desenvolvimento de projetos utilizando microcontroladores; Projetos com microcontrolador empregando conversores A/D e D/A; Atividades de laboratório.
+
+OBJETIVOS:
+• ●
+
+• Fornecer conhecimentos necessários para analisar e projetar hardware e software de sistemas microcontrolados e suas interfaces
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Principais Características
+- Histórico dos Microcontroladores e Microprocessadores
+- Dispositivos Comerciais Disponíveis
+2. Tipos de Arquiteturas
+- Arquiteturas Harvard e Von Neuman
+- Estrutura Interna de uma CPU
+- Ciclos de Máquina
+3. Memórias Internas
+- Tipos de Memórias: Flash, RAM, ROM
+- Modos de Acesso
+- Ciclos de Escrita e Leitura 4. Registradores 5. Modos de Endereçamento
+- Direto
+- Indireto
+- Relativo
+- Absoluto
+- Longo
+- Indexado 6. Instruções
+- Conjunto de Instruções
+- Instruções Lógicas
+- Aritméticas
+- Transferência de Dados
+- Booleanas
+- Condicionais g. Especiais 7. Compiladores e Ferramentas de Desenvolvimento 8. Sistema de Interrupções 9. Dispositivos de Entrada/Saída
+- Métodos de Interfaceamento
+- I/O Mapeado em Memória
+- Drives de Potência
+- Interfaceamento com LCD, Display de 7 Segmentos e Teclas
+- Acionamentos de Motores DC, Passo e Servo-Motores 10. Conversores A/D e D/A 11. Dispositivos Periféricos
+- Temporizadores/Contadores
+- Interface de Comunicação Serial
+4. c. Dispositivos Externos:
+- Memórias Seriais ii. Potenciômetros Digitais iii. Relógio de Tempo Real iv. Sensores v. Outros Dispositivos
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
+2. GIMENEZ, S. P. Microcontroladores 8051: Teoria e Prática. São Paulo: Erica, 2010.
+3. NICOLOSI, D. E. Microcontrolador 8051: Detalhado. São Paulo: Erica, 2013.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
+2. GIMENEZ, S. P. Microcontroladores 8051. São Paulo: Pearson, 2002.
+3. NICOLOSI, D. E. C. Laboratório de Microcontroladores Família 8051: Treino de Instruções, Hardware e Software. 6ª Edição. São Paulo: Erica, 2014.
+4. NICOLOSI, D. E. C., BRONZERI, R. B. Microcontrolador 8051 com Linguagem C: Prático e Didático. 2ª Edição. São Paulo: Erica, 2008.
+5. LIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição.
+6. São Paulo: Erica, 2010.
+
+===================================================================================================================================
+
+EMENTA DE Sistemas Operacionais II
+
+EMENTA:
+Sistemas de Arquivos; Entrada/Saída; Deadlocks.
+
+OBJETIVOS:
+• Aprofundar os conhecimentos acerca das estruturas de um sistema operacional.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Sistemas de Arquivos
+- Arquivos
+- Diretórios
+- Implementação do Sistema de Arquivos
+- Gerenciamento e Otimização dos Sistemas
+- Exemplos de Sistemas de Arquivos
+2. Entrada/Saída
+- Princípios do Hardware de E/S
+- Princípios do Software E/S
+- Camadas do Software E/S
+- Discos
+- Relógios
+- Interfaces com o usuário g. Gerenciamento de Energia
+3. Deadlocks
+- Recursos
+- Introdução a Deadlocks
+- Algoritmo do Avestruz
+- Detecção e Recuperação de Deadlocks
+- Evitando Deadlocks
+- Prevenção de Deadlocks g. Outras Questões
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
+2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
+2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.
+3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição.
+4. Rio de Janeiro: LTC, 2015.
+5. WARD, B. Como o Linux Funciona: O que Todo Super Usuário Deveria Saber. 2ª Edição. São Paulo: Novatec, 2015.
+6. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Metodologia Científica e Tecnológica
+
+EMENTA:
+Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.
+
+OBJETIVOS:
+• Desenvolver conhecimentos teórico-práticos necessários para estudo e pesquisa, na perspectiva de subsidiar a realização de trabalhos acadêmicos e de educação continuada;
+• 2. Construir um referencial teórico capaz de fundamentar a elaboração de trabalhos monográficos;
+• Redigir um projeto de pesquisa, de acordo com as normas técnicas de apresentação de trabalhos científicos.
+
+CONTEÚDOS PROGRAMÁTICOS:
+- As Explicações Teleológicas Iluminismo e a Razão – Descartes – Kant A Ciência O Método O Pensamento Cientifico Moderno A Pesquisa Científica O Registro da Pesquisa Científica
+
+- Normas Técnicas
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo:
+2. Atlas, 2017.
+3. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
+
+4. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier, 2014.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto.
+2. 3ª Edição. Porto Alegre: São Paulo, 2010.
+3. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.
+4. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 4. ______. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017.
+
+5. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição.
+6. São Paulo: Penso, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Algoritmos e Técnicas de Programação
+
+EMENTA:
+Sem ementa disponível no PDF.
+
+===================================================================================================================================
+
+EMENTA DE Matemática Discreta
+
+EMENTA:
+Sem ementa disponível no PDF.
+
+===================================================================================================================================
+
+EMENTA DE Química
+
+EMENTA:
+Sem ementa disponível no PDF.

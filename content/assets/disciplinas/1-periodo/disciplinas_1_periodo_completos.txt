@@ -1,0 +1,560 @@
+===================================================================================================================================
+
+EMENTA DE Fundamentos de Computação
+
+EMENTA:
+História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Software; Unidades de Medida; Linguagens de Programação; Sistemas Operacionais; Redes de Computadores.
+
+OBJETIVOS:
+• Apresentar os principais conceitos acerca da informática e da computação, possibilitando que o discente compreenda, inicialmente, a organização e o funcionamento de sistemas computação.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. História da Computação:
+- Introdução;
+- Origens e História da Computação.
+2. Sistemas de Numeração e Representação de Dados:
+- História dos Sistemas de Numeração;
+- Sistemas de Numeração: Decimal; Binário; Octal; e Hexadecimal.
+- Mudanças de Base.
+3. Algoritmos:
+- Conceito;
+- Representação de Algoritmos.
+4. Hardware:
+- Processador;
+- Memória Primária;
+- Memória Secundária: Discos Magnéticos; Discos Flexíveis; Discos Ópticos.
+- Dispositivos de Entrada/Saída: Barramentos; Terminais; Mouses; Impressoras;
+- Equipamentos de telecomunicações;
+5. Software:
+- Software e Programa;
+- Software Básico;
+- Software de Aplicação;
+6. Unidades de Medida:
+- Processamento;
+- Armazenamento;
+- Comunicação.
+- Linguagens de Programação;
+- Sistemas Operacionais;
+- Redes de Computadores
+- Conceito;
+- Meios de Comunicação: Cabo Metálico; Sem Fio; Óptico.
+
+10. Equipamentos de Rede;
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BROOKSHEAR, J. G. Ciência da Computação: Uma Visão Abrangente. 11ª Edição, Bookman, 2013.
+2. CARVALHO, C. P. L. F, LORENA, A. C. Introdução à Computação: Hardware, Software e Dados.
+3. LTC, WAZLAWICK, R. S. História da Computação. Elsevier, 2016.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. DALE, N., LEWIS, J. Ciência da Computação. 4ª Edição. LTC, 2010.
+2. FAROUZAN, B., MOSHARRAF, F. Fundamentos da Ciência da Computação. Cengage Learning, 2011.
+3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+4. Pearson, 2013.
+5. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
+6. ______. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+
+===================================================================================================================================
+
+EMENTA DE Introdução à Engenharia
+
+EMENTA:
+Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para Solução dos Problemas de Engenharia; Modelos e Modelagem na Engenharia; Busca da Solução Ótima; Desenho Universal e Engenharia; Análise de Engenharia; Mundo Quantificado de Engenheiros.
+
+OBJETIVOS:
+• 
+
+• Compreender a importância da profissão de engenheiro;
+
+• 
+
+• Conhecer as regulamentações relacionadas à profissão de engenheiro;
+
+• 
+
+• Conhecer as atividades e habilidades relacionadas à profissão de engenheiro;
+
+• 
+
+• Conhecer as especialidades de engenharia;
+
+• 
+
+• Conhecer as etapas de desenvolvimento de soluções de engenharia;
+
+• 
+
+• Compreender a importância do desenho universal em soluções de engenharia.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Introdução à Engenharia:
+- A engenharia como profissão;
+- Os tempos passados e a engenharia;
+- Os tempos futuros e a engenharia;
+- Grandes realizações da engenharia.
+2. Regulamentação profissional:
+- Ética e responsabilidades.
+3. As atividades dos engenheiros:
+- Aptidão para engenharia;
+- A educação em engenharia;
+- As funções dos engenheiros;
+- A equipe tecnológica.
+4. Habilidades necessárias ao engenheiro As especialidades da engenharia O método para solução dos problemas de engenharia:
+- A fase de formulação do problema;
+
+- A fase de análise do problema;
+- A fase da pesquisa por soluções alternativas;
+- A fase da decisão;
+- A especificação da solução final.
+7. Modelos e modelagem na engenharia:
+- As representações dos sistemas físicos;
+- A modelagem na solução de problemas de engenharia;
+- O uso dos modelos.
+8. A busca da solução ótima
+- Quando os critérios são contraditórios;
+- O processo relativo;
+- O processo de otimização.
+9. Desenho universal e a engenharia
+10. a. Princípios do desenho universal:
+- Igualitário;
+- ii. Adaptável;
+- iii. Óbvio;
+- iv. Conhecido;
+- Seguro;
+- vi. Sem esforço;
+- vii. Abrangente.
+- O Desenho Universal e seus usos variados;
+11. c. Legislação sobre Desenho Universal:
+- Normas técnicas;
+- ii. Legislação.
+- Boas práticas com desenho universal.
+10. A análise de engenharia 11. O mundo quantificado dos engenheiros:
+- As dimensões;
+- Quantidades e unidades;
+- O Sistema Internacional e suas unidades;
+- Unidades derivadas;
+- Múltiplos e submúltiplos decimais das unidades SI;
+- Unidades fora do SI;
+- A escrita das unidades e suas unidades;
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. COCIAN, L.F. E. Introdução à Engenharia. Bookman, 2016.
+2. DYM, C. L., LITLE, P., ORWIN, E., SPJUT, E. Introdução à Engenharia Baseada em Projeto. 3ª Edição.
+3. Bookman, 2010.
+4. HOLTZAPPLE, M., REECE, W. D. Introdução à Engenharia. LTC, 2006.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BROCKMAN, J. B. Introdução à Engenharia: Modelagem e Solução de Problemas. LTC, 2010.
+2. CHAPMAN, S. Programação em Matlab para Engenheiros. 3ª Edição. Cengage Learning, 2016.
+3. CHAPRA, S. C., CANALE, R. P. Métodos Numéricos para Engenharia. 3ª Edição. AMGH, 2016.
+4. LEITE, M. SciLab: Uma Abordagem Prática e Didática. Ciência Moderna, 2015.
+
+5. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. Pearson, 2013
+
+===================================================================================================================================
+
+EMENTA DE Lógica para Computação
+
+EMENTA:
+Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Primeira Ordem; Aplicações de Lógica
+
+OBJETIVOS:
+• Dominar os conceitos lógicos fundamentais de dedução e validade, correção e completude do Cálculo Proposicional e de Predicados.
+• Entender e aplicar os conceitos da lógica proposicional e de predicados na construção do raciocínio utilizado pelo computador em um software.
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Introdução à Lógica para Computação;
+1. Lógica Proposicional:
+- Linguagem, Sintaxe, Semântica e Propriedades Semânticas;
+- Métodos para Determinação da Validade de Fórmulas;
+- Sistemas de Dedução de Lógica Proposicional.
+3. Lógica de Predicados de Primeira Ordem:
+- Linguagem, Quantificadores, Sintaxe, Semântica e Propriedades Semânticas;
+- Sistemas de Dedução na Lógica de Predicados.
+4. Aplicações de Lógica na Computação.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. FILHO, E. A. Iniciação à Lógica Matemática. Nobel, 1999.
+2. SILVA, F. S. C., FINGER, M., MELO, A. C. V. Lógica para Computação. Cengage Learning, 2017.
+
+3. SOUZA, J. N. Lógica para Ciência da Computação e Áreas Afins. 3ª Edição. Elsevier, 2014.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016.
+2. MENEZES, P. B. Matemática Discreta para Computação e Informática. 4ª Edição. Bookman, 2013.
+3. MENEZES, P. B., TOSCANI, L. V., LÓPEZ, J. G. Aprendendo Matemática Discreta com Exercícios.
+4. Bookman, 2009.
+5. ROSEN, K. H. Matemática Discreta e Suas Aplicações. 6ª Edição. Mc Graw Hill, 2009.
+6. SCHEINERMAN, E. Matemática Discreta: Uma Introdução. 3ª Edição. Cengage Learning. 2016.
+
+===================================================================================================================================
+
+EMENTA DE Cálculo I
+
+EMENTA:
+Elementares do Cálculo, Limites e Continuidade de Funções, Derivação, Aplicações da derivada, Integração, Integral Indefinida e Integral Definida.
+
+OBJETIVOS:
+• Introduzir o estudo de todas as funções elementares de maneira a familiarizar o aluno com a individualidade de cada função: parte gráfica, taxas de crescimento comparadas, características de cada função, leitura dos gráficos;
+• Desenvolver o conceito de limite inicialmente de maneira informal; discutir métodos para calcular limites e apresentar a definição matemática formal de limite;
+• Aplicar limites no estudo de curvas contínuas;
+• Promover um entendimento claro dos conceitos do Cálculo que são fundamentais na resolução de problemas enfatizando a utilidade do cálculo por meio do estudo de regras de derivação, taxas relacionadas e traçados de curvas com aplicações do cotidiano.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Números Reais:
+
+- Conjuntos Numéricos;
+- Desigualdades;
+- Valor Absoluto;
+- Intervalos.
+2. Funções:
+- Domínio e Imagem de Funções;
+- Operações com Funções;
+- Composição de Funções;
+- Funções Pares e Ímpares;
+- Funções Periódicas;
+- Funções Compostas;
+- Funções Inversas;
+- Funções Elementares: Polinomiais; Racionais; Trigonométricas; Trigonométricas Inversas;
+- Exponenciais; Logarítmicas.
+3. Limites:
+- Noção Intuitiva;
+- Definição;
+- Unicidade do Limite;
+- Propriedades dos Limites;
+- Limites Laterais;
+- Limites no Infinito;
+- Continuidade das Funções;
+4. Derivada:
+- A Reta Tangente;
+- Derivada de uma Função;
+- Continuidade de Funções Deriváveis;
+- Derivadas Laterais;
+- Regras de Derivação;
+- Derivada de Função Composta;
+- Derivada de Função Inversa;
+- Derivadas de Funções Elementares;
+- Derivadas Sucessivas;
+- Derivada de Funções Implícitas;
+- Derivada de Funções na Forma Paramétrica;
+- O Diferencial de x e f(x).
+5. Aplicação de Derivada:
+- Taxa de Variação;
+- Máximos e Mínimos de Funções;
+- Teorema de Rolle;
+- Funções Crescentes e Decrescentes;
+- Critérios para Determinar os Extremos de uma Função;
+- Concavidade e Pontos de Inflexão;
+- Assíntotas Horizontais e Verticais;
+- Esboço de Gráficos.
+6. Integração:
+- Integral Indefinida;
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- Propriedade de Integral Indefinida;
+- Métodos da Substituição de Variável para Integração;
+- Método de Integração por Partes;
+- Integração por substituição trigonométrica;
+- Cálculo de Áreas como Somas de Riemman;
+- Integral Definida;
+- Propriedades da Integral Definida;
+- Teorema Fundamental do Cálculo;
+- Cálculo de Áreas;
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. LEITHOLD, L. O. O cálculo com Geometria Analítica. São Paulo: Habra, 1994. Vol.
+2. GUIDORIZZI, H. L. Um Curso de Cálculo Diferencial e Integral. 6ª Edição. Rio de Janeiro: LTC, 2018.
+3. Vol.
+4. HOWARD, A., BIVENS, I. C., DAVIS, S. L. Cálculo. 10ª Edição. Porto Alegre: Bookman, 2014. Vol.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. FLEMMING, D. M., GONÇALVES, M. B. Cálculo A: Funções, Limites, Derivação e Integração. 6ª Edição. São Paulo: Pearson, 2006.
+2. LARSON, R., HOSTETLER, R., EDWARDS, B. H. Cálculo. 8ª Edição. São Paulo: AMGH, 2006. Vol.
+3. MUNEM, M. A.; FOULIS, D.J. Cálculo. Rio de Janeiro: LTC, 1982. Vol.
+4. STWEART, J. Cálculo. 4ª Edição. São Paulo: Cengage Learning, 2017. Vol.
+5. WEIER, M., HASS, J., THOMAS, G. B. Cálculo 1. 12ª Edição. São Paulo: Pearson, 2012. Vol.
+
+===================================================================================================================================
+
+EMENTA DE Álgebra Linear e Geometria Analítica I
+
+EMENTA:
+Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
+
+OBJETIVOS:
+• Introduzir e desenvolver em termos teóricos um conjunto de conceitos fundamentais da álgebra linear, que serão ferramentas essenciais para apoio às unidades curriculares mais específicas da engenharia;
+• Abordar estudo de matrizes, determinantes, sistemas de equações lineares, vetores no plano e no espaço com aplicações na geometria analítica e ainda introduz conceitos básicos sobre espaços vetoriais e subespaços.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Matrizes:
+- Definição e Tipos Especiais;
+- Álgebra Matricial;
+- Matriz Transposta;
+- Matriz Simétrica;
+- Matriz Ortogonal;
+2. Determinantes:
+- Determinante de uma Matriz;
+- Ordem e Representação;
+
+- Propriedades;
+- Cálculo do Determinante por uma Linha;
+- Cálculo do Determinante por Laplace;
+- Operações Elementares;
+- Cálculo do Determinante por Triangularização;
+8. Inversão de Matrizes:
+- Matriz Inversa;
+- Propriedades;
+- Inversão de Matrizes por Matriz Adjunta;
+- Inversão de Matrizes por Meio de Operações Elementares;
+9. Sistemas de Equações Lineares:
+- Sistema Compatível;
+- Sistemas Equivalentes;
+- Operações Elementares e Sistemas Equivalentes;
+- Sistema Linear Homogêneo;
+- Classificação e Solução dos Sistemas de Equações Lineares;
+- Discussão de Sistemas em Função de Parâmetros Reais.
+10. Vetores:
+- Vetores no R² e no R³, operações;
+- Vetor Definido por Dois Pontos;
+- Produto Escalar;
+- Módulo de um Vetor;
+- Ângulo entre Dois Vetores;
+- Paralelismo e Ortogonalidade de Dois Vetores;
+- Produto Vetorial;
+- Produto Misto;
+- Equação de Planos;
+- Área de Triângulos e Paralelogramos;
+- Volumes de Paralelepípedos.
+11. Espaços Vetoriais:
+- Propriedades;
+- Subespaços Vetoriais;
+- Combinação Linear;
+- Dependência e Independência Linear;
+- Base e Dimensão.
+12. Espaços Vetoriais Euclidianos:
+- Produto Interno Não Usual;
+- Módulo de um Vetor e Normalização de Vetores;
+- Vetores Ortogonais;
+- Bases Ortogonais e Ortonormais;
+- Processo de Ortogonalização de Gram Schmidt;
+- Complemento Ortogonal.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear. 3.ª Edição. São Paulo: Harbra, 1984.
+2. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
+3. STEINBRUCH, A., WINTERLE, P. Álgebra Linear. 2.ª Edição. São Paulo: Pearson, 1995.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
+2. LAY, D. C., LAY, S. R.
+3. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC,
+4. LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018.
+5. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011.
+6. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014.
+
+===================================================================================================================================
+
+EMENTA DE Teoria Geral da Administração
+
+EMENTA:
+Campo da Administração; Estruturas Administrativas; Importância das Estruturas; Técnicas de Estruturação; Áreas Administrativas; Planejamento da Ação Empresarial; Ambiente Organizacional.
+
+OBJETIVOS:
+• Capacitar o aluno a conhecer o contexto organizacional definindo as funções e estruturas administrativas bem como as ações que envolvem um planejamento empresarial.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. O Campo da Administração:
+- Administração: Conceito, Importância e Campos de Atuação.
+- Funções Administrativas;
+- Características das Funções Administrativas.
+2. Estruturas Administrativas:
+- Tipos de Estruturas Formal e Informal;
+- Importâncias das Estruturas;
+- Técnicas de Estruturação – Departamentalização;
+- Organograma.
+3. Áreas Administrativas:
+- Administração de Recursos Humanos;
+- Administração de Produção, Material e Patrimônio;
+- Administração de Marketing;
+- Administração Financeira e Orçamentária.
+4. Planejamento da Ação Empresarial:
+- Planejamento Estratégico, Tático e Operacional;
+- Ambiente Organizacional Interno e Externo.
+5. O Ambiente Organizacional:
+- Focalizando a Oportunidade;
+- Novos Mercados;
+- Técnicas de Decidir;
+- Desenvolvimento Organizacional;
+- Gestão do Conhecimento.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. MOTTA, F. C. P.; VASCONCELOS, I. F. G. Teoria Geral da Administração. 3ª Edição. São Paulo:
+2. Cengage Learning, 2006.
+3. MAXIMIANO, A. C. A. Teoria Geral da Administração – Da revolução Urbana à Revolução Digital. 8ª Edição. São Paulo: Atlas, 2017.
+4. CHIAVENATO, I. Introdução à Teoria Geral da Administração. 9ª Edição. São Paulo: Editora Manole,
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CHIAVENATO, I., SAPIRO, A. Planejamento Estratégico: Fundamentos e Aplicações. 3ª Edição. Rio de Janeiro: Elsevier, 2015.
+2. MÜLLER, C. J. Planejamento Estratégico, Indicadores e Processos: Uma Integração Necessária. Rio de Janeiro: Atlas, 2013.
+3. TAKEUCHI, H., NONAKA, I. Gestão do Conhecimento. Porto Alegre: Bookman, 2008.
+4. GOVINDARAJAM, V., TRIMBLE, C. O Desafio da Inovação. Rio de Janeiro: Elsevier, 2013.
+5. TIDD, J., BESSANT, J. Gestão da Inovação: Integrando Tecnologia. 5ª Edição. Porto Alegre: Bookman,
+
+===================================================================================================================================
+
+EMENTA DE Desenho Técnico para Engenharia
+
+EMENTA:
+Utilização de instrumentos de desenho; Normas para desenho; Desenho geométrico; Projeções ortogonais; Perspectiva isométrica; Dimensionamento e cotagem; Cortes e secções.
+
+OBJETIVOS:
+• Capacitar os alunos para interpretação e confecção de desenhos técnicos;
+• Desenvolver raciocínio espacial;
+• Adquirir conhecimentos e normas, técnicos, para confecção e leitura de desenhos;
+• Introduzir conceitos de computação gráfica.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Utilização de instrumentos de desenho;
+2. Normas para desenho;
+3. Desenho geométrico:
+- Geometria Plana;
+- Linhas;
+- Ângulos;
+- Polígonos;
+- Linhas e pontos notáveis: Mediatriz, Bissetriz, Mediana e Altura;
+- Circunferências;
+4. Projeções ortogonais;
+5. Perspectiva isométrica;
+6. Dimensionamento e cotagem:
+- Normas de cotagem;
+- Elementos da cotagem;
+- Linhas auxiliares (de chamada ou extensão);
+- Linha de cota;
+- Limites da linha de cota;
+- Setas;
+- Traços oblíquos;
+- Cotas (algarismos);
+- Convenções;
+- Cotagem de arcos, círculos e ângulos;
+- Cotagem através de símbolos;
+- Disposição e apresentação da cotagem;
+- Cotagem em projeções;
+- Cotagem em perspectiva isométrica;
+- . Cotagem em cortes.
+7. Cortes e secções:
+- Identificação dos tipos de corte;
+
+- 
+- 
+- 
+- 
+
+- 
+
+- Corte visto de frente;
+- Corte visto de cima;
+- Corte visto de lado;
+- Linha de corte AB;
+- Linha de corte AB e CD;
+
+- Identificação de hachuras pela ABNT.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. PEREIRA, Patrícia; MICELI M.T. Desenho Técnico Básico. Rio de Janeiro: LTC, 2008.
+2. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. São Paulo: Pearson, 2013.
+
+3. SILVA, A., RIBEIRO, C. T., DIAS, J., SOUZA, L. Desenho Técnico Moderno. 4ª Edição. Rio de Janeiro: LTC,
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. LEAKE, J. M., BORGERSON, J. L. Manual de Desenho Técnico para Engenharia: Desenho, Modelagem e Visualização. 2ª Edição. Rio de Janeiro: LTC, 2014.
+2. MORIOKA, C. A., CRUZ, M. D., CRUZ, E. C. Desenho Técnico: Medidas e Representação Gráfica. São Paulo: Editora Érica, 2014.
+3. NETTO, C. C. Estudo Dirigido Autodesk: AutoCAD 2018 para Windows. São Paulo: Érica, 2017.
+4. NORTON, R. L. Projeto de Máquinas: Uma Abordagem Integrada. 4ª Edição. Porto Alegre: Bookman, RODRIGUES, A. R., SOUZA, A. F., JUNIOR, A. B., BRANDÃO, L. C., SILVEIRA, Z. C. Desenho Técnico Mecânico. Rio de Janeiro: Elsevier, 2015.
+
+===================================================================================================================================
+
+EMENTA DE Expressão Oral e Escrita
+
+EMENTA:
+Noções de texto. A organização micro e macroestrutural do texto: coesão e coerência. Tipologia textual. Linguagem e argumentação. Redação científica: resumo, resenha.
+
+OBJETIVOS:
+• Capacitar o aluno a melhorar a compreensão, organização e a redação de textos narrativos, descritivos e dissertativos e elaborar textos relacionados com o curso;
+
+• Instrumentar os estudantes a se expressarem tanto verbalmente quanto por escrito.
+
+• rientar a leitura de textos diversos, especialmente os acadêmicos.
+
+• Estimular os estudantes a participar de eventos científicos.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Noções de texto:
+- Linguagem verbal e não verbal;
+- Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
+- Variações linguísticas.
+
+2. rganização textual:
+- Coerência e Coesão.
+3. Tipologia Textual:
+- Estrutura e características do texto descritivo;
+- Estrutura e características do texto narrativo;
+- Estrutura e características do texto dissertativo.
+4. Linguagem e argumentação Redação científica:
+- Elaboração de resumo, resenha e fichamento.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. ALMEIDA, D. S. A Produção de Textos no Ensino Superior. Curitiba: Editora CRV, 2012.
+2. MARTINS, D. S., ZILBERKNOP, L. S. Português Instrumental: De Acordo com as Normas Atuais da ABNT.
+3. Ed. Rio de Janeiro: Atlas, 2019.
+4. MATTOSO, C. J. G. Manual de Expressão Oral e Escrita. 23. Ed. Rio de janeiro: Editora Vozes, 2012 BIBLIOGRAFIA COMPLEMENTAR:
+
+5. DEMAI, F. M. Português Instrumental. São Paulo: Editora Érica, 2014.
+6. DINTEL, F. Como Escrever Textos Técnicos e Profissionais: Todas as Orientações para Elaborar Relatórios, Cartas e Documentos Eficazes. São Paulo: Gutenberg, 2011.
+7. MEDEIROS, J. B. Português Instrumental: Contém Técnicas de Elaboração de Trabalho de Conclusão de Curso.
+8. Ed. Rio de Janeiro, Atlas, 2013.
+
+9. LIVEIRA, J. P. M., MOTTA, C. A. P. Como Escrever Textos Técnicos. 2. Ed. São Paulo: Cengage Learning, 10.
+10. LIVEIRA, J. L. Texto Acadêmico: Técnicas de Redação e de Pesquisa Científica. 9. Ed.. Rio de Janeiro:
+11. Editora Vozes, 2012
+
+===================================================================================================================================
+
+EMENTA DE Algoritmos e Técnicas de Programação
+
+EMENTA:
+Sem ementa disponível no PDF.
+
+===================================================================================================================================
+
+EMENTA DE Matemática Discreta
+
+EMENTA:
+Sem ementa disponível no PDF.
+
+===================================================================================================================================
+
+EMENTA DE Química
+
+EMENTA:
+Sem ementa disponível no PDF.

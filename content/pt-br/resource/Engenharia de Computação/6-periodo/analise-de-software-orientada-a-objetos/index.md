@@ -131,4 +131,5 @@ tags:
 > 4. GOES, W. M. Aprenda UML por Meio de Estudos de Caso. São Paulo: Novatec, 2014.
 
 ## 📝 Anotações e Arquivos Didáticos
+- 📖 **[Short Lecture — Análise de Software Orientada a Objetos (Compêndio Completo)](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/short-lecture)**
 - 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes)**

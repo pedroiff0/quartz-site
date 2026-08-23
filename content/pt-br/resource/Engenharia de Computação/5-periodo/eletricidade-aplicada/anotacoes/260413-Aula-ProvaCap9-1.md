@@ -1,6 +1,5 @@
 ---
 publish: true
-password: "eng232"
 titulo:  260413-Aula-ProvaCap9-1
 disciplina:
 conteudo:

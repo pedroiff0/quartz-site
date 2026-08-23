@@ -1,6 +1,5 @@
 ---
 publish: true
-password: "eng232"
 titulo: 260326-Aula-Intro-1
 disciplina:
 conteudo:

@@ -77,4 +77,5 @@ tags:
 > 5. SZAJNBERG, M. Eletrônica Digital: Teoria, Componentes e Aplicações. Rio de janeiro: LTC, 2014.
 
 ## 📝 Anotações e Arquivos Didáticos
+- 📖 **[Short Lecture — Eletrônica Digital (Compêndio Completo)](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/short-lecture)**
 - 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes)**

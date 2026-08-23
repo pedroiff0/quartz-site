@@ -1,6 +1,5 @@
 ---
 publish: true
-password: "eng232"
 titulo:  260618-RevisaoProva
 disciplina:
 conteudo:

@@ -1,0 +1,489 @@
+===================================================================================================================================
+
+EMENTA DE Eletricidade Aplicada
+
+EMENTA:
+Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. Fornecimento de energia elétrica. Normas técnicas e órgãos reguladores. Automação e controle de processos.
+
+OBJETIVOS:
+• Proporcionar ao aluno conhecimentos básicos sobre energia elétrica objetivando melhor utilizá-las no meio industrial, bem como estudar os equipamentos elétricos e eletrônicos e iluminação na indústria.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Análise de Circuitos em Corrente Alternada
+- Padrões Elétricos e Convenções;
+- Circuitos em Corrente Alternada;
+- Representação Senoidal, Retangular e Polar;
+- ii. Valor Eficaz de uma Onda Senoidal;
+- Triângulos de Impedâncias;
+- iii. Reatância indutiva;
+- iv. Reatância capacitiva;
+- Triângulo de Potência;
+- Potência Ativa;
+
+- vi. Potência Reativa;
+- vii. Potência Aparente;
+- viii. Fator de Potência;
+- Noções de Circuitos Trifásicos;
+- Transformadores;
+- ix. Relação de transformação, ligação de triângulo e estrela;
+- Fornecimento de Energia
+- Visão Geral do Sistema Elétrico;
+- Modalidades de Ligações dos Consumidores;
+- Monofásica;
+- ii. Bifásica;
+- iii. Trifásica;
+- Instalação para Iluminação e Aparelhos Eletrodomésticos;
+- Normas, Símbolos e Convenções.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. ALEXANDER, C. K., SADIKU, M. Fundamentos de Circuitos Elétricos. 5ª Edição. Porto Alegre:
+2. Bookman, 2013.
+3. NILSSON, J. W., RIEDEL, S. A. Circuitos Elétricos. 10ª Edição. São Paulo: Pearson, 2015.
+
+4. NAHVI, M., EDMINISTER, J. Circuitos Elétricas. 5ª Edição. Porto Alegre: Bookman, 2014.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. GUSSOW, M. Eletricidade Básica. 2ª Edição. Porto Alegre: Bookman, 2008.
+2. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro:
+3. LTC, 2013.
+4. O’MALLEY, J. Análise de Circuitos. 2ª Edição. Porto Alegre: Bookman, 2014.
+5. SADIKU, M., MUSA, S., ALEXANDER, C. Análise de Circuitos Elétricos com Aplicações. Porto Alegre:
+6. Bookman, 2013.
+7. SVOBODA, J. A, DORF, R. C. Introdução aos Circuitos Elétricos. 9ª Edição. Rio de Janeiro: LTC, 2016.
+
+===================================================================================================================================
+
+EMENTA DE Projeto e Análise de Algoritmos
+
+EMENTA:
+Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limites de Complexidade. Análise de algoritmos iterativos e recursivos.
+
+OBJETIVOS:
+• Conhecer as técnicas e formalismos fundamentais para analisar algoritmos
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Medidas de Complexidade
+2. Notação Assintótica
+3. Análise Assintótica de Limites de Complexidade 4. Algoritmos de Força Bruta 5. Algoritmos de Divisão e Conquista 6. Algoritmos Gulosos 7. Teoria dos Grafos
+- Conceitos Básicos
+- Grafos e Digrafos
+- Extensões de Grafos
+- Planaridade
+- e Conectividade i. Conectividade de Nós e Grafos ii. Árvores e Grafos iii. Algoritmo de Conectividade
+
+- 
+
+- Coloração i. Algoritmos de Coloração de Grafos g. Busca em Largura e Profundidade h. Algoritmos de Menor Caminho i. Algoritmo de Belman-Ford i. Algoritmo de Dijkstra j. Árvore Geradora k. Algoritmo de Kruskal i. Algoritmo de Prim i. Ordenação Topológica em Grafos j. Fluxo de Rede i. Algoritmo de Ford-Fulkerson 8. Classes de Problema
+- P
+- NP
+- NP-Completo
+- NP-Difícil
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,
+2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014.
+
+3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C. São Paulo: Cengage, 2010.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo:
+2. McGrall Hill, 2007.
+3. ASCENCIO, A. F. G., ARAÚJO, G. A. Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++. São Paulo: Pearson, 2015.
+4. BACKES, A. Estrutura de Dados Descomplicada em Linguagem C. São Paulo: Elsevier, 2016.
+5. CELES, W., CERQUEIRA, R., RANGEL, J. L. Introdução à Estruturas de Dados: Com Técnicas de Programação em C. 2ª Edição. São Paulo: Elsevier, 2016.
+6. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
+
+===================================================================================================================================
+
+EMENTA DE Modelagem de Dados
+
+EMENTA:
+Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenciador de Banco de Dados. Modelo Entidade Relacionamento. Normalização e Dependências Funcionais. Modelo Relacional. Álgebra Relacional e Cálculo Relacional. Projeto e Implementação de Bancos de Dados.
+
+OBJETIVOS:
+• Modelar conceitualmente os requisitos informacionais de um sistema de informação;
+• Conhecer e aplicar modelos e técnicas de projeto e implementação de banco de dados;
+• .
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Evolução Histórica dos Sistemas de Informação
+
+- Conceitos Básicos de um Sistema Gerenciador de Banco de Dados (SGBDs)
+- Diferença entre Utilização de Arquivos e SGBDs
+- Vantagens de um SGDB
+- Arquitetura de SGBD
+
+- Modelo Entidade Relacionamento
+- Entidade
+- Atributos
+- Relacionamentos
+- Generalização
+- Diagrama Entidade-Relacionamento
+
+- Normalização e Dependências Funcionais
+- 
+- 
+- 
+- 
+- 
+
+- Primeira Forma Normal Segunda Forma Normal Terceira Forma Normal Quarta Forma Normal Quinta Forma Normal
+
+- Modelo Relacional
+- Conceitos
+- Restrições de integridade
+
+- Álgebra Relacional
+- Álgebra Relacional
+- Cálculo Relacional de Tupla
+- Cálculo Relacional de Domínio
+
+- Projeto e Implementação de Banco de Dados
+- Diagrama de Estrutura de Dados
+- Linguagem de Definição de Dados
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004.
+2. HEUSER, C. A. Projeto de Banco de Dados. 6ª Edição. Porto Alegre: Bookman, 2008.
+3. SILBERSCHATZ, A, KORTH, H. F.
+4. SUDARSHAN, S. Sistema de banco de dados. 6. ed. Rio de Janeiro, RJ:
+5. Elsevier, 2012.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012.
+2. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015.
+3. MACHADO, F. N. R., ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 17ª Edição. São Paulo: Érica, 2012.
+4. ROB, P., CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Administração. São Paulo: Cengage, 2010.
+5. TEOREY, T., LIGHTSTONE, S., NARDEAU, T., JAGADISH, H. V. Projeto e Modelagem de Dados. 2ª Edição. São Paulo: Elsevier, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Engenharia de Software
+
+EMENTA:
+Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto de software. Arquitetura de software. Testes. Visão geral sobre manutenção de software.
+
+OBJETIVOS:
+• Desenvolver a visão de software como um sistema e parte de um sistema;
+• Conhecer processos de desenvolvimento de software
+• Compreender os papéis dos participantes do processo de desenvolvimento de software;
+• Identificar os diversos paradigmas da engenharia de software;
+• Conhecer modelos arquiteturais de software;
+• Conhecer princípios e metodologias de testes de software;
+• Reconhecer as categorias e atividades da manutenção de software;
+• Trabalhar com ambientes e ferramentas de suporte ao desenvolvimento de software
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Teoria dos Sistemas
+- Sistemas naturais e sistemas automatizados
+- Software x Sistemas
+- Categorias de Software
+2. Processo de Desenvolvimento de Software
+- Histórico da Evolução do Software
+- Etapas do Processo de Desenvolvimento de Software: Análise, Projeto, Implementação, Testes, Implantação e Manutenção.
+- Modelo Clássico
+- Modelo em Espiral
+- Processo Unificado
+- Métodos Ágeis g. Papeis no desenvolvimento de software (stakeholders).
+3. Análise e Projeto de Software
+- Técnicas de Coleta e Especificação de Requisitos i) Métodos de Análise: Estruturada, Essencial e Orientada a Objetos
+- Paralelo entre as diferentes metodologias
+- A Etapa de Projeto
+- Princípios de Qualidade em Projeto: Coesão e Acoplamento
+- Métodos de Projeto 4. Arquitetura de Software
+- Arquitetura em camadas
+- Arquitetura MVC
+- Microserviços
+- Arquitetura Orientada a Mensagens
+- Arquitetura Publish/Subscribe 5. Testes
+- Teste de unidade
+- Testabilidade
+- Teste de integração
+- Testes de sistema 6. Visão Geral sobre Manutenção de Software
+- Conceito, motivações e dificuldades
+- Tipos de Manutenção
+- Processo de Manutenção de Software
+- Gerência de Configuração
+- Reengenharia 7. Ferramentas e Ambientes de Suporte ao Desenvolvimento de Software
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. PRESSMAN, R. S., MAXIM, B. R. Engenharia de Software: Uma Abordagem Profissional. 8ª Edição. Porto Alegre: Bookman, 2016.
+2. SOMMERVILLE, I. Engenharia de Software. 9ª Edição. São Paulo: Pearson, 2011.
+3. WAZLAWICK, R. S. Engenharia de Software: Conceitos e Práticas. São Paulo: Elsevier, 2013.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. DELAMARO, M. E., MALDONADO, J. C., JINO, M. Introdução ao Teste de Software. 2ª Edição. São Paulo: Elsevier, 2016.
+2. FERNANDES, J. M., MACHADO, R. J. Requisitos em Projetos de Software e de Sistemas de Informação.
+3. São Paulo: Novatec, 2017.
+4. HIRAMA, K. Engenharia de Software: Qualidade e Produtividade com Tecnologia. São Paulo: Elsevier, 4.
+5. MACHADO, F. N. R., Análise e Gestão de Requisitos de Software: Onde Nascem os Sistemas. 3ª Edição. São Paulo: Érica, 2015.
+6. SAMPAIO, C. Qualidade de Software na Prática: Como Reduzir o Custo de Manutenção de Software com a Análise de Código. São Paulo: Ciência Moderna, 2014.
+
+===================================================================================================================================
+
+EMENTA DE Analógica
+
+EMENTA:
+Transistores bipolares e circuitos polarizados com transistor; Fonte de alimentação regulada; Osciladores e temporizadores; Tiristores; Amplificadores Operacionais (circuitos lineares e não-lineares).
+
+OBJETIVOS:
+• ● Compreender o funcionamento dos componentes eletrônicos básicos abordados e de como eles funcionam ● Compreender o funcionamento dos CIs e dos sistemas eletrônicos atuais e suas aplicações no campo da Engenharia de Computação.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Teoria dos Diodos
+- Teoria do semicondutor
+- Dopagem
+- Diodo não polarizado; polarização direta e reversa
+- Gráfico do diodo; linhas de carga
+- O diodo Zener e o regulador Zener
+2. Circuitos com Diodos
+- A Onda Senoidal
+- O transformador
+- Circuitos Retificadores
+- Filtros com capacitor de entrada
+- Outros diodos com finalidades específicas (Schottky, varactor)
+- Componentes optoeletrônicos g. A transferência de elétrons, em regime de avalanche e tempo de trânsito.
+3. Transistores Bipolares
+- Polarização Direta e Reversa
+- O transistor como chave
+- O transistor como fonte de corrente
+- Circuitos polarizados com transistor 4. Fonte de Alimentação Regulada
+- Regulador por realimentação da tensão;
+- Limitação da corrente
+- Característica da fonte de alimentação
+
+- Reguladores por chaveamento Osciladores e Temporizadores
+- Teoria da oscilação senoidal
+- Oscilador (Ponte de Wien)
+- Outros osciladores;
+6. Tiristores
+- A Trava Ideal
+- O Diodo de Quatro Camadas
+- O Retificador Controlado de Silício e Variações do SCR
+- Tiristores Bidirecionais
+- Transistor de Unijunção 7. Amplificadores Operacionais
+- Amplificador Operacional ideal e não ideal
+- Terminologia e símbolos
+- Circuitos básicos com Amplificador Operacional
+- Considerações sobre o Amplificador Operacional não-ideal
+- Circuito Integrador e diferenciador com Amplificador Operacional .
+- Os geradores de sinais com Amplificador Operacional .
+8. Estudo de Caso
+- Análise e Compreensão de Circuitos Eletrônicos
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. MALVINO, A. P., BATES, D. J. Eletrônica: Volume 1. 8ª Edição. Porto Alegre: Bookman, 2016.
+2. ______. Eletrônica: Volume 2. 8ª Edição. Porto Alegre: Bookman, 2016.
+3. PERTENCE, Antônio Jr. Amplificadores Operacionais e Filtros Ativos. 8ª Edição. Porto Alegre:
+4. Bookman, 2014.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BOYLESTAD, R., NASHELSKY, L. Dispositivos Eletrônicos e Teoria dos Circuitos. 11ª Edição. São Paulo:
+2. Pearson, 2013.
+3. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro:
+4. LTC, 2013.
+5. HART, D. W. Eletrônica de Potência: Análise e Projeto de Circuitos. Porto Alegre: Bookman, 2011.
+6. HOROWITZ, P. A Arte da Eletrônica: Circuitos Eletrônicos e Microeletrônica. 3ª Edição. Porto Alegre:
+7. Bookman, 2017.
+8. PLATT, C. Eletrônica para Makers: Um Manual Prático para o Novo Entusiasta de Eletrônica. São Paulo: Novatec, 2016.
+
+===================================================================================================================================
+
+EMENTA DE Paradigmas de Linguagens de Programação 2020
+
+EMENTA:
+Visão geral de linguagens de programação: valores e tipos; variáveis e comandos; associações e escopo; abstração e mecanismos de passagens de parâmetros; encapsulamento; sistema de tipos; sequenciadores; concorrência. Paradigmas: imperativo, funcional, lógico, orientado a objetos e paradigmas híbridos.
+
+OBJETIVOS:
+• Compreender os principais conceitos e paradigmas das linguagens de programação permitindo a seleção de uma linguagem mais adequada para solução de um dado problema.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Visão Geral de Linguagens de Programação
+- Conceito e Paradigmas
+- Sintaxe Semântica
+- Compiladores e Interpretadores
+2. Valores e Tipos
+- Valores e Tipos
+- Tipos Primitivos
+- Tipos Compostos
+- Tipos Recursivos
+- Sistemas de Tipos
+- Expressões
+3. Armazenamento
+- Variáveis e Constantes
+- Variáveis Compostas
+- Tempo de Vida de Variáveis
+- Ponteiros
+- Comandos
+- Expressões com Efeitos Colaterais 4. Abstração Procedural
+- Tipos de Abstração
+- Parâmetros e Argumentos
+- Ordem de Avaliação 5. Abstração de Dados
+- Pacotes
+- Encapsulamento
+- Tipo Abstrato de Dados
+- Objetos e Classes 6. Fluxo de Controle
+- Sequenciadores
+- Jumps
+- Scapes
+- Exceções 7. Paradigmas de Programação
+- Programação Imperativa
+- Programação Orientada a Objetos
+- Programação Funcional
+- Programação Lógico
+- Paradigmas híbridos
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. SEBESTA, R. W. Conceitos de Linguagens de Programação. 11ª Edição. Porto Alegre: Bookman, 2018.
+2. TUCKER, A. B., NOOMAN, R. Linguagens de Programação: Princípios e Paradigmas. 2ª Edição. São Paulo: McGraw Hill, 2009.
+3. WAMPLER, D. Programação Funcional para Desenvolvedores Java. São Paulo: Novatec, 2012.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. DONOVAN, A. A. A., KERNIGHAN, B. W. A Linguagem de Programação GO. São Paulo: Novatec, 2017.
+2. DOSXEY, C. Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis. São Paulo:
+3. Novatec: 2016.
+4. IERUSALIMSCHY, R. Programando em LUA. 3ª Edição. Rio de Janeiro: LTC, 2014.
+5. MANZANO, J. A. N. Primeiros Passos com a Linguagem Rust. São Paulo, Novatec, 2018.
+6. RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz. São Paulo: Novatec, 2015.
+
+===================================================================================================================================
+
+EMENTA DE Gestão Ambiental
+
+EMENTA:
+Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo, reciclagem e reaproveitamento. Definição de lixo e poluição. Externalidades negativas. Responsabilidade ambiental. Noções de engenharia de materiais. Gestão de recursos hídricos. Gestão da energia. Certificado ISO 14001. Licenciamento ambiental. Estratégias ambientais para os negócios.
+
+OBJETIVOS:
+• Introduzir conceitos de gestão ambiental com intuito de levar o aluno a pensar sistemicamente e considerar os fatores externos ambientais que influenciam o ambiente interno e os reflexos no meio ambiente em função da ação do homem nas atividades produtivas;
+• Capacitar o aluno para avaliar os empreendimentos do ponto de vista ambiental e compreender a importância da consciência ambiental como estratégia de negócios.
+
+CONTEÚDOS PROGRAMÁTICOS:
+8. Conceito de Meio Ambiente 9. Fundamentos de Teoria Geral dos Sistemas
+- O pensamento sistêmico
+- O todo e a soma das partes
+- O relacionamento interpartes
+- Escopo sistêmico
+- Dependência
+- Sinergia g. A finitude da natureza 10. Noções de engenharia de materiais
+- Extração
+- Produção
+- Distribuição
+- Varejo
+- Descarte 11. Reciclagem ou reaproveitamento
+- Definição de lixo e poluição
+- O lixo industrial
+- O lixo residencial
+- O desperdício
+- Poluição industrial 12. Consumismo, reciclagem e reaproveitamento
+- A cultura consumista
+- A extração de materiais
+- Reciclagem
+- Reaproveitamento
+- Inovação na gestão de materiais 13. Externalidades negativas
+- Custos não contabilizados
+- Desoneração do trabalho
+- Extração não licenciada 14. Responsabilidade ambiental 15. Gestão de recursos hídricos 16. Gestão da energia 17. Certificado ISO 14001 18. Licenciamento ambiental 19. Estratégias ambientais para os negócios
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BARBIERI, J.C. Gestão Ambiental Empresarial.
+2. Conceitos, Modelos e Instrumentos. 4ª Edição. São Paulo: Saraiva. 2015.
+3. DIAS, R. Gestão Ambiental: Responsabilidade Social e Sustentabilidade. 3ª Edição. São Paulo: Atlas, 6.
+4. DONAIRE, D., OLIVEIRA, E. C. Gestão Ambiental na Empresa. 3ª Edição. São Paulo: Atlas, 2018.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:
+2. Elsevier, 2012.
+3. CECH, T. V. Recursos Hídricos: História, Desenvolvimento, Política e Gestão. 3ª Edição. Rio de Janeiro:
+4. LTC, 2012.
+5. FIORILLO, C. A. P., MORITA, D. M., FERREIRA, P. Licenciamento Ambiental. 3ª Edição. São Paulo:
+6. Saraiva, 2018.
+7. MIHELCIC, J. R., ZIMMERMAN, J. B. Engenharia Ambiental: Fundamentos, Sustentabilidade e Projeto.
+8. Rio de Janeiro: LTC, 2017.
+9. SEIFFERT, M. E. B. ISO 14001 Sistemas de Gestão Ambiental: Implantação Objetiva e Econômica. 5ª Edição. São Paulo, Atlas, 2017.
+
+===================================================================================================================================
+
+EMENTA DE Linguagens Formais e Autômatos
+
+EMENTA:
+Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. Máquina de turing. Problema da parada. Noções de cálculo lambda e funções recursivas.
+
+OBJETIVOS:
+• Aprender a formalizar problemas computacionais através de linguagens formais, autômatos e máquina de Turing;
+• Compreender o funcionamento de tais sistemas e modelos formais;
+• Estudar e compreender conceitos de teoria da computação.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Linguagens Regulares
+2. Linguagens Livres de Contexto
+3. Linguagens Sensíveis ao Contexto 4. Autômatos
+- Autômato Finito
+- Autômato Determinístico
+- Autômato Não-Determinístico
+- Autômato de Pilha 5. Máquina de Turing
+- Definição do Modelo Computacional de Máquina de Estados e da Máquina de Turing
+- Variações e Extensões da Máquina de Turing
+- Aplicações da Máquina de Turing 6. Computabilidade 7. Noções de Cálculo-Lambda 8. Funções Recursivas
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. DIVERIO, T. A., MENEZES, Paulo. B. Teoria da Computação: máquinas universais e computabilidade. 3ª Edição. Porto Alegre: Bookman. 2011.
+2. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição.
+3. LTC, 2016.
+4. ROSEN, Kenneth H. Matemática Discreta e suas Aplicações. 6ª Edição. São Paulo: McGraw-Hill Brasil.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. HOPCROFT, J. E., ULLMAN, J. D., MOTWANI, R. Introdução à teoria de autômatos, linguagens e computação. 2ª Edição. Rio de Janeiro: Campus. 2003.
+2. MENEZES, P. B. Linguagens Formais e Autômatos. 6ª Edição. Porto Alegre: Bookman. 2011.
+3. PAPADIMITRIOU, C. H., LEWIS, H. R. Elementos da Teoria da Computação. 2ª Edição. Porto Alegre:
+4. Bookman.
+5. SIPSER, M. Introdução à Teoria da Computação. 2ª Edição. São Paulo: Thomson Learning. 2007.
+6. VIEIRA, N. J. Introdução aos fundamentos da computação: linguagens e máquinas. São Paulo: Thomson,
+
+===================================================================================================================================
+
+EMENTA DE Avaliação e Desempenho de Sistemas
+
+EMENTA:
+Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilísticos. Benchmarking e Planejamento de capacidade. Teoria de Filas. Leis Fundamentais. Modelos simples baseados em Fila única, do tipo M/M/1. Lei de Little. Estudos de Casos.
+
+OBJETIVOS:
+• Apresentar os principais conceitos e técnicas de análise de desempenho cobrindo tópicos nas áreas de modelagem, simulação e experimentação.
+
+CONTEÚDOS PROGRAMÁTICOS:
+20. Visão Geral
+- Motivação
+- Técnicas de Avaliação de Desempenho
+- Metodologia Geral para Estudo de Modelagem 21. Modelos Determinísticos de Desempenho
+- Leis Fundamentais i. Lei de Litle ii. Leis Operacionais
+- Limites Assintóticos
+- Análise do Valor Médio 22. Introdução a Modelos Probabilísticos de Desempenho
+- Filas M/M/1 23. Modelos de Carga
+- Caracterização de Cargas
+- Benchmarking
+- Modelos de Comportamento de Usuários
+- Planejamento e Gerenciamento de Capacidade
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. FOGLIATTI, M. C., MATTOS, N. M. C. Teoria de Filas. Rio de Janeiro, 2006.
+2. PRADO, D. Teoria de Filas e da Simulação – Volume 2. 5ª Edição. São Paulo: Falconi, 2017.
+3. ______. Usando o Arena em Simulação – Volume 3. 5ª Edição. São Paulo: Falconi, 2014.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BATEMAN, R., BOWDEN, R. D., GOGG, T. J., HARREL, C. R., MOTT, J. R. A., MONTEVECHI, J.
+2. A. B. Simulação de Sistemas: Aprimorando Processos de Logística, Serviços e Manufatura.
+3. São Paulo: Elsevier, 2013.
+4. CHWIF, L., MEDINA, A. Modelagem e Simulação de Eventos Discretos: Teoria e Aplicações.
+5. 4ª Edição. São Paulo: Elsevier, 2014.
+6. SPIEGEL, M., SCHILER, J., SRINIVASAN, R. A. Probabilidade e Estatística. 3ª Edição. Porto Alegre: Bookman, 2012.
+7. YATES, R. D., GOODMAN, D. J. Probabilidade e Processos Estocásticos: Uma Introdução Amigável para Engenheiros Eletricistas e da Computação. 3ª Edição. Rio de Janeiro: LTC,
+
+===================================================================================================================================

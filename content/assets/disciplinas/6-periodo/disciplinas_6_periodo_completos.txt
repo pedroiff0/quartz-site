@@ -1,0 +1,376 @@
+===================================================================================================================================
+
+EMENTA DE Análise de Software Orientada a
+
+EMENTA:
+Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de Modelagem Unificada; Modelagem de Negócio; Análise de Requisitos; Modelagem de Casos de Uso; Modelagem Conceitual; Modelagem Funcional; Projeto de Software Orientado a Objetos.
+
+OBJETIVOS:
+• Compreender os conceitos da Análise e Projeto Orientado a Objetos;
+• Analisar problemas reais e produzir modelos orientados a objetos utilizando UML;
+• Projetar soluções computacionais criando modelos orientados a objetos utilizando UML.
+
+CONTEÚDOS PROGRAMÁTICOS:
+- Introdução
+- Desenvolvimento de Sistemas Orientados a Objetos
+- Linguagem de Modelagem Unificada
+- Processo Unificado Modelagem de Negócio
+- Introdução à Modelagem de Negócio
+- Visão Geral do Sistema
+- Casos de Uso de Negócio
+- Diagrama de Atividades de Negócio
+- Aspectos do Negócio Dependente de Estado Requisitos de Alto Nível
+- Introdução aos Requisitos de Alto Nível
+- Atores de Sistema
+- Casos de Uso de Sistema
+- Como Encontrar Casos de Uso de Sistema no Modelo de Negócio
+- Requisitos
+- Modelo Conceitual Planejamento de Projeto Baseado em Casos de Uso
+- Introdução à Estimação de Esforço e Análise de Risco em Projetos de Software
+- Análise de Pontos de Caso de Uso
+- Planejamento de Projeto Iterativo Casos de Uso Expandidos
+- Introdução aos Casos de Uso Expandidos
+- Fluxo Principal
+- Fluxos Alternativos
+- Recomendações de Escrita
+- Casos de Uso Incluídos e Fragmentos
+- Expansão de Casos de Uso Expandido g. Outras Seções de um Caso de Uso Expandido h. Diagramas de Sequência de Sistema Fundamentos de Modelagem Conceitual
+- Introdução à Modelagem Conceitual
+- Atributos
+- Conceitos
+- Associações
+- Coleções
+- Organização do Modelo Conceitual g. Invariantes h. Construção Interativa do Modelo Conceitual Padrões de Modelagem Conceitual
+- Coesão Alta
+- Classes
+- Quantidade
+- Medida
+- Estratégia
+- Composição g. Hierarquia Organizacional h. Junção de Objetos i. Conta/Transação j. Intervalo k. Padrões Temporais Modelagem Funcional com Contratos
+- Introdução à Modelagem Funcional
+
+- Precondições
+- Associações Temporárias
+- Retorno de Consulta
+- Pós-Condições
+- Exceções g. Contratos Padrão para CRUD h. Padrões de Contrato para Listar Objetos i. Contratos Relacionados a Casos de Uso 9. Design da Camada de Domínio
+- Introdução ao Design
+- Distribuição de Responsabilidades de Objetos
+- Visibilidade
+- Modelagem Dinâmica Baseada em Pós-Condições
+- Consultas de Sistema
+- Delegação e Acoplamento Baixo 10. Diagrama de Classe de Projeto
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BEZERRA, E. Princípios de Análise e Projetos de Sistemas com UML. 3ª Edição. São Paulo: Elsevier, 2014.
+2. LARMAN, G. Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientado a Objetos e ao Desenvolvimento Iterativo. 3ª Edição. Porto Alegre: Bookman, 2006.
+3. WAZLAWICK, R. Análise e Design Orientados a Objetos para Sistemas de Informação: Modelagem com UML, OCL e IFML. 3ª Edição. São Paulo: Elsevier, 2014.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017.
+2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier, 2006.
+3. DENNIS, A., WIXOM, B. H., ROTH, R. H. Análise e Projeto de Sistemas. 5ª Edição. Rio de Janeiro: LTC, ENGHOLM JR., H. Análise e Design Orientados a Objetos. São Paulo: Novatec, 2013.
+4. GOES, W. M. Aprenda UML por Meio de Estudos de Caso. São Paulo: Novatec, 2014.
+
+===================================================================================================================================
+
+EMENTA DE Filosofia da Ciência e Tecnologia
+
+EMENTA:
+Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O progresso científico. O progresso tecnológico. Civilização tecnológica. Ciência, Tecnologia e Humanismo.
+
+OBJETIVOS:
+• Problematizar e contextualizar a crise da Ciência Moderna e das concepções dominantes de tecnologia, fazendo a crítica ao paradigma científico dominante.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Teoria do conhecimento: arte, técnica, ciência e engenharia
+- Definição e contextualização sobre a condição humana
+- Definições ciência, técnica e tecnologia
+- O contexto do século XXI
+2. O Progresso Científico e o Progresso Tecnológico
+- Paradigma científico dominante
+- Definições sobre crise da Ciência, crise do paradigma científico
+- Contexto do século XXI
+3. Civilização Tecnológica, Ciência, Tecnologia e Humanismo
+- O laboratório como ambiente de conflito e crise
+- O questionamento do paradigma científico
+- O questionamento do paradigma científico e as polêmicas emergentes
+- O Contexto do século XXI
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. CHAUI, M. S. Convite à filosofia. 14. ed. São Paulo: Ática, 2011.
+2. LATOUR, Bruno. Ciência em ação: como seguir cientistas e engenheiros sociedade afora. São Paulo:
+3. Ed. UNESP, 2000.
+4. MORIN, E. Ciência com consciência. 11. ed. Rio de Janeiro: Bertrand Brasil, 2008.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ARANHA, M. L. A.; MARTINS, M. H. P. Filosofando: introdução à filosofia. 4. ed. rev. São Paulo:
+2. Moderna, 2009.
+3. HARVEY, David. Condição pós-moderna: uma pesquisa sobre as origens da mudança cultural. 14. ed.
+4. São Paulo: Loyola, 2005.
+5. PINTO, Álvaro Vieira. O conceito de tecnologia. Rio de Janeiro: Contraponto, 2008.
+6. SANTOS, B. S. Um discurso sobre as ciências. 6. ed. São Paulo, SP: Cortez, 2009.
+7. LIVA, A. Filosofia da Ciência. Rio de Janeiro: Zahar, 2003.
+
+===================================================================================================================================
+
+EMENTA DE Banco de Dados
+
+EMENTA:
+Recuperação de falhas. Controle de concorrência. Noções básicas de bancos de dados distribuídos. Aspectos de segurança e privacidade. Implementação de visões, stored procedures e triggers.
+
+OBJETIVOS:
+• Proporcionar aos alunos conhecimentos teóricos e práticos em Banco de Dados, envolvendo o estudo de conceitos fundamentais de Projeto de Sistemas de Banco de Dados, além da sua aplicação através do ensino de uma linguagem de programação de banco de dados e do desenvolvimento de aplicações de bancos de dados.
+
+CONTEÚDOS PROGRAMÁTICOS:
+24. Linguagem de Definição e Manipulação de Dados 25. Processamento e Otimização de Consultas 26. Transações
+- Conceito
+- Propriedades i. Atomicidade ii. Consistência iii. Isolamento iv. Durabilidade
+- Controle e Falhas em Transações
+- Concorrência 27. Programação em Bancos de Dados
+- PL/SQL i. Conceitos ii. Comandos
+- Procedimentos Armazenados
+- Gatilhos 28. Segurança
+- Privilégios de Acesso
+- Visões
+- Criptografia de Dados
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004.
+2. HEUSER, C. A. Projeto de Banco de Dados. 6ª Edição. Porto Alegre: Bookman, 2008.
+3. SILBERSCHATZ, A, KORTH, H. F.
+4. SUDARSHAN, S. Sistema de banco de dados. 6. ed. Rio de Janeiro, RJ:
+5. Elsevier, 2012.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012.
+2. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015.
+3. MACHADO, F. N. R., ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 17ª Edição. São Paulo: Érica, 2012.
+4. ROB, P., CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Administração. São Paulo: Cengage, 2010.
+5. TEOREY, T., LIGHTSTONE, S., NARDEAU, T., JAGADISH, H. V. Projeto e Modelagem de Dados. 2ª Edição. São Paulo: Elsevier, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Programação Orientada a Objetos I
+
+EMENTA:
+Desenvolvimento de software de complexidade média utilizando o paradigma de orientação a objetos. Estudo e análise dos conceitos de herança e polimorfismo. Discussão de aspectos avançados sobre classes. Discussão sobre empacotamento e distribuição de aplicações. Implementação de estruturas de dados encadeadas. Uso de bibliotecas de coleções. Projeto de sistemas orientados a objetos.
+
+OBJETIVOS:
+• ● Conhecer e utilizar de forma precisa conceitos e termos relacionados ao paradigma de orientação a
+• bjetos.
+• ● Desenvolver as competências e habilidades para a criação de sistemas de complexidade média, formado por múltiplos componentes, e expressar estas soluções na forma de um sistema de classes em uma linguagem de programação.
+• ● Descrever sistemas utilizando diagramas e código.
+• ● Construir abstrações para tipos de dados, usando os conceitos de classe, objeto, mensagem, herança e interface.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Classes e Objetos
+- Conceito
+- Atributos e Operações: Classe e Instância
+- Tipo de Dados: Referência e Valor
+- Visibilidade de Atributos e Operações
+- Encapsulamento
+- Construtores e Destrutores g. Sobrecarga de Operação h. Associação e Composição
+2. Herança e Polimorfismo
+- Relacionamento de Generalização/Especialização i. Hierarquia de Herança ii. O Princípio da Substituição iii. Sobrescrita de Métodos
+- Polimorfismo i. Conceito ii. Classes Abstratas iii. Interfaces
+- Parametrização de Tipos
+3. Entrada e Saída e Tratamento de Exceções
+- Tratamento de Exceções i. Lançamento de Exceções ii. Captura de Exceções iii. Hierarquia de Exceções
+
+- 
+
+- Leitura e Escrita de Arquivos i. Leitura de Dados ii. Gravação de Dados iii. Formatação de Dados iv. Armazenamento e Recuperação de Objetos 4. Coleções
+- Listas
+- Conjuntos
+- Mapas
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. JUNIOR, P. J. Java: Guia do Programador. 3ª Edição. São Paulo: Novatec, 2015.
+2. SANTOS, R. Introdução à programação orientada a objetos usando Java. 2ª Edição. Rio de Janeiro:
+3. Elsevier: Campus, 2013.
+4. SIERRA, K.
+5. BATES, B. Use a cabeça! Java. 2ª Edição. Rio de Janeiro: Alta Books, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BLOCH, J. Java Efetivo: As Melhores Práticas para a Plataforma Java. Rio de Janeiro: Alta Books, 2019.
+2. DEITEL, P. J., DEITEL, H. M. Java, como programar. 10ª Edição. São Paulo: Pearson, 2016.
+3. FREEMAN, E.; FREEMAN, E. Use a cabeça! padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books,
+
+4. FURGIERI, S. Java 8 Ensino Didático: Desenvolvimento e Implementação de Aplicações. São Paulo:
+5. Érica, 2015.
+6. SILVEIRA, P. Introdução à arquitetura e design de software: uma visão sobre a plataforma Java. Rio de Janeiro: Elsevier, 2012.
+
+===================================================================================================================================
+
+EMENTA DE Eletrônica Digital
+
+EMENTA:
+Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise de circuitos digitais combinacionais; formas padrão de funções lógicas; minimização de funções lógicas; mapas de Karnaugh; codificadores e decodificadores multiplexadores e demultiplexadores; flip-flops.
+
+OBJETIVOS:
+• ● Fundamentar conceitos relacionados a sistemas numéricos, códigos binários, funções lógicas e Álgebra de Boole;
+• ● Analisar e sintetizar circuitos lógicos combinacionais;
+• ● Introduzir o funcionamento dos Flip-Flop.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Sistema de Numeração
+- Notação Posicional
+- Sistemas Numéricos i. Decimal ii. Octal iii. Binário iv. Hexadecimal
+- Conversão entre Bases
+2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole
+- Funções Lógicas
+- Tabelas Verdade
+- Álgebra Booleana
+- Teoremas de De Morgan
+- Teorema da Dualidade
+- Mintermos e Maxtermos g. Simplificação de Equações e Circuitos Lógicos h. Mapas de Karnaugh
+
+- Circuitos Combinacionais
+- Multiplexadores
+- Demultiplexadores
+- Codificadores
+- Decodificadores
+- Conversores de Código
+- Circuitos Aritméticos g. Latches h. Flip-Flops
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. BIGNELL, J., DONOVAN, J. Eletrônica Digital. São Paulo: Cengage, 2009.
+2. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
+3. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 1: Sistemas Combinacionais. Porto Alegre:
+4. Bookman, 2013.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
+2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
+3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
+4. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo: Elsevier,
+
+5. SZAJNBERG, M. Eletrônica Digital: Teoria, Componentes e Aplicações. Rio de janeiro: LTC, 2014.
+
+===================================================================================================================================
+
+EMENTA DE Comunicação de dados
+
+EMENTA:
+Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. Controle de Enlace. Multiplexação. Espalhamento Espectral.
+
+OBJETIVOS:
+• ● Apresentar ao aluno as definições básicas e os principais problemas relacionados com comunicação de dados ponto a ponto.
+• ● Apresentar conceitos básicos de capacidade de canal, relação entre taxa de transmissão e largura de faixa, modulação analógica e digital, controle de erros, multiplexação e espalhamento espectral devem ser dominados pelo aluno
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Transmissão de Dados
+- Conceitos e Terminologias de Transmissão de Dados
+- Transmissão de Dados Analógica
+- Transmissão de Dados Digital
+- Problemas de Transmissão
+- Capacidade de Canal
+2. Meios de Transmissão
+- Transmissão Guiada e Meios de Transmissão Guiada
+- Transmissão Sem Fio i. Conceitos de Propagação ii. Linha de Visada
+3. Comunicação de Dados Digitais
+- Técnicas de Codificação de Sinais
+- Técnicas de Comunicação de Dados Digitais i. Transmissão Síncrona ii. Transmissão Assíncrona iii. Detecção e Controle de Erros iv. Códigos de Linha v. Interfaceamento 4. Comunicação de Dados Analógica
+- Modulação de Dados Digitais
+
+- 
+- 
+
+- Modens Modulação de Sinais Analógicos i. AM ii. FM iii. PM 5. Controle de Enlace de Dados
+- Controle de Fluxo e de Erros
+- Controle de Enlace Lógico
+- Questões de Desempenho 6. Multiplexação
+- FDM
+- TDM Síncrono e Estatístico
+- Característica de Comunicação de Última Milha.
+7. Espalhamento Espectral
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. CAMPOS, A. L. P. S. Laboratório de Princípios de Telecomunicações. Rio de Janeiro: LTC, 2015.
+2. FOROUZAN, B. A. Comunicação de dados e redes de computadores. 4ª. Ed. Porto Alegre: Bookman,
+3. ROCHOL, J. Comunicação de Dados. Porto Alegre: Bookman, 2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. HAYKIN, S.
+2. MOHER, M. Sistemas modernos de comunicação wireless. Porto Alegre: Bookman, 2008.
+3. HAYKIN, S. Sistemas de comunicação: analógicos e digitais. 5ª Edição. Porto Alegre: Bookman, 2010.
+
+4. LATHI, E., DING, Z. Sistemas de Comunicações Analógicos e Digitais Modernos. 4ª Edição. Rio de Janeiro: LTC, 2012.
+5. HSU, H. P. Comunicação Analógica e Digital. 2ª Edição. Porto Alegre, 2006.
+6. CARVALHO ROCHOL, J. Sistemas de Comunicação Sem Fio: Conceitos e Aplicações. Porto Alegre: Bookman, 2018.
+
+===================================================================================================================================
+
+EMENTA DE Compiladores
+
+EMENTA:
+Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de código. Otimização. Ambientes de tempo de execução.
+
+OBJETIVOS:
+• Compreender a teoria de compilação.
+• Conhecer as diferentes etapas da compilação de programas.
+• Entender e implementar os mecanismos da construção de um compilador.
+• Manipular as ferramentas de compilação.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Compiladores e Interpretadores
+- Definições Básicas de Compiladores e Interpretadores
+- Etapas de Tradução de Programas
+2. Análise Léxica e Sintática
+- Tradução Simples Dirigida por Sintaxe
+- Reconhecimento de Tokens
+- Gerador de analisador léxico
+- Expressões regulares e autômatos
+- Gramática livre de contexto
+- Análise sintática descendente e ascendente g. Análise LR h. Gerador de analisador sintático
+3. Tabelas de Símbolo
+- Estrutura
+- Atributos
+- Gerenciamento da Tabela de Símbolos
+- Técnicas de Implementação de Tabelas de Símbolos 4. Análise Semântica
+
+- Tipos de Dados e Verificação de Tipos
+- Analisador Semântico 5. Recuperação de Erro
+- Recuperação de Erros na Análise LL
+- Recuperação de Erros na Análise de Precedência de Operadores
+- Recuperação de Erros na Análise 6. Geração de Código
+- Geração de Código Intermediário
+- Variantes das árvores de Sintaxe
+- Código de Três Endereços
+- Verificação de Tipo
+- Fluxo de Controle 7. Otimização
+- Otimização de Código
+- Otimização de Código Intermediário
+- Otimização de Código para Expressões Aritméticas
+- Análise de Fluxos 8. Ambiente de Tempo de Execução
+- Organização de memória
+- Alocação de espaço de pilha
+- Coleta de lixo
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. liveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo:
+2. Atlas, 2011;
+3. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004.
+4. CHENG, L. C.; QFD: Desdobramento da Função Qualidade na Gestão de Desenvolvimento de Produto.
+5. CHENG, L. C.; MELO FILHO, L. D. R de. São Paulo, SP. 2ª Ed. Blucher, 2010.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. PAIVA, C.
+2. VIAN, C. E.; PELLEGRINO, A. C. G. T. Economia. Fundamentos e prática aplicados à realidade brasileira. Campinas SP. 2ªEd. Ed. Alinea, 2014;
+3. KOTLER, P. Administração de marketing.
+4. KOTLER, P; KELLER, K.L.; Tradução YAMAMOTO, S. M.;
+5. Revisão técnica CRESCITELLI, E. 14ª ed. Pearson Education do Brasil. São Paulo, SP.
+6. ZUGMAM, F. Administração para profissionais liberais. 2ª edição revista e ampliada. ALTA BOOKS Editora, 2017.
+7. TAJRA, S. F. Empreendedorismo: Conceitos e Práticas Inovadoras. 1 Ed. São Paulo. Érica, 2014.
+8. DORNELAS, J, C. Empreendedorismo: transformando ideias em negócios. 2.ed. Rio de Janeiro:
+9. Elsevier, 2001.
+
+===================================================================================================================================

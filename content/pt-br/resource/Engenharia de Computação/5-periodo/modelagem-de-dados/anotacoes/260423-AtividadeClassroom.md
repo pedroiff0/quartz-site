@@ -1,6 +1,5 @@
 ---
 publish: true
-password: "eng232"
 titulo:  260423-AtividadeClassrooom
 disciplina:
 conteudo:

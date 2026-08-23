@@ -1,6 +1,5 @@
 ---
 publish: true
-password: "eng232"
 titulo:  260405-Aula-Atividades Filas-1
 disciplina:
 conteudo:

@@ -71,4 +71,5 @@ tags:
 > 5. TEOREY, T., LIGHTSTONE, S., NARDEAU, T., JAGADISH, H. V. Projeto e Modelagem de Dados. 2ª Edição. São Paulo: Elsevier, 2013.
 
 ## 📝 Anotações e Arquivos Didáticos
+- 📖 **[Short Lecture — Banco de Dados (Compêndio Completo)](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)**
 - 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes)**

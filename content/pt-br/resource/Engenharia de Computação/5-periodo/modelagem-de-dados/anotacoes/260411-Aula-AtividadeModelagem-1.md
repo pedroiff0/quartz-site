@@ -1,6 +1,5 @@
 ---
 publish: true
-password: "eng232"
 titulo:  260411-Aula-AtividadeModelagem-1
 disciplina:
 conteudo:

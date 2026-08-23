@@ -1,0 +1,34 @@
+	Zeros de Funções - Método de Newton-Raphson
+
+
+
+	Iteração: 1
+	Valores: x(1)= 1.17890063361357322336; erro= 1.72303412023538427000
+
+
+	A raiz procurada vale: 1.17890063361357322336
+	Zeros de Funções - Método de Newton-Raphson
+
+
+
+	Iteração: 1
+	Valores: x(1)= 3.00000000000000000000; erro= 24.04550690958944869635
+
+
+	Iteração: 2
+	Valores: x(2)= 1.83556962875665208301; erro= 7.31546587002679427059
+
+
+	Iteração: 3
+	Valores: x(3)= 1.11336200703719367944; erro= 1.27798644032980512897
+
+
+	Iteração: 4
+	Valores: x(4)= 0.92070067848765091423; erro= 0.08999902370266799068
+
+
+	Iteração: 5
+	Valores: x(5)= 0.90489793779687932584; erro= 0.00061628111349776304
+
+
+	A raiz procurada vale: 0.90489793779687932584

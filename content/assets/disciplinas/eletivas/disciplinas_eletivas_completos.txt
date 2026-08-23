@@ -1,0 +1,714 @@
+===================================================================================================================================
+
+EMENTA DE Libras
+
+EMENTA:
+Línguas de sinais e minoria linguística; as diferentes línguas de sinais; status da língua de sinais no Brasil; cultura surda; organização linguística da Libras para usos informais e cotidianos: vocabulário; morfologia; sintaxe e semântica; a expressão corporal como elemento linguístico
+
+OBJETIVOS:
+• Instrumentalizar os alunos para o estabelecimento de uma comunicação funcional com pessoas surdas. Favorecer a inclusão da pessoa surda no contexto escolar. Difusão e valorização da Libras na comunidade escolar e sociedade em geral;
+• Reconhecer os diferentes profissionais que atuam na educação de surdos: Professor de Libras, Instrutor, Tradutor e Intérprete de Libras/Língua Portuguesa e Professor Bilíngüe Libras/Língua Portuguesa.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Línguas de Sinais e Minoria Línguistica
+- As diferentes línguas de sinais.
+- Status da língua de sinais no Brasil. Cultura surda
+2. A Língua Brasileira de Sinais
+- A língua brasileira de Sinais.
+- Sistema de transcrição da Língua Portuguesa para a Língua de Sinais. Variação linguística.
+3. c. Parâmetros da Língua de Sinais. Vocabulário:
+- alfabeto manual ou datilológico;
+- ii. apresentação, saudação;
+- iii. nomes/sinais;
+- iv. gramática: pronomes pessoais, demonstrativos possessivos, interrogativos, adjetivos e advérbios;
+- numerais;
+- vi. família, profissões animais, objetos, ambiente de trabalho e de escola, meios de comunicação, meios de transportes;
+- vii. dias da semana;
+- viii. meses do ano;
+
+- ix. horas; Tempo;
+- verbos relacionados aos conteúdos trabalhados.
+3. Organização linguística da Libras para usos informais e cotidianos
+- Vocabulário.
+- Morfologia.
+- Sintaxe e semântica.
+- A expressão corporal como elemento linguístico
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. ANDREIS, S. Educação de surdos e preconceito. 1. ed. Curitiba: CRV, 2012.
+2. ______. Educação de surdos pelos próprios surdos: uma questão de direitos. ed. Curitiba: CRV,
+4. QUADROS, R. M., KARNOPP, L. Língua de sinais brasileira: estudos lingüísticos. Porto Alegre, RS:
+5. Artmed, 2004.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. GESSER, A. Libras? que língua é essa?: crenças e preconceitos em torno da língua de sinais e da realidade surda. 1. ed. São Paulo, SP: Parábola, 2009.
+2. SACKS, O. W. Vendo vozes: uma viagem ao mundo dos surdos. São Paulo, SP: Companhia de Bolso,
+3. SKLIAR, C. A surdez: um olhar sobre as diferenças. 6. ed. Porto Alegre: Mediação, 2012.
+4. ______. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 1.
+5. ______. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 2.
+
+===================================================================================================================================
+
+EMENTA DE Sociedade e Tecnologia
+
+EMENTA:
+Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico e Tecnológico. Trabalho. Processos Produtivos e Relações de Trabalho na sociedade capitalista. Técnica e Tecnologia na sociedade contemporânea. Cultura e Diversidade Cultural
+
+OBJETIVOS:
+• Compreender as relações sociais, analisando a relação do homem com a natureza, do homem com o homem e com os grupos sociais, enfatizando as relações que se estruturam em torno do trabalho, da tecnologia e da cultura, como dimensões significativas na vida humana.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Distinção das Ciências Sociais e Ciências Naturais
+- Distinção das Ciências Sociais e Ciências Naturais
+- As Especificidades das Ciências Sociais
+2. Conhecimento Científico e Tecnológico
+- Formas de Conhecimento;
+- Conhecimento Científico
+- Conhecimento Tecnológico
+3. Processos Produtivos e Relações de Trabalho na Sociedade Capitalista
+- O Modelo de Produção Taylorista-Fordista
+- O Modelo de Produção Flexível
+- As relações de Trabalho da Sociedade Atual 4. Técnica e Tecnologia na Sociedade Contemporânea
+- O Conceito de Técnica e Tecnologia
+- Tecnologia e Necessidades Sociais
+- Dimensões Sociais da Tecnologia
+- Tecnologia Desenvolvimento Social e Educação Tecnológica 5. Cultura e Diversidade Cultural
+- Conceito de Cultura e Diversidade
+- Globalização: Conceitos, Significados, Manifestações
+- Gênero
+- Tecnologia e Sociedade da Informação: Uma Questão de Inclusão
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. CAPRA, F. O ponto de mutação. 25ª Edição. São Paulo: Cultrix, 1982.
+2. CUCHE, D. A noção de cultura nas ciências sociais. Bauru: EDUSC, 2002.
+3. LARAIA, R. B. Cultura: Um conceito antropológico. 11 ed. Rio de Janeiro: Jorge Zahar Editor, 2007 BIBLIOGRAFIA COMPLEMENTAR:
+4. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2009.
+5. CATTANI, A. D. Dicionário de Trabalho e Tecnologia. 2ª edição. Porto Alegre: Zouk, 2011.
+6. CAVALCANTE, J. Q. P. Sociedade, tecnologia e a Luta pelo Emprego. Rio de Janeiro: LTR, 2018.
+7. FREIRE, E., BATISTA, S. S. S. Sociedade e na Era Digital. São Paulo: Erica, 2014.
+8. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. Porto Alegre: Arquipélago Editorial, 2018
+
+===================================================================================================================================
+
+EMENTA DE Computação Gráfica
+
+EMENTA:
+Dispositivos gráficos. Primitivas gráficas. Modelagem geométrica. Sistemas de coordenadas e transformações 2D, 3D. Algoritmos de projeção e recorte/visibilidade. Implementação de algoritmos. Tópicos avançados.
+
+OBJETIVOS:
+• Apresentar uma visão geral das técnicas de computação gráfica. Capacitar os alunos a projetar soluções envolvendo o uso dessas técnicas.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Dispositivos Gráficos
+- Apresentação de Imagens Usando Monitores ou Impressoras
+- Espaços de Cor
+- Bibliotecas Gráficas
+- Visão geral de pipeline gráfico
+2. Primitivas Gráficas
+- Ponto
+- Reta
+- Circunferência
+- Curvas
+- Polígonos
+- Planos g. Poliedros
+3. Modelagem Geométrica
+- Triangulação de Polígonos
+- Vetores Normais
+- Operações de Conjuntos
+- Extrusão 4. Sistemas de Coordenadas e Transformações 2D e 3D
+- Sistemas de Coordenadas
+- Vetores
+- Transformações de Escala, Translação, Rotação
+- Matrizes 5. Algoritmos de Projeção e Recorte
+- Z-Buffer
+- Visão Geral de Ray Tracing
+- Câmeras
+- Projeções Paralelas e em Perspectiva
+- Iluminação
+- Textura, sombras, reflexão e partículas
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018.
+2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003
+3. CONCI, A., AZEVEDO, E. Computação Gráfica: Teoria e Prática – Volume 2. São Paulo: Elsevier, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
+2. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
+3. GONZALEZ, R. C., WOODS, R. E. Processamento Digital de Imagens. 3ª Edição. São Paulo: Pearson, 4.
+4. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997 5.
+5. SOLOMON, C., BRECKON, T. Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab. Rio de Janeiro: LTC, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Processamento de Imagens
+
+EMENTA:
+Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração de imagens. Fundamentos para um sistema de análise de imagens. Segmentação de imagens.
+
+OBJETIVOS:
+• Apresentar os fundamentos gerais sobre processamento de imagens e vídeos digitais. Desenvolver rotinas de processamento de imagens para diversas aplicações.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Fundamentação, aplicações, representação e modelagem de imagens digitais
+- Conceitos básicos das áreas de processamento e análise de imagens
+
+- Principais áreas de aplicação envolvendo o tratamento de imagens
+- Componentes fundamentais de um sistema de processamento e análise de imagens
+2. Aquisição de Imagens e Técnicas de Realce e Melhoria de Imagens
+- Aquisição e digitalização de imagens
+- Propriedades de uma imagem digital
+- Conversão para o formato digital
+- Etapas do processamento e análise de imagens
+- Captura e reprodução
+- Armazenamento e Representação
+3. Restauração de Imagens
+- Etapas do Processamento de uma Imagem
+- Operações Matemáticas para Alterar os Valores dos Pixels de uma ou mais Imagens
+- Realce de Contraste
+- Correção e Iluminação Irregular
+- Redução de Ruídos
+- Redução de Borrado devido Movimento g. Correção de Foco 4. Fundamentos para um sistema de análise de imagens
+- Concepção de um Sistema de Visão Artificial
+- Arquitetura de um Sistema de Visão Artificial
+- Bibliotecas de Programação 5. Segmentação de Imagens
+- A Segmentação como Operação Pontual
+- Segmentação por Região, Textura e Contorno
+- Limiarização Local e Global
+- Morfologia para Correção da Segmentação
+- Erosão, Dilatação, Abertura e Fechamento
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018.
+2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003
+3. CONCI, A., AZEVEDO, E. Computação Gráfica: Teoria e Prática – Volume 2. São Paulo: Elsevier, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
+2. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
+3. GONZALEZ, R. C., WOODS, R. E. Processamento Digital de Imagens. 3ª Edição. São Paulo: Pearson, 4.
+4. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997 5.
+5. SOLOMON, C., BRECKON, T. Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab. Rio de Janeiro: LTC, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Desenvolvimento para Web
+
+EMENTA:
+Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web. Engenharia Web
+
+OBJETIVOS:
+• Apresentar diferentes maneiras de desenvolver sistemas e ferramentas web com tecnologias mais relevantes para o mercado.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Programação para Web
+- História da Internet e da World Wide Web.
+- Desenvolvimento Front-End
+- Desenvolvimento Back-End
+2. Frameworks Web
+- Introdução à frameworks para desenvolvimento web
+3. Acesso a banco de dados em sistemas Web
+- Conexão com Sistema de Gerenciamento de Banco de Dados
+- Engenharia Web
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. DALL’OGLIO, P. PHP: Programando com Orientação a Objetos. 4ª Edição. São Paulo: Novatec, 2018.
+2. DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books, 2016.
+3. KRUG, S. Não me Faça Pensar: Uma Abordagem de Bom Senso à Usabilidade Mobile e na Web. Rio de Janeiro: Alta Books, 2014.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BASSET, L. Introdução ao JSON: Um Guia para JSON que vai Direto ao Ponto. São Paulo: Novatec,
+2. DUCKETT, J. Javascript e JQuery: Desenvolvimento de Interfaces Web Interativas. Rio de Janeiro:
+3. Alta Books, 2016.
+4. FLANAGAN, D. JavaScript: O Guia Definitivo. 5ª Edição. Porto Alegre: Bookman, 2012.
+5. GRONER, L. Estruturas de Dados e Algoritmos em JavaScript: Aperfeiçoe suas Habilidades Conhecendo Estruturas de dados e Algoritmos Clássicos em JavaScript. São Paulo: Novatec, 2017.
+6. POWERS, S. Aprendendo Node: Usando JavaScript no Servidor. São Paulo: Novatec, 2017.
+
+===================================================================================================================================
+
+EMENTA DE Dimensionamento de Redes de
+
+EMENTA:
+Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fio; Solução Problemas de OSPF de Área Única; OSPF Multiárea; EIGRP; Solução de Problemas de EIGRP
+
+OBJETIVOS:
+• Desenvolver o conhecimento e as habilidades necessárias para implementar operações de redes complexas.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Dimensionamento de Redes
+2. Redundância de LAN
+3. Agregação de Links 4. LANs Sem Fio 5. Solução Problemas de OSPF de Área Única 6. OSPF Multiárea 7. EIGRP 8. Solução de Problemas de EIGRP
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
+2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+3. Pearson, 2013.
+4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
+
+2. CARISSIMI, A. S., ROCHOL, J.
+3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman,
+4. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013.
+5. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015.
+6. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.
+
+===================================================================================================================================
+
+EMENTA DE Interconexão de Redes de
+
+EMENTA:
+Projeto de Rede Hierárquico; Conexão à WAN; Conexões Point-to-Point; Frame Relay; NAT; Soluções de Banda Larga; Protegendo a Conectividade de Site para Site; Monitorando a Rede Solucionando Problemas de Rede
+
+OBJETIVOS:
+• Desenvolver o conhecimento e as habilidades necessários para executar operações IPsec e VPN (Virtual Private Network, Rede Virtual Privada) em uma rede complexa.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Projeto de Rede Hierárquico
+2. Conexão à WAN
+3. Conexões Point-to-Point 4. Frame Relay 5. NAT 6. Soluções de Banda Larga 7. Protegendo a Conectividade de Site para Site 8. Monitorando a Rede 9. Solucionando Problemas de Rede
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
+2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+3. Pearson, 2013.
+4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
+2. CARISSIMI, A. S., ROCHOL, J.
+3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman,
+4. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013.
+5. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015.
+6. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.
+
+===================================================================================================================================
+
+EMENTA DE Energia e Eficiência Energética
+
+EMENTA:
+Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprimento de energia – estrutura brasileira. Energia e desenvolvimento. Fontes convencionais. Fontes não convencionais. Energia - Recursos naturais. Usos da energia, conservação. Recursos renováveis – Desenvolvimento sustentável.
+
+OBJETIVOS:
+• Analisar as possíveis alternativas energéticas (renováveis e não renováveis) com base nas diferentes tecnologias aplicáveis e nos respectivos impactos ambientais, visando à minoração de problemas ambientais e sociais.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Energia x Recursos Naturais
+- Introdução
+- Questão Energética na Atualidade
+- A Busca de Soluções Energéticas para o Desenvolvimento Sustentável
+2. Cadeia Energética
+- Recursos Energético
+- Equivalência em Energia
+- Fontes de Energia Primárias e Secundárias
+- Fontes de Energia Renováveis e Não Renováveis
+- Matriz Energética no Brasil
+- Utilização de Fontes Renováveis g. Programas de Conservação de Energia
+3. Usos da Energia
+- Energia dos Combustíveis Fósseis
+- Termoelétricas e Energia Nuclear
+- Energia Solar
+- Energia Heólica
+- Pequenas Centrais Hidroelétricas
+- Energia Geotérmica g. Tecnologias Energéticas Futuras 4. Problemas da Energia
+- Papel da Política Energética Nacional 5. Perspectivas Energéticas
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. GOLDEMBERG, J., PALETTA, F. C. Energias renováveis. São Paulo: Blucher, 2012.
+2. HINRICHS, R., KLEINBACH, M. H. Energia e meio ambiente. São Paulo: Cengage, 2013.
+3. REIS, L. B., FADIGAS, E. A. A., CARVALHO, C. E. Energia, recursos naturais e a prática do desenvolvimento sustentável. 2ª Edição. São Paulo: Manole, 2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ABREU, F. V. Biogás: Economia, Regulação e Sustentabilidade. Rio de Janeiro: Interciência,
+2. BALFOUR, J., SHAW, M., NASH, N. B. Introdução de Sistemas Fotovoltaicos. Rio de Janeiro:
+3. LTC, 2016.
+4. FILHO, G. F. Gestão da Energia: Fundamentos e Aplicações. São Paulo: Erica, 2018.
+5. MOREIRA, J. R. S. Energias Renováveis, Geração Distribuída e Eficiência Energética. Rio de Janeiro: LTC, 2017.
+6. REIS, L. B. Geração de energia elétrica: tecnologia, inserção ambiental, planejamento, peração e análise de viabilidade. 3ª Edição. São Paulo: Manole, 2017.
+
+===================================================================================================================================
+
+EMENTA DE Processamento de Sinais
+
+EMENTA:
+Introdução ao processamento digital de sinais. Fundamentos matemáticos de sinais e sistemas discretos. Análise em frequência de sinais. Transformada discreta de Fourier (DFT) e transformada rápida de Fourier (FFT). Filtros digitais: análise, estruturas, técnicas de projeto e aspectos práticos
+
+OBJETIVOS:
+• Apresentar os conceitos básicos de Processamento Digital de Sinais nos domínios do tempo e da frequência.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Introdução ao Processamento Digital de Sinais
+- Domínios de Tempo Contínuo e Discreto
+- Aplicações de Processamento Digital
+- Discretização Temporal e Quantização em Amplitude
+- Teoria da Amostragem
+2. Fundamentos Matemáticos de Sinais e Sistemas Discretos
+- Características de Sistemas Discretos com Ênfase em Sistemas Lineares e Invariantes
+- Representação de Sinais como Função de Sinais Fundamentais
+- Descrição de Sistemas por meio de Equações
+- Aplicações de Transformada Z
+- Correlação de Sinais em Tempo Discreto
+- Representação Numérica
+3. Análise em Frequência de Sinais 4. Transformada Discreta de Fourier (DFT) e Transformada Rápida de Fourier (FFT)
+- Definição de Transformada Discreta de Fourier
+- Convergência da Transformada de Fourier
+- Relação entre Transformada de Fourier e Transformada Z
+- Propriedades da Transformada de Fourier
+4. e. Computação Eficiente de DFT, FFT 5. Filtros Digitais:
+- Filtros de Resposta Finita ao Impulso
+- Filtros Analógicos de Referência
+- Quantização de Coeficientes e Impacto
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. DINIZ, P. S. R., SILVA, E. A. B., NETTO, S. L. Processamento Digital de Sinais: Projeto e Análise de Sistemas. 2ª Edição. Porto Alegre: Bookman, 2014.
+2. GURJÃO, E., CARVALHO, J., VELOSO, L. R. Introdução à Análise de Sinais e Sistemas. São Paulo:
+3. Elsevier, 2015.
+4. PPENHEIM, A., SCHAFER, R. W. Processamento em Tempo Discreto de Sinais. 3ª Edição. São Paulo:
+5. Pearson, 2013.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. ALCAIN, A. Fundamentos de Processamento de Sinais Voz e Imagem. Rio de Janeiro: Interciência,
+2. COSTA, C. Processamento de Sinais para Engenheiros: Teoria e Prática. Rio de Janeiro: Bonecker,
+3. NALON, J. A. Introdução ao Processamento Digital de Sinais. Rio de Janeiro: LTC, 2009.
+4. ROBERTS, M. J. Fundamentos em Sinais e Sistemas. Porto Alegre: Bookman, 2009.
+5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman. 2003.
+
+===================================================================================================================================
+
+EMENTA DE Geoprocessamento
+
+EMENTA:
+Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Métodos de abstração, conversão e estruturação em SIG. Potencial das técnicas de geoprocessamento para a representação de fenômenos e modelos ambientais. Instrumentalização de técnicas do geoprocessamento. Atividades práticas.
+
+OBJETIVOS:
+• Entender as diferenças entre os tipos de dados georreferenciados e como integrá-los em uma base de dados geográfica.
+• Conhecer e aplicar as técnicas de geoprocessamento a fim de realizar análises ambientais com o apoio de sistemas computacionais.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Bases Conceituais e Teóricas
+- Fundamentos Teóricos de Geoprocessamento
+- Representação Computacional
+2. Sistemas de Informações Geográficas
+- Componentes e Definições
+- Arquitetura de Sistemas de Informações Geográficas
+- Estruturas de Dados Raster e Vetor
+- Representação de Dados Multiespectrais: Imagens Digitais
+3. Métodos de Abstração, Conversão e Estruturação em SIG
+- Estruturas de projetos e Banco de Dados
+- Compatibilidade de Dados Multifonte
+- Aspectos Cartográficos de Conversão de Dados 4. Instrumentalização de Técnicas do Geoprocessamento
+- Conceitos Básicos de Sensoriamento Remoto
+- Correção Geométrica de Imagens de Sensoriamento Remoto
+- Recorte e Mosaico de Imagens
+- Interpretação de Imagens e Comportamento Espectral de Alvos
+- Segmentação e Classificação
+- Índices de vegetação g. Técnicas de Interpolação h. Processamento de dados MNT i. Operações sobre geo-objetos j. Operações sobre geo-campos k. Algebra de mapas: operadores booleanos l. Álgebra de mapas: operadores nebulosos m. Técnica AHP para inferência geográfica 5. Potencial das Técnicas de Geoprocessamento para a Representação de Fenômenos e Modelos Ambientais
+- Mapas de uso de ocupação do solo
+- Geração de curvas de nível e perfis
+- Manipulação de dados de altimetria e declividade
+- Delimitação de áreas de proteção permanente e reserva legal
+- Delimitação de bacias
+- Análises multitemporais
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008.
+2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012.
+3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher,
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017.
+2. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos,
+3. LORENZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. São Paulo: Blucher, 2015.
+4. PONZONI, F. J., SHIMABUKURO, Y. E., KUPLICH, T. M. Sensoriamento Remoto da Vegetação. 2ª Edição. São Paulo: Oficina de Textos, 2012.
+5. YAMAMOTO, J. K., LANDIM, P. M. B. Geoestatística: Conceitos e Aplicações. São Paulo: Oficina de Textos, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Modelagem Ambiental
+
+EMENTA:
+Dinâmica de sistemas lineares e não-lineares. Hierarquia de sistemas. Modelagem da dinâmica de populações. Modelagem do ciclo do carbono. Modelagem da dinâmica de ecossistemas. Modelagem do sistema hidrológico. Modelagem do sistema climático.
+
+OBJETIVOS:
+• Oferecer ao aluno o conhecimento básico sobre modelagem de sistemas ambientais.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Dinâmica de sistemas lineares e não-lineares.
+2. Hierarquia de sistemas.
+3. Modelagem da dinâmica de populações.
+4. Modelagem do ciclo do carbono.
+5. Modelagem da dinâmica de ecossistemas.
+6. Modelagem do sistema hidrológico.
+7. Modelagem do sistema climático.
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008.
+2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012.
+3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher, BIBLIOGRAFIA COMPLEMENTAR:
+4. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017.
+5. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos,
+6. LORENZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. São Paulo: Blucher, 2015.
+7. PONZONI, F. J., SHIMABUKURO, Y. E., KUPLICH, T. M. Sensoriamento Remoto da Vegetação. 2ª Edição. São Paulo: Oficina de Textos, 2012.
+8. YAMAMOTO, J. K., LANDIM, P. M. B. Geoestatística: Conceitos e Aplicações. São Paulo: Oficina de Textos, 2013.
+
+===================================================================================================================================
+
+EMENTA DE Algoritmos Distribuídos
+
+EMENTA:
+Sistemas de troca de mensagens. Processadores de comunicação. Roteamento e controle de fluxo. Programas reativos. Alocação de "buffers". Alocação de processadores. Modelos síncrono e assíncrono de computação. Computações em sistemas anônimos; limitações intrínsecas. Noções de conhecimento em sistemas distribuídos. Eventos, ordens e estados globais. A complexidade de computações distribuídas. Algoritmos para propagação de informação. Algoritmos simples sobre grafos: teste de conectividade e distâncias mais curtas. Eleição de um líder. Técnicas para registrar estados globais. Sincronizadores. Introdução à auto-estabilização. Detecção de terminação. Detecção de "deadlocks". Outros algoritmos sobre grafos: árvores geradoras mínimas e fluxos em redes. Algoritmos para exclusão mútua. "Dining philosophers" e "drinking philosophers". Reexecução determinística de programas. Detecção de "breakpoints". Introdução à simulação distribuída.
+
+OBJETIVOS:
+• Familiarizar o discente com os conceitos, termos e técnicas básicas de algoritmos distribuídos.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Sistemas de Trocas de Mensagens
+2. Processadores de Comunicação
+3. Alocação de Processadores 4. Modelos Síncrono e Assíncrono de Computação 5. Computações em Sistemas Anônimos
+- Limitações Intrínsecas
+- Noções de conhecimento em sistemas distribuídos 6. Modelos de Computação
+- Eventos, ordem e estados globais
+- A complexidade de computações distribuídas 7. Algoritmos Básicos
+- Propagação de Informação
+- Algoritmos simples sobre grafos i. Teste de conectividade ii. Distâncias mais curtas 8. Técnicas Básicas
+- Eleição de líder
+- Gravação de estados globais
+
+- Sincronização de redes Introdução à Alto-Estabilização
+- Detecção de Terminação
+- Detecção de Deadlocks 10. Outros Algoritmos sobre Grafos
+- Árvores geradoras mínimas
+- Fluxos em redes 11. Compartilhamento de Recursos
+- Algoritmos de exclusão mútua
+- Dinning Philosopers
+- Drinking Philosopers
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
+2. Porto Alegre: Bookman, 2007.
+3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
+4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
+2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+3. Pearson, 2013.
+4. RHODES, B.
+5. GOERZEN, J. Programação de Redes com Python: Guia Abrangente de Programação e Gerenciamento de Redes com Python 3. São Paulo: Novatec, 2015.
+
+6. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+7. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+8. Porto Alegre: Bookman, 2018.
+
+===================================================================================================================================
+
+EMENTA DE Computação Paralela e Distribuída
+
+EMENTA:
+Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralela e distribuída. Tópicos emergentes em computação paralela e distribuída.
+
+OBJETIVOS:
+• Prover conhecimento e experiência em programação paralela para o desenvolvimento de software que tenha como requisito a sua execução em um ambiente paralelo e distribuído.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Introdução à Computação Paralela e Distribuída
+- Histórico
+- Paralelismo e Concorrência
+- Computação Paralela e Distribuída
+- Tendências
+2. Arquiteturas Paralelas
+- Taxonomia de Flynn
+- Níveis de Paralelismo
+- Hierarquia de Memória e Caching
+- Corretude de Programas Concorrentes
+- Propriedades
+- Interferência entre processos concorrentes g. Não Determinismo
+3. Modelos, Ferramentas e Ambientes de Computação Paralela e Distribuída
+- Modelos de Programação Paralela
+- OpenMP, MPI, CUDA e OpenACC 4. Tópicos Emergentes em Computação Paralela e Distribuída
+- Projeto de Paralelização
+
+- 
+- 
+- 
+
+- Padrões de Projeto para Programação Paralela Técnicas Básicas de Otimização Algoritmos Paralelos para Problemas de Busca, Ordenação e Grafos
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
+2. Porto Alegre: Bookman, 2007.
+3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
+4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
+2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+3. Pearson, 2013.
+4. RHODES, B.
+5. GOERZEN, J. Programação de Redes com Python: Guia Abrangente de Programação e Gerenciamento de Redes com Python 3. São Paulo: Novatec, 2015.
+6. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+7. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+8. Porto Alegre: Bookman, 2018.
+
+===================================================================================================================================
+
+EMENTA DE Pesquisa Operacional I
+
+EMENTA:
+Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema do Transporte; Otimização de Redes; Modelos determinísticos de estoque; Tópicos em PL.
+
+OBJETIVOS:
+• Desenvolver habilidades de modelagem e análise de problemas decisórios relacionados à produção, transporte e estocagem de materiais; com o apoio de recursos de informática.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Introdução à Pesquisa Operacional
+- Definição de Pesquisa Operacional
+- Metodologia da Pesquisa Operacional
+- Programação Matemática
+- Classificação dos Problemas de Programação Matemática
+2. Programação Linear (PL)
+- Modelagem em PL
+- Manipulação de Problemas de PL
+- Formulação Canônica e Padrão
+- Representação Geométrica de um Problema de PL
+3. Método Simplex
+- Fundamentos Teóricos do Método Simplex
+- O Algoritmo Simplex
+- Casos Especiais para o Simplex
+- Adaptação de Outras Formas de Modelo
+- Dificuldades Computacionais 4. Dualidade e Análise de Sensibilidade
+- Forma Simétrica
+- Interpretação Econômica
+- Teoria de Folgas Complementares
+- Aplicações Computacionais 5. Otimização de Redes
+- Modelos de Redes
+- Problemas de Transporte
+- O Problema da Designação
+- O Problema do Transbordo
+- Modelos Determinístico de Estoque
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015.
+2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. ed. São Paulo, SP: Atlas, 2004.
+4. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman, BIBLIOGRAFIA COMPLEMENTAR:
+5. ANDRADE, E. L. Introdução à Pesquisa Operacional: Métodos e Modelos para Análise de Decisões.
+6. 5ª Edição. Rio de Janeiro: Atlas, 2014.
+7. GOLDBARG, M., LUNA, H. Otimização Combinatória e Programação Linear: Modelos e Algoritmos.
+8. 2ª Edição. São Paulo: Elsevier, 2005.
+9. ______. Otimização Combinatória e Meta-Heurísticas: Algoritmos e Aplicações São Paulo: Elsevier, 4. ______. Programação Linear e Fluxos em Rede. São Paulo: Elsevier, 2014.
+10. VIRGILLITO, S. B. Pesquisa Operacional: Métodos de Modelagem Quantitativa para a Tomada de Decisões. São Paulo: Saraiva, 2017.
+
+===================================================================================================================================
+
+EMENTA DE Pesquisa Operacional II
+
+EMENTA:
+Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. Teoria Clássica da Otimização. Programação Não-linear.
+
+OBJETIVOS:
+• Desenvolver a capacidade de formular, modelar, solucionar e analisar modelos matemáticos para tomada de decisão em gestão e planejamento de processos produtivos.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Programação Linear Inteira (PLI)
+- Conceitos Fundamentais da PLI
+- Modelagem Matemática por PLI
+- Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
+- Programação Linear Inteira Binária (PLIB)
+- Modelos de PLIB
+- Problema do Caixeiro Viajante
+2. Programação por Metas (PM)
+- Conceitos Fundamentais da PM
+- Metas, desvios e funções objetivo para PM
+- PM por Priorização
+- Modelagem Matemática por PM
+3. Programação Linear Multiobjetivo (PLMO)
+- Conceitos Fundamentais da PLMO
+- Variáveis MINMAX
+- Fronteira de Eficiência
+- Modelagem Matemática por PLMO 4. Programação Dinâmica (PD)
+- Conceitos Fundamentais de PD
+- Aplicações da PD 5. Teoria Clássica da Otimização
+- Conceitos Fundamentais
+- Problemas Irrestritos
+- Problemas Restritos 6. Programação Não-Linear (PNL)
+- Tipos de Problemas de PNL
+- Programação Quadrática
+- Programação Separável
+- Programação Convexa
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015.
+2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. ed. São Paulo, SP: Atlas, 2004.
+4. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman, BIBLIOGRAFIA COMPLEMENTAR:
+5. ANDRADE, E. L. Introdução à Pesquisa Operacional: Métodos e Modelos para Análise de Decisões.
+6. 5ª Edição. Rio de Janeiro: Atlas, 2014.
+7. GOLDBARG, M., LUNA, H. Otimização Combinatória e Programação Linear: Modelos e Algoritmos.
+8. 2ª Edição. São Paulo: Elsevier, 2005.
+9. ______. Otimização Combinatória e Meta-Heurísticas: Algoritmos e Aplicações São Paulo: Elsevier, 4. ______. Programação Linear e Fluxos em Rede. São Paulo: Elsevier, 2014.
+10. VIRGILLITO, S. B. Pesquisa Operacional: Métodos de Modelagem Quantitativa para a Tomada de Decisões. São Paulo: Saraiva, 2017.
+
+===================================================================================================================================
+
+EMENTA DE Inteligência Artificial
+
+EMENTA:
+Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos de busca. Heurísticas. Conhecimento e raciocínio. Tópicos avançados.Aplicações de IA-Inteligência Artificial.
+
+OBJETIVOS:
+• Compreender os diferentes paradigmas que embasam as aplicações da IA. Entender os principais
+• bjetivos e as limitações da Inteligência Artificial (IA). Aplicar os conceitos e técnicas da Inteligência Artificial.
+
+CONTEÚDOS PROGRAMÁTICOS:
+1. Histórico e Princípios de Inteligência Artificial (IA)
+- Definições de IA
+- Histórico da IA
+- Paradigmas da IA
+2. Resolução de Problemas
+- Agentes
+- Exemplos de Problemas
+3. Métodos de Busca
+- Estratégias de Busca
+- Tipos de Busca 4. Heurísticas
+- Busca Heurística
+- Aplicações 5. Conhecimento e Raciocínio
+- Sistemas Baseados em Conhecimento
+- Aquisição de Conhecimento
+- Técnicas de Representação de Conhecimento 6. Tópicos Avançados
+- Aprendizagem de Máquina
+- Redes Neurais
+- Algoritmos Genéticos
+- Sistemas Especialistas
+- Sistemas Fuzzy
+- Indução de Regras g. Árvores de Decisão h. Mineração de Dados 7. Aplicações de Inteligência Artificial
+- Exemplos de Aplicações
+- Implementação
+
+REFERÊNCIAS:
+BIBLIOGRAFIA BÁSICA:
+1. COPPIN, B. Inteligência Artificial. Rio de Janeiro: LTC, 2010.
+2. LUGER, G. Inteligência Artificial. 6ª Edição. São Paulo: Pearson, 2013.
+3. LIMA, I., PINHEIRO, C., SANTOS, F. O. Inteligência Artificial. São Paulo: Elsevier, 2014.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+1. BRAGA, A. P., CARVALHO, A. P. L., LUDEMIR, T. B. Redes Neurais Artificiais: Teoria e Aplicações. 2ª Edição. Rio de Janeiro: LTC, 2007.
+2. FACELLI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina. Rio de Janeiro: LTC, 2011.
+3. LINDEN, R. Algoritmos Genéticos. 3ª Edição. Rio de Janeiro: Ciência Moderna, 2012.
+4. LUDWIG JR, O., MONTGOMERY, E. Redes Neurais: Fundamentos e Aplicações com Programas em C. Rio de Janeiro: Ciência Moderna, 2009.
+5. SIMÕES, M. G., SHAW, I. S. Controle e Modelagem Fuzzy. 2ª Edição. São Paulo: Blucher, 2007.

@@ -1,0 +1,2566 @@
+## Álgebra Linear e Geometria Analítica I
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Nenhum
+Tranca: Álgebra Linear e Geometria Analítica II
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.5 Período: 1º
+Período: 1º
+
+## Ementa
+Matrizes, Determinantes, Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
+
+## Objetivos
+• Introduzir e desenvolver em termos teóricos um conjunto de conceitos fundamentais da álgebra linear, que serão ferramentas essenciais para apoio às unidades curriculares mais específicas da engenharia; • Abordar estudo de matrizes, determinantes, sistemas de equações lineares, vetores no plano e no espaço com aplicações na geometria analítica e ainda introduz conceitos básicos sobre espaços vetoriais e subespaços.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear. 3.ª Edição. São Paulo: Harbra, 1984. 2. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997. 3. STEINBRUCH, A., WINTERLE, P. Álgebra Linear. 2.ª Edição. São Paulo: Pearson, 1995.
+
+## Bibliografia Complementar
+1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005. 2. LAY, D. C., LAY, S. R. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC, 2018. 3. LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018. 4. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011. 5. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Cálculo I
+## Dados
+CH: None
+Total Faltas: None
+Pré Requisitos: Nenhum
+Tranca: Cálculo II
+Núcleo: None
+Aulas por semana: 6
+Código: CSECBJ.4 Período: 1º
+Período: 1º
+
+## Ementa
+Números Reais, Funções Elementares do Cálculo, Limites e Continuidade de Funções, Derivação, Aplicações da derivada, Integração, Integral Indefinida e Integral Definida.
+
+## Objetivos
+• Introduzir o estudo de todas as funções elementares de maneira a familiarizar o aluno com a individualidade de cada função: parte gráfica, taxas de crescimento comparadas, características de cada função, leitura dos gráficos; • Desenvolver o conceito de limite inicialmente de maneira informal; discutir métodos para calcular limites e apresentar a definição matemática formal de limite; • Aplicar limites no estudo de curvas contínuas; • Promover um entendimento claro dos conceitos do Cálculo que são fundamentais na resolução de problemas enfatizando a utilidade do cálculo por meio do estudo de regras de derivação, taxas relacionadas e traçados de curvas com aplicações do cotidiano.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. LEITHOLD, L. O. O cálculo com Geometria Analítica. São Paulo: Habra, 1994. Vol. 1. 2. GUIDORIZZI, H. L. Um Curso de Cálculo Diferencial e Integral. 6ª Edição. Rio de Janeiro: LTC, 2018. Vol. 1. 3. HOWARD, A., BIVENS, I. C., DAVIS, S. L. Cálculo. 10ª Edição. Porto Alegre: Bookman, 2014. Vol. 1. 82 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 84 de 317
+
+## Bibliografia Complementar
+1. FLEMMING, D. M., GONÇALVES, M. B. Cálculo A: Funções, Limites, Derivação e Integração. 6ª Edição. São Paulo: Pearson, 2006. 2. LARSON, R., HOSTETLER, R., EDWARDS, B. H. Cálculo. 8ª Edição. São Paulo: AMGH, 2006. Vol. 1. 3. MUNEM, M. A.; FOULIS, D.J. Cálculo. Rio de Janeiro: LTC, 1982. Vol. 1. 4. STWEART, J. Cálculo. 4ª Edição. São Paulo: Cengage Learning, 2017. Vol. 1. 5. WEIER, M., HASS, J., THOMAS, G. B. Cálculo 1. 12ª Edição. São Paulo: Pearson, 2012. Vol. 1. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Desenho Técnico para Engenharia
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.7 Período: 1º
+Período: 1º
+
+## Ementa
+Utilização de instrumentos de desenho; Normas para desenho; Desenho geométrico; Projeções ortogonais; Perspectiva isométrica; Dimensionamento e cotagem; Cortes e secções.
+
+## Objetivos
+• Capacitar os alunos para interpretação e confecção de desenhos técnicos; • Desenvolver raciocínio espacial; • Adquirir conhecimentos e normas, técnicos, para confecção e leitura de desenhos; • Introduzir conceitos de computação gráfica.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. PEREIRA, Patrícia; MICELI M.T. Desenho Técnico Básico. Rio de Janeiro: LTC, 2008. 2. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. São Paulo: Pearson, 2013. 89 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 91 de 317 3. SILVA, A., RIBEIRO, C. T., DIAS, J., SOUZA, L. Desenho Técnico Moderno. 4ª Edição. Rio de Janeiro: LTC, 2006.
+
+## Bibliografia Complementar
+1. LEAKE, J. M., BORGERSON, J. L. Manual de Desenho Técnico para Engenharia: Desenho, Modelagem e Visualização. 2ª Edição. Rio de Janeiro: LTC, 2014. 2. MORIOKA, C. A., CRUZ, M. D., CRUZ, E. C. Desenho Técnico: Medidas e Representação Gráfica. São Paulo: Editora Érica, 2014. 3. NETTO, C. C. Estudo Dirigido Autodesk: AutoCAD 2018 para Windows. São Paulo: Érica, 2017. 4. NORTON, R. L. Projeto de Máquinas: Uma Abordagem Integrada. 4ª Edição. Porto Alegre: Bookman, 2013. 5. RODRIGUES, A. R., SOUZA, A. F., JUNIOR, A. B., BRANDÃO, L. C., SILVEIRA, Z. C. Desenho Técnico Mecânico. Rio de Janeiro: Elsevier, 2015. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Expressão Oral e Escrita
+## Dados
+CH: 40
+Total Faltas: 10
+Pré Requisitos: Nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.8 Período: 1º
+Período: 1º
+
+## Ementa
+Noções de texto. A organização micro e macroestrutural do texto: coesão e coerência. Tipologia textual. Linguagem e argumentação. Redação científica: resumo, resenha.
+
+## Objetivos
+• Capacitar o aluno a melhorar a compreensão, organização e a redação de textos narrativos, descritivos e dissertativos e elaborar textos relacionados com o curso; • Instrumentar os estudantes a se expressarem tanto verbalmente quanto por escrito. • Orientar a leitura de textos diversos, especialmente os acadêmicos. • Estimular os estudantes a participar de eventos científicos.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+4. ALMEIDA, D. S. A Produção de Textos no Ensino Superior. Curitiba: Editora CRV, 2012. 5. MARTINS, D. S., ZILBERKNOP, L. S. Português Instrumental: De Acordo com as Normas Atuais da ABNT. 30. Ed. Rio de Janeiro: Atlas, 2019. 6. MATTOSO, C. J. G. Manual de Expressão Oral e Escrita. 23. Ed. Rio de janeiro: Editora Vozes, 2012
+
+## Bibliografia Complementar
+6. DEMAI, F. M. Português Instrumental. São Paulo: Editora Érica, 2014. 7. DINTEL, F. Como Escrever Textos Técnicos e Profissionais: Todas as Orientações para Elaborar Relatórios, Cartas e Documentos Eficazes. São Paulo: Gutenberg, 2011. 8. MEDEIROS, J. B. Português Instrumental: Contém Técnicas de Elaboração de Trabalho de Conclusão de Curso. 10.Ed. Rio de Janeiro, Atlas, 2013. 91 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 93 de 317 9. OLIVEIRA, J. P. M., MOTTA, C. A. P. Como Escrever Textos Técnicos. 2. Ed. São Paulo: Cengage Learning, 2011. 10. OLIVEIRA, J. L. Texto Acadêmico: Técnicas de Redação e de Pesquisa Científica. 9. Ed.. Rio de Janeiro: Editora Vozes, 2012 4.7.1.2. 2º PERÍODO CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Fundamentos da Computação
+## Dados
+CH: None
+Total Faltas: None
+Pré Requisitos: Nenhum
+Tranca: Organização de Computadores, Sistemas Operacionais I, Arquitetura de Computadores
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.1 Período: 1°
+Período: 1°
+
+## Ementa
+História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Software; Unidades de Medida; Linguagens de Programação; Sistemas Operacionais; Redes de Computadores.
+
+## Objetivos
+Apresentar os principais conceitos acerca da informática e da computação, possibilitando que o discente compreenda, inicialmente, a organização e o funcionamento de sistemas computação.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BROOKSHEAR, J. G. Ciência da Computação: Uma Visão Abrangente. 11ª Edição, Bookman, 2013. 2. CARVALHO, C. P. L. F, LORENA, A. C. Introdução à Computação: Hardware, Software e Dados. LTC, 2016. 3. WAZLAWICK, R. S. História da Computação. Elsevier, 2016.
+
+## Bibliografia Complementar
+1. DALE, N., LEWIS, J. Ciência da Computação. 4ª Edição. LTC, 2010. 2. FAROUZAN, B., MOSHARRAF, F. Fundamentos da Ciência da Computação. Cengage Learning, 2011. 3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição. Pearson, 2013. 4. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013. 5. ______. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015. 75 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 77 de 317 CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Introdução à Engenharia
+## Dados
+CH: None
+Total Faltas: None
+Pré Requisitos: Nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.2 Período: 1º
+Período: 1º
+
+## Ementa
+Introdução à Engenharia; Regulamentação Profissional; Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para Solução dos Problemas de Engenharia; Modelos e Modelagem na Engenharia; Busca da Solução Ótima; Desenho Universal e Engenharia; Análise de Engenharia; Mundo Quantificado de Engenheiros.
+
+## Objetivos
+o Compreender a importância da profissão de engenheiro; o Conhecer as regulamentações relacionadas à profissão de engenheiro; o Conhecer as atividades e habilidades relacionadas à profissão de engenheiro; o Conhecer as especialidades de engenharia; o Conhecer as etapas de desenvolvimento de soluções de engenharia; o Compreender a importância do desenho universal em soluções de engenharia.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. COCIAN, L.F. E. Introdução à Engenharia. Bookman, 2016. 2. DYM, C. L., LITLE, P., ORWIN, E., SPJUT, E. Introdução à Engenharia Baseada em Projeto. 3ª Edição. Bookman, 2010. 3. HOLTZAPPLE, M., REECE, W. D. Introdução à Engenharia. LTC, 2006.
+
+## Bibliografia Complementar
+1. BROCKMAN, J. B. Introdução à Engenharia: Modelagem e Solução de Problemas. LTC, 2010. 2. CHAPMAN, S. Programação em Matlab para Engenheiros. 3ª Edição. Cengage Learning, 2016. 3. CHAPRA, S. C., CANALE, R. P. Métodos Numéricos para Engenharia. 3ª Edição. AMGH, 2016. 4. LEITE, M. SciLab: Uma Abordagem Prática e Didática. Ciência Moderna, 2015. 5. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. Pearson, 2013 CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Lógica para Computação
+## Dados
+CH: None
+Total Faltas: None
+Pré Requisitos: Nenhum
+Tranca: Matemática Discreta, Modelagem de Dados
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.3 Período: 1º
+Período: 1º
+
+## Ementa
+Introdução à Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Primeira Ordem; Aplicações de Lógica
+
+## Objetivos
+• Dominar os conceitos lógicos fundamentais de dedução e validade, correção e completude do Cálculo Proposicional e de Predicados. • Entender e aplicar os conceitos da lógica proposicional e de predicados na construção do raciocínio utilizado pelo computador em um software.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. FILHO, E. A. Iniciação à Lógica Matemática. Nobel, 1999. 2. SILVA, F. S. C., FINGER, M., MELO, A. C. V. Lógica para Computação. Cengage Learning, 2017. 79 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 81 de 317 3. SOUZA, J. N. Lógica para Ciência da Computação e Áreas Afins. 3ª Edição. Elsevier, 2014.
+
+## Bibliografia Complementar
+1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016. 2. MENEZES, P. B. Matemática Discreta para Computação e Informática. 4ª Edição. Bookman, 2013. 3. MENEZES, P. B., TOSCANI, L. V., LÓPEZ, J. G. Aprendendo Matemática Discreta com Exercícios. Bookman, 2009. 4. ROSEN, K. H. Matemática Discreta e Suas Aplicações. 6ª Edição. Mc Graw Hill, 2009. 5. SCHEINERMAN, E. Matemática Discreta: Uma Introdução. 3ª Edição. Cengage Learning. 2016. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Teoria Geral da Administração
+## Dados
+CH: None
+Total Faltas: None
+Pré Requisitos: Nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.6 Período: 1º
+Período: 1º
+
+## Ementa
+O Campo da Administração; Estruturas Administrativas; Importância das Estruturas; Técnicas de Estruturação; Áreas Administrativas; Planejamento da Ação Empresarial; Ambiente Organizacional.
+
+## Objetivos
+Capacitar o aluno a conhecer o contexto organizacional definindo as funções e estruturas administrativas bem como as ações que envolvem um planejamento empresarial.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. MOTTA, F. C. P.; VASCONCELOS, I. F. G. Teoria Geral da Administração. 3ª Edição. São Paulo: Cengage Learning, 2006. 2. MAXIMIANO, A. C. A. Teoria Geral da Administração – Da revolução Urbana à Revolução Digital. 8ª Edição. São Paulo: Atlas, 2017. 3. CHIAVENATO, I. Introdução à Teoria Geral da Administração. 9ª Edição. São Paulo: Editora Manole, 2014.
+
+## Bibliografia Complementar
+1. CHIAVENATO, I., SAPIRO, A. Planejamento Estratégico: Fundamentos e Aplicações. 3ª Edição. Rio de Janeiro: Elsevier, 2015. 2. MÜLLER, C. J. Planejamento Estratégico, Indicadores e Processos: Uma Integração Necessária. Rio de Janeiro: Atlas, 2013. 3. TAKEUCHI, H., NONAKA, I. Gestão do Conhecimento. Porto Alegre: Bookman, 2008. 4. GOVINDARAJAM, V., TRIMBLE, C. O Desafio da Inovação. Rio de Janeiro: Elsevier, 2013. 5. TIDD, J., BESSANT, J. Gestão da Inovação: Integrando Tecnologia. 5ª Edição. Porto Alegre: Bookman, 2015. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Álgebra Linear e Geometria Analítica II
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Álgebra Linear e Geometria Analítica I
+Tranca: Modelagem Ambiental, Pesquisa Operacional I
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.10 Período: 2º
+Período: 2º
+
+## Ementa
+Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores autoadjuntos e ortogonais. Valores e vetores próprios. Formas Quadráticas, Cônicas e Quadráticas.
+
+## Objetivos
+• Aprofundar os estudos em transformações lineares, abordando a mudança de base, matrizes semelhantes, autovalores, autovetores e diagonalização de matrizes. Na geometria analítica é auxílio para encontrar formas canônicas de cônicas e quádricas.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+95 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 97 de 317 1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear. 3.ª Edição. São Paulo: Harbra, 1984. 2. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997. 3. STEINBRUCH, A., WINTERLE, P. Álgebra Linear. 2.ª Edição. São Paulo: Pearson, 1995.
+
+## Bibliografia Complementar
+1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005. 2. LAY, D. C., LAY, S. R. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC, 2018. 3. LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018. 4. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011. 5. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Algoritmos e Técnicas de Programação
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Nenhum
+Tranca: Algoritmos e Estruturas de Dados I, Cálculo Numérico, Paradigmas de Linguagem de Programação
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.13 Período: 2°
+Período: 2°
+
+## Ementa
+Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exemplos informais de algoritmos. Tipos primitivos de dados. Variáveis e constantes. Expressões aritméticas e operadores aritméticos. Expressões lógicas. Operadores relacionais e lógicos. Tabelas verdade. Comando de atribuição. Comandos de entrada e saída. Seleção simples, composta, encadeada e de múltipla escolha. Estruturas de repetição.
+
+## Objetivos
+100 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 102 de 317 • Identificar as diferenças entre algoritmo e programa de computador; • Distinguir as etapas necessárias para elaboração de um algoritmo e de um programa de computador; • Acompanhar a execução de um programa de computador; • Conhecer as principais estruturas para construção de algoritmos voltados para a programação de computadores; • Relacionar problemas com estruturas semelhantes; • Aplicar o raciocínio lógico-dedutivo na criação de programas computacionais em linguagem de Programação C.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012. 2. PIVA JR, D., NAKAMITI, G. S., ENGELBRECHT, A. M., BIANCHI, F. Algoritmos e Programação de Computadores. São Paulo: Elsevier, 2012. 3. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997.
+
+## Bibliografia Complementar
+1. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006. 2. FORBELLONE, A. L., EBERSPACHER, H. Lógica de Programação: A Construção de Algoritmos e Estrutura de dados. 3ª Edição. São Paulo: Pearson, 2005. 3. LOPES, A., GARCIA, G. Introdução à Programação: 500 Algoritmos Resolvidos. São Paulo: Campus, 2002. 4. MANZANO, J. A. Estudo Dirigido de Linguagem C. 17ª Edição. São Paulo: Editora Érica,2002. MANZANO, J. A., OLIVEIRA, J. F. Algoritmos: Lógica para Desenvolvimento de Programação de Computadores. 28º Edição. São Paulo: Editora Érica, 2016. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Cálculo II
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Cálculo I
+Tranca: Cálculo III
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.9 Período: 2º
+Período: 2º
+
+## Ementa
+Aplicações da integral definida; Integrais impróprias; Funções de várias variáveis; Derivadas parciais; Aplicações das derivadas parciais; Integração múltipla.
+
+## Objetivos
+• Compreender os conceitos, procedimentos e técnicas do Cálculo II, desenvolvendo a capacidade de formular hipóteses e selecionar estratégias de ação; • Utilizar os conhecimentos e técnicas do Cálculo II na resolução de problemas em outras áreas do currículo e principalmente em sua vida profissional quando esses conhecimentos e técnicas se fizerem necessários; • Desenvolver a capacidade de interpretar e criticar resultados obtidos; • Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+93 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 95 de 317 1. GUIDORIZZI, H. Um Curso de Cálculo Diferencial e Integral: Volume II. Rio de Janeiro: LTC, 2018. 2. LEITHOLD, L. Cálculo com Geometria Analítica. 3ª Edição. São Paulo: Harbra, 1994. Vol. 2. 3. MUNEM, M. A.; FOULIS, D.J. Cálculo. Rio de Janeiro: LTC, 1982. Vol. 2.
+
+## Bibliografia Complementar
+1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I. 10ª Edição. Porto Alegre: Bookman, 2014 2. FLEMMING, D. M., GONÇALVES, M. B. Cálculo B: Funções de Várias Variáveis, Integrais Múltiplas, Integrais Curvilíneas e de Superfície. 2ª Edição. São Paulo: Pearson, 2007. 3. STEWART, J. Cálculo. 8ª Edição. São Paulo: Cengage Learning, 2017. Vol. 2. 4. YAMASHIRO, S., SOUZA, S. A. O. Matemática com Aplicações Tecnológica: Cálculo II. São Paulo: Blucher, 2018. 5. ZEGARELLI, M. Cálculo II para Leigos. Rio de Janeiro: Alta Books, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Física Experimental I
+## Dados
+CH: 40
+Total Faltas: 10
+Pré Requisitos: Nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.12 Período: 2º
+Período: 2º
+
+## Ementa
+Introdução à medida: como medir; como expressar corretamente os valores medidos; estimar a precisão de instrumentos. Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Conservação da Energia Mecânica.
+
+## Objetivos
+Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol. 1. 2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol 3. RESNICK, R., WALKER, J., HALIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro: LTC, 2016. Vol.
+
+## Bibliografia Complementar
+1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017. 2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013. 3. TAVARES, A. D. Mecânica Física: Abordagem Experimental e Teórica. Rio de Janeiro: LTC, 2014. 4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009. 5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Mecânica. São Paulo: AMGH, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Física I
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Cálculo I e Álgebra Linear e Geometria Analítica I
+Tranca: Mecânica dos Sólidos
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.11 Período: 2º
+Período: 2º
+
+## Ementa
+Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conservação: da energia mecânica e do momento (linear e angular).
+
+## Objetivos
+Apresentar aos alunos os conceitos fundamentais do estudo da mecânica.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol. 1. 2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol 3. RESNICK, R., WALKER, J., HALLIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro: LTC, 2016. Vol.
+
+## Bibliografia Complementar
+1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017. 2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013. 3. TAVARES, A. D. Mecânica Física: Abordagem Experimental e Teórica. Rio de Janeiro: LTC, 2014. 4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009. 5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Mecânica. São Paulo: AMGH, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Matemática Discreta
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Lógica para Computação
+Tranca: Linguagens Formais e Autômatos
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.14 Série e/ou Período: 2º
+Período: 2º
+
+## Ementa
+Teoria dos conjuntos, relações e funções, indução e recursão, análise combinatória, teoria dos números, teoria dos grafos e árvores.
+
+## Objetivos
+• Fornecer aos alunos conhecimento das principais técnicas de matemática discreta e sua relação com a Computação.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016. 2. MENEZES, P. B. Matemática Discreta para Computação e Informática. 4ª Edição. Bookman, 2013. 3. SCHEINERMAN, E. Matemática Discreta: Uma Introdução. 3ª Edição. Cengage Learning. 2016.
+
+## Bibliografia Complementar
+1. HUNTER, D. J. Fundamentos da Matemática Discreta. Rio de Janeiro: LTC, 2011. 2. LIPSCHUTZ, S; LIPSON, M. Matemática Discreta. 3ª Edição. São Paulo: Bookman, 2013. 3. MENEZES, P. B., TOSCANI, L. V., LÓPEZ, J. G. Aprendendo Matemática Discreta com Exercícios. Bookman, 2009. 4. ROSEN, K. H. Matemática Discreta e Suas Aplicações. 6ª Edição. Mc Graw Hill, 2009. 5. STEIN, C., DRYSDALE, R. L., BOGART, K. Matemática Discreta para Ciência da Computação. São Paulo: Pearson, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Química
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: nenhum
+Tranca: Introdução à Ciência dos Materiais
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.15 Série e/ou Período: 2º
+Período: 2º
+
+## Ementa
+Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Químicas. Introdução à Termodinâmica Química. Termoquímica, Combustíveis e Combustão. Equilíbrio Químico. Cinética Química. Eletroquímica. Noções de Química Orgânica.
+
+## Objetivos
+Rever e aprofundar os conceitos relativos aos constituintes básicos da matéria permitindo uma avaliação das características físicas e químicas das substâncias e dos materiais, de tal forma a capacitar o aluno para reconhecer a importância da química na vida cotidiana, como também sua aplicação em outros domínios.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+7. ATKINS, P., JONES, L., LAVERMANM L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 7ª Edição. Porto Alegre: Bookman, 2018. 8. KOTZ, J., TREICHEL, P. M., TOWNSEND, J., TREICHEL, D. Química Geral e Reações Químicas: Volume 1 e 2. 3ª Edição. São Paulo: Cengage Learning, 2015. 9. RUSSEL, J. B. Química Geral: Volume 1 e 2. 2ª Edição. São Paulo: Pearson, 1994.
+
+## Bibliografia Complementar
+1. BRADY, J. E., RUSSEL, J. W., HOLUM, J. R. Química: A Matéria e Suas Transformações. 5.ª ed., vol. 1 e 2, Rio de Janeiro: LTC, 2009 2. BROWN, T. L., LEMAY, H. E., BURSTEN, B. E., BURDGE, J. R. Química: A Ciência Central. 10ª Edição. São Paulo: Pearson, 2016. 3. BROWN, L., HOLME, T. Química Geral Aplicada à Engenharia. 2ª Edição. São Paulo: Cengage Learning, 2014. 4. ROSENBERG, J. L., EPSTEIN, L. M., KRIEGER, P. J. Química Geral. 9ª Edição. Porto Alegre: Bookman, 2012. 5. SOLOMONS, T. W. G, FRYHLE, C. B. SNYDER, S. A. Química Orgânica: Volume 1 e 2. 12ª Edição. Rio de Janeiro: LTC, 2018. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Química Experimental
+## Dados
+CH: 40
+Total Faltas: 10
+Pré Requisitos: nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 02
+Código: CSECBJ.15 Período: 2º
+Período: 2º
+
+## Ementa
+Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais. Ferramentas profissionais na área de química experimental. Teste de chama. Medidas de massa e de volume. Soluções. Reações químicas. Estequiometria. Titulação ácido-base. Termoquímica. Equilíbrio Químico. Cinética Química. Eletroquímica. Grupos funcionais orgânicos.
+
+## Objetivos
+107 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 109 de 317 Relacionar as práticas envolvidas nesta disciplina com a teoria abordada na disciplina de Química, de tal forma a contribuir para a aquisição do aprendizado teórico. Somado a isso, adquirir o conhecimento básico sobre as principais ferramentas profissionais utilizadas em um laboratório de química e compreender como a metodologia científica está envolvida desde o planejamento do experimento até a interpretação dos resultados.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BACCAN, N.; ANDRADE, J. C.; GODINHO, O. E. S.; BARONE, J. S. Química Analítica Quantitativa e Elementar. São Paulo: Edgard Blüche, 1998. 2. MENDHAM, J.; DENNEY, R. C.; BARNES, J. D.; THOMAS, M. J. K. Vogel - Análise Química Quantitativa. 6 ed. Rio de Janeiro: LTC, 2002. 3. VOGEL, A. I. Química Analítica Qualitativa. 5.ed., São Paulo: Editora Mestre Jou, 1981.
+
+## Bibliografia Complementar
+1. ATKINS, P. Princípios de Química: questionando a vida moderna e o meio ambiente, 5ª ed. Porto Alegre: Bookman, 2012. 2. FIOROTTO, N. R. Técnicas Experimentais em Química – Normas e Procedimentos. 1 ed. São Paulo: Erica, 2014. 3. HARRIS, D. 1948 - Análise Química Quantitativa/; Tradução Jairo Bordinhão..[et al.], - [Reimpr.], -Rio de Janeiro:LTC, 2011. 4. ROCHA-FILHO, R. C.; SILVA, R. R. Cálculos Básicos da Química. 4ª ed. São Carlos: EdUFSCar, 2017. 5. SILVA, R. R., BOCCHI, N., ROCHA-FILHO, R. C.; MACHADO, P. F. L. Introdução à Química Experimental. 3 ed. São Carlos: EdUFSCar, 2019. 4.7.1.3. 3º PERÍODO CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Algoritmos e Estruturas de Dados I
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Algoritmos e Técnicas de Programação
+Tranca: Algoritmos e Estruturas de Dados II
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.22 Período: 3º
+Período: 3º
+
+## Ementa
+Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de Parâmetros; Alocação Dinâmica de Memória; Estruturas de Dados Lineares; Recursividade; Algoritmos para Pesquisa e Ordenação.
+
+## Objetivos
+Proporcionar aos alunos conhecimentos teóricos e práticos em programação, envolvendo o estudo de conceitos fundamentais de algoritmos e estruturas de dados.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning, 2016. 2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014. 3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C São Paulo: Cengage, 2010
+
+## Bibliografia Complementar
+121 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 123 de 317 1. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo: McGrall Hill, 2007. 2. ASCENCIO, A. F. G., ARAÚJO, G. A. Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++. São Paulo: Pearson, 2015. 3. BACKES, A. Estrutura de Dados Descomplicada em Linguagem C. São Paulo: Elsevier, 2016. 4. CELES, W., CERQUEIRA, R., RANGEL, J. L. Introdução à Estruturas de Dados: Com Técnicas de Programação em C. 2ª Edição. São Paulo: Elsevier, 2016. 5. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Ciências do Ambiente
+## Dados
+CH: 40
+Total Faltas: 10
+Pré Requisitos: Correquisito:
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.24 Período: 3º
+Período: 3º
+
+## Ementa
+Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; Desenvolvimento Sustentável.
+
+## Objetivos
+• Desenvolver a compreensão sobre os principais conceitos envolvidos e fundamentos ecológicos relacionados ao estudo da disciplina ciências do ambiente, mostrando a importância do estudo ao futuro profissional, capacitando-o de forma contextualizada com a profissão.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BRAGA, B., HESPANHOL, I., CONEJO, J. G. L., MIERZWA, J. C., BARROS, M. T. L., CAPAZ, R. S., NOGUEIRA, L. H. Ciências Ambientais para Engenharia. São Paulo: Elsevier, 2014. 2. FANTINATTI, P., ZUFFO, A., ARGOLLO, A. F. Indicadores de Sustentabilidade em Engenharia. São Paulo: Elsevier, 2014. 3. SPENCER, M. NUCCI, N. JULIANO, N. ELGER, S. Introdução à engenharia ambiental: O Desafio do Desenvolvimento Sustentável. São Paulo: Pearson, 2005.
+
+## Bibliografia Complementar
+1. BOTKIN, D. B., KELLER, E. A. Ciência Ambiental: Terra, um Planeta Vivo. 7ª Edição. Rio de Janeiro, LTC, 2011. 2. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo: Elsevier, 2012. 3. CHRISTOFOLETTI, A. Modelagem de Sistemas Ambientais. São Paulo: Blucher, 1999. 4. DAVIS, M. L., MASTEN, S. Princípios de Engenharia Ambiental. 3ª Edição. São Paulo: Mc Graw Hill, 2016. 5. MILLER, G. T., SPOOLMAN, S. Ciência Ambiental. 2ª Edição. São Paulo: Cengage, 2015. 6. MIHELCIC, J. R., ZIMMERMAN, J. B. Engenharia Ambiental: Fundamentos, Sustentabilidade e Projeto. Rio de Janeiro: LTC, 2017. 4.7.1.4. 4º PERÍODO CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Introdução à Ciência dos Materiais
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Química
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.23 Período: 3º
+Período: 3º
+
+## Ementa
+Ciência e Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em Sólidos; Difusão; Propriedades Mecânicas dos Metais; Mecanismo de Aumento de Resistência; Falha; Diagrama de Fase; Ligas Metálicas; Corrosão e Degradação dos Materiais; Ensaios não Destrutivos.
+
+## Objetivos
+• Desenvolver habilidade para seleção e utilização de materiais na engenharia; • Proporcionar aos alunos a aquisição de conhecimentos em ciência e tecnologia de materiais, capacitando-o a reconhecer, classificar e selecionar materiais aplicados a equipamentos e processos no campo da tecnologia de automação.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. ASKELAND, D., WRIGHT, W. Ciência e Engenharia dos Materiais. 2ª Edição. São Paulo: Cengage, 2014. 2. CALLISTER, W. D., RETHWISCH, D. Ciência e Engenharia dos Materiais: Uma Introdução. 9ª Edição. Rio de Janeiro: LTC, 2016. 3. VAN VLACK, L. H. Princípios de Ciência e Tecnologia dos Materiais. São Paulo: Editora Campus, 1988.
+
+## Bibliografia Complementar
+1. BOTELHO, M. H. C. Resistência dos Materiais: Para Entender e Gostar. 4ª Edição. São Paulo: Blucher, 2017. 2. GARCIA, A. SPIM, J. A., SANTOS, C. A. Ensaio dos Materiais. 2ª Edição. Rio de Janeiro: LTC, 2012. 3. NEWELL, J. Fundamentos da Moderna Engenharia e Ciência dos Materiais. Rio de Janeiro: LTC, 2012. 4. SHACKELFORD, J. F., Ciência dos Materiais. 6ª Edição. São Paulo: Pearson, 2008. 5. SMITH, W. F., HASHEMI, J. Fundamentos de Engenharia e Ciência dos Materiais. 5ª Edição. São Paulo: McGraw Hill, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Mecânica dos Sólidos
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Física I
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.21 Período: 3º
+Período: 3º
+
+## Ementa
+Conceito de tensão, Forças distribuídas, Carregamentos axiais, Torção, Flexão, Cisalhamento, Carregamento combinado, Análise de tensões, transformação de tensão e Flambagem de colunas.
+
+## Objetivos
+Apresentar os conceitos, as teorias e os métodos de soluções de problemas de vigas submetidas a deformações em virtude de cargas externas, efeitos térmicos e esforços internos.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BEER, F. P.; JOHNSTON Jr, E. R.; DEWOLF, J. T.; MASUREK, D. F. Mecânica dos Materiais. Tradução José Benaque Rubert. 7. ed. Porto Alegre: AMGH, 2015. 840 p. 2. CRAIG Jr, R. R. Mecânica dos Materiais. T(cid:396)adução Jos(cid:288) Ro(cid:271)e(cid:396)to Mo(cid:396)aes d’Al(cid:373)eida, “id(cid:374)ei Pa(cid:272)io(cid:396)(cid:374)ik, Verônica Calado. 2. ed. [Reimp]. Rio de Janeiro: LTC, 2017. 552 p. 3. HIBBELLER, R. C. Resistencia dos Materiais. Tradução Sérgio Nascimento, Revisão técnica Sebastião Simões da Cunha. 10. ed. São Paulo: Pearson Education do Brasil, 2018. 754 p.
+
+## Bibliografia Complementar
+1. BEER, F. P.; JOHNSTO JR, E. R.; MASUREK, D. F. Mecânica vetorial para engenheiros: estática. Tradução Clara Állyergra Lyra Peter. 11. ed. Porto Alegre: AMGH, 2019. 634 p. 2. DOWLING, N. Comportamento Mecânico dos Materiais. São Paulo: Cengage Learning, 2017. 3. GERE, J., GOODNO, B. Mecânica dos Materiais. Tradução Roberto Henrique Torrejon. 8. ed. São Paulo: Cengage Learning, 2017. 119 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 121 de 317 4. PHILPOT, T. A. Mecânica dos Materiais: Um Sistema Integrado de Ensino. 2. ed. [Reimp]. Rio de Janeiro: LTC, 2019. 5. RILEY, W. P., STURGES, L. D., MORRIS, D. H. Mecânica dos Materiais. 5. ed. Rio de Janeiro: LTC, 2003. 6. SCHÖN, C. G. Mecânica dos Materiais: Fundamentos e Tecnologia do Comportamento. São Paulo: Elsevier, 2013. 7. UGURAL, A. C. Mecânica dos Materiais. Tradução Fernando Ribeiro da Silva. Rio de Janeiro: LTC, 2009. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Cálculo III
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Cálculo II
+Tranca: Cálculo IV
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.17 Período: 3º
+Período: 3º
+
+## Ementa
+Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss; 109 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 111 de 317
+
+## Objetivos
+• Compreender os conceitos, procedimentos e técnicas do Cálculo III, desenvolvendo a capacidade de formular hipóteses e selecionar estratégias de ação; • Utilizar os conhecimentos e técnicas do Cálculo III na resolução de problemas em outras áreas do currículo e principalmente em sua vida profissional quando esses conhecimentos e técnicas se fizerem necessários; • Desenvolver a capacidade de interpretar e criticar resultados obtidos; • Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014. 2. ______. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014. 3. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 3. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018. 4. ______. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018. 5. STEWART, J. Cálculo: Volume 1. 8ª Edição. São Paulo: Cengage Learning, 2017.
+
+## Bibliografia Complementar
+1. FERREIRA, P. C. P. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 1. Rio de Janeiro: Ciência Moderna, 2013. 2. ______. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 2. Rio de Janeiro: Ciência Moderna, 2013. 3. ______. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 3. Rio de Janeiro: Ciência Moderna, 2013. 4. FLEMMING, M. B., GONÇALVES, D. M. Cálculo C: Funções Vetoriais, Integrais Curvilíneas e Integrais de Superfície. 3ª Edição. São Paulo: Pearson, 2000. 5. VALADARES, R. J. C. Cálculo e Aplicações II: Funções Vetoriais. Rio de Janeiro: Ciência Moderna, 2010. 6. WEIR, M. D., HASS, J. THOMAS, G. B. Cálculo: Volume 2. 12ª Edição. São Paulo: Pearson Learning, 2012. 7. ______. Cálculo: Volume 1. 12ª Edição. São Paulo: Pearson Learning, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Equações Diferenciais
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Cálculo I e Álgebra Linear e Geometria Analítica I
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.18 Período: 3º
+Período: 3º
+
+## Ementa
+Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explícitas. Equações lineares de 2.ª ordem. Equações diferenciais lineares de ordem superior. O método da variação dos parâmetros. Solução de equações diferenciais ordinárias. Introdução a equações diferenciais parciais.
+
+## Objetivos
+• Apresentar ao aluno os conceitos básicos de equações diferenciais ordinárias e parciais; • Resolver problemas.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 10.ª Edição Rio de Janeiro: LTC, 2015. 2. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001. 3. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
+
+## Bibliografia Complementar
+1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008. 2. ÇENGEL, Y. A., PALM III, W. J. Equações Diferenciais. São Paulo: McGrall Hill, 2014. 3. DIACU, F. Introdução à Equações Diferenciais: Teoria e Aplicações. Rio de Janeiro, 2004. 113 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 115 de 317 4. KREYSZIG, E. Matemática Superior para Engenharia: Volume 1. 9ª Edição. São Paulo, LTC, 2008. 5. NAGLE, K. R., SAFF, E. B., SNYDER, A. D. Equações Diferenciais. 8ª Edição. São Paulo: Pearson, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Física Experimental II
+## Dados
+CH: 40
+Total Faltas: 10
+Pré Requisitos: Nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.20 Período: 3º
+Período: 3º
+
+## Ementa
+Estudo das ondas num meio material. Ondas estacionárias. Ondas numa corda. O Pêndulo simples. Os princípios da Termodinâmica: características de substâncias simples e sua relação com as mudanças de temperatura. Dilatação linear. Calor Específico. Entropia e os processos reversíveis.
+
+## Objetivos
+● Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas; ● Reconhecer ondas mecânicas.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. RESNICK, R., WALKER, J. HALLIDAY, D. Fundamentos de Física – Volume 2 – Gravitação, Ondas e Termodinâmica. 10ª Edição. Rio de Janeiro, LTC, 2016. 2. SERWAY, R., JEWETT, J. Princípios de Física – Volume II – Oscilações, Ondas e Termodinâmica. 2ª Edição. São Paulo: Cengage Learning, 2014. 3. YOUNG, H. D., FREEDMAN, R.A. Física II: Termodinâmica e Ondas. 14ª Edição. São Paulo: Pearson, 2015. Vol. 2.
+
+## Bibliografia Complementar
+1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 2: Oscilações, Ondas e Termodinâmica. 9ª Edição. São Paulo: Cengage Learning, 2017. 2. NUSSENZVEIG, H. M. Curso de Física Básica: Fluidos, Oscilações, Ondas e Calor. 5ª Edição. São Paulo: Blucher, 2014. 3. CHAVES, A. Física Básica: Gravitação, Fluídos, Ondas e Termodinâmica. Rio de Janeiro, LTC. 2007. 4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009. 5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Relatividade, Oscilações, Ondas e Calor. São Paulo: AMGH, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Física II
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Física I e Cálculo I
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.19 Período: 3º
+Período: 3º
+
+## Ementa
+Oscilações e ondas (em meio elástico e ondas sonoras); Princípios da termodinâmica: conceitos de temperatura e calor; 1.ª lei da termodinâmica; Teoria cinética dos gases; Entropia; 2.ª lei da termodinâmica.
+
+## Objetivos
+● Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas;
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. RESNICK, R., WALKER, J. HALLIDAY, D. Fundamentos de Física – Volume 2 – Gravitação, Ondas e Termodinâmica. 10ª Edição. Rio de Janeiro, LTC, 2016. 2. SERWAY, R., JEWETT, J. Princípios de Física – Volume II – Oscilações, Ondas e Termodinâmica. 2ª Edição. São Paulo: Cengage Learning, 2014. 3. YOUNG, H. D., FREEDMAN, R.A. Física II: Termodinâmica e Ondas. 14ª Edição. São Paulo: Pearson, 2015. Vol. 2.
+
+## Bibliografia Complementar
+1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 2: Oscilações, Ondas e Termodinâmica. 9ª Edição. São Paulo: Cengage Learning, 2017. 115 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 117 de 317 2. NUSSENZVEIG, H. M. Curso de Física Básica: Fluidos, Oscilações, Ondas e Calor. 5ª Edição. São Paulo: Blucher, 2014. 3. CHAVES, A. Física Básica: Gravitação, Fluídos, Ondas e Termodinâmica. Rio de Janeiro, LTC. 2007. 4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009. 5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Relatividade, Oscilações, Ondas e Calor. São Paulo: AMGH, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Algoritmos e Estruturas de Dados II
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Algoritmos e Estruturas de Dados I
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.30 Série e/ou Período: 4º
+Período: 4º
+
+## Ementa
+Árvores binárias de pesquisa. Árvores balanceadas e discussão de desempenho. Fila de prioridades. Pesquisa digital. Ordenação externa. Espalhamento. Implementação de estruturas de dados eficientes em disco.
+
+## Objetivos
+Aprimorar e estender os conceitos e técnicas vistos em Algoritmos e Estruturas de Dados 1, fazendo com que o aluno tenha habilidade de resolver problemas computacionais de forma mais eficiente.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning, 2016. 2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014. 3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C. São Paulo: Cengage, 2010.
+
+## Bibliografia Complementar
+1. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo: McGrall Hill, 2007. 2. ASCENCIO, A. F. G., ARAÚJO, G. A. Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++. São Paulo: Pearson, 2015. 3. BACKES, A. Estrutura de Dados Descomplicada em Linguagem C. São Paulo: Elsevier, 2016. 4. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012. 5. CELES, W., CERQUEIRA, R., RANGEL, J. L. Introdução à Estruturas de Dados: Com Técnicas de Programação em C. 2ª Edição. São Paulo: Elsevier, 2016. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Cálculo IV
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Cálculo III
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.31 Período: 4º
+Período: 4º
+
+## Ementa
+Sequências e séries. Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Singularidades e séries de Laurent. Resíduos e polos. Integração complexa. Teorema de Cauchy-Goursat. Teorema do resíduo. Transformada de Laplace. Séries de Fourier. Transformada de Fourier.
+
+## Objetivos
+• Compreender e aplicar os principais resultados sobre séries de potências que representam funções reais; • Adquirir noções de funções de variável complexa; • Desenvolver funções de variável complexa em séries de Laurent; • Classificar singularidades e calcular resíduos de funções de variável complexa; • Aplicar o cálculo de resíduos à obtenção da transformada inversa de Laplace;
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 10.ª Edição Rio de Janeiro: LTC, 2015. 2. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 4. 3ª Edição. Rio de Janeiro: LTC, 2018 3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
+
+## Bibliografia Complementar
+1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008. 140 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 142 de 317 2. BROWN, J. W., CHURCHIL, R. V. Variáveis Complexas e Aplicações. 9ª Edição. São Paulo: McGraw Hill, 2015. 3. MCMAHON, D. Variáveis Complexas Desmitificadas: Um Guia para o Autoaprendizado. São Paulo: Ciência Moderna, 2009. 4. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman. 2003. 5. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Cálculo Numérico
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Algoritmos e Técnicas de Programação
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.25 Período: 4º
+Período: 4º
+
+## Ementa
+Introdução: números binários e análise de erros; Solução de equações não lineares; Interpolação e ajuste de curvas; Integração numérica; Soluções numéricas de equações diferenciais ordinárias.
+
+## Objetivos
+• Utilizar métodos iterativos para se obter a solução de problemas matemáticos de forma aproximada; • Apresentar ao aluno maneiras práticas de se desenvolver e utilizar métodos numéricos, isso significa mostrar como usar esses métodos numéricos na calculadora e em um computador.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BURIAN, R.; LIMA, A. C. Cálculo Numérico. Rio de Janeiro: LTC, 2007. 2. RUGGIERO, M. A. G.; LOPES, V. L. da R. Cálculo Numérico: Aspectos Teóricos e Computacionais. 2.ª Edição. São Paulo: Pearson, 2000. 3. SPERANDIO, D., MENDES, J. T., SILVA, L. H. M. Cálculo Numérico: Características Matemáticas e Computacionais dos Métodos Numéricos. São Paulo: Prentice Hall, 2003.
+
+## Bibliografia Complementar
+1. ARENALES, S., DAREZZO, A. Cálculo Numérico – Aprendizagem com apoio de software. 2ª Edição. São Paulo: Cengage, 2015. 2. FILHO, F. F. Algoritmos Numéricos: Uma Abordagem Moderna de Cálculo Numérico. 3ª Edição. Rio de Janeiro, 2018. 3. FRANCO, N. B. Cálculo Numérico. São Paulo: Pearson, 2006. 4. PIRES, A. A. Cálculo Numérico: Prática com Algoritmos e Planilhas. São Paulo: Atlas, 2015. 5. VARGAS, J. V. C., ARAKI, L. K. Cálculo Numérico Aplicado. São Paulo: Manole, 2016. 128 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 130 de 317 CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Economia
+## Dados
+CH: 40
+Total Faltas: 10
+Pré Requisitos: Nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.32 Período: 4º
+Período: 4º
+
+## Ementa
+Capacitar o aluno a conhecer conceitos básicos de economia, os mecanismos de mercado e a formação dos preços. Apresentar elementos de cálculos financeiros básicos, fundamentais para o desenvolvimento de métodos quantitativos para seleção de alternativas econômicas e avaliação de projetos.
+
+## Objetivos
+Compreender o funcionamento das empresas e dos mercados, através de aplicação da teoria do consumidor, da teoria da produção e da teoria dos custos, dotando os alunos de conhecimento básico em avaliação de projetos, ampliando de uma forma geral a visão de gestão,permitindo assim maiores possibilidades de inserção no mundo do trabalho empresarial.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. PUCCINI, A. L. Matemática financeira: objetiva e aplicada. 9.ª Edição. São Paulo: Elsevier, 2011. 2. VASCONCELLOS, M. A. S.; ENRIQUEZ, M. Fundamentos de economia. 6.ª Edição. São Paulo: Saraiva, 2018. 3. VASCONCELLOS, M. A. S. Economia: micro e macro. 6.ª Edição. São Paulo: Atlas, 2015.
+
+## Bibliografia Complementar
+1. CAMLOFFSKI, R. Análise de Investimentos e Viabilidade as Empresas. São Paulo: Atlas, 2014. 2. FILHO, N. C., KOPITTKE, B. H. Análise de Investimentos. 11ª Edição. São Paulo: Atlas, 2010. 3. MANKIW, N. G. Introdução à Economia. 6ª Edição. São Paulo: Cengage, 2013. 4. NETO, A. A. Matemática Financeira e suas Aplicações. 13ª Edição. São Paulo: Atlas, 2016. 5. SOBRINHO, J. D. V. Matemática Financeira. 8ª Edição. São Paulo: Atlas, 2018. 4.7.1.5. 5º PERÍODO CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Fenômenos de Transporte
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Física II e Cálculo I
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.28 Período: 4º
+Período: 4º
+
+## Ementa
+Mecânica dos Fluidos – Conceitos e definições. Hidrostática. Hidrodinâmica. Hidráulica técnica – Bombas e Medidores de Vazão. Perda de carga em tubulações. Transmissão de Calor – Conceitos fundamentais. Trocadores de Calor – Aplicação.
+
+## Objetivos
+Analisar os fenômenos que envolvem Mecânica dos Fluidos e Transmissão de Calor e relacioná-los com os princípios da física e com suas situações práticas.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. FOX, R. W., MCDONALD, A.T. Introdução à Mecânica dos Fluidos. 9.ª Edição. Rio de Janeiro: LTC, 2018. 2. WASHINGTON, B. F. Fenômenos de Transporte para Engenharia. Rio de Janeiro: LTC, 2012. 3. FRANCO, B. Mecânica dos Fluidos. 2.ª Edição. São Paulo: Pearson, 2008.
+
+## Bibliografia Complementar
+1. BIRD, R. B., STEWART, W. LIGHTFOOT, E. N. Fenômenos de Transporte. 2ª Edição. Rio de Janeiro: LTC, 2004. 2. CANEDO, E. L. Fenômenos de Transporte. Rio de Janeiro: LTC, 2010. 3. LIVI, C. P. Fundamentos de Fenômenos de Transporte: Um Texto para Cursos Básicos. 2ª Edição. Rio de Janeiro: LTC, 2012. 4. GIORGETTI, M. Fundamentos de Fenômenos de Transporte para Estudantes de Engenharia. São Paulo: Elsevier, 2014. 5. ZADABAL, J. R. S., RIBEIRO, V. G. Fenômenos de Transportes: Fundamentos e Métodos. São Paulo: Elsevier, 2016. 134 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 136 de 317 CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Física Experimental III
+## Dados
+CH: 40
+Total Faltas: 10
+Pré Requisitos: Nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.27 Período: 4º
+Período: 4º
+
+## Ementa
+Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja, experimentos de eletrostática; Eletrodinâmica; Campo magnético; Eletromagnetismo; Capacitância, indutância, Circuitos Elétricos.
+
+## Objetivos
+● Dar subsídios físicos sobre os conceitos da Teoria Eletromagnética da natureza, assim como aplicá-los nas atividades profissionais do engenheiro.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. RESNICK, R., WALKER, J. HALLIDAY, D. Fundamentos de Física – Volume 3 – Eletromagnetismo. 10ª Edição. Rio de Janeiro, LTC, 2016. 2. SERWAY, R., JEWETT, J. Princípios de Física – Volume III – Eletromagnetismo. 2ª Edição. São Paulo: Cengage Learning, 2014. 3. YOUNG, H. D., FREEDMAN, R.A. Física III: Eletromagnetismo. 14ª Edição. São Paulo: Pearson, 2015. Vol. 3.
+
+## Bibliografia Complementar
+132 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 134 de 317 1. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Eletricidade e Magnetismo. São Paulo: AMGH, 2013. 2. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 3: Eletricidade e Magnetismo. 9ª Edição. São Paulo: Cengage Learning, 2017. 3. CHAVES, A. Física Básica: Eletromagnetismo. Rio de Janeiro, LTC. 2007. 4. NUSSENZVEIG, H. M. Curso de Física Básica: Eletromagnetismo. 5ª Edição. São Paulo: Blucher, 2014. 5. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Eletricidade, Magnetismo e Ótica. 6ª Edição. Rio de Janeiro: LTC, 2009. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Física III
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Física II e Cálculo III
+Tranca: Eletricidade Aplicada, Eletrônica Analógica
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.26 Período: 4º
+Período: 4º
+
+## Ementa
+Eletrostática: conceitos fundamentais, cargas, força, campo e potencial elétrico; energia potencial elétrica, capacitância. Eletrodinâmica: corrente, resistência, Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais, força magnética, momento magnético, efeito Hall, campo magnético em cargas móveis, Lei de Biot-Savart, Lei de Faraday, Lei de Ampère, indutância, circuitos RL e RLC.
+
+## Objetivos
+● Dar subsídios físicos sobre os conceitos da Teoria Eletromagnética da natureza, assim como aplicá-los nas atividades profissionais do engenheiro.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. RESNICK, R., WALKER, J. HALLIDAY, D. Fundamentos de Física – Volume 3 – Eletromagnetismo. 10ª Edição. Rio de Janeiro, LTC, 2016. 2. SERWAY, R., JEWETT, J. Princípios de Física – Volume III – Eletromagnetismo. 2ª Edição. São Paulo: Cengage Learning, 2014. 3. YOUNG, H. D., FREEDMAN, R.A. Física III: Eletromagnetismo. 14ª Edição. São Paulo: Pearson, 2015. Vol. 3.
+
+## Bibliografia Complementar
+1. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Eletricidade e Magnetismo. São Paulo: AMGH, 2013. 130 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 132 de 317 2. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 3: Eletricidade e Magnetismo. 9ª Edição. São Paulo: Cengage Learning, 2017. 3. CHAVES, A. Física Básica: Eletromagnetismo. Rio de Janeiro, LTC. 2007. 4. NUSSENZVEIG, H. M. Curso de Física Básica: Eletromagnetismo. 5ª Edição. São Paulo: Blucher, 2014. 5. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Eletricidade, Magnetismo e Ótica. 6ª Edição. Rio de Janeiro: LTC, 2009. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Probabilidade e Estatística
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Nenhum
+Tranca: Avaliação e Desempenho de Sistemas
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.29 Período: 4º
+Período: 4º
+
+## Ementa
+Introdução à Estatística; Estatística Descritiva; Probabilidades; Variáveis Aleatórias. Distribuições de Probabilidades.
+
+## Objetivos
+• Apresentar ao aluno os conceitos básicos de probabilidades e estatística descritiva que possibilitem a aplicação de métodos estatísticos na análise de problemas.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. LARSON, R., FARBER, B. Estatística Aplicada. 6ª Edição. São Paulo: Pearson, 2015. 2. MONTGOMERY, D. C., RUNGE, G. C. Estatística Aplicada e Probabilidade para Engenheiros. 6.ª Edição. Rio de Janeiro: LTC, 2016. 3. WALPOLE R., MYERS, R., MYERS, S., YE K., Probabilidade & Estatística para Engenharia e Ciências. 8ª Edição. São Paulo: Pearson, 2008.
+
+## Bibliografia Complementar
+1. BUSSAB, W. O., MORETTIN, P. A. Estatística Básica. 9ª Edição. São Paulo: Saraiva, 2017. 2. DEVORE, J. L. Probabilidade e Estatística para Engenharia e Ciências. 2ª Edição. São Paulo: Cengage, 2014. 3. ROSS, S. Probabilidade: Um Curso Moderno com Aplicações. 8ª Edição. Porto Alegre: Bookman, 2010. 4. SPIEGEL, M., SCHILER, J., SRINIVASAN, R. A. Probabilidade e Estatística. 3ª Edição. Porto Alegre: Bookman, 2012. 5. YATES, R. D., GOODMAN, D. J. Probabilidade e Processos Estocásticos: Uma Introdução Amigável para Engenheiros Eletricistas e da Computação. 3ª Edição. Rio de Janeiro: LTC, 2016. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Avaliação e Desempenho de Sistemas
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Probabilidade e Estatística
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.41 Período: 5º
+Período: 5º
+
+## Ementa
+Conceitos, técnicas e métricas de avaliação de desempenho de sistemas computacionais. Motivação e terminologia de Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilísticos. 160 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 162 de 317 Benchmarking e Planejamento de capacidade. Teoria de Filas. Leis Fundamentais. Modelos simples baseados em Fila única, do tipo M/M/1. Lei de Little. Estudos de Casos.
+
+## Objetivos
+• Apresentar os principais conceitos e técnicas de análise de desempenho cobrindo tópicos nas áreas de modelagem, simulação e experimentação.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. FOGLIATTI, M. C., MATTOS, N. M. C. Teoria de Filas. Rio de Janeiro, 2006. 2. PRADO, D. Teoria de Filas e da Simulação – Volume 2. 5ª Edição. São Paulo: Falconi, 2017. 3. ______. Usando o Arena em Simulação – Volume 3. 5ª Edição. São Paulo: Falconi, 2014.
+
+## Bibliografia Complementar
+1. BATEMAN, R., BOWDEN, R. D., GOGG, T. J., HARREL, C. R., MOTT, J. R. A., MONTEVECHI, J. A. B. Simulação de Sistemas: Aprimorando Processos de Logística, Serviços e Manufatura. São Paulo: Elsevier, 2013. 2. CHWIF, L., MEDINA, A. Modelagem e Simulação de Eventos Discretos: Teoria e Aplicações. 4ª Edição. São Paulo: Elsevier, 2014. 3. SPIEGEL, M., SCHILER, J., SRINIVASAN, R. A. Probabilidade e Estatística. 3ª Edição. Porto Alegre: Bookman, 2012. 4. YATES, R. D., GOODMAN, D. J. Probabilidade e Processos Estocásticos: Uma Introdução Amigável para Engenheiros Eletricistas e da Computação. 3ª Edição. Rio de Janeiro: LTC, 2016. 4.7.1.6. 6º PERÍODO CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Eletricidade Aplicada
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Física III
+Tranca: Energia e Eficiência Energética
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.33 Período: 5º
+Período: 5º
+
+## Ementa
+Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. Fornecimento de energia elétrica. Normas técnicas e órgãos reguladores. Automação e controle de processos.
+
+## Objetivos
+Proporcionar ao aluno conhecimentos básicos sobre energia elétrica objetivando melhor utilizá-las no meio industrial, bem como estudar os equipamentos elétricos e eletrônicos e iluminação na indústria.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. ALEXANDER, C. K., SADIKU, M. Fundamentos de Circuitos Elétricos. 5ª Edição. Porto Alegre: Bookman, 2013. 2. NILSSON, J. W., RIEDEL, S. A. Circuitos Elétricos. 10ª Edição. São Paulo: Pearson, 2015. 144 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 146 de 317 3. NAHVI, M., EDMINISTER, J. Circuitos Elétricas. 5ª Edição. Porto Alegre: Bookman, 2014.
+
+## Bibliografia Complementar
+1. GUSSOW, M. Eletricidade Básica. 2ª Edição. Porto Alegre: Bookman, 2008. 2. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro: LTC, 2013. 3. O’MALLEY, J. Análise de Circuitos. 2ª Edição. Porto Alegre: Bookman, 2014. 4. SADIKU, M., MUSA, S., ALEXANDER, C. Análise de Circuitos Elétricos com Aplicações. Porto Alegre: Bookman, 2013. 5. SVOBODA, J. A, DORF, R. C. Introdução aos Circuitos Elétricos. 9ª Edição. Rio de Janeiro: LTC, 2016. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Eletrônica Analógica
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Física III
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.37 Período: 5º
+Período: 5º
+
+## Ementa
+Teoria e circuitos com diodos e diodos com finalidades específicas; Transistores bipolares e circuitos polarizados com transistor; Fonte de alimentação regulada; Osciladores e temporizadores; Tiristores; Amplificadores Operacionais (circuitos lineares e não-lineares).
+
+## Objetivos
+● Compreender o funcionamento dos componentes eletrônicos básicos abordados e de como eles funcionam ● Compreender o funcionamento dos CIs e dos sistemas eletrônicos atuais e suas aplicações no campo da Engenharia de Computação.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. MALVINO, A. P., BATES, D. J. Eletrônica: Volume 1. 8ª Edição. Porto Alegre: Bookman, 2016. 2. ______. Eletrônica: Volume 2. 8ª Edição. Porto Alegre: Bookman, 2016. 3. PERTENCE, Antônio Jr. Amplificadores Operacionais e Filtros Ativos. 8ª Edição. Porto Alegre: Bookman, 2014.
+
+## Bibliografia Complementar
+1. BOYLESTAD, R., NASHELSKY, L. Dispositivos Eletrônicos e Teoria dos Circuitos. 11ª Edição. São Paulo: Pearson, 2013. 2. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro: LTC, 2013. 3. HART, D. W. Eletrônica de Potência: Análise e Projeto de Circuitos. Porto Alegre: Bookman, 2011. 4. HOROWITZ, P. A Arte da Eletrônica: Circuitos Eletrônicos e Microeletrônica. 3ª Edição. Porto Alegre: Bookman, 2017. 5. PLATT, C. Eletrônica para Makers: Um Manual Prático para o Novo Entusiasta de Eletrônica. São Paulo: Novatec, 2016. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Engenharia de Software
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: ...
+Tranca: Análise de Software Orientado a Objetos
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.36 Período: 5º
+Período: 5º
+
+## Ementa
+149 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 151 de 317 Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto de software. Arquitetura de software. Testes. Visão geral sobre manutenção de software.
+
+## Objetivos
+• Desenvolver a visão de software como um sistema e parte de um sistema; • Conhecer processos de desenvolvimento de software • Compreender os papéis dos participantes do processo de desenvolvimento de software; • Identificar os diversos paradigmas da engenharia de software; • Conhecer modelos arquiteturais de software; • Conhecer princípios e metodologias de testes de software; • Reconhecer as categorias e atividades da manutenção de software; • Trabalhar com ambientes e ferramentas de suporte ao desenvolvimento de software
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. PRESSMAN, R. S., MAXIM, B. R. Engenharia de Software: Uma Abordagem Profissional. 8ª Edição. Porto Alegre: Bookman, 2016. 2. SOMMERVILLE, I. Engenharia de Software. 9ª Edição. São Paulo: Pearson, 2011. 3. WAZLAWICK, R. S. Engenharia de Software: Conceitos e Práticas. São Paulo: Elsevier, 2013.
+
+## Bibliografia Complementar
+1. DELAMARO, M. E., MALDONADO, J. C., JINO, M. Introdução ao Teste de Software. 2ª Edição. São Paulo: Elsevier, 2016. 2. FERNANDES, J. M., MACHADO, R. J. Requisitos em Projetos de Software e de Sistemas de Informação. São Paulo: Novatec, 2017. 3. HIRAMA, K. Engenharia de Software: Qualidade e Produtividade com Tecnologia. São Paulo: Elsevier, 2011. 4. MACHADO, F. N. R., Análise e Gestão de Requisitos de Software: Onde Nascem os Sistemas. 3ª Edição. São Paulo: Érica, 2015. 5. SAMPAIO, C. Qualidade de Software na Prática: Como Reduzir o Custo de Manutenção de Software com a Análise de Código. São Paulo: Ciência Moderna, 2014. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO 151 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 153 de 317
+
+***
+
+## Gestão Ambiental
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Correquisito:
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.39 Período: 5º
+Período: 5º
+
+## Ementa
+Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo, reciclagem e reaproveitamento. Definição de lixo e poluição. Externalidades negativas. Responsabilidade ambiental. Noções de engenharia de materiais. Gestão de recursos hídricos. Gestão da energia. Certificado ISO 14001. Licenciamento ambiental. Estratégias ambientais para os negócios. 156 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 158 de 317
+
+## Objetivos
+• Introduzir conceitos de gestão ambiental com intuito de levar o aluno a pensar sistemicamente e considerar os fatores externos ambientais que influenciam o ambiente interno e os reflexos no meio ambiente em função da ação do homem nas atividades produtivas; • Capacitar o aluno para avaliar os empreendimentos do ponto de vista ambiental e compreender a importância da consciência ambiental como estratégia de negócios.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+4. BARBIERI, J.C. Gestão Ambiental Empresarial. Conceitos, Modelos e Instrumentos. 4ª Edição. São Paulo: Saraiva. 2015. 5. DIAS, R. Gestão Ambiental: Responsabilidade Social e Sustentabilidade. 3ª Edição. São Paulo: Atlas, 2017. 6. DONAIRE, D., OLIVEIRA, E. C. Gestão Ambiental na Empresa. 3ª Edição. São Paulo: Atlas, 2018.
+
+## Bibliografia Complementar
+6. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo: Elsevier, 2012. 7. CECH, T. V. Recursos Hídricos: História, Desenvolvimento, Política e Gestão. 3ª Edição. Rio de Janeiro: LTC, 2012. 8. FIORILLO, C. A. P., MORITA, D. M., FERREIRA, P. Licenciamento Ambiental. 3ª Edição. São Paulo: Saraiva, 2018. 9. MIHELCIC, J. R., ZIMMERMAN, J. B. Engenharia Ambiental: Fundamentos, Sustentabilidade e Projeto. Rio de Janeiro: LTC, 2017. 10. SEIFFERT, M. E. B. ISO 14001 Sistemas de Gestão Ambiental: Implantação Objetiva e Econômica. 5ª Edição. São Paulo, Atlas, 2017. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Linguagens Formais e Autômatos
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Matemática Discreta
+Tranca: Compiladores
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.40 Período: 5º
+Período: 5º
+
+## Ementa
+Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. Máquina de turing. Problema da parada. Noções de cálculo lambda e funções recursivas.
+
+## Objetivos
+• Aprender a formalizar problemas computacionais através de linguagens formais, autômatos e máquina de Turing; • Compreender o funcionamento de tais sistemas e modelos formais; • Estudar e compreender conceitos de teoria da computação.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. DIVERIO, T. A., MENEZES, Paulo. B. Teoria da Computação: máquinas universais e computabilidade. 3ª Edição. Porto Alegre: Bookman. 2011. 2. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016. 3. ROSEN, Kenneth H. Matemática Discreta e suas Aplicações. 6ª Edição. São Paulo: McGraw-Hill Brasil. 2009.
+
+## Bibliografia Complementar
+1. HOPCROFT, J. E., ULLMAN, J. D., MOTWANI, R. Introdução à teoria de autômatos, linguagens e computação. 2ª Edição. Rio de Janeiro: Campus. 2003. 2. MENEZES, P. B. Linguagens Formais e Autômatos. 6ª Edição. Porto Alegre: Bookman. 2011. 3. PAPADIMITRIOU, C. H., LEWIS, H. R. Elementos da Teoria da Computação. 2ª Edição. Porto Alegre: Bookman. 2000. 4. SIPSER, M. Introdução à Teoria da Computação. 2ª Edição. São Paulo: Thomson Learning. 2007. 5. VIEIRA, N. J. Introdução aos fundamentos da computação: linguagens e máquinas. São Paulo: Thomson, 2006. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Modelagem de Dados
+## Dados
+CH: 40
+Total Faltas: 10
+Pré Requisitos: Lógica para Computação
+Tranca: Banco de Dados
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.35 Período: 5°
+Período: 5°
+
+## Ementa
+Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenciador de Banco de Dados. Modelo Entidade Relacionamento. Normalização e Dependências Funcionais. Modelo Relacional. Álgebra Relacional e Cálculo Relacional. Projeto e Implementação de Bancos de Dados.
+
+## Objetivos
+• Modelar conceitualmente os requisitos informacionais de um sistema de informação; • Conhecer e aplicar modelos e técnicas de projeto e implementação de banco de dados; .
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004. 2. HEUSER, C. A. Projeto de Banco de Dados. 6ª Edição. Porto Alegre: Bookman, 2008. 3. SILBERSCHATZ, A, KORTH, H. F. SUDARSHAN, S. Sistema de banco de dados. 6. ed. Rio de Janeiro, RJ: Elsevier, 2012.
+
+## Bibliografia Complementar
+1. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012. 2. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015. 3. MACHADO, F. N. R., ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 17ª Edição. São Paulo: Érica, 2012. 4. ROB, P., CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Administração. São Paulo: Cengage, 2010. 5. TEOREY, T., LIGHTSTONE, S., NARDEAU, T., JAGADISH, H. V. Projeto e Modelagem de Dados. 2ª Edição. São Paulo: Elsevier, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Paradigmas de Linguagem de Programação
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Algoritmos e Técnicas de Programação
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.38 Período: 5°
+Período: 5°
+
+## Ementa
+Visão geral de linguagens de programação: valores e tipos; variáveis e comandos; associações e escopo; abstração e mecanismos de passagens de parâmetros; encapsulamento; sistema de tipos; sequenciadores; concorrência. Paradigmas: imperativo, funcional, lógico, orientado a objetos e paradigmas híbridos.
+
+## Objetivos
+Compreender os principais conceitos e paradigmas das linguagens de programação permitindo a seleção de uma linguagem mais adequada para solução de um dado problema. 154 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 156 de 317
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. SEBESTA, R. W. Conceitos de Linguagens de Programação. 11ª Edição. Porto Alegre: Bookman, 2018. 2. TUCKER, A. B., NOOMAN, R. Linguagens de Programação: Princípios e Paradigmas. 2ª Edição. São Paulo: McGraw Hill, 2009. 3. WAMPLER, D. Programação Funcional para Desenvolvedores Java. São Paulo: Novatec, 2012.
+
+## Bibliografia Complementar
+1. DONOVAN, A. A. A., KERNIGHAN, B. W. A Linguagem de Programação GO. São Paulo: Novatec, 2017. 2. DOSXEY, C. Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis. São Paulo: Novatec: 2016. 3. IERUSALIMSCHY, R. Programando em LUA. 3ª Edição. Rio de Janeiro: LTC, 2014. 4. MANZANO, J. A. N. Primeiros Passos com a Linguagem Rust. São Paulo, Novatec, 2018. 5. RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz. São Paulo: Novatec, 2015. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Projeto e Análise de Algoritmos
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Matemática Discreta e Algoritmos e Estruturas de Dados II
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.34 Período: 5º
+Período: 5º
+
+## Ementa
+Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limites de Complexidade. Análise de algoritmos iterativos e recursivos.
+
+## Objetivos
+Conhecer as técnicas e formalismos fundamentais para analisar algoritmos
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning, 2016. 2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014. 146 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 148 de 317 3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C. São Paulo: Cengage, 2010.
+
+## Bibliografia Complementar
+1. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo: McGrall Hill, 2007. 2. ASCENCIO, A. F. G., ARAÚJO, G. A. Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++. São Paulo: Pearson, 2015. 3. BACKES, A. Estrutura de Dados Descomplicada em Linguagem C. São Paulo: Elsevier, 2016. 4. CELES, W., CERQUEIRA, R., RANGEL, J. L. Introdução à Estruturas de Dados: Com Técnicas de Programação em C. 2ª Edição. São Paulo: Elsevier, 2016. 5. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Análise de Software Orientado a Objetos
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Engenharia de Software
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.41 Período: 6º
+Período: 6º
+
+## Ementa
+Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de Modelagem Unificada; Modelagem de Negócio; Análise de Requisitos; Modelagem de Casos de Uso; Modelagem Conceitual; Modelagem Funcional; Projeto de Software Orientado a Objetos.
+
+## Objetivos
+• Compreender os conceitos da Análise e Projeto Orientado a Objetos; • Analisar problemas reais e produzir modelos orientados a objetos utilizando UML; • Projetar soluções computacionais criando modelos orientados a objetos utilizando UML.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BEZERRA, E. Princípios de Análise e Projetos de Sistemas com UML. 3ª Edição. São Paulo: Elsevier, 2014. 2. LARMAN, G. Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientado a Objetos e ao Desenvolvimento Iterativo. 3ª Edição. Porto Alegre: Bookman, 2006. 3. WAZLAWICK, R. Análise e Design Orientados a Objetos para Sistemas de Informação: Modelagem com UML, OCL e IFML. 3ª Edição. São Paulo: Elsevier, 2014.
+
+## Bibliografia Complementar
+1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017. 2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier, 2006. 3. DENNIS, A., WIXOM, B. H., ROTH, R. H. Análise e Projeto de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2014. 4. ENGHOLM JR., H. Análise e Design Orientados a Objetos. São Paulo: Novatec, 2013. 5. GOES, W. M. Aprenda UML por Meio de Estudos de Caso. São Paulo: Novatec, 2014. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Banco de Dados
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Modelagem de Dados
+Tranca: Geoprocessamento
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.44 Período: 6º
+Período: 6º
+
+## Ementa
+Organização e armazenamento de dados: arquivos, índices. Processamento e otimização de consultas. Transações: definição, propriedades, estados. Recuperação de falhas. Controle de concorrência. Noções básicas de bancos de dados distribuídos. Aspectos de segurança e privacidade. Implementação de visões, stored procedures e triggers.
+
+## Objetivos
+• Proporcionar aos alunos conhecimentos teóricos e práticos em Banco de Dados, envolvendo o estudo de conceitos fundamentais de Projeto de Sistemas de Banco de Dados, além da sua aplicação através do ensino de uma linguagem de programação de banco de dados e do desenvolvimento de aplicações de bancos de dados.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004. 2. HEUSER, C. A. Projeto de Banco de Dados. 6ª Edição. Porto Alegre: Bookman, 2008. 3. SILBERSCHATZ, A, KORTH, H. F. SUDARSHAN, S. Sistema de banco de dados. 6. ed. Rio de Janeiro, RJ: Elsevier, 2012.
+
+## Bibliografia Complementar
+1. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012. 2. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015. 3. MACHADO, F. N. R., ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 17ª Edição. São Paulo: Érica, 2012. 4. ROB, P., CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Administração. São Paulo: Cengage, 2010. 5. TEOREY, T., LIGHTSTONE, S., NARDEAU, T., JAGADISH, H. V. Projeto e Modelagem de Dados. 2ª Edição. São Paulo: Elsevier, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Compiladores
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Linguagens Formais e Autômatos
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.49 Período: 6º
+Período: 6º
+
+## Ementa
+Compiladores e Interpretadores. Análise Léxica e Sintática. Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de código. Otimização. Ambientes de tempo de execução.
+
+## Objetivos
+• Compreender a teoria de compilação. • Conhecer as diferentes etapas da compilação de programas. • Entender e implementar os mecanismos da construção de um compilador. • Manipular as ferramentas de compilação.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. Oliveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo: Atlas, 2011; 2. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004. 3. CHENG, L. C.; QFD: Desdobramento da Função Qualidade na Gestão de Desenvolvimento de Produto. CHENG, L. C.; MELO FILHO, L. D. R de. São Paulo, SP. 2ª Ed. Blucher, 2010.
+
+## Bibliografia Complementar
+1. PAIVA, C. VIAN, C. E.; PELLEGRINO, A. C. G. T. Economia. Fundamentos e prática aplicados à realidade brasileira. Campinas SP. 2ªEd. Ed. Alinea, 2014; 2. KOTLER, P. Administração de marketing. KOTLER, P; KELLER, K.L.; Tradução YAMAMOTO, S. M.; Revisão técnica CRESCITELLI, E. 14ª ed. Pearson Education do Brasil. São Paulo, SP. 2012. 3. ZUGMAM, F. Administração para profissionais liberais. 2ª edição revista e ampliada. ALTA BOOKS Editora, 2017. 4. TAJRA, S. F. Empreendedorismo: Conceitos e Práticas Inovadoras. 1 Ed. São Paulo. Érica, 2014. 5. DORNELAS, J, C. Empreendedorismo: transformando ideias em negócios. 2.ed. Rio de Janeiro: Elsevier, 2001. 4.7.1.7. 7º PERÍODO CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Comunicação de Dados
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Nenhum
+Tranca: Redes de Computadores I
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.47 Período: 6º
+Período: 6º
+
+## Ementa
+Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. Controle de Enlace. Multiplexação. Espalhamento Espectral.
+
+## Objetivos
+● Apresentar ao aluno as definições básicas e os principais problemas relacionados com comunicação de dados ponto a ponto. ● Apresentar conceitos básicos de capacidade de canal, relação entre taxa de transmissão e largura de faixa, modulação analógica e digital, controle de erros, multiplexação e espalhamento espectral devem ser dominados pelo aluno
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. CAMPOS, A. L. P. S. Laboratório de Princípios de Telecomunicações. Rio de Janeiro: LTC, 2015. 2. FOROUZAN, B. A. Comunicação de dados e redes de computadores. 4ª. Ed. Porto Alegre: Bookman, 2007. 3. ROCHOL, J. Comunicação de Dados. Porto Alegre: Bookman, 2011.
+
+## Bibliografia Complementar
+1. HAYKIN, S. MOHER, M. Sistemas modernos de comunicação wireless. Porto Alegre: Bookman, 2008. 2. HAYKIN, S. Sistemas de comunicação: analógicos e digitais. 5ª Edição. Porto Alegre: Bookman, 2010. 174 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 176 de 317 3. LATHI, E., DING, Z. Sistemas de Comunicações Analógicos e Digitais Modernos. 4ª Edição. Rio de Janeiro: LTC, 2012. 4. HSU, H. P. Comunicação Analógica e Digital. 2ª Edição. Porto Alegre, 2006. 5. CARVALHO 6. ROCHOL, J. Sistemas de Comunicação Sem Fio: Conceitos e Aplicações. Porto Alegre: Bookman, 2018. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Eletrônica Digital
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Eletrônica Analógica e Lógica para Computação
+Tranca: Sistemas Digitais
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.46 Período: 6º
+Período: 6º
+
+## Ementa
+Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise de circuitos digitais combinacionais; formas padrão de funções lógicas; minimização de funções lógicas; mapas de Karnaugh; codificadores e decodificadores multiplexadores e demultiplexadores; flip-flops.
+
+## Objetivos
+● Fundamentar conceitos relacionados a sistemas numéricos, códigos binários, funções lógicas e Álgebra de Boole; ● Analisar e sintetizar circuitos lógicos combinacionais; ● Introduzir o funcionamento dos Flip-Flop.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BIGNELL, J., DONOVAN, J. Eletrônica Digital. São Paulo: Cengage, 2009. 2. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019. 3. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 1: Sistemas Combinacionais. Porto Alegre: Bookman, 2013.
+
+## Bibliografia Complementar
+1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012. 2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010. 3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010. 4. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo: Elsevier, 2016. 172 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 174 de 317 5. SZAJNBERG, M. Eletrônica Digital: Teoria, Componentes e Aplicações. Rio de janeiro: LTC, 2014. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Filosofia da Ciência e Tecnologia
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.43 Período: 6°
+Período: 6°
+
+## Ementa
+Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O progresso científico. O progresso tecnológico. Civilização tecnológica. Ciência, Tecnologia e Humanismo.
+
+## Objetivos
+Problematizar e contextualizar a crise da Ciência Moderna e das concepções dominantes de tecnologia, fazendo a crítica ao paradigma científico dominante. 165 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 167 de 317
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. CHAUI, M. S. Convite à filosofia. 14. ed. São Paulo: Ática, 2011. 2. LATOUR, Bruno. Ciência em ação: como seguir cientistas e engenheiros sociedade afora. São Paulo: Ed. UNESP, 2000. 3. MORIN, E. Ciência com consciência. 11. ed. Rio de Janeiro: Bertrand Brasil, 2008.
+
+## Bibliografia Complementar
+1. ARANHA, M. L. A.; MARTINS, M. H. P. Filosofando: introdução à filosofia. 4. ed. rev. São Paulo: Moderna, 2009. 2. HARVEY, David. Condição pós-moderna: uma pesquisa sobre as origens da mudança cultural. 14. ed. São Paulo: Loyola, 2005. 3. PINTO, Álvaro Vieira. O conceito de tecnologia. Rio de Janeiro: Contraponto, 2008. 4. SANTOS, B. S. Um discurso sobre as ciências. 6. ed. São Paulo, SP: Cortez, 2009. 5. OLIVA, A. Filosofia da Ciência. Rio de Janeiro: Zahar, 2003. CAMPUS: BOM JESUS DO ITABAPOANA 166 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 168 de 317 CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Gestão de Projetos
+**DISCIPLINA NÃO ENCONTRADA NO PDF**
+
+## Programação Orientada a Objetos I
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Algoritmos e Técnicas de Programação e Paradigmas de Linguagem de Programação
+Tranca: Programação Orientada a Objetos II
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.44 Período: 6º
+Período: 6º
+
+## Ementa
+Desenvolvimento de software de complexidade média utilizando o paradigma de orientação a objetos. Estudo e análise dos conceitos de herança e polimorfismo. Discussão de aspectos avançados sobre classes. Discussão sobre empacotamento e distribuição de aplicações. Implementação de estruturas de dados encadeadas. Uso de bibliotecas de coleções. Projeto de sistemas orientados a objetos.
+
+## Objetivos
+● Conhecer e utilizar de forma precisa conceitos e termos relacionados ao paradigma de orientação a objetos. ● Desenvolver as competências e habilidades para a criação de sistemas de complexidade média, formado por múltiplos componentes, e expressar estas soluções na forma de um sistema de classes em uma linguagem de programação. ● Descrever sistemas utilizando diagramas e código. ● Construir abstrações para tipos de dados, usando os conceitos de classe, objeto, mensagem, herança e interface.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. JUNIOR, P. J. Java: Guia do Programador. 3ª Edição. São Paulo: Novatec, 2015. 2. SANTOS, R. Introdução à programação orientada a objetos usando Java. 2ª Edição. Rio de Janeiro: Elsevier: Campus, 2013. 3. SIERRA, K. BATES, B. Use a cabeça! Java. 2ª Edição. Rio de Janeiro: Alta Books, 2007.
+
+## Bibliografia Complementar
+1. BLOCH, J. Java Efetivo: As Melhores Práticas para a Plataforma Java. Rio de Janeiro: Alta Books, 2019. 2. DEITEL, P. J., DEITEL, H. M. Java, como programar. 10ª Edição. São Paulo: Pearson, 2016. 3. FREEMAN, E.; FREEMAN, E. Use a cabeça! padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books, 2009. 170 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 172 de 317 4. FURGIERI, S. Java 8 Ensino Didático: Desenvolvimento e Implementação de Aplicações. São Paulo: Érica, 2015. 5. SILVEIRA, P. Introdução à arquitetura e design de software: uma visão sobre a plataforma Java. Rio de Janeiro: Elsevier, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Computação, Sociedade e Inclusão
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.54 Período: 7º
+Período: 7º
+
+## Ementa
+Fundamentação e discussão crítica sobre aspectos sociais, econômicos, políticos e culturais dos desdobramentos da computação na sociedade e da sociedade na computação. O computador na sociedade atual. Apropriações da computação e relações de poder: o espaço público, o privado e o sujeito. Recursos e repositórios educacionais abertos. Conteúdos e identidade cultural. Cidadania e educação na sociedade digital. Ferramental tecnológico como construção sócio-cultural.
+
+## Objetivos
+• Capacitar o aluno para entender as questões sociais, éticas, econômicas, culturais e políticas associadas ao uso do computador.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. HALL, S. A Identidade Cultural na Pós-Modernidade. Rio de Janeiro: Lamparina, 2019. 2. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. São Paulo: Arquipélago, 2018. 3. SOUZA, J. (et. al). A Sociedade de Controle: manipulação e modulação nas redes sociais. São Paulo: Hedra, 2021.
+
+## Bibliografia Complementar
+188 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 190 de 317 1. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2013. 2. ______. O Poder da Identidade. São Paulo: Paz e Terra, 2018. 3. CAZELOTO, E. Inclusão Digital: uma visão crítica. São Paulo: Senac, 2019. 4. FREIRE, P. Extensão ou Comunicação?. 8ª Edição. Rio de Janeiro: Paz e Terra, 2021. 5. FREIRE, E., BATISTA, S. S. S. Sociedade e Tecnologia na Era Digital. São Paulo: Erica, 2014. 6. HOOKS, B. Ensinando a Transgredir: A Educação como Prática da Liberdade. 2ª Edição. São Paulo: WMF Martins Fontes, 2017. 7. PISCHETOLA, M. Inclusão digital e educação: a nova cultura da sala de aula. Petrópolis: Vozes, 2016. VALLEJO, A. P., ZWIEREWICZ, M., COPPETE, M. C., BORGES, M. K., PEREIRA, C. D. Sociedade da Informação, Educação Digital e Inclusão. Santa Catarina: Insular, 2007. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Eletiva I
+**DISCIPLINA NÃO ENCONTRADA NO PDF**
+
+## Eletiva II
+**DISCIPLINA NÃO ENCONTRADA NO PDF**
+
+## Organização de Computadores
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Fundamentos da Computação
+Tranca: Microcontroladores
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.52 Período: 7º
+Período: 7º
+
+## Ementa
+Arquitetura Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dispositivos de Entrada/Saída
+
+## Objetivos
+• Proporcionar conhecimentos introdutórios e essenciais de teoria e prática em Arquitetura e Organização de Computadores, bem como possibilitar ao aluno embasamento para as disciplinas seguintes do curso.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017. 2. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013. 3. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
+
+## Bibliografia Complementar
+1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003. 2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007. 3. HENNESSY, J. Organização e Projeto de Computadores. 5ª Edição. São Paulo: Elsevier, 2017. 4. HENESSY, J. L., PATTERSON, D. A. Arquitetura de Computadores. Uma Abordagem Quantitativa. 5ª Edição. São Paulo: Elsevier, 2013. 183 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 185 de 317 5. WEBER, R. F. Fundamentos de Arquitetura de Computadores. 4ª Edição. Porto Alegre: Bookman, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Programação Orientada a Objetos II
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Programação Orientada a Objetos I
+Tranca: Desenvolvimento para Web 2020 Especificação do
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.51 Período: 7º
+Período: 7º
+
+## Ementa
+Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.
+
+## Objetivos
+• Aprofundar os conhecimentos acerca de programação orientado à objetos;
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+4. FREEMAN, E.; FREEMAN, E. Use a cabeça! Padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books, 2009. 5. GAMMA, E., HELM, R., JHONSON, R., VLISSIDES, J. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. Porto Alegre: Bookman, 2000. 6. SILVEIRA, P., SILVEIRA, G., LOPES, S., MOREIRA, G., STEPPAT, N., KUNG, F. Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java. São Paulo: Elsevier, 2011.
+
+## Bibliografia Complementar
+6. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017. 7. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier, 2006. 181 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 183 de 317 8. DENNIS, A., WIXOM, B. H., ROTH, R. H. Análise e Projeto de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2014. 9. ENGHOLM JR., H. Análise e Design Orientados a Objetos. São Paulo: Novatec, 2013. 10. GOES, W. M. Aprenda UML por Meio de Estudos de Caso. São Paulo: Novatec, 2014. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Projeto de Software Orientado a Objetos
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Análise de Software Orientada a Objetos
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.50 Período: 7º
+Período: 7º
+
+## Ementa
+177 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 179 de 317 Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.
+
+## Objetivos
+• Aprofundar os conhecimentos acerca de projetos de software orientado à objetos;
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. FREEMAN, E.; FREEMAN, E. Use a cabeça! Padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books, 2009. 2. GAMMA, E., HELM, R., JHONSON, R., VLISSIDES, J. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. Porto Alegre: Bookman, 2000. 3. SILVEIRA, P., SILVEIRA, G., LOPES, S., MOREIRA, G., STEPPAT, N., KUNG, F. Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java. São Paulo: Elsevier, 2011.
+
+## Bibliografia Complementar
+1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017. 2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier, 2006. 3. DENNIS, A., WIXOM, B. H., ROTH, R. H. Análise e Projeto de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2014. 4. ENGHOLM JR., H. Análise e Design Orientados a Objetos. São Paulo: Novatec, 2013. 5. GOES, W. M. Aprenda UML por Meio de Estudos de Caso. São Paulo: Novatec, 2014. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Redes de Computadores I
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Comunicação de Dados
+Tranca: Redes de Computadores II, Dimensionamento de Redes de Computadores, Interconexão de Redes de Computadores
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.56 Período: 7º
+Período: 7º
+
+## Ementa
+Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Redes; Qualidade de Serviço; Segurança; Protocolo IP.
+
+## Objetivos
+• Apresentar os princípios básicos de redes de computadores. • Estudar os fundamentos de redes para que o acadêmico consiga estruturar, planejar, e configurar uma estrutura básica de redes; • Compreender as camadas de referência das estruturas de redes; • Entender endereçamento IP para configuração e planejamento de redes.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015. 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top- Down. 6ª Edição. Pearson, 2013. 3. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+
+## Bibliografia Complementar
+1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books, 2009. 2. CARISSIMI, A. S., ROCHOL, J. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman, 2017. 3. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013. 4. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015. 5. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Sistemas Digitais
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Eletrônica Digital
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.53 Período: 7º
+Período: 7º
+
+## Ementa
+Análise e síntese de circuitos digitais sequenciais; contadores e registradores; famílias lógicas, circuitos integrados; conversores: analógico / digital e digital/ analógico; dispositivos de memórias; noções de dispositivos programáveis.
+
+## Objetivos
+• Dimensionar e interpretar circuitos eletrônicos digitais. Analisar e sintetizar circuitos sequenciais; • Caracterizar as diferentes famílias lógicas aplicadas em circuitos digitais; • Compreender as técnicas de conversão digital analógica e analógico-digital; • Analisar e projetar sistemas digitais lógicos e programáveis.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012. 2. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo: Elsevier, 2016. 3. TOCCI, R. J., WIDMER, N. S., MOSS, G. L. Sistemas Digitais: Princípios e Aplicações. 11ª Edição. São Paulo: Pearson, 2011.
+
+## Bibliografia Complementar
+1. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019. 2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010. 3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010. 4. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 2: Sistemas Sequenciais. São Paulo: Bookman, 2013. 5. VAHID, F. Sistemas Digitais: Projeto, Otimização e HDLs. Porto Alegre: Bookman, 2008. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Sistemas Operacionais I
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Fundamentos da Computação
+Tranca: Sistemas Operacionais II
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ. Período: 7º
+Período: 7º
+
+## Ementa
+Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Memória.
+
+## Objetivos
+• Compreender o funcionamento dos mecanismos internos de Sistemas Operacionais.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. OLIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010. 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015. 3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018.
+
+## Bibliografia Complementar
+1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005. 2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014. 3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição. Rio de Janeiro: LTC, 2015. 4. WARD, B. Como o Linux Funciona: O que Todo Super Usuário Deveria Saber. 2ª Edição. São Paulo: Novatec, 2015. 5. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013. 4.7.1.8. 8º PERÍODO CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Arquitetura de Computadores
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Fundamentos da Computação
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.59 Período: 8º
+Período: 8º
+
+## Ementa
+197 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 199 de 317 Arquitetura IA-32/IA-64; Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; Barramentos de computadores pessoais; Interfaceamento via rede; Práticas de laboratório.
+
+## Objetivos
+• Capacitar o aluno, através do conhecimento básico da arquitetura IA-32/IA-64, a interfacear e integrar novos projetos e produtos dentro dessa arquitetura que é a base da maioria dos computadores pessoais modernos.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017. 2. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017. 3. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
+
+## Bibliografia Complementar
+1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003. 2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007. 3. HENNESSY, J. Organização e Projeto de Computadores. 5ª Edição. São Paulo: Elsevier, 2017. 4. HENESSY, J. L., PATTERSON, D. A. Arquitetura de Computadores. Uma Abordagem Quantitativa. 5ª Edição. São Paulo: Elsevier, 2013. 5. WEBER, R. F. Fundamentos de Arquitetura de Computadores. 4ª Edição. Porto Alegre: Bookman, 2012. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Eletiva III
+**DISCIPLINA NÃO ENCONTRADA NO PDF**
+
+## Eletiva IV
+**DISCIPLINA NÃO ENCONTRADA NO PDF**
+
+## Metodologia Cientifica e Tecnológica
+## Dados
+CH: 40
+Total Faltas: 10
+Pré Requisitos: Correquisito:
+Tranca: Projeto Final de Curso I
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.62 Período: 8º
+Período: 8º
+
+## Ementa
+Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.
+
+## Objetivos
+1. Desenvolver conhecimentos teórico-práticos necessários para estudo e pesquisa, na perspectiva de subsidiar a realização de trabalhos acadêmicos e de educação continuada; 2. Construir um referencial teórico capaz de fundamentar a elaboração de trabalhos monográficos; Redigir um projeto de pesquisa, de acordo com as normas técnicas de apresentação de trabalhos científicos.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo: Atlas, 2017. 2. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018. 3. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier, 2014.
+
+## Bibliografia Complementar
+1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto. 3ª Edição. Porto Alegre: São Paulo, 2010. 2. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017. 3. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 2017. 4. ______. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017. 5. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição. São Paulo: Penso, 2013. 4.7.1.9. 9º PERÍODO CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Microcontroladores
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Organização de Computadores
+Tranca: Sistemas Embarcados, Sistemas Distribuídos, Sociedade e Tecnologia
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.60 Série e/ou Período: 8º
+Período: 8º
+
+## Ementa
+Principais características; Tipos de arquiteturas; Memórias internas; Registradores; Modos de endereçamento; Instruções; Linguagem assembly; Compiladores e ferramentas de desenvolvimento; Sistema de interrupções; Dispositivos de entrada e saída (I/O); Estudo dos conversores A/D; Estudo dos conversores D/A; Dispositivos periféricos; Desenvolvimento de projetos utilizando microcontroladores; Projetos com microcontrolador empregando conversores A/D e D/A; Atividades de laboratório.
+
+## Objetivos
+199 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 201 de 317 ● Fornecer conhecimentos necessários para analisar e projetar hardware e software de sistemas microcontrolados e suas interfaces
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016. 2. GIMENEZ, S. P. Microcontroladores 8051: Teoria e Prática. São Paulo: Erica, 2010. 3. NICOLOSI, D. E. Microcontrolador 8051: Detalhado. São Paulo: Erica, 2013.
+
+## Bibliografia Complementar
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012. 2. GIMENEZ, S. P. Microcontroladores 8051. São Paulo: Pearson, 2002. 3. NICOLOSI, D. E. C. Laboratório de Microcontroladores Família 8051: Treino de Instruções, Hardware e Software. 6ª Edição. São Paulo: Erica, 2014. 4. NICOLOSI, D. E. C., BRONZERI, R. B. Microcontrolador 8051 com Linguagem C: Prático e Didático. 2ª Edição. São Paulo: Erica, 2008. 5. OLIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição. São Paulo: Erica, 2010. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Redes de Computadores II
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Redes de Computadores I
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.57 Período: 8º
+Período: 8º
+
+## Ementa
+Roteadores e suas Tecnologias; Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com Switches; Configuração de Switch; VLANs; Listas de Controle de Acesso; DHCP; NAT para IPv4; Descoberta, Gerenciamento e Manutenção de Dispositivos.
+
+## Objetivos
+• Aprofundar conhecimentos em redes de computadores acerca de redes comutadas, switching, roteamento.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015. 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição. Pearson, 2013. 3. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+
+## Bibliografia Complementar
+1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books, 2009. 2. CARISSIMI, A. S., ROCHOL, J. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman, 2017. 3. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013. 4. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015. 5. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Segurança e Higiene do Trabalho
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Correquisito: ...
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.57 Período: 8º
+Período: 8º
+
+## Ementa
+Introdução à Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (NR-5), Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho – Sesmt (NR-4), Equipamento de Proteção Individual (NR-6), Programa de Controle Médico de Saúde Ocupacional – Pcmso (NR-7), Programa de Prevenção de Riscos Ambientais – Ppra (NR-9), Segurança em Instalações e Serviços em Eletricidade (NR-10), Atividades e Operações Insalubres (NR-15), Atividades e Operações Perigosas (NR-16), Proteção Contra Incêndio (NR23).
+
+## Objetivos
+• Identificar os conceitos básicos de Higiene e Segurança do Trabalho, bem como sua aplicação tanto em estudo de casos como em situações cotidianas; 195 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 197 de 317 • Demonstrar a importância das Normas e Legislações pertinentes à HST.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. BARSANO, P. R., BARBOSA, R. P. Higiene e Segurança do Trabalho. 2ª Edição. São Paulo: Erica, 2018. 2. ______. Segurança do Trabalho: Guia Prático e Didático. 2ª Edição. São Paulo: Erica, 2018. 3. CAMISASSA, M. Q. Segurança e Saúde no Trabalho: NRs 1 a 36 Comentadas e Descomplicadas. 5ª Edição. São Paulo: Método, 2018.
+
+## Bibliografia Complementar
+1. BARBOSA, R. P. Avaliação de Risco e Impacto Ambiental. São Paulo: Erica, 2014. 2. CARDELLA, B. Segurança no Trabalho e Prevenção de Acidentes: Uma Abordagem Holística. 2ª Edição. Rio de Janeiro: LTC, 2016. 3. MATTOS, U. Higiene e Segurança do Trabalho. São Paulo: Elsevier, 2011. 4. PAOLESCHI. B. CIPA: Guia Prático de Segurança do Trabalho. São Paulo: Erica, 2009. 5. PONTE JR, G. P. Gerenciamento de Riscos Baseado em Fatores Humanos e Cultura de Segurança. São Paulo: Elsevier, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Sistemas Operacionais II
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Sistemas Operacionais I
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.61 Período: 8º
+Período: 8º
+
+## Ementa
+Sistemas de Arquivos; Entrada/Saída; Deadlocks.
+
+## Objetivos
+• Aprofundar os conhecimentos acerca das estruturas de um sistema operacional.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. OLIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010. 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015. 3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018.
+
+## Bibliografia Complementar
+1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005. 2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014. 3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição. Rio de Janeiro: LTC, 2015. 4. WARD, B. Como o Linux Funciona: O que Todo Super Usuário Deveria Saber. 2ª Edição. São Paulo: Novatec, 2015. 5. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Direito, Ética e Cidadania
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Nenhum.
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.69 Período: 9º
+Período: 9º
+
+## Ementa
+Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação dos novos aspectos e relações jurídicas da sociedade da informação. Análise das principais manifestações do direito digital e eletrônico nos 205 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 207 de 317 ramos do direito. Introdução aos mecanismos de governança da internet no Brasil e no mundo. Regulação do ambiente online e o Marco Civil da Internet. Direitos e deveres no ciberespaço. Responsabilidade de usuários, provedores e governo. Inovação nas tecnologias de informação e comunicação. Propriedade intelectual na era digital. Acessibilidade, inclusão digital e ciberativismo. Profissional de computação. Princípios de conduta ética e profissional do engenheiro de software. Propriedade intelectual e pirataria. Privacidade. Responsabilidade social. O que é ética; Código de ética da ACM e IEEE. Direitos autorais e estudos de casos sobre ética na computação. Ética na internet: liberdade de informação, privacidade e censura.
+
+## Objetivos
+• Correlacionar, de forma interdisciplinar, o Direito com a Engenharia de Computação, levando o estudante a compreender a presença do Direito em sua vida pessoal e profissional, assim como em questões contemporâneas que envolvem ética e cidadania; • Aprofundar a reflexão sobre a ética, dedicando-se aos estudos sobre valores morais e princípios ideais do comportamento humano, abordando o caráter e a conduta humana, bem como a ética enquanto instrumento mediador das questões de relacionamento entre cidadãos; • Capacitar o discente, enquanto cidadão, a reconhecer seus direitos e deveres, bem como a sua importância enquanto agente receptor mas também modificador de direitos, introduzindo-o no universo do Direito, da ética e da cidadania; • Proporcionar a percepção do impacto e da influência que as transformações sociais e os instrumentos tecnológicos acarretam nas relações sociais que são regulamentadas pelo Direito, ressaltando situações concretas que envolvem Direito, ética, cidadania e computação; • Tratar de leis e códigos de ética no âmbito da Engenharia de Computação, destacando os aspectos jurídicos (legais e jurisprudenciais) pertinentes, em consonância com as diretrizes constitucionais e seus princípios norteadores; • Realizar palestras, rodas de conversa e seminários sobre situações concretas que envolvem Direito, ética, cidadania e computação.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. DI FELICE, M. A Cidadania Digital: a crise da ideia ocidental de democracia e a participação nas redes sociais São Paulo; Paulus, 2021. 2. QUARESMA, R. A. Ética, direito e cidadania: Brasil sociopolítico e jurídico atual. Curitiba:Juruá Editora, 2008. 3. MASIERO, P. C. Ética em Computação. São Paulo: EDUSP, 2008. 4. PAESANI, L. M. Direito e Internet – Liberdade de Informação, Privacidade e Responsabilidade Civil. São Paulo: Atlas, 2014. 5. ____________. Manual de Propriedade Intelectual: Direito de Autor, Direito da Propriedade Industrial, Direitos Intelectuais Sui Generes. São Paulo: Atlas, 2012. 6. PINHEIRO, P. P. Direito Digital. 5.ª ed. São Paulo: Saraiva, 2021. 7. ROVER, A. J. (org). Direito e Informática. São Paulo: Manole, 2004. 208 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 210 de 317
+
+## Bibliografia Complementar
+1. BARCELLOS, A. P. A eficácia jurídica dos princípios constitucionais: o princípio da dignidade da pessoa humana. Rio de Janeiro: Renovar, 2002. 2. BARROS FILHO, Clóvis de; POMPEU, Júlio. A Filosofia Explica as Grandes Questões da Humanidade. Rio de Janeiro/São Paulo: Casa do Saber/Casa da Palavra, 2013. 3. CASTELLS, M. Redes de indignação e esperança: movimentos sociais na era da internet. Rio de Janeiro: Zahar, 2013. 4. COMPARATO, F. C. Ética: Direito, Moral e Religião no Mundo Moderno. São Paulo: Companhia das Letras, 2006. 5. LEAL, S. R. C. S. Contratos Eletrônicos: Validade Jurídica dos Contratos Via Internet. São Paulo: Atlas. 2009 6. MARCONDES, D. Textos Básicos de Ética: De Platão a Foucault. Rio de Janeiro: Zahar, 2007. 7. PAESANI, L. M. Direito e Internet – Liberdade de Informação, Privacidade e Responsabilidade Civil. São Paulo: Atlas, 2014. 8. PEKKA, H. A Ética dos Hackers e o espírito da era da informação: a diferença entre o bom e o mau hacker. Rio de Janeiro: Campus, 2001. 9. PINHEIRO, Patricia Peck (org.). Direito Digital Aplicado. São Paulo: Intelligence, 2012. 10. PINSKY, J; PINSKY, C. História da Cidadania. São Paulo: Contexto, 2003. 11. SILVA, R. B. T.; SANTOS, M. J. P. Responsabilidade Civil na Internet e Nos Demais Meios de Comunicação. São Paulo: Saraiva, 2012. 12. TARTUCE, Flávio. Manual de Direito Civil – volume único. São Paulo: Método, 2013. 13. VALLS, Álvaro L. M. O que é Ética. São Paulo: Brasiliense, 2002. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Eletiva V
+**DISCIPLINA NÃO ENCONTRADA NO PDF**
+
+## Eletiva VI
+**DISCIPLINA NÃO ENCONTRADA NO PDF**
+
+## Empreendedorismo
+## Dados
+CH: 40
+Total Faltas: 10
+Pré Requisitos: Nenhum
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 2
+Código: CSECBJ.68 Período: 9º
+Período: 9º
+
+## Ementa
+O empreendedor e a economia de mercado; O mercado e as oportunidades de negócios; O empreendedor e os fatores de sucesso empresarial; Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor e medidas de qualidade. Startups.
+
+## Objetivos
+Proporcionar aos acadêmicos o conhecimento das características empreendedoras, a busca das oportunidades de negócios e o desenvolvimento do plano de negócios de empresas, bem como prepará-los para empreender e avaliar os riscos em atividades voltadas a sua atuação na área da engenharia de computação.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004. 2. CHÉR, R. Empreendedorismo na veia: um aprendizado constante. Rio de Janeiro: Elsevier: SEBRAE, 2008. 3. TAJRA, S. F. Empreendedorismo: Conceitos e Práticas Inovadoras. 1 Ed. São Paulo. Érica, 2014.
+
+## Bibliografia Complementar
+1. DRUCKER, P. F. Inovação e espírito empreendedor: prática e princípios. São Paulo: Pioneira, 2005. 2. Oliveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo: Atlas, 2011; 3. KOTLER, P. Administração de marketing. KOTLER, P; KELLER, K.L.; Tradução YAMAMOTO, S. M.; Revisão técnica CRESCITELLI, E. 14ª ed. Pearson Education do Brasil. São Paulo, SP. 2012. 4. DORNELAS, J, C. Empreendedorismo: transformando ideias em negócios. 2.ed. Rio de Janeiro: Elsevier, 2001. 5. TELLES, A.& MATOS, C. O empreendedor Viável: uma mentoria para empresas na época da cultura startup. Rio de Janeiro: Le Ya, 2013. 6. RIES, E. A startup enxuta: como os empreendedores atuais utilizam a inovação contínua para criar empresas extremamente bem-sucedidas. São Paulo: Lua de Papel, 2012. 7. BERNARDI, L.A.. Manual de empreendedorismo e gestão: fundamentos, estratégias e dinâmicas. São Paulo, SP: Atlas, 2010. 314 p. 8. DEGEN, J, R. O empreendedor: fundamentos da iniciativa empresarial. São Paulo: Pearson Education do Brasil, 1989. Negócios de impacto socioambiental no Brasil: como empreender, financiar e apoiar / Organizadores: Edgard Barki, Graziella Maria Comini, Haroldo da Gama Torres. - Rio de Janeiro : FGV Editora, 2019. 376 p. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Projeto Final de Curso I
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Metodologia Científica e Tecnológica
+Tranca: Projeto Final de Curso II
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.67 Período: 9º
+Período: 9º
+
+## Ementa
+Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de Elaboração de Documentos Técnicos; Técnicas de Criatividade; Orientação sobre Preparação e Apresentação de Palestra; Técnicas de 209 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 211 de 317 Subdivisão de Trabalho; Estabelecimento de Cronograma; Orçamento de Projeto; Desenvolvimento do Projeto de Fim de Curso.
+
+## Objetivos
+• Orientar o aluno no desenvolvimento do projeto final
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo: Atlas, 2017. 2. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018. 210 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 212 de 317 3. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier, 2014.
+
+## Bibliografia Complementar
+1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto. 3ª Edição. Porto Alegre: São Paulo, 2010. 2. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017. 3. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 2017. 4. ______. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017. 5. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição. São Paulo: Penso, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Sistemas Distribuídos
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Microcontroladores
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.71 Período: 9º
+Período: 9º
+
+## Ementa
+Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sincronização em Sistemas Distribuídos; Modelo de Falha e Segurança; Middewares para Aplicações Distribuídas; Transações Distribuídas e Controle de Concorrência.
+
+## Objetivos
+• Conhecer e aplicar conceitos e tecnologias de Sistemas Distribuídos
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição. Porto Alegre: Bookman, 2007. 2. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005. 3. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
+
+## Bibliografia Complementar
+1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005. 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição. Pearson, 2013. 3. RHODES, B. GOERZEN, J. Programação de Redes com Python: Guia Abrangente de Programação e Gerenciamento de Redes com Python 3. São Paulo: Novatec, 2015. 4. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015. 5. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018. 4.7.1.10. 10º PERÍODO CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Sistemas Embarcados
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Microcontroladores
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.70 Período: 9º
+Período: 9º
+
+## Ementa
+Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementação. Programação concorrente. Núcleos operacionais. Escalonamento.
+
+## Objetivos
+• Apresentar os conceitos, problemas e soluções típicas no desenvolvimento de sistemas computacionais embarcados, incluindo os que operam em tempo real. • Realizar o processo de desenvolvimento de um sistema em tempo real, em laboratório, desde a sua especificação até o teste final.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016. 2. DENARDIN, G. W. Sistemas Operacionais de Tempo Real e sua Aplicação em Sistemas Embarcados. São Paulo: 2019. 3. SHAW, A. C. Sistemas e Software de Tempo Real. Porto Alegre: Bookman, 2003.
+
+## Bibliografia Complementar
+1. OLIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010. 2. OLIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição. São Paulo: Erica, 2010. 3. STEVAN JR., S. L., SILVA, R. A. A. Automação e Instrumentação Industrial com Arduino: Teoria e Projetos. São Paulo: Erica, 2015. 4. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015. 5. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018. 215 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 217 de 317 CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Projeto Final de Curso II
+## Dados
+CH: 80
+Total Faltas: 20
+Pré Requisitos: Projeto Final de Curso I
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 4
+Código: CSECBJ.74 Período: 10º
+Período: 10º
+
+## Ementa
+Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de Elaboração de Documentos Técnicos; Técnicas de Criatividade; Orientação sobre Preparação e Apresentação de Palestra; Técnicas de Subdivisão de Trabalho; Estabelecimento de Cronograma; Orçamento de Projeto; Desenvolvimento do Projeto de Fim de Curso.
+
+## Objetivos
+• Orientar o aluno no desenvolvimento do projeto final
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo: Atlas, 2017. 2. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018. 3. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier, 2014.
+
+## Bibliografia Complementar
+1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto. 3ª Edição. Porto Alegre: São Paulo, 2010. 2. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017. 3. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 2017. 4. ______. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017. 5. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição. São Paulo: Penso, 2013. 219 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 221 de 317 4.7.2. COMPONENTES CURRICULARES ELETIVOS OU OPTATIVOS CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Libras
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Correquisito:
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.75 Período: 7º
+Período: 7º
+
+## Ementa
+Línguas de sinais e minoria linguística; as diferentes línguas de sinais; status da língua de sinais no Brasil; cultura surda; organização linguística da Libras para usos informais e cotidianos: vocabulário; morfologia; sintaxe e semântica; a expressão corporal como elemento linguístico
+
+## Objetivos
+• Instrumentalizar os alunos para o estabelecimento de uma comunicação funcional com pessoas surdas. Favorecer a inclusão da pessoa surda no contexto escolar. Difusão e valorização da Libras na comunidade escolar e sociedade em geral; • Reconhecer os diferentes profissionais que atuam na educação de surdos: Professor de Libras, Instrutor, Tradutor e Intérprete de Libras/Língua Portuguesa e Professor Bilíngüe Libras/Língua Portuguesa.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. ANDREIS, S. Educação de surdos e preconceito. 1. ed. Curitiba: CRV, 2012. 2. ______. Educação de surdos pelos próprios surdos: uma questão de direitos. 1. ed. Curitiba: CRV, 2012 3. QUADROS, R. M., KARNOPP, L. Língua de sinais brasileira: estudos lingüísticos. Porto Alegre, RS: Artmed, 2004.
+
+## Bibliografia Complementar
+1. GESSER, A. Libras? que língua é essa?: crenças e preconceitos em torno da língua de sinais e da realidade surda. 1. ed. São Paulo, SP: Parábola, 2009. 2. SACKS, O. W. Vendo vozes: uma viagem ao mundo dos surdos. São Paulo, SP: Companhia de Bolso, 2010. 3. SKLIAR, C. A surdez: um olhar sobre as diferenças. 6. ed. Porto Alegre: Mediação, 2012. 4. ______. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 1. 5. ______. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 2. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Sociedade e Tecnologia
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Microcontroladores
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.76 Período: 7º
+Período: 7º
+
+## Ementa
+Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico e Tecnológico. Trabalho. Processos Produtivos e Relações de Trabalho na sociedade capitalista. Técnica e Tecnologia na sociedade contemporânea. Cultura e Diversidade Cultural
+
+## Objetivos
+• Compreender as relações sociais, analisando a relação do homem com a natureza, do homem com o homem e com os grupos sociais, enfatizando as relações que se estruturam em torno do trabalho, da tecnologia e da cultura, como dimensões significativas na vida humana.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. CAPRA, F. O ponto de mutação. 25ª Edição. São Paulo: Cultrix, 1982. 2. CUCHE, D. A noção de cultura nas ciências sociais. Bauru: EDUSC, 2002. 3. LARAIA, R. B. Cultura: Um conceito antropológico. 11 ed. Rio de Janeiro: Jorge Zahar Editor, 2007
+
+## Bibliografia Complementar
+1. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2009. 2. CATTANI, A. D. Dicionário de Trabalho e Tecnologia. 2ª edição. Porto Alegre: Zouk, 2011. 3. CAVALCANTE, J. Q. P. Sociedade, tecnologia e a Luta pelo Emprego. Rio de Janeiro: LTR, 2018. 4. FREIRE, E., BATISTA, S. S. S. Sociedade e na Era Digital. São Paulo: Erica, 2014. 5. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. Porto Alegre: Arquipélago Editorial, 2018 CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Computação Gráfica
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Álgebra Linear e Geometria Analítica II e Algoritmos e Estruturas de Dados II
+Tranca: Processamento de Imagens
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.77 Período: 7º
+Período: 7º
+
+## Ementa
+Dispositivos gráficos. Primitivas gráficas. Modelagem geométrica. Sistemas de coordenadas e transformações 2D, 3D. Algoritmos de projeção e recorte/visibilidade. Implementação de algoritmos. Tópicos avançados.
+
+## Objetivos
+223 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 225 de 317 • Apresentar uma visão geral das técnicas de computação gráfica. Capacitar os alunos a projetar soluções envolvendo o uso dessas técnicas.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018. 2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003 3. CONCI, A., AZEVEDO, E. Computação Gráfica: Teoria e Prática – Volume 2. São Paulo: Elsevier, 2007.
+
+## Bibliografia Complementar
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012. 2. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006. 3. GONZALEZ, R. C., WOODS, R. E. Processamento Digital de Imagens. 3ª Edição. São Paulo: Pearson, 2009. 4. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997 5. SOLOMON, C., BRECKON, T. Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab. Rio de Janeiro: LTC, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Energia e Eficiência Energética
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Eletricidade Aplicada
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.80 Período: 7º
+Período: 7º
+
+## Ementa
+Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprimento de energia – estrutura brasileira. Energia e desenvolvimento. Fontes convencionais. Fontes não convencionais. Energia - Recursos naturais. Usos da energia, conservação. Recursos renováveis – Desenvolvimento sustentável. 231 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 233 de 317
+
+## Objetivos
+• Analisar as possíveis alternativas energéticas (renováveis e não renováveis) com base nas diferentes tecnologias aplicáveis e nos respectivos impactos ambientais, visando à minoração de problemas ambientais e sociais.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. GOLDEMBERG, J., PALETTA, F. C. Energias renováveis. São Paulo: Blucher, 2012. 2. HINRICHS, R., KLEINBACH, M. H. Energia e meio ambiente. São Paulo: Cengage, 2013. 3. REIS, L. B., FADIGAS, E. A. A., CARVALHO, C. E. Energia, recursos naturais e a prática do desenvolvimento sustentável. 2ª Edição. São Paulo: Manole, 2011.
+
+## Bibliografia Complementar
+1. ABREU, F. V. Biogás: Economia, Regulação e Sustentabilidade. Rio de Janeiro: Interciência, 2014. 2. BALFOUR, J., SHAW, M., NASH, N. B. Introdução de Sistemas Fotovoltaicos. Rio de Janeiro: LTC, 2016. 3. FILHO, G. F. Gestão da Energia: Fundamentos e Aplicações. São Paulo: Erica, 2018. 4. MOREIRA, J. R. S. Energias Renováveis, Geração Distribuída e Eficiência Energética. Rio de Janeiro: LTC, 2017. 5. REIS, L. B. Geração de energia elétrica: tecnologia, inserção ambiental, planejamento, operação e análise de viabilidade. 3ª Edição. São Paulo: Manole, 2017. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Processamento de Sinais
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Cálculo IV e Comunicação de Dados
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.78 Período: 7º
+Período: 7º
+
+## Ementa
+Introdução ao processamento digital de sinais. Fundamentos matemáticos de sinais e sistemas discretos. Análise em frequência de sinais. Transformada discreta de Fourier (DFT) e transformada rápida de Fourier (FFT). Filtros digitais: análise, estruturas, técnicas de projeto e aspectos práticos
+
+## Objetivos
+• Apresentar os conceitos básicos de Processamento Digital de Sinais nos domínios do tempo e da frequência.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. DINIZ, P. S. R., SILVA, E. A. B., NETTO, S. L. Processamento Digital de Sinais: Projeto e Análise de Sistemas. 2ª Edição. Porto Alegre: Bookman, 2014. 2. GURJÃO, E., CARVALHO, J., VELOSO, L. R. Introdução à Análise de Sinais e Sistemas. São Paulo: Elsevier, 2015. 3. OPPENHEIM, A., SCHAFER, R. W. Processamento em Tempo Discreto de Sinais. 3ª Edição. São Paulo: Pearson, 2013.
+
+## Bibliografia Complementar
+1. ALCAIN, A. Fundamentos de Processamento de Sinais Voz e Imagem. Rio de Janeiro: Interciência, 2011. 2. COSTA, C. Processamento de Sinais para Engenheiros: Teoria e Prática. Rio de Janeiro: Bonecker, 2019. 3. NALON, J. A. Introdução ao Processamento Digital de Sinais. Rio de Janeiro: LTC, 2009. 4. ROBERTS, M. J. Fundamentos em Sinais e Sistemas. Porto Alegre: Bookman, 2009. 5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman. 2003. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Geoprocessamento
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Banco de Dados
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.84 Período: 7º
+Período: 7º
+
+## Ementa
+Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Métodos de abstração, conversão e estruturação em SIG. Potencial das técnicas de geoprocessamento para a representação de fenômenos e modelos ambientais. Instrumentalização de técnicas do geoprocessamento. Atividades práticas.
+
+## Objetivos
+• Entender as diferenças entre os tipos de dados georreferenciados e como integrá-los em uma base de dados geográfica. • Conhecer e aplicar as técnicas de geoprocessamento a fim de realizar análises ambientais com o apoio de sistemas computacionais. 235 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 237 de 317
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008. 2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012. 3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher, 2010.
+
+## Bibliografia Complementar
+1. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017. 2. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos, 2011. 3. LORENZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. São Paulo: Blucher, 2015. 4. PONZONI, F. J., SHIMABUKURO, Y. E., KUPLICH, T. M. Sensoriamento Remoto da Vegetação. 2ª Edição. São Paulo: Oficina de Textos, 2012. 5. YAMAMOTO, J. K., LANDIM, P. M. B. Geoestatística: Conceitos e Aplicações. São Paulo: Oficina de Textos, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Processamento de Imagens
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Computação Gráfica
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.78 Período: 8º
+Período: 8º
+
+## Ementa
+Fundamentação, aplicações, representação e modelagem de imagens digitais. Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração de imagens. Fundamentos para um sistema de análise de imagens. Segmentação de imagens.
+
+## Objetivos
+• Apresentar os fundamentos gerais sobre processamento de imagens e vídeos digitais. Desenvolver rotinas de processamento de imagens para diversas aplicações.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018. 2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003 3. CONCI, A., AZEVEDO, E. Computação Gráfica: Teoria e Prática – Volume 2. São Paulo: Elsevier, 2007.
+
+## Bibliografia Complementar
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012. 2. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006. 3. GONZALEZ, R. C., WOODS, R. E. Processamento Digital de Imagens. 3ª Edição. São Paulo: Pearson, 2009. 4. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997 5. SOLOMON, C., BRECKON, T. Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab. Rio de Janeiro: LTC, 2013. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Dimensionamento de Redes de Computadores
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Redes de Computadores I
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.81 Período: 8º
+Período: 8º
+
+## Ementa
+Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fio; Solução Problemas de OSPF de Área Única; OSPF Multiárea; EIGRP; Solução de Problemas de EIGRP
+
+## Objetivos
+• Desenvolver o conhecimento e as habilidades necessárias para implementar operações de redes complexas.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015. 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição. Pearson, 2013. 3. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+
+## Bibliografia Complementar
+1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books, 2009. 229 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 231 de 317 2. CARISSIMI, A. S., ROCHOL, J. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman, 2017. 3. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013. 4. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015. 5. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Modelagem Ambiental
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Álgebra Linear e Geometria Analítica II
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.84 Período: 8º
+Período: 8º
+
+## Ementa
+Dinâmica de sistemas lineares e não-lineares. Hierarquia de sistemas. Modelagem da dinâmica de populações. Modelagem do ciclo do carbono. Modelagem da dinâmica de ecossistemas. Modelagem do sistema hidrológico. Modelagem do sistema climático. 237 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 239 de 317
+
+## Objetivos
+• Oferecer ao aluno o conhecimento básico sobre modelagem de sistemas ambientais.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008. 2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012. 3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher, 2010.
+
+## Bibliografia Complementar
+1. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017. 2. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos, 2011. 3. LORENZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. São Paulo: Blucher, 2015. 4. PONZONI, F. J., SHIMABUKURO, Y. E., KUPLICH, T. M. Sensoriamento Remoto da Vegetação. 2ª Edição. São Paulo: Oficina de Textos, 2012. 5. YAMAMOTO, J. K., LANDIM, P. M. B. Geoestatística: Conceitos e Aplicações. São Paulo: Oficina de Textos, 2013. 238 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 240 de 317 CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Algoritmos Distribuídos
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Redes de Computadores I e Álgebra Linear e Geometria Analítica II
+Tranca: Computação Paralela e Distribuída
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.86 Período: 8º
+Período: 8º
+
+## Ementa
+Sistemas de troca de mensagens. Processadores de comunicação. Roteamento e controle de fluxo. Programas reativos. Alocação de "buffers". Alocação de processadores. Modelos síncrono e assíncrono de computação. Computações em sistemas anônimos; limitações intrínsecas. Noções de conhecimento em sistemas distribuídos. Eventos, ordens e estados globais. A complexidade de computações distribuídas. Algoritmos para propagação de informação. Algoritmos simples sobre grafos: teste de conectividade e distâncias mais curtas. Eleição de um líder. Técnicas para registrar estados globais. Sincronizadores. Introdução à auto-estabilização. Detecção de terminação. Detecção de "deadlocks". Outros algoritmos sobre grafos: árvores geradoras mínimas e fluxos em redes. Algoritmos para exclusão mútua. "Dining philosophers" e "drinking philosophers". Reexecução determinística de programas. Detecção de "breakpoints". Introdução à simulação distribuída.
+
+## Objetivos
+• Familiarizar o discente com os conceitos, termos e técnicas básicas de algoritmos distribuídos.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição. Porto Alegre: Bookman, 2007. 2. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005. 3. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
+
+## Bibliografia Complementar
+1. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012. 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição. Pearson, 2013. 3. RHODES, B. GOERZEN, J. Programação de Redes com Python: Guia Abrangente de Programação e Gerenciamento de Redes com Python 3. São Paulo: Novatec, 2015. 240 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 242 de 317 4. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015. 5. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Pesquisa Operacional I
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Álgebra Linear e Geometria Analítica II
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.86 Período: 8º
+Período: 8º
+
+## Ementa
+Introdução a Pesquisa Operacional (PO); Programação Linear (PL); Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema do Transporte; Otimização de Redes; Modelos determinísticos de estoque; Tópicos em PL.
+
+## Objetivos
+• Desenvolver habilidades de modelagem e análise de problemas decisórios relacionados à produção, transporte e estocagem de materiais; com o apoio de recursos de informática.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015. 2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. 2. ed. São Paulo, SP: Atlas, 2004. 3. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman, 2012.
+
+## Bibliografia Complementar
+1. ANDRADE, E. L. Introdução à Pesquisa Operacional: Métodos e Modelos para Análise de Decisões. 5ª Edição. Rio de Janeiro: Atlas, 2014. 2. GOLDBARG, M., LUNA, H. Otimização Combinatória e Programação Linear: Modelos e Algoritmos. 2ª Edição. São Paulo: Elsevier, 2005. 3. ______. Otimização Combinatória e Meta-Heurísticas: Algoritmos e Aplicações São Paulo: Elsevier, 2015. 4. ______. Programação Linear e Fluxos em Rede. São Paulo: Elsevier, 2014. 5. VIRGILLITO, S. B. Pesquisa Operacional: Métodos de Modelagem Quantitativa para a Tomada de Decisões. São Paulo: Saraiva, 2017. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Desenvolvimento Web
+**DISCIPLINA NÃO ENCONTRADA NO PDF**
+
+## Interconexão de Redes de Computadores
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Redes de Computadores I
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.80 Período: 9º
+Período: 9º
+
+## Ementa
+Projeto de Rede Hierárquico; Conexão à WAN; Conexões Point-to-Point; Frame Relay; NAT; Soluções de Banda Larga; Protegendo a Conectividade de Site para Site; Monitorando a Rede Solucionando Problemas de Rede
+
+## Objetivos
+• Desenvolver o conhecimento e as habilidades necessários para executar operações IPsec e VPN (Virtual Private Network, Rede Virtual Privada) em uma rede complexa.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015. 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição. Pearson, 2013. 3. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+
+## Bibliografia Complementar
+1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books, 2009. 2. CARISSIMI, A. S., ROCHOL, J. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman, 2017. 3. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013. 4. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015. 5. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Computação Paralela e Distribuída
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Algoritmos Distribuídos
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.86 Período: 9º
+Período: 9º
+
+## Ementa
+Introdução à computação paralela e distribuída. Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralela e distribuída. Tópicos emergentes em computação paralela e distribuída.
+
+## Objetivos
+• Prover conhecimento e experiência em programação paralela para o desenvolvimento de software que tenha como requisito a sua execução em um ambiente paralelo e distribuído.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição. Porto Alegre: Bookman, 2007. 2. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005. 3. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
+
+## Bibliografia Complementar
+1. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012. 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição. Pearson, 2013. 3. RHODES, B. GOERZEN, J. Programação de Redes com Python: Guia Abrangente de Programação e Gerenciamento de Redes com Python 3. São Paulo: Novatec, 2015. 4. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015. 5. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Pesquisa Operacional II
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Correquisito:
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.86 Período: 9º
+Período: 9º
+
+## Ementa
+Programação Linear Inteira (PLI). Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. Teoria Clássica da Otimização. Programação Não-linear.
+
+## Objetivos
+Desenvolver a capacidade de formular, modelar, solucionar e analisar modelos matemáticos para tomada de decisão em gestão e planejamento de processos produtivos.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015. 2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. 2. ed. São Paulo, SP: Atlas, 2004. 3. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman, 2012.
+
+## Bibliografia Complementar
+1. ANDRADE, E. L. Introdução à Pesquisa Operacional: Métodos e Modelos para Análise de Decisões. 5ª Edição. Rio de Janeiro: Atlas, 2014. 2. GOLDBARG, M., LUNA, H. Otimização Combinatória e Programação Linear: Modelos e Algoritmos. 2ª Edição. São Paulo: Elsevier, 2005. 3. ______. Otimização Combinatória e Meta-Heurísticas: Algoritmos e Aplicações São Paulo: Elsevier, 2015. 4. ______. Programação Linear e Fluxos em Rede. São Paulo: Elsevier, 2014. 5. VIRGILLITO, S. B. Pesquisa Operacional: Métodos de Modelagem Quantitativa para a Tomada de Decisões. São Paulo: Saraiva, 2017. CAMPUS: BOM JESUS DO ITABAPOANA CURSO: BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+
+***
+
+## Inteligência Artificial
+## Dados
+CH: 60
+Total Faltas: 15
+Pré Requisitos: Correquisito:
+Tranca: Nenhum
+Núcleo: None
+Aulas por semana: 3
+Código: CSECBJ.86 Período: 9º
+Período: 9º
+
+## Ementa
+Histórico e Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos de busca. Heurísticas. Conhecimento e raciocínio. Tópicos avançados.Aplicações de IA-Inteligência Artificial.
+
+## Objetivos
+• Compreender os diferentes paradigmas que embasam as aplicações da IA. Entender os principais objetivos e as limitações da Inteligência Artificial (IA). Aplicar os conceitos e técnicas da Inteligência Artificial.
+
+## Conteúdos Programáticos
+
+
+## Competências Desenvolvidas
+
+
+## Bibliografia Básica
+1. COPPIN, B. Inteligência Artificial. Rio de Janeiro: LTC, 2010. 2. LUGER, G. Inteligência Artificial. 6ª Edição. São Paulo: Pearson, 2013. 3. LIMA, I., PINHEIRO, C., SANTOS, F. O. Inteligência Artificial. São Paulo: Elsevier, 2014.
+
+## Bibliografia Complementar
+1. BRAGA, A. P., CARVALHO, A. P. L., LUDEMIR, T. B. Redes Neurais Artificiais: Teoria e Aplicações. 2ª Edição. Rio de Janeiro: LTC, 2007. 2. FACELLI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina. Rio de Janeiro: LTC, 2011. 3. LINDEN, R. Algoritmos Genéticos. 3ª Edição. Rio de Janeiro: Ciência Moderna, 2012. 4. LUDWIG JR, O., MONTGOMERY, E. Redes Neurais: Fundamentos e Aplicações com Programas em C. Rio de Janeiro: Ciência Moderna, 2009. 5. SIMÕES, M. G., SHAW, I. S. Controle e Modelagem Fuzzy. 2ª Edição. São Paulo: Blucher, 2007. 4.8. FLEXIBILIZAÇÃO CURRICULAR O Bacharelado em Engenharia de Computação do IFFluminense Campus Bom Jesus do Itabapoana está caracterizado por um modelo pedagógico distribuído ao longo de seus períodos. A matriz curricular do curso é organizada no regime flexível de matrícula (por
+
+***
+
