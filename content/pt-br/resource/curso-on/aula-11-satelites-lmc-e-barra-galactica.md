@@ -14,7 +14,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula11
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Aula prática (galpy) — pericentro/apocentro de galáxias satélites, comparação entre potenciais, a Grande Nuvem de Magalhães como perturbador em referencial não inercial, e ressonâncias orbitais na barra galáctica (corrotação e OLR)

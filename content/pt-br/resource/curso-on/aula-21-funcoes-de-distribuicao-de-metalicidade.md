@@ -14,7 +14,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula21
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: O Grupo Local como laboratório de evolução química, a função de distribuição de metalicidade (MDF) como registro fóssil de formação estelar e acréscimo, modelos químicos com infall/outflow, e as dificuldades práticas (número de objetos, completeza, fotometria vs. espectroscopia) de medir uma MDF

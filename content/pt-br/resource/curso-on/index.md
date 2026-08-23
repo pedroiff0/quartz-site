@@ -4,7 +4,7 @@ title: Arqueologia Galáctica e Populações Estelares
 created: 2026-07-23
 modified: 2026-07-26T11:50:01.646-03:00
 published: 2026-07-26T11:50:01.646-03:00
-password: 409182ph
+encrypted: true
 order: 5
 ---
 

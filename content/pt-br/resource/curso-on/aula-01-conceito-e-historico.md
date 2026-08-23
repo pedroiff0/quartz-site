@@ -12,7 +12,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula01
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: O que é arqueologia galáctica, o conceito de população estelar simples e o histórico das descobertas que levaram à identificação das populações I e II

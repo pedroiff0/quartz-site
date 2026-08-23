@@ -13,7 +13,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula04
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Leis de Kirchhoff, formação de linhas espectrais, a descoberta do hélio e a notação de metalicidade [Fe/H]

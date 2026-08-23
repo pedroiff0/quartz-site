@@ -12,7 +12,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula08
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Velocidade radial e tangencial, o Padrão Local de Repouso e o movimento próprio das estrelas

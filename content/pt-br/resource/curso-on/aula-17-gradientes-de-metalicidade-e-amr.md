@@ -14,7 +14,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula17
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Gradientes radiais e verticais de metalicidade no disco, bojo e halo, migração radial (blurring e churning), gradientes extragalácticos, e o problema histórico da relação idade-metalicidade (AMR)

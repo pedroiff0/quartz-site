@@ -13,7 +13,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula16
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Taxonomia dos métodos de datação estelar — empíricos (girocronologia, atividade cromosférica, depleção de lítio), dependentes de modelo (isócronas de aglomerados, astrossismologia) e semi-fundamentais (nucleocosmocronologia via Th/U)

@@ -12,7 +12,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula06
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Como medir as propriedades físicas fundamentais das estrelas e como o diagrama HR revela a relação entre massa, luminosidade e tempo de vida

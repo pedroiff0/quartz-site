@@ -13,7 +13,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula19
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Cronologia da evolução galáctica (parte 2) — o mecanismo da fusão GSE (antes/durante/depois), sua assinatura cinemática ("Sausage"), a conexão com ω Centauri, sobredensidades do halo interno, correntes estelares (Sagitário) e sobredensidades próximas ao plano (Monoceros, TriAnd)

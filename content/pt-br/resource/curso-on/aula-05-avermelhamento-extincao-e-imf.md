@@ -13,7 +13,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula05
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: O meio interestelar, a extinção e o avermelhamento da luz por poeira, e a função de massa inicial revisitada

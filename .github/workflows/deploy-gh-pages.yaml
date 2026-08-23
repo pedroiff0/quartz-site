@@ -32,6 +32,10 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         env:
+          PASSWORD_ENGENHARIA: ${{ secrets.PASSWORD_ENGENHARIA || 'eng232' }}
+          PASSWORD_LATEX: ${{ secrets.PASSWORD_LATEX || 'escritaiff2026' }}
+          PASSWORD_CURSO_ON: ${{ secrets.PASSWORD_CURSO_ON || '409182ph' }}
+          PASSWORD_DEFAULT: ${{ secrets.PASSWORD_DEFAULT || 'eng232' }}
           QUARTZ_ENCRYPT_PASSWORD: ${{ secrets.QUARTZ_ENCRYPT_PASSWORD || 'eng232' }}
         run: npx quartz build
       - uses: actions/configure-pages@v4

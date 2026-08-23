@@ -12,7 +12,7 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
+encrypted: true
 titulo: CursoON-Aula03
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Escala de magnitudes, magnitude absoluta, sistemas fotométricos, índices de cor e a classificação espectral OBAFGKM
