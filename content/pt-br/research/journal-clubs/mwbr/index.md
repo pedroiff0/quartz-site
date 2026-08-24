@@ -1,45 +1,89 @@
 ---
 publish: true
-title: MWBR
+title: MWBR — Journal Club
 created: 2026-07-26
-modified: 2026-07-31
+modified: 2026-08-24
 published: 2026-08-01T20:04:12.171-03:00
 ---
 
-> [!note] Resumo
-> Artigos discutidos no journal club do **MWBR**, grupo de pesquisa em Via Láctea, arqueologia galáctica e populações estelares. Ver o [padrão de cada entrada](/pt-br/research/journal-clubs#padrão-de-cada-entrada).
+> [!note] 🌌 Milky Way Brazil (MWBR)
+> Artigos científicos e discussões do **MWBR**, grupo de pesquisa voltado ao estudo da **Via Láctea, Arqueologia Galáctica, Populações Estelares e Astrofísica Observacional**.
 
-A tabela abaixo é gerada a partir do frontmatter das próprias notas de artigo desta pasta — uma nota nova aparece sozinha no próximo build, sem editar esta página.
+---
+
+> [!info] 🌐 Curadoria & Histórico Geral do Grupo
+> O histórico completo das reuniões e discussões de todos os membros do grupo pode ser consultado na curadoria oficial mantida por João Amarante:
+> 🔗 **[Acessar Curadoria Oficial do MWBR (jasamarante.github.io/jc/mwbr/)](https://jasamarante.github.io/jc/mwbr/)**
+
+---
+
+## 🎙️ Artigos Apresentados por Mim
+
+Artigos e tópicos que selecionei e apresentei nas sessões do Journal Club:
 
 ```base
 filters:
   and:
     - 'file.folder.startsWith("pt-br/research/journal-clubs/mwbr")'
-    # Só notas de artigo têm `arxiv`; é o que separa uma entrada das páginas
-    # de apoio da pasta (index e o que mais vier).
     - 'note.arxiv'
+    - 'note.apresentador.contains("Pedro")'
 formulas:
   artigo: 'link(file.path, note.title)'
-  # A URL do arXiv entra como texto e o Quartz a transforma em link externo
-  # sozinho. Não usar link() aqui: ele só resolve caminho interno e transforma
-  # uma URL em "../../https/arxiv.org/...". html() também não serve — o markup
-  # é escapado antes de chegar na célula.
 properties:
   formula.artigo:
     displayName: Artigo
-  note.apresentador:
-    displayName: Apresentou
   note.authors:
     displayName: Autoria
   note.year:
     displayName: Ano
   note.discutido:
-    displayName: Discutido em
+    displayName: Data
   note.arxiv:
-    displayName: arXiv
+    displayName: arXiv / Link
 views:
   - type: table
-    name: Artigos discutidos
+    name: Minhas Apresentações
+    order:
+      - formula.artigo
+      - note.authors
+      - note.year
+      - note.discutido
+      - note.arxiv
+    sort:
+      - property: note.discutido
+        direction: DESC
+```
+
+---
+
+## ⭐ Artigos Recomendados & Favoritos (Apresentados por Colegas)
+
+Artigos de destaque apresentados por outros pesquisadores do grupo com discussões e metodologias que considerei fundamentais:
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/research/journal-clubs/mwbr")'
+    - 'note.arxiv'
+    - '!note.apresentador.contains("Pedro")'
+formulas:
+  artigo: 'link(file.path, note.title)'
+properties:
+  formula.artigo:
+    displayName: Artigo
+  note.apresentador:
+    displayName: Apresentado por
+  note.authors:
+    displayName: Autoria
+  note.year:
+    displayName: Ano
+  note.discutido:
+    displayName: Data
+  note.arxiv:
+    displayName: arXiv / Link
+views:
+  - type: table
+    name: Seleção de Destaques
     order:
       - formula.artigo
       - note.apresentador
@@ -56,6 +100,6 @@ views:
 
 ## 🔗 Referências e correlatos
 
-- [Journal Clubs — visão geral](/pt-br/research/journal-clubs)
-- [ENGCOMP](/pt-br/research/journal-clubs/engcomp)
-- [Pesquisa — visão geral](/pt-br/research)
+- [Journal Clubs — Visão Geral](/pt-br/research/journal-clubs)
+- [ENGCOMP Journal Club](/pt-br/research/journal-clubs/engcomp)
+- [Pesquisa — Visão Geral](/pt-br/research)

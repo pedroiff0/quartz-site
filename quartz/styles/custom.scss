@@ -262,6 +262,16 @@ details.author-details[open] .author-summary {
   border-color: var(--lightgray);
 }
 
+.social-icon-link {
+  color: var(--darkgray) !important;
+  transition: color 0.2s ease, transform 0.2s ease !important;
+}
+
+.social-icon-link:hover {
+  color: var(--secondary) !important;
+  transform: translateY(-2px);
+}
+
 .footer-content {
   display: flex;
   justify-content: space-between;
