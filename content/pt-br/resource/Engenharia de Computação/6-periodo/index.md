@@ -11,14 +11,14 @@ modified: 2026-08-22
 > - **Resumo Pedagógico:** Análise e engenharia orientada a objetos, bancos de dados relacionais e avançados, circuitos lógicos digitais, teoria e construção de compiladores, telecomunicações e redes físicas, reflexão epistemológica e viabilidade técnica/econômica de projetos de engenharia.
 
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos)** (`60h` · Prof. Bruno · Quarta 13:40–16:30)
-> - 📘 **[Filosofia da Ciência e Tecnologia](/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia)** (`60h` · Prof. Hugo · Quarta 19:20–22:00)
-> - 📘 **[Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados)** (`60h` · Prof. Sérgio · Terça 13:40–16:30)
-> - 📘 **[Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i)** (`60h` · Prof. Sérgio/Bruno · Quarta 16:40–19:20)
-> - 📘 **[Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital)** (`60h` · Prof. Rogério · Segunda 16:40–19:20)
-> - 📘 **[Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados)** (`60h` · Prof. Rômulo/Paulo · Terça 16:40–19:20)
-> - 📘 **[Compiladores](/pt-br/resource/engenharia-de-computação/6-periodo/compiladores)** (`60h` · Prof. Fabrício Barros · Sexta 13:40–16:30)
-> - 📘 **[Gestão de Projetos](/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos)** (`80h` · Prof. Hilton · Quinta 14:00–17:00 / 16:40–20:10)
+> - 📘 **[Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos)** (`60h` · Prof. [Nome] · Quarta 13:40–16:30)
+> - 📘 **[Filosofia da Ciência e Tecnologia](/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia)** (`60h` · Prof. [Nome] · Quarta 19:20–22:00)
+> - 📘 **[Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados)** (`60h` · Prof. [Nome] · Terça 13:40–16:30)
+> - 📘 **[Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i)** (`60h` · Prof. [Nome]/[Nome] · Quarta 16:40–19:20)
+> - 📘 **[Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital)** (`60h` · Prof. [Nome] · Segunda 16:40–19:20)
+> - 📘 **[Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados)** (`60h` · Prof. [Nome]/[Nome] · Terça 16:40–19:20)
+> - 📘 **[Compiladores](/pt-br/resource/engenharia-de-computação/6-periodo/compiladores)** (`60h` · Prof. [Nome] · Sexta 13:40–16:30)
+> - 📘 **[Gestão de Projetos](/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos)** (`80h` · Prof. [Nome] · Quinta 14:00–17:00 / 16:40–20:10)
 
 ---
 
@@ -35,18 +35,18 @@ modified: 2026-08-22
 
 <style>
 @media print {
-  body { background: white !important; color: black !important; font-size: 11pt; }
+  body { background: white !important; color: black !important; font-size: 10pt; }
   .schedule-actions-bar, nav, header, footer, .sidebar, .explorer, .toc { display: none !important; }
   .schedule-table-wrapper { width: 100% !important; margin: 0 !important; }
 }
 .schedule-badge {
   display: block;
-  padding: 6px 10px;
-  border-radius: 6px;
-  font-size: 0.82rem;
+  padding: 4px 6px;
+  border-radius: 4px;
+  font-size: 0.72rem;
   font-weight: 600;
   text-decoration: none;
-  line-height: 1.25;
+  line-height: 1.2;
 }
 .badge-bd { background: #e0f2fe; color: #0369a1; border-left: 3px solid #0284c7; }
 .badge-asoo { background: #fef3c7; color: #92400e; border-left: 3px solid #f59e0b; }
@@ -56,113 +56,24 @@ modified: 2026-08-22
 .badge-poo { background: #fee2e2; color: #991b1b; border-left: 3px solid #dc2626; }
 .badge-gp { background: #e0e7ff; color: #3730a3; border-left: 3px solid #4f46e5; }
 .badge-filo { background: #f1f5f9; color: #334155; border-left: 3px solid #64748b; }
-.intervalo-row { background: var(--light, #f8fafc); color: var(--gray, #94a3b8); font-size: 0.75rem; text-align: center; font-style: italic; }
+.intervalo-row { background: var(--light, #f8fafc); color: var(--gray, #94a3b8); font-size: 0.7rem; text-align: center; font-style: italic; }
 </style>
 
-<div class="schedule-table-wrapper" style="overflow-x: auto; margin-bottom: 2rem;">
-  <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.88rem;">
-    <thead>
-      <tr style="background: var(--lightgray, #f1f5f9); border-bottom: 2px solid var(--gray, #cbd5e1);">
-        <th style="padding: 10px;">⏰ Horário</th>
-        <th style="padding: 10px;">Segunda (SEG)</th>
-        <th style="padding: 10px;">Terça (TER)</th>
-        <th style="padding: 10px;">Quarta (QUA)</th>
-        <th style="padding: 10px;">Quinta (QUI)</th>
-        <th style="padding: 10px;">Sexta (SEX)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">13:40–14:30</td>
-        <td>—</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="schedule-badge badge-bd"><b>CSECBJI.44</b><br>Banco de Dados</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="schedule-badge badge-asoo"><b>CSECBJI.42</b><br>Análise de Software OO</a></td>
-        <td>—</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="schedule-badge badge-comp"><b>CSECBJI.48</b><br>Compiladores</a></td>
-      </tr>
-      <tr class="intervalo-row">
-        <td style="padding: 4px 10px;">14:30–14:50</td>
-        <td colspan="5" style="padding: 4px 10px;">☕ Intervalo / Transição de Turno (20 min)</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">14:50–15:40</td>
-        <td>—</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="schedule-badge badge-bd"><b>CSECBJI.44</b><br>Banco de Dados</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="schedule-badge badge-asoo"><b>CSECBJI.42</b><br>Análise de Software OO</a></td>
-        <td>—</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="schedule-badge badge-comp"><b>CSECBJI.48</b><br>Compiladores</a></td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">15:40–16:30</td>
-        <td>—</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="schedule-badge badge-bd"><b>CSECBJI.44</b><br>Banco de Dados</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="schedule-badge badge-asoo"><b>CSECBJI.42</b><br>Análise de Software OO</a></td>
-        <td>—</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="schedule-badge badge-comp"><b>CSECBJI.48</b><br>Compiladores</a></td>
-      </tr>
-      <tr class="intervalo-row">
-        <td style="padding: 4px 10px;">16:30–16:40</td>
-        <td colspan="5" style="padding: 4px 10px;">☕ Intervalo (10 min)</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">16:40–17:30</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="schedule-badge badge-ed"><b>CSECBJI.46</b><br>Eletrônica Digital</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="schedule-badge badge-cd"><b>CSECBJI.47</b><br>Comunicação de Dados</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="schedule-badge badge-poo"><b>CSECBJI.45</b><br>Programação OO I</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos</a></td>
-        <td>—</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">17:30–18:20</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="schedule-badge badge-ed"><b>CSECBJI.46</b><br>Eletrônica Digital</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="schedule-badge badge-cd"><b>CSECBJI.47</b><br>Comunicação de Dados</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="schedule-badge badge-poo"><b>CSECBJI.45</b><br>Programação OO I</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos</a></td>
-        <td>—</td>
-      </tr>
-      <tr class="intervalo-row">
-        <td style="padding: 4px 10px;">18:20–18:30</td>
-        <td colspan="5" style="padding: 4px 10px;">☕ Intervalo (10 min)</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">18:30–19:20</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="schedule-badge badge-ed"><b>CSECBJI.46</b><br>Eletrônica Digital</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="schedule-badge badge-cd"><b>CSECBJI.47</b><br>Comunicação de Dados</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="schedule-badge badge-poo"><b>CSECBJI.45</b><br>Programação OO I</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos</a></td>
-        <td>—</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">19:20–20:10</td>
-        <td>—</td>
-        <td>—</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="schedule-badge badge-filo"><b>CSECBJI.43</b><br>Filosofia Ciência & Tec.</a></td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos</a></td>
-        <td>—</td>
-      </tr>
-      <tr class="intervalo-row">
-        <td style="padding: 4px 10px;">20:10–20:20</td>
-        <td colspan="5" style="padding: 4px 10px;">☕ Intervalo (10 min)</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">20:20–21:10</td>
-        <td>—</td>
-        <td>—</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="schedule-badge badge-filo"><b>CSECBJI.43</b><br>Filosofia Ciência & Tec.</a></td>
-        <td>—</td>
-        <td>—</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 10px; font-weight: bold; white-space: nowrap;">21:10–22:00</td>
-        <td>—</td>
-        <td>—</td>
-        <td><a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="schedule-badge badge-filo"><b>CSECBJI.43</b><br>Filosofia Ciência & Tec.</a></td>
-        <td>—</td>
-        <td>—</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| ⏰ Horário       | Segunda (SEG)                                                                                                                                                               | Terça (TER)                                                                                                                                                                            | Quarta (QUA)                                                                                                                                                                                           | Quinta (QUI)                                                                                                                                                                           | Sexta (SEX)                                                                                                                                                       |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **13:40–14:30** | —                                                                                                                                                                           | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="schedule-badge badge-bd"><b>CSECBJI.44</b><br>Banco de Dados<br>Prof. [Nome]</a>                    | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="schedule-badge badge-asoo"><b>CSECBJI.42</b><br>Análise de Software OO<br>Prof. [Nome]</a> | —                                                                                                                                                                                      | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="schedule-badge badge-comp"><b>CSECBJI.48</b><br>Compiladores<br>Prof. [Nome]</a> |
+| **14:30–14:50** | *Intervalo (20m)*                                                                                                                                                           | *Intervalo (20m)*                                                                                                                                                                      | *Intervalo (20m)*                                                                                                                                                                                      | *Intervalo (20m)*                                                                                                                                                                      | *Intervalo (20m)*                                                                                                                                                 |
+| **14:50–15:40** | —                                                                                                                                                                           | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="schedule-badge badge-bd"><b>CSECBJI.44</b><br>Banco de Dados<br>Prof. [Nome]</a>                    | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="schedule-badge badge-asoo"><b>CSECBJI.42</b><br>Análise de Software OO<br>Prof. [Nome]</a> | —                                                                                                                                                                                      | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="schedule-badge badge-comp"><b>CSECBJI.48</b><br>Compiladores<br>Prof. [Nome]</a> |
+| **15:40–16:30** | —                                                                                                                                                                           | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="schedule-badge badge-bd"><b>CSECBJI.44</b><br>Banco de Dados<br>Prof. [Nome]</a>                    | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="schedule-badge badge-asoo"><b>CSECBJI.42</b><br>Análise de Software OO<br>Prof. [Nome]</a> | —                                                                                                                                                                                      | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="schedule-badge badge-comp"><b>CSECBJI.48</b><br>Compiladores<br>Prof. [Nome]</a> |
+| **16:30–16:40** | *Intervalo (10m)*                                                                                                                                                           | *Intervalo (10m)*                                                                                                                                                                      | *Intervalo (10m)*                                                                                                                                                                                      | *Intervalo (10m)*                                                                                                                                                                      | *Intervalo (10m)*                                                                                                                                                 |
+| **16:40–17:30** | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="schedule-badge badge-ed"><b>CSECBJI.46</b><br>Eletrônica Digital<br>Prof. [Nome]</a> | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="schedule-badge badge-cd"><b>CSECBJI.47</b><br>Comunicação de Dados<br>Prof. [Nome]/[Nome]</a> | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="schedule-badge badge-poo"><b>CSECBJI.45</b><br>Programação OO I<br>Prof. [Nome]/[Nome]</a>       | <!-- <a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos<br>Prof. [Nome]</a> --> — | —                                                                                                                                                                 |
+| **17:30–18:20** | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="schedule-badge badge-ed"><b>CSECBJI.46</b><br>Eletrônica Digital<br>Prof. [Nome]</a> | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="schedule-badge badge-cd"><b>CSECBJI.47</b><br>Comunicação de Dados<br>Prof. [Nome]/[Nome]</a> | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="schedule-badge badge-poo"><b>CSECBJI.45</b><br>Programação OO I<br>Prof. [Nome]/[Nome]</a>       | <!-- <a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos<br>Prof. [Nome]</a> --> — | —                                                                                                                                                                 |
+| **18:20–18:30** | *Intervalo (10m)*                                                                                                                                                           | *Intervalo (10m)*                                                                                                                                                                      | *Intervalo (10m)*                                                                                                                                                                                      | *Intervalo (10m)*                                                                                                                                                                      | *Intervalo (10m)*                                                                                                                                                 |
+| **18:30–19:20** | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="schedule-badge badge-ed"><b>CSECBJI.46</b><br>Eletrônica Digital<br>Prof. [Nome]</a> | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="schedule-badge badge-cd"><b>CSECBJI.47</b><br>Comunicação de Dados<br>Prof. [Nome]/[Nome]</a> | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="schedule-badge badge-poo"><b>CSECBJI.45</b><br>Programação OO I<br>Prof. [Nome]/[Nome]</a>       | <!-- <a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos<br>Prof. [Nome]</a> --> — | —                                                                                                                                                                 |
+| **19:20–20:10** | —                                                                                                                                                                           | —                                                                                                                                                                                      | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="schedule-badge badge-filo"><b>CSECBJI.43</b><br>Filosofia Ciência & Tec.<br>Prof. [Nome]</a>     | <!-- <a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="schedule-badge badge-gp"><b>CSECBJI.49</b><br>Gestão de Projetos<br>Prof. [Nome]</a> --> — | —                                                                                                                                                                 |
+| **20:10–20:20** | *Intervalo (10m)*                                                                                                                                                           | *Intervalo (10m)*                                                                                                                                                                      | *Intervalo (10m)*                                                                                                                                                                                      | *Intervalo (10m)*                                                                                                                                                                      | *Intervalo (10m)*                                                                                                                                                 |
+| **20:20–21:10** | —                                                                                                                                                                           | —                                                                                                                                                                                      | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="schedule-badge badge-filo"><b>CSECBJI.43</b><br>Filosofia Ciência & Tec.<br>Prof. [Nome]</a>     | —                                                                                                                                                                                      | —                                                                                                                                                                 |
+| **21:10–22:00** | —                                                                                                                                                                           | —                                                                                                                                                                                      | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="schedule-badge badge-filo"><b>CSECBJI.43</b><br>Filosofia Ciência & Tec.<br>Prof. [Nome]</a>     | —                                                                                                                                                                                      | —                                                                                                                                                                 |
 
 ---
 
