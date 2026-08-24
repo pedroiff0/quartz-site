@@ -110,7 +110,7 @@ plugins:
     enabled: true
     options: {}
     order: 45
-  - source: github:quartz-community/encrypted-pages
+  - source: ./local-plugins/encrypted-pages
     enabled: true
     options:
       iterations: 600000
