@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Tarefas do 6º Período"
 created: 2026-08-24
 modified: 2026-08-24
