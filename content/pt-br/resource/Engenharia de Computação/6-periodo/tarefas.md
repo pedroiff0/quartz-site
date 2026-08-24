@@ -13,7 +13,8 @@ Este painel consolida automaticamente todas as tarefas declaradas nas notas de a
 TABLE 
   t.text AS "Tarefa", 
   choice(t.completed, "✅ Feito", "❌ Não feito") AS "Status", 
-  file.link AS "Origem"
+  disciplina AS "Disciplina",
+  t.section AS "Sessão / Data"
 FROM "02 - Áreas/Acadêmico/IFF - Engenharia de Computação/6-periodo"
 FLATTEN file.tasks AS t
 ```
