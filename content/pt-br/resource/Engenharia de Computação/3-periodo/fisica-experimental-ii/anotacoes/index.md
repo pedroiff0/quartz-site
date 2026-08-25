@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/3-periodo/fisica-experimental-ii/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

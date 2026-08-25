@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/4-periodo/calculo-numerico/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

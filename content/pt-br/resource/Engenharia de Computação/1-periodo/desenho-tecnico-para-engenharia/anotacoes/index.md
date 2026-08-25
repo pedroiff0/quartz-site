@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/1-periodo/desenho-tecnico-para-engenharia/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

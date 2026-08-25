@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados
 title: "Banco de Dados"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -11,7 +12,7 @@ tags:
 > [!info] 📌 Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.44`
 > - **Período:** 6º Período | **Núcleo:** Específica | **Carga Horária:** 60
-> - **Docente Responsável:** Fabrício Barros (fabricio.goncalves@iff.edu.br)
+> - **Docente Responsável:** Pablo (fabricio.goncalves@iff.edu.br)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -22,10 +23,10 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.35 - Modelagem de Dados](/pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Linguagem de Definição e Manipulação de Dados

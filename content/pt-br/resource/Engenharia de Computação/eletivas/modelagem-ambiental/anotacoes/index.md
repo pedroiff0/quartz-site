@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/modelagem-ambiental/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

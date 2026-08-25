@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos
 title: "Gestão de Projetos"
 created: '2026-08-22'
 modified: '2026-08-22'
@@ -23,10 +24,10 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - [Teoria Geral da Administração (CSECBJI.06)](/pt-br/resource/engenharia-de-computação/1-periodo/teoria-geral-da-administracao)
+> - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Definição de Projetos

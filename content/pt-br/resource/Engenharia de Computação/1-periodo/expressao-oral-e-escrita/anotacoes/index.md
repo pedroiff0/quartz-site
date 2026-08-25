@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/1-periodo/expressao-oral-e-escrita/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

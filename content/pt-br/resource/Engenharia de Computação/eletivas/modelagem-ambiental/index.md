@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/modelagem-ambiental
 title: "Modelagem Ambiental"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,10 +23,11 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](/pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii)
+> - [CSECBJI.18 - Equações Diferenciais](/pt-br/resource/engenharia-de-computação/3-periodo/equacoes-diferenciais)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Dinâmica de sistemas lineares e não-lineares.

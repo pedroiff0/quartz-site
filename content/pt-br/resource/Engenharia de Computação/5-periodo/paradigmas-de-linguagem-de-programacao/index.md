@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/paradigmas-de-linguagem-de-programacao
 title: "Paradigmas de Linguagem de Programação"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,7 +23,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.13 - Algoritmos e Técnicas de Programação](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.45 - Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i)

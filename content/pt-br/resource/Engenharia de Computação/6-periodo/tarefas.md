@@ -17,4 +17,5 @@ TABLE
   t.section AS "Sessão / Data"
 FROM "02 - Áreas/Acadêmico/IFF - Engenharia de Computação/6-periodo"
 FLATTEN file.tasks AS t
+WHERE regexmatch("^aula [0-9]+ -.*", lower(file.name))
 ```

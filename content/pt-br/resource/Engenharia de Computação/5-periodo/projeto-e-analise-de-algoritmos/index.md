@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos
 title: "Projeto e Análise de Algoritmos"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,7 +23,8 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.14 - Matemática Discreta](/pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta)
+> - [CSECBJI.30 - Algoritmos e Estruturas de Dados II](/pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.84 - Geoprocessamento](/pt-br/resource/engenharia-de-computação/eletivas/geoprocessamento)

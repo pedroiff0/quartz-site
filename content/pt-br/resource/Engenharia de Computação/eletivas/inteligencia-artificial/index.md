@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/inteligencia-artificial
 title: "Inteligência Artificial"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -23,10 +24,10 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.34 - Projeto e Análise de Algoritmos](/pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Histórico e Princípios de Inteligência Artificial (IA)

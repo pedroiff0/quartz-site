@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

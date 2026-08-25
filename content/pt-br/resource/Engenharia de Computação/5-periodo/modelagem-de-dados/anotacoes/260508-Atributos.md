@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados/anotacoes/260508-atributos
 titulo:  260508-Atributos
 disciplina:
 conteudo:

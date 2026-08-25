@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/gestao-ambiental/anotacoes/260409-aula-pegadaambiental-1
 titulo:  260409-Aula-PegadaAmbiental-1
 disciplina:
 conteudo:

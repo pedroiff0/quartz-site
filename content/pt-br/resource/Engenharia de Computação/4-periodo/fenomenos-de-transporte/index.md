@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/4-periodo/fenomenos-de-transporte
 title: "Fenômenos de Transporte"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,10 +23,11 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.4 - Cálculo I](/pt-br/resource/engenharia-de-computação/1-periodo/calculo-i)
+> - [CSECBJI.19 - Física II](/pt-br/resource/engenharia-de-computação/3-periodo/fisica-ii)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Mecânica dos Fluidos

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/short-lecture
 title: "Short Lecture — Compiladores"
 disciplina: "Compiladores"
 codigo: "CSECBJI.48"

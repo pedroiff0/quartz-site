@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/20260610-redes-de-filas
 titulo:  20260610 - Redes de Filas
 criado: 2026-06-10
 modificado: 2026-06-10 17:48

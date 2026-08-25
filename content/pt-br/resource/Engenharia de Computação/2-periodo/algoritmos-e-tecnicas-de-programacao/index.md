@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao
 title: "Algoritmos e Técnicas de Programação"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -27,7 +28,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.22 - Algoritmos e Estruturas de Dados I](/pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i)

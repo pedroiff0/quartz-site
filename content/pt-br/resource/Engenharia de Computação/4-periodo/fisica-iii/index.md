@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/4-periodo/fisica-iii
 title: "Física III"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,7 +23,8 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.17 - Cálculo III](/pt-br/resource/engenharia-de-computação/3-periodo/calculo-iii)
+> - [CSECBJI.19 - Física II](/pt-br/resource/engenharia-de-computação/3-periodo/fisica-ii)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.33 - Eletricidade Aplicada](/pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada)

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii
 title: "Algoritmos e Estruturas de Dados II"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -23,7 +24,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.22 - Algoritmos e Estruturas de Dados I](/pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.34 - Projeto e Análise de Algoritmos](/pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos)

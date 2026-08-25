@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos/anotacoes/260413-aula-atividadesabril-1
 titulo:  260413-Aula-AtividadesAbril-1
 disciplina:
 conteudo:

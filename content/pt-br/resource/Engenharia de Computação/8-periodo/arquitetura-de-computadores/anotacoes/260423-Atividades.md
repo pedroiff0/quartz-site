@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores/anotacoes/260423-atividades
 titulo:  260423-Atividades
 disciplina:
 conteudo:

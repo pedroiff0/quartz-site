@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada/anotacoes/260405-aula-atividades1-1
 titulo: 260405-Aula-Atividades1-1
 disciplina:
 conteudo:

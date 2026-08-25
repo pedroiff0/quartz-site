@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/2-periodo/fisica-i
 title: "Física I"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,7 +23,8 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.4 - Cálculo I](/pt-br/resource/engenharia-de-computação/1-periodo/calculo-i)
+> - [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](/pt-br/resource/engenharia-de-computação/1-periodo/algebra-linear-e-geometria-analitica-i)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.19 - Física II](/pt-br/resource/engenharia-de-computação/3-periodo/fisica-ii)

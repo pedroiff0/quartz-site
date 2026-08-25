@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/3-periodo/fisica-ii
 title: "Física II"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,7 +23,8 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.9 - Cálculo II](/pt-br/resource/engenharia-de-computação/2-periodo/calculo-ii)
+> - [CSECBJI.11 - Física I](/pt-br/resource/engenharia-de-computação/2-periodo/fisica-i)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.26 - Física III](/pt-br/resource/engenharia-de-computação/4-periodo/fisica-iii)

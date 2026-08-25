@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/8-periodo/microcontroladores
 title: "Microcontroladores"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -23,7 +24,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.52 - Organização de Computadores](/pt-br/resource/engenharia-de-computação/7-periodo/organizacao-de-computadores)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.70 - Sistemas Embarcados](/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-embarcados)

@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/7-periodo/sistemas-digitais/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/260405-aula-atividades-filas-1
 titulo:  260405-Aula-Atividades Filas-1
 disciplina:
 conteudo:

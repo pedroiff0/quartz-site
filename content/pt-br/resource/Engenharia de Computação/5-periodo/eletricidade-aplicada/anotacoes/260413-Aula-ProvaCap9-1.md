@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada/anotacoes/260413-aula-provacap9-1
 titulo:  260413-Aula-ProvaCap9-1
 disciplina:
 conteudo:

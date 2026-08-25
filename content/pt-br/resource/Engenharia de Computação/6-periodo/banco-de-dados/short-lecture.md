@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture
 title: "Short Lecture — Banco de Dados"
 disciplina: "Banco de Dados"
 codigo: "CSECBJI.44"

@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

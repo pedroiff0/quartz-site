@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/8-periodo/seguranca-e-higiene-do-trabalho
 title: "Segurança e Higiene do Trabalho"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -23,10 +24,10 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Introdução à Segurança no Trabalho

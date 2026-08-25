@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/1-periodo/algebra-linear-e-geometria-analitica-i/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

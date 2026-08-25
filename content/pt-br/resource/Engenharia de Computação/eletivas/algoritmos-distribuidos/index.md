@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos
 title: "Algoritmos Distribuídos"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -21,7 +22,12 @@ tags:
 > - Familiarizar o discente com os conceitos, termos e técnicas básicas de algoritmos distribuídos.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - CSECBJI.87
+> ### 📋 Pré-requisitos Exigidos:
+> - [CSECBJI.55 - Redes de Computadores I](/pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i)
+> - [CSECBJI.56 - Sistemas Operacionais I](/pt-br/resource/engenharia-de-computação/7-periodo/sistemas-operacionais-i)
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.87 - Computação Paralela e Distribuída](/pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida)
 
 ## 📖 Conteúdo Programático
 1. Introdução à Computação Paralela e Distribuída

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada
 title: "Eletricidade Aplicada"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,7 +23,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.26 - Física III](/pt-br/resource/engenharia-de-computação/4-periodo/fisica-iii)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.82 - Energia e Eficiência Energética](/pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica)

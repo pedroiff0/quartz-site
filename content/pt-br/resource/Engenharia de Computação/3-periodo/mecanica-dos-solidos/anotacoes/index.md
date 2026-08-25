@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/3-periodo/mecanica-dos-solidos/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

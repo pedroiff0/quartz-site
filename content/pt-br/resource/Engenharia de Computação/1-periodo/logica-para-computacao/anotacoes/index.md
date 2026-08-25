@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/1-periodo/logica-para-computacao/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

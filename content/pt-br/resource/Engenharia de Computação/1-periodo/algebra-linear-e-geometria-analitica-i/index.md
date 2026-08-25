@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/1-periodo/algebra-linear-e-geometria-analitica-i
 title: "Álgebra Linear e Geometria Analítica I"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -23,7 +24,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](/pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii)

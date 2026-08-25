@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/short-lecture
 title: "Short Lecture — Eletrônica Digital"
 disciplina: "Eletrônica Digital"
 codigo: "CSECBJI.46"

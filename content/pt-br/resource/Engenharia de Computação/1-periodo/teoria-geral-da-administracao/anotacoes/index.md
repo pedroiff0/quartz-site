@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/1-periodo/teoria-geral-da-administracao/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

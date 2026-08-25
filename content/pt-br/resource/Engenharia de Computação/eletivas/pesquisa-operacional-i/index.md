@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/pesquisa-operacional-i
 title: "Pesquisa Operacional I"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,7 +23,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](/pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.89 - Pesquisa Operacional II](/pt-br/resource/engenharia-de-computação/eletivas/pesquisa-operacional-ii)

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i
 title: "Programação Orientada a Objetos I"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -26,7 +27,8 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.13 - Algoritmos e Técnicas de Programação](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao)
+> - [CSECBJI.38 - Paradigmas de Linguagem de Programação](/pt-br/resource/engenharia-de-computação/5-periodo/paradigmas-de-linguagem-de-programacao)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.51 - Programação Orientada a Objetos II](/pt-br/resource/engenharia-de-computação/7-periodo/programacao-orientada-a-objetos-ii)

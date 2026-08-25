@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/20260320-tarefas-engenharia
 titulo: 20260320 - provas 2026-1
 criado: sexta-feira 20/03/2026 20:33
 modificado: sexta-feira 20/03/2026 20:33

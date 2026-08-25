@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida
 title: "Computação Paralela e Distribuída"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -9,7 +10,7 @@ tags:
 ---
 
 > [!info] 📌 Informações Gerais da Disciplina
-> - **Código:** `CSECBJI.86`
+> - **Código:** `CSECBJI.87`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 
@@ -22,10 +23,10 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.86 - Algoritmos Distribuídos](/pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Sistemas de Trocas de Mensagens

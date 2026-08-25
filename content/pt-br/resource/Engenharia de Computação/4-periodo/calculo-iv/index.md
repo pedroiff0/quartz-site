@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/4-periodo/calculo-iv
 title: "Cálculo IV"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -26,7 +27,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.17 - Cálculo III](/pt-br/resource/engenharia-de-computação/3-periodo/calculo-iii)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.83 - Processamento de Sinais](/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais)

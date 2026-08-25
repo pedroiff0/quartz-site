@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/7-periodo/sistemas-operacionais-i
 title: "Sistemas Operacionais I"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,12 +23,12 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.1 - Fundamentos de Computação](/pt-br/resource/engenharia-de-computação/1-periodo/fundamentos-de-computacao)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.63 - Sistemas Operacionais II](/pt-br/resource/engenharia-de-computação/8-periodo/sistemas-operacionais-ii)
+> - [CSECBJI.86 - Algoritmos Distribuídos](/pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos)
 > - [CSECBJI.71 - Sistemas Distribuídos](/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos)
-> - [CSECBJI.86 - Computação Paralela e Distribuída](/pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida)
 
 ## 📖 Conteúdo Programático
 1. Introdução

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/short-lecture
 title: "Short Lecture — Gestão de Projetos"
 disciplina: "Gestão de Projetos"
 codigo: "CSECBJI.49"

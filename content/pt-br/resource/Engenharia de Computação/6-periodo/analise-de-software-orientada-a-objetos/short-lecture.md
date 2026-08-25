@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/short-lecture
 title: "Short Lecture — Análise de Software Orientada a Objetos"
 disciplina: "Análise de Software Orientada a Objetos"
 codigo: "CSECBJI.42"

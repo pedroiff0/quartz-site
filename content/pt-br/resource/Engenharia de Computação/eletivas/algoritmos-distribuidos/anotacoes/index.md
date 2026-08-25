@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

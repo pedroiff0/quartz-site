@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/gestao-ambiental/anotacoes/260326-aula-intro-1
 titulo: 260326-Aula-Intro-1
 disciplina:
 conteudo:

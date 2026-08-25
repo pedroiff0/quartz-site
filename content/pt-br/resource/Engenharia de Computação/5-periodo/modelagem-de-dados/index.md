@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados
 title: "Modelagem de Dados"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -24,7 +25,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.3 - Lógica para Computação](/pt-br/resource/engenharia-de-computação/1-periodo/logica-para-computacao)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.44 - Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados)

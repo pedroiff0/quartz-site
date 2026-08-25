@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

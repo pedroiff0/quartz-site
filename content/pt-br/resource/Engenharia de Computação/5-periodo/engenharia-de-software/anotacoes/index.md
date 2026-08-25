@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

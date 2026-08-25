@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/7-periodo/organizacao-de-computadores
 title: "Organização de Computadores"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,7 +23,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.1 - Fundamentos de Computação](/pt-br/resource/engenharia-de-computação/1-periodo/fundamentos-de-computacao)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.61 - Arquitetura de Computadores](/pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores)

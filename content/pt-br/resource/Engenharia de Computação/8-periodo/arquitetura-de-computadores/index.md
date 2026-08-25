@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores
 title: "Arquitetura de Computadores"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,10 +23,11 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.52 - Organização de Computadores](/pt-br/resource/engenharia-de-computação/7-periodo/organizacao-de-computadores)
+> - [CSECBJI.53 - Sistemas Digitais](/pt-br/resource/engenharia-de-computação/7-periodo/sistemas-digitais)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Arquitetura IA-32 / IA-64

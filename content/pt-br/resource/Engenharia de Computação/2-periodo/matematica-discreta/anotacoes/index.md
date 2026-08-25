@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

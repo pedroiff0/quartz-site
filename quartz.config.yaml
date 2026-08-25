@@ -14,6 +14,9 @@ configuration:
     - templates/**
     - "**/templates/**"
     - .obsidian
+    - "**/*.sync-conflict-*"
+    - "**/_materiais"
+    - "**/_materiais/**"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/7-periodo/programacao-orientada-a-objetos-ii
 title: "Programação Orientada a Objetos II"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,7 +23,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.45 - Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.79 - Desenvolvimento Web](/pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web)

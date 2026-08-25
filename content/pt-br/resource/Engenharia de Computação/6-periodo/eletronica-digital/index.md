@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital
 title: "Eletrônica Digital"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -24,7 +25,8 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.3 - Lógica para Computação](/pt-br/resource/engenharia-de-computação/1-periodo/logica-para-computacao)
+> - [CSECBJI.37 - Eletrônica Analógica](/pt-br/resource/engenharia-de-computação/5-periodo/eletronica-analogica)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.53 - Sistemas Digitais](/pt-br/resource/engenharia-de-computação/7-periodo/sistemas-digitais)
@@ -32,49 +34,48 @@ tags:
 ## 📖 Conteúdo Programático
 1. Sistema de Numeração
 
-- Notação Posicional
-- Sistemas Numéricos
-- i. Decimal
-- ii. Octal
-- iii. Binário
-- iv. Hexadecimal
-- Conversão entre Bases
+- [ ] Notação Posicional
+- [ ] Sistemas Numéricos
+	- [ ] i. Decimal
+	- [ ] ii. Octal
+	- [ ] iii. Binário
+	- [ ] iv. Hexadecimal
+- [ ] Conversão entre Bases
 
-2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole
+2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole [[Aula 01 - Portas Lógicas]]
 
-- Funções Lógicas
-- Tabelas Verdade
-- Álgebra Booleana
-- Teoremas de De Morgan
-- Teorema da Dualidade
-- Mintermos e Maxtermos
-- Simplificação de Equações e Circuitos Lógicos
-- Mapas de Karnaugh
+- [x] Funções Lógicas [[Aula 01 - Portas Lógicas]]
+- [x] Tabelas Verdade [[Aula 01 - Portas Lógicas]]
+- [x] Álgebra Booleana [[Aula 01 - Portas Lógicas]]
+- [x] Teoremas de De Morgan [[Aula 01 - Portas Lógicas]]
+- [x] Teorema da Dualidade [[Aula 01 - Portas Lógicas]]
+- [x] Mintermos e Maxtermos [[Aula 01 - Portas Lógicas]]
+- [ ] Simplificação de Equações e Circuitos Lógicos 
+- [ ] Mapas de Karnaugh
 
 3. Circuitos Combinacionais
 
-- Multiplexadores
-- Demultiplexadores
-- Codificadores
-- Decodificadores
-- Conversores de Código
-- Circuitos Aritméticos
-- Latches
-- Flip-Flops
+- [ ] Multiplexadores
+- [ ] Demultiplexadores
+- [ ] Codificadores
+- [ ] Decodificadores
+- [ ] Conversores de Código
+- [ ] Circuitos Aritméticos
+- [ ] Latches
+- [ ] Flip-Flops
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica
 > 1. BIGNELL, J., DONOVAN, J. Eletrônica Digital. São Paulo: Cengage, 2009.
 > 2. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
-> 3. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 1: Sistemas Combinacionais. Porto Alegre:
-> 4. Bookman, 2013.
+> 3. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 1: Sistemas Combinacionais. Porto Alegre: Bookman, 2013.
 > 
 > ### 📗 Bibliografia Complementar
-> 1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
-> 2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
-> 3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
-> 4. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo: Elsevier,
-> 5. SZAJNBERG, M. Eletrônica Digital: Teoria, Componentes e Aplicações. Rio de janeiro: LTC, 2014.
+> 4. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
+> 5. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
+> 6. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
+> 7. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo: Elsevier,
+> 8. SZAJNBERG, M. Eletrônica Digital: Teoria, Componentes e Aplicações. Rio de janeiro: LTC, 2014.
 
 ## 📝 Anotações e Arquivos Didáticos
 - 📖 **[Short Lecture — Eletrônica Digital (Compêndio Completo)](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/short-lecture)**

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i
 title: "Redes de Computadores I"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -25,12 +26,12 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.47 - Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.59 - Redes de Computadores II](/pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii)
+> - [CSECBJI.86 - Algoritmos Distribuídos](/pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos)
 > - [CSECBJI.71 - Sistemas Distribuídos](/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos)
-> - [CSECBJI.86 - Computação Paralela e Distribuída](/pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida)
 
 ## 📖 Conteúdo Programático
 1. Introdução as Redes de Computadores

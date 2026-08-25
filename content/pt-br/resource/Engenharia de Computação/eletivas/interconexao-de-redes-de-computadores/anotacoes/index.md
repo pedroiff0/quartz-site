@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/interconexao-de-redes-de-computadores/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

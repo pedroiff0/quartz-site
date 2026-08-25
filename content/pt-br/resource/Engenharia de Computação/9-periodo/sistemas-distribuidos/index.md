@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos
 title: "Sistemas Distribuídos"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,10 +23,11 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.55 - Redes de Computadores I](/pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i)
+> - [CSECBJI.56 - Sistemas Operacionais I](/pt-br/resource/engenharia-de-computação/7-periodo/sistemas-operacionais-i)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Conceito de Sistemas Distribuídos

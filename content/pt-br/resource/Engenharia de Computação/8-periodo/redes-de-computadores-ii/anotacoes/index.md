@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

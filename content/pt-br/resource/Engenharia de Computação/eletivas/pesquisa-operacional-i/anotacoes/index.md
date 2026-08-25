@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/pesquisa-operacional-i/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

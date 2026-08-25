@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados/anotacoes/260423-atividadeclassroom
 titulo:  260423-AtividadeClassrooom
 disciplina:
 conteudo:

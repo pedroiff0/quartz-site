@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas
 title: "Disciplinas Eletivas"
 created: 2026-07-21
 modified: 2026-08-06

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens
 title: "Processamento de Imagens"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,10 +23,10 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.77 - Computação Gráfica](/pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Fundamentação, aplicações, representação e modelagem de imagens digitais

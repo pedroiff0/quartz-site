@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

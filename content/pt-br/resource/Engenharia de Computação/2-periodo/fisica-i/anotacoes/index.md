@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/2-periodo/fisica-i/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

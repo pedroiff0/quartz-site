@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados/anotacoes/260411-aula-atividademodelagem-1
 titulo:  260411-Aula-AtividadeModelagem-1
 disciplina:
 conteudo:

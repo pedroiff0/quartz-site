@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais
 title: "Processamento de Sinais"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,10 +23,11 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.31 - Cálculo IV](/pt-br/resource/engenharia-de-computação/4-periodo/calculo-iv)
+> - [CSECBJI.47 - Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - *Nenhuma trava pendente.*
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 ## 📖 Conteúdo Programático
 1. Introdução ao Processamento Digital de Sinais

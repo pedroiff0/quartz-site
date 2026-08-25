@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/260423-aula-atividades-1
 titulo:  260423-Aula-Atividades-1
 disciplina:
 conteudo:

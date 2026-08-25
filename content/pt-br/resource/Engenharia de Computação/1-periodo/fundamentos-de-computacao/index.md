@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/1-periodo/fundamentos-de-computacao
 title: "Fundamentos de Computação"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -22,7 +23,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.52 - Organização de Computadores](/pt-br/resource/engenharia-de-computação/7-periodo/organizacao-de-computadores)

@@ -1,6 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/10-periodo/projeto-final-de-curso-ii/anotacoes
 ---
 ## 📝 Anotações e Documentos
 

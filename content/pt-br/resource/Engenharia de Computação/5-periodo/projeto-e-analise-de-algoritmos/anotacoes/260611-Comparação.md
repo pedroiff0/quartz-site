@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos/anotacoes/260611-comparação
 titulo:  260611-Comparação
 disciplina:
 conteudo:

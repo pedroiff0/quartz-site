@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/short-lecture
 title: "Short Lecture — Programação Orientada a Objetos I"
 disciplina: "Programação Orientada a Objetos I"
 codigo: "CSECBJI.45"

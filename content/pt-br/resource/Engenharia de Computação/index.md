@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação
 title: Engenharia de Computação
 created: 2026-07-22
 modified: 2026-08-24
@@ -763,7 +764,7 @@ Relatório gerado automaticamente: para cada disciplina, lista as disciplinas qu
 
 Todos os arquivos fonte, projeto pedagógico do curso (PPC), matrizes brutas e certificados estão organizados de forma não-pública na pasta de materiais:
 
-- 📄 **[PPC Completo de Engenharia de Computação & Ementário](/assets/documentos/PPC_EngComp_Completo_Ementario.md)** — *Documento oficial de criação e reconhecimento do curso.*
-- 📊 **[Mapeamento de Docentes e Disciplinas](/assets/documentos/trancas_professores_map.md)**
-- 📋 **[Relatório Detalhado de Dependências](/assets/documentos/trancas_relatorio_detalhado.md)**
-- 🏆 **[Certificados e Documentos Históricos](/assets/documentos/Certificados/)**
+- 📄 **[PPC Completo de Engenharia de Computação & Ementário](_materiais/documentos/PPC_EngComp_Completo_Ementario.md)** — *Documento oficial de criação e reconhecimento do curso.*
+- 📊 **[Mapeamento de Docentes e Disciplinas](_materiais/documentos/trancas_professores_map.md)**
+- 📋 **[Relatório Detalhado de Dependências](_materiais/documentos/trancas_relatorio_detalhado.md)**
+- 🏆 **[Certificados e Documentos Históricos](_materiais/documentos/Certificados/)**

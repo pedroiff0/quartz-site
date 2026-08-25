@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos
 title: "Linguagens Formais e Autômatos"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -24,7 +25,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.14 - Matemática Discreta](/pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.48 - Compiladores](/pt-br/resource/engenharia-de-computação/6-periodo/compiladores)

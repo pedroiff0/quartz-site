@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/2-periodo/calculo-ii
 title: "Cálculo II"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -25,7 +26,7 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - *Nenhum pré-requisito pendente.*
+> - [CSECBJI.4 - Cálculo I](/pt-br/resource/engenharia-de-computação/1-periodo/calculo-i)
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
 > - [CSECBJI.17 - Cálculo III](/pt-br/resource/engenharia-de-computação/3-periodo/calculo-iii)
