@@ -11,55 +11,7 @@ modified: 2026-08-22
 > - **Semestre Letivo:** `2026-2` (24 de Agosto de 2026 a 18 de Dezembro de 2026 · 20 Semanas / 100 Dias Letivos)
 > - **Resumo Pedagógico:** Análise e engenharia orientada a objetos, bancos de dados relacionais e avançados, circuitos lógicos digitais, teoria e construção de compiladores, telecomunicações e redes físicas, reflexão epistemológica e viabilidade técnica/econômica de projetos de engenharia.
 
-```dataviewjs
-const allPages = dv.pages('"02 - Áreas/Acadêmico/IFF - Engenharia de Computação/6-periodo"');
-const disciplines = [
-    { name: "Análise de Software OO", path: "analise-de-software-orientada-a-objetos" },
-    { name: "Banco de Dados", path: "banco-de-dados" },
-    { name: "Compiladores", path: "compiladores" },
-    { name: "Comunicação de Dados", path: "comunicacao-de-dados" },
-    { name: "Eletrônica Digital", path: "eletronica-digital" },
-    { name: "Filosofia da Ciência e Tecnologia", path: "filosofia-da-ciencia-e-tecnologia" },
-    { name: "Gestão de Projetos", path: "gestao-de-projetos" },
-    { name: "Programação Orientada a Objetos I", path: "programacao-orientada-a-objetos-i" }
-];
 
-let html = `<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1.5rem 0;">`;
-
-disciplines.forEach(d => {
-    const dPages = allPages.filter(p => p.file.folder.includes(d.path));
-    
-    const completedAulas = dPages.filter(p => {
-        const folder = (p.file.folder || "").toLowerCase();
-        const path = (p.file.path || "").toLowerCase();
-        const name = (p.file.name || "").toLowerCase();
-        
-        const isEsboco = folder.includes("esboço") || folder.includes("esboco") || path.includes("esboço") || path.includes("esboco") || folder.includes("draft");
-        const isAula = /^aula[\s_-]+\d+/i.test(name);
-        
-        return isAula && !isEsboco;
-    });
-
-    const completed = completedAulas.length;
-    const total = 20;
-    const pct = Math.min(100, Math.round((completed / total) * 100));
-    
-    html += `
-    <div style="padding: 1rem; background: var(--background-secondary, #f4f4f5); border-radius: 8px; border: 1px solid var(--border-color, #e4e4e7);">
-      <div style="font-weight: 700; font-size: 0.85rem; margin-bottom: 0.4rem; color: var(--text-normal, #18181b);">${d.name}</div>
-      <div style="display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text-muted, #71717a); margin-bottom: 0.3rem;">
-        <span>${completed} / ${total} Aulas</span>
-        <span>${pct}%</span>
-      </div>
-      <div style="width: 100%; height: 6px; background-color: var(--background-modifier-border, #e4e4e7); border-radius: 3px; overflow: hidden;">
-        <div style="width: ${pct}%; height: 100%; background: linear-gradient(90deg, #2563eb, #3b82f6); border-radius: 3px;"></div>
-      </div>
-    </div>`;
-});
-
-html += `</div>`;
-dv.el("div", html);
-```
 
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
 > - 📘 **[Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos)** (`60h` · Prof. Pablo · Quarta 13:40–16:30)
