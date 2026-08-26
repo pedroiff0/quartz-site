@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.41`
 > - **Período:** 5º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Fabrício Barros (fabricio.goncalves@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -31,28 +32,28 @@ tags:
 ## 📖 Conteúdo Programático
 1. Visão Geral
 
-- Motivação
-- Técnicas de Avaliação de Desempenho
-- Metodologia Geral para Estudo de Modelagem
+- [ ] Motivação
+- [ ] Técnicas de Avaliação de Desempenho
+- [ ] Metodologia Geral para Estudo de Modelagem
 
 2. Modelos Determinísticos de Desempenho
 
-- Leis Fundamentais
-- Lei de Litle
-- Leis Operacionais
-- Limites Assintóticos
-- Análise do Valor Médio
+- [ ] Leis Fundamentais
+- [ ] Lei de Litle
+- [ ] Leis Operacionais
+- [ ] Limites Assintóticos
+- [ ] Análise do Valor Médio
 
 3. Introdução a Modelos Probabilísticos de Desempenho
 
-- Filas M/M/1
+- [ ] Filas M/M/1
 
 4. Modelos de Carga
 
-- Caracterização de Cargas
-- Benchmarking
-- Modelos de Comportamento de Usuários
-- Planejamento e Gerenciamento de Capacidade
+- [ ] Caracterização de Cargas
+- [ ] Benchmarking
+- [ ] Modelos de Comportamento de Usuários
+- [ ] Planejamento e Gerenciamento de Capacidade
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

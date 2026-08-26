@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.86`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -32,32 +33,32 @@ tags:
 ## 📖 Conteúdo Programático
 1. Introdução à Computação Paralela e Distribuída
 
-- Histórico
-- Paralelismo e Concorrência
-- Computação Paralela e Distribuída
-- Tendências
+- [ ] Histórico
+- [ ] Paralelismo e Concorrência
+- [ ] Computação Paralela e Distribuída
+- [ ] Tendências
 
 2. Arquiteturas Paralelas
 
-- Taxonomia de Flynn
-- Níveis de Paralelismo
-- Hierarquia de Memória e Caching
-- Corretude de Programas Concorrentes
-- Propriedades
-- Interferência entre processos concorrentes
-- Não Determinismo
+- [ ] Taxonomia de Flynn
+- [ ] Níveis de Paralelismo
+- [ ] Hierarquia de Memória e Caching
+- [ ] Corretude de Programas Concorrentes
+- [ ] Propriedades
+- [ ] Interferência entre processos concorrentes
+- [ ] Não Determinismo
 
 3. Modelos, Ferramentas e Ambientes de Computação Paralela e Distribuída
 
-- Modelos de Programação Paralela
-- OpenMP, MPI, CUDA e OpenACC
+- [ ] Modelos de Programação Paralela
+- [ ] OpenMP, MPI, CUDA e OpenACC
 
 4. Tópicos Emergentes em Computação Paralela e Distribuída
 
-- Projeto de Paralelização
-- Padrões de Projeto para Programação Paralela
-- Técnicas Básicas de Otimização
-- Algoritmos Paralelos para Problemas de Busca, Ordenação e Grafos
+- [ ] Projeto de Paralelização
+- [ ] Padrões de Projeto para Programação Paralela
+- [ ] Técnicas Básicas de Otimização
+- [ ] Algoritmos Paralelos para Problemas de Busca, Ordenação e Grafos
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

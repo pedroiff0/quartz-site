@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.51`
 > - **Período:** 7º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Fabrício Barros (fabricio.goncalves@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa

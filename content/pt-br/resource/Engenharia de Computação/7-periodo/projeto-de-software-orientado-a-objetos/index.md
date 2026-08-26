@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.50`
 > - **Período:** 7º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Fabrício Barros (fabricio.goncalves@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -31,40 +32,40 @@ tags:
 ## 📖 Conteúdo Programático
 1. Princípios de Projeto Orientado a Objetos
 
-- Single Responsibility Principle
-- Open/Closed Principle
-- Liskov Substitution Principle
-- Interface Segregation Principle
-- Dependency Inversion Principle
+- [ ] Single Responsibility Principle
+- [ ] Open/Closed Principle
+- [ ] Liskov Substitution Principle
+- [ ] Interface Segregation Principle
+- [ ] Dependency Inversion Principle
 
 2. Padrões de Projeto
 
-- Padrões de Criação
-- i. Abstract Factory
-- ii. Builder
-- iii. Factory Method
-- iv. Prototype
-- v. Singleton
-- Padrões Estruturais
-- i. Adapter
-- ii. Bridge
-- iii. Composite
-- iv. Decorator
-- v. Façade
-- vi. Flyweight
-- vii. Proxy
-- Padrões Comportamentais
-- i. Chain of Responsability
-- ii. Command
-- iii. Interpreter
-- iv. Iterator
-- v. Mediator
-- vi. Memento
-- vii. Observer
-- viii. State
-- ix. Strategy
-- x. Template Method
-- xi. Visitor
+- [ ] Padrões de Criação
+- [ ] i. Abstract Factory
+- [ ] ii. Builder
+- [ ] iii. Factory Method
+- [ ] iv. Prototype
+- [ ] v. Singleton
+- [ ] Padrões Estruturais
+- [ ] i. Adapter
+- [ ] ii. Bridge
+- [ ] iii. Composite
+- [ ] iv. Decorator
+- [ ] v. Façade
+- [ ] vi. Flyweight
+- [ ] vii. Proxy
+- [ ] Padrões Comportamentais
+- [ ] i. Chain of Responsability
+- [ ] ii. Command
+- [ ] iii. Interpreter
+- [ ] iv. Iterator
+- [ ] v. Mediator
+- [ ] vi. Memento
+- [ ] vii. Observer
+- [ ] viii. State
+- [ ] ix. Strategy
+- [ ] x. Template Method
+- [ ] xi. Visitor
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

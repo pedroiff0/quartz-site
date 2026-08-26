@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.64`
 > - **Período:** 8º Período | **Núcleo:** Básico | **Carga Horária:** —
 > - **Docente Responsável:** Alcides (alcides.oliveira@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa

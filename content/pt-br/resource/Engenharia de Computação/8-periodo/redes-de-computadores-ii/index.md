@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.59`
 > - **Período:** 8º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Wesley Folly (wesley.souza@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa

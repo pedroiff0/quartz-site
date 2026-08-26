@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.74`
 > - **Período:** 10º Período | **Núcleo:** Específica | **Carga Horária:** 80
 > - **Docente Responsável:** Alcides Oliveira (alcides.oliveira@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa

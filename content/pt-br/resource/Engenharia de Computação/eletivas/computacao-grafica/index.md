@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.77`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -32,42 +33,42 @@ tags:
 ## 📖 Conteúdo Programático
 1. Dispositivos Gráficos
 
-- Apresentação de Imagens Usando Monitores ou Impressoras
-- Espaços de Cor
-- Bibliotecas Gráficas
-- Visão geral de pipeline gráfico
+- [ ] Apresentação de Imagens Usando Monitores ou Impressoras
+- [ ] Espaços de Cor
+- [ ] Bibliotecas Gráficas
+- [ ] Visão geral de pipeline gráfico
 
 2. Primitivas Gráficas
 
-- Ponto
-- Reta
-- Circunferência
-- Curvas
-- Polígonos
-- Planos g. Poliedros
+- [ ] Ponto
+- [ ] Reta
+- [ ] Circunferência
+- [ ] Curvas
+- [ ] Polígonos
+- [ ] Planos g. Poliedros
 
 3. Modelagem Geométrica
 
-- Triangulação de Polígonos
-- Vetores Normais
-- Operações de Conjuntos
-- Extrusão
+- [ ] Triangulação de Polígonos
+- [ ] Vetores Normais
+- [ ] Operações de Conjuntos
+- [ ] Extrusão
 
 4. Sistemas de Coordenadas e Transformações 2D e 3D
 
-- Sistemas de Coordenadas
-- Vetores
-- Transformações de Escala, Translação, Rotação
-- Matrizes
+- [ ] Sistemas de Coordenadas
+- [ ] Vetores
+- [ ] Transformações de Escala, Translação, Rotação
+- [ ] Matrizes
 
 5. Algoritmos de Projeção e Recorte
 
-- Z-Buffer
-- Visão Geral de Ray Tracing
-- Câmeras
-- Projeções Paralelas e em Perspectiva
-- Iluminação
-- Textura, sombras, reflexão e partículas
+- [ ] Z-Buffer
+- [ ] Visão Geral de Ray Tracing
+- [ ] Câmeras
+- [ ] Projeções Paralelas e em Perspectiva
+- [ ] Iluminação
+- [ ] Textura, sombras, reflexão e partículas
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

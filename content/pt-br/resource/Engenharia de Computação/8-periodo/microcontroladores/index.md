@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.62`
 > - **Período:** 8º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Garcez (luiz.garcez@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -32,62 +33,62 @@ tags:
 ## 📖 Conteúdo Programático
 1. Principais Características
 
-- Histórico dos Microcontroladores e Microprocessadores
-- Dispositivos Comerciais Disponíveis
+- [ ] Histórico dos Microcontroladores e Microprocessadores
+- [ ] Dispositivos Comerciais Disponíveis
 
 2. Tipos de Arquiteturas
 
-- Arquiteturas Harvard e Von Neuman
-- Estrutura Interna de uma CPU
-- Ciclos de Máquina
+- [ ] Arquiteturas Harvard e Von Neuman
+- [ ] Estrutura Interna de uma CPU
+- [ ] Ciclos de Máquina
 
 3. Memórias Internas
 
-- Tipos de Memórias: Flash, RAM, ROM
-- Modos de Acesso
-- Ciclos de Escrita e Leitura
+- [ ] Tipos de Memórias: Flash, RAM, ROM
+- [ ] Modos de Acesso
+- [ ] Ciclos de Escrita e Leitura
 
 4. Registradores
 5. Modos de Endereçamento
 
-- Direto
-- Indireto
-- Relativo
-- Absoluto
-- Longo
-- Indexado
+- [ ] Direto
+- [ ] Indireto
+- [ ] Relativo
+- [ ] Absoluto
+- [ ] Longo
+- [ ] Indexado
 
 6. Instruções
 
-- Conjunto de Instruções
-- Instruções Lógicas
-- Aritméticas
-- Transferência de Dados
-- Booleanas
-- Condicionais
-- Especiais
+- [ ] Conjunto de Instruções
+- [ ] Instruções Lógicas
+- [ ] Aritméticas
+- [ ] Transferência de Dados
+- [ ] Booleanas
+- [ ] Condicionais
+- [ ] Especiais
 
 7. Compiladores e Ferramentas de Desenvolvimento
 8. Sistema de Interrupções
 9. Dispositivos de Entrada/Saída
 
-- Métodos de Interfaceamento
-- I/O Mapeado em Memória
-- Drives de Potência
-- Interfaceamento com LCD, Display de 7 Segmentos e Teclas
-- Acionamentos de Motores DC, Passo e Servo-Motores
+- [ ] Métodos de Interfaceamento
+- [ ] I/O Mapeado em Memória
+- [ ] Drives de Potência
+- [ ] Interfaceamento com LCD, Display de 7 Segmentos e Teclas
+- [ ] Acionamentos de Motores DC, Passo e Servo-Motores
 
 10. Conversores A/D e D/A
 11. Dispositivos Periféricos
 
-- Temporizadores/Contadores
-- Interface de Comunicação Serial
-- Dispositivos Externos:
-- i. Memórias Seriais
-- ii. Potenciômetros Digitais
-- iii. Relógio de Tempo Real
-- iv. Sensores
-- v. Outros Dispositivos
+- [ ] Temporizadores/Contadores
+- [ ] Interface de Comunicação Serial
+- [ ] Dispositivos Externos:
+- [ ] i. Memórias Seriais
+- [ ] ii. Potenciômetros Digitais
+- [ ] iii. Relógio de Tempo Real
+- [ ] iv. Sensores
+- [ ] v. Outros Dispositivos
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.63`
 > - **Período:** 8º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -31,30 +32,30 @@ tags:
 ## 📖 Conteúdo Programático
 1. Sistemas de Arquivos
 
-- Arquivos
-- Diretórios
-- Implementação do Sistema de Arquivos
-- Gerenciamento e Otimização dos Sistemas
-- Exemplos de Sistemas de Arquivos
+- [ ] Arquivos
+- [ ] Diretórios
+- [ ] Implementação do Sistema de Arquivos
+- [ ] Gerenciamento e Otimização dos Sistemas
+- [ ] Exemplos de Sistemas de Arquivos
 
 2. Entrada/Saída
 
-- Princípios do Hardware de E/S
-- Princípios do Software E/S
-- Camadas do Software E/S
-- Discos
-- Relógios
-- Interfaces com o usuário g. Gerenciamento de Energia
+- [ ] Princípios do Hardware de E/S
+- [ ] Princípios do Software E/S
+- [ ] Camadas do Software E/S
+- [ ] Discos
+- [ ] Relógios
+- [ ] Interfaces com o usuário g. Gerenciamento de Energia
 
 3. Deadlocks
 
-- Recursos
-- Introdução a Deadlocks
-- Algoritmo do Avestruz
-- Detecção e Recuperação de Deadlocks
-- Evitando Deadlocks
-- Prevenção de Deadlocks
-- Outras Questões
+- [ ] Recursos
+- [ ] Introdução a Deadlocks
+- [ ] Algoritmo do Avestruz
+- [ ] Detecção e Recuperação de Deadlocks
+- [ ] Evitando Deadlocks
+- [ ] Prevenção de Deadlocks
+- [ ] Outras Questões
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

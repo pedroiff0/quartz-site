@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.79`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** —
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -31,18 +32,18 @@ tags:
 ## 📖 Conteúdo Programático
 1. Programação para Web
 
-- História da Internet e da World Wide Web.
-- Desenvolvimento Front-End
-- Desenvolvimento Back-End
+- [ ] História da Internet e da World Wide Web.
+- [ ] Desenvolvimento Front-End
+- [ ] Desenvolvimento Back-End
 
 2. Frameworks Web
 
-- Introdução à frameworks para desenvolvimento web
+- [ ] Introdução à frameworks para desenvolvimento web
 
 3. Acesso a banco de dados em sistemas Web
 
-- Conexão com Sistema de Gerenciamento de Banco de Dados
-- Engenharia Web
+- [ ] Conexão com Sistema de Gerenciamento de Banco de Dados
+- [ ] Engenharia Web
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

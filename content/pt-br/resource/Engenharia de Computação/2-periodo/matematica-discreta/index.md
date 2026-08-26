@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.14`
 > - **Período:** 2º Período | **Núcleo:** Básica | **Carga Horária:** 60
 > - **Docente Responsável:** Gustavo Stênio (gustavo.neitzel@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -32,50 +33,50 @@ tags:
 ## 📖 Conteúdo Programático
 1. Teoria dos Conjuntos:
 
-- Tipos de Conjuntos;
-- Igualdade de Conjuntos;
-- Subconjuntos;
-- Operações entre Conjuntos;
-- Produto Cartesiano;
-- Identidade de Conjuntos.
+- [ ] Tipos de Conjuntos;
+- [ ] Igualdade de Conjuntos;
+- [ ] Subconjuntos;
+- [ ] Operações entre Conjuntos;
+- [ ] Produto Cartesiano;
+- [ ] Identidade de Conjuntos.
 
 2. Relações e Funções:
 
-- Definição;
-- Tipos de Relações;
-- Relação de Equivalência;
-- Função;
-- Propriedades das Funções;
+- [ ] Definição;
+- [ ] Tipos de Relações;
+- [ ] Relação de Equivalência;
+- [ ] Função;
+- [ ] Propriedades das Funções;
 
 3. Indução e Recursão:
 
-- O Princípio da Indução Finita;
-- Provas por Indução;
-- Recursividade;
-- Problemas Recursivos.
+- [ ] O Princípio da Indução Finita;
+- [ ] Provas por Indução;
+- [ ] Recursividade;
+- [ ] Problemas Recursivos.
 
 4. Análise Combinatória:
 
-- Princípios Básicos da Contagem;
-- Arranjos;
-- Permutações;
-- Combinações.
+- [ ] Princípios Básicos da Contagem;
+- [ ] Arranjos;
+- [ ] Permutações;
+- [ ] Combinações.
 
 5. Teoria dos Números:
 
-- Introdução;
-- Algoritmo da Divisão;
-- MDC;
-- Aritmética Modular;
-- Números Primos;
-- Algoritmo Usual de Números Primos e sua Eficiência;
+- [ ] Introdução;
+- [ ] Algoritmo da Divisão;
+- [ ] MDC;
+- [ ] Aritmética Modular;
+- [ ] Números Primos;
+- [ ] Algoritmo Usual de Números Primos e sua Eficiência;
 
 6. Teoria dos grafos e árvores.
 
-- Definição;
-- Propriedades;
-- Formas de Representação;
-- Árvores.
+- [ ] Definição;
+- [ ] Propriedades;
+- [ ] Formas de Representação;
+- [ ] Árvores.
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

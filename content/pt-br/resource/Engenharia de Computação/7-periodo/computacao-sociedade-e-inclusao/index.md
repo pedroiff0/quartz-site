@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.54`
 > - **Período:** 7º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Karina (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -31,49 +32,49 @@ tags:
 ## 📖 Conteúdo Programático
 1. Fundamentação e Discussão Crítica acerca de Computação e Sociedade:
 
-- Aspectos Sociais;
-- Aspectos Econômicos;
-- Aspectos Culturais;
-- Aspectos Políticos;
+- [ ] Aspectos Sociais;
+- [ ] Aspectos Econômicos;
+- [ ] Aspectos Culturais;
+- [ ] Aspectos Políticos;
 
 2. O computador na sociedade atual:
 
-- Aplicação de Computadores e sua Influência na Sociedade;
-- Vantagens e Desvantagens da Automação;
+- [ ] Aplicação de Computadores e sua Influência na Sociedade;
+- [ ] Vantagens e Desvantagens da Automação;
 
 3. Apropriações da Computação e Relações de Poder:
 
-- O espaço público, o privado e o sujeito.
+- [ ] O espaço público, o privado e o sujeito.
 
 4. Recursos e Repositórios Educacionais Abertos:
 
-- Histórico
-- Definições
-- Políticas Públicas
-- Projetos
+- [ ] Histórico
+- [ ] Definições
+- [ ] Políticas Públicas
+- [ ] Projetos
 
 5. Conteúdos e Identidade Cultural:
 
-- Homem, Cultura e Sociedade;
-- Estudo da Cultura e o Trabalho Etnográfico;
-- Universalismo e Particularismo;
-- Identidade Individuais e Sociais;
-- Cultura Contemporânea, Sociedade e Tecnologias de Informação e Comunicação.
+- [ ] Homem, Cultura e Sociedade;
+- [ ] Estudo da Cultura e o Trabalho Etnográfico;
+- [ ] Universalismo e Particularismo;
+- [ ] Identidade Individuais e Sociais;
+- [ ] Cultura Contemporânea, Sociedade e Tecnologias de Informação e Comunicação.
 
 6. Cidadania e Educação na Sociedade Digital
 
-- Educação
-- i. Educação Presencial
-- ii. Educação à Distância
-- Cidadania
-- Educação, Cidadania e Inclusão Social
+- [ ] Educação
+- [ ] i. Educação Presencial
+- [ ] ii. Educação à Distância
+- [ ] Cidadania
+- [ ] Educação, Cidadania e Inclusão Social
 
 7. Ferramental Tecnológico como Construção Sócio-Cultural:
 
-- Tecnologia Social: Conceitos e Debates;
-- Tecnologia Social e Tecnologia Convencional
-- Tecnologia Social no Brasil
-- Tecnologia no Mundo
+- [ ] Tecnologia Social: Conceitos e Debates;
+- [ ] Tecnologia Social e Tecnologia Convencional
+- [ ] Tecnologia Social no Brasil
+- [ ] Tecnologia no Mundo
 
 8. Relevância Social e Investimento em Tecnologia Social
 

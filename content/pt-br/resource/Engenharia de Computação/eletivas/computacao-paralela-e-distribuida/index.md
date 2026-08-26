@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.87`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -35,42 +36,42 @@ tags:
 4. Modelos Síncrono e Assíncrono de Computação
 5. Computações em Sistemas Anônimos
 
-- Limitações Intrínsecas
-- Noções de conhecimento em sistemas distribuídos
+- [ ] Limitações Intrínsecas
+- [ ] Noções de conhecimento em sistemas distribuídos
 
 6. Modelos de Computação
 
-- Eventos, ordem e estados globais
-- A complexidade de computações distribuídas
+- [ ] Eventos, ordem e estados globais
+- [ ] A complexidade de computações distribuídas
 
 7. Algoritmos Básicos
 
-- Propagação de Informação
-- Algoritmos simples sobre grafos
-- i. Teste de conectividade
-- ii. Distâncias mais curtas
+- [ ] Propagação de Informação
+- [ ] Algoritmos simples sobre grafos
+- [ ] i. Teste de conectividade
+- [ ] ii. Distâncias mais curtas
 
 8. Técnicas Básicas
 
-- Eleição de líder
-- Gravação de estados globais
-- Sincronização de redes
+- [ ] Eleição de líder
+- [ ] Gravação de estados globais
+- [ ] Sincronização de redes
 
 9. Introdução à Alto-Estabilização
 
-- Detecção de Terminação
-- Detecção de Deadlocks
+- [ ] Detecção de Terminação
+- [ ] Detecção de Deadlocks
 
 10. Outros Algoritmos sobre Grafos
 
-- Árvores geradoras mínimas
-- Fluxos em redes
+- [ ] Árvores geradoras mínimas
+- [ ] Fluxos em redes
 
 11. Compartilhamento de Recursos
 
-- Algoritmos de exclusão mútua
-- Dinning Philosopers
-- Drinking Philosopers
+- [ ] Algoritmos de exclusão mútua
+- [ ] Dinning Philosopers
+- [ ] Drinking Philosopers
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

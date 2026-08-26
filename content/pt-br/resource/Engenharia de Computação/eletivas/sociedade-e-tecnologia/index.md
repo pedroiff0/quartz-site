@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.76`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Eletivo | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -31,34 +32,34 @@ tags:
 ## 📖 Conteúdo Programático
 1. Distinção das Ciências Sociais e Ciências Naturais
 
-- Distinção das Ciências Sociais e Ciências Naturais
-- As Especificidades das Ciências Sociais
+- [ ] Distinção das Ciências Sociais e Ciências Naturais
+- [ ] As Especificidades das Ciências Sociais
 
 2. Conhecimento Científico e Tecnológico
 
-- Formas de Conhecimento;
-- Conhecimento Científico
-- Conhecimento Tecnológico
+- [ ] Formas de Conhecimento;
+- [ ] Conhecimento Científico
+- [ ] Conhecimento Tecnológico
 
 3. Processos Produtivos e Relações de Trabalho na Sociedade Capitalista
 
-- O Modelo de Produção Taylorista-Fordista
-- O Modelo de Produção Flexível
-- As relações de Trabalho da Sociedade Atual
+- [ ] O Modelo de Produção Taylorista-Fordista
+- [ ] O Modelo de Produção Flexível
+- [ ] As relações de Trabalho da Sociedade Atual
 
 4. Técnica e Tecnologia na Sociedade Contemporânea
 
-- O Conceito de Técnica e Tecnologia
-- Tecnologia e Necessidades Sociais
-- Dimensões Sociais da Tecnologia
-- Tecnologia Desenvolvimento Social e Educação Tecnológica
+- [ ] O Conceito de Técnica e Tecnologia
+- [ ] Tecnologia e Necessidades Sociais
+- [ ] Dimensões Sociais da Tecnologia
+- [ ] Tecnologia Desenvolvimento Social e Educação Tecnológica
 
 5. Cultura e Diversidade Cultural
 
-- Conceito de Cultura e Diversidade
-- Globalização: Conceitos, Significados, Manifestações
-- Gênero
-- Tecnologia e Sociedade da Informação: Uma Questão de Inclusão
+- [ ] Conceito de Cultura e Diversidade
+- [ ] Globalização: Conceitos, Significados, Manifestações
+- [ ] Gênero
+- [ ] Tecnologia e Sociedade da Informação: Uma Questão de Inclusão
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

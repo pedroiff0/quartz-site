@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.7`
 > - **Período:** 1º Período | **Núcleo:** Básica | **Carga Horária:** 80
 > - **Docente Responsável:** Filipe Ambrósio (filipe.loures@gsuite.iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -36,42 +37,42 @@ tags:
 2. Normas para desenho;
 3. Desenho geométrico
 
-- Geometria Plana;
-- Linhas;
-- Ângulos;
-- Polígonos;
-- Linhas e pontos notáveis: Mediatriz, Bissetriz, Mediana e Altura;
-- Circunferências;
+- [ ] Geometria Plana;
+- [ ] Linhas;
+- [ ] Ângulos;
+- [ ] Polígonos;
+- [ ] Linhas e pontos notáveis: Mediatriz, Bissetriz, Mediana e Altura;
+- [ ] Circunferências;
 
 4. Projeções ortogonais;
 5. Perspectiva isométrica;
 6. Dimensionamento e cotagem
 
-- Normas de cotagem;
-- Elementos da cotagem;
-- Linhas auxiliares (de chamada ou extensão);
-- Linha de cota;
-- Limites da linha de cota;
-- Setas;
-- Traços oblíquos;
-- Cotas (algarismos);
-- Convenções;
-- Cotagem de arcos, círculos e ângulos;
-- Cotagem através de símbolos;
-- Disposição e apresentação da cotagem;
-- Cotagem em projeções;
-- Cotagem em perspectiva isométrica;
-- Cotagem em cortes.
+- [ ] Normas de cotagem;
+- [ ] Elementos da cotagem;
+- [ ] Linhas auxiliares (de chamada ou extensão);
+- [ ] Linha de cota;
+- [ ] Limites da linha de cota;
+- [ ] Setas;
+- [ ] Traços oblíquos;
+- [ ] Cotas (algarismos);
+- [ ] Convenções;
+- [ ] Cotagem de arcos, círculos e ângulos;
+- [ ] Cotagem através de símbolos;
+- [ ] Disposição e apresentação da cotagem;
+- [ ] Cotagem em projeções;
+- [ ] Cotagem em perspectiva isométrica;
+- [ ] Cotagem em cortes.
 
 7. Cortes e secções
 
-- Identificação dos tipos de corte;
-- Corte visto de frente;
-- Corte visto de cima;
-- Corte visto de lado;
-- Linha de corte AB;
-- Linha de corte AB e CD;
-- Identificação de hachuras pela ABNT.
+- [ ] Identificação dos tipos de corte;
+- [ ] Corte visto de frente;
+- [ ] Corte visto de cima;
+- [ ] Corte visto de lado;
+- [ ] Linha de corte AB;
+- [ ] Linha de corte AB e CD;
+- [ ] Identificação de hachuras pela ABNT.
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

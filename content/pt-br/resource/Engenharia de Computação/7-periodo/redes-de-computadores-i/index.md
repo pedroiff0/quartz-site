@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.55`
 > - **Período:** 7º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Wesley Folly (wesley.souza@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -36,46 +37,46 @@ tags:
 ## 📖 Conteúdo Programático
 1. Introdução as Redes de Computadores
 
-- Conceituação
-- Tipos
-- Topologias
-- Evolução e Histórico das Redes de Computadores
-- Equipamentos Utilizados
+- [ ] Conceituação
+- [ ] Tipos
+- [ ] Topologias
+- [ ] Evolução e Histórico das Redes de Computadores
+- [ ] Equipamentos Utilizados
 
 2. Modelos OSI e TCP/IP
 
-- Modelo OSI e Modelo TCP/IP
-- Camadas do Modelo OSI
-- i. Física
-- ii. Enlace
-- iii. Rede
-- iv. Transporte
-- v. Sessão
-- vi. Apresentação
-- vii. Aplicação
-- Camadas do Modelo TCP/IP
-- i. Rede
-- ii. Internet
-- iii. Transporte
-- iv. Aplicação
-- Modelo OSI x Modelo TCP/IP
+- [ ] Modelo OSI e Modelo TCP/IP
+- [ ] Camadas do Modelo OSI
+- [ ] i. Física
+- [ ] ii. Enlace
+- [ ] iii. Rede
+- [ ] iv. Transporte
+- [ ] v. Sessão
+- [ ] vi. Apresentação
+- [ ] vii. Aplicação
+- [ ] Camadas do Modelo TCP/IP
+- [ ] i. Rede
+- [ ] ii. Internet
+- [ ] iii. Transporte
+- [ ] iv. Aplicação
+- [ ] Modelo OSI x Modelo TCP/IP
 
 3. Arquitetura das Redes
 
-- Escalabilidade
-- Tolerância à Falhas Qualidade de Serviço
+- [ ] Escalabilidade
+- [ ] Tolerância à Falhas Qualidade de Serviço
 
 4. Segurança
 5. Meio de Comunicação
 
-- Fio de Cobre
-- Sem Fio
-- Óptico
+- [ ] Fio de Cobre
+- [ ] Sem Fio
+- [ ] Óptico
 
 6. Protocolo IP
 
-- Conceituação do Protocolo IP
-- Endereçamento IP
+- [ ] Conceituação do Protocolo IP
+- [ ] Endereçamento IP
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

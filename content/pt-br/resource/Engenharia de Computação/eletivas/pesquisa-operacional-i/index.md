@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.88`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Gustavo Stênio (gustavo.neitzel@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -31,40 +32,40 @@ tags:
 ## 📖 Conteúdo Programático
 1. Introdução à Pesquisa Operacional
 
-- Definição de Pesquisa Operacional
-- Metodologia da Pesquisa Operacional
-- Programação Matemática
-- Classificação dos Problemas de Programação Matemática
+- [ ] Definição de Pesquisa Operacional
+- [ ] Metodologia da Pesquisa Operacional
+- [ ] Programação Matemática
+- [ ] Classificação dos Problemas de Programação Matemática
 
 2. Programação Linear (PL)
 
-- Modelagem em PL
-- Manipulação de Problemas de PL
-- Formulação Canônica e Padrão
-- Representação Geométrica de um Problema de PL
+- [ ] Modelagem em PL
+- [ ] Manipulação de Problemas de PL
+- [ ] Formulação Canônica e Padrão
+- [ ] Representação Geométrica de um Problema de PL
 
 3. Método Simplex
 
-- Fundamentos Teóricos do Método Simplex
-- O Algoritmo Simplex
-- Casos Especiais para o Simplex
-- Adaptação de Outras Formas de Modelo
-- Dificuldades Computacionais
+- [ ] Fundamentos Teóricos do Método Simplex
+- [ ] O Algoritmo Simplex
+- [ ] Casos Especiais para o Simplex
+- [ ] Adaptação de Outras Formas de Modelo
+- [ ] Dificuldades Computacionais
 
 4. Dualidade e Análise de Sensibilidade
 
-- Forma Simétrica
-- Interpretação Econômica
-- Teoria de Folgas Complementares
-- Aplicações Computacionais
+- [ ] Forma Simétrica
+- [ ] Interpretação Econômica
+- [ ] Teoria de Folgas Complementares
+- [ ] Aplicações Computacionais
 
 5. Otimização de Redes
 
-- Modelos de Redes
-- Problemas de Transporte
-- O Problema da Designação
-- O Problema do Transbordo
-- Modelos Determinístico de Estoque
+- [ ] Modelos de Redes
+- [ ] Problemas de Transporte
+- [ ] O Problema da Designação
+- [ ] O Problema do Transbordo
+- [ ] Modelos Determinístico de Estoque
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

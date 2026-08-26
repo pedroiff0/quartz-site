@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.89`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -31,44 +32,44 @@ tags:
 ## 📖 Conteúdo Programático
 1. Programação Linear Inteira (PLI)
 
-- Conceitos Fundamentais da PLI
-- Modelagem Matemática por PLI
-- Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
-- Programação Linear Inteira Binária (PLIB)
-- Modelos de PLIB
-- Problema do Caixeiro Viajante
+- [ ] Conceitos Fundamentais da PLI
+- [ ] Modelagem Matemática por PLI
+- [ ] Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
+- [ ] Programação Linear Inteira Binária (PLIB)
+- [ ] Modelos de PLIB
+- [ ] Problema do Caixeiro Viajante
 
 2. Programação por Metas (PM)
 
-- Conceitos Fundamentais da PM
-- Metas, desvios e funções objetivo para PM
-- PM por Priorização
-- Modelagem Matemática por PM
+- [ ] Conceitos Fundamentais da PM
+- [ ] Metas, desvios e funções objetivo para PM
+- [ ] PM por Priorização
+- [ ] Modelagem Matemática por PM
 
 3. Programação Linear Multiobjetivo (PLMO)
 
-- Conceitos Fundamentais da PLMO
-- Variáveis MINMAX
-- Fronteira de Eficiência
-- Modelagem Matemática por PLMO
+- [ ] Conceitos Fundamentais da PLMO
+- [ ] Variáveis MINMAX
+- [ ] Fronteira de Eficiência
+- [ ] Modelagem Matemática por PLMO
 
 4. Programação Dinâmica (PD)
 
-- Conceitos Fundamentais de PD
-- Aplicações da PD
+- [ ] Conceitos Fundamentais de PD
+- [ ] Aplicações da PD
 
 5. Teoria Clássica da Otimização
 
-- Conceitos Fundamentais
-- Problemas Irrestritos
-- Problemas Restritos
+- [ ] Conceitos Fundamentais
+- [ ] Problemas Irrestritos
+- [ ] Problemas Restritos
 
 6. Programação Não-Linear (PNL)
 
-- Tipos de Problemas de PNL
-- Programação Quadrática
-- Programação Separável
-- Programação Convexa
+- [ ] Tipos de Problemas de PNL
+- [ ] Programação Quadrática
+- [ ] Programação Separável
+- [ ] Programação Convexa
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

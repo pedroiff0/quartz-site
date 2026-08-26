@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.4`
 > - **Período:** 1º Período | **Núcleo:** Básico | **Carga Horária:** 120
 > - **Docente Responsável:** Gustavo Stênio (gustavo.neitzel@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -37,68 +38,68 @@ tags:
 ## 📖 Conteúdo Programático
 1. Números Reais:
 
-- Conjuntos Numéricos;
-- Desigualdades;
-- Valor Absoluto;
-- Intervalos.
+- [ ] Conjuntos Numéricos;
+- [ ] Desigualdades;
+- [ ] Valor Absoluto;
+- [ ] Intervalos.
 
 2. Funções:
 
-- Domínio e Imagem de Funções;
-- Operações com Funções;
-- Composição de Funções;
-- Funções Pares e Ímpares;
-- Funções Periódicas;
-- Funções Compostas;
-- Funções Inversas;
-- Funções Elementares: Polinomiais; Racionais; Trigonométricas; Trigonométricas Inversas; Exponenciais; Logarítmicas.
+- [ ] Domínio e Imagem de Funções;
+- [ ] Operações com Funções;
+- [ ] Composição de Funções;
+- [ ] Funções Pares e Ímpares;
+- [ ] Funções Periódicas;
+- [ ] Funções Compostas;
+- [ ] Funções Inversas;
+- [ ] Funções Elementares: Polinomiais; Racionais; Trigonométricas; Trigonométricas Inversas; Exponenciais; Logarítmicas.
 
 3. Limites:
 
-- Noção Intuitiva;
-- Definição;
-- Unicidade do Limite;
-- Propriedades dos Limites;
-- Limites Laterais;
-- Limites no Infinito;
-- Continuidade das Funções;
+- [ ] Noção Intuitiva;
+- [ ] Definição;
+- [ ] Unicidade do Limite;
+- [ ] Propriedades dos Limites;
+- [ ] Limites Laterais;
+- [ ] Limites no Infinito;
+- [ ] Continuidade das Funções;
 
 4. Derivada:
 
-- A Reta Tangente;
-- Derivada de uma Função;
-- Continuidade de Funções Deriváveis;
-- Derivadas Laterais;
-- Regras de Derivação;
-- Derivada de Função Composta;
-- Derivada de Função Inversa;
-- Derivadas de Funções Elementares;
-- Derivadas Sucessivas;
-- Derivada de Funções Implícitas;
+- [ ] A Reta Tangente;
+- [ ] Derivada de uma Função;
+- [ ] Continuidade de Funções Deriváveis;
+- [ ] Derivadas Laterais;
+- [ ] Regras de Derivação;
+- [ ] Derivada de Função Composta;
+- [ ] Derivada de Função Inversa;
+- [ ] Derivadas de Funções Elementares;
+- [ ] Derivadas Sucessivas;
+- [ ] Derivada de Funções Implícitas;
 
 5. Aplicação de Derivada:
 
-- Taxa de Variação;
-- Máximos e Mínimos de Funções;
-- Teorema de Rolle;
-- Funções Crescentes e Decrescentes;
-- Critérios para Determinar os Extremos de uma Função;
-- Concavidade e Pontos de Inflexão;
-- Assíntotas Horizontais e Verticais;
-- Esboço de Gráficos.
+- [ ] Taxa de Variação;
+- [ ] Máximos e Mínimos de Funções;
+- [ ] Teorema de Rolle;
+- [ ] Funções Crescentes e Decrescentes;
+- [ ] Critérios para Determinar os Extremos de uma Função;
+- [ ] Concavidade e Pontos de Inflexão;
+- [ ] Assíntotas Horizontais e Verticais;
+- [ ] Esboço de Gráficos.
 
 6. Integração:
 
-- Integral Indefinida;
-- Propriedade de Integral Indefinida;
-- Métodos da Substituição de Variável para Integração;
-- Método de Integração por Partes;
-- Integração por substituição trigonométrica;
-- Cálculo de Áreas como Somas de Riemman;
-- Integral Definida;
-- Propriedades da Integral Definida;
-- Teorema Fundamental do Cálculo;
-- Cálculo de Áreas;
+- [ ] Integral Indefinida;
+- [ ] Propriedade de Integral Indefinida;
+- [ ] Métodos da Substituição de Variável para Integração;
+- [ ] Método de Integração por Partes;
+- [ ] Integração por substituição trigonométrica;
+- [ ] Cálculo de Áreas como Somas de Riemman;
+- [ ] Integral Definida;
+- [ ] Propriedades da Integral Definida;
+- [ ] Teorema Fundamental do Cálculo;
+- [ ] Cálculo de Áreas;
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.20`
 > - **Período:** 3º Período | **Núcleo:** Básico | **Carga Horária:** 40
 > - **Docente Responsável:** Rodrigo Lacerda (rodrigo.lacerda@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa

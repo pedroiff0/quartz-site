@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.31`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Tacila (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -35,63 +36,63 @@ tags:
 ## 📖 Conteúdo Programático
 1. Sequências e séries
 
-- Definições e notações;
-- Critérios de convergência;
-- Propriedades.
+- [ ] Definições e notações;
+- [ ] Critérios de convergência;
+- [ ] Propriedades.
 
 2. Séries de Taylor e Maclaurin
 
-- Séries de potências;
-- Teste da razão;
-- Raio e intervalo de convergência;
-- Séries de Taylor e Maclaurin;
-- Propriedades.
+- [ ] Séries de potências;
+- [ ] Teste da razão;
+- [ ] Raio e intervalo de convergência;
+- [ ] Séries de Taylor e Maclaurin;
+- [ ] Propriedades.
 
 3. Noções de funções de variável complexa
 
-- Revisão de números complexos;
-- A exponencial complexa e a identidade de Euler;
-- Exemplos de funções de variável complexa.
+- [ ] Revisão de números complexos;
+- [ ] A exponencial complexa e a identidade de Euler;
+- [ ] Exemplos de funções de variável complexa.
 
 4. Singularidades e séries de Laurent
 
-- Desenvolvimento de funções de variável complexa em séries de potências;
-- Funções analíticas;
-- Singularidades;
-- Séries de Laurent (obtenção a partir de propriedades e séries de Taylor e Maclaurin);
-- Classificação de singularidades a partir da série de Laurent;
-- Outros métodos para a classificação de singularidades.
+- [ ] Desenvolvimento de funções de variável complexa em séries de potências;
+- [ ] Funções analíticas;
+- [ ] Singularidades;
+- [ ] Séries de Laurent (obtenção a partir de propriedades e séries de Taylor e Maclaurin);
+- [ ] Classificação de singularidades a partir da série de Laurent;
+- [ ] Outros métodos para a classificação de singularidades.
 
 5. Resíduos e polos
 
-- Definição de resíduo de uma função em uma singularidade;
-- Cálculo através da definição;
-- Métodos de cálculo específicos para polos;
-- Aplicações.
+- [ ] Definição de resíduo de uma função em uma singularidade;
+- [ ] Cálculo através da definição;
+- [ ] Métodos de cálculo específicos para polos;
+- [ ] Aplicações.
 
 6. Integração complexa
 
-- Definição;
-- Teorema de Cauchy-Goursat;
-- Fórmulas de Cauchy;
-- Teorema do resíduo;
+- [ ] Definição;
+- [ ] Teorema de Cauchy-Goursat;
+- [ ] Fórmulas de Cauchy;
+- [ ] Teorema do resíduo;
 
 7. Transformada de Laplace
 
-- Definição e propriedades;
-- Aplicação na resolução de problemas de valor inicial envolvendo EDOs lineares de coeficientes constantes.
+- [ ] Definição e propriedades;
+- [ ] Aplicação na resolução de problemas de valor inicial envolvendo EDOs lineares de coeficientes constantes.
 
 8. Séries de Fourier
 
-- Periodicidade de funções.
-- Cálculo da série de Fourier – equações de análise e síntese;
-- Séries de Fourier de funções pares e ímpares;
-- Séries de Fourier complexas.
+- [ ] Periodicidade de funções.
+- [ ] Cálculo da série de Fourier – equações de análise e síntese;
+- [ ] Séries de Fourier de funções pares e ímpares;
+- [ ] Séries de Fourier complexas.
 
 9. Transformada de Fourier
 
-- Definição e propriedades;
-- Aplicações.
+- [ ] Definição e propriedades;
+- [ ] Aplicações.
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

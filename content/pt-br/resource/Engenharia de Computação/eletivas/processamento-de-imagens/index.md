@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.78`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -31,41 +32,41 @@ tags:
 ## 📖 Conteúdo Programático
 1. Fundamentação, aplicações, representação e modelagem de imagens digitais
 
-- Conceitos básicos das áreas de processamento e análise de imagens
-- Principais áreas de aplicação envolvendo o tratamento de imagens
-- Componentes fundamentais de um sistema de processamento e análise de imagens
+- [ ] Conceitos básicos das áreas de processamento e análise de imagens
+- [ ] Principais áreas de aplicação envolvendo o tratamento de imagens
+- [ ] Componentes fundamentais de um sistema de processamento e análise de imagens
 
 2. Aquisição de Imagens e Técnicas de Realce e Melhoria de Imagens
 
-- Aquisição e digitalização de imagens
-- Propriedades de uma imagem digital
-- Conversão para o formato digital
-- Etapas do processamento e análise de imagens
-- Captura e reprodução
-- Armazenamento e Representação
+- [ ] Aquisição e digitalização de imagens
+- [ ] Propriedades de uma imagem digital
+- [ ] Conversão para o formato digital
+- [ ] Etapas do processamento e análise de imagens
+- [ ] Captura e reprodução
+- [ ] Armazenamento e Representação
 
 3. Restauração de Imagens
 
-- Etapas do Processamento de uma Imagem
-- Operações Matemáticas para Alterar os Valores dos Pixels de uma ou mais Imagens
-- Realce de Contraste
-- Correção e Iluminação Irregular
-- Redução de Ruídos
-- Redução de Borrado devido Movimento g. Correção de Foco
+- [ ] Etapas do Processamento de uma Imagem
+- [ ] Operações Matemáticas para Alterar os Valores dos Pixels de uma ou mais Imagens
+- [ ] Realce de Contraste
+- [ ] Correção e Iluminação Irregular
+- [ ] Redução de Ruídos
+- [ ] Redução de Borrado devido Movimento g. Correção de Foco
 
 4. Fundamentos para um sistema de análise de imagens
 
-- Concepção de um Sistema de Visão Artificial
-- Arquitetura de um Sistema de Visão Artificial
-- Bibliotecas de Programação
+- [ ] Concepção de um Sistema de Visão Artificial
+- [ ] Arquitetura de um Sistema de Visão Artificial
+- [ ] Bibliotecas de Programação
 
 5. Segmentação de Imagens
 
-- A Segmentação como Operação Pontual
-- Segmentação por Região, Textura e Contorno
-- Limiarização Local e Global
-- Morfologia para Correção da Segmentação
-- Erosão, Dilatação, Abertura e Fechamento
+- [ ] A Segmentação como Operação Pontual
+- [ ] Segmentação por Região, Textura e Contorno
+- [ ] Limiarização Local e Global
+- [ ] Morfologia para Correção da Segmentação
+- [ ] Erosão, Dilatação, Abertura e Fechamento
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

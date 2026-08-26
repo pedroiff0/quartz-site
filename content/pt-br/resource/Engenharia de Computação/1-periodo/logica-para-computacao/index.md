@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.3`
 > - **Período:** 1º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -35,14 +36,14 @@ tags:
 1. Introdução à Lógica para Computação;
 2. Lógica Proposicional
 
-- Linguagem, Sintaxe, Semântica e Propriedades Semânticas;
-- Métodos para Determinação da Validade de Fórmulas;
-- Sistemas de Dedução de Lógica Proposicional.
+- [ ] Linguagem, Sintaxe, Semântica e Propriedades Semânticas;
+- [ ] Métodos para Determinação da Validade de Fórmulas;
+- [ ] Sistemas de Dedução de Lógica Proposicional.
 
 3. Lógica de Predicados de Primeira Ordem:
 
-- Linguagem, Quantificadores, Sintaxe, Semântica e Propriedades Semânticas;
-- Sistemas de Dedução na Lógica de Predicados.
+- [ ] Linguagem, Quantificadores, Sintaxe, Semântica e Propriedades Semânticas;
+- [ ] Sistemas de Dedução na Lógica de Predicados.
 
 4. Aplicações de Lógica na Computação.
 

@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.16`
 > - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 40
 > - **Docente Responsável:** Érica/Marcione (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa

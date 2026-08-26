@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.80`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Eletivo | **Carga Horária:** 60
 > - **Docente Responsável:** Wesley (wesley.souza@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa

@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.5`
 > - **Período:** Eletiva | **Núcleo:** Específico | **Carga Horária:** 60h
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -40,60 +41,60 @@ tags:
 6. Matriz Ortogonal;
 7. Determinantes
 
-- Determinante de uma Matriz;
-- Ordem e Representação;
-- Propriedades;
-- Cálculo do Determinante por uma Linha;
-- Cálculo do Determinante por Laplace;
-- Operações Elementares;
-- Cálculo do Determinante por Triangularização;
+- [ ] Determinante de uma Matriz;
+- [ ] Ordem e Representação;
+- [ ] Propriedades;
+- [ ] Cálculo do Determinante por uma Linha;
+- [ ] Cálculo do Determinante por Laplace;
+- [ ] Operações Elementares;
+- [ ] Cálculo do Determinante por Triangularização;
 
 8. Inversão de Matrizes:
 
-- Matriz Inversa;
-- Propriedades;
-- Inversão de Matrizes por Matriz Adjunta;
-- Inversão de Matrizes por Meio de Operações Elementares;
+- [ ] Matriz Inversa;
+- [ ] Propriedades;
+- [ ] Inversão de Matrizes por Matriz Adjunta;
+- [ ] Inversão de Matrizes por Meio de Operações Elementares;
 
 9. Sistemas de Equações Lineares:
 
-- Sistema Compatível;
-- Sistemas Equivalentes;
-- Operações Elementares e Sistemas Equivalentes;
-- Sistema Linear Homogêneo;
-- Classificação e Solução dos Sistemas de Equações Lineares;
-- Discussão de Sistemas em Função de Parâmetros Reais.
+- [ ] Sistema Compatível;
+- [ ] Sistemas Equivalentes;
+- [ ] Operações Elementares e Sistemas Equivalentes;
+- [ ] Sistema Linear Homogêneo;
+- [ ] Classificação e Solução dos Sistemas de Equações Lineares;
+- [ ] Discussão de Sistemas em Função de Parâmetros Reais.
 
 10. Vetores:
 
-- Vetores no R² e no R³, operações;
-- Vetor Definido por Dois Pontos;
-- Produto Escalar;
-- Módulo de um Vetor;
-- Ângulo entre Dois Vetores;
-- Paralelismo e Ortogonalidade de Dois Vetores;
-- Produto Vetorial;
-- Produto Misto;
-- Equação de Planos;
-- Área de Triângulos e Paralelogramos;
-- Volumes de Paralelepípedos.
+- [ ] Vetores no R² e no R³, operações;
+- [ ] Vetor Definido por Dois Pontos;
+- [ ] Produto Escalar;
+- [ ] Módulo de um Vetor;
+- [ ] Ângulo entre Dois Vetores;
+- [ ] Paralelismo e Ortogonalidade de Dois Vetores;
+- [ ] Produto Vetorial;
+- [ ] Produto Misto;
+- [ ] Equação de Planos;
+- [ ] Área de Triângulos e Paralelogramos;
+- [ ] Volumes de Paralelepípedos.
 
 11. Espaços Vetoriais:
 
-- Propriedades;
-- Subespaços Vetoriais;
-- Combinação Linear;
-- Dependência e Independência Linear;
-- Base e Dimensão.
+- [ ] Propriedades;
+- [ ] Subespaços Vetoriais;
+- [ ] Combinação Linear;
+- [ ] Dependência e Independência Linear;
+- [ ] Base e Dimensão.
 
 12. Espaços Vetoriais Euclidianos:
 
-- Produto Interno Não Usual;
-- Módulo de um Vetor e Normalização de Vetores;
-- Vetores Ortogonais;
-- Bases Ortogonais e Ortonormais;
-- Processo de Ortogonalização de Gram Schmidt;
-- Complemento Ortogonal.
+- [ ] Produto Interno Não Usual;
+- [ ] Módulo de um Vetor e Normalização de Vetores;
+- [ ] Vetores Ortogonais;
+- [ ] Bases Ortogonais e Ortonormais;
+- [ ] Processo de Ortogonalização de Gram Schmidt;
+- [ ] Complemento Ortogonal.
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

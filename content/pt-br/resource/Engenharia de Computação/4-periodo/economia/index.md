@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.32`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 40
 > - **Docente Responsável:** Laert (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -31,50 +32,50 @@ tags:
 ## 📖 Conteúdo Programático
 1. Ciência Econômica
 
-- O conceito de economia
-- Divisão de estudo da economia
-- Sistemas econômicos
-- Evolução do pensamento econômico
+- [ ] O conceito de economia
+- [ ] Divisão de estudo da economia
+- [ ] Sistemas econômicos
+- [ ] Evolução do pensamento econômico
 
 2. Microeconomia
 
-- Formação de preços
-- Demanda, oferta e equilíbrio de mercado
-- Teoria da produção
-- A empresa e a produção
-- Análise de curto prazo e de longo prazo
-- Teoria dos custos g. Os custos de produção
-- Os conceitos de receita e lucro
-- Estruturas de mercado
-- Concorrência perfeita
-- Monopólio
-- Concorrência monopolista
-- Oligopólio
+- [ ] Formação de preços
+- [ ] Demanda, oferta e equilíbrio de mercado
+- [ ] Teoria da produção
+- [ ] A empresa e a produção
+- [ ] Análise de curto prazo e de longo prazo
+- [ ] Teoria dos custos g. Os custos de produção
+- [ ] Os conceitos de receita e lucro
+- [ ] Estruturas de mercado
+- [ ] Concorrência perfeita
+- [ ] Monopólio
+- [ ] Concorrência monopolista
+- [ ] Oligopólio
 
 3. Macroeconomia
 
-- A Moeda
-- Origem e funções
-- Oferta e demanda de moeda
-- Política monetária
-- Inflação
+- [ ] A Moeda
+- [ ] Origem e funções
+- [ ] Oferta e demanda de moeda
+- [ ] Política monetária
+- [ ] Inflação
 
 4. As organizações e os sistemas de apoio à gestão financeira
 5. Juros Simples
 6. Juros Compostos
 7. Análise de Investimentos
 
-- Valor presente líquido
-- Payback
-- Taxa interna de retorno
-- Índice de rentabilidade
-- Fluxo de caixa de projeto
+- [ ] Valor presente líquido
+- [ ] Payback
+- [ ] Taxa interna de retorno
+- [ ] Índice de rentabilidade
+- [ ] Fluxo de caixa de projeto
 
 8. Noções de Desenvolvimento
 
-- Crescimento
-- Desenvolvimento e subdesenvolvimento
-- Meio ambiente
+- [ ] Crescimento
+- [ ] Desenvolvimento e subdesenvolvimento
+- [ ] Meio ambiente
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

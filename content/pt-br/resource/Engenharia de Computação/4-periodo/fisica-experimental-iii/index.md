@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.27`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 40
 > - **Docente Responsável:** Rodrigo Lacerda (rodrigo.lacerda@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -32,25 +33,25 @@ tags:
 ## 📖 Conteúdo Programático
 1. Eletrostática
 
-- Processos de eletrização;
-- Lei de Coulomb;
-- Campo elétrico;
-- Potencial elétrico, superfícies equipotenciais;
-- Capacitores;
+- [ ] Processos de eletrização;
+- [ ] Lei de Coulomb;
+- [ ] Campo elétrico;
+- [ ] Potencial elétrico, superfícies equipotenciais;
+- [ ] Capacitores;
 
 2. Eletrodinâmica
 
-- Conceitos fundamentais, corrente e cargas em movimentos
-- Resistência, resistividade e as Leis de Ohm
-- Circuitos simples com uma e mais malhas
-- Instrumentos de medidas (voltímetro, amperímetro e ohmímetro)
+- [ ] Conceitos fundamentais, corrente e cargas em movimentos
+- [ ] Resistência, resistividade e as Leis de Ohm
+- [ ] Circuitos simples com uma e mais malhas
+- [ ] Instrumentos de medidas (voltímetro, amperímetro e ohmímetro)
 
 3. Campo Magnético
 
-- A força magnética;
-- Torque sobre espiras com corrente e ímã;
-- Campo magnético de correntes;
-- Transformadores.
+- [ ] A força magnética;
+- [ ] Torque sobre espiras com corrente e ímã;
+- [ ] Campo magnético de correntes;
+- [ ] Transformadores.
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

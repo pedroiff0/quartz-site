@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.44`
 > - **Período:** 6º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Pablo (fabricio.goncalves@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -33,43 +34,41 @@ tags:
 2. Processamento e Otimização de Consultas
 3. Transações
 
-- Conceito
-- Propriedades
-- i. Atomicidade
-- ii. Consistência
-- iii. Isolamento
-- iv. Durabilidade
-- Controle e Falhas em Transações
-- Concorrência
+- [ ] Conceito
+- [ ] Propriedades
+	- [ ] i. Atomicidade
+	- [ ] ii. Consistência
+	- [ ] iii. Isolamento
+	- [ ] iv. Durabilidade
+- [ ] Controle e Falhas em Transações
+- [ ] Concorrência
 
 4. Programação em Bancos de Dados
 
-- PL/SQL
-- i. Conceitos
-- ii. Comandos
-- Procedimentos Armazenados
-- Gatilhos
+- [ ] PL/SQL
+	- [ ] i. Conceitos
+	- [ ] ii. Comandos
+- [ ] Procedimentos Armazenados
+- [ ] Gatilhos
 
 5. Segurança
 
-- Privilégios de Acesso
-- Visões
-- Criptografia de Dados
+- [ ] Privilégios de Acesso
+- [ ] Visões
+- [ ] Criptografia de Dados
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica
 > 1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004.
 > 2. HEUSER, C. A. Projeto de Banco de Dados. 6ª Edição. Porto Alegre: Bookman, 2008.
-> 3. SILBERSCHATZ, A, KORTH, H. F.
-> 4. SUDARSHAN, S. Sistema de banco de dados. 6. ed. Rio de Janeiro, RJ:
-> 5. Elsevier, 2012.
+> 3. SILBERSCHATZ, A, KORTH, H. F. SUDARSHAN, S. Sistema de banco de dados. 6. ed. Rio de Janeiro, RJ: Elsevier, 2012.
 > 
 > ### 📗 Bibliografia Complementar
-> 1. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012.
-> 2. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015.
-> 3. MACHADO, F. N. R., ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 17ª Edição. São Paulo: Érica, 2012.
-> 4. ROB, P., CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Administração. São Paulo: Cengage, 2010.
-> 5. TEOREY, T., LIGHTSTONE, S., NARDEAU, T., JAGADISH, H. V. Projeto e Modelagem de Dados. 2ª Edição. São Paulo: Elsevier, 2013.
+> 4. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012.
+> 5. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015.
+> 6. MACHADO, F. N. R., ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 17ª Edição. São Paulo: Érica, 2012.
+> 7. ROB, P., CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Administração. São Paulo: Cengage, 2010.
+> 8. TEOREY, T., LIGHTSTONE, S., NARDEAU, T., JAGADISH, H. V. Projeto e Modelagem de Dados. 2ª Edição. São Paulo: Elsevier, 2013.
 
 ## 📝 Anotações e Arquivos Didáticos
 - 📖 **[Short Lecture — Banco de Dados (Compêndio Completo)](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)**

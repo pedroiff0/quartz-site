@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.30`
 > - **Período:** 4º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -33,31 +34,31 @@ tags:
 ## 📖 Conteúdo Programático
 1. Ordenação Externa
 
-- Manipulação de arquivos
+- [ ] Manipulação de arquivos
 
 2. Tabela Hash
 
-- Funções Hash
-- Tratamento de Colisões
-- Algoritmos para Tabelas Hash
+- [ ] Funções Hash
+- [ ] Tratamento de Colisões
+- [ ] Algoritmos para Tabelas Hash
 
 3. Árvores Binárias
 
-- Percurso em Árvores
-- Árvores Binárias
-- Árvores Binárias de Busca
-- Operações de Árvores Binárias de Busca
-- Balanceamento de Árvores
-- Árvores AVL
-- Inserção
-- Remoção
-- Busca
-- Rebalanceamento
-- Árvores B e B+
-- Inserção
-- Remoção
-- Busca
-- Rebalanceamento
+- [ ] Percurso em Árvores
+- [ ] Árvores Binárias
+- [ ] Árvores Binárias de Busca
+- [ ] Operações de Árvores Binárias de Busca
+- [ ] Balanceamento de Árvores
+- [ ] Árvores AVL
+- [ ] Inserção
+- [ ] Remoção
+- [ ] Busca
+- [ ] Rebalanceamento
+- [ ] Árvores B e B+
+- [ ] Inserção
+- [ ] Remoção
+- [ ] Busca
+- [ ] Rebalanceamento
 
 4. Estruturas de Dados Eficientes em Disco
 

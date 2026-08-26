@@ -13,6 +13,7 @@ tags:
 > - **Código:** `CSECBJI.90`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Específico | **Carga Horária:** 60
 > - **Docente Responsável:** Thiago Juncal (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -32,46 +33,46 @@ tags:
 ## 📖 Conteúdo Programático
 1. Histórico e Princípios de Inteligência Artificial (IA)
 
-- Definições de IA
-- Histórico da IA
-- Paradigmas da IA
+- [ ] Definições de IA
+- [ ] Histórico da IA
+- [ ] Paradigmas da IA
 
 2. Resolução de Problemas
 
-- Agentes
-- Exemplos de Problemas
+- [ ] Agentes
+- [ ] Exemplos de Problemas
 
 3. Métodos de Busca
 
-- Estratégias de Busca
-- Tipos de Busca
+- [ ] Estratégias de Busca
+- [ ] Tipos de Busca
 
 4. Heurísticas
 
-- Busca Heurística
-- Aplicações
+- [ ] Busca Heurística
+- [ ] Aplicações
 
 5. Conhecimento e Raciocínio
 
-- Sistemas Baseados em Conhecimento
-- Aquisição de Conhecimento
-- Técnicas de Representação de Conhecimento
+- [ ] Sistemas Baseados em Conhecimento
+- [ ] Aquisição de Conhecimento
+- [ ] Técnicas de Representação de Conhecimento
 
 6. Tópicos Avançados
 
-- Aprendizagem de Máquina
-- Redes Neurais
-- Algoritmos Genéticos
-- Sistemas Especialistas
-- Sistemas Fuzzy
-- Indução de Regras
-- Árvores de Decisão
-- Mineração de Dados
+- [ ] Aprendizagem de Máquina
+- [ ] Redes Neurais
+- [ ] Algoritmos Genéticos
+- [ ] Sistemas Especialistas
+- [ ] Sistemas Fuzzy
+- [ ] Indução de Regras
+- [ ] Árvores de Decisão
+- [ ] Mineração de Dados
 
 7. Aplicações de Inteligência Artificial
 
-- Exemplos de Aplicações
-- Implementação
+- [ ] Exemplos de Aplicações
+- [ ] Implementação
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica
