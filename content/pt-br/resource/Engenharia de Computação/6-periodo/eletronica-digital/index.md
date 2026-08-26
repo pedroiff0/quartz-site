@@ -43,14 +43,14 @@ tags:
 	- [ ] iv. Hexadecimal
 - [ ] Conversão entre Bases
 
-2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole [[Aula 01 - Portas Lógicas]]
+2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole [Portas Lógicas](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas)
 
-- [ ] Funções Lógicas [[Aula 01 - Portas Lógicas]]
-- [ ] Tabelas Verdade [[Aula 01 - Portas Lógicas]]
-- [ ] Álgebra Booleana [[Aula 01 - Portas Lógicas]]
-- [ ] Teoremas de De Morgan [[Aula 01 - Portas Lógicas]]
-- [ ] Teorema da Dualidade [[Aula 01 - Portas Lógicas]]
-- [ ] Mintermos e Maxtermos [[Aula 01 - Portas Lógicas]]
+- [ ] Funções Lógicas [Portas Lógicas](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas)
+- [ ] Tabelas Verdade [Portas Lógicas](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas)
+- [ ] Álgebra Booleana [Portas Lógicas](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas)
+- [ ] Teoremas de De Morgan [Portas Lógicas](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas)
+- [ ] Teorema da Dualidade [Portas Lógicas](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas)
+- [ ] Mintermos e Maxtermos [Portas Lógicas](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas)
 - [ ] Simplificação de Equações e Circuitos Lógicos 
 - [ ] Mapas de Karnaugh
 

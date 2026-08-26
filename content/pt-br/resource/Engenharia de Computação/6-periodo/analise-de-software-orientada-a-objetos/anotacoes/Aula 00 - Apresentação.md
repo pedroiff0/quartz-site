@@ -19,9 +19,7 @@ professor:
   <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** 
-> - **Docente Responsável:** 
+> [!info] 📌 Informações da Aula
 > - **Tópico Central:** 
 > - **Status das Anotações:** 🟡 Planejando | 🟠 Em Andamento | 🟢 Concluído
 
@@ -38,7 +36,9 @@ professor:
 
 ## 📍 Anotações
 
-### 
+### Trabalho de Revisão
+
+Tema 5: Coesão e Acoplamento
 
 ---
 
