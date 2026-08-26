@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-15-avaliacao-parcial-p2-e-apresentacao-de-projetos
 title: "Aula 15: Avaliação Parcial P2 e Apresentação de Projetos — Análise de Software Orientada a Objetos"
-created: '2026-12-09'
-modified: '2026-12-09'
+created: 2026-12-09T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,80 @@ conteudo: "Avaliação de padrões de projeto, arquitetura de software e defesa 
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-16-prova-final-encerramento-e-feedback-do-semestre">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Análise de Software Orientada a Objetos (`CSECBJI.42`)
-> - **Docente Responsável:** Bruno
-> - **Data & Horário:** 09/12/2026 (Quarta-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Avaliação Parcial P2 e Apresentação de Projetos
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Análise de Software Orientada a Objetos (CSECBJI.42)
+> - **Professor:** Bruno
+> - **Data Realizada:** 09/12/2026
+> - **Tópico Principal:** Avaliação Parcial P2 e Apresentação de Projetos
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/analise-de-software-orientada-a-objetos/slides-aula-15.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Avaliação Parcial P2 e Apresentação de Projetos](#-1-anotações-do-quadro-avaliacao-parcial-p2-e-apresentacao-de-projetos)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-15-analise-de-software-orientada-a-objetos|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-15-analise-de-software-orientada-a-objetos|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Avaliação Parcial P2 e Apresentação de Projetos
-
-### 📐 Fundamentação Teórica
-Avaliação de padrões de projeto, arquitetura de software e defesa prática do sistema modelado.
-
-No contexto de **Análise de Software Orientada a Objetos**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{analise-de-software-orientada-a-objetos}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Avaliação Parcial P2 e Apresentação de Projetos](#-anotações-do-quadro-avaliação-parcial-p2-e-apresentação-de-projetos)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Avaliação Parcial P2 e Apresentação de Projetos
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Avaliação Parcial P2 e Apresentação de Projetos**:
-
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Avaliação Parcial P2 e Apresentação de Projetos** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 15.1 Critérios de Avaliação e Defesa do Projeto de Software
+A avaliação P2 consiste na entrega e apresentação do Modelo de Análise e Design Orientado a Objetos completo de um sistema de software corporativo:
+1. Documento de Visão e Matriz de Requisitos FURPS+.
+2. Diagrama de Casos de Uso com especificações textuais expandidas dos casos mais críticos.
+3. Diagrama de Classes de Domínio e de Projeto com aplicação justificada de Padrões GoF (Criacional, Estrutural e Comportamental).
+4. Diagramas de Sequência de Projeto detalhando a colaboração entre as classes e controladores GRASP.
+5. Diagrama de Atividades e Máquinas de Estados para processos complexos.
+6. Relatório de Métricas de Qualidade OO.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Roteiro de Apresentação Técnica para a Banca
+
+1. **Apresentação do Problema de Negócio:** Justificativa da solução e valor gerado.
+2. **Demonstração do Diagrama de Classes de Projeto:** Destaque para os padrões GoF adotados (ex: Factory Method para gateways de pagamento, Strategy para taxas, Observer para notificações).
+3. **Validação Dinâmica com Diagrama de Sequência:** Rastreamento de ponta a ponta do caso de uso mais complexo.
+4. **Defesa das Decisões Arquiteturais:** Justificativa da separação em camadas e desacoplamento de banco.
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Avaliação Parcial P2 e Apresentação de Projetos] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+flowchart LR
+    Proj[Projeto de Software OO] --> Req[1. Requisitos & Casos de Uso]
+    Proj --> Arch[2. Arquitetura em Camadas]
+    Proj --> GoF[3. Padrões GoF & GRASP]
+    Proj --> Seq[4. Diagramas de Sequência]
+    Proj --> Banca[Apresentação P2]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Avaliação Parcial P2 e Apresentação de Projetos** | Aplicação direta de Análise de Software Orientada a Objetos | Verificar restrições de contorno |
+| **Dica de Defesa de Padrões de Projeto** | Nunca diga que usou um padrão GoF 'porque achou bonito'. Justifique sempre o **problema arquitetural que ele resolveu** (ex: 'Usamos Strategy para permitir adicionar novas transportadoras sem modificar o código do Pedido'). | É isso que a banca avalia. |
+| **Consistência entre Diagramas** | Os nomes de métodos nos Diagramas de Sequência DEVEM coincidir perfeitamente com os métodos declarados no Diagrama de Classes. | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Avaliação Parcial P2 e Apresentação de Projetos**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Conclua a documentação completa dos artefatos UML do projeto semestral.
+2. Realize uma sessão de revisão por pares (*Peer Review*) entre grupos para verificar a coerência dos diagramas.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-14-metricas-oo-e-qualidade-de-software">Aula Anterior</a></b></div>

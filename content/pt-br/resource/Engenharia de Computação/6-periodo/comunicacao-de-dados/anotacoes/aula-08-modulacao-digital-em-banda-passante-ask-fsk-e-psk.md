@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-08-modulacao-digital-em-banda-passante-ask-fsk-e-psk
 title: "Aula 08: Modulação Digital em Banda Passante: ASK, FSK e PSK — Comunicação de Dados"
-created: '2026-10-20'
-modified: '2026-10-20'
+created: 2026-10-20T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,91 @@ conteudo: "Conceitos de chaveamento de amplitude, frequência e fase (BPSK, QPSK
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-09-modulacao-por-amplitude-em-quadratura-qam">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Comunicação de Dados (`CSECBJI.47`)
-> - **Docente Responsável:** Rômulo / Paulo
-> - **Data & Horário:** 20/10/2026 (Terça-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Modulação Digital em Banda Passante: ASK, FSK e PSK
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Comunicação de Dados (CSECBJI.47)
+> - **Professor:** Rômulo / Paulo
+> - **Data Realizada:** 20/10/2026
+> - **Tópico Principal:** Modulação Digital em Banda Passante: ASK, FSK e PSK
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/comunicacao-de-dados/slides-aula-08.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Modulação Digital em Banda Passante: ASK, FSK e PSK](#-1-anotações-do-quadro-modulacao-digital-em-banda-passante-ask-fsk-e-psk)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-08-comunicacao-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-08-comunicacao-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Modulação Digital em Banda Passante: ASK, FSK e PSK
-
-### 📐 Fundamentação Teórica
-Conceitos de chaveamento de amplitude, frequência e fase (BPSK, QPSK); diagramas de constelação e taxa de bauds.
-
-No contexto de **Comunicação de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{comunicacao-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Modulação Digital em Banda Passante: ASK, FSK e PSK](#-anotações-do-quadro-modulação-digital-em-banda-passante-ask,-fsk-e-psk)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Modulação Digital em Banda Passante: ASK, FSK e PSK
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Modulação Digital em Banda Passante: ASK, FSK e PSK**:
+### 8.1 Modulação Digital em Banda Passante
+Para transmitir dados digitais através de canais passa-faixa (como o ar em RF ou linhas telefônicas com filtros), os bits modulam uma **onda portadora senoidal de alta frequência**:
+$$s(t) = A(t) \cos(2\pi f_c t + \phi(t))$$
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Modulação Digital em Banda Passante: ASK, FSK e PSK** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 8.2 Modulações Básicas por Chaveamento
+1. **ASK (Amplitude Shift Keying / OOK - On-Off Keying):**
+   - Varia a amplitude $A$ da portadora: '1' transmite portadora com amplitude $A$; '0' transmite amplitude zero.
+   - Muito sensível a variações de ruído e atenuação.
+2. **FSK (Frequency Shift Keying / BFSK):**
+   - Varia a frequência $f$: '1' transmite em $f_1 = f_c + \Delta f$; '0' transmite em $f_2 = f_c - \Delta f$.
+   - Alta imunidade a ruído, amplamente utilizado em rádio enlaces e telemetria.
+3. **PSK (Phase Shift Keying / BPSK / QPSK):**
+   - Varia a fase $\phi$ da portadora:
+     - **BPSK (Binary PSK, 1 bit/símbolo):** '0' $\to 0^\circ$ ($\cos(2\pi f_c t)$); '1' $\to 180^\circ$ ($-\cos(2\pi f_c t)$).
+     - **QPSK (Quadrature PSK, 2 bits/símbolo):** Quatro deslocamentos de fase ($45^\circ, 135^\circ, 225^\circ, 315^\circ$), dobrando a taxa de bits para a mesma largura de banda!
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Diagrama de Constelação e Eficiência Espectral
+
+O **Diagrama de Constelação** representa os símbolos de modulação no plano fasorial bidimensional (Eixo em Fase $I$ e Eixo em Quadratura $Q$):
+
+- **BPSK ($M=2$):** 2 pontos no eixo real ($+1$ e $-1$). Eficiência: $1\text{ bps/Hz}$.
+- **QPSK ($M=4$):** 4 pontos distribuídos nos quadrantes. Eficiência: $2\text{ bps/Hz}$.
+
+**Taxa de Transmissão ($R$) vs Taxa de Modulação ($S$):**
+$$R = S \cdot \log_2(M) = S \cdot n_{\text{bits}}$$
+Em QPSK, com taxa de símbolos de $10\text{ Mbaud}$, a taxa de dados é de $20\text{ Mbps}$!
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
 flowchart TD
-    A[Entrada: Modulação Digital em Banda Passante: ASK, FSK e PSK] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+    Bits[Bits Binários de Entrada] --> Demux[Separador de Bits I e Q]
+    Demux --> ModI["Multiplicador com cos(2π f_c t)"]
+    Demux --> ModQ["Multiplicador com sin(2π f_c t)"]
+    ModI & ModQ --> Somador[Somador de Portadoras em Quadratura]
+    Somador --> QPSKOut[Sinal QPSK Modulado para Antena]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Modulação Digital em Banda Passante: ASK, FSK e PSK** | Aplicação direta de Comunicação de Dados | Verificar restrições de contorno |
+| **Diferença entre BPSK e QPSK** | QPSK tem o dobro da taxa de bits do BPSK para a MESMA largura de banda de canal e com a mesma probabilidade de erro de bit ($BER$). | É a modulação preferida em satélites e comunicações móveis. |
+| **Distância Euclidiana na Constelação** | Quanto mais distantes os pontos no diagrama de constelação, menor a probabilidade de o ruído causar erros de decodificação. | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Modulação Digital em Banda Passante: ASK, FSK e PSK**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Desenhe o diagrama de constelação para o BPSK e para o QPSK com mapeamento de código Gray entre símbolos vizinhos.
+2. Calcule a largura de banda de canal necessária para transmitir $50	ext{ Mbps}$ utilizando modulação QPSK com fator de roll-off $lpha = 0.25$.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-07-avaliacao-teorica-p1">Aula Anterior</a></b></div>

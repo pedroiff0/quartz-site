@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-12-etica-na-inteligencia-artificial-e-automacao
 title: "Aula 12: Ética na Inteligência Artificial e Automação — Filosofia da Ciência e Tecnologia"
 created: '2026-11-18'
 modified: '2026-11-18'

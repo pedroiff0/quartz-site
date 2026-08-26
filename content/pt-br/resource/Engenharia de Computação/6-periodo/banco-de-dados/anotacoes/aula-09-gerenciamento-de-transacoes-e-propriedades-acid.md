@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-09-gerenciamento-de-transacoes-e-propriedades-acid
 title: "Aula 09: Gerenciamento de Transações e Propriedades ACID — Banco de Dados"
-created: '2026-10-27'
-modified: '2026-10-27'
+created: 2026-10-27T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,108 @@ conteudo: "Atomicidade, Consistência, Isolamento e Durabilidade; anomalias de c
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-10-controle-de-concorrencia-bloqueio-em-duas-fases-2pl-e-timestamps">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Banco de Dados (`CSECBJI.44`)
-> - **Docente Responsável:** Sérgio
-> - **Data & Horário:** 27/10/2026 (Terça-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Gerenciamento de Transações e Propriedades ACID
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Banco de Dados (CSECBJI.44)
+> - **Professor:** Sérgio
+> - **Data Realizada:** 27/10/2026
+> - **Tópico Principal:** Gerenciamento de Transações e Propriedades ACID
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/banco-de-dados/slides-aula-09.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Gerenciamento de Transações e Propriedades ACID](#-1-anotações-do-quadro-gerenciamento-de-transacoes-e-propriedades-acid)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-09-banco-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-09-banco-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Gerenciamento de Transações e Propriedades ACID
-
-### 📐 Fundamentação Teórica
-Atomicidade, Consistência, Isolamento e Durabilidade; anomalias de concorrência (leitura suja, fantasma, perda de atualização).
-
-No contexto de **Banco de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{banco-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Gerenciamento de Transações e Propriedades ACID](#-anotações-do-quadro-gerenciamento-de-transações-e-propriedades-acid)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Gerenciamento de Transações e Propriedades ACID
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Gerenciamento de Transações e Propriedades ACID**:
+### 9.1 Conceito Formal de Transação
+Uma **Transação** é uma unidade lógica de execução atômica composta por um conjunto de operações de leitura e escrita no banco de dados (`BEGIN TRANSACTION ... COMMIT / ROLLBACK`).
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 9.2 As Propriedades ACID
+- **Atomicidade (*Atomicity*):** "Tudo ou nada". Ou todas as operações da transação são efetivadas com sucesso, ou nenhuma modificação persiste.
+- **Consistência (*Consistency*):** A transação leva o banco de um estado válido a outro estado válido, respeitando todas as regras de integridade e restrições.
+- **Isolamento (*Isolation*):** A execução concorrente de múltiplas transações não deve interferir mutuamente, produzindo um resultado idêntico a uma execução serial.
+- **Durabilidade (*Durability*):** Uma vez confirmada (*COMMIT*), as alterações persistem no banco mesmo em caso de pane do servidor ou falha de energia.
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Gerenciamento de Transações e Propriedades ACID** antes de simplificar as equações na prova!
+### 9.3 Anomalias de Concorrência e Níveis de Isolamento ANSI SQL
 
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+| Nível de Isolamento | Leitura Suja (*Dirty Read*) | Leitura Não-Repetível | Leitura Fantasma (*Phantom*) |
+| :--- | :--- | :--- | :--- |
+| **Read Uncommitted** | Possível | Possível | Possível |
+| **Read Committed** (Padrão PG) | **Impedida** | Possível | Possível |
+| **Repeatable Read** | **Impedida** | **Impedida** | Possível |
+| **Serializable** | **Impedida** | **Impedida** | **Impedida** |
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
 
-```mermaid
-flowchart TD
-    A[Entrada: Gerenciamento de Transações e Propriedades ACID] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+### ✏️ Simulação de Transferência Bancária com Rollback Automático
+
+```sql
+BEGIN;
+
+-- 1. Debita conta origem
+UPDATE conta SET saldo = saldo - 500.00 WHERE id = 1;
+
+-- 2. Credita conta destino
+UPDATE conta SET saldo = saldo + 500.00 WHERE id = 2;
+
+-- Validação de integridade: se saldo ficar negativo, aborta
+DO $$
+BEGIN
+    IF (SELECT saldo FROM conta WHERE id = 1) < 0 THEN
+        RAISE EXCEPTION 'Saldo insuficiente para transferência!';
+    END IF;
+END $$;
+
+COMMIT;
+-- Em caso de erro em qualquer instrução, o SGBD executa ROLLBACK automaticamente.
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
-| :--- | :--- | :--- |
-| **Gerenciamento de Transações e Propriedades ACID** | Aplicação direta de Banco de Dados | Verificar restrições de contorno |
+```mermaid
+stateDiagram-v2
+    [*] --> Ativa : BEGIN
+    Ativa --> Parcialmente_Committed : Última instrução concluída
+    Parcialmente_Committed --> Committed : Flush no log WAL realizado
+    Ativa --> Com_Falha : Erro de integridade / Abort
+    Parcialmente_Committed --> Com_Falha : Falha de escrita
+    Com_Falha --> Abortada : ROLLBACK (Desfaz alterações)
+    Committed --> [*]
+    Abortada --> [*]
+```
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Gerenciamento de Transações e Propriedades ACID**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
+| :--- | :--- | :--- |
+| **Leitura Suja vs Leitura Fantasma** | Leitura Suja lê dados não-comitados que podem sofrer rollback; Leitura Fantasma ocorre quando uma transação relê um intervalo e encontra NOVAS linhas inseridas por outra transação comitada. | Repeatable Read em PostgreSQL implementa Snapshot Isolation que previne até fantasmas. |
+| **Auto-Commit** | No PostgreSQL interativo, comandos fora de bloco `BEGIN ... COMMIT` operam em modo auto-commit implícito. | Aplicação prática direta |
+
+---
+
+## 📝 Dúvidas & Exercícios Recomendados para Casa
+
+1. Descreva detalhadamente o fenômeno de Leitura Não-Repetível (*Non-Repeatable Read*) com um exemplo de linha do tempo entre duas transações $T_1$ e $T_2$.
+2. Explique como o mecanismo de MVCC (*Multi-Version Concurrency Control*) permite leituras não-bloqueantes em PostgreSQL.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-08-processamento-e-otimizacao-de-consultas">Aula Anterior</a></b></div>

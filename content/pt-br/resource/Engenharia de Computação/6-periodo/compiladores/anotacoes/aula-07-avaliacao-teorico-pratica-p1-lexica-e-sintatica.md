@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-07-avaliacao-teorico-pratica-p1-lexica-e-sintatica
 title: "Aula 07: Avaliação Teórico-Prática P1 (Léxica e Sintática) — Compiladores"
 created: '2026-10-16'
 modified: '2026-10-16'

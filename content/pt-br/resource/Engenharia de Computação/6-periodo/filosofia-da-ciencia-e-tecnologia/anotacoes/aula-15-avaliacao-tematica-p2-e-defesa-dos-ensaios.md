@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-15-avaliacao-tematica-p2-e-defesa-dos-ensaios
 title: "Aula 15: Avaliação Temática P2 e Defesa dos Ensaios — Filosofia da Ciência e Tecnologia"
 created: '2026-12-09'
 modified: '2026-12-09'

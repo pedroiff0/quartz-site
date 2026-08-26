@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-00-apresentacao-da-disciplina-ementario-e-criterios
 title: "Aula 00: Apresentação da Disciplina, Ementário e Critérios — Filosofia da Ciência e Tecnologia"
 created: '2026-08-26'
 modified: '2026-08-26'

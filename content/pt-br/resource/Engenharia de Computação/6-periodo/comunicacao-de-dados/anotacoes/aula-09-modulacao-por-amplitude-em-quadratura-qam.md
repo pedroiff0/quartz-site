@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-09-modulacao-por-amplitude-em-quadratura-qam
 title: "Aula 09: Modulação por Amplitude em Quadratura (QAM) — Comunicação de Dados"
-created: '2026-10-27'
-modified: '2026-10-27'
+created: 2026-10-27T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,91 @@ conteudo: "Constelações 16-QAM, 64-QAM e 256-QAM, eficiência espectral em bps
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-10-transmissao-sincrona-vs-assincrona-e-interfaceamento-fisico">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Comunicação de Dados (`CSECBJI.47`)
-> - **Docente Responsável:** Rômulo / Paulo
-> - **Data & Horário:** 27/10/2026 (Terça-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Modulação por Amplitude em Quadratura (QAM)
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Comunicação de Dados (CSECBJI.47)
+> - **Professor:** Rômulo / Paulo
+> - **Data Realizada:** 27/10/2026
+> - **Tópico Principal:** Modulação por Amplitude em Quadratura (QAM)
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/comunicacao-de-dados/slides-aula-09.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Modulação por Amplitude em Quadratura (QAM)](#-1-anotações-do-quadro-modulacao-por-amplitude-em-quadratura-qam)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-09-comunicacao-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-09-comunicacao-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Modulação por Amplitude em Quadratura (QAM)
-
-### 📐 Fundamentação Teórica
-Constelações 16-QAM, 64-QAM e 256-QAM, eficiência espectral em bps/Hz e modems de alta velocidade.
-
-No contexto de **Comunicação de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{comunicacao-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Modulação por Amplitude em Quadratura (QAM)](#-anotações-do-quadro-modulação-por-amplitude-em-quadratura-qam)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Modulação por Amplitude em Quadratura (QAM)
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Modulação por Amplitude em Quadratura (QAM)**:
+### 9.1 Modulação por Amplitude em Quadratura (QAM)
+O **QAM (*Quadrature Amplitude Modulation*)** combina simultaneamente a modulação em amplitude (ASK) e a modulação em fase (PSK) sobre duas portadoras ortogonais defasadas de $90^\circ$ ($\cos(2\pi f_c t)$ e $\sin(2\pi f_c t)$):
+$$s(t) = I(t) \cos(2\pi f_c t) + Q(t) \sin(2\pi f_c t)$$
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 9.2 Constelações QAM de Alta Ordem
+- **16-QAM:** $M=16$ símbolos ($4\text{ bits por símbolo}$), organizado em grade 4x4.
+- **64-QAM:** $M=64$ símbolos ($6\text{ bits por símbolo}$), padrão Wi-Fi 5 e TV Digital.
+- **256-QAM:** $M=256$ símbolos ($8\text{ bits por símbolo}$), padrão DOCSIS 3.1 e Wi-Fi 6.
+- **1024-QAM / 4096-QAM:** Utilizado em enlaces de micro-ondas de altíssima capacidade e Wi-Fi 7.
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Modulação por Amplitude em Quadratura (QAM)** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 9.3 Trade-off: Eficiência Espectral vs Tolerância ao Ruído
+- **Vantagem:** Eficiências espectrais altíssimas (ex: 256-QAM atinge $8\text{ bps/Hz}$).
+- **Desvantagem:** Os pontos da constelação ficam extremamente próximos entre si, exigindo canais com altíssimo $\text{SNR}$ ($> 30\text{ dB}$) para evitar erros de símbolo.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Cálculo de Vazão em Wi-Fi 6 com 1024-QAM
+
+**Parâmetros de Canal:**
+- Largura de Banda do Canal: $B = 80\text{ MHz}$
+- Subportadoras OFDM de dados: $980$ subportadoras úteis
+- Modulação: 1024-QAM ($M=1024 \implies \log_2(1024) = 10\text{ bits por símbolo}$)
+- Tempo de Símbolo OFDM com Intervalo de Guarda: $T_s = 13.6\ \mu\text{s}$
+
+**Cálculo da Taxa de Dados na Camada Física:**
+$$\text{Bits por Símbolo OFDM} = 980 \times 10 = 9.800\text{ bits}$$
+$$\text{Taxa de Transferência} = \frac{9.800\text{ bits}}{13.6 \times 10^{-6}\text{ s}} \approx 720.58\text{ Mbps por stream espacial!}$$
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Modulação por Amplitude em Quadratura (QAM)] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+graph TD
+    Const["Grade 16-QAM: 16 Pontos"]
+    Q1["Quadrante 1 (4 pontos: 00xx)"]
+    Q2["Quadrante 2 (4 pontos: 01xx)"]
+    Q3["Quadrante 3 (4 pontos: 11xx)"]
+    Q4["Quadrante 4 (4 pontos: 10xx)"]
+    Const --> Q1 & Q2 & Q3 & Q4
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Modulação por Amplitude em Quadratura (QAM)** | Aplicação direta de Comunicação de Dados | Verificar restrições de contorno |
+| **Mapeamento Gray na Constelação QAM** | Pontos vizinhos no diagrama de constelação devem diferir em apenas 1 bit. Se o ruído deslocar o símbolo para o ponto adjacente, ocorrerá erro de apenas 1 bit em vez de 4 ou 8 bits. | Crucial para a eficiência dos códigos corretores de erro FEC. |
+| **Adaptative Modulation and Coding (AMC)** | Sistemas modernos (4G/5G/Wi-Fi) ajustam a modulação dinamicamente: usam 256-QAM perto do roteador e recuam para QPSK longe. | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Modulação por Amplitude em Quadratura (QAM)**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Quantos bits são transmitidos em cada símbolo em uma modulação 64-QAM?
+2. Explique por que um enlace de 1024-QAM não funciona adequadamente na presença de interferência de ruído com SNR moderado.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-08-modulacao-digital-em-banda-passante-ask-fsk-e-psk">Aula Anterior</a></b></div>

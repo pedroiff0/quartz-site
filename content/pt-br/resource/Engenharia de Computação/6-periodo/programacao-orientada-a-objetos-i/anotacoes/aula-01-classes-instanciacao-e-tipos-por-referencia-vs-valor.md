@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-classes-instanciacao-e-tipos-por-referencia-vs-valor
 title: "Aula 01: Classes, Instanciação e Tipos por Referência vs Valor — Programação Orientada a Objetos I"
 created: '2026-09-02'
 modified: '2026-09-02'

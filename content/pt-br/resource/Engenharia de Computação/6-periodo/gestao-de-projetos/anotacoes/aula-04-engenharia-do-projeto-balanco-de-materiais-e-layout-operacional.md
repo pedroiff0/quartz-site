@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-04-engenharia-do-projeto-balanco-de-materiais-e-layout-operacional
 title: "Aula 04: Engenharia do Projeto, Balanço de Materiais e Layout Operacional — Gestão de Projetos"
 created: '2026-09-24'
 modified: '2026-09-24'

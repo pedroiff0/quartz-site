@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-08-avaliacao-teorico-pratica-p1
 title: "Aula 08: Avaliação Teórico-Prática P1 — Eletrônica Digital"
-created: '2026-10-19'
-modified: '2026-10-19'
+created: 2026-10-19T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,82 @@ conteudo: "Avaliação formal sobre álgebra booleana, simplificação por Karna
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-09-elementos-de-memoria-latches-sr-e-d-com-habilitacao">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Eletrônica Digital (`CSECBJI.46`)
-> - **Docente Responsável:** Rogério
-> - **Data & Horário:** 19/10/2026 (Segunda-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Avaliação Teórico-Prática P1
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Eletrônica Digital (CSECBJI.46)
+> - **Professor:** Rogério
+> - **Data Realizada:** 19/10/2026
+> - **Tópico Principal:** Avaliação Teórico-Prática P1
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/eletronica-digital/slides-aula-08.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Avaliação Teórico-Prática P1](#-1-anotações-do-quadro-avaliacao-teorico-pratica-p1)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-08-eletronica-digital|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-08-eletronica-digital|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Avaliação Teórico-Prática P1
-
-### 📐 Fundamentação Teórica
-Avaliação formal sobre álgebra booleana, simplificação por Karnaugh e projeto de circuitos combinacionais.
-
-No contexto de **Eletrônica Digital**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{eletronica-digital}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Avaliação Teórico-Prática P1](#-anotações-do-quadro-avaliação-teórico-prática-p1)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Avaliação Teórico-Prática P1
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Avaliação Teórico-Prática P1**:
-
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Avaliação Teórico-Prática P1** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 8.1 Síntese Conceitual para Avaliação Parcial P1
+Revisão dos tópicos de Circuitos Lógicos Combinacionais:
+1. **Sistemas de Numeração:** Conversões de base, Complemento de 2, overflow e códigos BCD/Gray.
+2. **Álgebra Booleana:** Postulados de Huntington, teoremas de De Morgan e simplificação algébrica.
+3. **Formas Canônicas e Universalidade:** SOP, POS e implementação exclusiva com portas NAND e NOR.
+4. **Minimização com Karnaugh:** Mapas de 2 a 5 variáveis, identificação de EPIs e condições *Don't Care*.
+5. **Módulos Combinacionais MSI:** Meio-Somador, Somador Completo, MUX, DEMUX, Codificadores de prioridade e Decodificadores.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Resolução de Questão de Prova: Projeto de Circuito de Controle Industrial
+
+**Enunciado:** Uma esteira transportadora possui 3 sensores de segurança $S_1, S_2, S_3$. O alarme $A$ deve disparar se pelo menos dois sensores forem ativados simultaneamente.
+- Tabela-Verdade: $A(S_1, S_2, S_3) = \sum m(3, 5, 6, 7)$.
+- Mapa de Karnaugh 2x4:
+  - Grupo 1 ($m_3, m_7$): $S_2 S_3$
+  - Grupo 2 ($m_5, m_7$): $S_1 S_3$
+  - Grupo 3 ($m_6, m_7$): $S_1 S_2$
+- **Equação Mínima:** $A = S_1 S_2 + S_1 S_3 + S_2 S_3$.
+- **Implementação com Portas NAND:**
+  $$A = \overline{\overline{S_1 S_2} \cdot \overline{S_1 S_3} \cdot \overline{S_2 S_3}}$$
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
 flowchart TD
-    A[Entrada: Avaliação Teórico-Prática P1] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+    P1[Prova P1: Eletrônica Digital] --> Q1[Bases e Complemento de 2: 25 pts]
+    P1 --> Q2[Álgebra e Karnaugh: 40 pts]
+    P1 --> Q3[Circuitos Aritméticos e MUX: 35 pts]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Avaliação Teórico-Prática P1** | Aplicação direta de Eletrônica Digital | Verificar restrições de contorno |
+| **Checklist de Prova P1** | 1. Verifique se o mapa de Karnaugh tem todas as potências de 2 corretas; 2. Não esqueça do bit de sinal em complemento de 2; 3. Use parênteses ao aplicar De Morgan. | Atenção ao tempo de prova! |
+| **Economia de Portas** | Procure fatores comuns para compartilhar portas lógicas entre múltiplas saídas. | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Avaliação Teórico-Prática P1**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Revise todos os exercícios das listas 1 a 7.
+2. Implemente o circuito de alarme industrial anterior no simulador Logisim e valide todas as 8 combinações da tabela-verdade.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-07-multiplexadores-demultiplexadores-codificadores-e-decodificadores">Aula Anterior</a></b></div>

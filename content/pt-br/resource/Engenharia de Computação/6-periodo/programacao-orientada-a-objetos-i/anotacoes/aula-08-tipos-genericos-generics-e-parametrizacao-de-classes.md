@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-08-tipos-genericos-generics-e-parametrizacao-de-classes
 title: "Aula 08: Tipos Genéricos (Generics) e Parametrização de Classes — Programação Orientada a Objetos I"
 created: '2026-10-21'
 modified: '2026-10-21'

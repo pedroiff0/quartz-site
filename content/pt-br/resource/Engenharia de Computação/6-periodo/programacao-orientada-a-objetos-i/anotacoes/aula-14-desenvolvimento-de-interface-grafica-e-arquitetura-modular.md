@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-14-desenvolvimento-de-interface-grafica-e-arquitetura-modular
 title: "Aula 14: Desenvolvimento de Interface Gráfica e Arquitetura Modular — Programação Orientada a Objetos I"
 created: '2026-12-02'
 modified: '2026-12-02'

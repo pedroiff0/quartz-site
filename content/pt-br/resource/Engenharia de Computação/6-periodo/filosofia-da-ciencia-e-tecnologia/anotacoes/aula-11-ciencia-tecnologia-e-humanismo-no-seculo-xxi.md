@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-11-ciencia-tecnologia-e-humanismo-no-seculo-xxi
 title: "Aula 11: Ciência, Tecnologia e Humanismo no Século XXI — Filosofia da Ciência e Tecnologia"
 created: '2026-11-11'
 modified: '2026-11-11'

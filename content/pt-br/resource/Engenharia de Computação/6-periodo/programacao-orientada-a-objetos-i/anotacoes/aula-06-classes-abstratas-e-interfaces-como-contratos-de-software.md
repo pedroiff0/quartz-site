@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-06-classes-abstratas-e-interfaces-como-contratos-de-software
 title: "Aula 06: Classes Abstratas e Interfaces como Contratos de Software — Programação Orientada a Objetos I"
 created: '2026-10-07'
 modified: '2026-10-07'

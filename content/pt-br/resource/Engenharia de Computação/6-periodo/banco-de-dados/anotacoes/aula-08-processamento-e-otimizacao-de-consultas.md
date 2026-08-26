@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-08-processamento-e-otimizacao-de-consultas
 title: "Aula 08: Processamento e Otimização de Consultas — Banco de Dados"
-created: '2026-10-20'
-modified: '2026-10-20'
+created: 2026-10-20T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,99 @@ conteudo: "Geração de planos de execução (EXPLAIN ANALYZE), árvores de oper
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-09-gerenciamento-de-transacoes-e-propriedades-acid">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Banco de Dados (`CSECBJI.44`)
-> - **Docente Responsável:** Sérgio
-> - **Data & Horário:** 20/10/2026 (Terça-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Processamento e Otimização de Consultas
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Banco de Dados (CSECBJI.44)
+> - **Professor:** Sérgio
+> - **Data Realizada:** 20/10/2026
+> - **Tópico Principal:** Processamento e Otimização de Consultas
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/banco-de-dados/slides-aula-08.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Processamento e Otimização de Consultas](#-1-anotações-do-quadro-processamento-e-otimizacao-de-consultas)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-08-banco-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-08-banco-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Processamento e Otimização de Consultas
-
-### 📐 Fundamentação Teórica
-Geração de planos de execução (EXPLAIN ANALYZE), árvores de operadores relacionais, heurísticas e otimização por custo.
-
-No contexto de **Banco de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{banco-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Processamento e Otimização de Consultas](#-anotações-do-quadro-processamento-e-otimização-de-consultas)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Processamento e Otimização de Consultas
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Processamento e Otimização de Consultas**:
+### 8.1 Fases do Processamento de Consultas
+O processador de consultas (*Query Engine*) converte uma instrução declarativa em SQL em um plano físico de execução executável:
+```text
+SQL Text ──▶ Parser & Catalog ──▶ Árvore Álgebrica ──▶ Otimizador de Consultas ──▶ Plano de Execução Físico ──▶ Motor de Execução
+```
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 8.2 Algoritmos de Junção Física
+1. **Nested Loop Join:** Para cada tupla da tabela externa, varre a tabela interna. Excelente se a tabela interna possuir índice na chave de junção (*Index Nested Loop*).
+2. **Hash Join:** Constrói uma tabela hash na memória com a menor relação (*Build Phase*) e varre a relação maior buscando correspondências (*Probe Phase*). Ideal para relações grandes não ordenadas.
+3. **Sort-Merge Join:** Ordena ambas as relações pelas chaves de junção e realiza uma varredura paralela linear. Ideal quando os dados já estão ordenados por índice B+.
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Processamento e Otimização de Consultas** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 8.3 Otimização Baseada em Custo (CBO)
+O otimizador calcula o custo estimado de CPU e E/S usando estatísticas coletadas no catálogo do banco (histogramas, número de páginas, cardinalidade).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Análise de Plano de Execução com `EXPLAIN ANALYZE` no PostgreSQL
+
+```sql
+EXPLAIN ANALYZE
+SELECT a.nome, m.nota 
+FROM aluno a 
+JOIN matricula m ON a.matricula = m.matricula 
+WHERE a.cra > 8.5;
+```
+
+**Interpretação da Saída:**
+- `Hash Join (cost=12.50..45.80 rows=120 width=64) (actual time=0.082..0.345 rows=115 loops=1)`
+  - `Hash Cond: (m.matricula = a.matricula)`
+  - `-> Seq Scan on matricula m ...`
+  - `-> Hash ...`
+    - `-> Bitmap Heap Scan on aluno a ...`
+      - `Recheck Cond: (cra > 8.5)`
+      - `-> Bitmap Index Scan on idx_aluno_cra ...`
+
+O otimizador utilizou busca no índice B+ para filtrar alunos com CRA alto e combinou com matrículas via Hash Join em apenas 0.345 ms!
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
 flowchart TD
-    A[Entrada: Processamento e Otimização de Consultas] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+    ScanM[Seq Scan em Matricula] --> HJ[Hash Join]
+    ScanA[Bitmap Index Scan em idx_aluno_cra] --> BH[Bitmap Heap Scan em Aluno]
+    BH --> H[Hash Table na RAM]
+    H --> HJ
+    HJ --> Out[Tuplas de Saída]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Processamento e Otimização de Consultas** | Aplicação direta de Banco de Dados | Verificar restrições de contorno |
+| **Seq Scan vs Index Scan** | Se a consulta filtrar mais de 15% a 20% das linhas de uma tabela, o otimizador prefere um Sequential Scan direto, pois acessos aleatórios no índice tornam-se mais lentos que leitura sequencial em bloco. | Ter um índice não garante que ele será usado. |
+| **Atualização de Estatísticas** | Execute `ANALYZE nome_tabela;` regularmente para manter os histogramas de estatísticas calibrados. | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Processamento e Otimização de Consultas**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Explique a diferença funcional e de complexidade entre o Nested Loop Join e o Hash Join.
+2. Utilize o `EXPLAIN ANALYZE` em um banco local e compare o plano de uma consulta antes e após a criação de um índice.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-07-avaliacao-teorico-pratica-p1-algebra-sql-e-normalizacao">Aula Anterior</a></b></div>

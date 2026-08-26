@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-00-apresentacao-da-disciplina-ementario-e-alinhamento-metodologico
 title: "Aula 00: Apresentação da Disciplina, Ementário e Alinhamento Metodológico — Gestão de Projetos"
 created: '2026-08-27'
 modified: '2026-08-27'

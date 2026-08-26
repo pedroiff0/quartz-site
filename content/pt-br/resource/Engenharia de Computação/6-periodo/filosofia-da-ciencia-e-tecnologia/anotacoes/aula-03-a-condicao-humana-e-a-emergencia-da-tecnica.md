@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-03-a-condicao-humana-e-a-emergencia-da-tecnica
 title: "Aula 03: A Condição Humana e a Emergência da Técnica — Filosofia da Ciência e Tecnologia"
 created: '2026-09-16'
 modified: '2026-09-16'

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-14-monitoramento-e-controle-analise-do-valor-agregado-eva-e-encerramento
 title: "Aula 14: Monitoramento e Controle: Análise do Valor Agregado (EVA) e Encerramento — Gestão de Projetos"
 created: '2026-12-03'
 modified: '2026-12-03'

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-08-avaliacao-tematica-p1-debates-epistemologicos
 title: "Aula 08: Avaliação Temática P1: Debates Epistemológicos — Filosofia da Ciência e Tecnologia"
 created: '2026-10-21'
 modified: '2026-10-21'

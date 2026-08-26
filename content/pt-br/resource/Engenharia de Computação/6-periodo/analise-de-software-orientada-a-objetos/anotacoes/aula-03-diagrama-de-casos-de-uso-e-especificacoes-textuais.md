@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-03-diagrama-de-casos-de-uso-e-especificacoes-textuais
 title: "Aula 03: Diagrama de Casos de Uso e Especificações Textuais — Análise de Software Orientada a Objetos"
-created: '2026-09-16'
-modified: '2026-09-16'
+created: 2026-09-16T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,94 @@ conteudo: "Construção de diagramas de casos de uso (UML), relacionamentos incl
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-04-modelagem-estrutural-diagramas-de-classes-e-pacotes">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Análise de Software Orientada a Objetos (`CSECBJI.42`)
-> - **Docente Responsável:** Bruno
-> - **Data & Horário:** 16/09/2026 (Quarta-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Diagrama de Casos de Uso e Especificações Textuais
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Análise de Software Orientada a Objetos (CSECBJI.42)
+> - **Professor:** Bruno
+> - **Data Realizada:** 16/09/2026
+> - **Tópico Principal:** Diagrama de Casos de Uso e Especificações Textuais
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/analise-de-software-orientada-a-objetos/slides-aula-03.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Diagrama de Casos de Uso e Especificações Textuais](#-1-anotações-do-quadro-diagrama-de-casos-de-uso-e-especificacoes-textuais)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-03-analise-de-software-orientada-a-objetos|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-03-analise-de-software-orientada-a-objetos|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Diagrama de Casos de Uso e Especificações Textuais
-
-### 📐 Fundamentação Teórica
-Construção de diagramas de casos de uso (UML), relacionamentos include, extend e generalização, e escrita de cenários expandidos.
-
-No contexto de **Análise de Software Orientada a Objetos**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{analise-de-software-orientada-a-objetos}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Diagrama de Casos de Uso e Especificações Textuais](#-anotações-do-quadro-diagrama-de-casos-de-uso-e-especificações-textuais)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Diagrama de Casos de Uso e Especificações Textuais
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Diagrama de Casos de Uso e Especificações Textuais**:
+### 3.1 Diagramas de Casos de Uso (UML)
+O Diagrama de Casos de Uso modela as funcionalidades do sistema sob a perspectiva dos atores externos:
+- **Ator:** Papel desempenhado por um usuário humano, dispositivo de hardware ou sistema externo que interage com o sistema.
+- **Caso de Uso:** Sequência completa de ações executadas pelo sistema que produz um resultado observável de valor para o ator.
+- **Fronteira do Sistema (*System Boundary*):** Caixa retangular delimitando o escopo automatizado do software.
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Diagrama de Casos de Uso e Especificações Textuais** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 3.2 Relacionamentos entre Casos de Uso
+1. **Inclusão (`<<include>>`):** Comportamento compartilhado e obrigatório extraído de múltiplos casos de uso (o caso de uso base **sempre executa** o caso incluído). A seta aponta do caso base para o incluído.
+2. **Extensão (`<<extend>>`):** Comportamento opcional ou condicional que é inserido no caso base em pontos de extensão específicos (*Extension Points*). A seta aponta do caso estendido para o caso base.
+3. **Generalização / Especialização:** Herança de comportamento entre atores ou entre casos de uso.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Especificação Textual Expandida do Caso de Uso: "Realizar Saque Bancário"
+
+- **Caso de Uso:** UC01 - Realizar Saque Bancário
+- **Ator Principal:** Correntista
+- **Precondições:** O correntista deve estar autenticado com cartão e senha válidos.
+- **Garantia de Sucesso (Pós-condições):** Dinheiro entregue, saldo da conta debitado e transação registrada em log de auditoria.
+
+**Fluxo Principal (Cenário Feliz):**
+1. O correntista seleciona a opção "Saque" e informa o valor desejado.
+2. O sistema verifica se o valor é múltiplo das cédulas disponíveis no dispensador.
+3. O sistema inclui o caso de uso `<<include>>` UC05 - "Verificar Saldo e Limite da Conta".
+4. O sistema debita o valor do saldo da conta corrente.
+5. O sistema comanda a liberação das cédulas físicas no dispensador.
+6. O sistema emite o comprovante impresso da operação e finaliza a sessão.
+
+**Fluxos Alternativos e Exceções:**
+- **3a. Saldo Insuficiente:** O sistema informa mensagem de saldo insuficiente e retorna ao menu inicial sem debitar valores.
+- **5a. Falha Mecânica no Dispensador:** O sistema reverte o débito na conta (*Rollback*), registra a ocorrência e encerra com mensagem de erro mecânico.
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Diagrama de Casos de Uso e Especificações Textuais] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+flowchart LR
+    User((Correntista)) --> UC1[UC01: Realizar Saque]
+    User --> UC2[UC02: Consultar Saldo]
+    
+    UC1 -->|<<include>>| UC5[UC05: Verificar Saldo e Limite]
+    UC1 -.->|<<extend>>| UC6[UC06: Enviar Notificação SMS de Alerta]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Diagrama de Casos de Uso e Especificações Textuais** | Aplicação direta de Análise de Software Orientada a Objetos | Verificar restrições de contorno |
+| **Direção das Setas de Include e Extend** | No `<<include>>`, a seta aponta do Pai para o Filho (o pai chama o filho); No `<<extend>>`, a seta aponta do Filho para o Pai (o filho estende o pai!). | A pegadinha de UML mais frequente em provas. |
+| **Casos de Uso NÃO São Passos de Algoritmo** | Não crie casos de uso atômicos inúteis como 'Digitar Senha' ou 'Clicar no Botão'. Um caso de uso deve representar uma meta completa de negócio do ator. | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Diagrama de Casos de Uso e Especificações Textuais**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Modele o Diagrama de Casos de Uso completo para um sistema de biblioteca universitária (empréstimos, devoluções, reservas, multas e autenticação).
+2. Escreva a especificação textual expandida completa para o caso de uso 'Realizar Empréstimo de Livro' incluindo fluxos alternativos.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-02-engenharia-de-requisitos-e-modelagem-de-negocio">Aula Anterior</a></b></div>

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-05-analise-sintatica-descendente-ll-1-e-parser-por-descida-recursiva
 title: "Aula 05: Análise Sintática Descendente: LL(1) e Parser por Descida Recursiva — Compiladores"
 created: '2026-10-02'
 modified: '2026-10-02'

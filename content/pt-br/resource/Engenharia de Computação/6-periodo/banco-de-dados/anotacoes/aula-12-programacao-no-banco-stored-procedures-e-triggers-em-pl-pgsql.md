@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-12-programacao-no-banco-stored-procedures-e-triggers-em-pl-pgsql
 title: "Aula 12: Programação no Banco: Stored Procedures e Triggers em PL/pgSQL — Banco de Dados"
-created: '2026-11-17'
-modified: '2026-11-17'
+created: 2026-11-17T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,113 @@ conteudo: "Criação de funções PL/pgSQL, gatilhos de linha/instrução (BEFOR
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-13-seguranca-visoes-materializadas-e-controle-de-acesso">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Banco de Dados (`CSECBJI.44`)
-> - **Docente Responsável:** Sérgio
-> - **Data & Horário:** 17/11/2026 (Terça-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Programação no Banco: Stored Procedures e Triggers em PL/pgSQL
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Banco de Dados (CSECBJI.44)
+> - **Professor:** Sérgio
+> - **Data Realizada:** 17/11/2026
+> - **Tópico Principal:** Programação no Banco: Stored Procedures e Triggers em PL/pgSQL
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/banco-de-dados/slides-aula-12.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Programação no Banco: Stored Procedures e Triggers em PL/pgSQL](#-1-anotações-do-quadro-programacao-no-banco-stored-procedures-e-triggers-em-pl-pgsql)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-12-banco-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-12-banco-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Programação no Banco: Stored Procedures e Triggers em PL/pgSQL
-
-### 📐 Fundamentação Teórica
-Criação de funções PL/pgSQL, gatilhos de linha/instrução (BEFORE/AFTER) e cursores.
-
-No contexto de **Banco de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{banco-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Programação no Banco: Stored Procedures e Triggers em PL/pgSQL](#-anotações-do-quadro-programação-no-banco-stored-procedures-e-triggers-em-pl/pgsql)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Programação no Banco: Stored Procedures e Triggers em PL/pgSQL
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Programação no Banco: Stored Procedures e Triggers em PL/pgSQL**:
+### 12.1 Programação Procedural no Banco: PL/pgSQL
+O PL/pgSQL é uma linguagem procedural que estende o SQL com estruturas de controle de fluxo, variáveis, laços e tratamento estruturado de exceções, executando diretamente dentro do processo do SGBD (eliminando o tráfego de rede entre aplicação e banco).
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Programação no Banco: Stored Procedures e Triggers em PL/pgSQL** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 12.2 Gatilhos (*Triggers*)
+Um **Trigger** é um procedimento disparado automaticamente pelo SGBD quando ocorre um evento de manipulação de dados (`INSERT`, `UPDATE`, `DELETE`) em uma tabela ou visão:
+- **Momento:** `BEFORE` (validação e transformação antes da gravação) ou `AFTER` (auditoria, sincronização de réplicas e agregações).
+- **Nível:** `FOR EACH ROW` (executado para cada linha afetada, com acesso às variáveis de registro `NEW` e `OLD`) ou `FOR EACH STATEMENT` (executado uma única vez por comando SQL).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
 
-```mermaid
-flowchart TD
-    A[Entrada: Programação no Banco: Stored Procedures e Triggers em PL/pgSQL] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+### ✏️ Implementação de Trigger de Auditoria e Validação de Estoque
+
+```sql
+-- 1. Criação da tabela de auditoria
+CREATE TABLE auditoria_preco (
+    id_audit SERIAL PRIMARY KEY,
+    prod_id INT NOT NULL,
+    preco_antigo NUMERIC(10,2),
+    preco_novo NUMERIC(10,2),
+    alterado_por VARCHAR(50),
+    data_alteracao TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- 2. Criação da função do trigger
+CREATE OR REPLACE FUNCTION trg_auditar_preco_func()
+RETURNS TRIGGER AS $$
+BEGIN
+    -- Validação de integridade
+    IF NEW.preco_unit < 0 THEN
+        RAISE EXCEPTION 'Preço não pode ser negativo: %', NEW.preco_unit;
+    END IF;
+    
+    -- Grava histórico se houve alteração no preço
+    IF OLD.preco_unit IS DISTINCT FROM NEW.preco_unit THEN
+        INSERT INTO auditoria_preco(prod_id, preco_antigo, preco_novo, alterado_por)
+        VALUES (OLD.prod_id, OLD.preco_unit, NEW.preco_unit, CURRENT_USER);
+    END IF;
+    
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+-- 3. Associação do trigger à tabela de produtos
+CREATE TRIGGER trg_valida_e_audita_preco
+BEFORE UPDATE ON produto
+FOR EACH ROW
+EXECUTE FUNCTION trg_auditar_preco_func();
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
-| :--- | :--- | :--- |
-| **Programação no Banco: Stored Procedures e Triggers em PL/pgSQL** | Aplicação direta de Banco de Dados | Verificar restrições de contorno |
+```mermaid
+flowchart TD
+    Up[Comando UPDATE em produto] --> Trg{Trigger BEFORE EACH ROW}
+    Trg --> Val{Preço >= 0 ?}
+    Val -- Não --> Err[RAISE EXCEPTION - Cancela Operação]
+    Val -- Sim --> Diff{Preço mudou ?}
+    Diff -- Sim --> Log[Insere linha na tabela auditoria_preco]
+    Diff -- Não --> Exec[Grava alteração na tabela produto]
+    Log --> Exec
+```
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Programação no Banco: Stored Procedures e Triggers em PL/pgSQL**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
+| :--- | :--- | :--- |
+| **Variáveis Especiais NEW e OLD** | No `INSERT`, apenas `NEW` está disponível; no `DELETE`, apenas `OLD` está disponível; no `UPDATE`, ambos `NEW` e `OLD` existem. | Acessar `OLD` em um trigger de `INSERT` gera erro de tempo de execução! |
+| **Trigger BEFORE vs AFTER** | Use `BEFORE` para validar dados ou alterar valores de `NEW`; use `AFTER` para gravar em outras tabelas de log ou disparar notificações. | Aplicação prática direta |
+
+---
+
+## 📝 Dúvidas & Exercícios Recomendados para Casa
+
+1. Implemente uma Stored Procedure em PL/pgSQL que calcule a média ponderada de notas de todos os alunos e atualize o campo `cra`.
+2. Crie um trigger que impeça a exclusão de clientes que possuam vendas ativas no sistema.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-11-recuperacao-de-falhas-logs-wal-checkpoints-e-algoritmo-aries">Aula Anterior</a></b></div>

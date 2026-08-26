@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-01-estrutura-em-fases-de-um-compilador-e-interpretadores
 title: "Aula 01: Estrutura em Fases de um Compilador e Interpretadores — Compiladores"
 created: '2026-09-04'
 modified: '2026-09-04'

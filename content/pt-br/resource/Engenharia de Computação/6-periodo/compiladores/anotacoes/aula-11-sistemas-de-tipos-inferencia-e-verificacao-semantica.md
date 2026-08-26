@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-11-sistemas-de-tipos-inferencia-e-verificacao-semantica
 title: "Aula 11: Sistemas de Tipos, Inferência e Verificação Semântica — Compiladores"
 created: '2026-11-13'
 modified: '2026-11-13'

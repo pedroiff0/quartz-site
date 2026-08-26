@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-09-bruno-latour-e-a-sociologia-do-conhecimento
 title: "Aula 09: Bruno Latour e a Sociologia do Conhecimento — Filosofia da Ciência e Tecnologia"
 created: '2026-10-28'
 modified: '2026-10-28'

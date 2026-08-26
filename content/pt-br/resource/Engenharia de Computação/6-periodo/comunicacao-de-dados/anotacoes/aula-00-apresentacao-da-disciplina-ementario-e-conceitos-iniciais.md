@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-00-apresentacao-da-disciplina-ementario-e-conceitos-iniciais
 title: "Aula 00: Apresentação da Disciplina, Ementário e Conceitos Iniciais — Comunicação de Dados"
-created: '2026-08-25'
-modified: '2026-08-25'
+created: 2026-08-25T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -15,88 +16,97 @@ conteudo: "Visão geral da arquitetura de comunicação de dados, modelo de refe
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados">Aula Anterior</a></b></div>
+  <div>⬅️ <span style="color: gray;">Primeira Aula</span></div>
   <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados">Hub da Disciplina</a></b></div>
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-01-fundamentos-de-transmissao-de-dados-e-sinais">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Comunicação de Dados (`CSECBJI.47`)
-> - **Docente Responsável:** Rômulo / Paulo
-> - **Data & Horário:** 25/08/2026 (Terça-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Apresentação da Disciplina, Ementário e Conceitos Iniciais
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Comunicação de Dados (CSECBJI.47)
+> - **Professor:** Rômulo / Paulo
+> - **Data Realizada:** 25/08/2026
+> - **Tópico Principal:** Apresentação da Disciplina, Ementário e Conceitos Iniciais
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/comunicacao-de-dados/slides-aula-00.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Apresentação da Disciplina, Ementário e Conceitos Iniciais](#-1-anotações-do-quadro-apresentacao-da-disciplina-ementario-e-conceitos-iniciais)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-00-comunicacao-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-00-comunicacao-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Apresentação da Disciplina, Ementário e Conceitos Iniciais
-
-### 📐 Fundamentação Teórica
-Visão geral da arquitetura de comunicação de dados, modelo de referência OSI/TCP-IP e plano de ensino.
-
-No contexto de **Comunicação de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{comunicacao-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Apresentação da Disciplina, Ementário e Conceitos Iniciais](#-anotações-do-quadro-apresentação-da-disciplina,-ementário-e-conceitos-iniciais)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Apresentação da Disciplina, Ementário e Conceitos Iniciais
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Apresentação da Disciplina, Ementário e Conceitos Iniciais**:
+### 1.1 Modelo Geral de um Sistema de Comunicação
+Um sistema de comunicação de dados tem por finalidade transferir informação entre dois pontos de forma confiável e eficiente:
+```text
+[ Fonte de Dados ] ──▶ [ Transmissor ] ──▶ [ Meio de Transmissão / Canal ] ──▶ [ Receptor ] ──▶ [ Destinatário ]
+                                                      ▲
+                                                      │ Ruído / Interferência
+```
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+Elementos constituintes:
+- **Transmissor:** Codifica, formata e modula a mensagem original em sinais eletromagnéticos adequados ao canal.
+- **Canal de Comunicação:** O meio físico (cabo metálico, fibra óptica ou espaço livre/RF) que transporta o sinal.
+- **Receptor:** Demodula, amplifica, equaliza e decodifica o sinal recebido para reconstruir a mensagem original.
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Apresentação da Disciplina, Ementário e Conceitos Iniciais** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 1.2 Os Modelos em Camadas: OSI vs TCP/IP
+A disciplina de Comunicação de Dados concentra-se com rigor matemático nas duas camadas inferiores da pilha:
+- **Camada Física (Camada 1):** Transmissão de bits brutos pelo canal físico, modulação, codificação de linha, níveis de tensão, temporização de clock e conectores.
+- **Camada de Enlace de Dados (Camada 2):** Enquadramento (*framing*), controle de fluxo, detecção/correção de erros e controle de acesso ao meio (MAC).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Modos de Transmissão de Dados
+
+| Modo | Direcionalidade | Descrição | Exemplo |
+| :--- | :--- | :--- | :--- |
+| **Simplex** | Unidirecional | A informação trafega em um único sentido fixo sem retorno. | Rádio FM, Teclado $\to$ PC |
+| **Half-Duplex** | Bidirecional Alternado | Ambos transmitem, mas apenas um por vez (requer alternância). | Walkie-Talkie, RS-485 |
+| **Full-Duplex** | Bidirecional Simultâneo | Ambos transmitem e recebem simultaneamente em canais dedicados. | Telefonia móvel, Ethernet 1Gbps |
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Apresentação da Disciplina, Ementário e Conceitos Iniciais] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+flowchart LR
+    Src[Fonte de Informação] --> Tx[Transmissor: Codificação + Modulação]
+    Tx -->|Sinal s_t| Canal[Canal com Ruído n_t]
+    Canal -->|Sinal r_t = s_t + n_t| Rx[Receptor: Demodulação + Decodificação]
+    Rx --> Dst[Destinatário dos Dados]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Apresentação da Disciplina, Ementário e Conceitos Iniciais** | Aplicação direta de Comunicação de Dados | Verificar restrições de contorno |
+| **Foco da Disciplina** | Comunicação de Dados trata da física dos sinais, canais e enlace ponto a ponto. Redes de Computadores (7ºP) tratará do roteamento e protocolos IP/TCP na rede inteira. | Entenda os sinais e a modulação antes de estudar roteamento. |
+| **Taxa de Dados vs Taxa de Sinalização** | Bps (bits por segundo) mede informação; Baud (símbolos por segundo) mede velocidade de modulação no canal. | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Apresentação da Disciplina, Ementário e Conceitos Iniciais**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Diferencie as funções da Camada Física daquelas da Camada de Enlace de Dados no modelo OSI.
+2. Explique por que uma transmissão Full-Duplex oferece o dobro da taxa de transferência teórica em relação ao Half-Duplex.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados">Aula Anterior</a></b></div>
+  <div>⬅️ <span style="color: gray;">Primeira Aula</span></div>
   <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados">Hub da Disciplina</a></b></div>
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-01-fundamentos-de-transmissao-de-dados-e-sinais">Próxima Aula</a></b></div>
 </div>

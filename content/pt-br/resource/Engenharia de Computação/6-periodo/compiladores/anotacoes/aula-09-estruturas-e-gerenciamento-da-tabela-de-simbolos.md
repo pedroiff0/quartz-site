@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-09-estruturas-e-gerenciamento-da-tabela-de-simbolos
 title: "Aula 09: Estruturas e Gerenciamento da Tabela de Símbolos — Compiladores"
 created: '2026-10-30'
 modified: '2026-10-30'

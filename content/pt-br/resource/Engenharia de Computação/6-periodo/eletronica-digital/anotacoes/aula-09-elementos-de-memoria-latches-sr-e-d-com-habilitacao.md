@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-09-elementos-de-memoria-latches-sr-e-d-com-habilitacao
 title: "Aula 09: Elementos de Memória: Latches SR e D com Habilitação — Eletrônica Digital"
-created: '2026-10-26'
-modified: '2026-10-26'
+created: 2026-10-26T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,95 @@ conteudo: "Realimentação em circuitos lógicos, latches com portas NAND/NOR, p
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-10-flip-flops-disparados-por-borda-sr-d-jk-t">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Eletrônica Digital (`CSECBJI.46`)
-> - **Docente Responsável:** Rogério
-> - **Data & Horário:** 26/10/2026 (Segunda-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Elementos de Memória: Latches SR e D com Habilitação
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Eletrônica Digital (CSECBJI.46)
+> - **Professor:** Rogério
+> - **Data Realizada:** 26/10/2026
+> - **Tópico Principal:** Elementos de Memória: Latches SR e D com Habilitação
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/eletronica-digital/slides-aula-09.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Elementos de Memória: Latches SR e D com Habilitação](#-1-anotações-do-quadro-elementos-de-memoria-latches-sr-e-d-com-habilitacao)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-09-eletronica-digital|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-09-eletronica-digital|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Elementos de Memória: Latches SR e D com Habilitação
-
-### 📐 Fundamentação Teórica
-Realimentação em circuitos lógicos, latches com portas NAND/NOR, problemas de metastabilidade e sinal de clock.
-
-No contexto de **Eletrônica Digital**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{eletronica-digital}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Elementos de Memória: Latches SR e D com Habilitação](#-anotações-do-quadro-elementos-de-memória-latches-sr-e-d-com-habilitação)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Elementos de Memória: Latches SR e D com Habilitação
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Elementos de Memória: Latches SR e D com Habilitação**:
+### 9.1 Transição para Circuitos Sequenciais
+Em circuitos puramente combinacionais, as saídas dependem **exclusivamente das entradas atuais**. Em **circuitos sequenciais**, as saídas dependem das entradas atuais e do **histórico passado** (armazenado em elementos de memória).
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 9.2 Latch SR Básico com Portas NOR
+Possui duas entradas ($S$ - *Set*, $R$ - *Reset*) e duas saídas complementares ($Q$ e $\overline{Q}$):
+- $S=0, R=0$: **Memória / Manutenção** ($Q_{t+1} = Q_t$).
+- $S=1, R=0$: **Set** ($Q_{t+1} = 1$).
+- $S=0, R=1$: **Reset** ($Q_{t+1} = 0$).
+- $S=1, R=1$: **Estado Proibido / Inválido** (Força $Q = \overline{Q} = 0$, violando a complementaridade e causando oscilação metaestável se liberado simultaneamente).
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Elementos de Memória: Latches SR e D com Habilitação** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 9.3 Latch D com Habilitação (*Gated D Latch*)
+Elimina o estado proibido conectando $S=D$ e $R=\overline{D}$ através de uma entrada de controle *Enable* ($EN$):
+- Quando $EN=1$: O Latch é **transparente** ($Q$ segue $D$ em tempo real).
+- Quando $EN=0$: O Latch trava o último valor armazenado (modo memória).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
 
-```mermaid
-flowchart TD
-    A[Entrada: Elementos de Memória: Latches SR e D com Habilitação] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+### ✏️ Cronograma de Tempo do Latch D Transparente
+
+```text
+Clock / EN  : ───┐     ┌─────┐     ┌─────┐     ┌───
+                 └─────┘     └─────┘     └─────┘
+Dado D      : ───────┐         ┌───────┐
+                     └─────────┘       └───────────
+Saída Q     : ───────┐         ┌───────┐
+                     └─────────┘       └───────────
+              (Q segue D enquanto EN=1; trava quando EN=0)
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
-| :--- | :--- | :--- |
-| **Elementos de Memória: Latches SR e D com Habilitação** | Aplicação direta de Eletrônica Digital | Verificar restrições de contorno |
+```mermaid
+flowchart LR
+    D[Entrada D] --> G1[NAND 1]
+    D -->|NOT| G2[NAND 2]
+    EN[Habilitação EN] --> G1 & G2
+    G1 --> SR1[NAND 3: Cross-Coupled]
+    G2 --> SR2[NAND 4: Cross-Coupled]
+    SR1 --> Q[Saída Q]
+    SR2 --> Qnot[Saída Q']
+    Q --> SR2
+    Qnot --> SR1
+```
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Elementos de Memória: Latches SR e D com Habilitação**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
+| :--- | :--- | :--- |
+| **Problema da Transparência do Latch** | Como o Latch D é sensível a nível (enquanto $EN=1$), qualquer pulso de ruído ou variação em $D$ altera a saída imediatamente. | Por isso computadores utilizam Flip-Flops disparados por BORDA e não Latches sensíveis a nível! |
+| **Latch SR com NAND** | No Latch SR com portas NAND, as entradas são ativas em nível baixo ($\overline{S}$ e $\overline{R}$). O estado proibido ocorre em $00$. | Aplicação prática direta |
+
+---
+
+## 📝 Dúvidas & Exercícios Recomendados para Casa
+
+1. Desenhe o diagrama esquemático e a tabela-verdade do Latch SR com portas NAND.
+2. Explique o fenômeno de metaestabilidade em latches biestáveis.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-08-avaliacao-teorico-pratica-p1">Aula Anterior</a></b></div>

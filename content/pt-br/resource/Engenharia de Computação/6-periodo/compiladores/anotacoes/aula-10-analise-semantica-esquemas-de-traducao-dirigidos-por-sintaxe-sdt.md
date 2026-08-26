@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-10-analise-semantica-esquemas-de-traducao-dirigidos-por-sintaxe-sdt
 title: "Aula 10: Análise Semântica: Esquemas de Tradução Dirigidos por Sintaxe (SDT) — Compiladores"
 created: '2026-11-06'
 modified: '2026-11-06'

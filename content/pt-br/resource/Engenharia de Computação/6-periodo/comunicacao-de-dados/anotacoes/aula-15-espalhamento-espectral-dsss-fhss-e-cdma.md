@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-15-espalhamento-espectral-dsss-fhss-e-cdma
 title: "Aula 15: Espalhamento Espectral: DSSS, FHSS e CDMA — Comunicação de Dados"
-created: '2026-12-08'
-modified: '2026-12-08'
+created: 2026-12-08T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,99 @@ conteudo: "Técnicas Direct Sequence Spread Spectrum, Frequency Hopping, código
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-16-prova-final-de-comunicacao-de-dados-e-fechamento">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Comunicação de Dados (`CSECBJI.47`)
-> - **Docente Responsável:** Rômulo / Paulo
-> - **Data & Horário:** 08/12/2026 (Terça-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Espalhamento Espectral: DSSS, FHSS e CDMA
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Comunicação de Dados (CSECBJI.47)
+> - **Professor:** Rômulo / Paulo
+> - **Data Realizada:** 08/12/2026
+> - **Tópico Principal:** Espalhamento Espectral: DSSS, FHSS e CDMA
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/comunicacao-de-dados/slides-aula-15.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Espalhamento Espectral: DSSS, FHSS e CDMA](#-1-anotações-do-quadro-espalhamento-espectral-dsss-fhss-e-cdma)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-15-comunicacao-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-15-comunicacao-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Espalhamento Espectral: DSSS, FHSS e CDMA
-
-### 📐 Fundamentação Teórica
-Técnicas Direct Sequence Spread Spectrum, Frequency Hopping, códigos pseudo-aleatórios (PN) e múltiplo acesso por divisão de código.
-
-No contexto de **Comunicação de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{comunicacao-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Espalhamento Espectral: DSSS, FHSS e CDMA](#-anotações-do-quadro-espalhamento-espectral-dsss,-fhss-e-cdma)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Espalhamento Espectral: DSSS, FHSS e CDMA
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Espalhamento Espectral: DSSS, FHSS e CDMA**:
+### 15.1 Princípio do Espalhamento Espectral (*Spread Spectrum*)
+Técnica em que a largura de banda do sinal transmitido é propositalmente expandida para uma faixa **muito maior que a largura de banda mínima estritamente necessária** para transmitir os dados.
+- O espalhamento é realizado por um código de ruído pseudoaleatório (**PN - *Pseudonoise Code***) conhecido apenas pelo transmissor e receptor.
+- **Objetivos:** Imunidade altíssima a interferências e ruídos de banda estreita (*Jamming*), baixa densidade espectral de potência (sinal fica abaixo do piso de ruído, parecendo ruído térmico aleatório) e acesso múltiplo simultâneo.
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 15.2 Técnicas de Espalhamento Espectral
+1. **DSSS (Direct Sequence Spread Spectrum):**
+   - Cada bit de dado é multiplicado por uma sequência de $N$ pulsos rápidos de alta frequência chamados **Chips** ($R_{\text{chip}} \gg R_{\text{dados}}$).
+   - O ganho de processamento é $G_p = \frac{B_{\text{espalhado}}}{B_{\text{dados}}} = \frac{T_{\text{bit}}}{T_{\text{chip}}} = N$.
+   - Utilizado em Wi-Fi 802.11b, GPS e sistemas militares.
+2. **FHSS (Frequency Hopping Spread Spectrum):**
+   - A portadora salta pseudorrandomicamente entre dezenas de frequências discretas ao longo do tempo.
+   - Padrão Bluetooth ($1.600\text{ saltos por segundo}$ em 79 canais de 1 MHz).
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Espalhamento Espectral: DSSS, FHSS e CDMA** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 15.3 Acesso Múltiplo por Divisão de Código (CDMA)
+Permite que múltiplos usuários transmitam **simultaneamente na mesma faixa de frequência**, atribuindo a cada usuário um **código de Walsh ortogonal** ($\mathbf{C}_i \cdot \mathbf{C}_j = 0$ para $i \neq j$ e $\mathbf{C}_i \cdot \mathbf{C}_i = 1$).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Simulação Numérica de Transmissão CDMA com 2 Usuários
+
+**Códigos de Walsh Ortogonais de 4 Chips:**
+- Usuário 1: $\mathbf{C}_1 = (+1, +1, +1, +1)$
+- Usuário 2: $\mathbf{C}_2 = (+1, -1, +1, -1)$
+- Verificação de Ortogonalidade: $\mathbf{C}_1 \cdot \mathbf{C}_2 = (+1)(+1) + (+1)(-1) + (+1)(+1) + (+1)(-1) = 1 - 1 + 1 - 1 = 0$.
+
+**Transmissão Simultânea:**
+- Usuário 1 quer enviar bit '1' ($d_1 = +1$) $\implies \mathbf{S}_1 = d_1 \cdot \mathbf{C}_1 = (+1, +1, +1, +1)$.
+- Usuário 2 quer enviar bit '0' ($d_2 = -1$) $\implies \mathbf{S}_2 = d_2 \cdot \mathbf{C}_2 = (-1, +1, -1, +1)$.
+- Sinal combinado no meio aéreo: $\mathbf{S}_{\text{total}} = \mathbf{S}_1 + \mathbf{S}_2 = (0, +2, 0, +2)$.
+
+**Decodificação no Receptor do Usuário 1:**
+$$\text{Resultado} = \frac{\mathbf{S}_{\text{total}} \cdot \mathbf{C}_1}{4} = \frac{(0)(1) + (2)(1) + (0)(1) + (2)(1)}{4} = \frac{4}{4} = +1 \implies \text{Bit '1' recuperado!}$$
+O sinal do Usuário 2 foi completamente cancelado devido à ortogonalidade matemática perfeita!
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
 flowchart TD
-    A[Entrada: Espalhamento Espectral: DSSS, FHSS e CDMA] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+    Data[Dado do Usuário: 1 bit] --> Mult[Multiplicador XOR]
+    PN[Gerador de Código PN / Chips] --> Mult
+    Mult --> Spread[Sinal Espalhado de Banda Larga]
+    Spread --> Canal[Canal com Ruído e Interferência]
+    Canal --> RxMult[Multiplicador com mesmo Código PN]
+    RxMult --> Int[Integrador / Correlator]
+    Int --> Out[Dado Original Recuperado com Alto SNR]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Espalhamento Espectral: DSSS, FHSS e CDMA** | Aplicação direta de Comunicação de Dados | Verificar restrições de contorno |
+| **Ganho de Processamento (*Processing Gain*)** | $G_p = 10 \log_{10}(N)	ext{ dB}$. Permite que o sinal CDMA seja recuperado com perfeição mesmo operando com SNR negativo (sinal mais fraco que o próprio ruído ambiente!). | A mágica matemática do espalhamento espectral. |
+| **Controle de Potência no CDMA** | Se um celular estiver muito perto da torre, ele pode ofuscar celulares distantes (*Near-Far Problem*). O CDMA exige controle rigoroso de potência de transmissão mil vezes por segundo. | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Espalhamento Espectral: DSSS, FHSS e CDMA**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Calcule o ganho de processamento em dB de um sistema DSSS que utiliza uma sequência de código de 64 chips para cada bit de dados.
+2. Demonstre algebricamente a recuperação do bit transmitido pelo Usuário 2 no exemplo de CDMA apresentado.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-14-tecnicas-de-multiplexacao-fdm-tdm-e-wdm">Aula Anterior</a></b></div>

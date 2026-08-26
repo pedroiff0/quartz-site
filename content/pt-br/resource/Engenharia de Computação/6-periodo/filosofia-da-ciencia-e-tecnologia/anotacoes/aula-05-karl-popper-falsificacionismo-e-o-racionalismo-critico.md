@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-05-karl-popper-falsificacionismo-e-o-racionalismo-critico
 title: "Aula 05: Karl Popper, Falsificacionismo e o Racionalismo Crítico — Filosofia da Ciência e Tecnologia"
 created: '2026-09-30'
 modified: '2026-09-30'

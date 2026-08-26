@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-02-estudo-de-viabilidade-tecnico-economica-evte-e-analise-de-mercado
 title: "Aula 02: Estudo de Viabilidade Técnico-Econômica (EVTE) e Análise de Mercado — Gestão de Projetos"
 created: '2026-09-10'
 modified: '2026-09-10'

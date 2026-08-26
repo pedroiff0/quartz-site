@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-11-recuperacao-de-falhas-logs-wal-checkpoints-e-algoritmo-aries
 title: "Aula 11: Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES — Banco de Dados"
-created: '2026-11-10'
-modified: '2026-11-10'
+created: 2026-11-10T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,98 @@ conteudo: "Write-Ahead Logging, recuperação baseada em log Redo/Undo, checkpoi
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-12-programacao-no-banco-stored-procedures-e-triggers-em-pl-pgsql">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Banco de Dados (`CSECBJI.44`)
-> - **Docente Responsável:** Sérgio
-> - **Data & Horário:** 10/11/2026 (Terça-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Banco de Dados (CSECBJI.44)
+> - **Professor:** Sérgio
+> - **Data Realizada:** 10/11/2026
+> - **Tópico Principal:** Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/banco-de-dados/slides-aula-11.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES](#-1-anotações-do-quadro-recuperacao-de-falhas-logs-wal-checkpoints-e-algoritmo-aries)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-11-banco-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-11-banco-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES
-
-### 📐 Fundamentação Teórica
-Write-Ahead Logging, recuperação baseada em log Redo/Undo, checkpoints fuzzy e recuperação de crash de sistema.
-
-No contexto de **Banco de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{banco-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES](#-anotações-do-quadro-recuperação-de-falhas-logs-wal,-checkpoints-e-algoritmo-aries)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES**:
+### 11.1 Fundamentos de Recuperação e o Protocolo WAL
+Para garantir Durabilidade e Atomicidade mesmo em quedas de energia e falhas de hardware, os SGBDs utilizam o protocolo **Write-Ahead Logging (WAL)**:
+- **Regra Fundamental do WAL:** Nenhuma página de dados modificada no buffer da RAM pode ser gravada no disco permanente antes que os respectivos registros de log de alterações tenham sido gravados e sincronizados (*fsync*) no disco de log!
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 11.2 Checkpoints (Pontos de Verificação)
+Para evitar ter que reprocessar todo o arquivo de log desde o início dos tempos durante uma recuperação pós-crash, o SGBD realiza **Checkpoints periódicos**:
+1. Suspende a admissão de novas transações (ou usa checkpoint fuzzy).
+2. Força a escrita de todas as páginas sujas (*dirty pages*) do buffer para o disco.
+3. Grava um registro `<CHECKPOINT [lista_transacoes_ativas]>` no log WAL e sincroniza.
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 11.3 O Algoritmo de Recuperação ARIES (IBM)
+Executa em três fases sequenciais:
+1. **Fase de Análise:** Varre o log para frente a partir do último checkpoint para identificar transações ativas no momento da falha e páginas sujas.
+2. **Fase de REDO (Repetir Histórico):** Varre o log para frente refazendo TODAS as operações de transações comitadas e não comitadas, restaurando o estado exato anterior ao crash.
+3. **Fase de UNDO (Desfazer):** Varre o log para trás desfazendo as operações de todas as transações que estavam ativas (não comitadas) no momento da queda, emitindo registros CLR (*Compensation Log Records*).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Rastreamento de Recuperação de Falhas com Log WAL
+
+**Histórico no Log:**
+```text
+1. <T1 start>
+2. <T1, A, 100, 150>
+3. <T2 start>
+4. <T2, B, 500, 600>
+5. <T1 commit>
+6. <T3 start>
+7. <T3, C, 300, 350>
+--- FALHA DE ENERGIA (CRASH DO SERVIDOR) ---
+```
+
+**Processo de Recuperação ARIES:**
+- **Transações Comitadas:** $T_1 \implies$ Fase de **REDO** garante que $A=150$ persista no disco.
+- **Transações Não-Comitadas:** $T_2$ e $T_3 \implies$ Fase de **UNDO** desfaz as alterações, restaurando $B=500$ e $C=300$.
+- O banco reinicia em estado $100\%$ consistente!
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+flowchart LR
+    Crash[Falha / Crash] --> A[1. Fase de Análise]
+    A --> R[2. Fase de REDO: Repete histórico para frente]
+    R --> U[3. Fase de UNDO: Desfaz transações ativas para trás]
+    U --> Ready[Banco de Dados Consistente e Online]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES** | Aplicação direta de Banco de Dados | Verificar restrições de contorno |
+| **Steal vs No-Force Policy** | SGBDs modernos utilizam política *Steal* (páginas de transações não-comitadas podem ir ao disco, exigindo UNDO) e *No-Force* (páginas de transações comitadas não precisam ir ao disco imediatamente, exigindo REDO via log). | Garante máxima velocidade de I/O em operação normal. |
+| **Log Sequencial** | Escrever no log WAL é muito mais rápido que gravar na tabela porque a escrita em log é puramente sequencial (*append-only*). | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Recuperação de Falhas: Logs WAL, Checkpoints e Algoritmo ARIES**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Explique a regra básica do protocolo Write-Ahead Logging (WAL) e por que ela é indispensável.
+2. Dada uma sequência de registros de log com checkpoint, identifique quais transações sofrem REDO e quais sofrem UNDO.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-10-controle-de-concorrencia-bloqueio-em-duas-fases-2pl-e-timestamps">Aula Anterior</a></b></div>

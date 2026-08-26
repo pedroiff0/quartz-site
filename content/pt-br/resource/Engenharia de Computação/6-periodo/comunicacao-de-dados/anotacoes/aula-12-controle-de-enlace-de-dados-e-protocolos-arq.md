@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-12-controle-de-enlace-de-dados-e-protocolos-arq
 title: "Aula 12: Controle de Enlace de Dados e Protocolos ARQ — Comunicação de Dados"
-created: '2026-11-17'
-modified: '2026-11-17'
+created: 2026-11-17T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,100 @@ conteudo: "Enquadramento por contagem de caracteres e flags com bit stuffing; pr
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-13-protocolos-de-janela-deslizante-go-back-n-e-selective-repeat">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Comunicação de Dados (`CSECBJI.47`)
-> - **Docente Responsável:** Rômulo / Paulo
-> - **Data & Horário:** 17/11/2026 (Terça-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Controle de Enlace de Dados e Protocolos ARQ
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Comunicação de Dados (CSECBJI.47)
+> - **Professor:** Rômulo / Paulo
+> - **Data Realizada:** 17/11/2026
+> - **Tópico Principal:** Controle de Enlace de Dados e Protocolos ARQ
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/comunicacao-de-dados/slides-aula-12.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Controle de Enlace de Dados e Protocolos ARQ](#-1-anotações-do-quadro-controle-de-enlace-de-dados-e-protocolos-arq)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-12-comunicacao-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-12-comunicacao-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Controle de Enlace de Dados e Protocolos ARQ
-
-### 📐 Fundamentação Teórica
-Enquadramento por contagem de caracteres e flags com bit stuffing; protocolos Stop-and-Wait ARQ e Janela Deslizante.
-
-No contexto de **Comunicação de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{comunicacao-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Controle de Enlace de Dados e Protocolos ARQ](#-anotações-do-quadro-controle-de-enlace-de-dados-e-protocolos-arq)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Controle de Enlace de Dados e Protocolos ARQ
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Controle de Enlace de Dados e Protocolos ARQ**:
+### 12.1 Funções da Camada de Enlace de Dados
+A Camada de Enlace transforma o canal físico ruidoso e não-estruturado em um enlace de comunicação confiável:
+1. **Enquadramento (*Framing*):** Delimitação do fluxo contínuo de bits em quadros com cabeçalho, dados e cauda (Trailer).
+   - Técnicas: Contagem de caracteres, Inserção de bytes (*Byte Stuffing*) e Inserção de bits (*Bit Stuffing* com flag `01111110`).
+2. **Controle de Fluxo:** Impede que um transmissor rápido sature o buffer de memória de um receptor lento.
+3. **Controle de Erros:** Detecção e retransmissão de quadros corrompidos ou perdidos via protocolos **ARQ (*Automatic Repeat reQuest*)**.
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 12.2 Protocolo Stop-and-Wait ARQ
+- O transmissor emite um único quadro e aguarda a confirmação positiva (**ACK**) do receptor antes de enviar o próximo.
+- Se o ACK não chegar antes do estouro de um temporizador (**Timeout**), o transmissor reenvia o quadro.
+- Utiliza numeração alternada de 1 bit (Quadro 0 e Quadro 1) para descartar quadros duplicados gerados por ACKs atrasados.
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Controle de Enlace de Dados e Protocolos ARQ** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 12.3 Eficiência do Stop-and-Wait
+A eficiência de utilização do canal ($U$) depende da razão entre o tempo de transmissão do quadro ($t_{frame}$) e o tempo de propagação de ida e volta (*Round-Trip Time - RTT*):
+$$a = \frac{t_{prop}}{t_{frame}} \implies U = \frac{1}{1 + 2a}$$
+Se $a \gg 1$ (enlaces longos de alta velocidade ou satélite), a eficiência despenca para menos de $1\%$!
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Cálculo de Eficiência do Stop-and-Wait em Enlace de Satélite
+
+**Parâmetros:**
+- Distância ao Satélite Geoestacionário: $d = 36.000\text{ km} \implies t_{prop} = \frac{36.000\text{ km}}{300.000\text{ km/s}} = 120\text{ ms} = 0.12\text{ s}$
+- Taxa de Transmissão: $R = 1\text{ Mbps} = 10^6\text{ bps}$
+- Tamanho do Quadro: $L = 1.000\text{ bytes} = 8.000\text{ bits}$
+
+**1. Tempo de Transmissão do Quadro:**
+$$t_{frame} = \frac{8.000\text{ bits}}{10^6\text{ bps}} = 8\text{ ms} = 0.008\text{ s}$$
+
+**2. Parâmetro $a$:**
+$$a = \frac{t_{prop}}{t_{frame}} = \frac{120\text{ ms}}{8\text{ ms}} = 15$$
+
+**3. Eficiência de Utilização:**
+$$U = \frac{1}{1 + 2(15)} = \frac{1}{31} \approx 3.22\%$$
+A linha passa $96.8\%$ do tempo totalmente ociosa aguardando o ACK voltar do espaço. Isso exige o uso de **Protocolos de Janela Deslizante**!
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Controle de Enlace de Dados e Protocolos ARQ] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+sequenceDiagram
+    autonumber
+    Transmissor->>Receptor: Quadro 0
+    Receptor-->>Transmissor: ACK 1 (Espera Quadro 1)
+    Transmissor->>Receptor: Quadro 1 (Perdido no Canal)
+    Note over Transmissor: Temporizador estoura (Timeout)
+    Transmissor->>Receptor: Retransmissão: Quadro 1
+    Receptor-->>Transmissor: ACK 0
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Controle de Enlace de Dados e Protocolos ARQ** | Aplicação direta de Comunicação de Dados | Verificar restrições de contorno |
+| **Bit Stuffing (Inserção de Bits)** | Para evitar que a sequência de flag `01111110` apareça nos dados úteis, o transmissor insere um '0' após cada sequência de 5 '1's consecutivos. O receptor remove automaticamente esse '0'. | Permite transparência total de dados. |
+| **Numeração de ACKs** | Em protocolos modernos, o `ACK N` confirma o recebimento de todos os quadros anteriores e indica que o receptor está aguardando o quadro de número $N$. | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Controle de Enlace de Dados e Protocolos ARQ**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Calcule a eficiência de um protocolo Stop-and-Wait em uma rede local com $t_{prop} = 5\ \mu	ext{s}$ e $t_{frame} = 1	ext{ ms}$.
+2. Mostre como a técnica de Bit Stuffing codifica a sequência de dados `01111110111110`.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-11-deteccao-e-correcao-de-erros-paridade-checksum-e-crc">Aula Anterior</a></b></div>

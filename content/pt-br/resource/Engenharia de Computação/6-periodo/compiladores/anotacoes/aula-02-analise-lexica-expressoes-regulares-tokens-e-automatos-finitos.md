@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-02-analise-lexica-expressoes-regulares-tokens-e-automatos-finitos
 title: "Aula 02: Análise Léxica: Expressões Regulares, Tokens e Autômatos Finitos — Compiladores"
 created: '2026-09-11'
 modified: '2026-09-11'

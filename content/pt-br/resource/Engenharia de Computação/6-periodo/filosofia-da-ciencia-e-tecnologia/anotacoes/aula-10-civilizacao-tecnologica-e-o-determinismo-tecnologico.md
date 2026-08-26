@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-10-civilizacao-tecnologica-e-o-determinismo-tecnologico
 title: "Aula 10: Civilização Tecnológica e o Determinismo Tecnológico — Filosofia da Ciência e Tecnologia"
 created: '2026-11-04'
 modified: '2026-11-04'

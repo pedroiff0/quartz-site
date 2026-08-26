@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-05-condicoes-irrelevantes-don-t-cares-e-mapas-de-5-variaveis
 title: "Aula 05: Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis — Eletrônica Digital"
-created: '2026-09-28'
-modified: '2026-09-28'
+created: 2026-09-28T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,86 @@ conteudo: "Uso estratégico de estados não-importa para simplificação de hard
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-06-circuitos-combinacionais-aritmeticos-somadores-e-subtratores">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Eletrônica Digital (`CSECBJI.46`)
-> - **Docente Responsável:** Rogério
-> - **Data & Horário:** 28/09/2026 (Segunda-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Eletrônica Digital (CSECBJI.46)
+> - **Professor:** Rogério
+> - **Data Realizada:** 28/09/2026
+> - **Tópico Principal:** Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/eletronica-digital/slides-aula-05.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis](#-1-anotações-do-quadro-condicoes-irrelevantes-don-t-cares-e-mapas-de-5-variaveis)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-05-eletronica-digital|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-05-eletronica-digital|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis
-
-### 📐 Fundamentação Teórica
-Uso estratégico de estados não-importa para simplificação de hardware e mapas 3D de 5 variáveis.
-
-No contexto de **Eletrônica Digital**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{eletronica-digital}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis](#-anotações-do-quadro-condições-irrelevantes-don't-cares-e-mapas-de-5-variáveis)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis**:
+### 5.1 Condições Irrelevantes (*Don't Care* / $d$)
+Em muitos sistemas digitais, certas combinações de entrada **nunca ocorrem** na prática (ex: dígitos de 10 a 15 em um decodificador decimal BCD) ou sua saída é indiferente para o sistema.
+- Essas células são marcadas com **$X$** ou **$d$** no Mapa de Karnaugh.
+- **Regra de Ouro do Don't Care:** Um termo $d$ pode ser tratado como **1** se ajudar a formar um grupo maior (mais simples), ou como **0** se não for necessário. Não é obrigatório cobrir todos os termos $d$.
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 5.2 Mapas de Karnaugh de 5 Variáveis ($A, B, C, D, E$)
+Estruturado em **duas camadas superpostas de 4x4**:
+- Camada 1: Para $A = 0$ (mintermos $m_0$ a $m_{15}$).
+- Camada 2: Para $A = 1$ (mintermos $m_{16}$ a $m_{31}$).
+- Células na mesma posição relativa nas duas camadas são **adjacentes** entre si, permitindo grupos tridimensionais que eliminam a variável $A$.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Minimização com Don't Cares: Decodificador BCD para Display de 7 Segmentos (Segmento $a$)
+
+Entradas BCD: $A, B, C, D$ ($0$ a $9$). Combinações $10$ a $15$ ($m_{10}$ a $m_{15}$) são *Don't Cares* ($d$).
+Mintermos do segmento 'a': $\sum m(0, 2, 3, 5, 6, 7, 8, 9) + d(10, 11, 12, 13, 14, 15)$.
+
+**Agrupamentos aproveitando os termos $d$:**
+1. Grupo de 8 células ($m_8, m_9, m_{10}, m_{11}, m_{12}, m_{13}, m_{14}, m_{15}$): $A$
+2. Grupo de 4 células ($m_2, m_3, m_{10}, m_{11}$): $C$
+3. Grupo de 4 células ($m_0, m_2, m_8, m_{10}$): $B \overline{D}$
+4. Grupo de 4 células ($m_5, m_7, m_{13}, m_{15}$): $B D$
+
+**Expressão Mínima:**
+$$Segmento_a = A + C + B D + \overline{B}\overline{D}$$
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+flowchart LR
+    K0["Camada A=0 (Mapa 4x4)"] <-->|Adjacência Espacial| K1["Camada A=1 (Mapa 4x4)"]
+    K0 & K1 --> Opt[Grupo 3D: Elimina Variável A]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis** | Aplicação direta de Eletrônica Digital | Verificar restrições de contorno |
+| **Uso Oportunista do Don't Care** | Nunca crie um grupo composto exclusivamente por termos $d$. Don't cares existem apenas para aumentar grupos que já contêm pelo menos um '1' real. | Cobrir $d$ isolado apenas adiciona portas desnecessárias ao circuito. |
+| **Mapas de 5 Variáveis** | Pense no mapa de 5 variáveis como dois andares de um prédio. Um grupo pode ser uma 'coluna' que atravessa os dois andares. | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Condições Irrelevantes (Don't Cares) e Mapas de 5 Variáveis**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Minimize a função $F(A, B, C, D) = \sum m(1, 5, 6, 7, 11, 12, 13) + d(0, 2, 8, 10)$.
+2. Desenhe o mapa de Karnaugh de 5 variáveis para a função $F(A, B, C, D, E) = \sum m(0, 2, 4, 6, 16, 18, 20, 22, 24, 26)$.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-04-minimizacao-logica-mapas-de-karnaugh-de-2-a-4-variaveis">Aula Anterior</a></b></div>

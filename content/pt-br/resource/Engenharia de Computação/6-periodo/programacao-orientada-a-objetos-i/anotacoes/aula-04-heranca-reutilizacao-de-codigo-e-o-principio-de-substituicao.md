@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-04-heranca-reutilizacao-de-codigo-e-o-principio-de-substituicao
 title: "Aula 04: Herança, Reutilização de Código e o Princípio de Substituição — Programação Orientada a Objetos I"
 created: '2026-09-23'
 modified: '2026-09-23'

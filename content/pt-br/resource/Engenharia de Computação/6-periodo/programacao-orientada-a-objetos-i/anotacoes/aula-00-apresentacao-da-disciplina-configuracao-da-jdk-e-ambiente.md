@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-00-apresentacao-da-disciplina-configuracao-da-jdk-e-ambiente
 title: "Aula 00: Apresentação da Disciplina, Configuração da JDK e Ambiente — Programação Orientada a Objetos I"
 created: '2026-08-26'
 modified: '2026-08-26'

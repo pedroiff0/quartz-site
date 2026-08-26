@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-03-portas-logicas-fundamentais-e-formas-canonicas
 title: "Aula 03: Portas Lógicas Fundamentais e Formas Canônicas — Eletrônica Digital"
-created: '2026-09-14'
-modified: '2026-09-14'
+created: 2026-09-14T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,100 @@ conteudo: "Portas AND, OR, NOT, NAND, NOR, XOR, XNOR; formas padrão Soma de Pro
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-04-minimizacao-logica-mapas-de-karnaugh-de-2-a-4-variaveis">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Eletrônica Digital (`CSECBJI.46`)
-> - **Docente Responsável:** Rogério
-> - **Data & Horário:** 14/09/2026 (Segunda-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Portas Lógicas Fundamentais e Formas Canônicas
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Eletrônica Digital (CSECBJI.46)
+> - **Professor:** Rogério
+> - **Data Realizada:** 14/09/2026
+> - **Tópico Principal:** Portas Lógicas Fundamentais e Formas Canônicas
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/eletronica-digital/slides-aula-03.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Portas Lógicas Fundamentais e Formas Canônicas](#-1-anotações-do-quadro-portas-logicas-fundamentais-e-formas-canonicas)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-03-eletronica-digital|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-03-eletronica-digital|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Portas Lógicas Fundamentais e Formas Canônicas
-
-### 📐 Fundamentação Teórica
-Portas AND, OR, NOT, NAND, NOR, XOR, XNOR; formas padrão Soma de Produtos (SOP) e Produto das Somas (POS).
-
-No contexto de **Eletrônica Digital**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{eletronica-digital}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Portas Lógicas Fundamentais e Formas Canônicas](#-anotações-do-quadro-portas-lógicas-fundamentais-e-formas-canônicas)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Portas Lógicas Fundamentais e Formas Canônicas
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Portas Lógicas Fundamentais e Formas Canônicas**:
+### 3.1 Portas Lógicas Fundamentais e Tabelas-Verdade
+- **Inversor (NOT):** $Y = \overline{A}$
+- **AND:** $Y = A \cdot B$ (Saída 1 se todas as entradas forem 1)
+- **OR:** $Y = A + B$ (Saída 1 se pelo menos uma entrada for 1)
+- **NAND:** $Y = \overline{A \cdot B}$ (Universal)
+- **NOR:** $Y = \overline{A + B}$ (Universal)
+- **XOR (OU-Exclusivo):** $Y = A \oplus B = A \overline{B} + \overline{A} B$ (Saída 1 se as entradas forem diferentes)
+- **XNOR (Coincidência):** $Y = \overline{A \oplus B} = A B + \overline{A} \overline{B}$
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 3.2 Universalidade das Portas NAND e NOR
+Qualquer circuito combinacional pode ser implementado exclusivamente com portas NAND (ou exclusivamente com portas NOR).
+- $\text{NOT}(A) = A \;\text{NAND}\; A$
+- $\text{AND}(A, B) = \text{NOT}(A \;\text{NAND}\; B)$
+- $\text{OR}(A, B) = \text{NOT}(A) \;\text{NAND}\; \text{NOT}(B)$
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Portas Lógicas Fundamentais e Formas Canônicas** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 3.3 Formas Canônicas
+1. **Soma de Produtos (SOP - Mintermos $\sum m$):** Expressa a função como a soma lógica de todos os mintermos onde $F=1$.
+2. **Produto de Somas (POS - Maxtermos $\prod M$):** Expressa a função como o produto lógico de todos os maxtermos onde $F=0$.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Extração das Formas Canônicas a partir de Tabela-Verdade
+
+| $A$ | $B$ | $C$ | $F$ | Mintermo ($m_i$) | Maxtermo ($M_i$) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 0 | 0 | 0 | **0** | $\overline{A}\overline{B}\overline{C}$ ($m_0$) | $A + B + C$ ($M_0$) |
+| 0 | 0 | 1 | **1** | $\overline{A}\overline{B}C$ ($m_1$) | $A + B + \overline{C}$ ($M_1$) |
+| 0 | 1 | 0 | **0** | $\overline{A}B\overline{C}$ ($m_2$) | $A + \overline{B} + C$ ($M_2$) |
+| 0 | 1 | 1 | **1** | $\overline{A}BC$ ($m_3$) | $A + \overline{B} + \overline{C}$ ($M_3$) |
+| 1 | 0 | 0 | **0** | $A\overline{B}\overline{C}$ ($m_4$) | $\overline{A} + B + C$ ($M_4$) |
+| 1 | 0 | 1 | **0** | $A\overline{B}C$ ($m_5$) | $\overline{A} + B + \overline{C}$ ($M_5$) |
+| 1 | 1 | 0 | **1** | $AB\overline{C}$ ($m_6$) | $\overline{A} + \overline{B} + C$ ($M_6$) |
+| 1 | 1 | 1 | **1** | $ABC$ ($m_7$) | $\overline{A} + \overline{B} + \overline{C}$ ($M_7$) |
+
+- **Forma Canônica SOP:** $F = \sum m(1, 3, 6, 7) = \overline{A}\overline{B}C + \overline{A}BC + AB\overline{C} + ABC$
+- **Forma Canônica POS:** $F = \prod M(0, 2, 4, 5) = (A+B+C)(A+\overline{B}+C)(\overline{A}+B+C)(\overline{A}+B+\overline{C})$
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Portas Lógicas Fundamentais e Formas Canônicas] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+flowchart LR
+    A[Entrada A] & B[Entrada B] --> NAND1[NAND 1]
+    A --> NAND2[NAND 2]
+    NAND1 --> NAND2
+    B --> NAND3[NAND 3]
+    NAND1 --> NAND3
+    NAND2 & NAND3 --> NAND4[NAND 4: Saída XOR]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Portas Lógicas Fundamentais e Formas Canônicas** | Aplicação direta de Eletrônica Digital | Verificar restrições de contorno |
+| **Mintermos vs Maxtermos** | Mintermos olham para as linhas com saída 1 (variável sem barra = 1); Maxtermos olham para linhas com saída 0 (variável com barra = 1). | Cuidado para não inverter a lógica dos maxtermos! |
+| **Conversão em Duas Etapas para NAND** | Desenhe o circuito em SOP (AND-OR) e simplesmente substitua todas as portas AND e OR por portas NAND (adicionando inversores nas entradas isoladas). | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Portas Lógicas Fundamentais e Formas Canônicas**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Implemente uma porta OR de 2 entradas utilizando apenas portas NOR de 2 entradas.
+2. Converta a função $F(A, B, C) = \sum m(0, 2, 5, 7)$ para a forma canônica POS correspondente.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-02-algebra-booleana-postulados-e-teoremas-de-de-morgan">Aula Anterior</a></b></div>

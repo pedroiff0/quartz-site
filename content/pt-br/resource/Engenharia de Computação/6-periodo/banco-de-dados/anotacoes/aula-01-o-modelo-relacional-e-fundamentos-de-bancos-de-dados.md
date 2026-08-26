@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-01-o-modelo-relacional-e-fundamentos-de-bancos-de-dados
 title: "Aula 01: O Modelo Relacional e Fundamentos de Bancos de Dados — Banco de Dados"
-created: '2026-09-01'
-modified: '2026-09-01'
+created: 2026-09-01T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,112 @@ conteudo: "Conceitos formais de relação, tuplas, domínios, chaves primárias,
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-02-algebra-relacional-selecao-projecao-juncao-e-divisao">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Banco de Dados (`CSECBJI.44`)
-> - **Docente Responsável:** Sérgio
-> - **Data & Horário:** 01/09/2026 (Terça-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** O Modelo Relacional e Fundamentos de Bancos de Dados
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Banco de Dados (CSECBJI.44)
+> - **Professor:** Sérgio
+> - **Data Realizada:** 01/09/2026
+> - **Tópico Principal:** O Modelo Relacional e Fundamentos de Bancos de Dados
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/banco-de-dados/slides-aula-01.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: O Modelo Relacional e Fundamentos de Bancos de Dados](#-1-anotações-do-quadro-o-modelo-relacional-e-fundamentos-de-bancos-de-dados)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-01-banco-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-01-banco-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: O Modelo Relacional e Fundamentos de Bancos de Dados
-
-### 📐 Fundamentação Teórica
-Conceitos formais de relação, tuplas, domínios, chaves primárias, estrangeiras e integridade referencial.
-
-No contexto de **Banco de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{banco-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: O Modelo Relacional e Fundamentos de Bancos de Dados](#-anotações-do-quadro-o-modelo-relacional-e-fundamentos-de-bancos-de-dados)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: O Modelo Relacional e Fundamentos de Bancos de Dados
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **O Modelo Relacional e Fundamentos de Bancos de Dados**:
+### 1.1 O Modelo Relacional Formal (Codd, 1970)
+No modelo relacional, os dados são organizados matematicamente em **relações** (tabelas):
+- **Relação ($R$):** Subconjunto do produto cartesiano de domínios $D_1 \times D_2 \times \dots \times D_n$.
+- **Tupla ($t$):** Linha ou registro individual na relação.
+- **Atributo ($A$):** Coluna nomeada com um tipo/domínio associado.
+- **Grau (*Arity*):** Número total de atributos na relação.
+- **Cardinalidade:** Número total de tuplas atualmente armazenadas.
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 1.2 Chaves e Restrições de Integridade
+1. **Superchave:** Conjunto de atributos que identifica unicamente cada tupla na relação.
+2. **Chave Candidata ($CK$):** Superchave irredutível / mínima.
+3. **Chave Primária ($PK$):** A chave candidata escolhida como identificador principal.
+4. **Chave Estrangeira ($FK$):** Atributo em uma relação $R_1$ que faz referência à chave primária de $R_2$.
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **O Modelo Relacional e Fundamentos de Bancos de Dados** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 1.3 As Três Restrições de Integridade Fundamentais
+- **Integridade de Domínio:** Cada valor de atributo deve pertencer ao seu domínio definido.
+- **Integridade de Entidade:** Nenhum atributo componente da chave primária ($PK$) pode assumir valor nulo (`NULL`).
+- **Integridade Referencial:** Toda chave estrangeira ($FK$) deve ser igual a um valor existente da chave primária referenciada, ou ser inteiramente nula (`NULL`).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Definição de Esquema Relacional com Ações de Integridade Referencial
+
+```sql
+CREATE TABLE departamento (
+    dept_id INT PRIMARY KEY,
+    nome_dept VARCHAR(50) NOT NULL UNIQUE
+);
+
+CREATE TABLE professor (
+    prof_id INT PRIMARY KEY,
+    nome VARCHAR(80) NOT NULL,
+    dept_id INT,
+    CONSTRAINT fk_dept FOREIGN KEY (dept_id)
+        REFERENCES departamento(dept_id)
+        ON UPDATE CASCADE
+        ON DELETE SET NULL
+);
+```
+
+**Regras de Atualização/Exclusão:**
+- `ON DELETE CASCADE`: Remove tuplas filhas automaticamente.
+- `ON DELETE SET NULL`: Atribui `NULL` à chave estrangeira quando o pai é excluído.
+- `ON DELETE RESTRICT`: Bloqueia a exclusão do pai se houver filhos dependentes.
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: O Modelo Relacional e Fundamentos de Bancos de Dados] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+erDiagram
+    DEPARTAMENTO ||--o{ PROFESSOR : possui
+    DEPARTAMENTO {
+        int dept_id PK
+        string nome_dept
+    }
+    PROFESSOR {
+        int prof_id PK
+        string nome
+        int dept_id FK
+    }
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **O Modelo Relacional e Fundamentos de Bancos de Dados** | Aplicação direta de Banco de Dados | Verificar restrições de contorno |
+| **NULL em Chaves Primárias** | Chaves primárias NUNCA aceitam NULL (Integridade de Entidade). Chaves estrangeiras podem aceitar NULL caso a relação permita tuplas órfãs. | Chaves únicas (UNIQUE) aceitam múltiplos NULLs no padrão SQL. |
+| **Superchave vs Chave Candidata** | Toda chave candidata é superchave, mas nem toda superchave é chave candidata (a chave candidata deve ser mínima). | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **O Modelo Relacional e Fundamentos de Bancos de Dados**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Dado um esquema $R(A, B, C, D)$ com chaves candidatas $\{A, B\}$ e $\{A, C\}$, liste todas as possíveis superchaves de $R$.
+2. Explique a diferença de comportamento entre `ON DELETE CASCADE` e `ON DELETE RESTRICT`.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-00-apresentacao-da-disciplina-ementa-e-ambiente-de-laboratorio">Aula Anterior</a></b></div>

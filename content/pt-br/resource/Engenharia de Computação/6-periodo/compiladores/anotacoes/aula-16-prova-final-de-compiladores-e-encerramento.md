@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-16-prova-final-de-compiladores-e-encerramento
 title: "Aula 16: Prova Final de Compiladores e Encerramento — Compiladores"
 created: '2026-12-18'
 modified: '2026-12-18'

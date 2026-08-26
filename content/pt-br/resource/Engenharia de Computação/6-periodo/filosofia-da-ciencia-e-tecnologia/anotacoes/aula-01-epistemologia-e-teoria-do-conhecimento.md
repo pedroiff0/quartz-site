@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-01-epistemologia-e-teoria-do-conhecimento
 title: "Aula 01: Epistemologia e Teoria do Conhecimento — Filosofia da Ciência e Tecnologia"
 created: '2026-09-02'
 modified: '2026-09-02'

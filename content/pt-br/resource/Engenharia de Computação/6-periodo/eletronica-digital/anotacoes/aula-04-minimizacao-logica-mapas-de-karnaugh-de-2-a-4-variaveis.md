@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-04-minimizacao-logica-mapas-de-karnaugh-de-2-a-4-variaveis
 title: "Aula 04: Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis — Eletrônica Digital"
-created: '2026-09-21'
-modified: '2026-09-21'
+created: 2026-09-21T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,94 @@ conteudo: "Técnica de agrupamento de mintermos/maxtermos em potências de 2, la
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-05-condicoes-irrelevantes-don-t-cares-e-mapas-de-5-variaveis">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Eletrônica Digital (`CSECBJI.46`)
-> - **Docente Responsável:** Rogério
-> - **Data & Horário:** 21/09/2026 (Segunda-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Eletrônica Digital (CSECBJI.46)
+> - **Professor:** Rogério
+> - **Data Realizada:** 21/09/2026
+> - **Tópico Principal:** Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/eletronica-digital/slides-aula-04.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis](#-1-anotações-do-quadro-minimizacao-logica-mapas-de-karnaugh-de-2-a-4-variaveis)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-04-eletronica-digital|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-04-eletronica-digital|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis
-
-### 📐 Fundamentação Teórica
-Técnica de agrupamento de mintermos/maxtermos em potências de 2, laços adjacentes e simplificação ótima.
-
-No contexto de **Eletrônica Digital**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{eletronica-digital}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis](#-anotações-do-quadro-minimização-lógica-mapas-de-karnaugh-de-2-a-4-variáveis)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis**:
+### 4.1 Princípio do Mapa de Karnaugh (K-Map)
+O **Mapa de Karnaugh** é uma representação bidimensional da tabela-verdade estruturada de forma que células geometricamente adjacentes correspondam a mintermos logicamente adjacentes (que diferem em apenas **1 bit**, utilizando código Gray: `00, 01, 11, 10`).
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+Isso permite aplicar visualmente o teorema da adjacência lógica:
+$$A B + A \overline{B} = A (B + \overline{B}) = A \cdot 1 = A$$
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 4.2 Regras de Agrupamento
+1. Os grupos de células com valor 1 (ou 0) devem ter tamanhos iguais a **potências de 2** ($1, 2, 4, 8, 16$).
+2. Os grupos devem ser retangulares ou quadrados e tão grandes quanto possível.
+3. O mapa é toroidal: as bordas esquerda/direita e superior/inferior são adjacentes.
+4. **Implicante Primo:** Qualquer grupo retangular maximal de tamanho $2^k$.
+5. **Implicante Primo Essencial (EPI):** Um implicante primo que cobre pelo menos uma célula que não é coberta por nenhum outro implicante primo (obrigatório na função mínima).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Minimização de Função de 4 Variáveis: $F(A, B, C, D) = \sum m(0, 2, 5, 7, 8, 10, 14, 15)$
+
+**Montagem do Mapa 4x4:**
+
+| $AB \backslash CD$ | 00 | 01 | 11 | 10 |
+| :---: | :---: | :---: | :---: | :---: |
+| **00** | **1** ($m_0$) | 0 | **1** ($m_3$) | **1** ($m_2$) |
+| **01** | 0 | **1** ($m_5$) | **1** ($m_7$) | 0 |
+| **11** | 0 | 0 | **1** ($m_{15}$) | **1** ($m_{14}$) |
+| **10** | **1** ($m_8$) | 0 | 0 | **1** ($m_{10}$) |
+
+**Identificação dos Grupos:**
+1. **Grupo dos 4 Cantos** ($m_0, m_2, m_8, m_{10}$): $\overline{B} \cdot \overline{D}$
+2. **Grupo de 4 Células** ($m_3, m_7, m_{15}, m_? \to m_5, m_7$): $\overline{A} B D$
+3. **Grupo Linha 11 / Coluna 10-11** ($m_{14}, m_{15}$): $A B C$
+
+**Expressão Mínima SOP:**
+$$F = \overline{B}\overline{D} + \overline{A}BD + ABC$$
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
 flowchart TD
-    A[Entrada: Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+    TV[Tabela-Verdade] --> KMap[Preenchimento do Mapa 4x4 em Código Gray]
+    KMap --> Group[Identificação de Implicantes Primos Essenciais]
+    Group --> Min[Expressão Lógica Mínima]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis** | Aplicação direta de Eletrônica Digital | Verificar restrições de contorno |
+| **O Agrupamento dos 4 Cantos** | Os quatro cantos do mapa de 4 variáveis formam um grupo válido de 4 células que simplifica para $\overline{B}\overline{D}$. | É a simplificação mais esquecida pelos alunos em provas! |
+| **Ordem das Linhas/Colunas** | Lembre-se sempre da ordem do código Gray: `00`, `01`, `11`, `10` (o 11 vem antes do 10). | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Minimização Lógica: Mapas de Karnaugh de 2 a 4 Variáveis**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Minimize pelo Mapa de Karnaugh a função $F(A, B, C, D) = \sum m(1, 3, 4, 5, 9, 11, 12, 13, 15)$.
+2. Identifique todos os implicantes primos e primos essenciais para a função anterior.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-03-portas-logicas-fundamentais-e-formas-canonicas">Aula Anterior</a></b></div>

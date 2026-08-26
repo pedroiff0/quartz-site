@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-03-construcao-e-uso-de-geradores-lexicos-flex-jflex
 title: "Aula 03: Construção e Uso de Geradores Léxicos (Flex / JFlex) — Compiladores"
 created: '2026-09-18'
 modified: '2026-09-18'

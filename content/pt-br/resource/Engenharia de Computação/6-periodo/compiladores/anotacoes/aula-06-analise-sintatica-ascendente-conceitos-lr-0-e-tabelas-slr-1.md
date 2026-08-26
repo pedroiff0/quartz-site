@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-06-analise-sintatica-ascendente-conceitos-lr-0-e-tabelas-slr-1
 title: "Aula 06: Análise Sintática Ascendente: Conceitos LR(0) e Tabelas SLR(1) — Compiladores"
 created: '2026-10-09'
 modified: '2026-10-09'

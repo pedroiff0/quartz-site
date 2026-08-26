@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-15-avaliacao-pratica-p2-e-apresentacao-do-compilador-desenvolvido
 title: "Aula 15: Avaliação Prática P2 e Apresentação do Compilador Desenvolvido — Compiladores"
 created: '2026-12-11'
 modified: '2026-12-11'

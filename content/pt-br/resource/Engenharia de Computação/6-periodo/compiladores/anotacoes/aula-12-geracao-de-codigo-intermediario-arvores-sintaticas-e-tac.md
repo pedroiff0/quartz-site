@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-12-geracao-de-codigo-intermediario-arvores-sintaticas-e-tac
 title: "Aula 12: Geração de Código Intermediário: Árvores Sintáticas e TAC — Compiladores"
 created: '2026-11-20'
 modified: '2026-11-20'

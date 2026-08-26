@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-03-estudo-de-localizacao-e-tamanho-escala-do-projeto
 title: "Aula 03: Estudo de Localização e Tamanho/Escala do Projeto — Gestão de Projetos"
 created: '2026-09-17'
 modified: '2026-09-17'

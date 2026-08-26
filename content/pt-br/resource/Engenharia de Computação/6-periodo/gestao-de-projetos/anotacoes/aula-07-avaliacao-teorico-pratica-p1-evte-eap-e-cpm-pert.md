@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-07-avaliacao-teorico-pratica-p1-evte-eap-e-cpm-pert
 title: "Aula 07: Avaliação Teórico-Prática P1 (EVTE, EAP e CPM/PERT) — Gestão de Projetos"
 created: '2026-10-15'
 modified: '2026-10-15'

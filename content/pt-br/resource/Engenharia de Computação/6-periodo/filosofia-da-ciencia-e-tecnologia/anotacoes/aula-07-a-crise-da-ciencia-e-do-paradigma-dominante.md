@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-07-a-crise-da-ciencia-e-do-paradigma-dominante
 title: "Aula 07: A Crise da Ciência e do Paradigma Dominante — Filosofia da Ciência e Tecnologia"
 created: '2026-10-14'
 modified: '2026-10-14'

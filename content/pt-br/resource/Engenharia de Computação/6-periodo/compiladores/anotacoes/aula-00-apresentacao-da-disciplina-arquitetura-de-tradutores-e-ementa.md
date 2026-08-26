@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-00-apresentacao-da-disciplina-arquitetura-de-tradutores-e-ementa
 title: "Aula 00: Apresentação da Disciplina, Arquitetura de Tradutores e Ementa — Compiladores"
 created: '2026-08-28'
 modified: '2026-08-28'

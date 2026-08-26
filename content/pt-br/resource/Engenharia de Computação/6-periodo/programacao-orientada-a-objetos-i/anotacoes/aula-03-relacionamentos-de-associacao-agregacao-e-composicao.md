@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-03-relacionamentos-de-associacao-agregacao-e-composicao
 title: "Aula 03: Relacionamentos de Associação, Agregação e Composição — Programação Orientada a Objetos I"
 created: '2026-09-16'
 modified: '2026-09-16'

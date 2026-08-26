@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-16-prova-final-e-fechamento-das-medias
 title: "Aula 16: Prova Final e Fechamento das Médias — Banco de Dados"
-created: '2026-12-15'
-modified: '2026-12-15'
+created: 2026-12-15T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -17,86 +18,98 @@ conteudo: "Fechamento do diário letivo, prova final institucional e consolidaç
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-15-avaliacao-pratica-p2-e-entrega-do-projeto-de-banco-de-dados">Aula Anterior</a></b></div>
   <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture">Próxima Aula</a></b></div>
+  <div>➡️ <span style="color: gray;">Última Aula</span></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Banco de Dados (`CSECBJI.44`)
-> - **Docente Responsável:** Sérgio
-> - **Data & Horário:** 15/12/2026 (Terça-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Prova Final e Fechamento das Médias
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Banco de Dados (CSECBJI.44)
+> - **Professor:** Sérgio
+> - **Data Realizada:** 15/12/2026
+> - **Tópico Principal:** Prova Final e Fechamento das Médias
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/banco-de-dados/slides-aula-16.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Prova Final e Fechamento das Médias](#-1-anotações-do-quadro-prova-final-e-fechamento-das-medias)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-16-banco-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-16-banco-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Prova Final e Fechamento das Médias
-
-### 📐 Fundamentação Teórica
-Fechamento do diário letivo, prova final institucional e consolidação das notas.
-
-No contexto de **Banco de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{banco-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Prova Final e Fechamento das Médias](#-anotações-do-quadro-prova-final-e-fechamento-das-médias)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Prova Final e Fechamento das Médias
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Prova Final e Fechamento das Médias**:
+### 16.1 Síntese Conceitual da Engenharia de Bancos de Dados
+A disciplina consolida toda a arquitetura de persistência e gerenciamento de dados:
+```text
+Modelagem Lógica (3FN/BCNF) ──▶ SQL Avançado & PL/pgSQL ──▶ Armazenamento (Árvores B+) ──▶ Transações (ACID, 2PL, ARIES) ──▶ NoSQL
+```
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Prova Final e Fechamento das Médias** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 16.2 Tendências Tecnológicas e Engenharia de Dados
+- **Bancos Híbridos (HTAP - Hybrid Transactional/Analytical Processing):** SGBDs capazes de processar transações OLTP e análises OLAP simultaneamente.
+- **Bancos NewSQL (CockroachDB, Google Spanner):** Combinam a escalabilidade horizontal NoSQL com transações ACID completas e relógio atômico TrueTime.
+- **Bancos Vetoriais (pgvector, Pinecone):** Armazenamento de embeddings para inteligência artificial generativa e busca semântica.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Fechamento das Médias e Próximos Passos Acadêmicos
+
+1. **Revisão das Avaliações:** P1 (Teoria e Normalização) + P2 (Projeto Prático PL/pgSQL) + Listas.
+2. **Integração Curricular:** Os conceitos de concorrência e armazenamento servem de alicerce para Sistemas Operacionais, Sistemas Distribuídos e Desenvolvimento Web.
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Prova Final e Fechamento das Médias] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+mindmap
+  root((Banco de Dados))
+    Modelo Relacional
+      Álgebra Relacional
+      Normalização 1FN a BCNF
+      SQL Avançado & DDL
+    Mecanismos Internos
+      Árvores B+ e Armazenamento
+      Processamento de Consultas
+      Otimização CBO
+    Concorrência e Recuperação
+      Propriedades ACID
+      Protocolo 2PL & Deadlocks
+      WAL & Algoritmo ARIES
+    Avançado
+      PL/pgSQL e Triggers
+      NoSQL e Teorema CAP
+      Bancos Vetoriais
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Prova Final e Fechamento das Médias** | Aplicação direta de Banco de Dados | Verificar restrições de contorno |
+| **Conhecimento Permanente** | O domínio profundo de Álgebra Relacional, SQL, índices e propriedades ACID é uma das habilidades mais valorizadas e duradouras da Engenharia de Software e Computação. | Frameworks e ORMs mudam, mas a teoria relacional permanece estável. |
+| **Encerramento do Semestre** | Parabéns pela conclusão da disciplina no semestre 2026-2! | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Prova Final e Fechamento das Médias**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Revisão geral dos compêndios teóricos para a Prova Final.
+2. Consulte as referências clássicas: Silberschatz (Sistemas de Bancos de Dados) e Elmasri & Navathe.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-15-avaliacao-pratica-p2-e-entrega-do-projeto-de-banco-de-dados">Aula Anterior</a></b></div>
   <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture">Próxima Aula</a></b></div>
+  <div>➡️ <span style="color: gray;">Última Aula</span></div>
 </div>

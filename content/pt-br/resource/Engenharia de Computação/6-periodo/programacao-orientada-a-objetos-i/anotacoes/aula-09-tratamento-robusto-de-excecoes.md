@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-09-tratamento-robusto-de-excecoes
 title: "Aula 09: Tratamento Robusto de Exceções — Programação Orientada a Objetos I"
 created: '2026-10-28'
 modified: '2026-10-28'

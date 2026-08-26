@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-11-deteccao-e-correcao-de-erros-paridade-checksum-e-crc
 title: "Aula 11: Detecção e Correção de Erros: Paridade, Checksum e CRC — Comunicação de Dados"
-created: '2026-11-10'
-modified: '2026-11-10'
+created: 2026-11-10T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,113 @@ conteudo: "Bits de paridade bidimensional, algoritmo de Checksum da Internet e C
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-12-controle-de-enlace-de-dados-e-protocolos-arq">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Comunicação de Dados (`CSECBJI.47`)
-> - **Docente Responsável:** Rômulo / Paulo
-> - **Data & Horário:** 10/11/2026 (Terça-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Detecção e Correção de Erros: Paridade, Checksum e CRC
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Comunicação de Dados (CSECBJI.47)
+> - **Professor:** Rômulo / Paulo
+> - **Data Realizada:** 10/11/2026
+> - **Tópico Principal:** Detecção e Correção de Erros: Paridade, Checksum e CRC
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/comunicacao-de-dados/slides-aula-11.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Detecção e Correção de Erros: Paridade, Checksum e CRC](#-1-anotações-do-quadro-deteccao-e-correcao-de-erros-paridade-checksum-e-crc)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-11-comunicacao-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-11-comunicacao-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Detecção e Correção de Erros: Paridade, Checksum e CRC
-
-### 📐 Fundamentação Teórica
-Bits de paridade bidimensional, algoritmo de Checksum da Internet e Cyclic Redundancy Check com polinômios geradores.
-
-No contexto de **Comunicação de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{comunicacao-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Detecção e Correção de Erros: Paridade, Checksum e CRC](#-anotações-do-quadro-detecção-e-correção-de-erros-paridade,-checksum-e-crc)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Detecção e Correção de Erros: Paridade, Checksum e CRC
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Detecção e Correção de Erros: Paridade, Checksum e CRC**:
+### 11.1 Fundamentos de Detecção e Correção de Erros
+Ruídos e interferências no canal alteram bits de dados ($0 \to 1$ ou $1 \to 0$).
+- **Tipos de Erro:** Erro de bit isolado e Erro em rajada (*burst error* de comprimento $B$).
+- **Redundância:** Bits adicionais de controle calculados e anexados à mensagem.
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Detecção e Correção de Erros: Paridade, Checksum e CRC** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 11.2 Técnicas Clássicas de Detecção
+1. **Paridade Simples (VRC):** Bit adicional para tornar a contagem total de '1's par ou ímpar (detecta apenas quantidades ímpares de erros de bits).
+2. **Checksum da Internet:** Soma de palavras de 16 bits em Complemento de 1 (usado em cabeçalhos IP/TCP/UDP).
+3. **Verificação de Redundância Cíclica (CRC):**
+   - Baseado em **aritmética polinomial binária módulo 2** (soma e subtração equivalem à operação XOR, sem transporte / sem *carry*).
+   - Um polinômio gerador $G(X)$ de grau $r$ garante detecção de:
+     - Todos os erros de bit único.
+     - Todos os erros duplos.
+     - Qualquer quantidade ímpar de erros.
+     - Todos os erros em rajada de comprimento menor ou igual a $r$.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Cálculo de CRC Passo a Passo: Mensagem $M = 1101001110_2$, Gerador $G = 10011_2$
+
+1. O polinômio gerador tem 5 bits, logo seu grau é $r = 5 - 1 = 4$.
+2. Anexa $r=4$ zeros à mensagem original: $M' = 11010011100000_2$.
+3. Executa a divisão binária módulo 2 ($M' / G$) usando XOR:
+   ```text
+   11010011100000 | 10011
+   10011          |────────
+   ─────
+   010010
+    10011
+    ─────
+    000011110
+        10011
+        ─────
+        011010
+         10011
+         ─────
+         010010
+          10011
+          ─────
+          000010000
+              10011
+              ─────
+              00011 (Resto R de 4 bits = 0011)
+   ```
+4. **Quadro Transmitido:** $T = M + R = 1101001110\mathbf{0011}_2$.
+5. No receptor, o quadro recebido é dividido por $G$; se o resto for $0000$, a mensagem é aceita como íntegra!
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Detecção e Correção de Erros: Paridade, Checksum e CRC] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+flowchart LR
+    Msg[Mensagem Original M de k bits] --> Append[Anexa r Zeros]
+    Append --> Div["Divisão Polinomial Módulo 2 por G(X)"]
+    Div --> Rem[Resto R de r bits: Código CRC]
+    Rem & Msg --> Frame[Quadro Transmitido: M + R]
+    Frame --> Canal[Canal com Ruído]
+    Canal --> RxDiv["Divisão por G(X) no Receptor"]
+    RxDiv --> Check{Resto == 0 ?}
+    Check -- Sim --> Accept[Quadro Aceito]
+    Check -- Não --> Discard[Erro Detectado - Solicita Retransmissão]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Detecção e Correção de Erros: Paridade, Checksum e CRC** | Aplicação direta de Comunicação de Dados | Verificar restrições de contorno |
+| **Propriedades do CRC** | O CRC-32 padrão do Ethernet ($r=32$ bits) detecta 100% dos erros em rajada de até 32 bits e 99.99999997% de qualquer outro padrão de erro arbitrário. | Implementado em hardware em altíssima velocidade via registradores de deslocamento com retroalimentação (LFSR). |
+| **Aritmética Módulo 2** | Na divisão polinomial de CRC, soma é XOR ($1+1=0$) e subtração é XOR ($1-1=0$). Nunca faça empréstimo (*borrow*)! | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Detecção e Correção de Erros: Paridade, Checksum e CRC**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Calcule o código CRC para a mensagem $M = 101001_2$ utilizando o gerador $G(X) = X^3 + X + 1$ ($1011_2$).
+2. Simule a chegada da mensagem com o 3º bit invertido e mostre que o resto da divisão no receptor será diferente de zero.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-10-transmissao-sincrona-vs-assincrona-e-interfaceamento-fisico">Aula Anterior</a></b></div>

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-13-gerenciamento-de-aquisicoes-contratos-e-comunicacao
 title: "Aula 13: Gerenciamento de Aquisições, Contratos e Comunicação — Gestão de Projetos"
 created: '2026-11-26'
 modified: '2026-11-26'

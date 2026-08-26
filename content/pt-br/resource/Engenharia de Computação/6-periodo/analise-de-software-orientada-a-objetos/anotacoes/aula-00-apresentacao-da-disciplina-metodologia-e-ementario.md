@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-00-apresentacao-da-disciplina-metodologia-e-ementario
 title: "Aula 00: Apresentação da Disciplina, Metodologia e Ementário — Análise de Software Orientada a Objetos"
-created: '2026-08-26'
-modified: '2026-08-26'
+created: 2026-08-26T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -15,88 +16,97 @@ conteudo: "Introdução ao programa da disciplina, critérios avaliativos e vis�
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos">Aula Anterior</a></b></div>
+  <div>⬅️ <span style="color: gray;">Primeira Aula</span></div>
   <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos">Hub da Disciplina</a></b></div>
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-01-o-paradigma-orientado-a-objetos-e-o-processo-unificado">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Análise de Software Orientada a Objetos (`CSECBJI.42`)
-> - **Docente Responsável:** Bruno
-> - **Data & Horário:** 26/08/2026 (Quarta-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Apresentação da Disciplina, Metodologia e Ementário
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Análise de Software Orientada a Objetos (CSECBJI.42)
+> - **Professor:** Bruno
+> - **Data Realizada:** 26/08/2026
+> - **Tópico Principal:** Apresentação da Disciplina, Metodologia e Ementário
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/analise-de-software-orientada-a-objetos/slides-aula-00.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Apresentação da Disciplina, Metodologia e Ementário](#-1-anotações-do-quadro-apresentacao-da-disciplina-metodologia-e-ementario)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-00-analise-de-software-orientada-a-objetos|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-00-analise-de-software-orientada-a-objetos|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Apresentação da Disciplina, Metodologia e Ementário
-
-### 📐 Fundamentação Teórica
-Introdução ao programa da disciplina, critérios avaliativos e visão geral do Processo Unificado.
-
-No contexto de **Análise de Software Orientada a Objetos**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{analise-de-software-orientada-a-objetos}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Apresentação da Disciplina, Metodologia e Ementário](#-anotações-do-quadro-apresentação-da-disciplina,-metodologia-e-ementário)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Apresentação da Disciplina, Metodologia e Ementário
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Apresentação da Disciplina, Metodologia e Ementário**:
+### 1.1 Objetivos da Análise e Design Orientados a Objetos (OOAD)
+A disciplina de Análise e Design OO estabelece a ponte formal entre as necessidades do negócio do cliente e a implementação do código:
+- **Análise OO:** Concentra-se em compreender **O QUE** o sistema deve fazer, modelando o domínio do problema sem decisões prematuras de tecnologia.
+- **Design OO:** Concentra-se em definir **COMO** o sistema resolverá o problema, projetando classes de software, arquitetura em camadas e padrões de projeto.
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 1.2 O Papel da Unified Modeling Language (UML)
+A UML (padronizada pela OMG) é a linguagem visual padrão para especificação, modelagem e documentação de artefatos de software:
+1. **Diagramas Estruturais:** Diagrama de Classes, Diagrama de Pacotes, Diagrama de Componentes, Diagrama de Implantação.
+2. **Diagramas Comportamentais:** Diagrama de Casos de Uso, Diagrama de Sequência, Diagrama de Atividades, Diagrama de Máquinas de Estados.
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Apresentação da Disciplina, Metodologia e Ementário** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 1.3 Ciclos de Vida de Desenvolvimento de Software
+- Modelo em Cascata (*Waterfall*): Sequencial e rígido.
+- Modelos Ágeis e Iterativos: Entregas contínuas em sprints curtas, com feedback frequente do cliente.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
 
-```mermaid
-flowchart TD
-    A[Entrada: Apresentação da Disciplina, Metodologia e Ementário] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+### ✏️ A Transição Conceitual: Da Análise ao Código
+
+```text
+1. Análise de Domínio:
+   Identifica conceitos do mundo real: Cliente, Pedido, Item, Produto.
+
+2. Design de Software:
+   Define classes de solução: PedidoController, RepositorioPedido, ValidadorDesconto.
+
+3. Implementação:
+   Codificação orientada a objetos com testes unitários em Java/C#.
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
-| :--- | :--- | :--- |
-| **Apresentação da Disciplina, Metodologia e Ementário** | Aplicação direta de Análise de Software Orientada a Objetos | Verificar restrições de contorno |
+```mermaid
+flowchart LR
+    Req[Requisitos do Cliente] --> An[Análise OO: Modelo de Domínio]
+    An --> Des[Design OO: Diagrama de Classes e GoF]
+    Des --> Code[Implementação: Código Fonte Testável]
+```
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Apresentação da Disciplina, Metodologia e Ementário**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
+| :--- | :--- | :--- |
+| **Análise vs Design** | Análise investiga o problema do mundo real; Design projeta a solução lógica de software. | Não projete tabelas de banco de dados ou botões de UI durante a fase de análise de domínio! |
+| **UML não é Metodologia** | UML é apenas uma notação visual; o Processo Unificado ou Scrum são os métodos de trabalho. | Aplicação prática direta |
+
+---
+
+## 📝 Dúvidas & Exercícios Recomendados para Casa
+
+1. Diferencie detalhadamente a fase de Análise OO da fase de Design OO.
+2. Classifique os 14 diagramas da UML 2.5 em Estruturais e Comportamentais.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos">Aula Anterior</a></b></div>
+  <div>⬅️ <span style="color: gray;">Primeira Aula</span></div>
   <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos">Hub da Disciplina</a></b></div>
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-01-o-paradigma-orientado-a-objetos-e-o-processo-unificado">Próxima Aula</a></b></div>
 </div>

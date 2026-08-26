@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-07-avaliacao-pratica-em-laboratorio-p1
 title: "Aula 07: Avaliação Prática em Laboratório P1 — Programação Orientada a Objetos I"
 created: '2026-10-14'
 modified: '2026-10-14'

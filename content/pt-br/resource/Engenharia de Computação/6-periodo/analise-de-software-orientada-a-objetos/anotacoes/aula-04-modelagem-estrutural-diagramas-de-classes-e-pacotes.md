@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-04-modelagem-estrutural-diagramas-de-classes-e-pacotes
 title: "Aula 04: Modelagem Estrutural: Diagramas de Classes e Pacotes — Análise de Software Orientada a Objetos"
-created: '2026-09-23'
-modified: '2026-09-23'
+created: 2026-09-23T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,128 @@ conteudo: "Classes conceituais vs classes de software, atributos, métodos, mult
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-05-modelagem-comportamental-diagramas-de-sequencia">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Análise de Software Orientada a Objetos (`CSECBJI.42`)
-> - **Docente Responsável:** Bruno
-> - **Data & Horário:** 23/09/2026 (Quarta-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Modelagem Estrutural: Diagramas de Classes e Pacotes
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Análise de Software Orientada a Objetos (CSECBJI.42)
+> - **Professor:** Bruno
+> - **Data Realizada:** 23/09/2026
+> - **Tópico Principal:** Modelagem Estrutural: Diagramas de Classes e Pacotes
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/analise-de-software-orientada-a-objetos/slides-aula-04.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Modelagem Estrutural: Diagramas de Classes e Pacotes](#-1-anotações-do-quadro-modelagem-estrutural-diagramas-de-classes-e-pacotes)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-04-analise-de-software-orientada-a-objetos|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-04-analise-de-software-orientada-a-objetos|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Modelagem Estrutural: Diagramas de Classes e Pacotes
-
-### 📐 Fundamentação Teórica
-Classes conceituais vs classes de software, atributos, métodos, multiplicidade, visibilidade e acoplamento entre pacotes.
-
-No contexto de **Análise de Software Orientada a Objetos**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{analise-de-software-orientada-a-objetos}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Modelagem Estrutural: Diagramas de Classes e Pacotes](#-anotações-do-quadro-modelagem-estrutural-diagramas-de-classes-e-pacotes)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Modelagem Estrutural: Diagramas de Classes e Pacotes
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Modelagem Estrutural: Diagramas de Classes e Pacotes**:
+### 4.1 Diagrama de Classes Estrutural (UML)
+O Diagrama de Classes é o principal artefato estático da modelagem OO, representando classes, atributos, operações e relacionamentos.
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 4.2 Anatomia da Classe e Notação de Visibilidade
+```text
+┌─────────────────────────────────────────────────┐
+│ ContaBancaria                                   │ ◄── Nome da Classe
+├─────────────────────────────────────────────────┤
+│ - numero: String                                │ ◄── Atributos: Visibilidade (- private)
+│ # titular: String                               │                (# protected, ~ package)
+│ + saldo: double = 0.0                           │                (+ public, / derivado)
+├─────────────────────────────────────────────────┤
+│ + depositar(valor: double): void                │ ◄── Operações / Métodos
+│ + sacar(valor: double): boolean                 │
+│ + getSaldo(): double                            │
+└─────────────────────────────────────────────────┘
+```
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Modelagem Estrutural: Diagramas de Classes e Pacotes** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 4.3 Relacionamentos Estruturais
+1. **Associação:** Linha contínua com multiplicidades nas extremidades (`1`, `0..1`, `*`, `1..*`).
+2. **Agregação:** Losango branco na ponta do Todo (relação fraca).
+3. **Composição:** Losango preto na ponta do Todo (relação forte com morte conjunta).
+4. **Generalização (Herança):** Seta com triângulo vazado apontando para a Superclasse.
+5. **Realização (Interface):** Linha tracejada com triângulo vazado apontando para a Interface.
+6. **Dependência:** Linha tracejada simples com seta aberta (`uses`).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
 
-```mermaid
-flowchart TD
-    A[Entrada: Modelagem Estrutural: Diagramas de Classes e Pacotes] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+### ✏️ Diagrama de Classes: Módulo de Pedidos e Pagamentos
+
+```text
+┌──────────────┐ 1        * ┌──────────────┐ 1        1 ┌──────────────┐
+│ Cliente      │───────────│ Pedido       │*───────────│ Pagamento    │
+├──────────────┤            ├──────────────┤            ├──────────────┤
+│ - cpf: String│            │ - id: int    │            │ - valor: dou │
+│ - nome: Str  │            │ - data: Date │            │ - pago: bool │
+└──────────────┘            └──────────────┘            └──────────────┘
+                                   │ 1
+                                   │ * (Composição)
+                            ┌──────────────┐
+                            │ ItemPedido   │
+                            ├──────────────┤
+                            │ - qtd: int   │
+                            │ - preco: dou │
+                            └──────────────┘
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
-| :--- | :--- | :--- |
-| **Modelagem Estrutural: Diagramas de Classes e Pacotes** | Aplicação direta de Análise de Software Orientada a Objetos | Verificar restrições de contorno |
+```mermaid
+classDiagram
+    Cliente "1" --> "*" Pedido : realiza
+    Pedido "1" *-- "*" ItemPedido : contém
+    Pedido "1" --> "1" Pagamento : possui
+    Pagamento <|-- PagamentoPix
+    Pagamento <|-- PagamentoCartao
+    
+    class Cliente {
+        -String cpf
+        -String nome
+    }
+    class Pedido {
+        -int id
+        -Date data
+        +calcularTotal() double
+    }
+    class ItemPedido {
+        -int quantidade
+        -double precoUnitario
+    }
+    class Pagamento {
+        <<abstract>>
+        -double valor
+        +processar()* boolean
+    }
+```
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Modelagem Estrutural: Diagramas de Classes e Pacotes**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
+| :--- | :--- | :--- |
+| **Atributos Derivados (`/`)** | Atributos calculados em tempo de execução a partir de outros campos (como `/total` ou `/idade`) são antecedidos por uma barra `/`. | Evita redundância de armazenamento desnecessária. |
+| **Multiplicidades** | Preste atenção à leitura: `Cliente 1 ─── * Pedido` lê-se 'Um cliente realiza zero ou muitos pedidos; Cada pedido pertence a exatamente um cliente'. | Aplicação prática direta |
+
+---
+
+## 📝 Dúvidas & Exercícios Recomendados para Casa
+
+1. Modele o Diagrama de Classes completo para um sistema de gestão hospitalar com Médicos, Pacientes, Consultas, Receitas e Medicamentos.
+2. Diferencie com diagramas de classes a relação entre `Turma` e `Aluno` (Agregação) e `Turma` e `HorarioAula` (Composição).
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-03-diagrama-de-casos-de-uso-e-especificacoes-textuais">Aula Anterior</a></b></div>

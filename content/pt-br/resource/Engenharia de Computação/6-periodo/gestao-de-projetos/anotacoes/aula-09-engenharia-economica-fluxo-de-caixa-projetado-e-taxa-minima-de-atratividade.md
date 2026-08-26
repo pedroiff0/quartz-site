@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-09-engenharia-economica-fluxo-de-caixa-projetado-e-taxa-minima-de-atratividade
 title: "Aula 09: Engenharia Econômica: Fluxo de Caixa Projetado e Taxa Mínima de Atratividade — Gestão de Projetos"
 created: '2026-10-29'
 modified: '2026-10-29'

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-08-gestao-de-custos-estimativas-orcamento-e-analise-de-ponto-de-equilibrio
 title: "Aula 08: Gestão de Custos: Estimativas, Orçamento e Análise de Ponto de Equilíbrio — Gestão de Projetos"
 created: '2026-10-22'
 modified: '2026-10-22'

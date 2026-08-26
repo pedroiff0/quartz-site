@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-16-consideracoes-finais-prova-final-e-fechamento
 title: "Aula 16: Considerações Finais, Prova Final e Fechamento — Filosofia da Ciência e Tecnologia"
 created: '2026-12-16'
 modified: '2026-12-16'

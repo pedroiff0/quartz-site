@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-05-planejamento-de-escopo-estrutura-analitica-do-projeto-eap-wbs
 title: "Aula 05: Planejamento de Escopo: Estrutura Analítica do Projeto (EAP / WBS) — Gestão de Projetos"
 created: '2026-10-01'
 modified: '2026-10-01'

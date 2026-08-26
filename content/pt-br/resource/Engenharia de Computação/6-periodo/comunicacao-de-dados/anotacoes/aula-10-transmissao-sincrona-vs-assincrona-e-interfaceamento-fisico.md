@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-10-transmissao-sincrona-vs-assincrona-e-interfaceamento-fisico
 title: "Aula 10: Transmissão Síncrona vs Assíncrona e Interfaceamento Físico — Comunicação de Dados"
-created: '2026-11-03'
-modified: '2026-11-03'
+created: 2026-11-03T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,91 @@ conteudo: "Bits de start/stop, sincronismo de clock a nível de bit/bloco, inter
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-11-deteccao-e-correcao-de-erros-paridade-checksum-e-crc">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Comunicação de Dados (`CSECBJI.47`)
-> - **Docente Responsável:** Rômulo / Paulo
-> - **Data & Horário:** 03/11/2026 (Terça-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Transmissão Síncrona vs Assíncrona e Interfaceamento Físico
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Comunicação de Dados (CSECBJI.47)
+> - **Professor:** Rômulo / Paulo
+> - **Data Realizada:** 03/11/2026
+> - **Tópico Principal:** Transmissão Síncrona vs Assíncrona e Interfaceamento Físico
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/comunicacao-de-dados/slides-aula-10.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Transmissão Síncrona vs Assíncrona e Interfaceamento Físico](#-1-anotações-do-quadro-transmissao-sincrona-vs-assincrona-e-interfaceamento-fisico)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-10-comunicacao-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-10-comunicacao-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Transmissão Síncrona vs Assíncrona e Interfaceamento Físico
-
-### 📐 Fundamentação Teórica
-Bits de start/stop, sincronismo de clock a nível de bit/bloco, interfaces RS-232, RS-485 e padrões de camada física.
-
-No contexto de **Comunicação de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{comunicacao-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Transmissão Síncrona vs Assíncrona e Interfaceamento Físico](#-anotações-do-quadro-transmissão-síncrona-vs-assíncrona-e-interfaceamento-físico)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Transmissão Síncrona vs Assíncrona e Interfaceamento Físico
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Transmissão Síncrona vs Assíncrona e Interfaceamento Físico**:
+### 10.1 Transmissão Assíncrona
+Os dados são transmitidos caractere a caractere (normalmente 8 bits).
+- Cada caractere é delimitado por um **Start Bit** (nível lógico 0) para alertar o receptor e um ou dois **Stop Bits** (nível lógico 1) para retornar à linha em repouso (*Mark*).
+- Não há linha dedicada de clock compartilhada; os clocks do transmissor e do receptor devem estar sincronizados na mesma taxa (*Baud Rate*, ex: 9600, 115200 bps) com tolerância de desvio inferior a $2\%$.
+- *Overhead:* Para 8 bits úteis com 1 start e 1 stop bit, transmitem-se 10 bits ($20\%$ de perda de eficiência).
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 10.2 Transmissão Síncrona
+Grandes blocos contínuos de dados (quadros de centenas de bytes) são transmitidos precedidos por **Padrões de Sincronismo de Relógio (Preâmbulo / Flags)**.
+- O sinal de clock é transmitido em uma linha separada ou recuperado diretamente do sinal de dados (via codificação Manchester ou scrambler).
+- *Eficiência:* Quase $100\%$ de utilização do canal útil.
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Transmissão Síncrona vs Assíncrona e Interfaceamento Físico** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 10.3 Padrões de Interfaceamento Físico
+- **RS-232-C / EIA-232:** Sinalização *single-ended* (referenciada a GND). Nível lógico $1 = -3\text{V}$ a $-15\text{V}$; Nível $0 = +3\text{V}$ a $+15\text{V}$. Alcance limitado a $\sim 15\text{ metros}$ e velocidades até $115.2\text{ kbps}$.
+- **RS-485 / EIA-485:** Sinalização **diferencial** balanceada ($V_A - V_B$). Excelente imunidade a ruídos de modo comum. Suporta topologia multiponto com até 32 transceivers, alcances de até $1.200\text{ metros}$ e taxas até $10\text{ Mbps}$.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Estrutura de Quadro Serial UART e Pinagem RS-232
+
+```text
+Linha em Repouso (+12V/-12V) ──┐
+                              │ Start  D0  D1  D2  D3  D4  D5  D6  D7 Paridade Stop
+                              └───────[ 8 BITS DE DADOS LSB->MSB ]───[ P ]──[ 1/2 ]──▶
+```
+
+**Sinais de Controle de Fluxo por Hardware (*Handshaking*):**
+- **RTS (*Request to Send*) / CTS (*Clear to Send*):** O transmissor pede autorização para emitir dados e o receptor confirma quando o buffer estiver livre.
+- **DTR (*Data Terminal Ready*) / DSR (*Data Set Ready*):** Indica que o modem/terminal está ligado e operacional.
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Transmissão Síncrona vs Assíncrona e Interfaceamento Físico] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+flowchart LR
+    subgraph RS485 [Sinalização Diferencial RS-485]
+        Tx[Driver Transmissor] --> LineA[Linha A: Sinal +V]
+        Tx --> LineB[Linha B: Sinal Invertido -V]
+        LineA & LineB --> Rx[Receptor Diferencial: V_A - V_B]
+    end
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Transmissão Síncrona vs Assíncrona e Interfaceamento Físico** | Aplicação direta de Comunicação de Dados | Verificar restrições de contorno |
+| **Por que Sinalização Diferencial é Superior?** | No RS-485, qualquer ruído eletromagnético externo induz a mesma tensão espúria em ambos os condutores trançados. O receptor calcula $(V_A + V_{	ext{ruído}}) - (V_B + V_{	ext{ruído}}) = V_A - V_B$, cancelando o ruído perfeitamente! | Padrão em redes industriais Modbus. |
+| **Níveis Invertidos do RS-232** | No RS-232, tensão positiva ($+12	ext{V}$) representa o bit ZERO (*Space*); tensão negativa ($-12	ext{V}$) representa o bit UM (*Mark*). | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Transmissão Síncrona vs Assíncrona e Interfaceamento Físico**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Calcule a eficiência de transmissão percentual de uma conexão UART configurada em 8-N-1 (8 bits de dados, sem paridade, 1 stop bit) e em 7-E-2 (7 bits de dados, paridade par, 2 stop bits).
+2. Explique a função dos resistores de terminação de $120\ \Omega$ nos extremos de um barramento RS-485.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-09-modulacao-por-amplitude-em-quadratura-qam">Aula Anterior</a></b></div>

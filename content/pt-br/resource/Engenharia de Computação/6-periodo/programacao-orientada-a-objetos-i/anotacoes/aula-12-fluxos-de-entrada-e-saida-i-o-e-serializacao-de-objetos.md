@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-12-fluxos-de-entrada-e-saida-i-o-e-serializacao-de-objetos
 title: "Aula 12: Fluxos de Entrada e Saída (I/O) e Serialização de Objetos — Programação Orientada a Objetos I"
 created: '2026-11-18'
 modified: '2026-11-18'

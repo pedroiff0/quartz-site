@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-12-gestao-de-riscos-em-projetos-identificacao-e-matriz-de-probabilidade
 title: "Aula 12: Gestão de Riscos em Projetos: Identificação e Matriz de Probabilidade — Gestão de Projetos"
 created: '2026-11-19'
 modified: '2026-11-19'

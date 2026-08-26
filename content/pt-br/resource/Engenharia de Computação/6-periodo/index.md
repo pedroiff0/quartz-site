@@ -35,7 +35,7 @@ disciplines.forEach(d => {
         const name = (p.file.name || "").toLowerCase();
         
         const isEsboco = folder.includes("esboço") || folder.includes("esboco") || path.includes("esboço") || path.includes("esboco") || folder.includes("draft");
-        const isAula = /^aula\s+\d+\s*-/.test(name);
+        const isAula = /^aula[\s_-]+\d+/i.test(name);
         
         return isAula && !isEsboco;
     });

@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-00-apresentacao-da-disciplina-ementa-e-ambiente-de-laboratorio
 title: "Aula 00: Apresentação da Disciplina, Ementa e Ambiente de Laboratório — Banco de Dados"
-created: '2026-08-25'
-modified: '2026-08-25'
+created: 2026-08-25T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -15,88 +16,108 @@ conteudo: "Apresentação do plano de ensino, arquitetura ANSI/SPARC de SGBDs e 
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados">Aula Anterior</a></b></div>
+  <div>⬅️ <span style="color: gray;">Primeira Aula</span></div>
   <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados">Hub da Disciplina</a></b></div>
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-01-o-modelo-relacional-e-fundamentos-de-bancos-de-dados">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Banco de Dados (`CSECBJI.44`)
-> - **Docente Responsável:** Sérgio
-> - **Data & Horário:** 25/08/2026 (Terça-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Apresentação da Disciplina, Ementa e Ambiente de Laboratório
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Banco de Dados (CSECBJI.44)
+> - **Professor:** Sérgio
+> - **Data Realizada:** 25/08/2026
+> - **Tópico Principal:** Apresentação da Disciplina, Ementa e Ambiente de Laboratório
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/banco-de-dados/slides-aula-00.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Apresentação da Disciplina, Ementa e Ambiente de Laboratório](#-1-anotações-do-quadro-apresentacao-da-disciplina-ementa-e-ambiente-de-laboratorio)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-00-banco-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-00-banco-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Apresentação da Disciplina, Ementa e Ambiente de Laboratório
-
-### 📐 Fundamentação Teórica
-Apresentação do plano de ensino, arquitetura ANSI/SPARC de SGBDs e configuração do PostgreSQL.
-
-No contexto de **Banco de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{banco-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Apresentação da Disciplina, Ementa e Ambiente de Laboratório](#-anotações-do-quadro-apresentação-da-disciplina,-ementa-e-ambiente-de-laboratório)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Apresentação da Disciplina, Ementa e Ambiente de Laboratório
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Apresentação da Disciplina, Ementa e Ambiente de Laboratório**:
+### 1.1 Arquitetura em Três Níveis ANSI/SPARC
+A arquitetura ANSI/SPARC divide os Sistemas Gerenciadores de Bancos de Dados (SGBDs) em três níveis de abstração para garantir independência de dados:
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+1. **Nível Externo (Visões de Usuário):** Define como diferentes grupos de usuários ou aplicações enxergam partes específicas da base de dados.
+2. **Nível Conceitual (Esquema Lógico Global):** Descreve a estrutura completa do banco de dados (tabelas, colunas, tipos, restrições e relacionamentos), ocultando detalhes de implementação física.
+3. **Nível Interno (Esquema Físico de Armazenamento):** Descreve como os dados são organizados no disco rígido/SSD (alocação de blocos, índices, ordenação, compressão).
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Apresentação da Disciplina, Ementa e Ambiente de Laboratório** antes de simplificar as equações na prova!
+### 1.2 Independência de Dados
+- **Independência Lógica de Dados:** Capacidade de alterar o esquema conceitual sem modificar os esquemas externos ou as aplicações de usuário.
+- **Independência Física de Dados:** Capacidade de reorganizar o armazenamento interno (ex: criar novos índices, trocar SSDs) sem alterar o esquema conceitual.
 
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 1.3 O SGBD PostgreSQL e Ferramentas de Laboratório
+O PostgreSQL é um SGBD objeto-relacional open-source de padrão industrial, compatível com SQL padrão e transações ACID completas.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
 
-```mermaid
-flowchart TD
-    A[Entrada: Apresentação da Disciplina, Ementa e Ambiente de Laboratório] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+### ✏️ Configuração do Ambiente e Conexão via Terminal `psql`
+
+```bash
+# Instalação e verificação do serviço
+sudo systemctl status postgresql
+
+# Acesso ao shell interativo
+psql -U postgres -d postgres
+
+# Criação de base de dados para o semestre
+CREATE DATABASE engenharia_db;
+\c engenharia_db
+
+# Criação de tabela de teste
+CREATE TABLE aluno (
+    matricula VARCHAR(10) PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    cra NUMERIC(4,2) CHECK (cra >= 0.0 AND cra <= 10.0)
+);
+
+\d aluno
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
-| :--- | :--- | :--- |
-| **Apresentação da Disciplina, Ementa e Ambiente de Laboratório** | Aplicação direta de Banco de Dados | Verificar restrições de contorno |
+```mermaid
+flowchart TD
+    subgraph ANSI_SPARC [Arquitetura ANSI / SPARC]
+        U1[Visão Aplicação Web] & U2[Visão Dashboard Admin] --> C[Nível Conceitual: Esquema Lógico Relacional]
+        C --> I[Nível Interno: Páginas em Disco, Árvores B+, WAL]
+    end
+```
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Apresentação da Disciplina, Ementa e Ambiente de Laboratório**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
+| :--- | :--- | :--- |
+| **Independência Física vs Lógica** | Independência física protege contra mudanças de disco/índices; Independência lógica protege contra adição de novas tabelas/colunas. | Perguntas de prova frequentemente trocam essas duas definições. |
+| **Schemas no PostgreSQL** | No PostgreSQL, um banco de dados contém múltiplos *Schemas* (o padrão é `public`). | Aplicação prática direta |
+
+---
+
+## 📝 Dúvidas & Exercícios Recomendados para Casa
+
+1. Diferencie formalmente a Independência Lógica de Dados da Independência Física de Dados.
+2. Explique o papel do Catálogo do Sistema (Metadados) em um SGBD relacional.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados">Aula Anterior</a></b></div>
+  <div>⬅️ <span style="color: gray;">Primeira Aula</span></div>
   <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados">Hub da Disciplina</a></b></div>
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-01-o-modelo-relacional-e-fundamentos-de-bancos-de-dados">Próxima Aula</a></b></div>
 </div>

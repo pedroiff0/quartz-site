@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-13-expressoes-lambda-e-streams-api
 title: "Aula 13: Expressões Lambda e Streams API — Programação Orientada a Objetos I"
 created: '2026-11-25'
 modified: '2026-11-25'

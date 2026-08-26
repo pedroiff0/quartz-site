@@ -12,7 +12,7 @@ tags:
 > [!info] 📌 Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.47`
 > - **Período:** 6º Período | **Núcleo:** Específica | **Carga Horária:** 60
-> - **Docente Responsável:** Garcez (luiz.garcez@iff.edu.br)
+> - **Docente Responsável:** Luiz Carlos Ferreira Garcez (luiz.garcez@iff.edu.br)
 
 > [!note] 📋 Ementa e Objetivos Pedagógicos
 > ### 📋 Ementa
@@ -33,48 +33,48 @@ tags:
 ## 📖 Conteúdo Programático
 1. Transmissão de Dados
 
-- Conceitos e Terminologias de Transmissão de Dados
-- Transmissão de Dados Analógica
-- Transmissão de Dados Digital
-- Problemas de Transmissão
-- Capacidade de Canal
+- [ ] Conceitos e Terminologias de Transmissão de Dados
+- [ ] Transmissão de Dados Analógica
+- [ ] Transmissão de Dados Digital
+- [ ] Problemas de Transmissão
+- [ ] Capacidade de Canal
 
 2. Meios de Transmissão
 
-- Transmissão Guiada e Meios de Transmissão Guiada
-- Transmissão Sem Fio
-- Conceitos de Propagação
-- Linha de Visada
+- [ ] Transmissão Guiada e Meios de Transmissão Guiada
+- [ ] Transmissão Sem Fio
+	- [ ] Conceitos de Propagação
+	- [ ] Linha de Visada
 
 3. Comunicação de Dados Digitais
 
-- Técnicas de Codificação de Sinais
-- Técnicas de Comunicação de Dados Digitais
-- Transmissão Síncrona
-- Transmissão Assíncrona
-- Detecção e Controle de Erros
-- Códigos de Linha
-- Interfaceamento
+- [ ] Técnicas de Codificação de Sinais
+- [ ] Técnicas de Comunicação de Dados Digitais
+- [ ] Transmissão Síncrona
+- [ ] Transmissão Assíncrona
+- [ ] Detecção e Controle de Erros
+- [ ] Códigos de Linha
+- [ ] Interfaceamento
 
 4. Comunicação de Dados Analógica
 
-- Modulação de Dados Digitais
-- Modens Modulação de Sinais Analógicos
-- AM
-- FM
-- PM
+- [ ] Modulação de Dados Digitais
+- [ ] Modens Modulação de Sinais Analógicos
+	- [ ] AM
+	- [ ] FM
+	- [ ] PM
 
 5. Controle de Enlace de Dados
 
-- Controle de Fluxo e de Erros
-- Controle de Enlace Lógico
-- Questões de Desempenho
+- [ ] Controle de Fluxo e de Erros
+- [ ] Controle de Enlace Lógico
+- [ ] Questões de Desempenho
 
 6. Multiplexação
 
-- FDM
-- TDM Síncrono e Estatístico
-- Característica de Comunicação de Última Milha.
+- [ ] FDM
+- [ ] TDM Síncrono e Estatístico
+- [ ] Característica de Comunicação de Última Milha.
 
 7. Espalhamento Espectral
 
@@ -85,13 +85,15 @@ tags:
 > 3. ROCHOL, J. Comunicação de Dados. Porto Alegre: Bookman, 2011.
 > 
 > ### 📗 Bibliografia Complementar
-> 1. HAYKIN, S.
-> 2. MOHER, M. Sistemas modernos de comunicação wireless. Porto Alegre: Bookman, 2008.
-> 3. HAYKIN, S. Sistemas de comunicação: analógicos e digitais. 5ª Edição. Porto Alegre: Bookman, 2010.
-> 4. LATHI, E., DING, Z. Sistemas de Comunicações Analógicos e Digitais Modernos. 4ª Edição. Rio de Janeiro: LTC, 2012.
-> 5. HSU, H. P. Comunicação Analógica e Digital. 2ª Edição. Porto Alegre, 2006.
-> 6. CARVALHO ROCHOL, J. Sistemas de Comunicação Sem Fio: Conceitos e Aplicações. Porto Alegre: Bookman, 2018.
+> 1. HAYKIN, S. MOHER, M. Sistemas modernos de comunicação wireless. Porto Alegre: Bookman, 2008.
+> 2. HAYKIN, S. Sistemas de comunicação: analógicos e digitais. 5ª Edição. Porto Alegre: Bookman, 2010.
+> 3. LATHI, E., DING, Z. Sistemas de Comunicações Analógicos e Digitais Modernos. 4ª Edição. Rio de Janeiro: LTC, 2012.
+> 4. HSU, H. P. Comunicação Analógica e Digital. 2ª Edição. Porto Alegre, 2006.
+> 5. CARVALHO ROCHOL, J. Sistemas de Comunicação Sem Fio: Conceitos e Aplicações. Porto Alegre: Bookman, 2018.
 
 ## 📝 Anotações e Arquivos Didáticos
 - 📖 **[Short Lecture — Comunicação de Dados (Compêndio Completo)](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)**
 - 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes)**
+- 📖 **[[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf|Acessar Livro da Disciplina]]**
+- 📁 [[]]
+

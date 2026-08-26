@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-01-definicao-conceitos-fundamentais-e-ciclo-de-vida-de-projetos
 title: "Aula 01: Definição, Conceitos Fundamentais e Ciclo de Vida de Projetos — Gestão de Projetos"
 created: '2026-09-03'
 modified: '2026-09-03'

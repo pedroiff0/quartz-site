@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-13-otimizacao-de-codigo-independente-de-maquina
 title: "Aula 13: Otimização de Código Independente de Máquina — Compiladores"
 created: '2026-11-27'
 modified: '2026-11-27'

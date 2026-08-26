@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-10-o-java-collections-framework-listas-e-conjuntos
 title: "Aula 10: O Java Collections Framework: Listas e Conjuntos — Programação Orientada a Objetos I"
 created: '2026-11-04'
 modified: '2026-11-04'

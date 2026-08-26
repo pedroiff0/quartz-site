@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-16-prova-final-de-poo-i-e-fechamento
 title: "Aula 16: Prova Final de POO I e Fechamento — Programação Orientada a Objetos I"
 created: '2026-12-16'
 modified: '2026-12-16'

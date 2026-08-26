@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-10-metodos-de-avaliacao-de-investimentos-payback-simples-e-descontado
 title: "Aula 10: Métodos de Avaliação de Investimentos: Payback Simples e Descontado — Gestão de Projetos"
 created: '2026-11-05'
 modified: '2026-11-05'

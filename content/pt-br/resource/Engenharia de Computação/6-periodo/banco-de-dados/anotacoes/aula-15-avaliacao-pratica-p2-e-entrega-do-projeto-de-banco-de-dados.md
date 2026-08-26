@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-15-avaliacao-pratica-p2-e-entrega-do-projeto-de-banco-de-dados
 title: "Aula 15: Avaliação Prática P2 e Entrega do Projeto de Banco de Dados — Banco de Dados"
-created: '2026-12-08'
-modified: '2026-12-08'
+created: 2026-12-08T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,80 @@ conteudo: "Avaliação prática de tuning, transações e apresentação do proj
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-16-prova-final-e-fechamento-das-medias">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Banco de Dados (`CSECBJI.44`)
-> - **Docente Responsável:** Sérgio
-> - **Data & Horário:** 08/12/2026 (Terça-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Avaliação Prática P2 e Entrega do Projeto de Banco de Dados
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Banco de Dados (CSECBJI.44)
+> - **Professor:** Sérgio
+> - **Data Realizada:** 08/12/2026
+> - **Tópico Principal:** Avaliação Prática P2 e Entrega do Projeto de Banco de Dados
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/banco-de-dados/slides-aula-15.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Avaliação Prática P2 e Entrega do Projeto de Banco de Dados](#-1-anotações-do-quadro-avaliacao-pratica-p2-e-entrega-do-projeto-de-banco-de-dados)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-15-banco-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-15-banco-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Avaliação Prática P2 e Entrega do Projeto de Banco de Dados
-
-### 📐 Fundamentação Teórica
-Avaliação prática de tuning, transações e apresentação do projeto completo de banco de dados implementado.
-
-No contexto de **Banco de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{banco-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Avaliação Prática P2 e Entrega do Projeto de Banco de Dados](#-anotações-do-quadro-avaliação-prática-p2-e-entrega-do-projeto-de-banco-de-dados)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Avaliação Prática P2 e Entrega do Projeto de Banco de Dados
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Avaliação Prática P2 e Entrega do Projeto de Banco de Dados**:
-
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Avaliação Prática P2 e Entrega do Projeto de Banco de Dados** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 15.1 Critérios de Avaliação e Defesa do Projeto Prático
+A avaliação P2 consiste na entrega e apresentação do projeto completo de banco de dados desenvolvido pelas equipes para um estudo de caso do mundo real:
+1. Esquema relacional em 3FN/BCNF com integridade referencial estrita.
+2. Scripts de criação DDL e inserção de dados de teste coerentes.
+3. Consultas SQL analíticas com agregação, CTEs e subconsultas.
+4. Triggers e Stored Procedures em PL/pgSQL para automação de regras de negócio.
+5. Estratégia de indexação justificativa e análise de planos de execução com `EXPLAIN ANALYZE`.
+6. Plano de backup e contingência (pg_dump, WAL archiving).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Roteiro de Apresentação Técnica em Laboratório
+
+1. **Demonstração do Diagrama Entidade-Relacionamento:** Justificativa da escolha das chaves e cardinalidades.
+2. **Execução do Trigger de Regra de Negócio:** Simulação de uma operação inválida e verificação do erro disparado.
+3. **Benchmark de Desempenho:** Comparação do tempo de execução de consulta complexa com e sem índice B+.
+4. **Respostas às Perguntas da Banca:** Justificativa das formas normais e níveis de isolamento adotados.
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Avaliação Prática P2 e Entrega do Projeto de Banco de Dados] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+flowchart LR
+    Proj[Projeto de Banco de Dados] --> DDL[1. DDL & Normalização]
+    Proj --> PL[2. PL/pgSQL & Triggers]
+    Proj --> OPT[3. Índices & EXPLAIN]
+    Proj --> SEC[4. Segurança & RLS]
+    Proj --> Banca[Banca Examinadora / Nota P2]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Avaliação Prática P2 e Entrega do Projeto de Banco de Dados** | Aplicação direta de Banco de Dados | Verificar restrições de contorno |
+| **Dica de Apresentação P2** | Tenha o banco populado com volume suficiente de dados (pelo menos 10.000 tuplas) para que o `EXPLAIN ANALYZE` demonstre o uso real dos índices. | Bancos vazios sempre usam Seq Scan! |
+| **Idempotência de Scripts** | Certifique-se de que seu script `.sql` possa ser executado múltiplas vezes sem erros (`DROP TABLE IF EXISTS ... CASCADE`). | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Avaliação Prática P2 e Entrega do Projeto de Banco de Dados**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Gere o script completo de dump do banco de dados utilizando `pg_dump -Fc -v`.
+2. Valide a execução de todos os testes de regressão dos triggers criados.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-14-introducao-aos-bancos-nao-relacionais-nosql-e-teorema-cap">Aula Anterior</a></b></div>

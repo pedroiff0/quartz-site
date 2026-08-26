@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-13-seguranca-visoes-materializadas-e-controle-de-acesso
 title: "Aula 13: Segurança, Visões Materializadas e Controle de Acesso — Banco de Dados"
-created: '2026-11-24'
-modified: '2026-11-24'
+created: 2026-11-24T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,98 @@ conteudo: "Gerenciamento de papéis (ROLES), privilégios GRANT/REVOKE, Row-Leve
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-14-introducao-aos-bancos-nao-relacionais-nosql-e-teorema-cap">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Banco de Dados (`CSECBJI.44`)
-> - **Docente Responsável:** Sérgio
-> - **Data & Horário:** 24/11/2026 (Terça-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Segurança, Visões Materializadas e Controle de Acesso
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Banco de Dados (CSECBJI.44)
+> - **Professor:** Sérgio
+> - **Data Realizada:** 24/11/2026
+> - **Tópico Principal:** Segurança, Visões Materializadas e Controle de Acesso
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/banco-de-dados/slides-aula-13.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Segurança, Visões Materializadas e Controle de Acesso](#-1-anotações-do-quadro-seguranca-visoes-materializadas-e-controle-de-acesso)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-13-banco-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-13-banco-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Segurança, Visões Materializadas e Controle de Acesso
-
-### 📐 Fundamentação Teórica
-Gerenciamento de papéis (ROLES), privilégios GRANT/REVOKE, Row-Level Security (RLS) e atualização de visões materializadas.
-
-No contexto de **Banco de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{banco-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Segurança, Visões Materializadas e Controle de Acesso](#-anotações-do-quadro-segurança,-visões-materializadas-e-controle-de-acesso)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Segurança, Visões Materializadas e Controle de Acesso
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Segurança, Visões Materializadas e Controle de Acesso**:
+### 13.1 Segurança e Controle de Acesso Discricionário (DAC)
+O controle de acesso discricionário gerencia permissões concedidas a usuários e papéis (*Roles*):
+- `GRANT {SELECT | INSERT | UPDATE | DELETE} ON tabela TO usuario;`
+- `REVOKE {privilégios} ON tabela FROM usuario;`
+- **Roles (Papéis):** Agrupam privilégios facilitando a governança em ambientes corporativos (`CREATE ROLE admin_financeiro;`).
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 13.2 Segurança em Nível de Linha (Row-Level Security - RLS)
+Permite que diferentes usuários executem a mesma query `SELECT * FROM pedido`, mas vejam apenas as linhas pertencentes à sua filial ou usuário:
+```sql
+ALTER TABLE pedido ENABLE ROW LEVEL SECURITY;
+CREATE POLICY politica_pedidos_cliente ON pedido
+    FOR ALL TO web_users
+    USING (cliente_id = current_setting('app.current_client_id')::INT);
+```
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Segurança, Visões Materializadas e Controle de Acesso** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 13.3 Visões Tradicionais vs Visões Materializadas
+- **Visão Padrão (`CREATE VIEW`):** Consulta virtual salva. Toda vez que a visão é consultada, a query base é reexecutada.
+- **Visão Materializada (`CREATE MATERIALIZED VIEW`):** Persiste o resultado da consulta fisicamente no disco. Leituras subsequentes são ultrarrápidas, necessitando de atualização periódica via `REFRESH MATERIALIZED VIEW`.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
 
-```mermaid
-flowchart TD
-    A[Entrada: Segurança, Visões Materializadas e Controle de Acesso] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+### ✏️ Criação de Visão Materializada para Relatórios de Vendas
+
+```sql
+CREATE MATERIALIZED VIEW mv_vendas_por_mes AS
+SELECT 
+    DATE_TRUNC('month', data_venda) AS mes,
+    COUNT(id_venda) AS total_pedidos,
+    SUM(valor_total) AS faturamento_total
+FROM venda
+GROUP BY DATE_TRUNC('month', data_venda);
+
+-- Criação de índice único sobre a visão para permitir refresh concorrente
+CREATE UNIQUE INDEX idx_mv_mes ON mv_vendas_por_mes(mes);
+
+-- Atualização sem travar leituras da aplicação
+REFRESH MATERIALIZED VIEW CONCURRENTLY mv_vendas_por_mes;
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
-| :--- | :--- | :--- |
-| **Segurança, Visões Materializadas e Controle de Acesso** | Aplicação direta de Banco de Dados | Verificar restrições de contorno |
+```mermaid
+flowchart LR
+    App[Aplicação / Dashboard] -->|Consulta Rápida em Milissegundos| MV[(Visão Materializada em Disco)]
+    RawTables[(Tabelas Transacionais com Milhões de Linhas)] -.->|REFRESH CONCURRENTLY| MV
+```
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Segurança, Visões Materializadas e Controle de Acesso**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
+| :--- | :--- | :--- |
+| **WITH CHECK OPTION em Views** | Ao criar visões atualizáveis, use `WITH CHECK OPTION` para impedir que um usuário insira ou atualize linhas que não satisfaçam o predicado do `WHERE` da visão. | Previne vazamento de dados inseridos fora da visão. |
+| **Refresh Concorrente** | `REFRESH MATERIALIZED VIEW CONCURRENTLY` exige a existência de pelo menos um índice `UNIQUE` sobre a visão. | Aplicação prática direta |
+
+---
+
+## 📝 Dúvidas & Exercícios Recomendados para Casa
+
+1. Crie um papel `atendente` que tenha permissão apenas de `SELECT` e `INSERT` na tabela `atendimentos`.
+2. Compare o impacto de desempenho e consumo de armazenamento de uma Visão Materializada em relação a uma Visão comum.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-12-programacao-no-banco-stored-procedures-e-triggers-em-pl-pgsql">Aula Anterior</a></b></div>

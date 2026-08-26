@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-04-meios-de-transmissao-guiados
 title: "Aula 04: Meios de Transmissão Guiados — Comunicação de Dados"
-created: '2026-09-22'
-modified: '2026-09-22'
+created: 2026-09-22T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,95 @@ conteudo: "Par trançado (Cat5e, Cat6, Cat7), cabo coaxial, fibra óptica (Monom
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-05-meios-de-transmissao-nao-guiados-e-propagacao-de-rf">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Comunicação de Dados (`CSECBJI.47`)
-> - **Docente Responsável:** Rômulo / Paulo
-> - **Data & Horário:** 22/09/2026 (Terça-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Meios de Transmissão Guiados
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Comunicação de Dados (CSECBJI.47)
+> - **Professor:** Rômulo / Paulo
+> - **Data Realizada:** 22/09/2026
+> - **Tópico Principal:** Meios de Transmissão Guiados
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/comunicacao-de-dados/slides-aula-04.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Meios de Transmissão Guiados](#-1-anotações-do-quadro-meios-de-transmissao-guiados)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-04-comunicacao-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-04-comunicacao-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Meios de Transmissão Guiados
-
-### 📐 Fundamentação Teórica
-Par trançado (Cat5e, Cat6, Cat7), cabo coaxial, fibra óptica (Monomodo vs Multimodo) e perdas por dispersão.
-
-No contexto de **Comunicação de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{comunicacao-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Meios de Transmissão Guiados](#-anotações-do-quadro-meios-de-transmissão-guiados)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Meios de Transmissão Guiados
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Meios de Transmissão Guiados**:
+### 4.1 Características dos Meios Guiados
+Nos meios guiados, as ondas eletromagnéticas são confinadas fisicamente ao longo de uma trajetória sólida.
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
+### 4.2 Par Trançado (Twisted Pair)
+- Estrutura: Dois condutores de cobre isolados e trançados em hélice. O trançamento cancela interferências eletromagnéticas externas (ruído de modo comum) e reduz a diafonia (*crosstalk*).
+- Categorias Comerciais:
+  - **Cat 5e:** Até $100\text{ MHz}$ ($1\text{ Gbps}$ até 100 metros).
+  - **Cat 6:** Até $250\text{ MHz}$ ($1\text{ Gbps}$ padrão, $10\text{ Gbps}$ até 55 metros).
+  - **Cat 6a:** Até $500\text{ MHz}$ ($10\text{ Gbps}$ até 100 metros completos).
+- Tipos: UTP (sem blindagem), STP/FTP (com blindagem metálica para ambientes industriais).
 
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Meios de Transmissão Guiados** antes de simplificar as equações na prova!
+### 4.3 Cabo Coaxial
+- Estrutura: Condutor central de cobre, dielétrico isolante, malha condutora externa trançada (blindagem contra RF) e capa plástica.
+- Impedância característica: $50\ \Omega$ (telecom/antenas) e $75\ \Omega$ (TV a cabo/CATV).
 
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 4.4 Fibra Óptica (Transmissão por Luz)
+- Princípio: **Reflexão Interna Total** no núcleo de sílica ultrapura, baseada na Lei de Snell ($n_{\text{núcleo}} > n_{\text{casca}}$).
+- **Fibra Multimodo (MMF):** Núcleo largo ($50\ \mu\text{m}$ ou $62.5\ \mu\text{m}$). A luz percorre múltiplos caminhos (modos), causando dispersão modal. Ideal para LANs e distâncias curtas ($< 500\text{ m}$).
+- **Fibra Monomodo (SMF):** Núcleo minúsculo ($9\ \mu\text{m}$). Apenas um raio de luz se propaga. Dispersão modal nula, permitindo enlaces transoceânicos de dezenas de quilômetros a centenas de Gbps.
+- **Janelas Ópticas de Transmissão:** $850\text{ nm}$ (MMF/LED), $1310\text{ nm}$ (SMF/Laser, dispersão nula), $1550\text{ nm}$ (SMF/Laser, menor atenuação: $\sim 0.2\text{ dB/km}$).
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Comparativo Técnico de Desempenho dos Meios Guiados
+
+| Meio Físico | Largura de Banda | Distância Máxima Típica | Imunidade a Ruído EMI | Custo de Implantação |
+| :--- | :--- | :--- | :--- | :--- |
+| **Par Trançado UTP (Cat 6)** | $250\text{ MHz}$ | $100\text{ metros}$ | Média (limitada por trançamento) | Baixo |
+| **Cabo Coaxial (RG-6)** | $1\text{ GHz}$ | $\sim 500\text{ metros}$ | Alta (blindagem de malha) | Médio |
+| **Fibra Multimodo (OM4)** | $\sim 4.7\text{ GHz}\cdot\text{km}$ | $550\text{ metros}$ ($10\text{ Gbps}$) | **Total (Imune a EMI/RFI)** | Médio/Alto |
+| **Fibra Monomodo (OS2)** | **Terahertz** | **$> 40\text{ km}$** | **Total (Imune a EMI/RFI)** | Alto (fusão de precisão) |
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
 flowchart TD
-    A[Entrada: Meios de Transmissão Guiados] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+    subgraph Fibra_Optica [Propagação em Fibra Óptica]
+        Core["Núcleo de Sílica (Índice n1 alto)"]
+        Clad["Casca Refletora (Índice n2 baixo)"]
+        Light[Feixe de Luz Laser] -->|Ângulo > Ângulo Crítico| Core
+        Core -->|Reflexão Interna Total| Core
+    end
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Meios de Transmissão Guiados** | Aplicação direta de Comunicação de Dados | Verificar restrições de contorno |
+| **Por que Fibra não sofre EMI?** | Porque a informação é transportada por fótons (luz) e não por elétrons em condutores metálicos. Não sofre interferência de motores, raios ou linhas de alta tensão. | Ideal para ambientes industriais e conexões entre prédios. |
+| **A Regra dos 100 Metros** | O padrão Ethernet sobre cobre (100BASE-TX, 1000BASE-T) tem alcance máximo fixado em 100 metros (90m cabo estruturado + 10m patch cords). | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Meios de Transmissão Guiados**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Calcule o ângulo crítico para reflexão interna total em uma fibra óptica com $n_1 = 1.48$ (núcleo) e $n_2 = 1.45$ (casca).
+2. Explique a diferença física entre Dispersão Modal e Dispersão Cromática em fibras ópticas.
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-03-capacidade-de-canal-teoremas-de-nyquist-e-shannon-hartley">Aula Anterior</a></b></div>

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-15-avaliacao-pratica-p2-e-apresentacao-do-projeto-integrador
 title: "Aula 15: Avaliação Prática P2 e Apresentação do Projeto Integrador — Programação Orientada a Objetos I"
 created: '2026-12-09'
 modified: '2026-12-09'

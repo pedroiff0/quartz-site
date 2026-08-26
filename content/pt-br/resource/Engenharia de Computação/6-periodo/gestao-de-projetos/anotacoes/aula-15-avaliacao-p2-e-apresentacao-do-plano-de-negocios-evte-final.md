@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-15-avaliacao-p2-e-apresentacao-do-plano-de-negocios-evte-final
 title: "Aula 15: Avaliação P2 e Apresentação do Plano de Negócios / EVTE Final — Gestão de Projetos"
 created: '2026-12-10'
 modified: '2026-12-10'

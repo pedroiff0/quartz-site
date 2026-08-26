@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-16-prova-final-de-comunicacao-de-dados-e-fechamento
 title: "Aula 16: Prova Final de Comunicação de Dados e Fechamento — Comunicação de Dados"
-created: '2026-12-15'
-modified: '2026-12-15'
+created: 2026-12-15T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -17,86 +18,97 @@ conteudo: "Aplicação da prova final, revisão dos relatórios práticos e ence
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-15-espalhamento-espectral-dsss-fhss-e-cdma">Aula Anterior</a></b></div>
   <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture">Próxima Aula</a></b></div>
+  <div>➡️ <span style="color: gray;">Última Aula</span></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Comunicação de Dados (`CSECBJI.47`)
-> - **Docente Responsável:** Rômulo / Paulo
-> - **Data & Horário:** 15/12/2026 (Terça-feira) · `16:40–19:20 (3 tempos)`
-> - **Tópico Central:** Prova Final de Comunicação de Dados e Fechamento
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Comunicação de Dados (CSECBJI.47)
+> - **Professor:** Rômulo / Paulo
+> - **Data Realizada:** 15/12/2026
+> - **Tópico Principal:** Prova Final de Comunicação de Dados e Fechamento
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/comunicacao-de-dados/slides-aula-16.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Prova Final de Comunicação de Dados e Fechamento](#-1-anotações-do-quadro-prova-final-de-comunicacao-de-dados-e-fechamento)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-16-comunicacao-de-dados|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-16-comunicacao-de-dados|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Prova Final de Comunicação de Dados e Fechamento
-
-### 📐 Fundamentação Teórica
-Aplicação da prova final, revisão dos relatórios práticos e encerramento do semestre.
-
-No contexto de **Comunicação de Dados**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{comunicacao-de-dados}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Prova Final de Comunicação de Dados e Fechamento](#-anotações-do-quadro-prova-final-de-comunicação-de-dados-e-fechamento)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Prova Final de Comunicação de Dados e Fechamento
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Prova Final de Comunicação de Dados e Fechamento**:
+### 16.1 Síntese Holística de Comunicação de Dados
+A disciplina consolida toda a base científica e matemática do transporte de informação física:
+```text
+Sinais e Fourier ──▶ Canais e Ruído (Nyquist/Shannon) ──▶ Meios Físicos ──▶ Codificação e Modulação ──▶ Enlace e ARQ ──▶ CDMA
+```
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Prova Final de Comunicação de Dados e Fechamento** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 16.2 Tecnologias Modernas no Mercado de Telecomunicações
+- **Redes Móveis 5G e 6G:** Utilização de ondas milimétricas (mmWave), antenas Massivas MIMO e modulações adaptativas.
+- **Comunicações Ópticas Coerentes:** Fibras de 800 Gbps e 1.6 Tbps com modulação 64-QAM de polarização dupla (DP-QAM).
+- **Internet das Coisas (IoT):** Tecnologias LoRaWAN (Chirp Spread Spectrum) e NB-IoT para sensores de ultrabaixo consumo.
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
+
+### ✏️ Fechamento do Semestre e Continuidade Curricular
+
+1. **Revisão das Avaliações:** P1 (Camada Física e Sinais) + P2 (Modulação, Enlace e Multiplexação).
+2. **Integração:** Esta disciplina é o pré-requisito fundamental e direto para **Redes de Computadores I (7ºP)** e **Processamento de Sinais (Eletiva)**.
+
+---
+
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
 ```mermaid
-flowchart TD
-    A[Entrada: Prova Final de Comunicação de Dados e Fechamento] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+mindmap
+  root((Comunicação de Dados))
+    Fundamentos Físicos
+      Série de Fourier e Espectro
+      Atenuação e Ruído Térmico
+      Teoremas de Nyquist e Shannon
+    Meios e Modulação
+      Fibras MMF/SMF e FSPL
+      Codificação Manchester e AMI
+      BPSK, QPSK e QAM
+    Camada de Enlace
+      CRC e Detecção de Erros
+      Stop-and-Wait e Janela Deslizante
+      Go-Back-N e Selective-Repeat
+    Acesso e Multiplexação
+      FDM, TDM Síncrono e WDM
+      DSSS, FHSS e CDMA
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
 | :--- | :--- | :--- |
-| **Prova Final de Comunicação de Dados e Fechamento** | Aplicação direta de Comunicação de Dados | Verificar restrições de contorno |
+| **Conhecimento Estruturante** | A teoria de modulação, ruído e protocolos de enlace rege absolutamente tudo o que trafega na Internet, redes móveis e links de satélite mundiais. | Mantenha estes compêndios teóricos para consulta profissional contínua. |
+| **Encerramento do Semestre** | Parabéns pela dedicação e conclusão da disciplina de Comunicação de Dados! | Aplicação prática direta |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 📝 Dúvidas & Exercícios Recomendados para Casa
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Prova Final de Comunicação de Dados e Fechamento**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+1. Revisão geral dos compêndios teóricos para a Prova Final.
+2. Consulte as referências clássicas recomendadas: Forouzan (Comunicação de Dados e Redes de Computadores) e Stallings (Data and Computer Communications).
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes/aula-15-espalhamento-espectral-dsss-fhss-e-cdma">Aula Anterior</a></b></div>
   <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture">Próxima Aula</a></b></div>
+  <div>➡️ <span style="color: gray;">Última Aula</span></div>
 </div>

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-14-ambientes-de-tempo-de-execucao-alocacao-de-pilha-e-coleta-de-lixo
 title: "Aula 14: Ambientes de Tempo de Execução, Alocação de Pilha e Coleta de Lixo — Compiladores"
 created: '2026-12-04'
 modified: '2026-12-04'

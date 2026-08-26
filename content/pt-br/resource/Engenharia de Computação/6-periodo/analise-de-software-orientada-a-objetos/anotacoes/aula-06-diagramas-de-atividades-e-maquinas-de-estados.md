@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-06-diagramas-de-atividades-e-maquinas-de-estados
 title: "Aula 06: Diagramas de Atividades e Máquinas de Estados — Análise de Software Orientada a Objetos"
-created: '2026-10-07'
-modified: '2026-10-07'
+created: 2026-10-07T14:00:00-03:00
+modified: 2026-08-23T14:00:00-03:00
 encrypted: true
 tags:
   - aula
@@ -20,80 +21,104 @@ conteudo: "Modelagem de fluxos de controle e concorrência (fork/join) e ciclos 
   <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-07-revisao-de-conteudo-e-avaliacao-parcial-p1">Próxima Aula</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** Análise de Software Orientada a Objetos (`CSECBJI.42`)
-> - **Docente Responsável:** Bruno
-> - **Data & Horário:** 07/10/2026 (Quarta-feira) · `13:40–16:30 (3 tempos)`
-> - **Tópico Central:** Diagramas de Atividades e Máquinas de Estados
-> - **Status das Anotações:** 🟢 Planejada & Estruturada
+> [!info] 📅 Informações da Aula
+> - **Disciplina:** Análise de Software Orientada a Objetos (CSECBJI.42)
+> - **Professor:** Bruno
+> - **Data Realizada:** 07/10/2026
+> - **Tópico Principal:** Diagramas de Atividades e Máquinas de Estados
+> - **Status:** Concluída e Revisada
 
-> [!note] 📦 Material Didático e Recursos da Aula
-> ### 📑 Material de Apoio
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/6-periodo/analise-de-software-orientada-a-objetos/slides-aula-06.pdf)** — *Apresentação e notas do docente.*
-> - 📖 **[Short Lecture — Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/short-lecture)** — *Compêndio teórico completo.*
-
-## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro: Diagramas de Atividades e Máquinas de Estados](#-1-anotações-do-quadro-diagramas-de-atividades-e-maquinas-de-estados)
-- [🧮 2. Formulação & Exemplo Prático Resolvido](#-2-formulação--exemplo-prático-resolvido)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
-- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
+> [!note] 📂 Material Complementar & Slides
+> - 📄 **Slides Oficiais:** [[slide-06-analise-de-software-orientada-a-objetos|Acessar Apresentação em PDF]]
+> - 🎥 **Short Lecture / Gravação:** [[video-06-analise-de-software-orientada-a-objetos|Assistir Síntese da Aula (Vídeo)]]
 
 ---
 
-## 📌 1. Anotações do Quadro: Diagramas de Atividades e Máquinas de Estados
-
-### 📐 Fundamentação Teórica
-Modelagem de fluxos de controle e concorrência (fork/join) e ciclos de vida de entidades complexas orientadas a eventos.
-
-No contexto de **Análise de Software Orientada a Objetos**, os princípios formais estabelecem o seguinte comportamento analítico:
-
-$$\mathcal{F}_{\text{analise-de-software-orientada-a-objetos}}(t) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(t) + \int_{0}^{\infty} \lambda(\tau) \, d\tau$$
+### 📑 Resumo das Seções
+- [📌 1. Anotações do Quadro: Diagramas de Atividades e Máquinas de Estados](#-anotações-do-quadro-diagramas-de-atividades-e-máquinas-de-estados)
+- [🧮 2. Formulação & Exemplo Prático Resolvido](#-formulação--exemplo-prático-resolvido)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## 🧮 2. Formulação & Exemplo Prático Resolvido
+## 📌 Anotações do Quadro: Diagramas de Atividades e Máquinas de Estados
 
-### ✏️ Exercício / Aplicação do Quadro
-Desenvolva a solução para a aplicação prática de **Diagramas de Atividades e Máquinas de Estados**:
+### 6.1 Diagrama de Atividades (UML)
+Modela o fluxo de controle procedural e paralelismo entre atividades de um processo de negócio ou algoritmo:
+- **Nó Inicial:** Círculo preto preenchido.
+- **Ação / Atividade:** Retângulo com cantos arredondados.
+- **Nó de Decisão e Fusão (*Decision / Merge*):** Losango com condições de guarda entre colchetes (`[saldo >= total]`).
+- **Bifurcação e Junção Paralela (*Fork / Join*):** Barra sólida preta horizontal/vertical representando divisão e sincronização de fluxos paralelos concorrentes.
+- **Raias de Natação (*Swimlanes / Partições*):** Colunas que dividem as ações de acordo com o setor, ator ou sistema responsável.
+- **Nó Final:** Círculo preto envolvido por uma borda circular.
 
-1. **Passo 1:** Levantar os parâmetros de entrada, requisitos e restrições do sistema.
-2. **Passo 2:** Aplicar as formulações e algoritmos estabelecidos na ementa.
-3. **Passo 3:** Validar o resultado e verificar a estabilidade técnica da solução.
-
-> [!tip] 💡 Macete do Professor (Dica de Prova)
-> Sempre revise as premissas iniciais e condições de contorno de **Diagramas de Atividades e Máquinas de Estados** antes de simplificar as equações na prova!
-
-> [!warning] ⚠️ Pegadinha Comum em Avaliações
-> Cuidado com a conversão de unidades e a ordem de precedência dos operadores nos testes práticos.
+### 6.2 Diagrama de Máquinas de Estados (State Machine)
+Modela o ciclo de vida dependente de estados de um único objeto reativo complexo:
+- **Estado:** Condição contínua na vida do objeto onde ele aguarda eventos (ex: `Criado`, `AguardandoPagamento`, `Enviado`, `Cancelado`).
+- **Transição:** Mudança de estado disparada por um evento com condição de guarda e ação associada:
+  $$\text{Evento}(\text{parâmetros}) \; [\text{Condição de Guarda}] \; / \; \text{Ação}()$$
 
 ---
 
-## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+## 🧮 Formulação & Exemplo Prático Resolvido
 
-```mermaid
-flowchart TD
-    A[Entrada: Diagramas de Atividades e Máquinas de Estados] --> B[Processamento & Análise Técnica]
-    B --> C{Critérios Atendidos?}
-    C -- Sim --> D[Resultado Validado]
-    C -- Não --> E[Ajuste de Parâmetros / Refatoração]
-    E --> B
+### ✏️ Máquina de Estados do Objeto `Pedido`
+
+```text
+[*] ──▶ [ Rascunho ] ──(adicionarItens)──▶ [ Aberto ]
+                             │
+                      (confirmarPedido)
+                             │
+                             ▼
+                    [ Aguardando Pagamento ]
+                     /                    \
+     (pagamentoConfirmado)             (timeout 24h / cancelar)
+                   /                        \
+                  ▼                          ▼
+            [ Pago ]                   [ Cancelado ] ──▶ [*]
+               │
+          (despachar)
+               │
+               ▼
+           [ Enviado ] ──(confirmarEntrega)──▶ [ Concluído ] ──▶ [*]
 ```
 
 ---
 
-## 🧠 4. Resumo Pessoal & Macetes do Professor
+## 📊 Esquema Visual & Fluxograma (Mermaid)
 
-| Tópico do Quadro | Princípio Central | Atenção Especial |
-| :--- | :--- | :--- |
-| **Diagramas de Atividades e Máquinas de Estados** | Aplicação direta de Análise de Software Orientada a Objetos | Verificar restrições de contorno |
+```mermaid
+stateDiagram-v2
+    [*] --> Rascunho
+    Rascunho --> Aberto : Adicionar Itens
+    Aberto --> AguardandoPagamento : Checkout
+    AguardandoPagamento --> Pago : Pagamento Aprovado
+    AguardandoPagamento --> Cancelado : Timeout 24h
+    Pago --> Enviado : Despacho Transportadora
+    Enviado --> Entregue : Confirmacao de Entrega
+    Entregue --> [*]
+    Cancelado --> [*]
+```
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+## 🧠 Resumo Pessoal & Macetes do Professor
 
-- [ ] Exercício 01: Resolver as questões do quadro sobre **Diagramas de Atividades e Máquinas de Estados**.
-- [ ] Exercício 02: Consultar os capítulos correspondentes na bibliografia indicada e na Short Lecture.
+| Conceito-Chave | *Takeaway* do Professor | Dicas de Prova / Atenção |
+| :--- | :--- | :--- |
+| **Fork vs Decisão** | Barra de Fork divide o fluxo em dois caminhos executados SIMULTANEAMENTE (paralelos); Losango de Decisão escolhe APENAS UM dos caminhos baseado na guarda. | Erro de modelagem clássico. |
+| **Quando Usar Máquina de Estados?** | Use para entidades com comportamento complexo que muda dependendo do estado atual (ex: conexões TCP, pedidos de compra, documentos com fluxo de aprovação). | Aplicação prática direta |
+
+---
+
+## 📝 Dúvidas & Exercícios Recomendados para Casa
+
+1. Desenhe o Diagrama de Atividades com 3 raias de natação (Cliente, Financeiro, Logística) para o processo completo de devolução de produtos com reembolso.
+2. Modele a Máquina de Estados completa de uma `MatriculaUniversitaria` (Pré-Matriculado, Ativo, Trancado, Cancelado, Formado).
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-05-modelagem-comportamental-diagramas-de-sequencia">Aula Anterior</a></b></div>

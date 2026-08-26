@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/aula-14-seminarios-tematicos-tecnologia-e-sociedade
 title: "Aula 14: Seminários Temáticos: Tecnologia e Sociedade — Filosofia da Ciência e Tecnologia"
 created: '2026-12-02'
 modified: '2026-12-02'

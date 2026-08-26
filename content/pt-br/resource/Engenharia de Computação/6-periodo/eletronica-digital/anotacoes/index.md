@@ -18,7 +18,7 @@ const completedAulas = allPages.filter(p => {
     
     const isInDiscipline = disciplineFolder ? path.includes(disciplineFolder.toLowerCase()) : true;
     const isEsboco = path.includes("esboço") || path.includes("esboco") || path.includes("draft");
-    const isAula = /^aula\s+\d+\s*-/.test(name);
+    const isAula = /^aula[\s_-]+\d+/i.test(name);
     
     return isInDiscipline && isAula && !isEsboco;
 });
@@ -46,7 +46,7 @@ dv.container.innerHTML = `
 ```base
 filters:
   and:
-    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital/anotacoes")'
+    - 'file.folder.startsWith("02 - Áreas/Acadêmico/IFF - Engenharia de Computação/6-periodo/eletronica-digital/anotacoes")'
     - '!file.name.endsWith("index")'
     - '!file.folder.includes("Esboço")'
 formulas:

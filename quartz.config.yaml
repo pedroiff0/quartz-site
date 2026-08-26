@@ -17,6 +17,14 @@ configuration:
     - "**/*.sync-conflict-*"
     - "**/_materiais"
     - "**/_materiais/**"
+    - "**/Esboço"
+    - "**/Esboço/**"
+    - "**/esboço"
+    - "**/esboço/**"
+    - "**/Esboco"
+    - "**/Esboco/**"
+    - "**/esboco"
+    - "**/esboco/**"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/anotacoes/aula-16-prova-final-de-gestao-de-projetos-e-fechamento
 title: "Aula 16: Prova Final de Gestão de Projetos e Fechamento — Gestão de Projetos"
 created: '2026-12-17'
 modified: '2026-12-17'

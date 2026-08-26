@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/anotacoes/aula-04-gramaticas-livres-de-contexto-glc-e-arvores-de-derivacao
 title: "Aula 04: Gramáticas Livres de Contexto (GLC) e Árvores de Derivação — Compiladores"
 created: '2026-09-25'
 modified: '2026-09-25'
