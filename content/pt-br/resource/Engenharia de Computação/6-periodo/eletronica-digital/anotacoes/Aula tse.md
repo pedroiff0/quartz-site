@@ -1,7 +1,7 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/
-title: Aula 
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-tse
+title: "Aula tse"
 created: '2026-08-26'
 modified: '2026-08-26'
 encrypted: true
@@ -9,8 +9,8 @@ tags:
   - aula
   - engenharia-de-computacao
   - anotacoes-de-quadro
-disciplina: 
-professor: 
+disciplina: "[Nome da Disciplina]"
+professor: "[Nome do Docente]"
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
@@ -58,42 +58,79 @@ dv.container.innerHTML = `
 ```
 
 > [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** 
-> - **Docente Responsável:** 
-> - **Tópico Central:** 
-> - **Status das Anotações:** 🟡 Planejando | 🟠 Em Andamento | 🟢 Concluído
+> - **Disciplina:** [Nome da Disciplina]
+> - **Docente Responsável:** [Nome do Docente]
+> - **Tópico Central:** [Tópico Principal da Ementa]
+> - **Status das Anotações:** 🟢 Completo
 
 > [!note] 📦 Material Didático & Recursos da Aula
 > - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/)**
 > - 📖 **[Short Lecture da Disciplina](../short-lecture)**
 
 ## 📋 Sumário Interativo
-- [📍 Anotações](#-anotações)
-- [🧠 Resumo](#-resumo)
-- [📝 Dúvida](#-dúvida)
+- [📍 1. Anotações do Quadro & Fundamentação Teórica](#-1-anotações-do-quadro--fundamentação-teórica)
+- [🧮 2. Exemplos do Quadro Resolvidos Passo a Passo](#-2-exemplos-do-quadro-resolvidos-passo-a-passo)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes de Prova](#-4-resumo-pessoal--macetes-de-prova)
+- [📝 5. Dúvidas & Exercícios Recomendados](#-5-dúvidas--exercícios-recomendados)
 
 ---
 
-## 📍 Anotações
+## 📅 Sessão 1: [Subtópico Teórico Inicial]
 
-### 
+### 📝 Atividades / Cronograma
+- [ ] 
+
+### 📐 Definição Fundamental: [Conceito]
+No contexto de **[Nome da Disciplina]**, a formulação analítica estabelece que:
+
+$$\mathcal{F}(x) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(x) + \int_{0}^{\infty} \lambda(t) \, dt$$
 
 ---
 
-## 🧠 Resumo
+## 📅 Sessão 2: [Aplicações Práticas & Laboratório]
+
+### 📝 Atividades / Cronograma
+- [ ] 
+
+### ✏️ Exemplo Resolvido do Quadro
+Desenvolva a solução passo a passo:
+
+1. **Passo 1:** Identificar os parâmetros de entrada e restrições do sistema.
+2. **Passo 2:** Aplicar as equações características da ementa.
+3. **Passo 3:** Obter o resultado e validar a estabilidade técnica.
+
+---
+
+## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+
+```mermaid
+flowchart TD
+    A[Entrada: Dados do Problema] --> B[Processamento Analítico]
+    B --> C{Validação das Restrições?}
+    C -- Sim --> D[Resultado Otimizado]
+    C -- Não --> E[Ajuste de Parâmetros]
+    E --> B
+```
+
+---
+
+## 🧠 4. Resumo Pessoal & Macetes de Prova
 
 | Tópico | Princípio Central | Atenção Especial / Pegadinha |
 | :--- | :--- | :--- |
-| | | |
+| **[Conceito 1]** | Formulação direta da ementa | Verificar condições de contorno |
+| **[Conceito 2]** | Otimização paramétrica | Atenção às unidades do SI |
 
 > [!tip] 💡 Dica de Prova do Professor
-> 
+> Sempre verifique os limites de validade das simplificações antes de aplicar as fórmulas finais.
 
 ---
 
-## 📝 Dúvida
+## 📝 5. Dúvidas & Exercícios Recomendados
 
-- [ ] 
+- [ ] Exercício 01: Resolver a lista do quadro sobre o tópico.
+- [ ] Exercício 02: Revisar a bibliografia básica indicada no Hub da Disciplina.
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>

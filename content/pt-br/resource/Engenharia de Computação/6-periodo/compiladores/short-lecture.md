@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/short-lecture
 title: "Short Lecture — Compiladores"
 disciplina: "Compiladores"

@@ -1,7 +1,7 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/
-title: Aula 
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/anotacoes/aula-00-apresentação
+title: "Aula 00 - Apresentação"
 created: '2026-08-26'
 modified: '2026-08-26'
 encrypted: true
@@ -9,8 +9,8 @@ tags:
   - aula
   - engenharia-de-computacao
   - anotacoes-de-quadro
-disciplina: 
-professor: 
+disciplina: "[Nome da Disciplina]"
+professor: "[Nome do Docente]"
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
@@ -58,43 +58,44 @@ dv.container.innerHTML = `
 ```
 
 > [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** 
-> - **Docente Responsável:** 
-> - **Tópico Central:** 
-> - **Status das Anotações:** 🟡 Planejando | 🟠 Em Andamento | 🟢 Concluído
+> - **Disciplina:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/6-periodo/banco-de-dados/index]] Banco de Dados 
+> - **Docente Responsável:** Pablo Manhães
+> - **Status das Anotações:** Em Andamento
 
 > [!note] 📦 Material Didático & Recursos da Aula
 > - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/)**
 > - 📖 **[Short Lecture da Disciplina](../short-lecture)**
 
 ## 📋 Sumário Interativo
-- [📍 Anotações](#-anotações)
-- [🧠 Resumo](#-resumo)
-- [📝 Dúvida](#-dúvida)
+- [📍 1. Anotações do Quadro & Fundamentação Teórica](#-1-anotações-do-quadro--fundamentação-teórica)
+- [🧠 4. Resumo Pessoal & Macetes de Prova](#-4-resumo-pessoal--macetes-de-prova)
+- [📝 5. Dúvidas & Exercícios Recomendados](#-5-dúvidas--exercícios-recomendados)
 
 ---
 
-## 📍 Anotações
+## 📅 XX/XX/XXXX
 
-### 
-
----
-
-## 🧠 Resumo
-
-| Tópico | Princípio Central | Atenção Especial / Pegadinha |
-| :--- | :--- | :--- |
-| | | |
-
-> [!tip] 💡 Dica de Prova do Professor
-> 
-
----
-
-## 📝 Dúvida
-
+### 📝 Atividades / Cronograma
 - [ ] 
 
+
+---
+
+## 🧠 Resumo Pessoal & Macetes de Prova
+
+| Tópico | Princípio Central | Atenção Especial / Pegadinha |
+| :----- | :---------------- | :--------------------------- |
+|        |                   |                              |
+|        |                   |                              |
+
+> [!tip] 💡 Dica de Prova do Professor
+> Sempre verifique os limites de validade das simplificações antes de aplicar as fórmulas finais.
+
+---
+
+## 📝 Dúvidas & Exercícios Recomendados
+
+- [ ] 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
   <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture
 title: "Short Lecture — Comunicação de Dados"
 disciplina: "Comunicação de Dados"

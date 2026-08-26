@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/short-lecture
 title: "Short Lecture — Filosofia da Ciência e Tecnologia"
 disciplina: "Filosofia da Ciência e Tecnologia"

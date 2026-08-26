@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture
 title: "Short Lecture — Banco de Dados"
 disciplina: "Banco de Dados"
