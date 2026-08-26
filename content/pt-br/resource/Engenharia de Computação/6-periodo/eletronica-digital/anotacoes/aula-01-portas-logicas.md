@@ -1,6 +1,6 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-01-portas-lógicas
+permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas
 title: Aula 01 - Portas Lógicas
 created: 2026-08-24
 modified: 2026-08-24
@@ -32,7 +32,7 @@ const completedAulas = allPages.filter(p => {
     
     const isInDiscipline = disciplineFolder ? path.includes(disciplineFolder.toLowerCase()) : true;
     const isEsboco = path.includes("esboço") || path.includes("esboco") || path.includes("draft");
-    const isAula = /^aula\s+\d+\s*-/.test(name);
+    const isAula = /^aula[\s_-]+\d+/i.test(name);
     
     return isInDiscipline && isAula && !isEsboco;
 });
@@ -60,179 +60,241 @@ dv.container.innerHTML = `
 > [!info] 📌 Informações da Aula & Contexto do Quadro
 > - **Disciplina:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/6-periodo/eletronica-digital|Eletrônica Digital]]
 > - **Docente Responsável:** Fabrício Barros Gonçalves
-> - **Tópico Central:** Portas Lógicas
-> - **Status das Anotações:** Em andamento
+> - **Tópico Central:** Portas Lógicas & Álgebra Booleana
+> - **Status das Anotações:** 🟢 Concluído
 
 > [!note] 📦 Material Didático & Recursos da Aula
-> - 📄 **[Slides da Aula (PDF)](/assets/disciplinas/)**
-> - 📖 **[[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/6-periodo/eletronica-digital/short-lecture|Básico da Disciplina]]**
+> - 📄 **[Lista de Exercícios em PDF](/assets/disciplinas/6-periodo/eletronica-digital/Lista_Eletronica_Digital_Notacao_Correta.pdf)**
+> - 📖 **[Livro Texto de Apoio (Capuano & Idoeta)](/assets/disciplinas/6-periodo/eletronica-digital/ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf)**
+> - 💻 **[Simulador LogiSim (Executável JAR)](/assets/disciplinas/6-periodo/eletronica-digital/logisim-generic-2.7.1.jar)**
 
 ## 📋 Sumário Interativo
-- [📍 1. Anotações do Quadro & Fundamentação Teórica](#-1-anotações-do-quadro--fundamentação-teórica)
-- [🧮 2. Exemplos do Quadro Resolvidos Passo a Passo](#-2-exemplos-do-quadro-resolvidos-passo-a-passo)
-- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
-- [🧠 4. Resumo Pessoal & Macetes de Prova](#-4-resumo-pessoal--macetes-de-prova)
-- [📝 5. Dúvidas & Exercícios Recomendados](#-5-dúvidas--exercícios-recomendados)
+- [📍 Anotações](#-anotações)
+- [🧠 Resumo](#-resumo)
+- [📝 Dúvida](#-dúvida)
 
 ---
 
-## 📅 24/08/2026: [Portas Lógicas]
+## 📍 Anotações
 
-### 📝 Atividades / Cronograma
-- [ ] 
-### 📐 Revisão [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/1-periodo/logica-para-computacao/index|Lógica para Computação]] 
+### 📐 Revisão de Lógica para Computação & Fundamentação Teórica
 
-### 1. NAO (NOT)
-
-```mermaid
-flowchart TD
-    A[A] --> B[S]
-```
-
-*inserir desenho mermaid*
-$$S=\bar{A}$$
-*inserir tabela centralizada*
-
-| A   | S   |
-| --- | --- |
-| 0   | 1   |
-| 1   | 0   |
+Nesta aula de **Eletrônica Digital**, estudamos a transição da lógica matemática/proposicional para o ambiente de hardware por meio dos blocos lógicos fundamentais (portas lógicas).
 
 ---
 
-### 2. E (AND)
+### 1. NÃO (NOT - Inversor)
+
+A porta **NOT** realiza a operação lógica de inversão ou complemento.
 
 ```mermaid
-flowchart TD
-    A[A] --> B[S]
+flowchart LR
+    A[Entrada: A] -->|NOT| S[Saída: S = Ā]
 ```
 
-*inserir desenho mermaid*
-$$S=\bar{A}$$
-*inserir tabela centralizada*
+**Expressão Booleana:**
+$$S = \bar{A}$$
 
-| A   | S   |
-| --- | --- |
-| 0   | 1   |
-| 1   | 0   |
+**Tabela-Verdade:**
+
+| A | S |
+| :---: | :---: |
+| 0 | 1 |
+| 1 | 0 |
 
 ---
 
-### 3. OU (OR)
+### 2. E (AND - Conjunção)
 
+A porta **AND** gera saída alta ($1$) se e somente se todas as suas entradas forem altas ($1$).
 
 ```mermaid
-flowchart TD
-    A[A] --> B[S]
+flowchart LR
+    A[A] & B[B] -->|AND| S[S = A · B]
 ```
 
-*inserir desenho mermaid*
-$$S=\bar{A}$$
-*inserir tabela centralizada*
+**Expressão Booleana:**
+$$S = A \cdot B$$
 
-| A   | S   |
-| --- | --- |
-| 0   | 1   |
-| 1   | 0   |
+**Tabela-Verdade:**
+
+| A | B | S |
+| :---: | :---: | :---: |
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
+
+---
+
+### 3. OU (OR - Disjunção)
+
+A porta **OR** gera saída alta ($1$) quando pelo menos uma das suas entradas for alta ($1$).
+
+```mermaid
+flowchart LR
+    A[A] & B[B] -->|OR| S[S = A + B]
+```
+
+**Expressão Booleana:**
+$$S = A + B$$
+
+**Tabela-Verdade:**
+
+| A | B | S |
+| :---: | :---: | :---: |
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
 
 ---
 
 ### 4. OU EXCLUSIVO (XOR)
 
-```mermaid
-flowchart TD
-    A[A] --> B[S]
-```
-
-*inserir desenho mermaid*
-$$S=\bar{A}$$
-*inserir tabela centralizada*
-
-| A   | S   |
-| --- | --- |
-| 0   | 1   |
-| 1   | 0   |
-
----
-### 5. NAO E (NAND)
+A porta **XOR** (Ou-Exclusivo) produz saída alta ($1$) se e somente se as entradas forem **diferentes**.
 
 ```mermaid
-flowchart TD
-    A[A] --> B[S]
+flowchart LR
+    A[A] & B[B] -->|XOR| S[S = A ⊕ B]
 ```
 
-*inserir desenho mermaid*
-$$S=\bar{A}$$
-*inserir tabela centralizada*
+**Expressão Booleana:**
+$$S = A \oplus B = \bar{A}B + A\bar{B}$$
 
-| A   | S   |
-| --- | --- |
-| 0   | 1   |
-| 1   | 0   |
+**Tabela-Verdade:**
 
----
-### 6. NAO OU (NOR)
-
-```mermaid
-flowchart TD
-    A[A] --> B[S]
-```
-
-*inserir desenho mermaid*
-$$S=\bar{A}$$
-*inserir tabela centralizada*
-
-| A   | S   |
-| --- | --- |
-| 0   | 1   |
-| 1   | 0   |
-### 7. Não ou exclusivo (NXOR)
-
-```mermaid
-flowchart TD
-    A[A] --> B[S]
-```
-
-*inserir desenho mermaid*
-$$S=\bar{A}$$
-*inserir tabela centralizada*
-
-
-### Min termos
-
-inserir conta tabela e mermaid
-
-### Max termos
-
-inserir conta tabela e mermaid
-
-### Lendo expressões boleanas
-
-***nao necessário para prova***
-
-$$S= (A+B+C) . {B[(A+C) +circular (\bar{B.C})].(\bar{A}.B.\bar{C})}$$
-inserir mermaid
-
-$$S= (A+B+C) . {B[(A+C) +circular (\bar{B.C})].(\bar{A}.B.\bar{C})}$$
-
----
-## 🧠 4. Resumo Pessoal & Macetes de Prova
-
-| Tópico        | Princípio Central | Atenção Especial / Pegadinha |
-| :------------ | :---------------- | :--------------------------- |
-| **mintermos** |                   |                              |
-| **maxtermos** |                   |                              |
-
-> [!tip] 💡 Dica de Prova do Professor
-> Trabalhar apenas com ***mintermos***
-> LogiSim
-> 
+| A | B | S |
+| :---: | :---: | :---: |
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
 
 ---
 
-## 📝 5. Dúvidas & Exercícios Recomendados
+### 5. NÃO E (NAND - Porta Universal)
 
-- [ ] 
+A porta **NAND** é a negação da saída da porta AND. É uma porta **universal**, pois qualquer circuito combinacional pode ser construído apenas com portas NAND.
+
+```mermaid
+flowchart LR
+    A[A] & B[B] -->|NAND| S[S = Ā·B]
+```
+
+**Expressão Booleana:**
+$$S = \overline{A \cdot B}$$
+
+**Tabela-Verdade:**
+
+| A | B | S |
+| :---: | :---: | :---: |
+| 0 | 0 | 1 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+---
+
+### 6. NÃO OU (NOR - Porta Universal)
+
+A porta **NOR** é a negação da porta OR. Também possui caráter de **universalidade**.
+
+```mermaid
+flowchart LR
+    A[A] & B[B] -->|NOR| S[S = Ā+B]
+```
+
+**Expressão Booleana:**
+$$S = \overline{A + B}$$
+
+**Tabela-Verdade:**
+
+| A | B | S |
+| :---: | :---: | :---: |
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 0 |
+
+---
+
+### 7. NÃO OU EXCLUSIVO (XNOR - Coincidência)
+
+A porta **XNOR** gera saída alta ($1$) quando as entradas forem **iguais** (coincidência).
+
+```mermaid
+flowchart LR
+    A[A] & B[B] -->|XNOR| S[S = A ⊙ B]
+```
+
+**Expressão Booleana:**
+$$S = \overline{A \oplus B} = A B + \bar{A}\bar{B}$$
+
+**Tabela-Verdade:**
+
+| A | B | S |
+| :---: | :---: | :---: |
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
+
+---
+
+### 🧮 Mintermos e Maxtermos
+
+1. **Mintermos (Soma de Produtos - SOP):**
+   - Correspondem às combinações da tabela-verdade onde a saída do circuito é $1$.
+   - Representados pela notação $\sum m$.
+   - Na forma de mintermos, a variável direta vale $1$ e a variável complementada/barrada vale $0$.
+
+2. **Maxtermos (Produto de Somas - POS):**
+   - Correspondem às combinações da tabela-verdade onde a saída do circuito é $0$.
+   - Representados pela notação $\prod M$.
+   - Na forma de maxtermos, a variável direta vale $0$ e a variável complementada/barrada vale $1$.
+
+---
+
+### 📖 Exemplo do Quadro: Leitura e Análise de Expressão Booleana
+
+Formulação resolvida em sala para mapeamento de circuito:
+
+$$S = (A + B + C) \cdot \left\{ B \left[ (A + C) + \overline{B \cdot C} \right] \cdot (\bar{A} \cdot B \cdot \bar{C}) \right\}$$
+
+```mermaid
+flowchart TD
+    subgraph Bloco 1
+        OR1[A + B + C]
+    end
+    subgraph Bloco 2
+        AND1[B]
+        OR2[(A + C) + NOT(B·C)]
+        AND2[Ā · B · C̄]
+    end
+    Bloco 1 & Bloco 2 --> AND_FINAL[Saída S]
+```
+
+---
+
+## 🧠 Resumo
+
+| Tópico | Princípio Central | Atenção Especial / Pegadinha |
+| :--- | :--- | :--- |
+| **Mintermos ($\sum m$)** | Agrupa as saídas $1$ da tabela | Variáveis sem barra correspondem a $1$ |
+| **Maxtermos ($\prod M$)** | Agrupa as saídas $0$ da tabela | Variáveis sem barra correspondem a $0$ |
+| **Universalidade NAND/NOR** | Implementa qualquer circuito lógico | Atenção às inversões duplas ao aplicar De Morgan |
+
+> [!tip] 💡 Dica de Prova do Professor Fabrício
+> Em avaliações e no laboratório, dê preferência a trabalhar com **mintermos ($\sum m$)**, pois simplifica a conversão para circuitos AND-OR e facilita a montagem dos diagramas no **LogiSim**!
+
+---
+
+## 📝 Dúvidas & Exercícios Recomendados
+
+- [x] Testar os circuitos das 7 portas no simulador LogiSim (`logisim-generic-2.7.1.jar`).
+- [ ] Resolver os exercícios da **Lista de Notação Correta** (disponível na pasta de materiais).
+- [ ] Revisar a representação gráfica de mintermos e maxtermos para a próxima aula.
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>

@@ -1,9 +1,8 @@
 ---
 title: Anotações e Arquivos
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes
 ---
-## 📝 Anotações e Documentos
+## 📝 Anotações da Disciplina
 
 ```dataviewjs
 const currentPath = dv.current()?.file?.path || "";
@@ -41,28 +40,4 @@ dv.container.innerHTML = `
     <div style="width: ${percentage}%; height: 100%; background: linear-gradient(90deg, #10b981, #059669); border-radius: 6px; transition: width 0.3s ease;"></div>
   </div>
 </div>`;
-```
-
-```base
-filters:
-  and:
-    - 'file.folder.startsWith("02 - Áreas/Acadêmico/IFF - Engenharia de Computação/6-periodo/eletronica-digital/anotacoes")'
-    - '!file.name.endsWith("index")'
-    - '!file.folder.includes("Esboço")'
-formulas:
-  anotacao: 'link(file.path, note.title)'
-properties:
-  formula.anotacao:
-    displayName: Anotação / Documento
-  note.created:
-    displayName: Data de Criação
-views:
-  - type: table
-    name: Anotações da Disciplina
-    order:
-      - formula.anotacao
-      - note.created
-    sort:
-      - property: file.name
-        direction: ASC
 ```
