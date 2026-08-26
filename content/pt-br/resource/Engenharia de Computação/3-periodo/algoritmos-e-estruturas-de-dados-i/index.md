@@ -32,41 +32,41 @@ tags:
 ## 📖 Conteúdo Programático
 1. Estruturas de Dados Homogêneas:
 
-- [ ] Vetores;
-- [ ] Marizes.
+- Vetores;
+- Marizes.
 
 2. Estruturas de Dados Heterogêneas:
 
-- [ ] Registro.
+- Registro.
 
 3. Passagem de Parâmetros:
 
-- [ ] Passagem de parâmetros por valor;
-- [ ] Passagem de parâmetros por referência.
+- Passagem de parâmetros por valor;
+- Passagem de parâmetros por referência.
 
 4. Alocação Dinâmica de Memória
 
-- [ ] Ponteiros
+- Ponteiros
 
 5. Estruturas de Dados Lineares:
 
-- [ ] Listas Lineares;
-- [ ] Listas Simplesmente Encadeadas;
-- [ ] Listas Duplamente Encadeada;
-- [ ] Listas Circulares;
-- [ ] Pilhas;
-- [ ] Filas;
-- [ ] Listas Ordenadas.
+- Listas Lineares;
+- Listas Simplesmente Encadeadas;
+- Listas Duplamente Encadeada;
+- Listas Circulares;
+- Pilhas;
+- Filas;
+- Listas Ordenadas.
 
 6. Recursividade
 7. Algoritmos para Pesquisa e Ordenação
 
-- [ ] Busca Sequencial;
-- [ ] Busca Binária;
-- [ ] Buble-Sort;
-- [ ] Merge-Sort;
-- [ ] Heap-Sort;
-- [ ] Quick-Sort.
+- Busca Sequencial;
+- Busca Binária;
+- Buble-Sort;
+- Merge-Sort;
+- Heap-Sort;
+- Quick-Sort.
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

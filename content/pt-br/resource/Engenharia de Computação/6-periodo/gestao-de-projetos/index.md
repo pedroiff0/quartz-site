@@ -32,28 +32,28 @@ tags:
 
 ## 📖 Conteúdo Programático
 1. Definição de Projetos
-   - [ ] Noção de Projetos e a sua Importância na Gestão Estratégica das Organizações
-   - [ ] Tipos de Projetos
+   - Noção de Projetos e a sua Importância na Gestão Estratégica das Organizações
+   - Tipos de Projetos
 2. Metodologia para Desenvolvimento de Projetos de Viabilidade Técnico-Econômica
 3. Estrutura e Etapas de Projeto
-   - [ ] Principais Etapas do Projeto
-   - [ ] Análise de Mercado
-   - [ ] Localização, Tamanho ou Escala do Projeto
-   - [ ] Engenharia e Recursos Humanos
-   - [ ] Financiamento, Custos e Receitas
-   - [ ] Análise Econômica
+   - Principais Etapas do Projeto
+   - Análise de Mercado
+   - Localização, Tamanho ou Escala do Projeto
+   - Engenharia e Recursos Humanos
+   - Financiamento, Custos e Receitas
+   - Análise Econômica
 4. Estudo de Localização
 5. Escala do Projeto
-   - [ ] Definição e Medida de Tamanho
-   - [ ] Tamanho e Custo / Escala e Aprendizagem
-   - [ ] Processo, Balanço de Materiais e Layout
+   - Definição e Medida de Tamanho
+   - Tamanho e Custo / Escala e Aprendizagem
+   - Processo, Balanço de Materiais e Layout
 6. Custo do Projeto
-   - [ ] Receitas e Custos do Projeto
-   - [ ] Ponto de Equilíbrio
+   - Receitas e Custos do Projeto
+   - Ponto de Equilíbrio
 7. Dimensionamento dos Investimentos
-   - [ ] Avaliação Financeira e Econômica
-   - [ ] Rentabilidade Simples e Período de Retorno do Capital (Payback)
-   - [ ] Valor Atual Líquido (VPL) e Taxa Interna de Retorno (TIR)
+   - Avaliação Financeira e Econômica
+   - Rentabilidade Simples e Período de Retorno do Capital (Payback)
+   - Valor Atual Líquido (VPL) e Taxa Interna de Retorno (TIR)
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

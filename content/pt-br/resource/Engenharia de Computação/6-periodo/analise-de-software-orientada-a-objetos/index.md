@@ -34,89 +34,89 @@ tags:
 ## 📖 Conteúdo Programático
 1. Introdução
 
-- [ ] Desenvolvimento de Sistemas Orientados a Objetos
-- [ ] Linguagem de Modelagem Unificada
-- [ ] Processo Unificado
+- Desenvolvimento de Sistemas Orientados a Objetos
+- Linguagem de Modelagem Unificada
+- Processo Unificado
 
 2. Modelagem de Negócio
 
-- [ ] Introdução à Modelagem de Negócio
-- [ ] Visão Geral do Sistema
-- [ ] Casos de Uso de Negócio
-- [ ] Diagrama de Atividades de Negócio
-- [ ] Aspectos do Negócio Dependente de Estado
+- Introdução à Modelagem de Negócio
+- Visão Geral do Sistema
+- Casos de Uso de Negócio
+- Diagrama de Atividades de Negócio
+- Aspectos do Negócio Dependente de Estado
 
 3. Requisitos de Alto Nível
 
-- [ ] Introdução aos Requisitos de Alto Nível
-- [ ] Atores de Sistema
-- [ ] Casos de Uso de Sistema
-- [ ] Como Encontrar Casos de Uso de Sistema no Modelo de Negócio
-- [ ] Requisitos
-- [ ] Modelo Conceitual
+- Introdução aos Requisitos de Alto Nível
+- Atores de Sistema
+- Casos de Uso de Sistema
+- Como Encontrar Casos de Uso de Sistema no Modelo de Negócio
+- Requisitos
+- Modelo Conceitual
 
 4. Planejamento de Projeto Baseado em Casos de Uso
 
-- [ ] Introdução à Estimação de Esforço e Análise de Risco em Projetos de Software
-- [ ] Análise de Pontos de Caso de Uso
-- [ ] Planejamento de Projeto Iterativo
+- Introdução à Estimação de Esforço e Análise de Risco em Projetos de Software
+- Análise de Pontos de Caso de Uso
+- Planejamento de Projeto Iterativo
 
 5. Casos de Uso Expandidos
 
-- [ ] Introdução aos Casos de Uso Expandidos
-- [ ] Fluxo Principal
-- [ ] Fluxos Alternativos
-- [ ] Recomendações de Escrita
-- [ ] Casos de Uso Incluídos e Fragmentos
-- [ ] Expansão de Casos de Uso Expandido
-- [ ] Outras Seções de um Caso de Uso Expandido
-- [ ] Diagramas de Sequência de Sistema
+- Introdução aos Casos de Uso Expandidos
+- Fluxo Principal
+- Fluxos Alternativos
+- Recomendações de Escrita
+- Casos de Uso Incluídos e Fragmentos
+- Expansão de Casos de Uso Expandido
+- Outras Seções de um Caso de Uso Expandido
+- Diagramas de Sequência de Sistema
 
 6. Fundamentos de Modelagem Conceitual
 
-- [ ] Introdução à Modelagem Conceitual
-- [ ] Atributos
-- [ ] Conceitos
-- [ ] Associações
-- [ ] Coleções
-- [ ] Organização do Modelo Conceitual
-- [ ] Invariantes
-- [ ] Construção Interativa do Modelo Conceitual
+- Introdução à Modelagem Conceitual
+- Atributos
+- Conceitos
+- Associações
+- Coleções
+- Organização do Modelo Conceitual
+- Invariantes
+- Construção Interativa do Modelo Conceitual
 
 7. Padrões de Modelagem Conceitual
 
-- [ ] Coesão Alta
-- [ ] Classes
-- [ ] Quantidade
-- [ ] Medida
-- [ ] Estratégia
-- [ ] Composição
-- [ ] Hierarquia Organizacional
-- [ ] Junção de Objetos
-- [ ] Conta/Transação
-- [ ] Intervalo
-- [ ] Padrões Temporais
+- Coesão Alta
+- Classes
+- Quantidade
+- Medida
+- Estratégia
+- Composição
+- Hierarquia Organizacional
+- Junção de Objetos
+- Conta/Transação
+- Intervalo
+- Padrões Temporais
 
 8. Modelagem Funcional com Contratos
 
-- [ ] Introdução à Modelagem Funcional
-- [ ] Precondições
-- [ ] Associações Temporárias
-- [ ] Retorno de Consulta
-- [ ] Pós-Condições
-- [ ] Exceções
-- [ ] Contratos Padrão para CRUD
-- [ ] Padrões de Contrato para Listar Objetos
-- [ ] Contratos Relacionados a Casos de Uso
+- Introdução à Modelagem Funcional
+- Precondições
+- Associações Temporárias
+- Retorno de Consulta
+- Pós-Condições
+- Exceções
+- Contratos Padrão para CRUD
+- Padrões de Contrato para Listar Objetos
+- Contratos Relacionados a Casos de Uso
 
 9. Design da Camada de Domínio
 
-- [ ] Introdução ao Design
-- [ ] Distribuição de Responsabilidades de Objetos
-- [ ] Visibilidade
-- [ ] Modelagem Dinâmica Baseada em Pós-Condições
-- [ ] Consultas de Sistema
-- [ ] Delegação e Acoplamento Baixo
+- Introdução ao Design
+- Distribuição de Responsabilidades de Objetos
+- Visibilidade
+- Modelagem Dinâmica Baseada em Pós-Condições
+- Consultas de Sistema
+- Delegação e Acoplamento Baixo
 
 10. Diagrama de Classe de Projeto
 

@@ -33,31 +33,31 @@ tags:
 ## 📖 Conteúdo Programático
 1. Línguas de Sinais e Minoria Línguistica
 
-- [ ] As diferentes línguas de sinais.
-- [ ] Status da língua de sinais no Brasil. Cultura surda
+- As diferentes línguas de sinais.
+- Status da língua de sinais no Brasil. Cultura surda
 
 2. A Língua Brasileira de Sinais
 
-- [ ] A língua brasileira de Sinais.
-- [ ] Sistema de transcrição da Língua Portuguesa para a Língua de Sinais. Variação linguística.
-- [ ] Parâmetros da Língua de Sinais. Vocabulário:
-- [ ] i. alfabeto manual ou datilológico;
-- [ ] ii. apresentação, saudação;
-- [ ] iii. nomes/sinais;
-- [ ] iv. gramática: pronomes pessoais, demonstrativos possessivos, interrogativos, adjetivos e advérbios;
-- [ ] v. numerais;
-- [ ] vi. família, profissões animais, objetos, ambiente de trabalho e de escola, meios de comunicação, meios de transportes;
-- [ ] vii. dias da semana;
-- [ ] viii. meses do ano;
-- [ ] ix. horas; Tempo;
-- [ ] x. verbos relacionados aos conteúdos trabalhados.
+- A língua brasileira de Sinais.
+- Sistema de transcrição da Língua Portuguesa para a Língua de Sinais. Variação linguística.
+- Parâmetros da Língua de Sinais. Vocabulário:
+- i. alfabeto manual ou datilológico;
+- ii. apresentação, saudação;
+- iii. nomes/sinais;
+- iv. gramática: pronomes pessoais, demonstrativos possessivos, interrogativos, adjetivos e advérbios;
+- v. numerais;
+- vi. família, profissões animais, objetos, ambiente de trabalho e de escola, meios de comunicação, meios de transportes;
+- vii. dias da semana;
+- viii. meses do ano;
+- ix. horas; Tempo;
+- x. verbos relacionados aos conteúdos trabalhados.
 
 3. Organização linguística da Libras para usos informais e cotidianos
 
-- [ ] Vocabulário.
-- [ ] Morfologia.
-- [ ] Sintaxe e semântica.
-- [ ] A expressão corporal como elemento linguístico
+- Vocabulário.
+- Morfologia.
+- Sintaxe e semântica.
+- A expressão corporal como elemento linguístico
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

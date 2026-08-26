@@ -32,67 +32,67 @@ tags:
 ## 📖 Conteúdo Programático
 1. Introdução ao conceito de tensão
 
-- [ ] Métodos da estática
-- [ ] Tensões nos elementos de uma estrutura
-- [ ] Tensão em um plano oblíquo
-- [ ] Tensões sob condições gerais de carregamento
-- [ ] Componentes de tensão
-- [ ] Considerações de projeto
+- Métodos da estática
+- Tensões nos elementos de uma estrutura
+- Tensão em um plano oblíquo
+- Tensões sob condições gerais de carregamento
+- Componentes de tensão
+- Considerações de projeto
 
 2. Forças distribuídas
 
-- [ ] Centro de gravidade e centroide de superfície
-- [ ] Centro de gravidade e centroide de sólidos
-- [ ] Momentos de inércia de superfícies
-- [ ] Momentos de inércia dos corpos
+- Centro de gravidade e centroide de superfície
+- Centro de gravidade e centroide de sólidos
+- Momentos de inércia de superfícies
+- Momentos de inércia dos corpos
 
 3. Tensão e deformação – carregamento axial
 
-- [ ] Conceito da tensão e deformação
-- [ ] problemas estaticamente indeterminados
-- [ ] Problemas que envolvem mudança de temperatura
-- [ ] Coeficiente de Poisson
-- [ ] Carregamento multiaxial
-- [ ] Deformação de cisalhamento
-- [ ] Distribuição de tensão e deformação específica sob carregamento axial – princípio de SaintVenant
-- [ ] Concentração de tensões
-- [ ] Deformações plásticas
+- Conceito da tensão e deformação
+- problemas estaticamente indeterminados
+- Problemas que envolvem mudança de temperatura
+- Coeficiente de Poisson
+- Carregamento multiaxial
+- Deformação de cisalhamento
+- Distribuição de tensão e deformação específica sob carregamento axial – princípio de SaintVenant
+- Concentração de tensões
+- Deformações plásticas
 
 4. Torção
 
-- [ ] Torção de eixo de seção circular
-- [ ] Ângulo de torção no regime elástico
-- [ ] Eixos estaticamente indeterminados – eixo de transmissão
+- Torção de eixo de seção circular
+- Ângulo de torção no regime elástico
+- Eixos estaticamente indeterminados – eixo de transmissão
 
 5. Flexão
 
-- [ ] Barras simétricas em flexão pura
-- [ ] Tensões e deformações no regime elástico
-- [ ] Deformação em uma seção transversal
-- [ ] Barra de material composto
-- [ ] Concentração de tensões
-- [ ] Cargas excêntricas
+- Barras simétricas em flexão pura
+- Tensões e deformações no regime elástico
+- Deformação em uma seção transversal
+- Barra de material composto
+- Concentração de tensões
+- Cargas excêntricas
 
 6. Análise e projeto de vigas em flexão
 
-- [ ] Diagrama de força cortante e momento fletor
-- [ ] Relação entre força, força cortante e momento fletor
-- [ ] Projeto de vigas Tensões de cisalhamento em vigas e elementos de parede fina
+- Diagrama de força cortante e momento fletor
+- Relação entre força, força cortante e momento fletor
+- Projeto de vigas Tensões de cisalhamento em vigas e elementos de parede fina
 
 7. Tensão de cisalhamento horizontal nas vigas
 
-- [ ] Cisalhamento longitudinal
-- [ ] Tensão de cisalhamento em elementos de parede fina
+- Cisalhamento longitudinal
+- Tensão de cisalhamento em elementos de parede fina
 
 8. Análise de transformação de tensão e deformação
 
-- [ ] Transformação do estado plano de tensão
-- [ ] Círculo de Mohr para o estado plano de tensão
+- Transformação do estado plano de tensão
+- Círculo de Mohr para o estado plano de tensão
 
 9. Colunas
 
-- [ ] Estabilidade de estruturas
-- [ ] Projeto de colunas
+- Estabilidade de estruturas
+- Projeto de colunas
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

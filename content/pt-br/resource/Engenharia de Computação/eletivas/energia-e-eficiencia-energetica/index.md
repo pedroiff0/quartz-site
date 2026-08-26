@@ -32,33 +32,33 @@ tags:
 ## 📖 Conteúdo Programático
 1. Energia x Recursos Naturais
 
-- [ ] Introdução
-- [ ] Questão Energética na Atualidade
-- [ ] A Busca de Soluções Energéticas para o Desenvolvimento Sustentável
+- Introdução
+- Questão Energética na Atualidade
+- A Busca de Soluções Energéticas para o Desenvolvimento Sustentável
 
 2. Cadeia Energética
 
-- [ ] Recursos Energético
-- [ ] Equivalência em Energia
-- [ ] Fontes de Energia Primárias e Secundárias
-- [ ] Fontes de Energia Renováveis e Não Renováveis
-- [ ] Matriz Energética no Brasil
-- [ ] Utilização de Fontes Renováveis
-- [ ] Programas de Conservação de Energia
+- Recursos Energético
+- Equivalência em Energia
+- Fontes de Energia Primárias e Secundárias
+- Fontes de Energia Renováveis e Não Renováveis
+- Matriz Energética no Brasil
+- Utilização de Fontes Renováveis
+- Programas de Conservação de Energia
 
 3. Usos da Energia
 
-- [ ] Energia dos Combustíveis Fósseis
-- [ ] Termoelétricas e Energia Nuclear
-- [ ] Energia Solar
-- [ ] Energia Heólica
-- [ ] Pequenas Centrais Hidroelétricas
-- [ ] Energia Geotérmica
-- [ ] Tecnologias Energéticas Futuras
+- Energia dos Combustíveis Fósseis
+- Termoelétricas e Energia Nuclear
+- Energia Solar
+- Energia Heólica
+- Pequenas Centrais Hidroelétricas
+- Energia Geotérmica
+- Tecnologias Energéticas Futuras
 
 4. Problemas da Energia
 
-- [ ] Papel da Política Energética Nacional
+- Papel da Política Energética Nacional
 
 5. Perspectivas Energéticas
 

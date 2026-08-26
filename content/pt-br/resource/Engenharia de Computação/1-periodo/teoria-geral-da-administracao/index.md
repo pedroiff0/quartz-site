@@ -32,36 +32,36 @@ tags:
 ## 📖 Conteúdo Programático
 1. O Campo da Administração
 
-- [ ] Administração: Conceito, Importância e Campos de Atuação.
-- [ ] Funções Administrativas;
-- [ ] Características das Funções Administrativas.
+- Administração: Conceito, Importância e Campos de Atuação.
+- Funções Administrativas;
+- Características das Funções Administrativas.
 
 2. Estruturas Administrativas
 
-- [ ] Tipos de Estruturas Formal e Informal;
-- [ ] Importâncias das Estruturas;
-- [ ] Técnicas de Estruturação – Departamentalização;
-- [ ] Organograma.
+- Tipos de Estruturas Formal e Informal;
+- Importâncias das Estruturas;
+- Técnicas de Estruturação – Departamentalização;
+- Organograma.
 
 3. Áreas Administrativas
 
-- [ ] Administração de Recursos Humanos;
-- [ ] Administração de Produção, Material e Patrimônio;
-- [ ] Administração de Marketing;
-- [ ] Administração Financeira e Orçamentária.
+- Administração de Recursos Humanos;
+- Administração de Produção, Material e Patrimônio;
+- Administração de Marketing;
+- Administração Financeira e Orçamentária.
 
 4. Planejamento da Ação Empresarial
 
-- [ ] Planejamento Estratégico, Tático e Operacional;
-- [ ] Ambiente Organizacional Interno e Externo.
+- Planejamento Estratégico, Tático e Operacional;
+- Ambiente Organizacional Interno e Externo.
 
 5. O Ambiente Organizacional
 
-- [ ] Focalizando a Oportunidade;
-- [ ] Novos Mercados;
-- [ ] Técnicas de Decidir;
-- [ ] Desenvolvimento Organizacional;
-- [ ] Gestão do Conhecimento.
+- Focalizando a Oportunidade;
+- Novos Mercados;
+- Técnicas de Decidir;
+- Desenvolvimento Organizacional;
+- Gestão do Conhecimento.
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

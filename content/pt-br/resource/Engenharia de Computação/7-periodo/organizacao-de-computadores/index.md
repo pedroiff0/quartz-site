@@ -33,28 +33,28 @@ tags:
 ## 📖 Conteúdo Programático
 1. Arquitetura Básica de Processador
 
-- [ ] Unidade Central de Processamento
-- [ ] i. Unidade de Controle
-- [ ] ii. Unidade Lógica e Aritmética
-- [ ] iii. Registradores
-- [ ] Barramento Internos
-- [ ] Ciclo Básico de Instrução (Busca-Decodifica-Executa)
+- Unidade Central de Processamento
+- i. Unidade de Controle
+- ii. Unidade Lógica e Aritmética
+- iii. Registradores
+- Barramento Internos
+- Ciclo Básico de Instrução (Busca-Decodifica-Executa)
 
 2. Memórias i. Endereços de Memória ii. Códigos de Correção de Erros iii. Memória Cache iv. Empacotamento e Tipos de Memória
 
-- [ ] Memória Primária
-- [ ] Memória Secundária
-- [ ] i. Discos Magnéticos
-- [ ] ii. Discos Flexíveis
-- [ ] iii. Discos Óticos
+- Memória Primária
+- Memória Secundária
+- i. Discos Magnéticos
+- ii. Discos Flexíveis
+- iii. Discos Óticos
 
 3. Entrada/Saída
 
-- [ ] Barramentos
-- [ ] Terminais
-- [ ] Dispositivos Apontadores
-- [ ] Impressoras
-- [ ] Equipamentos de Telecomunicações
+- Barramentos
+- Terminais
+- Dispositivos Apontadores
+- Impressoras
+- Equipamentos de Telecomunicações
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

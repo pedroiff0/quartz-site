@@ -34,28 +34,28 @@ tags:
 2. Processamento e Otimização de Consultas
 3. Transações
 
-- [ ] Conceito
-- [ ] Propriedades
-	- [ ] i. Atomicidade
-	- [ ] ii. Consistência
-	- [ ] iii. Isolamento
-	- [ ] iv. Durabilidade
-- [ ] Controle e Falhas em Transações
-- [ ] Concorrência
+- Conceito
+- Propriedades
+	- i. Atomicidade
+	- ii. Consistência
+	- iii. Isolamento
+	- iv. Durabilidade
+- Controle e Falhas em Transações
+- Concorrência
 
 4. Programação em Bancos de Dados
 
-- [ ] PL/SQL
-	- [ ] i. Conceitos
-	- [ ] ii. Comandos
-- [ ] Procedimentos Armazenados
-- [ ] Gatilhos
+- PL/SQL
+	- i. Conceitos
+	- ii. Comandos
+- Procedimentos Armazenados
+- Gatilhos
 
 5. Segurança
 
-- [ ] Privilégios de Acesso
-- [ ] Visões
-- [ ] Criptografia de Dados
+- Privilégios de Acesso
+- Visões
+- Criptografia de Dados
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

@@ -35,35 +35,35 @@ tags:
 ## 📖 Conteúdo Programático
 1. Sistema de Numeração
 
-- [ ] Notação Posicional
-- [ ] Sistemas Numéricos
-	- [ ] i. Decimal
-	- [ ] ii. Octal
-	- [ ] iii. Binário
-	- [ ] iv. Hexadecimal
-- [ ] Conversão entre Bases
+- Notação Posicional
+- Sistemas Numéricos
+	- i. Decimal
+	- ii. Octal
+	- iii. Binário
+	- iv. Hexadecimal
+- Conversão entre Bases
 
 2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole [[Aula 01 - Portas Lógicas]]
 
-- [x] Funções Lógicas [[Aula 01 - Portas Lógicas]]
-- [x] Tabelas Verdade [[Aula 01 - Portas Lógicas]]
-- [x] Álgebra Booleana [[Aula 01 - Portas Lógicas]]
-- [x] Teoremas de De Morgan [[Aula 01 - Portas Lógicas]]
-- [x] Teorema da Dualidade [[Aula 01 - Portas Lógicas]]
-- [x] Mintermos e Maxtermos [[Aula 01 - Portas Lógicas]]
-- [ ] Simplificação de Equações e Circuitos Lógicos 
-- [ ] Mapas de Karnaugh
+- Funções Lógicas [[Aula 01 - Portas Lógicas]]
+- Tabelas Verdade [[Aula 01 - Portas Lógicas]]
+- Álgebra Booleana [[Aula 01 - Portas Lógicas]]
+- Teoremas de De Morgan [[Aula 01 - Portas Lógicas]]
+- Teorema da Dualidade [[Aula 01 - Portas Lógicas]]
+- Mintermos e Maxtermos [[Aula 01 - Portas Lógicas]]
+- Simplificação de Equações e Circuitos Lógicos 
+- Mapas de Karnaugh
 
 3. Circuitos Combinacionais
 
-- [ ] Multiplexadores
-- [ ] Demultiplexadores
-- [ ] Codificadores
-- [ ] Decodificadores
-- [ ] Conversores de Código
-- [ ] Circuitos Aritméticos
-- [ ] Latches
-- [ ] Flip-Flops
+- Multiplexadores
+- Demultiplexadores
+- Codificadores
+- Decodificadores
+- Conversores de Código
+- Circuitos Aritméticos
+- Latches
+- Flip-Flops
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica
