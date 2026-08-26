@@ -32,31 +32,31 @@ tags:
 ## 📖 Conteúdo Programático
 1. Análise de Circuitos Em Corrente Alternada
 
-- Padrões Elétricos e Convenções;
-- Circuitos em Corrente Alternada;
-- Representação Senoidal, Retangular e Polar;
-- Valor Eficaz de uma Onda Senoidal;
-- Triângulos de Impedâncias;
-- Reatância indutiva;
-- Reatância capacitiva;
-- Triângulo de Potência;
-- Potência Ativa;
-- Potência Reativa;
-- Potência Aparente;
-- Fator de Potência;
-- Noções de Circuitos Trifásicos;
-- Transformadores;
-- Relação de transformação, ligação de triângulo e estrela;
+- [ ] Padrões Elétricos e Convenções;
+- [ ] Circuitos em Corrente Alternada;
+- [ ] Representação Senoidal, Retangular e Polar;
+- [ ] Valor Eficaz de uma Onda Senoidal;
+- [ ] Triângulos de Impedâncias;
+- [ ] Reatância indutiva;
+- [ ] Reatância capacitiva;
+- [ ] Triângulo de Potência;
+- [ ] Potência Ativa;
+- [ ] Potência Reativa;
+- [ ] Potência Aparente;
+- [ ] Fator de Potência;
+- [ ] Noções de Circuitos Trifásicos;
+- [ ] Transformadores;
+- [ ] Relação de transformação, ligação de triângulo e estrela;
 
 2. Fornecimento de Energia
 
-- Visão Geral do Sistema Elétrico;
-- Modalidades de Ligações dos Consumidores;
-- Monofásica;
-- Bifásica;
-- Trifásica;
-- Instalação para Iluminação e Aparelhos Eletrodomésticos;
-- Normas, Símbolos e Convenções.
+- [ ] Visão Geral do Sistema Elétrico;
+- [ ] Modalidades de Ligações dos Consumidores;
+- [ ] Monofásica;
+- [ ] Bifásica;
+- [ ] Trifásica;
+- [ ] Instalação para Iluminação e Aparelhos Eletrodomésticos;
+- [ ] Normas, Símbolos e Convenções.
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

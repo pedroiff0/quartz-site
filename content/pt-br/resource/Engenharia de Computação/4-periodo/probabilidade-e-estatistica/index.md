@@ -32,29 +32,29 @@ tags:
 ## 📖 Conteúdo Programático
 1. Introdução à Estatística
 
-- Coleta de Dados em Engenharia
-- Modelos Mecanicistas e Empíricos
-- Planejamento de Experimentos
+- [ ] Coleta de Dados em Engenharia
+- [ ] Modelos Mecanicistas e Empíricos
+- [ ] Planejamento de Experimentos
 
 2. Estatística Descritiva
 
-- Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
-- Medidas de Posição: Médias, Mediana e Moda
-- Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
+- [ ] Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
+- [ ] Medidas de Posição: Médias, Mediana e Moda
+- [ ] Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
 
 3. Probabilidade
 
-- Definição
-- Eventos Independentes
-- Probabilidade condicional
-- Leis da Probabilidade
-- Teorema de Bayes
-- Variáveis Aleatórias
+- [ ] Definição
+- [ ] Eventos Independentes
+- [ ] Probabilidade condicional
+- [ ] Leis da Probabilidade
+- [ ] Teorema de Bayes
+- [ ] Variáveis Aleatórias
 
 4. Distribuições de Probabilidades
 
-- Discretas
-- Contínuas
+- [ ] Discretas
+- [ ] Contínuas
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

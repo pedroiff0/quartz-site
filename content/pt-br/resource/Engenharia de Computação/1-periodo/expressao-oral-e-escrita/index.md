@@ -35,24 +35,24 @@ tags:
 ## 📖 Conteúdo Programático
 1. Noções de texto
 
-- Linguagem verbal e não verbal;
-- Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
-- Variações linguísticas.
+- [ ] Linguagem verbal e não verbal;
+- [ ] Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
+- [ ] Variações linguísticas.
 
 2. Organização textual
 
-- Coerência e Coesão.
+- [ ] Coerência e Coesão.
 
 3. Tipologia Textual
 
-- Estrutura e características do texto descritivo;
-- Estrutura e características do texto narrativo;
-- Estrutura e características do texto dissertativo.
+- [ ] Estrutura e características do texto descritivo;
+- [ ] Estrutura e características do texto narrativo;
+- [ ] Estrutura e características do texto dissertativo.
 
 4. Linguagem e argumentação
 5. Redação científica
 
-- Elaboração de resumo, resenha e fichamento.
+- [ ] Elaboração de resumo, resenha e fichamento.
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

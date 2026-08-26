@@ -33,34 +33,34 @@ tags:
 ## 📖 Conteúdo Programático
 1. Sistemas de Tempo Real
 
-- Caracterização de Sistemas Embarcados Operando em Tempo Real;
+- [ ] Caracterização de Sistemas Embarcados Operando em Tempo Real;
 
 2. Sistemas Embarcados: Modelagem, Projeto e Implementação
 
-- Processo de Desenvolvimento de Sistemas Embarcados
-- Modelagem e Projeto de Sistemas Embarcados Através de Statecharts
-- Estrutura de Implementação de Sistemas Embarcados
+- [ ] Processo de Desenvolvimento de Sistemas Embarcados
+- [ ] Modelagem e Projeto de Sistemas Embarcados Através de Statecharts
+- [ ] Estrutura de Implementação de Sistemas Embarcados
 
 3. Programação Concorrente
 
-- Conceituação de Concorrência
-- Problema de Exclusão Mútua
-- Comunicação e Sincronização em Memória Compartilhada
-- Comunicação e Sincronização via Troca de Mensagens
+- [ ] Conceituação de Concorrência
+- [ ] Problema de Exclusão Mútua
+- [ ] Comunicação e Sincronização em Memória Compartilhada
+- [ ] Comunicação e Sincronização via Troca de Mensagens
 
 4. Núcleos Operacionais
 
-- Conceituação de Núcleos Operacionais
-- Funcionalidades de Núcleos Operacionais
+- [ ] Conceituação de Núcleos Operacionais
+- [ ] Funcionalidades de Núcleos Operacionais
 
 5. Escalonamento
 
-- Conceituação
-- Objetivos
-- Escalonadores Canônicos
-- Escalonamento por Prioridades
-- Escalonamento em Taxa Monotônica
-- Modelagem Matemática de Escalonadores
+- [ ] Conceituação
+- [ ] Objetivos
+- [ ] Escalonadores Canônicos
+- [ ] Escalonamento por Prioridades
+- [ ] Escalonamento em Taxa Monotônica
+- [ ] Modelagem Matemática de Escalonadores
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica

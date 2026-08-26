@@ -40,33 +40,33 @@ tags:
 6. Algoritmos Gulosos
 7. Teoria dos Grafos
 
-- Conceitos Básicos
-- Grafos e Digrafos
-- Extensões de Grafos
-- Planaridade
-- Conectividade
-- Conectividade de Nós e Grafos
-- Árvores e Grafos
-- Algoritmo de Conectividade
-- Coloração
-- Algoritmos de Coloração de Grafos
-- Busca em Largura e Profundidade
-- Algoritmos de Menor Caminho
-- Algoritmo de Belman-Ford
-- Algoritmo de Dijkstra
-- Árvore Geradora
-- Algoritmo de Kruskal
-- Algoritmo de Prim
-- Ordenação Topológica em Grafos
-- Fluxo de Rede
-- Algoritmo de Ford-Fulkerson
+- [ ] Conceitos Básicos
+- [ ] Grafos e Digrafos
+- [ ] Extensões de Grafos
+- [ ] Planaridade
+- [ ] Conectividade
+- [ ] Conectividade de Nós e Grafos
+- [ ] Árvores e Grafos
+- [ ] Algoritmo de Conectividade
+- [ ] Coloração
+- [ ] Algoritmos de Coloração de Grafos
+- [ ] Busca em Largura e Profundidade
+- [ ] Algoritmos de Menor Caminho
+- [ ] Algoritmo de Belman-Ford
+- [ ] Algoritmo de Dijkstra
+- [ ] Árvore Geradora
+- [ ] Algoritmo de Kruskal
+- [ ] Algoritmo de Prim
+- [ ] Ordenação Topológica em Grafos
+- [ ] Fluxo de Rede
+- [ ] Algoritmo de Ford-Fulkerson
 
 8. Classes de Problema
 
-- P
-- NP
-- NP-Completo
-- NP-Difícil
+- [ ] P
+- [ ] NP
+- [ ] NP-Completo
+- [ ] NP-Difícil
 
 > [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
 > ### 📕 Bibliografia Básica
