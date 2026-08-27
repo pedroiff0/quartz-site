@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/4-periodo
 title: "4º Período"
 created: 2026-07-21
 modified: 2026-08-06

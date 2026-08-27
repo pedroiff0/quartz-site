@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii
 title: "Algoritmos e Estruturas de Dados II"
 created: '2026-07-18'
 modified: '2026-08-06'

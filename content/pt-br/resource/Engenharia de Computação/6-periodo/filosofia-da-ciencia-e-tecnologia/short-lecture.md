@@ -1,6 +1,5 @@
 ---
 publish: false
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/short-lecture
 title: "Short Lecture — Filosofia da Ciência e Tecnologia"
 disciplina: "Filosofia da Ciência e Tecnologia"
 codigo: "CSECBJI.43"
@@ -181,8 +180,8 @@ Em *O Princípio Responsabilidade* (1979), Hans Jonas argumenta que a ética tra
 ---
 
 ## 🔗 Referências e Conexões no Cofre
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/06 - Periodo/43 - Filosofia da Ciência e Tecnologia/Ementa - Filosofia da Ciência e Tecnologia|📄 Ementa Oficial de FCT]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
+* [[pt-br/resource/Engenharia de Computação/06 - Periodo/43 - Filosofia da Ciência e Tecnologia/Ementa - Filosofia da Ciência e Tecnologia|📄 Ementa Oficial de FCT]]
+* [[pt-br/resource/Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
 * Livros Base:
   * CHAUÍ, Marilena. *Convite à Filosofia*. Ática, 2011.
   * LATOUR, Bruno. *Ciência em Ação: como seguir cientistas e engenheiros sociedade afora*. UNESP, 2000.

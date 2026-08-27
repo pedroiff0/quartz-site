@@ -1,9 +1,12 @@
 ---
 publish: true
-title: Neutrinos
-created: 2026-07-20T15:50:00-03:00
-modified: 2026-07-26T10:44:55.109-03:00
-published: 2026-07-26T10:44:55.109-03:00
+encrypted: true
+titulo: 260720-Neutrinos
+disciplina: Palestra — Física de Partículas e Cosmologia
+conteudo: Neutrinos e a Cosmologia — da física de partículas ao Universo em grande escala
+professor: Gabriel Rodrigues
+criado: segunda-feira 20/07/2026 15:50
+modificado: 22/07/2026
 tags:
   - escola-de-inverno-on
   - palestra
@@ -13,19 +16,11 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-titulo: Neutrinos
-disciplina: Palestra — Física de Partículas e Cosmologia
-conteudo: Neutrinos e a Cosmologia — da física de partículas ao Universo em grande escala
-professor: Gabriel Rodrigues
 ---
-
-# ⚛️ Notas de Palestra — Neutrinos e a Cosmologia
-
-> [!note] Resumo
-> Da física de partículas ao Universo em grande escala: o papel dos neutrinos como sonda cosmológica.
+# Notas de Palestra — Neutrinos e a Cosmologia
 
 > [!info] Informações da palestra
-> **Tema:** Neutrinos e a Cosmologia
+> **Título:** Neutrinos e a Cosmologia
 > **Palestrante:** Prof. Gabriel Rodrigues
 
 ---
@@ -35,7 +30,6 @@ professor: Gabriel Rodrigues
 O **neutrino** é uma das partículas mais abundantes do Universo e, ao mesmo tempo, uma das mais difíceis de detectar — interage tão fracamente com a matéria que bilhões passam pelo seu corpo a cada segundo sem qualquer efeito perceptível. Esta palestra conecta duas escalas radicalmente diferentes: (1) a física de partículas do neutrino — sua descoberta, seus "sabores" e sua massa — e (2) seu papel na **cosmologia**, como parte do inventário de matéria/energia do Universo e como sonda da física fundamental. A ferramenta central que une as duas escalas é a **métrica de Friedmann** e as equações que descrevem a expansão do Universo.
 
 ### 📑 Tópicos abordados
-
 1. O que são neutrinos: história e descoberta
 2. O Modelo Padrão da física de partículas
 3. Neutrinos têm massa: hierarquia de massas
@@ -58,7 +52,7 @@ Em **1930**, **Wolfgang Pauli** propôs a existência do neutrino para resolver 
 
 Hoje sabemos que existem **três "sabores" de neutrinos**, cada um associado a um lépton carregado correspondente:
 
-![O Modelo Padrão da física de partículas: os neutrinos (\nu\_e, \nu\_\mu, \nu\_\tau) aparecem na segunda linha, entre os léptons.](https://commons.wikimedia.org/wiki/Special:FilePath/Standard_Model_of_Elementary_Particles.svg)
+![O Modelo Padrão da física de partículas: os neutrinos ($\nu_e, \nu_\mu, \nu_\tau$) aparecem na segunda linha, entre os léptons.](https://commons.wikimedia.org/wiki/Special:FilePath/Standard_Model_of_Elementary_Particles.svg)
 
 - **Quarks:** up, down, charm, strange, top, bottom (partículas que se combinam para formar prótons, nêutrons, etc. — o **glúon** é o bóson mediador da força forte que os une, não um quark).
 - **Léptons:** elétron, múon, tau — e seus respectivos neutrinos ($\nu_e$, $\nu_\mu$, $\nu_\tau$).
@@ -80,7 +74,7 @@ Uma quantidade-chave, especialmente relevante para a cosmologia, é a **soma das
 - Hierarquia normal: $\sum m_\nu \gtrsim 0{,}06$ eV
 - Hierarquia invertida: $\sum m_\nu \gtrsim 0{,}1$ eV
 
-É exatamente esse ponto que conecta a física de partículas à cosmologia: **medidas cosmológicas independentes também restringem $\sum m_\nu$** (ver [Restrições cosmológicas sobre a massa dos neutrinos](#restrições-cosmológicas-sobre-a-massa-dos-neutrinos)), e comparar os dois tipos de limite (oscilação vs. cosmologia) é uma forma poderosa de testar a física fundamental.
+É exatamente esse ponto que conecta a física de partículas à cosmologia: **medidas cosmológicas independentes também restringem $\sum m_\nu$** (ver seção 5), e comparar os dois tipos de limite (oscilação vs. cosmologia) é uma forma poderosa de testar a física fundamental.
 
 ---
 
@@ -96,16 +90,15 @@ A cosmologia estuda a origem, evolução e composição do Universo assumindo qu
 
 Uma **métrica** descreve a geometria do espaço-tempo — como medir distâncias em um sistema de coordenadas de 4 dimensões (3 espaciais + tempo). Assumindo homogeneidade e isotropia, a solução geral das equações de Einstein para a Relatividade Geral é a **métrica de Friedmann-Lemaître-Robertson-Walker (FLRW)**:
 
-$ds^2 = -c^2dt^2 + a(t)^2\left[\frac{dr^2}{1-kr^2} + r^2 d\Omega^2\right]$
+$$ds^2 = -c^2dt^2 + a(t)^2\left[\frac{dr^2}{1-kr^2} + r^2 d\Omega^2\right]$$
 
 onde:
-
 - $ds$: intervalo de espaço-tempo entre dois eventos.
 - $a(t)$: **fator de escala** — descreve como as distâncias no Universo crescem (ou diminuem) com o tempo; por convenção, $a(t_{hoje}) = 1$.
 - $k = 0, \pm1$: **curvatura espacial** (plano, esférico ou hiperbólico).
 
 > [!tip] A intuição de Wheeler
-> O físico **John Archibald Wheeler** resumiu a Relatividade Geral numa frase: _"o espaço-tempo diz à matéria como se mover; a matéria diz ao espaço-tempo como se curvar."_ As **equações de campo de Einstein** formalizam exatamente essa via de mão dupla entre geometria e conteúdo de matéria/energia.
+> O físico **John Archibald Wheeler** resumiu a Relatividade Geral numa frase: *"o espaço-tempo diz à matéria como se mover; a matéria diz ao espaço-tempo como se curvar."* As **equações de campo de Einstein** formalizam exatamente essa via de mão dupla entre geometria e conteúdo de matéria/energia.
 
 ### As equações de Friedmann
 
@@ -116,7 +109,7 @@ A partir da métrica FLRW e das equações de campo de Einstein, obtemos duas eq
 
 Combinando essas equações com a **equação de estado** $p = w\rho c^2$ (que relaciona pressão $p$ e densidade de energia $\rho$ para cada componente do Universo, via o parâmetro $w$) e a **equação do fluido** (conservação de energia em um Universo em expansão), conseguimos modelar como cada componente (matéria, radiação, energia escura) evolui ao longo do tempo cósmico.
 
-A **energia escura** é o componente com $w \approx -1$ que faz a taxa de expansão de Friedmann **aumentar** com o tempo — a origem da aceleração cósmica observada (ver [nota de Cosmologia](/pt-br/resource/escolainverno/cosmologia)). Esse é o ingrediente central do **modelo $\Lambda$CDM**.
+A **energia escura** é o componente com $w \approx -1$ que faz a taxa de expansão de Friedmann **aumentar** com o tempo — a origem da aceleração cósmica observada (ver nota de Cosmologia). Esse é o ingrediente central do **modelo $\Lambda$CDM**.
 
 ---
 
@@ -135,16 +128,14 @@ Assim como existe uma Radiação Cósmica de Fundo em fótons (a **2,725 K** hoj
 - Densidade numérica: **~336 neutrinos/cm³** em todo o Universo — enorme, mas praticamente indetectável, pois interagem muito fracamente.
 
 ### Restrições cosmológicas sobre a massa dos neutrinos
-
 A soma das massas dos neutrinos deixa impressões sutis em duas observáveis cosmológicas principais:
-
 - **Espectro angular de potência da RCF** (medido pelo satélite **Planck**).
 - **Espectro de potência de matéria** (a distribuição estatística da matéria em grande escala, medida por levantamentos como o **DESI**).
 
 Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão numa faixa que já começa a **tensionar os limites inferiores** exigidos pelas oscilações de neutrino (hierarquia normal vs. invertida) — uma área ativa de pesquisa, pois cosmologia e física de partículas podem, em breve, se contradizer ou se confirmar mutuamente.
 
 > [!tip] "Energia escura fantasma"
-> Alguns modelos alternativos de energia escura (chamados de **"energia escura fantasma"**, _phantom dark energy_, com $w < -1$) alterariam a taxa de expansão de forma diferente do $\Lambda$CDM padrão — e podem, inclusive, afetar como interpretamos os limites cosmológicos sobre a massa dos neutrinos.
+> Alguns modelos alternativos de energia escura (chamados de **"energia escura fantasma"**, *phantom dark energy*, com $w < -1$) alterariam a taxa de expansão de forma diferente do $\Lambda$CDM padrão — e podem, inclusive, afetar como interpretamos os limites cosmológicos sobre a massa dos neutrinos.
 
 ---
 
@@ -161,13 +152,6 @@ Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão nu
 ## ❓ Perguntas e discussões da palestra
 
 > [!question] Perguntas
+> *(nenhuma pergunta registrada nesta palestra)*
 
 ---
-
-## 🔗 Referências e correlatos
-
-- [Cosmologia — Aula 01](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — o modelo $\Lambda$CDM e os candidatos a matéria escura citados aqui
-- [Cosmologia — Aula 02](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — a mesma métrica FLRW, motivada pelo Princípio Cosmológico
-- [OASI](/pt-br/resource/escolainverno/palestras/oasi)
-- [Bolsas](/pt-br/resource/escolainverno/palestras/bolsas)
-- [Raio-X](/pt-br/resource/escolainverno/palestras/raiox) — outra palestra que conecta física fundamental (nucleossíntese) à escala de aglomerados de galáxias

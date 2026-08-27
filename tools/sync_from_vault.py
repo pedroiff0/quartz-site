@@ -7,6 +7,9 @@ hl_materiais = os.path.join(hl_eng, '_materiais')
 qs_eng = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/Engenharia de Computação'
 qs_disciplinas = '/home/pedro/Repositorios/pessoal/quartz-site/content/assets/disciplinas'
 
+hl_escola = '/home/pedro/hardcore-life/02 - Áreas/Acadêmico/Pesquisas/Escola de Inverno - ON'
+qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/escolainverno'
+
 EXCLUDED_DIR_NAMES = {
     '_materiais',
     'esboço',
@@ -37,6 +40,50 @@ def clean_symlinks_in_dir(dir_path: str):
             print(f"  🔗 Removendo link simbólico antigo: {item}")
             os.unlink(item_path)
 
+LINK_REWRITES = [
+    ("02 - Áreas/Acadêmico/IFF - Engenharia de Computação", "pt-br/resource/Engenharia de Computação"),
+    ("02 - Áreas/Acadêmico/Pesquisas/Escola de Inverno - ON", "pt-br/resource/escolainverno"),
+    ("02 - Áreas/Acadêmico/Pesquisas", "pt-br/research"),
+    ("01 - Projetos", "pt-br/projects"),
+    ("07 - Diário", "pt-br/media"),
+]
+
+def transform_markdown_file(file_path: str):
+    if not file_path.endswith('.md'):
+        return
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    original = content
+    
+    # 1. Reescrever caminhos de links internos
+    for old_prefix, new_prefix in LINK_REWRITES:
+        content = content.replace(old_prefix, new_prefix)
+    
+    # 2. Sanitizar permalinks redundantes se forem iguais ao caminho relativo do Quartz
+    lines = content.splitlines()
+    new_lines = []
+    in_frontmatter = False
+    frontmatter_count = 0
+    
+    for line in lines:
+        if line.strip() == '---':
+            frontmatter_count += 1
+            in_frontmatter = (frontmatter_count == 1)
+        
+        if in_frontmatter and line.strip().startswith('permalink:'):
+            # Remover permalink redundante que gera loops
+            continue
+        new_lines.append(line)
+        
+    content = '\n'.join(new_lines)
+    if content and not content.endswith('\n'):
+        content += '\n'
+        
+    if content != original:
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(content)
+
 def sync_dirs(src: str, dst: str, exclude_dir_fn=is_excluded_dir, exclude_file_fn=is_excluded_file):
     if not os.path.exists(src):
         print(f"⚠️ Diretório de origem não encontrado: {src}")
@@ -54,7 +101,6 @@ def sync_dirs(src: str, dst: str, exclude_dir_fn=is_excluded_dir, exclude_file_f
 
     # 1. Copiar ou atualizar arquivos de src para dst
     for root, dirs, files in os.walk(src):
-        # Filtrar diretórios ignorados (in-place modification de dirs para impedir descida)
         dirs[:] = [d for d in dirs if not exclude_dir_fn(d)]
 
         rel = os.path.relpath(root, src)
@@ -83,6 +129,10 @@ def sync_dirs(src: str, dst: str, exclude_dir_fn=is_excluded_dir, exclude_file_f
 
             if needs_copy:
                 shutil.copy2(src_file, dst_file)
+                transform_markdown_file(dst_file)
+            else:
+                # Garantir transformação em arquivos existentes também
+                transform_markdown_file(dst_file)
 
     # 2. Remover arquivos e diretórios em dst que não devem existir (esboço, deletados no vault, etc.)
     for root, dirs, files in os.walk(dst, topdown=False):
@@ -128,7 +178,13 @@ if __name__ == '__main__':
     print(f"Origem: {hl_eng}")
     print(f"Destino: {qs_eng}")
     sync_dirs(hl_eng, qs_eng)
-    print('✅ Notas acadêmicas sincronizadas com sucesso (sem esboço e com arquivos reais)!')
+    print('✅ Notas acadêmicas sincronizadas com sucesso!')
+
+    print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Escola de Inverno) PARA O QUARTZ-SITE ===')
+    print(f"Origem: {hl_escola}")
+    print(f"Destino: {qs_escola}")
+    sync_dirs(hl_escola, qs_escola)
+    print('✅ Notas da Escola de Inverno sincronizadas com sucesso!')
 
     print('\n=== 🔄 SINCRONIZANDO ASSETS (_materiais) PARA CONTENT/ASSETS/DISCIPLINAS ===')
     if os.path.exists(hl_materiais):

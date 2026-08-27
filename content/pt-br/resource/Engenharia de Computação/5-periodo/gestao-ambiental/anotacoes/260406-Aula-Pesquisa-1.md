@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo/gestao-ambiental/anotacoes/260406-aula-pesquisa-1
 titulo:  260406-Aula-Pesquisa-1
 disciplina:
 conteudo:

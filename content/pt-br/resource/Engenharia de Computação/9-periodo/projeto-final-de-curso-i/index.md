@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/9-periodo/projeto-final-de-curso-i
 title: "Projeto Final de Curso I"
 created: '2026-07-18'
 modified: '2026-08-06'

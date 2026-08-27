@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software/anotacoes/260326-aula-intro-1
 titulo: 260326-Aula-Intro-1
 disciplina:
 conteudo:

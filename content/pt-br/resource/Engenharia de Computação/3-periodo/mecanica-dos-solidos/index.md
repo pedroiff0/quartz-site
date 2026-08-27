@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/3-periodo/mecanica-dos-solidos
 title: "Mecânica dos Sólidos"
 created: '2026-07-18'
 modified: '2026-08-06'

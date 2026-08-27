@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo
 title: "6º Período"
 created: 2026-07-21
 modified: 2026-08-22

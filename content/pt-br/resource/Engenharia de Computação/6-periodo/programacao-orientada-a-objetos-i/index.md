@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i
 title: "Programação Orientada a Objetos I"
 created: '2026-07-18'
 modified: '2026-08-06'

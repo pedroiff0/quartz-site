@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos/anotacoes/260618-revisaoprova
 titulo:  260618-RevisaoProva
 disciplina:
 conteudo:

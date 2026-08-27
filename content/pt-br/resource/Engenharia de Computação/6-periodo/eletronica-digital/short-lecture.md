@@ -1,6 +1,5 @@
 ---
 publish: false
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/short-lecture
 title: "Short Lecture — Eletrônica Digital"
 disciplina: "Eletrônica Digital"
 codigo: "CSECBJI.46"
@@ -30,8 +29,8 @@ created: 2026-08-22
 
 > [!abstract] 📌 Visão Geral da Disciplina
 > * **Código:** `CSECBJI.46` | **Carga Horária:** 60 h/a | **Período:** 6º Período
-> * **Pré-requisitos:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/01 - Periodo/03 - Lógica para Computação/Ementa - Lógica para Computação|Lógica para Computação (CSECBJI.3)]], [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/05 - Periodo/37 - Eletrônica Analógica/Ementa - Eletrônica Analógica|Eletrônica Analógica (CSECBJI.37)]]
-> * **Tranca:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/07 - Periodo/53 - Sistemas Digitais/Ementa - Sistemas Digitais|Sistemas Digitais (CSECBJI.53)]]
+> * **Pré-requisitos:** [[pt-br/resource/Engenharia de Computação/01 - Periodo/03 - Lógica para Computação/Ementa - Lógica para Computação|Lógica para Computação (CSECBJI.3)]], [[pt-br/resource/Engenharia de Computação/05 - Periodo/37 - Eletrônica Analógica/Ementa - Eletrônica Analógica|Eletrônica Analógica (CSECBJI.37)]]
+> * **Tranca:** [[pt-br/resource/Engenharia de Computação/07 - Periodo/53 - Sistemas Digitais/Ementa - Sistemas Digitais|Sistemas Digitais (CSECBJI.53)]]
 > * **Ementa Síntese:** Sistemas de numeração e códigos; Álgebra booleana e portas lógicas; Minimização lógica e Mapas de Karnaugh; Circuitos combinacionais clássicos (somadores, multiplexadores, decodificadores); Introdução aos circuitos sequenciais (latches e flip-flops).
 
 ---
@@ -201,9 +200,9 @@ Para garantir a operação confiável do Flip-Flop:
 ---
 
 ## 🔗 Referências e Conexões no Cofre
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/06 - Periodo/46 - Eletrônica Digital/Ementa - Eletrônica Digital|📄 Ementa Oficial de Eletrônica Digital]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/01 - Periodo/03 - Lógica para Computação/Ementa - Lógica para Computação|Lógica para Computação (CSECBJI.3)]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
+* [[pt-br/resource/Engenharia de Computação/06 - Periodo/46 - Eletrônica Digital/Ementa - Eletrônica Digital|📄 Ementa Oficial de Eletrônica Digital]]
+* [[pt-br/resource/Engenharia de Computação/01 - Periodo/03 - Lógica para Computação/Ementa - Lógica para Computação|Lógica para Computação (CSECBJI.3)]]
+* [[pt-br/resource/Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
 * Livros Base:
   * TOKHEIM, Roger. *Fundamentos de Eletrônica Digital – Vol. 1: Sistemas Combinacionais*. Bookman, 2013.
   * IDOETA, I. V.; CAPUANO, F. G. *Elementos de Eletrônica Digital*. 42ª Edição. Érica, 2019.

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas
 title: Aula 01 - Portas Lógicas
 created: 2026-08-24
 modified: 2026-08-24
@@ -22,7 +21,7 @@ professor: Fabrício Barros Gonçalves
 
 
 > [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/6-periodo/eletronica-digital|Eletrônica Digital]]
+> - **Disciplina:** [[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital|Eletrônica Digital]]
 > - **Docente Responsável:** Fabrício Barros Gonçalves
 > - **Tópico Central:** Portas Lógicas & Álgebra Booleana
 > - **Status das Anotações:** 🟢 Concluído

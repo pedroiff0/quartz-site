@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta
 title: "Matemática Discreta"
 created: '2026-07-18'
 modified: '2026-08-06'

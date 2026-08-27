@@ -1,6 +1,5 @@
 ---
 publish: false
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture
 title: "Short Lecture — Comunicação de Dados"
 disciplina: "Comunicação de Dados"
 codigo: "CSECBJI.47"
@@ -30,7 +29,7 @@ created: 2026-08-22
 > [!abstract] 📌 Visão Geral da Disciplina
 > * **Código:** `CSECBJI.47` | **Carga Horária:** 60 h/a | **Período:** 6º Período
 > * **Pré-requisito:** Nenhum
-> * **Tranca:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/07 - Periodo/55 - Redes de Computadores I/Ementa - Redes de Computadores I|Redes de Computadores I (CSECBJI.55)]], [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/Eletivas/83 - Processamento de Sinais/Ementa - Processamento de Sinais|Processamento de Sinais (CSECBJI.83)]]
+> * **Tranca:** [[pt-br/resource/Engenharia de Computação/07 - Periodo/55 - Redes de Computadores I/Ementa - Redes de Computadores I|Redes de Computadores I (CSECBJI.55)]], [[pt-br/resource/Engenharia de Computação/Eletivas/83 - Processamento de Sinais/Ementa - Processamento de Sinais|Processamento de Sinais (CSECBJI.83)]]
 > * **Ementa Síntese:** Transmissão de Dados e Análise de Sinais; Meios de Transmissão Guiados e Sem Fio; Teoremas de Nyquist e Shannon-Hartley; Codificação de Linha e Modulação Digital/Analógica; Camada de Enlace, Detecção/Correção de Erros (CRC) e Protocolos de Janela Deslizante; Técnicas de Multiplexação (FDM, TDM, WDM) e Espalhamento Espectral (DSSS, FHSS, CDMA).
 
 ---
@@ -209,9 +208,9 @@ Permite que múltiplos usuários transmitam simultaneamente sobre a **mesma faix
 ---
 
 ## 🔗 Referências e Conexões no Cofre
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/06 - Periodo/47 - Comunicação de Dados/Ementa - Comunicação de Dados|📄 Ementa Oficial de Comunicação de Dados]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/07 - Periodo/55 - Redes de Computadores I/Ementa - Redes de Computadores I|Redes de Computadores I (CSECBJI.55)]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
+* [[pt-br/resource/Engenharia de Computação/06 - Periodo/47 - Comunicação de Dados/Ementa - Comunicação de Dados|📄 Ementa Oficial de Comunicação de Dados]]
+* [[pt-br/resource/Engenharia de Computação/07 - Periodo/55 - Redes de Computadores I/Ementa - Redes de Computadores I|Redes de Computadores I (CSECBJI.55)]]
+* [[pt-br/resource/Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
 * Livros Base:
   * FOROUZAN, Behrouz A. *Comunicação de Dados e Redes de Computadores*. 4ª Edição. Bookman, 2008.
   * ROCHOL, Juergen. *Comunicação de Dados*. Bookman, 2011.

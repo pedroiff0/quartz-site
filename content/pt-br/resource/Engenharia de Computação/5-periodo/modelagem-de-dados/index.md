@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados
 title: "Modelagem de Dados"
 created: '2026-07-18'
 modified: '2026-08-06'

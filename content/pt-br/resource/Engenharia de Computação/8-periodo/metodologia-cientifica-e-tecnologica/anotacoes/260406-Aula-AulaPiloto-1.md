@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica/anotacoes/260406-aula-aulapiloto-1
 titulo:  260406-Aula-AulaPiloto-1
 disciplina:
 conteudo:

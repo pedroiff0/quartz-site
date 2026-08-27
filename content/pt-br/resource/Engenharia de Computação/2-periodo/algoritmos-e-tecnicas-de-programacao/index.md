@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao
 title: "Algoritmos e Técnicas de Programação"
 created: '2026-07-18'
 modified: '2026-08-06'

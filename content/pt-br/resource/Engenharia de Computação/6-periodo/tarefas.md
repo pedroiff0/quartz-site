@@ -15,7 +15,7 @@ TABLE
   choice(t.completed, "✅ Feito", "❌ Pendente") AS "Status", 
   choice(disciplina, disciplina, file.folder) AS "Origem",
   t.section AS "Seção"
-FROM "02 - Áreas/Acadêmico/IFF - Engenharia de Computação/6-periodo"
+FROM "pt-br/resource/Engenharia de Computação/6-periodo"
 FLATTEN file.tasks AS t
 WHERE !contains(lower(file.path), "esboço") AND !contains(lower(file.path), "esboco")
 ```

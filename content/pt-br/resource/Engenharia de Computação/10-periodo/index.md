@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/10-periodo
 title: "10º Período"
 created: 2026-07-21
 modified: 2026-08-06

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica
 title: "Energia e Eficiência Energética"
 created: '2026-07-18'
 modified: '2026-08-06'

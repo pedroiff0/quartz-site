@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/1-periodo/fundamentos-de-computacao
 title: "Fundamentos de Computação"
 created: '2026-07-18'
 modified: '2026-08-06'

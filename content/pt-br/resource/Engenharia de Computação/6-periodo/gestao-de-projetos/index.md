@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos
 title: "Gestão de Projetos"
 created: '2026-08-22'
 modified: '2026-08-22'

@@ -41,4 +41,3 @@ title: "trancas_professores_map"
 - **[59 - Redes de Computadores II (CSECBJI.59)](08%20-%20Periodo/59%20-%20Redes%20de%20Computadores%20II/Ementa%20-%20Redes%20de%20Computadores%20II.md)**
   - Pré-requisitos (transitivos): [47 - Comunicação de Dados (CSECBJI.47)](06%20-%20Periodo/47%20-%20Comunica%C3%A7%C3%A3o%20de%20Dados/Ementa%20-%20Comunica%C3%A7%C3%A3o%20de%20Dados.md), [55 - Redes de Computadores I (CSECBJI.55)](07%20-%20Periodo/55%20-%20Redes%20de%20Computadores%20I/Ementa%20-%20Redes%20de%20Computadores%20I.md)
   - Tranca (recursivamente): nenhum
-

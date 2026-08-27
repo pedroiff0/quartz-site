@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/3-periodo/fisica-experimental-ii
 title: "Física Experimental II"
 created: '2026-07-18'
 modified: '2026-08-06'

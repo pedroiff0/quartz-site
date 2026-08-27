@@ -1,6 +1,5 @@
 ---
 publish: false
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/compiladores/short-lecture
 title: "Short Lecture — Compiladores"
 disciplina: "Compiladores"
 codigo: "CSECBJI.48"
@@ -30,7 +29,7 @@ created: 2026-08-22
 
 > [!abstract] 📌 Visão Geral da Disciplina
 > * **Código:** `CSECBJI.48` | **Carga Horária:** 60 h/a | **Período:** 6º Período
-> * **Pré-requisito:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/05 - Periodo/40 - Linguagens Formais e Autômatos/Ementa - Linguagens Formais e Autômatos|Linguagens Formais e Autômatos (CSECBJI.40)]]
+> * **Pré-requisito:** [[pt-br/resource/Engenharia de Computação/05 - Periodo/40 - Linguagens Formais e Autômatos/Ementa - Linguagens Formais e Autômatos|Linguagens Formais e Autômatos (CSECBJI.40)]]
 > * **Tranca:** Nenhuma
 > * **Ementa Síntese:** Fases e Arquitetura de Compilação; Análise Léxica e Autômatos (Lex/Flex); Análise Sintática Top-Down (LL) e Bottom-Up (LR, LALR, Yacc/Bison); Tabelas de Símbolos e Escopos; Análise Semântica, Esquemas de Tradução (SDTS) e Type Checking; Geração e Otimização de Código Intermediário (3AC, SSA); Ambientes de Execução em Tempo Real (Runtime Layout, Call Stack, GC).
 
@@ -223,9 +222,9 @@ As otimizações transformam o código intermediário para torná-lo mais rápid
 ---
 
 ## 🔗 Referências e Conexões no Cofre
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/06 - Periodo/48 - Compiladores/Ementa - Compiladores|📄 Ementa Oficial de Compiladores]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/05 - Periodo/40 - Linguagens Formais e Autômatos/Ementa - Linguagens Formais e Autômatos|LFA (CSECBJI.40)]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
+* [[pt-br/resource/Engenharia de Computação/06 - Periodo/48 - Compiladores/Ementa - Compiladores|📄 Ementa Oficial de Compiladores]]
+* [[pt-br/resource/Engenharia de Computação/05 - Periodo/40 - Linguagens Formais e Autômatos/Ementa - Linguagens Formais e Autômatos|LFA (CSECBJI.40)]]
+* [[pt-br/resource/Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
 * Livros Base:
   * AHO, Alfred V.; LAM, Monica S.; SETHI, Ravi; ULLMAN, Jeffrey D. *Compiladores: Princípios, Técnicas e Ferramentas* (O Livro do Dragão). 2ª Edição. Pearson, 2008.
   * COOPER, Keith D.; TORCZON, Linda. *Construindo Compiladores*. 2ª Edição. Elsevier, 2014.

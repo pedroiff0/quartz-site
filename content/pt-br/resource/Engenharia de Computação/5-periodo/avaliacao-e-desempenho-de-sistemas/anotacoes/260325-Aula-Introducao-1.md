@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/260325-aula-introducao-1
 titulo: 260325-Aula-Introducao-1
 disciplina:
 conteudo:

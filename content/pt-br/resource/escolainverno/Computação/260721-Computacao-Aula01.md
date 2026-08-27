@@ -1,9 +1,12 @@
 ---
 publish: true
-title: Aula 01
-created: 2026-07-20T14:00:00-03:00
-modified: 2026-07-26T11:05:17.821-03:00
-published: 2026-07-26T11:05:17.821-03:00
+encrypted: true
+titulo: 260721-Computacao-Aula01
+disciplina: Computação Científica de Alto Desempenho
+conteudo: Introdução à Computação de Alto Desempenho (HPC) — paralelismo com OpenMP e MPI
+professor: Fernando Roig
+criado: terça-feira 21/07/2026 14:00
+modificado: 22/07/2026
 tags:
   - escola-de-inverno-on
   - hpc
@@ -13,20 +16,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-titulo: Computacao-Aula01
-disciplina: Computação Científica de Alto Desempenho
-conteudo: Introdução à Computação de Alto Desempenho (HPC) — paralelismo com OpenMP e MPI
-professor: Fernando Roig e Lilianne Nakazono
 ---
-
-# 💻 Notas de Aula — Computação de Alto Desempenho (Aula 01)
-
-> [!note] Resumo
-> Fundamentos de Computação de Alto Desempenho (HPC) aplicados à astronomia — por que grandes levantamentos precisam de paralelismo, e os conceitos básicos que sustentam clusters como o Santos Dumont.
+# Notas de Aula — Computação de Alto Desempenho (Aula 01)
 
 > [!info] Informações da aula
-> **Tema:** Computação de Alto Desempenho (HPC)
-> **Professores:** Prof. Dr. Fernando Roig e Prof.ª Dr.ª Lilianne Nakazono
+> **Título:** Computação de Alto Desempenho (HPC)
+> **Professor:** Prof. Dr. Fernando Roig
 
 ---
 
@@ -37,7 +32,6 @@ Muitos problemas de astrofísica (simulações de N corpos, hidrodinâmica, apre
 ![Supercomputador Pleiades (NASA): um cluster HPC é formado por milhares de nós de computação (CPU/GPU) conectados por uma rede de alta velocidade.](https://commons.wikimedia.org/wiki/Special:FilePath/Pleiades_supercomputer.jpg)
 
 ### 📑 Tópicos abordados
-
 1. O que é HPC e por que usar programação paralela
 2. Processos, threads e os dois modelos de memória
 3. OpenMP (memória compartilhada)
@@ -52,7 +46,6 @@ Muitos problemas de astrofísica (simulações de N corpos, hidrodinâmica, apre
 - Cada nó do cluster pode conter **CPUs** (processadores generalistas, poucos núcleos rápidos) e/ou **GPUs** (milhares de núcleos simples, ótimas para operações repetitivas em paralelo, como álgebra linear).
 
 ### Por que programação paralela?
-
 Processadores individuais praticamente pararam de ficar mais rápidos (limites físicos de frequência/dissipação de calor); o ganho de desempenho hoje vem de ter **mais núcleos trabalhando ao mesmo tempo**. Isso exige repensar como escrevemos código: em vez de uma sequência de instruções, precisamos dividir o trabalho em partes independentes que podem rodar simultaneamente.
 
 ---
@@ -65,14 +58,12 @@ Processadores individuais praticamente pararam de ficar mais rápidos (limites f
 Existem dois paradigmas principais para organizar o paralelismo:
 
 ### Memória distribuída (MPI)
-
 - Cada processo tem seu **próprio espaço de memória**, isolado dos demais.
 - Processos só compartilham dados por **troca explícita de mensagens** — cada processo precisa indicar explicitamente o que envia e o que espera receber.
 - Escala bem para **muitos nós** (até milhares), pois não depende de memória física compartilhada.
 - Ferramenta padrão: **MPI** (Message Passing Interface, ver seção 4).
 
 ### Memória compartilhada (OpenMP)
-
 - Múltiplas threads dentro do **mesmo processo** compartilham o mesmo espaço de memória — comunicação é implícita, via leitura/escrita direta nas variáveis compartilhadas.
 - Ferramenta padrão: **OpenMP** (ver seção 3).
 - Riscos específicos desse modelo:
@@ -85,8 +76,7 @@ Existem dois paradigmas principais para organizar o paralelismo:
 > **Barreiras de sincronização:** forçam todas as threads a esperarem um certo ponto antes de continuar — garantem consistência, mas **reduzem o paralelismo** (threads ficam ociosas esperando).
 
 ### Desempenho e escalabilidade
-
-- **Problema do serialismo:** toda parte do código que _não_ pode ser paralelizada limita o ganho máximo de desempenho, não importa quantos núcleos você adicione (ideia central por trás da **Lei de Amdahl**).
+- **Problema do serialismo:** toda parte do código que *não* pode ser paralelizada limita o ganho máximo de desempenho, não importa quantos núcleos você adicione (ideia central por trás da **Lei de Amdahl**).
 - **Sincronização tem custo:** locks e barreiras, embora necessários, introduzem overhead (tempo perdido esperando).
 - **Acesso à memória é o gargalo mais comum:** mesmo com muitos núcleos, se todos competem pelo mesmo barramento de memória, o ganho de velocidade é limitado.
 
@@ -104,7 +94,6 @@ for (int i = 0; i < N; i++) {
 ```
 
 ### Escopo de variáveis
-
 Definir corretamente o escopo de cada variável é essencial para evitar bugs de concorrência:
 
 | Escopo | Significado |
@@ -115,12 +104,10 @@ Definir corretamente o escopo de cada variável é essencial para evitar bugs de
 | `num_threads(n)` | Solicita explicitamente o número de threads a usar |
 
 ### Seções `critical` e `reduction`
-
 - **`critical`:** marca uma seção de código que só pode ser executada por uma thread de cada vez (exclusão mútua explícita).
 - **`reduction`:** cada thread acumula um resultado parcial em uma cópia privada, e o OpenMP combina (soma, por exemplo) todas as cópias no final — evita o custo de sincronização repetida do `critical` e é a forma preferida de somar valores em paralelo (resolve diretamente o problema da condição de corrida citado acima).
 
 ### Balanceamento de carga e escalonamento
-
 Nem sempre as iterações de um laço custam o mesmo tempo de processamento — é preciso balancear a carga entre as threads (**particionamento**). A diretiva `schedule` controla como as iterações são distribuídas:
 
 | Tipo | Comportamento |
@@ -139,7 +126,7 @@ Quando o problema é grande demais para caber (ou processar) em um único nó co
 
 ![Arquitetura de memória distribuída: cada nó tem processador e memória próprios, comunicando-se pela rede — o modelo que o MPI programa.](https://commons.wikimedia.org/wiki/Special:FilePath/Hpc-cluster-basic.png)
 
-- Modelo típico: **SPMD** (_Single Program, Multiple Data_) — todos os processos rodam o **mesmo código**, mas cada um opera sobre uma parte diferente dos dados.
+- Modelo típico: **SPMD** (*Single Program, Multiple Data*) — todos os processos rodam o **mesmo código**, mas cada um opera sobre uma parte diferente dos dados.
 - Cada processo tem um identificador único, o **rank** (de 0 a $P-1$, onde $P$ é o número total de processos), que o código usa para saber qual parte do trabalho lhe cabe.
 - Risco importante: **deadlock** — quando dois ou mais processos ficam esperando indefinidamente uns pelos outros (ex.: cada um esperando receber uma mensagem que o outro nunca chega a enviar, por erro de lógica no código).
 
@@ -168,11 +155,6 @@ Quando o problema é grande demais para caber (ou processar) em um único nó co
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 1)
-> _(nenhuma pergunta registrada nesta aula)_
+> *(nenhuma pergunta registrada nesta aula)*
 
 ---
-
-## 🔗 Referências e correlatos
-
-- [Aula 02](/pt-br/resource/escolainverno/computação/computacao-aula02) — desempenho de MPI e introdução a dados/ML em astronomia
-- [Aula 03](/pt-br/resource/escolainverno/computação/computacao-aula03)

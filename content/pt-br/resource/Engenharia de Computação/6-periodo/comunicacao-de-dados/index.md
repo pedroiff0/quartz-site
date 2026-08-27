@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados
 title: "Comunicação de Dados"
 created: '2026-07-18'
 modified: '2026-08-06'
@@ -94,6 +93,5 @@ tags:
 ## 📝 Anotações e Arquivos Didáticos
 - 📖 **[Short Lecture — Comunicação de Dados (Compêndio Completo)](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/short-lecture)**
 - 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados/anotacoes)**
-- 📖 **[[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf|Acessar Livro da Disciplina]]**
+- 📖 **[[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf|Acessar Livro da Disciplina]]**
 - 📁 [[]]
-

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos
 title: "Projeto de Software Orientado a Objetos"
 created: '2026-07-18'
 modified: '2026-08-06'

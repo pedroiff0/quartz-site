@@ -1,6 +1,5 @@
 ---
 publish: false
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/short-lecture
 title: "Short Lecture — Banco de Dados"
 disciplina: "Banco de Dados"
 codigo: "CSECBJI.44"
@@ -31,7 +30,7 @@ created: 2026-08-22
 
 > [!abstract] 📌 Visão Geral da Disciplina
 > * **Código:** `CSECBJI.44` | **Carga Horária:** 60 h/a | **Período:** 6º Período
-> * **Pré-requisito:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/05 - Periodo/35 - Modelagem de Dados/Ementa - Modelagem de Dados|Modelagem de Dados (CSECBJI.35)]]
+> * **Pré-requisito:** [[pt-br/resource/Engenharia de Computação/05 - Periodo/35 - Modelagem de Dados/Ementa - Modelagem de Dados|Modelagem de Dados (CSECBJI.35)]]
 > * **Tranca:** Nenhuma
 > * **Ementa Síntese:** Processamento e Otimização de Consultas; Transações e Propriedades ACID; Controle de Concorrência e Serializabilidade; Recuperação de Falhas (Crash Recovery e WAL); Programação em Banco de Dados (PL/SQL, Stored Procedures, Functions e Triggers); Segurança, Visões e Noções de Bancos de Dados Distribuídos.
 
@@ -320,9 +319,9 @@ END trg_auditoria_salario;
 ---
 
 ## 🔗 Referências e Conexões no Cofre
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/06 - Periodo/44 - Banco de Dados/Ementa - Banco de Dados|📄 Ementa Oficial de BD]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/05 - Periodo/35 - Modelagem de Dados/Ementa - Modelagem de Dados|Modelagem de Dados (CSECBJI.35)]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
+* [[pt-br/resource/Engenharia de Computação/06 - Periodo/44 - Banco de Dados/Ementa - Banco de Dados|📄 Ementa Oficial de BD]]
+* [[pt-br/resource/Engenharia de Computação/05 - Periodo/35 - Modelagem de Dados/Ementa - Modelagem de Dados|Modelagem de Dados (CSECBJI.35)]]
+* [[pt-br/resource/Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
 * Livros Base:
   * SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. *Sistema de Banco de Dados*. 6ª Edição. Elsevier, 2012.
   * DATE, C. J. *Introdução a Sistemas de Banco de Dados*. 8ª Edição. Campus, 2004.

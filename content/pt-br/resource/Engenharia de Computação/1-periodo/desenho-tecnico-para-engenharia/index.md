@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/1-periodo/desenho-tecnico-para-engenharia
 title: "Desenho Técnico para Engenharia"
 created: '2026-07-18'
 modified: '2026-08-06'

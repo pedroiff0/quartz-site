@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/8-periodo/seguranca-e-higiene-do-trabalho
 title: "Segurança e Higiene do Trabalho"
 created: '2026-07-18'
 modified: '2026-08-06'

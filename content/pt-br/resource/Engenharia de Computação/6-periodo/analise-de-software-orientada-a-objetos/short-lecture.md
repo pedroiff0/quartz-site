@@ -1,6 +1,5 @@
 ---
 publish: false
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/short-lecture
 title: "Short Lecture — Análise de Software Orientada a Objetos"
 disciplina: "Análise de Software Orientada a Objetos"
 codigo: "CSECBJI.42"
@@ -29,8 +28,8 @@ created: 2026-08-22
 
 > [!abstract] 📌 Visão Geral da Disciplina
 > * **Código:** `CSECBJI.42` | **Carga Horária:** 60 h/a | **Período:** 6º Período
-> * **Pré-requisito:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/05 - Periodo/36 - Engenharia de Software/Ementa - Engenharia de Software|Engenharia de Software (CSECBJI.36)]]
-> * **Tranca:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/07 - Periodo/50 - Projeto de Software Orientado a Objetos/Ementa - Projeto de Software Orientado a Objetos|Projeto de Software Orientado a Objetos (CSECBJI.50)]]
+> * **Pré-requisito:** [[pt-br/resource/Engenharia de Computação/05 - Periodo/36 - Engenharia de Software/Ementa - Engenharia de Software|Engenharia de Software (CSECBJI.36)]]
+> * **Tranca:** [[pt-br/resource/Engenharia de Computação/07 - Periodo/50 - Projeto de Software Orientado a Objetos/Ementa - Projeto de Software Orientado a Objetos|Projeto de Software Orientado a Objetos (CSECBJI.50)]]
 > * **Ementa Síntese:** Introdução ao Desenvolvimento OO; UML; Modelagem de Negócio; Análise de Requisitos; Modelagem de Casos de Uso; Modelagem Conceitual; Modelagem Funcional com Contratos; Padrões GRASP; Design da Camada de Domínio e Diagramas de Classes de Projeto.
 
 ---
@@ -309,8 +308,8 @@ classDiagram
 ---
 
 ## 🔗 Referências e Conexões no Cofre
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/06 - Periodo/42 - Análise de Software Orientada à Objetos/Ementa - Análise de Software Orientado a Objetos|📄 Ementa Oficial de ASOO]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
+* [[pt-br/resource/Engenharia de Computação/06 - Periodo/42 - Análise de Software Orientada à Objetos/Ementa - Análise de Software Orientado a Objetos|📄 Ementa Oficial de ASOO]]
+* [[pt-br/resource/Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
 * Livros Base:
   * LARMAN, Craig. *Utilizando UML e Padrões*. 3ª Edição. Bookman, 2006.
   * BEZERRA, Eduardo. *Princípios de Análise e Projetos de Sistemas com UML*. 3ª Edição. Elsevier, 2014.

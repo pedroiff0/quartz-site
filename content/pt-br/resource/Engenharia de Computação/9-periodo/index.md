@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/9-periodo
 title: "9º Período"
 created: 2026-07-21
 modified: 2026-08-06

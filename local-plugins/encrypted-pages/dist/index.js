@@ -36,7 +36,7 @@ function resolvePassword(frontmatter, passwordField, filePath) {
     if (p.includes("latex") || p.includes("escrita") || p.includes("relatex") || p.includes("modeloslatex")) {
       return process.env.PASSWORD_LATEX || "escritaiff2026";
     }
-    if (p.includes("curso-on") || p.includes("cursoon") || p.includes("astronomia") || p.includes("arqueologia")) {
+    if (p.includes("curso-on") || p.includes("cursoon") || p.includes("astronomia") || p.includes("arqueologia") || p.includes("escolainverno") || p.includes("escola-de-inverno") || p.includes("escola")) {
       return process.env.PASSWORD_CURSO_ON || "409182ph";
     }
     if (p.includes("engenharia") || p.includes("engcomp") || p.includes("periodo") || p.includes("disciplina")) {

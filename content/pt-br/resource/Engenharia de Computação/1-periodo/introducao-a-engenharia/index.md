@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/1-periodo/introducao-a-engenharia
 title: "Introdução à Engenharia"
 created: '2026-07-18'
 modified: '2026-08-06'

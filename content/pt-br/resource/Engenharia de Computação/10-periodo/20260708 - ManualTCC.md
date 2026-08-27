@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/10-periodo/20260708-manualtcc
 titulo:  20260708 - ManualTCC
 criado: 2026-07-08
 modificado: 2026-07-08 17:00

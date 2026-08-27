@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados/anotacoes/260327-aula-introducao-1
 titulo: 260327-Aula-Introducao-1
 disciplina:
 conteudo:

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/aula-00
 title: "Aula 00"
 created: '2026-08-26'
 modified: '2026-08-26'

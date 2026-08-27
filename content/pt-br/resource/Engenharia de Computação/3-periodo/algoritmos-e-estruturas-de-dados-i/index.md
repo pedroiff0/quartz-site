@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i
 title: "Algoritmos e Estruturas de Dados I"
 created: '2026-07-18'
 modified: '2026-08-06'

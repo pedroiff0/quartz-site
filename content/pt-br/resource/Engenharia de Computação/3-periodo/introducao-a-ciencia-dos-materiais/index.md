@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/3-periodo/introducao-a-ciencia-dos-materiais
 title: "Introdução à Ciência dos Materiais"
 created: '2026-07-18'
 modified: '2026-08-06'

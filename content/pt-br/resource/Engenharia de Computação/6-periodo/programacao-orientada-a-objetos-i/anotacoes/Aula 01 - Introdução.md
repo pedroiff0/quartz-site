@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introdução
 title: "Aula 01 - Introdução"
 created: '2026-08-26'
 modified: '2026-08-26'

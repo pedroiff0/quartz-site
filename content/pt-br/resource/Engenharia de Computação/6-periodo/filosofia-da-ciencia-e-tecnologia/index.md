@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia
 title: "Filosofia da Ciência e Tecnologia"
 created: '2026-07-18'
 modified: '2026-08-06'

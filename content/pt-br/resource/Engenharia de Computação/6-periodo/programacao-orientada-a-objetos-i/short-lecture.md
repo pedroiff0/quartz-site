@@ -1,6 +1,5 @@
 ---
 publish: false
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i/short-lecture
 title: "Short Lecture — Programação Orientada a Objetos I"
 disciplina: "Programação Orientada a Objetos I"
 codigo: "CSECBJI.45"
@@ -30,8 +29,8 @@ created: 2026-08-22
 
 > [!abstract] 📌 Visão Geral da Disciplina
 > * **Código:** `CSECBJI.45` | **Carga Horária:** 60 h/a | **Período:** 6º Período
-> * **Pré-requisitos:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/02 - Periodo/13 - Algoritmos e Técnicas de Programação/Ementa - Algoritmos e Técnicas de Programação|Algoritmos e Técnicas de Programação (CSECBJI.13)]], [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/05 - Periodo/38 - Paradigmas de Linguagem de Programação/Ementa - Paradigmas de Linguagem de Programação|Paradigmas de Linguagem de Programação (CSECBJI.38)]]
-> * **Tranca:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/07 - Periodo/51 - Programação Orientada a Objetos II/Ementa - Programação Orientada a Objetos II|Programação Orientada a Objetos II (CSECBJI.51)]]
+> * **Pré-requisitos:** [[pt-br/resource/Engenharia de Computação/02 - Periodo/13 - Algoritmos e Técnicas de Programação/Ementa - Algoritmos e Técnicas de Programação|Algoritmos e Técnicas de Programação (CSECBJI.13)]], [[pt-br/resource/Engenharia de Computação/05 - Periodo/38 - Paradigmas de Linguagem de Programação/Ementa - Paradigmas de Linguagem de Programação|Paradigmas de Linguagem de Programação (CSECBJI.38)]]
+> * **Tranca:** [[pt-br/resource/Engenharia de Computação/07 - Periodo/51 - Programação Orientada a Objetos II/Ementa - Programação Orientada a Objetos II|Programação Orientada a Objetos II (CSECBJI.51)]]
 > * **Ementa Síntese:** Desenvolvimento de software em Java; Classes, objetos, estado e encapsulamento; Herança, polimorfismo e interfaces; Tratamento robusto de exceções; Java Collections Framework e estruturas encadeadas; Entrada/Saída (I/O) e serialização de objetos.
 
 ---
@@ -315,9 +314,9 @@ public class RelatorioFinanceiro implements Serializable {
 ---
 
 ## 🔗 Referências e Conexões no Cofre
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/06 - Periodo/45 - Programação Orientada a Objetos I/Ementa - Programação Orientada a Objetos I|📄 Ementa Oficial de POO I]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/02 - Periodo/13 - Algoritmos e Técnicas de Programação/Ementa - Algoritmos e Técnicas de Programação|Algoritmos e Técnicas de Programação (CSECBJI.13)]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
+* [[pt-br/resource/Engenharia de Computação/06 - Periodo/45 - Programação Orientada a Objetos I/Ementa - Programação Orientada a Objetos I|📄 Ementa Oficial de POO I]]
+* [[pt-br/resource/Engenharia de Computação/02 - Periodo/13 - Algoritmos e Técnicas de Programação/Ementa - Algoritmos e Técnicas de Programação|Algoritmos e Técnicas de Programação (CSECBJI.13)]]
+* [[pt-br/resource/Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
 * Livros Base:
   * BLOCH, Joshua. *Java Efetivo: As Melhores Práticas para a Plataforma Java*. 3ª Edição. Alta Books, 2019.
   * DEITEL, P. J.; DEITEL, H. M. *Java: Como Programar*. 10ª Edição. Pearson, 2016.

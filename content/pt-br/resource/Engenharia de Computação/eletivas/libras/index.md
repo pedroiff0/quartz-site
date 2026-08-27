@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/eletivas/libras
 title: "Libras"
 created: '2026-07-18'
 modified: '2026-08-06'

@@ -1,9 +1,12 @@
 ---
 publish: true
-title: Aula 01
-created: 2026-07-21T09:16:00-03:00
-modified: 2026-07-26T11:04:57.004-03:00
-published: 2026-07-26T11:04:57.004-03:00
+encrypted: true
+titulo: 260721-Cosmologia-Aula01
+disciplina: Cosmologia
+conteudo: O modelo cosmológico padrão (ΛCDM) e suas sondas observacionais
+professor: Carlos Bengaly
+criado: terça-feira 21/07/2026 09:16
+modificado: 22/07/2026
 tags:
   - escola-de-inverno-on
   - cosmologia
@@ -13,20 +16,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-titulo: Cosmologia-Aula01
-disciplina: Cosmologia
-conteudo: O modelo cosmológico padrão (ΛCDM) e suas sondas observacionais
-professor: Carlos Bengaly
 ---
-
-# 🌠 Notas de Aula — Cosmologia (Aula 01)
-
-> [!note] Resumo
-> O modelo cosmológico padrão (ΛCDM) e as sondas observacionais que o sustentam — abrindo com Supernovas Ia como velas padrão, primeira de um cronograma de três sondas.
+# Notas de Aula — Cosmologia (Aula 01)
 
 > [!info] Informações da aula
-> **Tema:** O modelo cosmológico padrão e suas sondas observacionais
+> **Título:** O modelo cosmológico padrão e suas sondas observacionais
 > **Professor:** Prof. Dr. Carlos Bengaly
+> **Cronograma:** Aula 01 (terça) · Aula 02 (quinta) · Aula 03 (sexta)
 
 ---
 
@@ -35,7 +31,6 @@ professor: Carlos Bengaly
 A **cosmologia** estuda a origem, evolução, composição e estrutura do Universo como um todo, em escalas onde ele pode ser tratado como **homogêneo e isotrópico** (acima de ~100 Mpc — ver nota de Aglomerados). Essa aula percorre a evolução histórica do modelo cosmológico padrão e introduz as três principais **sondas observacionais** que usamos para testá-lo: supernovas tipo Ia, a Radiação Cósmica de Fundo (RCF) e a Estrutura em Grande Escala (EGE) do Universo.
 
 ### 📑 Tópicos abordados
-
 1. O que é cosmologia
 2. Sondas observacionais: Supernovas Ia, RCF, EGE
 3. História do modelo cosmológico
@@ -96,13 +91,11 @@ O modelo cosmológico padrão é conhecido como **$\Lambda$CDM**:
 - **CDM (Cold Dark Matter):** matéria escura "fria", ou seja, composta por partículas que já se moviam **lentamente** (não relativisticamente) quando as estruturas começaram a se formar — condição necessária para explicar como galáxias e aglomerados colapsaram gravitacionalmente como observamos.
 
 ### Propriedades da matéria escura (CDM)
-
 - Interage **gravitacionalmente**, mas não tem interação eletromagnética — por isso não emite, absorve nem reflete luz.
 - Não é vista diretamente: sua presença só é inferida indiretamente, principalmente via **lentes gravitacionais** (ver nota de Aglomerados) e efeitos dinâmicos (curvas de rotação de galáxias, teorema do virial).
 
 ### Candidatos a matéria escura
-
-- **WIMPs** (_Weakly Interacting Massive Particles_): partículas massivas hipotéticas que interagem apenas via força fraca e gravidade — um dos candidatos historicamente mais estudados.
+- **WIMPs** (*Weakly Interacting Massive Particles*): partículas massivas hipotéticas que interagem apenas via força fraca e gravidade — um dos candidatos historicamente mais estudados.
 - **Áxions:** partículas hipotéticas extremamente leves, originalmente propostas para resolver um problema separado da física de partículas (o "problema CP forte" da QCD), mas que também são candidatos viáveis a matéria escura.
 - **Neutrinos:** contribuem como **matéria escura quente/relativística (Hot Dark Matter)** — mas, por se moverem muito rápido, não conseguem sozinhos explicar a formação de estruturas pequenas, sendo apenas uma fração pequena da matéria escura total (ver nota de Neutrinos).
 - **MOND e MACHOs:** alternativas historicamente cogitadas — **MOND** (modificação das leis da gravidade em vez de matéria extra) e **MACHOs** (objetos astrofísicos compactos comuns, como buracos negros ou anãs marrons) — mas **hoje amplamente descartadas** como explicação principal, por não serem consistentes com o conjunto completo de evidências observacionais (RCF, nucleossíntese primordial, Bullet Cluster).
@@ -122,14 +115,6 @@ O modelo cosmológico padrão é conhecido como **$\Lambda$CDM**:
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 1)
-> _(nenhuma pergunta registrada nesta aula)_
+> *(nenhuma pergunta registrada nesta aula)*
 
 ---
-
-## 🔗 Referências e correlatos
-
-- [Aula 02](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — Radiação Cósmica de Fundo
-- [Aula 03](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula03) — Estrutura em Grande Escala
-- [Aglomerados — Aula 01](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — a mesma matéria escura, em escala de aglomerado
-- [Arqueologia Galáctica — Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — supernovas Ia e o processo-r citados aqui como sondas/nucleossíntese
-- [Neutrinos](/pt-br/resource/escolainverno/palestras/neutrinos) — neutrinos cósmicos e seu papel no $\Lambda$CDM

@@ -1,6 +1,5 @@
 ---
 publish: false
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos/short-lecture
 title: "Short Lecture — Gestão de Projetos"
 disciplina: "Gestão de Projetos"
 codigo: "CSECBJI.49"
@@ -31,7 +30,7 @@ created: 2026-08-22
 
 > [!abstract] 📌 Visão Geral da Disciplina
 > * **Código:** `CSECBJI.49` | **Carga Horária:** 80 h/a | **Período:** 6º Período
-> * **Pré-requisito:** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/01 - Periodo/06 - Teoria Geral da Administração/Ementa - Teoria Geral da Administração|Teoria Geral da Administração (CSECBJI.06)]]
+> * **Pré-requisito:** [[pt-br/resource/Engenharia de Computação/01 - Periodo/06 - Teoria Geral da Administração/Ementa - Teoria Geral da Administração|Teoria Geral da Administração (CSECBJI.06)]]
 > * **Tranca:** Nenhuma
 > * **Ementa Síntese:** Definição e Ciclo de Vida de Projetos; Metodologia de Estudos de Viabilidade Técnico-Econômica (EVTE); Estrutura Analítica do Projeto (EAP/WBS); Planejamento de Tempo e Método do Caminho Crítico (CPM/PERT); Análise de Mercado, Escala e Localização; Orçamento, Custos e Ponto de Equilíbrio; Engenharia Econômica e Avaliação de Investimentos (VPL, TIR, Payback); Gestão de Riscos.
 
@@ -203,9 +202,9 @@ B  Baixa      [ Baixo  Baixo  Baixo  Médio Médio     ]
 ---
 
 ## 🔗 Referências e Conexões no Cofre
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/06 - Periodo/49 - Gestão de Projetos/Ementa - Gestão de Projetos|📄 Ementa Oficial de Gestão de Projetos]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/01 - Periodo/06 - Teoria Geral da Administração/Ementa - Teoria Geral da Administração|TGA (CSECBJI.06)]]
-* [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
+* [[pt-br/resource/Engenharia de Computação/06 - Periodo/49 - Gestão de Projetos/Ementa - Gestão de Projetos|📄 Ementa Oficial de Gestão de Projetos]]
+* [[pt-br/resource/Engenharia de Computação/01 - Periodo/06 - Teoria Geral da Administração/Ementa - Teoria Geral da Administração|TGA (CSECBJI.06)]]
+* [[pt-br/resource/Engenharia de Computação/00 - Documentos/PPC_EngComp_Completo_Ementario|📜 PPC & Ementário Geral]]
 * Livros Base:
   * KERZNER, Harold. *Gestão de Projetos: Melhores Práticas*. 3ª Edição. Bookman, 2016.
   * MAXIMIANO, Antonio Cesar Amaru. *Administração de Projetos: Como Transformar Ideias em Resultados*. 4ª Edição. Atlas, 2014.

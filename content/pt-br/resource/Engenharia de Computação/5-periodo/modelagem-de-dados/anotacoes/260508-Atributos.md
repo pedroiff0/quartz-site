@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados/anotacoes/260508-atributos
 titulo:  260508-Atributos
 disciplina:
 conteudo:
@@ -77,7 +76,6 @@ Um vigilante é substituído por nenhum ou por um vigilante
 
 > [!PDF|important] [[Modelagem_Conceitual___Parte_I (1).pdf#page=86&selection=17,0,35,27&color=important|Modelagem_Conceitual___Parte_I (1), p.82]]
 > > As três alternativas de classificação são: • 1:1 (leia-se um para um) • 1:N (leia-se um para muitos) • M: N (lei-se muitos para muitos)
-
 
 
 

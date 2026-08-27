@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos
 title: "Análise de Software Orientada a Objetos"
 created: '2026-07-18'
 modified: '2026-08-06'

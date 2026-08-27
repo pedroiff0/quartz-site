@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo/gestao-ambiental/anotacoes/260409-aula-pegadaambiental-1
 titulo:  260409-Aula-PegadaAmbiental-1
 disciplina:
 conteudo:
@@ -34,4 +33,3 @@ No outro vídeo, também é ilustrado a evolução humana desde o início dos te
 Outro exemplo que podemos ver no cotidiano são as obras e o desmatamento de áreas verdes para construção de empresas, lojas, praças e entre outros, sem o devido reflorestamento, impactando diretamente na qualidade de vida da humanidade. 
 
 ***
-

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/1-periodo/expressao-oral-e-escrita
 title: "Expressão Oral e Escrita"
 created: '2026-07-18'
 modified: '2026-08-06'

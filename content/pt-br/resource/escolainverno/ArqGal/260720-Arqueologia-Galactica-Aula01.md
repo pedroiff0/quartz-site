@@ -1,9 +1,12 @@
 ---
 publish: true
-title: Aula 01
-created: 2026-07-20T09:19:00-03:00
-modified: 2026-07-26T11:02:57.862-03:00
-published: 2026-07-26T11:02:57.862-03:00
+encrypted: true
+titulo: 260720-Arqueologia-Galactica-Aula01
+disciplina: Astrofísica Estelar / Via Láctea
+conteudo: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas
+professor:
+criado: segunda-feira 20/07/2026 09:19
+modificado: 22/07/2026
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica
@@ -13,20 +16,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-titulo: ArqueologiaGalactica-Aula01
-disciplina: Astrofísica Estelar / Via Láctea
-conteudo: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas
-professor: João Victor Sales Silva
 ---
-
-# 🏛️ Notas de Aula — Arqueologia Galáctica
-
-> [!note] Resumo
-> Como usar a composição química e a cinemática das estrelas como "fósseis" para reconstruir a história de formação da Via Láctea, da classificação espectral à nucleossíntese e às populações estelares.
+# Notas de Aula — Arqueologia Galáctica
 
 > [!info] Informações da aula
 > **Tema:** Arqueologia Galáctica — usar a composição química e a cinemática das estrelas como "fósseis" para reconstruir a história de formação da Via Láctea.
-> **Professor:** João Victor Sales Silva
+> **Referência:** Solar dynamics
 
 ---
 
@@ -35,7 +30,6 @@ professor: João Victor Sales Silva
 Assim como um arqueólogo lê a história humana em camadas de sedimento, a **arqueologia galáctica** lê a história da nossa Galáxia na composição química das estrelas: cada geração estelar enriquece o gás interestelar com novos elementos, então estrelas mais velhas "carregam" a assinatura química de um Universo mais jovem e mais pobre em metais. A aula percorre: (1) como classificamos estrelas por seu espectro, (2) como diferentes tipos de estrelas (e supernovas) produzem diferentes elementos, e (3) como usamos essas assinaturas químicas para separar populações estelares e reconstruir a formação da Galáxia.
 
 ### 📑 Tópicos abordados
-
 1. Classificação espectral de estrelas
 2. Evolução estelar e nucleossíntese
 3. Populações estelares e arqueologia química
@@ -45,7 +39,7 @@ Assim como um arqueólogo lê a história humana em camadas de sedimento, a **ar
 
 ## 1. Classificação espectral de estrelas
 
-Estrelas são classificadas pelo seu **tipo espectral**, na sequência mnemônica **O B A F G K M** (do bar clássico: "_Oh, Be A Fine Girl/Guy, Kiss Me_"), que corresponde, na prática, a uma sequência decrescente de **temperatura superficial** — de estrelas azuis muito quentes (O) a estrelas vermelhas frias (M).
+Estrelas são classificadas pelo seu **tipo espectral**, na sequência mnemônica **O B A F G K M** (do bar clássico: "*Oh, Be A Fine Girl/Guy, Kiss Me*"), que corresponde, na prática, a uma sequência decrescente de **temperatura superficial** — de estrelas azuis muito quentes (O) a estrelas vermelhas frias (M).
 
 ![Classificação espectral estelar OBAFGKM, da mais quente (O, azul) à mais fria (M, vermelha), com as linhas de absorção características de cada tipo.](https://commons.wikimedia.org/wiki/Special:FilePath/Stellar_Classification_Chart.png)
 
@@ -62,7 +56,7 @@ Quando a luz de uma estrela é decomposta em um espectro (como um "arco-íris" c
 | **M** | Mais fria | Óxido de titânio (TiO), CH (moléculas — só sobrevivem em atmosferas frias) |
 
 > [!tip] Por que a temperatura determina as linhas?
-> Em estrelas muito quentes (tipo O), a energia térmica é suficiente para arrancar elétrons até de átomos "difíceis" como o Hélio (por isso vemos Hélio _ionizado_). Em estrelas frias (tipo M), a temperatura é baixa o bastante para que até moléculas simples (como TiO) sobrevivam sem se dissociar — algo impossível em estrelas quentes.
+> Em estrelas muito quentes (tipo O), a energia térmica é suficiente para arrancar elétrons até de átomos "difíceis" como o Hélio (por isso vemos Hélio *ionizado*). Em estrelas frias (tipo M), a temperatura é baixa o bastante para que até moléculas simples (como TiO) sobrevivam sem se dissociar — algo impossível em estrelas quentes.
 
 ---
 
@@ -73,7 +67,8 @@ Estrelas nascem em berçários estelares — regiões densas e frias de nuvens m
 ![Nebulosa de Carina: um dos maiores berçários estelares conhecidos, onde nuvens densas e frias colapsam gravitacionalmente para formar novas estrelas (NASA/ESA/Hubble).](https://commons.wikimedia.org/wiki/Special:FilePath/Carina_Nebula.jpg)
 
 > [!info]- 📷 Imagem pendente
-> Diagrama "Chandra Stellar Fate" (tipos de morte estelar conforme a massa inicial) — referência: repositório **Kepler** da UFRGS. _(imagem ainda não anexada)_
+> Diagrama "Chandra Stellar Fate" (tipos de morte estelar conforme a massa inicial) — referência: repositório **Kepler** da UFRGS.
+> ![[Pasted image 20260720094718.png]]
 
 ### O que cada tipo de evento produz
 
@@ -95,13 +90,12 @@ O **Diagrama de Hertzsprung-Russell (HR)**, ou seu análogo observacional o **di
 ### Origem dos elementos do Sistema Solar
 
 ![Tabela periódica "de origem cósmica": cada elemento colorido conforme o processo astrofísico responsável por sua produção (crédito: Jennifer Johnson/Ohio State University).](https://commons.wikimedia.org/wiki/Special:FilePath/Nucleosynthesis_periodic_table.svg)
-
 > [Reportagem relacionada](https://super.abril.com.br/ciencia/esta-tabela-periodica-revela-de-onde-veio-cada-atomo-do-seu-corpo/)
 
 Elementos mais pesados que o ferro são produzidos majoritariamente por dois processos de **captura de nêutrons**:
 
-- **Processo-s** (_slow_, lento): ocorre em estrelas AGB, onde um fluxo relativamente baixo (mas contínuo) de nêutrons livres é capturado por núcleos, um de cada vez, com tempo suficiente entre capturas para o núcleo decair ($n \rightarrow p$, decaimento beta) antes da próxima captura. \[Referência: Uppsala University]
-- **Processo-r** (_rapid_, rápido): ocorre em eventos extremamente energéticos, como a **fusão de duas estrelas de nêutrons** (detectada via ondas gravitacionais, liberando enorme energia). O fluxo de nêutrons é tão intenso que múltiplas capturas ocorrem antes de qualquer decaimento — produzindo elementos como **Európio e Ouro**. \[Ref.: Watson et al. 2019]
+- **Processo-s** (*slow*, lento): ocorre em estrelas AGB, onde um fluxo relativamente baixo (mas contínuo) de nêutrons livres é capturado por núcleos, um de cada vez, com tempo suficiente entre capturas para o núcleo decair ($n \rightarrow p$, decaimento beta) antes da próxima captura. [Referência: Uppsala University]
+- **Processo-r** (*rapid*, rápido): ocorre em eventos extremamente energéticos, como a **fusão de duas estrelas de nêutrons** (detectada via ondas gravitacionais, liberando enorme energia). O fluxo de nêutrons é tão intenso que múltiplas capturas ocorrem antes de qualquer decaimento — produzindo elementos como **Európio e Ouro**. [Ref.: Watson et al. 2019]
 
 ---
 
@@ -119,11 +113,11 @@ As estrelas da Galáxia são classificadas em **populações**, definidas princi
 
 A metalicidade é expressa em notação logarítmica relativa ao Sol:
 
-$[\text{Fe/H}] = \log_{10}\left(\frac{N_{Fe}/N_{H}}{(N_{Fe}/N_H)_\odot}\right)$
+$$[\text{Fe/H}] = \log_{10}\left(\frac{N_{Fe}/N_{H}}{(N_{Fe}/N_H)_\odot}\right)$$
 
-Já a razão **\[O/Fe]** (ou, de forma mais geral, elementos-$\alpha$/Fe) é especialmente útil para **separar populações estelares**, porque elementos-$\alpha$ (O, Mg, Si, Ca...) são produzidos principalmente em supernovas de colapso de núcleo (rápidas), enquanto o Fe também vem, com atraso temporal, das supernovas Ia — então a razão \[$\alpha$/Fe] funciona como um "relógio químico" da história de formação estelar de uma região.
+Já a razão **[O/Fe]** (ou, de forma mais geral, elementos-$\alpha$/Fe) é especialmente útil para **separar populações estelares**, porque elementos-$\alpha$ (O, Mg, Si, Ca...) são produzidos principalmente em supernovas de colapso de núcleo (rápidas), enquanto o Fe também vem, com atraso temporal, das supernovas Ia — então a razão [$\alpha$/Fe] funciona como um "relógio químico" da história de formação estelar de uma região.
 
-Estudos da vizinhança solar (razão $\alpha$/Fe vs. \[Fe/H]) — ex.: **Adibekyan et al. 2012**, **Haywood et al. 2013**, **Kobayashi et al. 2020** — usam exatamente essa relação para separar disco fino/disco espesso/halo da Via Láctea, e para calibrar modelos de nucleossíntese de elementos pesados (razão **\[Eu/Fe] vs. \[Fe/H]**, que rastreia a contribuição relativa dos processos s e r).
+Estudos da vizinhança solar (razão [$\alpha$/Fe] vs. [Fe/H]) — ex.: **Adibekyan et al. 2012**, **Haywood et al. 2013**, **Kobayashi et al. 2020** — usam exatamente essa relação para separar disco fino/disco espesso/halo da Via Láctea, e para calibrar modelos de nucleossíntese de elementos pesados (razão **[Eu/Fe] vs. [Fe/H]**, que rastreia a contribuição relativa dos processos s e r).
 
 ---
 
@@ -146,7 +140,7 @@ Estudos da vizinhança solar (razão $\alpha$/Fe vs. \[Fe/H]) — ex.: **Adibeky
 - **Classificação espectral (OBAFGKM):** sequência de temperatura estelar, identificada por linhas de absorção características.
 - **Nucleossíntese:** produção de elementos químicos em processos estelares (fusão no núcleo, supernovas, colisões de estrelas de nêutrons).
 - **Processo-s / processo-r:** duas vias de captura de nêutrons para formar elementos pesados — lenta (AGB) e rápida (fusão de estrelas de nêutrons).
-- **\[Fe/H], \[$\alpha$/Fe]:** notações de metalicidade usadas para datar/classificar populações estelares.
+- **[Fe/H], [$\alpha$/Fe]:** notações de metalicidade usadas para datar/classificar populações estelares.
 - **Populações I, II, III:** classificação de estrelas por idade/metalicidade, refletindo diferentes épocas de formação da Galáxia.
 
 ---
@@ -154,27 +148,18 @@ Estudos da vizinhança solar (razão $\alpha$/Fe vs. \[Fe/H]) — ex.: **Adibeky
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 1)
->
-> 1. **Como o \[O/Fe] ajuda a separar o disco fino do disco espesso da Galáxia?** _(em aberto — ver seção 3)_
-> 2. **Qual o comportamento/propriedades esperadas de \[Eu/Fe]?** _(em aberto)_
+> 1. **Como o [O/Fe] ajuda a separar o disco fino do disco espesso da Galáxia?** *(em aberto — ver seção 3)*
+> 2. **Qual o comportamento/propriedades esperadas de [Eu/Fe]?** *(em aberto)*
 > 3. **Onde no diagrama HR aparecem os pulsares (estrelas de nêutrons)?** R.: Não aparecem diretamente no HR estelar (não emitem como fotosferas comuns); pulsares com campo magnético extremamente alto são chamados **magnetares**.
 > 4. **Como melhorar a precisão nas estimativas de idade estelar?** R.: Aumentar a estatística com mais dados, refinar o modelo de isócronas, ou melhorar medidas individuais — por exemplo, usando $\log g$ (gravidade superficial) obtido via **astrossismologia**, que já atinge ~13% de precisão.
-> 5. **Que implicações lentes gravitacionais têm para essas medidas, e qual a estabilidade de estrelas de nêutrons?** _(em aberto)_
+> 5. **Que implicações lentes gravitacionais têm para essas medidas, e qual a estabilidade de estrelas de nêutrons?** *(em aberto)*
 
 ---
 
-## 🔗 Referências e correlatos
-
+## 🔗 Referências
 - Hunt & Reffert (2024) — catálogo de 5647 aglomerados abertos
 - Adibekyan et al. (2012); Haywood et al. (2013) — química da vizinhança solar
 - Kobayashi et al. (2020) — modelos de nucleossíntese de elementos pesados
 - Watson et al. (2019) — processo-r em fusões de estrelas de nêutrons
 - Levantamento **GALAH**
 - [Reportagem: de onde vieram os átomos do seu corpo](https://super.abril.com.br/ciencia/esta-tabela-periodica-revela-de-onde-veio-cada-atomo-do-seu-corpo/)
-- [Aula 02](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — aglomerados globulares e as três revoluções da área
-- [Aula 03](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03)
-- [Cosmologia — Aula 01](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — supernovas Ia como velas padrão, citadas aqui como marcadoras de nucleossíntese
-- [Aglomerados — Aula 01](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — equilíbrio hidrostático, o mesmo princípio físico visto aqui para estrelas
-- [Curso ON — Aula 01: Conceito e Histórico](/pt-br/resource/curso-on/aula-01-conceito-e-historico) — a mesma nomenclatura de populações I/II/III, com o histórico completo de Baade a Searle & Zinn (curso de um semestre, escopo mais longo que este minicurso)
-- [Curso ON — Aula 03: Magnitudes, Cores e Classificação Espectral](/pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral) — classificação OBAFGKM revisitada com a física atômica completa por trás das linhas
-- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — minha pesquisa usa exatamente o espectro GALAH DR4 introduzido aqui

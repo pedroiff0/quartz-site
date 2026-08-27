@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo/20260320-tarefas-engenharia
 titulo: 20260320 - provas 2026-1
 criado: sexta-feira 20/03/2026 20:33
 modificado: sexta-feira 20/03/2026 20:33
@@ -16,7 +15,7 @@ Tarefa da disciplina do dia (se houver, se não, ignorar)
 1. [x] Ideia do projeto [[260324-Aula-AulaPiloto-1]]
 ***
 ## Gestão Ambiental 30/03
-1. [x] Ver os vídeos no google drive [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/05 - Periodo/39 - Gestão Ambiental/260326-Aula-Intro-1]]
+1. [x] Ver os vídeos no google drive [[pt-br/resource/Engenharia de Computação/05 - Periodo/39 - Gestão Ambiental/260326-Aula-Intro-1]]
 ***
 ## Eletrônica Analíogica 01/04
 1. [x] Ler sobre o capítulo de Diodos [[260405-Aula-Diodos-1]]

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo/eletronica-analogica/anotacoes/260405-aula-diodos-1
 titulo:  260405-Aula-Diodos-1
 disciplina:
 conteudo:
@@ -97,4 +96,3 @@ PDF
 
 
 Exemplo 3.2
-

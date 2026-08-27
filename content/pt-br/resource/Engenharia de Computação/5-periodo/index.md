@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/5-periodo
 title: "5º Período"
 created: 2026-07-21
 modified: 2026-08-06

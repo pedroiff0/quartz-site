@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação/eletivas/dimensionamento-de-redes-de-computadores
 title: "Dimensionamento de Redes de Computadores"
 created: '2026-07-18'
 modified: '2026-08-06'

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: pt-br/resource/engenharia-de-computação
 title: Engenharia de Computação
 created: 2026-07-22
 modified: 2026-08-24
