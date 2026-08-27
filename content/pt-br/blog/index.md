@@ -5,6 +5,8 @@ created: 2026-07-18
 modified: 2026-07-25T23:58:08.061-03:00
 published: 2026-07-25T23:58:08.061-03:00
 order: 7
+cssclasses:
+  - page-layout
 ---
 
 > [!note] Resumo
@@ -17,7 +19,7 @@ order: 7
   </a>
 </div>
 
-- [Bem-vindo ao blog](/pt-br/blog/bem-vindo) — Por que abri esse espaço e o que esperar por aqui.
+- [[pt-br/blog/bem-vindo|Bem-vindo ao blog]] — Por que abri esse espaço e o que esperar por aqui.
 
 
 ## 📝 Publicações do Blog

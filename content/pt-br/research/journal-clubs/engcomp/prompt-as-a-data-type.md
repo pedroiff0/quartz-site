@@ -10,6 +10,9 @@ discutido: 2026-08-01
 tags:
   - journal-club
   - engcomp
+cssclasses:
+  - page-layout
+modified: 2026-08-27
 ---
 
 > [!note] Em resumo

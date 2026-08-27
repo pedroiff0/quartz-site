@@ -4,6 +4,8 @@ title: research
 tags: [Literatura, arXiv]
 repo: https://github.com/pedroiff0/research
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

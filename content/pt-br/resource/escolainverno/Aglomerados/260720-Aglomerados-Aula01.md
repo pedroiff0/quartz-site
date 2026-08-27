@@ -5,8 +5,8 @@ titulo: 260720-Aglomerados-Aula01
 disciplina: Astrofísica Extragaláctica
 conteudo: Aglomerados de Galáxias — as maiores estruturas gravitacionalmente ligadas do Universo
 professor: Rogério Monteiro-Oliveira
-criado: segunda-feira 20/07/2026 09:19
-modificado: 22/07/2026
+created: 2026-07-20
+modified: 2026-08-27
 tags:
   - escola-de-inverno-on
   - astrofisica-extragalactica

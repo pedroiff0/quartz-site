@@ -1,7 +1,7 @@
 ---
 title: "Aula 07: Metodologia, Materiais e Reprodutibilidade na ABNT"
-created: '2026-08-04'
-modified: '2026-08-04'
+created: 2026-08-04
+modified: 2026-08-27
 publish: true
 notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-07-branco.pdf)"
@@ -10,6 +10,8 @@ tags:
   - escrita-academica
   - abnt
   - ifftese
+cssclasses:
+  - page-layout
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
@@ -64,8 +66,8 @@ flowchart TD
 
 Esta aula conecta-se transversalmente aos seguintes tópicos da formação em LaTeX & Escrita Acadêmica:
 
-- 🔗 **[Aula 06: Revisão Sistemática da Literatura e Protocolo PRISMA 2020](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma)**
-- 🔗 **[Aula 09: Resultados: Tabelas IBGE vs. Quadros ABNT](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt)**
+- 🔗 **[[pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma|Aula 06: Revisão Sistemática da Literatura e Protocolo PRISMA 2020]]**
+- 🔗 **[[pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt|Aula 09: Resultados: Tabelas IBGE vs. Quadros ABNT]]**
 
 ## 📚 Referências Bibliográficas
 

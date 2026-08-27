@@ -2,7 +2,7 @@
 publish: false
 title: Aula 10 — Integração de Órbitas com galpy
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -111,7 +111,7 @@ Por fim, o notebook combina os dois efeitos: usa `MovingObjectPotential` para tr
 - Documentação do [galpy](https://docs.galpy.org/) — biblioteca usada em toda a aula
 - Vasiliev (2020) — condições iniciais da órbita de Sagitário
 - Feliciano-Souza et al. (em prep.) — número de realizações de Monte Carlo necessárias para parâmetros orbitais robustos (amostra SEGUE)
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 09 — Órbitas, Potenciais e Integrais de Movimento](/pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento) — o formalismo teórico (Poisson, $v_c(r)$, integrais de movimento) que este notebook implementa em código
-- [Escola de Inverno — Arqueologia Galáctica, Aula 02](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — Omega Centauri e a Gaia-Sausage-Enceladus como outros exemplos de galáxias satélites incorporadas à Via Láctea
-- [Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica](/pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica) — continuação direta: pericentro/apocentro, a LMC em referencial não inercial, e ressonâncias de barra
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento]] — o formalismo teórico (Poisson, $v_c(r)$, integrais de movimento) que este notebook implementa em código
+- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02|Escola de Inverno — Arqueologia Galáctica, Aula 02]] — Omega Centauri e a Gaia-Sausage-Enceladus como outros exemplos de galáxias satélites incorporadas à Via Láctea
+- [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica]] — continuação direta: pericentro/apocentro, a LMC em referencial não inercial, e ressonâncias de barra

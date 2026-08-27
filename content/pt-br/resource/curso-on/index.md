@@ -2,14 +2,16 @@
 publish: false
 title: Arqueologia Galáctica e Populações Estelares
 created: 2026-07-23
-modified: 2026-07-26T11:50:01.646-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:50:01.646-03:00
 encrypted: true
 order: 5
+cssclasses:
+  - page-layout
 ---
 
 > [!note] Resumo
-> Notas de aula da disciplina de pós-graduação "Arqueologia Galáctica e Populações Estelares", ministrada por Hélio Dotto Perottoni no Observatório Nacional (ON) — um curso completo de um semestre, distinto do minicurso mais curto de mesmo tema geral que fiz na [Escola de Inverno](/pt-br/resource/escolainverno/arqgal).
+> Notas de aula da disciplina de pós-graduação "Arqueologia Galáctica e Populações Estelares", ministrada por Hélio Dotto Perottoni no Observatório Nacional (ON) — um curso completo de um semestre, distinto do minicurso mais curto de mesmo tema geral que fiz na [[pt-br/resource/escolainverno/arqgal|Escola de Inverno]].
 
 <div class="media-carousel">
   <a href="/pt-br/resource/curso-on/aula-01-conceito-e-historico" class="carousel-slide">
@@ -111,40 +113,40 @@ Curso de pós-graduação do Observatório Nacional (ON), com pré-requisito de 
 
 ### Unidades 1-2 — Estrutura da Galáxia e Parâmetros Observacionais
 
-1. [Conceito e Histórico](/pt-br/resource/curso-on/aula-01-conceito-e-historico) — o que é arqueologia galáctica, SSPs, e o histórico de Herschel a Searle & Zinn.
-2. [Diagrama HR e Aglomerados Estelares](/pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — abertos vs. globulares, IMF, isócronas, populações I/II/III.
-3. [Magnitudes, Cores e Classificação Espectral](/pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral) — escala de magnitude, magnitude absoluta, OBAFGKM.
-4. [Espectroscopia e Metalicidade](/pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade) — leis de Kirchhoff, formação de linhas, \[Fe/H].
-5. [Avermelhamento, Extinção e IMF](/pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf) — meio interestelar, extinção, $R_V$.
-6. [Diagrama HR e Relação Massa-Luminosidade](/pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade) — como medir propriedades estelares, $L\propto M^4$.
-7. [Distâncias, Escala de Distância e Coordenadas](/pt-br/resource/curso-on/aula-07-distancias-e-coordenadas) — a escada cósmica completa, coordenadas galácticas.
-8. [Velocidades e Movimento Próprio](/pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio) — velocidade radial/tangencial, LSR.
+1. [[pt-br/resource/curso-on/aula-01-conceito-e-historico|Conceito e Histórico]] — o que é arqueologia galáctica, SSPs, e o histórico de Herschel a Searle & Zinn.
+2. [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Diagrama HR e Aglomerados Estelares]] — abertos vs. globulares, IMF, isócronas, populações I/II/III.
+3. [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Magnitudes, Cores e Classificação Espectral]] — escala de magnitude, magnitude absoluta, OBAFGKM.
+4. [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|Espectroscopia e Metalicidade]] — leis de Kirchhoff, formação de linhas, \[Fe/H].
+5. [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Avermelhamento, Extinção e IMF]] — meio interestelar, extinção, $R_V$.
+6. [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|Diagrama HR e Relação Massa-Luminosidade]] — como medir propriedades estelares, $L\propto M^4$.
+7. [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Distâncias, Escala de Distância e Coordenadas]] — a escada cósmica completa, coordenadas galácticas.
+8. [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|Velocidades e Movimento Próprio]] — velocidade radial/tangencial, LSR.
 
 ### Unidade 3 — Dinâmica Estelar e Galáctica
 
-9. [Órbitas, Potenciais e Integrais de Movimento](/pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento) — equação de Poisson, velocidade circular, Boltzmann sem colisões, equações de Jeans, teorema do virial.
-10. [Integração de Órbitas com galpy](/pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — prática: potenciais, TAP/SQL no Gaia, Monte Carlo de incertezas, fricção dinâmica.
-11. [Órbitas de Satélites, a LMC e a Barra Galáctica](/pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica) — pericentro/apocentro, referencial não inercial, ressonâncias de barra (corrotação, OLR).
-12. [Espaço de Ações e Diagramas de Arqueologia Galáctica](/pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee) — excentricidade, Toomre, espaço $(E,L_z)$, diamante de ações — com dados reais do APOGEE DR19.
+9. [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Órbitas, Potenciais e Integrais de Movimento]] — equação de Poisson, velocidade circular, Boltzmann sem colisões, equações de Jeans, teorema do virial.
+10. [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Integração de Órbitas com galpy]] — prática: potenciais, TAP/SQL no Gaia, Monte Carlo de incertezas, fricção dinâmica.
+11. [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Órbitas de Satélites, a LMC e a Barra Galáctica]] — pericentro/apocentro, referencial não inercial, ressonâncias de barra (corrotação, OLR).
+12. [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Espaço de Ações e Diagramas de Arqueologia Galáctica]] — excentricidade, Toomre, espaço $(E,L_z)$, diamante de ações — com dados reais do APOGEE DR19.
 
 ### Unidade 4 — Nucleossíntese e Evolução Química
 
-13. [Nucleossíntese Estelar e Enriquecimento Químico](/pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — BBN, a classificação B²FH completa (H, He, α, e, s/i/r, p, x, ν).
-14. [Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos](/pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso) — $[\alpha/\text{Fe}]$ vs. $[\text{Fe/H}]$, $[\text{O/Fe}]$ como relógio químico.
-15. [Espectroscopia e Fotometria em Grandes Levantamentos](/pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos) — de Messier ao LSST, e comparação dos principais levantamentos espectroscópicos.
-16. [Métodos de Determinação de Idades Estelares](/pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares) — girocronologia, atividade cromosférica, astrossismologia, nucleocosmocronologia.
-17. [Gradientes de Metalicidade e a Relação Idade-Metalicidade](/pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr) — blurring/churning, migração radial, o problema da AMR, Two-Infall.
+13. [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Nucleossíntese Estelar e Enriquecimento Químico]] — BBN, a classificação B²FH completa (H, He, α, e, s/i/r, p, x, ν).
+14. [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] — $[\alpha/\text{Fe}]$ vs. $[\text{Fe/H}]$, $[\text{O/Fe}]$ como relógio químico.
+15. [[pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos|Espectroscopia e Fotometria em Grandes Levantamentos]] — de Messier ao LSST, e comparação dos principais levantamentos espectroscópicos.
+16. [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|Métodos de Determinação de Idades Estelares]] — girocronologia, atividade cromosférica, astrossismologia, nucleocosmocronologia.
+17. [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|Gradientes de Metalicidade e a Relação Idade-Metalicidade]] — blurring/churning, migração radial, o problema da AMR, Two-Infall.
 
 ### Unidades 5-7 — Cronologia da Formação da Via Láctea
 
-18. [Proto-Disco, Spin-Up e o Disco Splash](/pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash) — Kraken/Heracles/Aurora, disco primordial em $z\sim3$, spin-up, disco splash.
-19. [O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo](/pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo) — a "Sausage", GSE e ω Centauri, correntes estelares (Sagitário, TriAnd, Monoceros).
-20. [O Bojo, a Barra e a Estrutura do Disco Galáctico](/pt-br/resource/curso-on/aula-20-bojo-barra-e-estrutura-do-disco) — o bojo em X, decomposição orbital do bojo, warp/cutoff/flare, catálogo de mergers confirmados.
+18. [[pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash|Proto-Disco, Spin-Up e o Disco Splash]] — Kraken/Heracles/Aurora, disco primordial em $z\sim3$, spin-up, disco splash.
+19. [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo]] — a "Sausage", GSE e ω Centauri, correntes estelares (Sagitário, TriAnd, Monoceros).
+20. [[pt-br/resource/curso-on/aula-20-bojo-barra-e-estrutura-do-disco|O Bojo, a Barra e a Estrutura do Disco Galáctico]] — o bojo em X, decomposição orbital do bojo, warp/cutoff/flare, catálogo de mergers confirmados.
 
 ### Unidade 8 — Evolução Química em Galáxias Satélites
 
-21. [Funções de Distribuição de Metalicidade em Galáxias Satélites](/pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade) — o Grupo Local, modelos de infall/ventos, dificuldades práticas de medir uma MDF.
-22. [Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica](/pt-br/resource/curso-on/aula-22-galaxias-anas-ultrafracas) — o extremo mais baixo de massa/metalicidade conhecido, aula de encerramento do curso.
+21. [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|Funções de Distribuição de Metalicidade em Galáxias Satélites]] — o Grupo Local, modelos de infall/ventos, dificuldades práticas de medir uma MDF.
+22. [[pt-br/resource/curso-on/aula-22-galaxias-anas-ultrafracas|Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica]] — o extremo mais baixo de massa/metalicidade conhecido, aula de encerramento do curso.
 
 > [!info] Créditos
 > **Professor:** Hélio Dotto Perottoni (Observatório Nacional). Agradecimentos do próprio material do curso a Prof. Dr. Helio Jacques Rocha-Pinto, Dr. Guilherme Limberg e notas do Prof. Dr. Steve Majewski.

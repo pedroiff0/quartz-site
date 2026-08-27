@@ -6,6 +6,8 @@ modified: 2026-07-26T10:13:37.621-03:00
 published: 2026-07-26T10:13:37.621-03:00
 photoFolder: ejiniff2024
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🎮 e-JINIFF 2024
@@ -25,7 +27,7 @@ type: blog
 ## 🔗 References and correlations
 
 - Source:[IFF — Campus Students Good Jesus stand out in e-sports](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/estudantes-do-campus-bom-jesus-se-destacam-em-e-sports)
-- [4a SCEG 2024](/en/media/2024/4-sceg)— event where campus e-sports continued, with own competitions
+- [[en/media/2024/4-sceg|4a SCEG 2024]]— event where campus e-sports continued, with own competitions
 
 > [!abstract] Automatic translation notice
 > This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

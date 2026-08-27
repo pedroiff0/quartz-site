@@ -2,11 +2,13 @@
 publish: false
 title: Linguagens Formais e Autômatos
 created: 2026-07-26
-modified: 2026-07-26T11:33:09.979-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
@@ -80,5 +82,5 @@ O que dominar: uma visão panorâmica de dois modelos alternativos de computaç�
 
 ## Conexão com as disciplinas do curso
 
-- [Linguagens Formais e Autômatos](/pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos) — a disciplina do 5º período que cobre exatamente esta trilha.
-- [Compiladores](/pt-br/resource/computacao/compiladores) — a tranca direta: análise léxica usa expressões regulares/AFD, e análise sintática usa gramáticas livres de contexto/autômato de pilha, ambos apresentados aqui pela primeira vez.
+- [[pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos|Linguagens Formais e Autômatos]] — a disciplina do 5º período que cobre exatamente esta trilha.
+- [[pt-br/resource/computacao/compiladores|Compiladores]] — a tranca direta: análise léxica usa expressões regulares/AFD, e análise sintática usa gramáticas livres de contexto/autômato de pilha, ambos apresentados aqui pela primeira vez.

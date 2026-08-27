@@ -2,11 +2,13 @@
 publish: false
 title: Desenvolvimento Web
 created: 2026-07-26
-modified: 2026-07-26T11:33:09.975-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
@@ -79,6 +81,6 @@ O que dominar: uma visão geral de performance web (tempo de carregamento, cache
 
 ## Conexão com as disciplinas do curso
 
-- [Desenvolvimento Web](/pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web) — a eletiva que cobre exatamente esta trilha: programação para Web, frameworks, acesso a banco de dados e engenharia Web.
-- [Redes](/pt-br/resource/computacao/redes) — a base de protocolos (TCP/IP, DNS) sobre a qual HTTP roda.
-- [Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados) — o que sustenta a persistência de dados de qualquer aplicação web real.
+- [[pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web|Desenvolvimento Web]] — a eletiva que cobre exatamente esta trilha: programação para Web, frameworks, acesso a banco de dados e engenharia Web.
+- [[pt-br/resource/computacao/redes|Redes]] — a base de protocolos (TCP/IP, DNS) sobre a qual HTTP roda.
+- [[pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados|Banco de Dados]] — o que sustenta a persistência de dados de qualquer aplicação web real.

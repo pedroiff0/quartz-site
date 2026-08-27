@@ -5,6 +5,8 @@ modified: 2026-07-26T12:09:20.533-03:00
 published: 2026-07-26T12:09:20.533-03:00
 type: blog
 title:
+cssclasses:
+  - page-layout
 ---
 
 # ✍️ Bem-vindo ao blog
@@ -20,5 +22,5 @@ Se quiser comentar algum post, dá pra usar a caixa de comentários no fim da p�
 
 ## 🔗 Referências e correlatos
 
-- [Blog — todos os posts](/pt-br/blog)
-- [Pesquisa](/pt-br/research) — as notas mais formais que este blog complementa
+- [[pt-br/blog|Blog — todos os posts]]
+- [[pt-br/research|Pesquisa]] — as notas mais formais que este blog complementa

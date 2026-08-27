@@ -1,11 +1,13 @@
 ---
 publish: false
 title: CONEPE - 2026
-created: 2026-07-18T13:50:21.240-03:00
-modified: 2026-07-26T10:40:03.400-03:00
+created: 2026-07-18
+modified: 2026-08-27
 published: 2026-07-26T10:40:03.400-03:00
 photoFolder: conepe2026
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🔬 CONEPE - 2026
@@ -31,4 +33,4 @@ Apresentei o meu trabalho de pesquisa em uma sessão de apresentação oral, e a
 
 ## 🔗 Referências e correlatos
 
-- [ReLaTeX](/pt-br/research/relatex) — pesquisa completa por trás do pôster
+- [[pt-br/research/relatex|ReLaTeX]] — pesquisa completa por trás do pôster

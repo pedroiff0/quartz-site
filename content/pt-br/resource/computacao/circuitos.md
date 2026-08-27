@@ -2,11 +2,13 @@
 publish: false
 title: Circuitos
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.975-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
@@ -77,7 +79,7 @@ O que dominar: latches e flip-flops (a célula de memória de 1 bit), registrado
 
 ## Conexão com as disciplinas do curso
 
-- [Eletricidade Aplicada](/pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada) — etapa 1 da trilha: análise de circuitos elétricos.
-- [Eletrônica Analógica](/pt-br/resource/engenharia-de-computação/5-periodo/eletronica-analogica) — etapa 2: diodos, transistores e amplificadores.
-- [Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital) — etapa 3 e início da 4: portas, Karnaugh, flip-flops.
-- [Sistemas Digitais](/pt-br/resource/engenharia-de-computação/7-periodo/sistemas-digitais) — etapa 4 completa: registradores, contadores e máquinas de estados.
+- [[pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada|Eletricidade Aplicada]] — etapa 1 da trilha: análise de circuitos elétricos.
+- [[pt-br/resource/engenharia-de-computação/5-periodo/eletronica-analogica|Eletrônica Analógica]] — etapa 2: diodos, transistores e amplificadores.
+- [[pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital|Eletrônica Digital]] — etapa 3 e início da 4: portas, Karnaugh, flip-flops.
+- [[pt-br/resource/engenharia-de-computação/7-periodo/sistemas-digitais|Sistemas Digitais]] — etapa 4 completa: registradores, contadores e máquinas de estados.

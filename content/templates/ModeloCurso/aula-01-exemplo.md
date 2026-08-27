@@ -2,13 +2,15 @@
 publish: false
 draft: true
 title: "Aula 01: Teorema Fundamental do Cálculo e Integração por Substituição"
-created: '2026-08-06'
+created: 2026-08-06
 modified: '2026-08-06'
 encrypted: true
 tags:
   - calculo-i
   - anotaçoes-de-quadro
   - engenharia
+cssclasses:
+  - page-layout
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
@@ -129,7 +131,7 @@ flowchart TD
 ---
 
 ## 🔗 Aulas Correlatas & Conexões
-- 🔗 **[Aula 02: Aplicações Práticas e Resolução de Problemas](nota-02)** — *Próxima aula: Áreas entre curvas e volume de sólidos de revolução.*
+- 🔗 **[[nota-02|Aula 02: Aplicações Práticas e Resolução de Problemas]]** — *Próxima aula: Áreas entre curvas e volume de sólidos de revolução.*
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/templates">Aula Anterior</a></b></div>

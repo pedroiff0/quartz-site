@@ -2,11 +2,13 @@
 publish: false
 title: Segurança da Informação
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.979-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] Segurança da informação é a disciplina de proteger sistemas e dados contra acesso, alteração e destruição indevidos — da criptografia que protege sua senha ao pentest que encontra a falha antes do atacante. Hoje é responsabilidade de todo desenvolvedor, não só de especialistas.
@@ -74,5 +76,5 @@ Consolide atacando (legalmente): capture-the-flag no [picoCTF](https://picoctf.o
 
 Não há disciplina dedicada de segurança na grade — o tema aparece dentro das disciplinas de redes, e o restante é por sua conta (use este guia como trilha):
 
-- [Redes de Computadores I](/pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i) — a base indispensável: TCP/IP, portas e serviços são o alfabeto de qualquer análise de segurança.
-- [Redes de Computadores II](/pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii) — onde aparecem os tópicos de segurança de redes: firewalls, VPNs e proteção de perímetro.
+- [[pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i|Redes de Computadores I]] — a base indispensável: TCP/IP, portas e serviços são o alfabeto de qualquer análise de segurança.
+- [[pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii|Redes de Computadores II]] — onde aparecem os tópicos de segurança de redes: firewalls, VPNs e proteção de perímetro.

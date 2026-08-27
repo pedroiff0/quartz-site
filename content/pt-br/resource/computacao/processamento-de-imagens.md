@@ -2,15 +2,17 @@
 publish: false
 title: Processamento de Imagens
 created: 2026-07-26
-modified: 2026-07-26T11:33:09.975-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
-> Processamento de Imagens é o estudo de como tratar uma imagem digital como o que ela realmente é — uma matriz de números — e aplicar operações matemáticas sobre essa matriz para realçá-la, restaurá-la ou extrair informação dela. É a base de visão computacional, e tem uma conexão direta com a minha própria pesquisa: o projeto [Simulando o Impacto de Satélites em Observações Astronômicas](/pt-br/research/satellite-trail-removal) trata, na prática, de remover um tipo específico de "ruído" (rastros de satélite) de imagens astronômicas — exatamente o tipo de problema que esta disciplina formaliza.
+> Processamento de Imagens é o estudo de como tratar uma imagem digital como o que ela realmente é — uma matriz de números — e aplicar operações matemáticas sobre essa matriz para realçá-la, restaurá-la ou extrair informação dela. É a base de visão computacional, e tem uma conexão direta com a minha própria pesquisa: o projeto [[pt-br/research/satellite-trail-removal|Simulando o Impacto de Satélites em Observações Astronômicas]] trata, na prática, de remover um tipo específico de "ruído" (rastros de satélite) de imagens astronômicas — exatamente o tipo de problema que esta disciplina formaliza.
 
 ## Por que estudar isso?
 
@@ -74,10 +76,10 @@ O que dominar: **limiarização** (_thresholding_) — separar pixels em duas cl
 
 ## 🔗 Referências externas
 
-- [Simulando o Impacto de Satélites em Observações Astronômicas](/pt-br/research/satellite-trail-removal) — minha própria pesquisa, uma aplicação real de processamento/restauração de imagens a dados astronômicos: um algoritmo de IA que recupera informação perdida por rastros de satélite em imagens do céu.
+- [[pt-br/research/satellite-trail-removal|Simulando o Impacto de Satélites em Observações Astronômicas]] — minha própria pesquisa, uma aplicação real de processamento/restauração de imagens a dados astronômicos: um algoritmo de IA que recupera informação perdida por rastros de satélite em imagens do céu.
 
 ## Conexão com as disciplinas do curso
 
-- [Processamento de Imagens](/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens) — a eletiva que cobre exatamente esta trilha; tem como pré-requisito direto Computação Gráfica.
-- [Computação Gráfica](/pt-br/resource/computacao/computacao-grafica) — de onde vêm os conceitos de matriz, pixel e espaço de cor usados aqui desde o início.
-- [Machine Learning](/pt-br/resource/computacao/machine-learning) — segmentação e extração de características são, frequentemente, a etapa de pré-processamento que alimenta um classificador ou modelo de aprendizado de máquina.
+- [[pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens|Processamento de Imagens]] — a eletiva que cobre exatamente esta trilha; tem como pré-requisito direto Computação Gráfica.
+- [[pt-br/resource/computacao/computacao-grafica|Computação Gráfica]] — de onde vêm os conceitos de matriz, pixel e espaço de cor usados aqui desde o início.
+- [[pt-br/resource/computacao/machine-learning|Machine Learning]] — segmentação e extração de características são, frequentemente, a etapa de pré-processamento que alimenta um classificador ou modelo de aprendizado de máquina.

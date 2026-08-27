@@ -2,7 +2,7 @@
 publish: false
 title: Aula 16 — Métodos de Determinação de Idades Estelares
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -97,8 +97,8 @@ Estrelas enriquecidas pelo processo-r (Aula 13) podem conter elementos radioativ
 
 - Skumanich (1972) — relação rotação-idade $v\propto t^{-1/2}$, base da girocronologia
 - Aerts et al. (2010) — fundamentos de astrossismologia estelar
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 02 — Diagrama HR e Aglomerados Estelares](/pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — isócronas, o método de referência para datação de aglomerados
-- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](/pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — o processo-r que produz tanto os cronômetros radioativos (Th, U) quanto a referência estável (Eu)
-- [Escola de Inverno — Arqueologia Galáctica, Aula 02](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — astrossismologia de gigantes vermelhas como uma das "três revoluções" da área, com a mesma precisão de idade (~10%) discutida ali
-- [Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade](/pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr) — as idades estimadas por estes métodos são exatamente o que alimenta a relação idade-metalicidade discutida a seguir
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]] — isócronas, o método de referência para datação de aglomerados
+- [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico]] — o processo-r que produz tanto os cronômetros radioativos (Th, U) quanto a referência estável (Eu)
+- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02|Escola de Inverno — Arqueologia Galáctica, Aula 02]] — astrossismologia de gigantes vermelhas como uma das "três revoluções" da área, com a mesma precisão de idade (~10%) discutida ali
+- [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade]] — as idades estimadas por estes métodos são exatamente o que alimenta a relação idade-metalicidade discutida a seguir

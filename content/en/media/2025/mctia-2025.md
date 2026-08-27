@@ -6,6 +6,8 @@ modified: 2026-07-26T10:13:50.721-03:00
 published: 2026-07-26T10:13:50.721-03:00
 photoFolder: mctia2025
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🛰️ MCTIA 2025
@@ -30,8 +32,8 @@ type: blog
 ## 🔗 References and correlations
 
 - Source:[IFF — IFF project Good Jesus wins another award in scientific event in Pará](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-conquista-mais-uma-premiacao-em-evento-cientifico-no-para)
-- [Simulating Satellite Impact on Astronomical Observations](/en/research/satellite-trail-removal)— full search page of this project
-- [FEBIC 2024](/en/media/2024/febic-2024)— same project, one year earlier, still incomplete
+- [[en/research/satellite-trail-removal|Simulating Satellite Impact on Astronomical Observations]]— full search page of this project
+- [[en/media/2024/febic-2024|FEBIC 2024]]— same project, one year earlier, still incomplete
 
 > [!abstract] Automatic translation notice
 > This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -82,8 +82,8 @@ Esse tipo de diagrama comprime toda a informação dinâmica de uma órbita (for
 
 - Helmi, White, de Zeeuw & Zhao (1999) — _Debris streams in the solar neighbourhood as relics from the formation of the Galaxy_, Nature 402, 53 (bibcode `1999Natur.402...53H`) — paper fundador do uso do espaço de integrais de movimento
 - Outras leituras citadas nos slides originais (bibcodes ADS, sem título extraído): `2022ApJ...935L..22T`, `2023A&A...670L...2D`, `2023ApJ...946...66L`, `2023MNRAS.518.6200B`, `2024MNRAS.532.4389D`, `2021A&A...654A..15B`
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 09 — Órbitas, Potenciais e Integrais de Movimento](/pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento) — base teórica de $E$, $L_z$ e das ações usadas aqui
-- [Aula 10 — Integração de Órbitas com galpy](/pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — como esses mesmos parâmetros orbitais são calculados a partir de dados 6D individuais
-- [Apresentação de Pesquisa — Vizinhança Solar com t-SNE](/pt-br/resource/escolainverno/apresentacao/minhapesquisa-vizinhancasolar-tsne) — o mesmo diagrama de Toomre usado aqui aparece na minha própria pesquisa para separar disco de halo
-- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](/pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — a dinâmica orbital vista aqui volta o foco para a química que originou essas populações
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento]] — base teórica de $E$, $L_z$ e das ações usadas aqui
+- [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Aula 10 — Integração de Órbitas com galpy]] — como esses mesmos parâmetros orbitais são calculados a partir de dados 6D individuais
+- [[pt-br/resource/escolainverno/apresentacao/minhapesquisa-vizinhancasolar-tsne|Apresentação de Pesquisa — Vizinhança Solar com t-SNE]] — o mesmo diagrama de Toomre usado aqui aparece na minha própria pesquisa para separar disco de halo
+- [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico]] — a dinâmica orbital vista aqui volta o foco para a química que originou essas populações

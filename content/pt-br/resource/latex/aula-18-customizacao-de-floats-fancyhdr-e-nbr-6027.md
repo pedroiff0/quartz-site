@@ -1,7 +1,7 @@
 ---
 title: "Aula 18: Controle Avançado de Floats e NBR 6027"
-created: '2026-08-04'
-modified: '2026-08-04'
+created: 2026-08-04
+modified: 2026-08-27
 publish: true
 notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf)"
@@ -10,6 +10,8 @@ tags:
   - escrita-academica
   - abnt
   - ifftese
+cssclasses:
+  - page-layout
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
@@ -64,8 +66,8 @@ flowchart TD
 
 Esta aula conecta-se transversalmente aos seguintes tópicos da formação em LaTeX & Escrita Acadêmica:
 
-- 🔗 **[Aula 09: Resultados: Tabelas IBGE vs. Quadros ABNT](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt)**
-- 🔗 **[Aula 12: Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs)**
+- 🔗 **[[pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt|Aula 09: Resultados: Tabelas IBGE vs. Quadros ABNT]]**
+- 🔗 **[[pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs|Aula 12: Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)]]**
 
 ## 📚 Referências Bibliográficas
 

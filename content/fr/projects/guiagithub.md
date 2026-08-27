@@ -4,6 +4,8 @@ title: guia-github
 tags: [Boas Práticas, Templates, Versionamento]
 repo: https://github.com/pedroiff0/guia-github
 status: público
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

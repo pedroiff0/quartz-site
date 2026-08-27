@@ -4,6 +4,8 @@ title: ReLaTeX
 tags: [Overleaf Fork, Self-hosted, IFF, LaTeX]
 repo: https://github.com/pedroiff0/relatex
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

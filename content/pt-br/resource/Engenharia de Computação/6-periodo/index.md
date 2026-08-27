@@ -2,8 +2,11 @@
 publish: true
 title: "6º Período"
 created: 2026-07-21
-modified: 2026-08-22
+modified: 2026-08-27
+cssclasses:
+  - page-layout
 ---
+
 
 > [!info] 🎓 Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `500h` (340h teóricas + 160h práticas / projetos)
@@ -12,14 +15,15 @@ modified: 2026-08-22
 
 
 
+
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos)** (`60h` · Prof. Pablo · Quarta 13:40–16:30)
-> - 📘 **[Filosofia da Ciência e Tecnologia](/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia)** (`60h` · Prof. Dr. Rafel Tardin · Quarta 19:20–22:00)
-> - 📘 **[Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados)** (`60h` · Prof. Pablo · Terça 13:40–16:30)
-> - 📘 **[Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i)** (`60h` · Prof. Me. Andeson Veiga · Quarta 16:40–19:20)
-> - 📘 **[Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital)** (`60h` · Prof. Dr. Fabrício Barros Gonçalves · Segunda 16:40–19:20)
-> - 📘 **[Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados)** (`60h` · Prof. Me. Luiz Carlos Ferreira Garcez· Terça 16:40–19:20)
-> - 📘 **[Compiladores](/pt-br/resource/engenharia-de-computação/6-periodo/compiladores)** (`60h` · Prof.  Dr. Fabrício Barros Gonçalves · Sexta 13:40–16:30)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/index|Análise de Software Orientada a Objetos]]** (`60h` · Prof. Pablo · Quarta 13:40–16:30)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/filosofia-da-ciencia-e-tecnologia/index|Filosofia da Ciência e Tecnologia]]** (`60h` · Prof. Dr. Rafel Tardin · Quarta 19:20–22:00)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/banco-de-dados/index|Banco de Dados]]** (`60h` · Prof. Pablo · Terça 13:40–16:30)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/index|Programação Orientada a Objetos I]]** (`60h` · Prof. Me. Andeson Veiga · Quarta 16:40–19:20)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital/index|Eletrônica Digital]]** (`60h` · Prof. Dr. Fabrício Barros Gonçalves · Segunda 16:40–19:20)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/index|Comunicação de Dados]]** (`60h` · Prof. Me. Luiz Carlos Ferreira Garcez· Terça 16:40–19:20)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/compiladores/index|Compiladores]]** (`60h` · Prof.  Dr. Fabrício Barros Gonçalves · Sexta 13:40–16:30)
 
 ---
 

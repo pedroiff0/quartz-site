@@ -4,6 +4,8 @@ title: awesome-skills
 tags: [IA, Agentes, Automação, Open Source, Memória Procedural]
 repo: https://github.com/pedroiff0/awesome-skills
 status: público
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

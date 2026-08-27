@@ -8,6 +8,8 @@ tags:
   - latex
   - engenharia-de-software
   - automacao
+cssclasses:
+  - page-layout
 ---
 
 # 📄 ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF
@@ -63,5 +65,5 @@ Este projeto será apresentado no **CONEPE 2026** (Congresso de Ensino, Pesquisa
 - LAMPORT, L. _LaTeX: A Document Preparation System_. 2ª ed. Reading, Massachusetts: Addison-Wesley, 1994.
 - EQUIPE ABNTEX2 — [a classe abntex2](https://github.com/abntex/abntex2), base de compatibilidade ABNT usada neste projeto.
 - CONEPE 2026 — a cobertura da apresentação entra aqui depois do evento (setembro de 2026).
-- [LaTeX e Escrita Acadêmica](/pt-br/resource/latex) — o curso construído em cima deste projeto; as aulas 06 a 08 documentam `ifftese.cls`, `macros.sty` e `metadados.sty` linha a linha.
-- [Modelos Corporativos](/pt-br/resource/latex/modelos-corporativos) — a mesma arquitetura de classe aplicada fora da academia, com manual de marca no lugar da ABNT.
+- [[pt-br/resource/latex|LaTeX e Escrita Acadêmica]] — o curso construído em cima deste projeto; as aulas 06 a 08 documentam `ifftese.cls`, `macros.sty` e `metadados.sty` linha a linha.
+- [[pt-br/resource/latex/modelos-corporativos|Modelos Corporativos]] — a mesma arquitetura de classe aplicada fora da academia, com manual de marca no lugar da ABNT.

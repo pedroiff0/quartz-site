@@ -2,7 +2,7 @@
 publish: false
 title: Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.987-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -93,9 +93,9 @@ Nem todo objeto num catálogo fotométrico é igualmente confiável. Pontos de a
 
 ## 🔗 Referências e correlatos
 
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 05 — Avermelhamento, Extinção e IMF](/pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf) — extinção interestelar como uma das fontes de incompletude discutidas aqui
-- [Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica](/pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee) — usa exatamente o catálogo APOGEE DR19 apresentado nesta tabela
-- [Escola de Inverno — Arqueologia Galáctica, Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — o levantamento GALAH, aqui comparado a seus pares, é a base de dados da minha própria pesquisa
-- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — minha pesquisa combina exatamente GALAH DR4 e astrometria Gaia, dois dos levantamentos desta tabela
-- [Aula 16 — Métodos de Determinação de Idades Estelares](/pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares) — os dados espectroscópicos/fotométricos vistos aqui alimentam diretamente os métodos de idade discutidos a seguir
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Aula 05 — Avermelhamento, Extinção e IMF]] — extinção interestelar como uma das fontes de incompletude discutidas aqui
+- [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica]] — usa exatamente o catálogo APOGEE DR19 apresentado nesta tabela
+- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — o levantamento GALAH, aqui comparado a seus pares, é a base de dados da minha própria pesquisa
+- [[pt-br/research/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa combina exatamente GALAH DR4 e astrometria Gaia, dois dos levantamentos desta tabela
+- [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|Aula 16 — Métodos de Determinação de Idades Estelares]] — os dados espectroscópicos/fotométricos vistos aqui alimentam diretamente os métodos de idade discutidos a seguir

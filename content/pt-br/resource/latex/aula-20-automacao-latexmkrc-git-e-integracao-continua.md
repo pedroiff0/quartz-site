@@ -1,7 +1,7 @@
 ---
 title: "Aula 20: Automação LaTeX, Git e Integração Contínua CI/CD"
-created: '2026-08-04'
-modified: '2026-08-04'
+created: 2026-08-04
+modified: 2026-08-27
 publish: true
 notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-20-branco.pdf)"
@@ -10,6 +10,8 @@ tags:
   - escrita-academica
   - abnt
   - ifftese
+cssclasses:
+  - page-layout
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
@@ -64,8 +66,8 @@ flowchart TD
 
 Esta aula conecta-se transversalmente aos seguintes tópicos da formação em LaTeX & Escrita Acadêmica:
 
-- 🔗 **[Aula 13: Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber)**
-- 🔗 **[Aula 19: Classes Especializadas (Beamer, Poster e Relatório)](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp)**
+- 🔗 **[[pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber|Aula 13: Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber]]**
+- 🔗 **[[pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp|Aula 19: Classes Especializadas (Beamer, Poster e Relatório)]]**
 
 ## 📚 Referências Bibliográficas
 

@@ -5,8 +5,8 @@ titulo: 260721-Planetaria-Aula02
 disciplina: Ciências Planetárias
 conteudo: Continuação de Ciências Planetárias (conteúdo a ser preenchido)
 professor:
-criado: terça-feira 21/07/2026 11:06
-modificado: 22/07/2026
+created: 2026-07-21
+modified: 2026-08-27
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias

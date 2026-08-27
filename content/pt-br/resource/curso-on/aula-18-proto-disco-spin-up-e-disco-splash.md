@@ -2,7 +2,7 @@
 publish: false
 title: Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -100,8 +100,8 @@ O quadro clássico do **Two-Infall Model** (curso-on Aula 17) supõe duas época
 - Sestito et al. (2019, 2020, 2021) — disco primordial em alto redshift
 - Belokurov et al. (2020); Amarante et al. (2020) — disco splash
 - Borbolato et al. (2026, submetido); Amarante et al. (2026); Spitoni et al. (2019) — revisão recente da co-formação disco fino/espesso
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 10 — Integração de Órbitas com galpy](/pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — o mesmo pipeline de Monte Carlo para parâmetros orbitais, aqui aplicado à cronologia galáctica
-- [Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade](/pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr) — o Two-Infall Model revisitado aqui à luz de evidências mais recentes
-- [Escola de Inverno — Arqueologia Galáctica, Aula 02](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — a mesma cronologia em 4 estágios já introduzida ali, com Omega Centauri como um dos casos discutidos
-- [Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo](/pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo) — continuação direta: o mecanismo detalhado da fusão que produziu o disco splash
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Aula 10 — Integração de Órbitas com galpy]] — o mesmo pipeline de Monte Carlo para parâmetros orbitais, aqui aplicado à cronologia galáctica
+- [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade]] — o Two-Infall Model revisitado aqui à luz de evidências mais recentes
+- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02|Escola de Inverno — Arqueologia Galáctica, Aula 02]] — a mesma cronologia em 4 estágios já introduzida ali, com Omega Centauri como um dos casos discutidos
+- [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo]] — continuação direta: o mecanismo detalhado da fusão que produziu o disco splash

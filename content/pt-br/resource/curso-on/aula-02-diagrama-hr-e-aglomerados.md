@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 — Diagrama HR e Aglomerados Estelares
 created: 2026-07-23
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -111,7 +111,7 @@ Já os aglomerados globulares, por serem velhos, podem ocupar regiões muito dis
 - Babusiaux et al. (2018) — populações jovens vs. velhas com dados Gaia
 - Frebel & Norris (2018) — busca por estrelas de População III / metal-pobres extremas
 - Hao et al. (2021); Castro-Ginard et al. (2021) — mapeamento do disco via aglomerados abertos
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 01 — Conceito e Histórico](/pt-br/resource/curso-on/aula-01-conceito-e-historico)
-- [Aula 03 — Magnitudes, Cores e Classificação Espectral](/pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral)
-- [Escola de Inverno — Aglomerados](/pt-br/resource/escolainverno/aglomerados) — minicurso irmão sobre o mesmo tema
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-01-conceito-e-historico|Aula 01 — Conceito e Histórico]]
+- [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral]]
+- [[pt-br/resource/escolainverno/aglomerados|Escola de Inverno — Aglomerados]] — minicurso irmão sobre o mesmo tema

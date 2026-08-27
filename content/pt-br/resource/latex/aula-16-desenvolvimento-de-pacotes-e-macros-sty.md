@@ -1,7 +1,7 @@
 ---
 title: "Aula 16: Desenvolvimento de Pacotes .sty - Programação TeX e Macros"
-created: '2026-08-04'
-modified: '2026-08-04'
+created: 2026-08-04
+modified: 2026-08-27
 publish: true
 notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-16-branco.pdf)"
@@ -10,6 +10,8 @@ tags:
   - escrita-academica
   - abnt
   - ifftese
+cssclasses:
+  - page-layout
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
@@ -64,8 +66,8 @@ flowchart TD
 
 Esta aula conecta-se transversalmente aos seguintes tópicos da formação em LaTeX & Escrita Acadêmica:
 
-- 🔗 **[Aula 14: Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots)**
-- 🔗 **[Aula 17: Engenharia de Classes .cls - Anatomia da ifftese e abntex2](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls)**
+- 🔗 **[[pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots|Aula 14: Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots]]**
+- 🔗 **[[pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls|Aula 17: Engenharia de Classes .cls - Anatomia da ifftese e abntex2]]**
 
 ## 📚 Referências Bibliográficas
 

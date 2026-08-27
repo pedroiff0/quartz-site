@@ -2,7 +2,7 @@
 publish: false
 title: "Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos"
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -74,8 +74,8 @@ Comparando razões $[X/\text{Fe}]$ de estrelas do halo, disco espesso e disco fi
 - Yoshii (1982); Gilmore & Reid (1983) — proposta original do disco espesso como componente estrutural distinto
 - Fuhrmann (1998, 2011); Bensby et al. (2003) — o diagrama $[\alpha/\text{Fe}]$-$[\text{Fe/H}]$ e a separação química disco fino/espesso
 - Haywood et al. (2013); Silva Aguirre et al. (2018); Miglio et al. (2021); Queiroz et al. (2023); Lagarde et al. (2021) — idades das populações alto-$\alpha$/baixo-$\alpha$
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](/pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — pré-requisito direto: por que SN II e SN Ia produzem elementos diferentes em tempos diferentes
-- [Escola de Inverno — Arqueologia Galáctica, Aula 03](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03) — a mesma separação disco fino/espesso e halo, com valores numéricos de metalicidade e cinemática
-- [Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica](/pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee) — estrelas retrógradas identificadas cinematicamente ali, aqui confirmadas quimicamente como possíveis acréscimos
-- [Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos](/pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos) — de onde vêm, na prática, os dados químicos usados nesta aula
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico]] — pré-requisito direto: por que SN II e SN Ia produzem elementos diferentes em tempos diferentes
+- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03|Escola de Inverno — Arqueologia Galáctica, Aula 03]] — a mesma separação disco fino/espesso e halo, com valores numéricos de metalicidade e cinemática
+- [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica]] — estrelas retrógradas identificadas cinematicamente ali, aqui confirmadas quimicamente como possíveis acréscimos
+- [[pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos|Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos]] — de onde vêm, na prática, os dados químicos usados nesta aula

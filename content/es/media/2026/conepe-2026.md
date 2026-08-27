@@ -1,11 +1,13 @@
 ---
 publish: false
 title: "CONEPE - 2026"
-created: 2026-07-18T13:50:21.240-03:00
+created: 2026-07-18
 modified: 2026-07-26T10:40:03.400-03:00
 published: 2026-07-26T10:40:03.400-03:00
 photoFolder: conepe2026
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🔬 CONEPE - 2026
@@ -31,7 +33,7 @@ type: blog
 
 ## 🔗 Referencias y correcciones
 
-- [ReLaTeX](/es/research/relatex)— investigación completa detrás del póster
+- [[es/research/relatex|ReLaTeX]]— investigación completa detrás del póster
 
 > [!abstract] Aviso de traducción automática
 > Esta página fue traducida automáticamente del portugués utilizando el traductor automático basado en LibreTranslate implementado en `tools/translate_quartz.py` (que preserva wikilinks, embeds y nombres propios mediante división posicional). Es traducción automática y puede contener imprecisiones — la versión original en portugués es la fuente autoritativa.

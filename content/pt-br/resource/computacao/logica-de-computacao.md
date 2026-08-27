@@ -2,11 +2,13 @@
 publish: false
 title: Lógica de Computação
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.979-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
@@ -76,5 +78,5 @@ O que dominar: a ponte entre a teoria e o código — álgebra booleana em circu
 
 ## Conexão com as disciplinas do curso
 
-- [Lógica para Computação](/pt-br/resource/engenharia-de-computação/1-periodo/logica-para-computacao) — a disciplina do 1º período que cobre as etapas 1 e 2 desta trilha.
-- [Matemática Discreta](/pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta) — a continuação natural no 2º período: conjuntos, relações, contagem e grafos (etapa 3).
+- [[pt-br/resource/engenharia-de-computação/1-periodo/logica-para-computacao|Lógica para Computação]] — a disciplina do 1º período que cobre as etapas 1 e 2 desta trilha.
+- [[pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta|Matemática Discreta]] — a continuação natural no 2º período: conjuntos, relações, contagem e grafos (etapa 3).

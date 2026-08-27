@@ -62,7 +62,7 @@ const CustomFooter: QuartzComponent = ({ displayClass, fileData }: QuartzCompone
 
         {/* Instagram */}
         <a 
-          href="https://instagram.com/fckpeeh" 
+          href="https://instagram.com/ra.pedroh" 
           target="_blank" 
           rel="noopener noreferrer" 
           aria-label="Instagram"

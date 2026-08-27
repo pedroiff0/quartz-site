@@ -4,6 +4,8 @@ title: Avaliações Concurseiro
 tags: [Concursos, Gamificação, Mobile, Simulados]
 repo: https://github.com/pedroiff0/avaliacoes-concurseiro
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

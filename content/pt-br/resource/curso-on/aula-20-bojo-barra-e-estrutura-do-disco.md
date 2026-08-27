@@ -2,7 +2,7 @@
 publish: false
 title: Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -91,9 +91,9 @@ O halo estelar de galáxias massivas como a Via Láctea forma-se pela assimilaç
 - Queiroz et al. (2021) — decomposição orbital disco/barra/bojo esferoidal
 - Gallart et al. (2021) — sincronismo de quenching entre MW antiga e GSE
 - Skowron et al. (2019); Poggio et al. (2020) — warp e flare do disco
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica](/pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica) — o mecanismo de ressonâncias por trás da captura de estrelas pela barra
-- [Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos](/pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso) — a dicotomia $\alpha$/Fe que se estende até a barra/bojo
-- [Aula 18 — Proto-Disco, Spin-Up e o Disco Splash](/pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash) — o disco primordial perturbado pela GSE, aqui ligado à formação do disco espesso
-- [Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo](/pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo) — GSE em detalhe; aqui contextualizada junto a outros mergers confirmados (Sagitário, Orphan, Cetus, Wukong/LMS-1, Helmi)
-- [Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites](/pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade) — a mesma lógica de reconstruir história de acréscimo, aplicada a galáxias anãs satélites em vez do halo da própria Via Láctea
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica]] — o mecanismo de ressonâncias por trás da captura de estrelas pela barra
+- [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] — a dicotomia $\alpha$/Fe que se estende até a barra/bojo
+- [[pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash|Aula 18 — Proto-Disco, Spin-Up e o Disco Splash]] — o disco primordial perturbado pela GSE, aqui ligado à formação do disco espesso
+- [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo]] — GSE em detalhe; aqui contextualizada junto a outros mergers confirmados (Sagitário, Orphan, Cetus, Wukong/LMS-1, Helmi)
+- [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites]] — a mesma lógica de reconstruir história de acréscimo, aplicada a galáxias anãs satélites em vez do halo da própria Via Láctea

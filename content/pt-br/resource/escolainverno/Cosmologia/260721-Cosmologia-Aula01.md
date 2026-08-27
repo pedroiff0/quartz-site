@@ -5,8 +5,8 @@ titulo: 260721-Cosmologia-Aula01
 disciplina: Cosmologia
 conteudo: O modelo cosmológico padrão (ΛCDM) e suas sondas observacionais
 professor: Carlos Bengaly
-criado: terça-feira 21/07/2026 09:16
-modificado: 22/07/2026
+created: 2026-07-21
+modified: 2026-08-27
 tags:
   - escola-de-inverno-on
   - cosmologia

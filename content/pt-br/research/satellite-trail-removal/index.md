@@ -9,12 +9,14 @@ tags:
   - satelites-artificiais
   - processamento-de-imagens
   - iniciacao-cientifica
+cssclasses:
+  - page-layout
 ---
 
 # 🛰️ Simulando o Impacto de Satélites em Observações Astronômicas
 
 > [!note] Resumo
-> Projeto de pesquisa (IFF Bom Jesus do Itabapoana, orientação da [Prof.ª Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)) sobre como a proliferação de satélites artificiais contamina imagens astronômicas com rastros luminosos — e como tratar essa contaminação computacionalmente. Em equipe com [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) e Arthur Miguelito Lopes, o projeto evoluiu de um 3º lugar na [FEBIC 2024](/pt-br/media/2024/febic-2024) até um algoritmo capaz de recuperar 99,7% da informação perdida, premiado em 1º lugar no [MCTIA 2025](/pt-br/media/2025/mctia-2025).
+> Projeto de pesquisa (IFF Bom Jesus do Itabapoana, orientação da [Prof.ª Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)) sobre como a proliferação de satélites artificiais contamina imagens astronômicas com rastros luminosos — e como tratar essa contaminação computacionalmente. Em equipe com [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) e Arthur Miguelito Lopes, o projeto evoluiu de um 3º lugar na [[pt-br/media/2024/febic-2024|FEBIC 2024]] até um algoritmo capaz de recuperar 99,7% da informação perdida, premiado em 1º lugar no [[pt-br/media/2025/mctia-2025|MCTIA 2025]].
 
 <div class="media-carousel">
   <a href="/pt-br/research/satellite-trail-removal" class="carousel-slide">
@@ -44,8 +46,8 @@ O projeto foi planejado em 5 fases: (1) revisão sistemática do problema e de c
 | Etapa | Evento | Resultado |
 |---|---|---|
 | Proposta inicial | Edital de pré-iniciação científica, IFF (2023) | Aprovação do projeto |
-| **[FEBIC 2024](/pt-br/media/2024/febic-2024)** (Pomerode, SC) | Com [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) | **3º lugar — categoria Graduação**, mesmo com o projeto ainda incompleto, competindo com aplicações já patenteadas — resultado que classificou a equipe para o [MCTIA 2025](/pt-br/media/2025/mctia-2025) |
-| **[MCTIA 2025](/pt-br/media/2025/mctia-2025)** (Belém, PA) | Com [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) e Arthur Miguelito Lopes | **1º lugar — categoria Ciências Exatas do Ensino Superior**, com um algoritmo de IA capaz de **remover rastros de satélite de dados astronômicos, recuperando 99,7% da informação que seria perdida** — resultado que classificou a equipe para o evento nacional Ciência Jovem (Recife, PE, 2026) |
+| **[[pt-br/media/2024/febic-2024|FEBIC 2024]]** (Pomerode, SC) | Com [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) | **3º lugar — categoria Graduação**, mesmo com o projeto ainda incompleto, competindo com aplicações já patenteadas — resultado que classificou a equipe para o [[pt-br/media/2025/mctia-2025|MCTIA 2025]] |
+| **[[pt-br/media/2025/mctia-2025|MCTIA 2025]]** (Belém, PA) | Com [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) e Arthur Miguelito Lopes | **1º lugar — categoria Ciências Exatas do Ensino Superior**, com um algoritmo de IA capaz de **remover rastros de satélite de dados astronômicos, recuperando 99,7% da informação que seria perdida** — resultado que classificou a equipe para o evento nacional Ciência Jovem (Recife, PE, 2026) |
 
 > [!note] Nota sobre este texto
 > Esta página combina a proposta formal de pesquisa (submetida ao IFF em 2023, com introdução, justificativa e metodologia completas) com os resultados divulgados publicamente nas premiações da FEBIC 2024 e do MCTIA 2025. Detalhes técnicos do algoritmo de recuperação de 99,7% ainda não foram documentados nesta página — a atualizar conforme o trabalho avança para publicação.
@@ -55,7 +57,7 @@ O projeto foi planejado em 5 fases: (1) revisão sistemática do problema e de c
 - Milazzo et al. (2021) — _The Growing Digital Divide and its Negative Impacts on NASA's Future Workforce_, BAAS 53, 436
 - Rawls et al. (2020) — _Satellite Constellation Internet Affordability and Need_, RNAAS 4, 189
 - Venkatesan et al. (2020) — _The Impact of Satellite Constellations on Space as an Ancestral Global Commons_, Nature Astronomy 4, 1043
-- [FEBIC 2024](/pt-br/media/2024/febic-2024) — cobertura da apresentação e do 3º lugar
-- [MCTIA 2025](/pt-br/media/2025/mctia-2025) — cobertura da apresentação e do 1º lugar
-- [Entendendo a Matéria Escura a partir de Choques Extragalácticos](/pt-br/research/dark-matter-shocks) — projeto anterior, mesma orientadora
-- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — outro projeto com foco em aprendizado de máquina aplicado a dados astronômicos
+- [[pt-br/media/2024/febic-2024|FEBIC 2024]] — cobertura da apresentação e do 3º lugar
+- [[pt-br/media/2025/mctia-2025|MCTIA 2025]] — cobertura da apresentação e do 1º lugar
+- [[pt-br/research/dark-matter-shocks|Entendendo a Matéria Escura a partir de Choques Extragalácticos]] — projeto anterior, mesma orientadora
+- [[pt-br/research/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — outro projeto com foco em aprendizado de máquina aplicado a dados astronômicos

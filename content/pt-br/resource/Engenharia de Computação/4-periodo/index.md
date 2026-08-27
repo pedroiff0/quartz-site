@@ -2,20 +2,25 @@
 publish: true
 title: "4º Período"
 created: 2026-07-21
-modified: 2026-08-06
+modified: 2026-08-27
+cssclasses:
+  - page-layout
 ---
+
 
 > [!info] 🎓 Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `440h`
 > - **Resumo Pedagógico:** Transição para o núcleo específico com métodos numéricos, estatística e ótica.
 
+
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[Estruturas de Dados II](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Especifico)
-> - 📘 **[Cálculo Numérico](/pt-br/resource/engenharia-de-computação/4-periodo/calculo-numerico)** (`80h` · Núcleo Básico)
-> - 📘 **[Probabilidade e Estatística](/pt-br/resource/engenharia-de-computação/4-periodo/probabilidade-e-estatistica)** (`80h` · Núcleo Básico)
-> - 📘 **[Física III](/pt-br/resource/engenharia-de-computação/4-periodo/fisica-iii)** (`80h` · Núcleo Básico)
-> - 📘 **[Física Experimental III](/pt-br/resource/engenharia-de-computação/4-periodo/fisica-experimental-iii)** (`60h` · Núcleo Básico)
-> - 📘 **[Economia para Engenharia](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`60h` · Núcleo Humanas)
+> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/index|Cálculo Numérico]]** (`80h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/4-periodo/probabilidade-e-estatistica/index|Probabilidade e Estatística]]** (`80h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/index|Física III]]** (`80h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/4-periodo/fisica-experimental-iii/index|Física Experimental III]]** (`60h` · Núcleo Básico)
+> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`60h` · Núcleo Humanas)
+
 
 > [!tip] 📎 Documentos e Horários Institucionais
 > - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

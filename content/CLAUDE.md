@@ -1,10 +1,15 @@
+---
+cssclasses:
+  - page-layout
+---
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with files in this directory.
 
 # content/ — vault Obsidian do site
 
-Este diretório **é** o vault Obsidian de verdade que Pedro edita diretamente (`.obsidian/` na raiz daqui) — não é uma cópia — e é também, literalmente, a pasta `content/` que o Quartz consome para gerar o site. Para o motor/build/deploy (fora deste diretório), ver o [`CLAUDE.md`](../CLAUDE) da raiz do repo; este arquivo cobre convenções de autoria específicas de trabalhar dentro do vault.
+Este diretório **é** o vault Obsidian de verdade que Pedro edita diretamente (`.obsidian/` na raiz daqui) — não é uma cópia — e é também, literalmente, a pasta `content/` que o Quartz consome para gerar o site. Para o motor/build/deploy (fora deste diretório), ver o [[../CLAUDE|`CLAUDE.md`]] da raiz do repo; este arquivo cobre convenções de autoria específicas de trabalhar dentro do vault.
 
 ## Estrutura e espelhamento bilíngue
 
@@ -73,7 +78,7 @@ Cada evento é uma nota em `pt-br/media/<ano>/<slug-evento>.md`, seguindo sempre
 6. `## 📎 Banner` (pôster) ou `## 📎 Slides` (apresentação oral) — o embed do PDF em si (`![[assets/banners/Banner....pdf]]`, caminho completo, ver `CLAUDE.md` da raiz).
 7. `## 🔗 Referências e correlatos` — sempre linkar a página de pesquisa por trás do trabalho (`pt-br/research/...`) quando houver, e o evento anterior/seguinte que apresentou o mesmo trabalho.
 
-Os índices (`pt-br/media/index.md` e `pt-br/media/<ano>/index.md`) **não têm mais carrossel manual** — ele é gerado automaticamente pelo plugin `photo-carousel` (ver `CLAUDE.md` da raiz). Só precisam de uma lista em markdown (`- [Nome do Evento](caminho) — descrição curta`) pra quem prefere navegar por texto; ao adicionar um evento novo, adicionar essa linha também (isso não é automático).
+Os índices (`pt-br/media/index.md` e `pt-br/media/<ano>/index.md`) **não têm mais carrossel manual** — ele é gerado automaticamente pelo plugin `photo-carousel` (ver `CLAUDE.md` da raiz). Só precisam de uma lista em markdown (`- [[caminho|Nome do Evento]] — descrição curta`) pra quem prefere navegar por texto; ao adicionar um evento novo, adicionar essa linha também (isso não é automático).
 
 ## Notas de `research/` (projetos de pesquisa)
 
@@ -85,7 +90,7 @@ Sempre que um projeto novo for adicionado: (a) criar a entrada em `pt-br/researc
 
 `~/hardcore-life` é um vault Obsidian separado (notas pessoais, projetos, recursos de estudo). **Não é a fonte do site** — é de onde materiais específicos são selecionados e copiados manualmente, um de cada vez, nunca em bloco.
 
-- Use `scripts/sync-material.sh "<caminho dentro de hardcore-life>" <topic-slug>` (na raiz do repo) pra copiar um arquivo pra `content[Computacao](/assets/computacao/)<slug>/`. O script avisa (mas não bloqueia) se o nome do arquivo bate com padrões suspeitos (nome completo do usuário, "prova", "avaliação", fontes pirata como z-lib/kupdf/pdfcoffee).
+- Use `scripts/sync-material.sh "<caminho dentro de hardcore-life>" <topic-slug>` (na raiz do repo) pra copiar um arquivo pra `content[[assets/computacao/|Computacao]]<slug>/`. O script avisa (mas não bloqueia) se o nome do arquivo bate com padrões suspeitos (nome completo do usuário, "prova", "avaliação", fontes pirata como z-lib/kupdf/pdfcoffee).
 - **Nunca espelhar `05 - Recursos` inteiro.** Boa parte do conteúdo lá é: (a) cópias de livros com direitos autorais de terceiros, ou (b) provas/trabalhos pessoais com nome completo. Publicar isso no site público seria infração de copyright e exposição de dados pessoais, respectivamente.
 - Artigos científicos (`01 - Projetos/Anomaly_Detection/papers/`): a pasta `Anotacoes/` tem sínteses em PT geradas automaticamente (pdftotext/OCR) — algumas têm erro de extração visível (símbolos gregos, fórmulas quebradas). Ao publicar, extrair só a seção `## Síntese PT (didática)` (geralmente limpa) e a citação/BibTeX de `Notes/`; **não publicar os blocos de citação direta/OCR bruto**.
 - **Biblioteca de PDFs** (`scripts/import-biblioteca.sh`): curadoria fechada em 2026-07-19 sobre `05 - Recursos/Livros e Apostilas` (4,3GB, 270 arquivos). Só entram os ~62 arquivos (~330MB) com licença aberta verificada no texto do próprio PDF (Rede e-Tec/MEC, Escola Técnica Aberta, UAB, CETAM, CC, ou permissão explícita do autor). Ficam de fora: scans de livros comerciais (Stewart, Halliday, Tanenbaum, Kurose, Iezzi, etc. — muitos vindos de z-lib/pdfcoffee/kupdf), catálogos, duplicatas e a pasta `Provas IFF` (material pessoal com nome completo). O script é executado pelo dono do site, não por sessões automatizadas. Enquanto os PDFs não são importados, as páginas linkam o [ProEdu](https://proedu.rnp.br) (host oficial dos livros e-Tec); depois da importação, trocar para links locais `assets/biblioteca/<area>/<arquivo>.pdf`.

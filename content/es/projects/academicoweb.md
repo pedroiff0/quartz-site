@@ -4,6 +4,8 @@ title: Portal Acadêmico IFF (academicoWeb)
 tags: [Web App, IFF, Scraping, Arquivado]
 repo: https://github.com/pedroiff0/academicoWeb
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

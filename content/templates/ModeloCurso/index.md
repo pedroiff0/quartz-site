@@ -2,12 +2,14 @@
 publish: false
 draft: true
 title: "[NOME DA DISCIPLINA OU CURSO]"
-created: '2026-08-08'
+created: 2026-08-08
 modified: '2026-08-08'
 tags:
   - disciplina
   - engenharia-de-computacao
   - iff
+cssclasses:
+  - page-layout
 ---
 
 Bem-vindo ao repositório oficial da disciplina **[NOME DA DISCIPLINA OU CURSO]** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**, ministrada pelo **Prof. Dr. Pedro Henrique Rocha de Andrade**.
@@ -26,10 +28,10 @@ Bem-vindo ao repositório oficial da disciplina **[NOME DA DISCIPLINA OU CURSO]*
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - [CSECBJI.Y - Disciplina Anterior](/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG])
+> - [[pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Y - Disciplina Anterior]]
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [CSECBJI.Z - Disciplina Posterior](/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG])
+> - [[pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Z - Disciplina Posterior]]
 
 ---
 
@@ -52,7 +54,7 @@ Bem-vindo ao repositório oficial da disciplina **[NOME DA DISCIPLINA OU CURSO]*
 
 ## 📝 Anotações e Arquivos Didáticos
 
-- 📂 **[Acesse o Repositório de Anotações e Documentos da Disciplina](anotacoes/)**
+- 📂 **[[anotacoes/|Acesse o Repositório de Anotações e Documentos da Disciplina]]**
 
 
 ---

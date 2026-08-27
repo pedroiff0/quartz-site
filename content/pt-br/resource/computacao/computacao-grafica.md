@@ -2,11 +2,13 @@
 publish: false
 title: Computação Gráfica
 created: 2026-07-26
-modified: 2026-07-26T11:33:09.979-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
@@ -76,5 +78,5 @@ O que dominar: o modelo de iluminação de Phong (componentes ambiente, difusa e
 
 ## Conexão com as disciplinas do curso
 
-- [Computação Gráfica](/pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica) — a eletiva que cobre exatamente esta trilha; tem como pré-requisitos Álgebra Linear e Geometria Analítica II e Algoritmos e Estruturas de Dados II.
-- [Processamento de Imagens](/pt-br/resource/computacao/processamento-de-imagens) — a tranca direta: uma vez que uma imagem é gerada (ou capturada), processá-la usa as mesmas noções de matriz, pixel e espaço de cor apresentadas aqui.
+- [[pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica|Computação Gráfica]] — a eletiva que cobre exatamente esta trilha; tem como pré-requisitos Álgebra Linear e Geometria Analítica II e Algoritmos e Estruturas de Dados II.
+- [[pt-br/resource/computacao/processamento-de-imagens|Processamento de Imagens]] — a tranca direta: uma vez que uma imagem é gerada (ou capturada), processá-la usa as mesmas noções de matriz, pixel e espaço de cor apresentadas aqui.

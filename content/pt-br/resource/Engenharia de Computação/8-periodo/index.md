@@ -2,20 +2,25 @@
 publish: true
 title: "8º Período"
 created: 2026-07-21
-modified: 2026-08-06
+modified: 2026-08-27
+cssclasses:
+  - page-layout
 ---
+
 
 > [!info] 🎓 Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `420h`
 > - **Resumo Pedagógico:** Sistemas microcontrolados, arquitetura de alto desempenho e segurança do trabalho.
 
+
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[Arquitetura de Computadores](/pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores)** (`80h` · Núcleo Especifico)
-> - 📘 **[Microcontroladores](/pt-br/resource/engenharia-de-computação/8-periodo/microcontroladores)** (`80h` · Núcleo Especifico)
-> - 📘 **[Redes de Computadores II](/pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii)** (`80h` · Núcleo Especifico)
-> - 📘 **[Sistemas Operacionais II](/pt-br/resource/engenharia-de-computação/8-periodo/sistemas-operacionais-ii)** (`60h` · Núcleo Especifico)
-> - 📘 **[Metodologia Científica e Tecnológica](/pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica)** (`60h` · Núcleo Humanas)
-> - 📘 **[Segurança e Higiene do Trabalho](/pt-br/resource/engenharia-de-computação/8-periodo/seguranca-e-higiene-do-trabalho)** (`60h` · Núcleo Humanas)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/index|Arquitetura de Computadores]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/index|Microcontroladores]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/redes-de-computadores-ii/index|Redes de Computadores II]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/index|Sistemas Operacionais II]]** (`60h` · Núcleo Especifico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/metodologia-cientifica-e-tecnologica/index|Metodologia Científica e Tecnológica]]** (`60h` · Núcleo Humanas)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/seguranca-e-higiene-do-trabalho/index|Segurança e Higiene do Trabalho]]** (`60h` · Núcleo Humanas)
+
 
 > [!tip] 📎 Documentos e Horários Institucionais
 > - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

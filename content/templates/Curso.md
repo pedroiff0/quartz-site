@@ -2,11 +2,13 @@
 publish: false
 draft: true
 title: "[NOME DA DISCIPLINA]"
-created: '2026-08-08'
+created: 2026-08-08
 modified: '2026-08-08'
 tags:
   - disciplina
   - engenharia-de-computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] 📌 Informações Gerais da Disciplina
@@ -25,10 +27,10 @@ tags:
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
 > ### 📋 Pré-requisitos Exigidos:
-> - [CSECBJI.Y - Nome da Disciplina Anterior](/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG])
+> - [[pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Y - Nome da Disciplina Anterior]]
 > 
 > ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [CSECBJI.Z - Nome da Disciplina Posterior](/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG])
+> - [[pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Z - Nome da Disciplina Posterior]]
 
 ---
 
@@ -67,5 +69,5 @@ tags:
 
 ## 📝 Anotações e Arquivos Didáticos
 
-- 📂 **[Acesse o Repositório de Anotações e Documentos da Disciplina](anotacoes/)**
+- 📂 **[[anotacoes/|Acesse o Repositório de Anotações e Documentos da Disciplina]]**
 

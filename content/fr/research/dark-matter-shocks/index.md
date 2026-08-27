@@ -8,6 +8,8 @@ tags:
   - materia-escura
   - aglomerados-de-galaxias
   - iniciacao-cientifica
+cssclasses:
+  - page-layout
 ---
 
 # 💥 Comprendre la matière noire des chocs extragalactiques
@@ -64,17 +66,17 @@ tags:
 
 ## 🏆 Présentations et prix
 
- Ce projet a été présenté dans le **[FECURE 2023](/fr/media/2023/febrace-2023)♪ et ♪[MOSTRATEC 2023](/fr/media/2023/mostratec-2023)** (Novo Hamburg, RS).
+ Ce projet a été présenté dans le **[[fr/media/2023/febrace-2023|FECURE 2023]]♪ et ♪[[fr/media/2023/mostratec-2023|MOSTRATEC 2023]]** (Novo Hamburg, RS).
 
 ## 🔗 Références et corrections
 
 - Dawson, W. A. (2013) - The Dynamics of Melling Clusters: La Monte Carlo Solution appliquée aux clusters à balles et à balles, ApJ 772, 131.[Annonce complète de l'article (arXiv)](/assets/articles/Dawson2013.pdf)·[Code MCMAC](https://github.com/MCTwo/MCMAC).
 - ZuHone, J. et al. (2018) - Le catalogue de fusions de clusters Galaxy : un dépôt en ligne d'observations Mock de fusions de clusters Galaxy simulées, ApJS 234, 4.[Annonce complète de l'article (arXiv)](/assets/articles/ZuHone2018.pdf).
 - Clowe, D. et al. - Bala cluster, preuve classique de la séparation spatiale entre la matière noire et le gaz.
-- [MOSTRATEC 2023](/fr/media/2023/mostratec-2023)- couverture de la présentation de ce projet
-- [Détection d'anomalies dans les données de Gaia](/fr/research/anomaly-detection)- un autre projet de recherche en astronomie, également orienté par la dynamique / cinématique des systèmes gravitationnels
-- [Simulation de l'impact des satellites sur les observations astronomiques](/fr/research/satellite-trail-removal)- prochain projet, également avec une approche computationnelle appliquée aux données astronomiques
-- [Cours ON - Classe 05](/pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf)- un autre contexte de masse non-claire / matière noire dans la galaxie
+- [[fr/media/2023/mostratec-2023|MOSTRATEC 2023]]- couverture de la présentation de ce projet
+- [[fr/research/anomaly-detection|Détection d'anomalies dans les données de Gaia]]- un autre projet de recherche en astronomie, également orienté par la dynamique / cinématique des systèmes gravitationnels
+- [[fr/research/satellite-trail-removal|Simulation de l'impact des satellites sur les observations astronomiques]]- prochain projet, également avec une approche computationnelle appliquée aux données astronomiques
+- [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Cours ON - Classe 05]]- un autre contexte de masse non-claire / matière noire dans la galaxie
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

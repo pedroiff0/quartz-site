@@ -4,6 +4,8 @@ title: dashboard-life
 tags: [Life OS, Hábitos, Métricas]
 repo: https://github.com/pedroiff0/dashboard-life
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

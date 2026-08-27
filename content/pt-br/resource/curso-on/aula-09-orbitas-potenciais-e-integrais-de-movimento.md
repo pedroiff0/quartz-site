@@ -2,7 +2,7 @@
 publish: false
 title: Aula 09 — Órbitas, Potenciais e Integrais de Movimento
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -154,7 +154,7 @@ onde $K$ é a energia cinética total do sistema ($K=\tfrac{1}{2}M\langle v^2\ra
 - Binney & Tremaine — _Galactic Dynamics_ (livro-texto de referência da disciplina para esta unidade)
 - Bovy, J. — _Dynamics and Astrophysics of Galaxies_
 - Notas de aula de Amina Helmi; apresentações de Eugene Vasiliev
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 08 — Velocidades e Movimento Próprio](/pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio) — pré-requisito direto: $(U,V,W)$ e o LSR introduzidos ali reaparecem aqui como condições iniciais de órbitas
-- [Escola de Inverno — Aglomerados, Aula 01](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — o mesmo teorema do virial ($2K+W=0$), aplicado à escala de aglomerados de galáxias em vez de estrelas individuais
-- [Aula 10 — Integração de Órbitas com galpy](/pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — todo este formalismo posto em prática com código real
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|Aula 08 — Velocidades e Movimento Próprio]] — pré-requisito direto: $(U,V,W)$ e o LSR introduzidos ali reaparecem aqui como condições iniciais de órbitas
+- [[pt-br/resource/escolainverno/aglomerados/aglomerados-aula01|Escola de Inverno — Aglomerados, Aula 01]] — o mesmo teorema do virial ($2K+W=0$), aplicado à escala de aglomerados de galáxias em vez de estrelas individuais
+- [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Aula 10 — Integração de Órbitas com galpy]] — todo este formalismo posto em prática com código real

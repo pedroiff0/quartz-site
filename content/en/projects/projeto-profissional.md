@@ -4,6 +4,8 @@ title: Projeto Profissional (template)
 tags: [Template, Boilerplate, Segurança, Auth, Open Source]
 repo: https://github.com/pedroiff0/projeto-profissional
 status: público
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

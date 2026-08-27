@@ -1,13 +1,15 @@
 ---
 title: "Planejamento Letivo e Cronograma - LaTeX & Escrita Acadêmica"
 publish: true
-created: '2026-08-04'
-modified: '2026-08-04'
+created: 2026-08-04
+modified: 2026-08-27
 tags:
   - latex
   - cronograma
   - planejamento
   - ifftese
+cssclasses:
+  - page-layout
 ---
 
 # 📅 Planejamento Letivo e Cronograma de Atividades
@@ -56,59 +58,59 @@ graph LR
 ## 🏛️ Cronograma Analítico por Encontro (Terças-feiras, 14h30 às 17h30)
 
 ### 📘 Módulo I — Epistemologia, Metodologia Científica e Elementos Pré-Textuais
-- **Aula 01 — 25/08/2026:** [Epistemologia, Problematização e Hipóteses](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses)  
+- **Aula 01 — 25/08/2026:** [[pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses|Epistemologia, Problematização e Hipóteses]]  
   *Escopo:* Ruptura epistemológica, Falsificacionismo de Popper e formulação de hipóteses científicas.
-- **Aula 02 — 01/09/2026:** [Objetivos, Taxonomia de Bloom e Justificativa](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa)  
+- **Aula 02 — 01/09/2026:** [[pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa|Objetivos, Taxonomia de Bloom e Justificativa]]  
   *Escopo:* Verbos cognitivos de Bloom e estruturação de justificativa social, acadêmica e técnica.
-- **Aula 03 — 08/09/2026:** [Resumo, Abstract e Palavras-Chave (NBR 6028)](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028)  
+- **Aula 03 — 08/09/2026:** [[pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028|Resumo, Abstract e Palavras-Chave (NBR 6028)]]  
   *Escopo:* Estrutura uniparágrafo informativa e vocabulários controlados (**ABNT NBR 6028:2021**).
-- **Aula 04 — 15/09/2026:** [Elementos Pré-Textuais na NBR 14724](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724)  
+- **Aula 04 — 15/09/2026:** [[pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724|Elementos Pré-Textuais na NBR 14724]]  
   *Escopo:* Capa, folha de rosto, aprovação, dedicatória, agradecimentos e epígrafe (**ABNT NBR 14724**).
 
 ---
 
 ### 📘 Módulo II — Estrutura Textual, Introdução, PRISMA e Metodologia
-- **Aula 05 — 22/09/2026:** [Introdução e Lacuna de Pesquisa (*Research Gap*)](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa)  
+- **Aula 05 — 22/09/2026:** [[pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa|Introdução e Lacuna de Pesquisa (*Research Gap*)]]  
   *Escopo:* Técnica do funil argumentativo e delimitação precisa do problema científico.
-- **Aula 06 — 29/09/2026:** [Revisão Sistemática da Literatura e Protocolo PRISMA](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma)  
+- **Aula 06 — 29/09/2026:** [[pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma|Revisão Sistemática da Literatura e Protocolo PRISMA]]  
   *Escopo:* Estratégias boolianas (Scopus/WoS/IEEE) e fluxograma **PRISMA 2020**.
-- **Aula 07 — 06/10/2026:** [Metodologia, Materiais e Reprodutibilidade](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade)  
+- **Aula 07 — 06/10/2026:** [[pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade|Metodologia, Materiais e Reprodutibilidade]]  
   *Escopo:* Delineamento experimental, amostragem e reprodutibilidade (**ABNT NBR 14724**).
-- **Aula 08 — 13/10/2026:** [Ética na Pesquisa (Plataforma Brasil) e IA](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia)  
+- **Aula 08 — 13/10/2026:** [[pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia|Ética na Pesquisa (Plataforma Brasil) e IA]]  
   *Escopo:* Submissão ao CEP/CONEP via Plataforma Brasil e uso ético de LLMs na escrita.
 
 ---
 
 ### 📘 Módulo III — Resultados, Discussão, Citações NBR 10520 e Referências NBR 6023
-- **Aula 09 — 20/10/2026:** [Resultados e Apresentação de Dados (IBGE vs ABNT)](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt)  
+- **Aula 09 — 20/10/2026:** [[pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt|Resultados e Apresentação de Dados (IBGE vs ABNT)]]  
   *Escopo:* Diferenciação técnica entre Tabelas (**IBGE 1993**) e Quadros (**ABNT NBR 14724**).
-- **Aula 10 — 27/10/2026:** [Discussão, Citações NBR 10520 e Referências NBR 6023](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023)  
+- **Aula 10 — 27/10/2026:** [[pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023|Discussão, Citações NBR 10520 e Referências NBR 6023]]  
   *Escopo:* Sistema autor-data (**ABNT NBR 10520:2023**) e referências (**ABNT NBR 6023:2018/2020**).
 
 ---
 
 ### 📗 Módulo IV — Arquitetura LaTeX (.tex), Motores, Sintaxe, Tabelas e Gráficos
-- **Aula 11 — 03/11/2026:** [Arquitetura LaTeX, Motores TeX e Preâmbulo .tex](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex)  
+- **Aula 11 — 03/11/2026:** [[pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex|Arquitetura LaTeX, Motores TeX e Preâmbulo .tex]]  
   *Escopo:* Kernel LaTeX2e, motores PDFLaTeX/LuaLaTeX/XeLaTeX e preâmbulo multi-idioma.
-- **Aula 12 — 10/11/2026:** [Sintaxe Matemática amsmath e Tabelas booktabs](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs)  
+- **Aula 12 — 10/11/2026:** [[pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs|Sintaxe Matemática amsmath e Tabelas booktabs]]  
   *Escopo:* Ambientes matemáticos avançados e tabelas profissionais com `booktabs`.
-- **Aula 13 — 17/11/2026:** [Modularização Multi-arquivo e BibLaTeX Biber](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber)  
+- **Aula 13 — 17/11/2026:** [[pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber|Modularização Multi-arquivo e BibLaTeX Biber]]  
   *Escopo:* Divisão de projetos com `\input`/`\include` e bibliografia `biblatex-abnt`.
-- **Aula 14 — 24/11/2026:** [Gráficos Vetoriais com TikZ e PGFPlots](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots)  
+- **Aula 14 — 24/11/2026:** [[pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots|Gráficos Vetoriais com TikZ e PGFPlots]]  
   *Escopo:* Desenho programado em coordenadas vetoriais para diagramas e gráficos 2D/3D.
 
 ---
 
 ### 📗 Módulo V — Engenharia ReLaTeX (.cls e .sty), Metadados, Macros e Automação
-- **Aula 15 — 01/12/2026:** [Engenharia do Arquivo de Metadados sty](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty)  
+- **Aula 15 — 01/12/2026:** [[pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty|Engenharia do Arquivo de Metadados sty]]  
   *Escopo:* Estrutura de `metadados.sty`, escopo de variáveis e flexão gramatical.
-- **Aula 16 — 08/12/2026:** [Desenvolvimento de Pacotes e Macros sty](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty)  
+- **Aula 16 — 08/12/2026:** [[pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty|Desenvolvimento de Pacotes e Macros sty]]  
   *Escopo:* Programação TeX, comandos customizados, teoremas em `macros.sty`.
-- **Aula 17 — 15/12/2026:** [Engenharia da Classe ifftese.cls](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls)  
+- **Aula 17 — 15/12/2026:** [[pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls|Engenharia da Classe ifftese.cls]]  
   *Escopo:* Anatomia da classe canônica, herança de `abntex2` e conformidade **NBR 14724**.
-- **Aula 18 — 22/12/2026:** [Customização de Floats e NBR 6027](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027)  
+- **Aula 18 — 22/12/2026:** [[pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027|Customização de Floats e NBR 6027]]  
   *Escopo:* Cabeçalhos `fancyhdr`, listas customizadas (LOQ/LOA) e sumário **NBR 6027**.
-- **Aula 19 — 29/12/2026:** [Classes Especializadas: Beamer, Poster e Relatório](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp)  
+- **Aula 19 — 29/12/2026:** [[pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp|Classes Especializadas: Beamer, Poster e Relatório]]  
   *Escopo:* Apresentações institucionais (`slidesiffmodelo.cls`), pôsteres A0 (`iffposter.cls`) e relatórios.
-- **Aula 20 — Entregas Finais:** [Automação com latexmkrc, Git e CI/CD](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua)  
+- **Aula 20 — Entregas Finais:** [[pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua|Automação com latexmkrc, Git e CI/CD]]  
   *Escopo:* Build automatizado, controle de versão (`.gitignore`) e pipelines no GitHub.

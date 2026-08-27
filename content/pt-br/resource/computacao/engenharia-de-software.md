@@ -2,11 +2,13 @@
 publish: false
 title: Engenharia de Software
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.979-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] Engenharia de software é a disciplina de construir sistemas que sobrevivem ao mundo real: requisitos que mudam, equipes que crescem, código que precisa ser mantido por anos. É a diferença entre programar e construir software que dura.
@@ -33,7 +35,7 @@ Estude os princípios SOLID e o vocabulário de padrões de projeto (Strategy, O
 
 ### 4. Arquitetura, testes e entrega (avançado)
 
-Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços, e os artigos do [Martin Fowler](https://martinfowler.com/) como guia. Em paralelo, leve testes a sério: pirâmide de testes, TDD, integração contínua. Pratique num projeto de verdade com equipe — o material de [Prática Profissional](/pt-br/resource/computacao/pratica-profissional) complementa. Tempo típico: 8+ semanas, contínuo pela carreira.
+Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços, e os artigos do [Martin Fowler](https://martinfowler.com/) como guia. Em paralelo, leve testes a sério: pirâmide de testes, TDD, integração contínua. Pratique num projeto de verdade com equipe — o material de [[pt-br/resource/computacao/pratica-profissional|Prática Profissional]] complementa. Tempo típico: 8+ semanas, contínuo pela carreira.
 
 ## Conceitos que você precisa dominar
 
@@ -76,6 +78,6 @@ Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços,
 
 ## Conexão com as disciplinas do curso
 
-- [Engenharia de Software](/pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software) — processos, requisitos e ciclo de vida: o panorama da área.
-- [Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos) — modelagem OO e UML: transformar requisitos em modelos.
-- [Projeto de Software Orientado a Objetos](/pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos) — do modelo ao design implementável: princípios, padrões e arquitetura.
+- [[pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software|Engenharia de Software]] — processos, requisitos e ciclo de vida: o panorama da área.
+- [[pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos|Análise de Software Orientada a Objetos]] — modelagem OO e UML: transformar requisitos em modelos.
+- [[pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos|Projeto de Software Orientado a Objetos]] — do modelo ao design implementável: princípios, padrões e arquitetura.

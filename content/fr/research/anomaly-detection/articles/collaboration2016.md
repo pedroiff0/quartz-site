@@ -7,6 +7,8 @@ published: 2026-07-25T23:58:08.061-03:00
 tags:
   - artigo
   - pesquisa
+cssclasses:
+  - page-layout
 ---
 
 > [!note] En résumé

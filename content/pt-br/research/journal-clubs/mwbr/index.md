@@ -2,8 +2,10 @@
 publish: true
 title: MWBR — Journal Club
 created: 2026-07-26
-modified: 2026-08-24
+modified: 2026-08-27
 published: 2026-08-01T20:04:12.171-03:00
+cssclasses:
+  - page-layout
 ---
 
 > [!note] 🌌 Milky Way Brazil (MWBR)
@@ -100,6 +102,6 @@ views:
 
 ## 🔗 Referências e correlatos
 
-- [Journal Clubs — Visão Geral](/pt-br/research/journal-clubs)
-- [ENGCOMP Journal Club](/pt-br/research/journal-clubs/engcomp)
-- [Pesquisa — Visão Geral](/pt-br/research)
+- [[pt-br/research/journal-clubs|Journal Clubs — Visão Geral]]
+- [[pt-br/research/journal-clubs/engcomp|ENGCOMP Journal Club]]
+- [[pt-br/research|Pesquisa — Visão Geral]]

@@ -2,21 +2,26 @@
 publish: true
 title: "2º Período"
 created: 2026-07-21
-modified: 2026-08-06
+modified: 2026-08-27
+cssclasses:
+  - page-layout
 ---
+
 
 > [!info] 🎓 Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `480h`
 > - **Resumo Pedagógico:** Aprofundamento em algoritmos de programação, equações diferenciais e física teórica.
 
+
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[Algoritmos e Programação I](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Profissionalizante)
-> - 📘 **[Cálculo II](/pt-br/resource/engenharia-de-computação/2-periodo/calculo-ii)** (`80h` · Núcleo Básico)
-> - 📘 **[Álgebra Linear e Geometria Analítica II](/pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii)** (`60h` · Núcleo Básico)
-> - 📘 **[Matemática Discreta](/pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta)** (`60h` · Núcleo Básico)
-> - 📘 **[Física I](/pt-br/resource/engenharia-de-computação/2-periodo/fisica-i)** (`80h` · Núcleo Básico)
-> - 📘 **[Química Tecnológica](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`60h` · Núcleo Básico)
-> - 📘 **[Física Experimental I](/pt-br/resource/engenharia-de-computação/2-periodo/fisica-experimental-i)** (`60h` · Núcleo Básico)
+> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`80h` · Núcleo Profissionalizante)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/2-periodo/calculo-ii/index|Cálculo II]]** (`80h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II]]** (`60h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/2-periodo/matematica-discreta/index|Matemática Discreta]]** (`60h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/index|Física I]]** (`80h` · Núcleo Básico)
+> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`60h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/2-periodo/fisica-experimental-i/index|Física Experimental I]]** (`60h` · Núcleo Básico)
+
 
 > [!tip] 📎 Documentos e Horários Institucionais
 > - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

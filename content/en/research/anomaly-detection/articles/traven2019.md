@@ -7,6 +7,8 @@ published: 2026-07-25T23:58:08.057-03:00
 tags:
   - artigo
   - pesquisa
+cssclasses:
+  - page-layout
 ---
 
 > [!note] In short
@@ -20,7 +22,7 @@ tags:
 
  In the unsupervised part, the authors test a self-encoder to reduce the dimensionality of the spectra to a 2D map — the result does not separate the classes in a useful way. They switch to t-SNE, which reveals a rich structure: clusters that correspond, without any prior label, to binary, metal-poor giants, fast-rotating hot stars and molecular bands. The clustering algorithm DBSCAN then isolates each group automatically from the map. Comparing this unsupervised detection with the classical method (cross-correlation function, CCF), they show that the two are complementary — each finds binary that the other loses.
 
- In the generative (supervised) part, they use The Cannon and The Payne to build, from known labels (temperature, gravity, metallicity), a single star spectrum data-driven model; by adding two of these model spectra, they generate a binary template and adjust it to the observed data—which allows us to identify even unresolved spectroscopic binary, whose orbital velocity does not separate the lines. The central conclusion of the article, and perhaps the most important for those who are learning ML: human intervention remains indispensable, because instrumental effects and data reduction can mimic the signature of a binary and deceive the algorithm. It is the methodological basis of the anomaly detection project of this site (learning patterns in stellar data) and also a good introductory material of applied ML, referenced on the page of [Machine Learning](/pt-br/resource/computacao/machine-learning).
+ In the generative (supervised) part, they use The Cannon and The Payne to build, from known labels (temperature, gravity, metallicity), a single star spectrum data-driven model; by adding two of these model spectra, they generate a binary template and adjust it to the observed data—which allows us to identify even unresolved spectroscopic binary, whose orbital velocity does not separate the lines. The central conclusion of the article, and perhaps the most important for those who are learning ML: human intervention remains indispensable, because instrumental effects and data reduction can mimic the signature of a binary and deceive the algorithm. It is the methodological basis of the anomaly detection project of this site (learning patterns in stellar data) and also a good introductory material of applied ML, referenced on the page of [[pt-br/resource/computacao/machine-learning|Machine Learning]].
 
  [See original article](https://ui.adsabs.harvard.edu/abs/2019MmSAI..90..327T)
 

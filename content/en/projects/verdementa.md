@@ -4,6 +4,8 @@ title: Verdementa
 tags: [Suíte Comercial, ERP]
 repo: https://github.com/pedroiff0/verdementa
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

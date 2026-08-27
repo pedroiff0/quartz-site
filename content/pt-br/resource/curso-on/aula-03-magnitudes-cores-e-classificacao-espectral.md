@@ -2,7 +2,7 @@
 publish: false
 title: Aula 03 — Magnitudes, Cores e Classificação Espectral
 created: 2026-07-23
-modified: 2026-07-26T11:33:09.987-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -91,7 +91,7 @@ A classificação de Cannon considera 7 classes principais, organizadas por **te
 | F–G | Intermediária | Metais em geral (Sol é G) |
 | K–M | Fria | Linhas metálicas / moléculas (TiO em M) |
 
-O pico do espectro da classe M está deslocado para comprimentos de onda maiores, enquanto o tipo O emite mais intensamente em $\lambda$ pequeno — a **Lei de Wien** em ação. Estrelas de tipo A ($\sim$10 mil K) têm as linhas de absorção de H mais intensas de toda a sequência (ver [Aula 04](/pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade) para a explicação física, via população dos níveis de energia do átomo de hidrogênio).
+O pico do espectro da classe M está deslocado para comprimentos de onda maiores, enquanto o tipo O emite mais intensamente em $\lambda$ pequeno — a **Lei de Wien** em ação. Estrelas de tipo A ($\sim$10 mil K) têm as linhas de absorção de H mais intensas de toda a sequência (ver [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|Aula 04]] para a explicação física, via população dos níveis de energia do átomo de hidrogênio).
 
 ## 📷 Tipos de fotometria
 
@@ -111,7 +111,7 @@ O pico do espectro da classe M está deslocado para comprimentos de onda maiores
 
 - Almeida-Fernandes et al. (2021) — sistemas fotométricos
 - Perottoni et al. (2024) — calibração fotométrica (GaiaXPy)
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 02 — Diagrama HR e Aglomerados Estelares](/pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados)
-- [Aula 04 — Espectroscopia e Metalicidade](/pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade)
-- [Escola de Inverno — Arqueologia Galáctica, Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — classificação OBAFGKM revisitada em contexto de nucleossíntese
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]]
+- [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|Aula 04 — Espectroscopia e Metalicidade]]
+- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — classificação OBAFGKM revisitada em contexto de nucleossíntese

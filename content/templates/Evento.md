@@ -5,6 +5,8 @@ title: "{{value}} - 2026"
 photoFolder: 
 created: {{DATE:YYYY-MM-DD}}
 type: blog
+cssclasses:
+  - page-layout
 ---
 # 🔭 {{value}} - 2026
 
@@ -27,6 +29,6 @@ Página dedicada à participação n[o/a] **[nome completo do evento]**, em [cid
 
 ## 🔗 Referências e correlatos
 
-- Fonte: [nome do veículo/site oficial do evento](url)
-- [Página de pesquisa relacionada](caminho) — pesquisa completa por trás da apresentação
-- [Nome do evento anterior](caminho) — versão anterior do mesmo trabalho, se aplicável
+- Fonte: [[url|nome do veículo/site oficial do evento]]
+- [[caminho|Página de pesquisa relacionada]] — pesquisa completa por trás da apresentação
+- [[caminho|Nome do evento anterior]] — versão anterior do mesmo trabalho, se aplicável

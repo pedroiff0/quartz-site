@@ -3,6 +3,8 @@ publish: false
 title: Livro-Texto de Cálculo
 tags: [Material Didático, Cálculo, Algoritmos, Autoral]
 status: elaboracao
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

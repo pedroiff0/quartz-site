@@ -2,11 +2,13 @@
 publish: false
 title: Análise e Desempenho de Sistemas
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.979-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] Análise e desempenho de sistemas é a arte de responder, com números, à pergunta "esse sistema aguenta?": quantos usuários, com que tempo de resposta, até quando. Combina teoria das filas, medição, simulação e projeto de capacidade — a matemática por trás de sistemas que não caem.
@@ -71,4 +73,4 @@ Quando o sistema é complexo demais para fórmula fechada, entra a simulação d
 
 ## Conexão com as disciplinas do curso
 
-- [Avaliação e Desempenho de Sistemas](/pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas) — a disciplina que este guia acompanha diretamente: métricas, teoria das filas, medição e simulação.
+- [[pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas|Avaliação e Desempenho de Sistemas]] — a disciplina que este guia acompanha diretamente: métricas, teoria das filas, medição e simulação.

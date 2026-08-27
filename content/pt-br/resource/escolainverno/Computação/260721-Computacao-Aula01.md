@@ -5,8 +5,8 @@ titulo: 260721-Computacao-Aula01
 disciplina: Computação Científica de Alto Desempenho
 conteudo: Introdução à Computação de Alto Desempenho (HPC) — paralelismo com OpenMP e MPI
 professor: Fernando Roig
-criado: terça-feira 21/07/2026 14:00
-modificado: 22/07/2026
+created: 2026-07-21
+modified: 2026-08-27
 tags:
   - escola-de-inverno-on
   - hpc

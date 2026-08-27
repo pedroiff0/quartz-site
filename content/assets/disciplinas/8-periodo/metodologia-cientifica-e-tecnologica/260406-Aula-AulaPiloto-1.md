@@ -3,7 +3,7 @@ titulo:  260406-Aula-AulaPiloto-1
 disciplina:
 conteudo:
 professor:
-criado: segunda-feira 06/04/2026 13:04
+created: 2026-04-06
 modificado: segunda-feira 06/04/2026 13:04
 tags:
 cssclasses:

@@ -2,20 +2,25 @@
 publish: true
 title: "5º Período"
 created: 2026-07-21
-modified: 2026-08-06
+modified: 2026-08-27
+cssclasses:
+  - page-layout
 ---
+
 
 > [!info] 🎓 Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `440h`
 > - **Resumo Pedagógico:** Desenvolvimento sistemático de software, circuitos elétricos e eletrônica analógica.
 
+
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[Engenharia de Software I](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Especifico)
-> - 📘 **[Paradigmas de Programação](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Especifico)
-> - 📘 **[Circuitos Elétricos I](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Especifico)
-> - 📘 **[Eletrônica Analógica I](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Especifico)
-> - 📘 **[Fenômenos de Transporte](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`60h` · Núcleo Básico)
-> - 📘 **[Metodologia da Pesquisa](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`60h` · Núcleo Humanas)
+> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`60h` · Núcleo Básico)
+> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`60h` · Núcleo Humanas)
+
 
 > [!tip] 📎 Documentos e Horários Institucionais
 > - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

@@ -2,7 +2,7 @@
 publish: false
 draft: true
 title: "Aula 01 — [TÍTULO DA AULA E SUBTÍTULO]"
-created: '2026-08-08'
+created: 2026-08-08
 modified: '2026-08-08'
 published: '2026-08-08T12:00:00.000-03:00'
 password: "SENHA_DO_CURSO"
@@ -83,7 +83,7 @@ graph LR
 
 - Edvardsson et al. (1993) — Descoberta da dispersão na AMR.
 - Chiappini et al. (1997, 2001) — Modelo *Two-Infall*.
-- [Curso ON — Visão Geral](/pt-br/resource/curso-on)
+- [[pt-br/resource/curso-on|Curso ON — Visão Geral]]
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/curso-on/aula-00-[SLUG]">Aula Anterior</a></b></div>

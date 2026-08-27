@@ -6,6 +6,8 @@ modified: 2026-07-26T10:13:50.721-03:00
 published: 2026-07-26T10:13:50.721-03:00
 photoFolder: mctia2025
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🛰️ MCTIA 2025
@@ -30,8 +32,8 @@ type: blog
 ## 🔗 Références et corrections
 
 - Source:[IFF - Le projet IFF Bon Jésus remporte plus d'un prix en événement scientifique au Pará](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-conquista-mais-uma-premiacao-em-evento-cientifico-no-para)
-- [Simulation de l'impact des satellites sur les observations astronomiques](/fr/research/satellite-trail-removal)- page de recherche complète de ce projet
-- [FÉBIC 2024](/fr/media/2024/febic-2024)- même projet, un an auparavant, encore incomplet
+- [[fr/research/satellite-trail-removal|Simulation de l'impact des satellites sur les observations astronomiques]]- page de recherche complète de ce projet
+- [[fr/media/2024/febic-2024|FÉBIC 2024]]- même projet, un an auparavant, encore incomplet
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

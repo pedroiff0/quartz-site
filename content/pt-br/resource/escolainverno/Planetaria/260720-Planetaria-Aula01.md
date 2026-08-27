@@ -5,8 +5,8 @@ titulo: 260720-Planetaria-Aula01
 disciplina: Ciências Planetárias
 conteudo: Sistema Solar — inventário, arquitetura e dinâmica orbital
 professor:
-criado: segunda-feira 20/07/2026 11:05
-modificado: 22/07/2026
+created: 2026-07-20
+modified: 2026-08-27
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias

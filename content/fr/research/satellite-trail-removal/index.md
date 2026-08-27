@@ -9,12 +9,14 @@ tags:
   - satelites-artificiais
   - processamento-de-imagens
   - iniciacao-cientifica
+cssclasses:
+  - page-layout
 ---
 
 # 🛰️ Simulation de l'impact des satellites sur les observations astronomiques
 
 > [!note] Résumé
-> Projet de recherche (IFF Bom Jesus do Itabapoana, orientation de [Professeur Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)) sur la façon dont la prolifération des satellites artificiels contamine les images astronomiques avec des traces lumineuses - et comment traiter cette pollution par calcul. En équipe avec [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) et Arthur Miguelito Lopes, le projet a évolué d'une troisième place dans [FÉBIC 2024](/fr/media/2024/febic-2024) même un algorithme capable de récupérer 99,7% de l'information perdue, décerné en 1ère place dans [MCTIA 2025](/fr/media/2025/mctia-2025).
+> Projet de recherche (IFF Bom Jesus do Itabapoana, orientation de [Professeur Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)) sur la façon dont la prolifération des satellites artificiels contamine les images astronomiques avec des traces lumineuses - et comment traiter cette pollution par calcul. En équipe avec [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) et Arthur Miguelito Lopes, le projet a évolué d'une troisième place dans [[fr/media/2024/febic-2024|FÉBIC 2024]] même un algorithme capable de récupérer 99,7% de l'information perdue, décerné en 1ère place dans [[fr/media/2025/mctia-2025|MCTIA 2025]].
 
 
 <div class="media-carousel">
@@ -46,8 +48,8 @@ tags:
 | Étape | Événement | Sortie |
 |---|---|---|
 | Proposition initiale | Éditorial de pré-initiation scientifique, IFF (2023) | Adoption du projet |
-| *[FÉBIC 2024](/fr/media/2024/febic-2024)* (Pomérode, SC) | Communauté [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/)  | ***3ème place - Catégorie de grade**, même si le projet est encore incomplet, en concurrence avec des applications déjà brevetées - résultat qui a classé l'équipement pour le [MCTIA 2025](/fr/media/2025/mctia-2025)  |
-| *[MCTIA 2025](/fr/media/2025/mctia-2025)**(Belém, AP) | Communauté [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) arthur Miguelito Lopes |***1ère place - catégorie Exate Sciences of Higher Education * *, avec un algorithme IA capable de**enlevant les traces satellite de données astronomiques, en récupérant 99,7 % des informations qui seraient perdues** - résultat qui classait l'équipement pour l'événement national Young Science (Recife, PE, 2026) |
+| *[[fr/media/2024/febic-2024|FÉBIC 2024]]* (Pomérode, SC) | Communauté [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/)  | ***3ème place - Catégorie de grade**, même si le projet est encore incomplet, en concurrence avec des applications déjà brevetées - résultat qui a classé l'équipement pour le [[fr/media/2025/mctia-2025|MCTIA 2025]]  |
+| *[[fr/media/2025/mctia-2025|MCTIA 2025]]**(Belém, AP) | Communauté [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) arthur Miguelito Lopes |***1ère place - catégorie Exate Sciences of Higher Education * *, avec un algorithme IA capable de**enlevant les traces satellite de données astronomiques, en récupérant 99,7 % des informations qui seraient perdues** - résultat qui classait l'équipement pour l'événement national Young Science (Recife, PE, 2026) |
 
 > [!note] Note sur ce texte
 > Cette page combine la proposition de recherche officielle (sous-traitée à la FIF en 2023, avec l'introduction complète, la justification et la méthodologie) avec les résultats publiés publiquement dans les prix de la FABIC 2024 et de la MCTIA 2025. Les détails techniques de l'algorithme de récupération de 99,7% n'ont pas encore été documentés sur cette page - mise à jour à mesure que les travaux avancent pour publication.
@@ -57,10 +59,10 @@ tags:
 - Milazzo et al. (2021) - La fracture numérique croissante et ses répercussions négatives sur l'effectif futur de la NASA, BAAS 53, 436
 - Rawls et al. (2020) - Constellation par satellite sur l'accessibilité et les besoins Internet, RNAAS 4, 189
 - Venkatesan et al. (2020) - L'impact des constellations satellitaires sur l'espace en tant qu'ancêtre mondial, astronomie de la nature 4, 1043
-- [FÉBIC 2024](/fr/media/2024/febic-2024)- couverture de la présentation et troisième place
-- [MCTIA 2025](/fr/media/2025/mctia-2025)- couverture de la présentation et première place
-- [Comprendre la matière noire des chocs extragalactiques](/fr/research/dark-matter-shocks)- projet précédent, même orientation
-- [Détection d'anomalies dans les données de Gaia](/fr/research/anomaly-detection)- un autre projet axé sur l'apprentissage automatique appliqué aux données astronomiques
+- [[fr/media/2024/febic-2024|FÉBIC 2024]]- couverture de la présentation et troisième place
+- [[fr/media/2025/mctia-2025|MCTIA 2025]]- couverture de la présentation et première place
+- [[fr/research/dark-matter-shocks|Comprendre la matière noire des chocs extragalactiques]]- projet précédent, même orientation
+- [[fr/research/anomaly-detection|Détection d'anomalies dans les données de Gaia]]- un autre projet axé sur l'apprentissage automatique appliqué aux données astronomiques
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

@@ -2,11 +2,13 @@
 publish: false
 title: Compiladores
 created: 2026-07-26
-modified: 2026-07-26T11:33:09.979-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
@@ -22,11 +24,11 @@ Além disso, o conhecimento de compiladores se generaliza pra qualquer ferrament
 
 ### 1. Visão geral e análise léxica (2 semanas)
 
-O que dominar: a diferença entre compilador (traduz tudo antes de executar) e interpretador (traduz e executa linha a linha); as fases clássicas de um compilador (léxica → sintática → semântica → geração de código intermediário → otimização → geração de código final); o que é um **token** (a menor unidade com significado — palavra-chave, identificador, operador) versus um lexema (o texto bruto que originou o token); como expressões regulares (de [Linguagens Formais e Autômatos](/pt-br/resource/computacao/linguagens-formais-e-automatos)) viram, na prática, o analisador léxico via geradores como o _lex_/_flex_. O que praticar: escrever à mão o analisador léxico de uma calculadora simples (números, `+`, `-`, `*`, `/`, parênteses) — reconhecer tokens é mais mecânico e mais rápido de dominar do que parece.
+O que dominar: a diferença entre compilador (traduz tudo antes de executar) e interpretador (traduz e executa linha a linha); as fases clássicas de um compilador (léxica → sintática → semântica → geração de código intermediário → otimização → geração de código final); o que é um **token** (a menor unidade com significado — palavra-chave, identificador, operador) versus um lexema (o texto bruto que originou o token); como expressões regulares (de [[pt-br/resource/computacao/linguagens-formais-e-automatos|Linguagens Formais e Autômatos]]) viram, na prática, o analisador léxico via geradores como o _lex_/_flex_. O que praticar: escrever à mão o analisador léxico de uma calculadora simples (números, `+`, `-`, `*`, `/`, parênteses) — reconhecer tokens é mais mecânico e mais rápido de dominar do que parece.
 
 ### 2. Análise sintática (3–4 semanas)
 
-O que dominar: como uma gramática livre de contexto (de [Linguagens Formais e Autômatos](/pt-br/resource/computacao/linguagens-formais-e-automatos)) descreve a estrutura válida de um programa; a Árvore de Sintaxe Abstrata (AST) como representação intermediária que o resto do compilador consome; ambiguidade gramatical e como reescrever gramáticas para eliminá-la; a diferença entre parsing **descendente** (top-down: LL, recursivo, mais fácil de escrever à mão) e **ascendente** (bottom-up: LR, SLR, LALR — mais poderoso, usado por geradores como _yacc_/_bison_); recuperação de erros sintáticos (não parar no primeiro erro, e sim reportar o máximo de problemas possível). O que praticar: desenhar a AST de expressões aritméticas com precedência de operadores (`2 + 3 * 4` não é o mesmo que `(2+3)*4`) — é o exercício mais didático da disciplina inteira.
+O que dominar: como uma gramática livre de contexto (de [[pt-br/resource/computacao/linguagens-formais-e-automatos|Linguagens Formais e Autômatos]]) descreve a estrutura válida de um programa; a Árvore de Sintaxe Abstrata (AST) como representação intermediária que o resto do compilador consome; ambiguidade gramatical e como reescrever gramáticas para eliminá-la; a diferença entre parsing **descendente** (top-down: LL, recursivo, mais fácil de escrever à mão) e **ascendente** (bottom-up: LR, SLR, LALR — mais poderoso, usado por geradores como _yacc_/_bison_); recuperação de erros sintáticos (não parar no primeiro erro, e sim reportar o máximo de problemas possível). O que praticar: desenhar a AST de expressões aritméticas com precedência de operadores (`2 + 3 * 4` não é o mesmo que `(2+3)*4`) — é o exercício mais didático da disciplina inteira.
 
 ![Árvore de sintaxe abstrata (AST) para o algoritmo de Euclides — cada nó interno é uma operação/estrutura de controle, e as folhas são variáveis ou valores.](https://commons.wikimedia.org/wiki/Special:FilePath/Abstract_syntax_tree_for_Euclidean_algorithm.svg)
 
@@ -81,5 +83,5 @@ O que dominar: organização de memória de um programa em execução (pilha, he
 
 ## Conexão com as disciplinas do curso
 
-- [Linguagens Formais e Autômatos](/pt-br/resource/computacao/linguagens-formais-e-automatos) — pré-requisito direto: expressões regulares/AFD viram análise léxica, gramáticas livres de contexto/autômato de pilha viram análise sintática.
-- [Compiladores](/pt-br/resource/engenharia-de-computação/6-periodo/compiladores) — a disciplina do 6º período que cobre exatamente esta trilha.
+- [[pt-br/resource/computacao/linguagens-formais-e-automatos|Linguagens Formais e Autômatos]] — pré-requisito direto: expressões regulares/AFD viram análise léxica, gramáticas livres de contexto/autômato de pilha viram análise sintática.
+- [[pt-br/resource/engenharia-de-computação/6-periodo/compiladores|Compiladores]] — a disciplina do 6º período que cobre exatamente esta trilha.

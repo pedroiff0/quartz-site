@@ -2,22 +2,27 @@
 publish: true
 title: "1º Período"
 created: 2026-07-21
-modified: 2026-08-06
+modified: 2026-08-27
+cssclasses:
+  - page-layout
 ---
+
 
 > [!info] 🎓 Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `520h`
 > - **Resumo Pedagógico:** Ciclo inicial focado no nivelamento em Análise Matemática, Lógica Computacional e Introdução à Engenharia.
 
+
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[Introdução à Engenharia](/pt-br/resource/engenharia-de-computação/1-periodo/introducao-a-engenharia)** (`40h` · Núcleo Profissionalizante)
-> - 📘 **[Lógica para Computação](/pt-br/resource/engenharia-de-computação/1-periodo/logica-para-computacao)** (`60h` · Núcleo Básico)
-> - 📘 **[Cálculo I](/pt-br/resource/engenharia-de-computação/1-periodo/calculo-i)** (`120h` · Núcleo Básico)
-> - 📘 **[Álgebra Linear e Geometria Analítica I](/pt-br/resource/engenharia-de-computação/1-periodo/algebra-linear-e-geometria-analitica-i)** (`80h` · Núcleo Básico)
-> - 📘 **[Teoria Geral da Administração](/pt-br/resource/engenharia-de-computação/1-periodo/teoria-geral-da-administracao)** (`60h` · Núcleo Humanas)
-> - 📘 **[Desenho Técnico para Engenharia](/pt-br/resource/engenharia-de-computação/1-periodo/desenho-tecnico-para-engenharia)** (`80h` · Núcleo Básico)
-> - 📘 **[Expressão Oral e Escrita](/pt-br/resource/engenharia-de-computação/1-periodo/expressao-oral-e-escrita)** (`40h` · Núcleo Humanas)
-> - 📘 **[Fundamentos de Computação](/pt-br/resource/engenharia-de-computação/1-periodo/fundamentos-de-computacao)** (`40h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/1-periodo/introducao-a-engenharia/index|Introdução à Engenharia]]** (`40h` · Núcleo Profissionalizante)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/1-periodo/logica-para-computacao/index|Lógica para Computação]]** (`60h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/index|Cálculo I]]** (`120h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/index|Álgebra Linear e Geometria Analítica I]]** (`80h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/1-periodo/teoria-geral-da-administracao/index|Teoria Geral da Administração]]** (`60h` · Núcleo Humanas)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/index|Desenho Técnico para Engenharia]]** (`80h` · Núcleo Básico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/index|Expressão Oral e Escrita]]** (`40h` · Núcleo Humanas)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/index|Fundamentos de Computação]]** (`40h` · Núcleo Básico)
+
 
 > [!tip] 📎 Documentos e Horários Institucionais
 > - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

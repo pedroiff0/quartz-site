@@ -255,6 +255,27 @@ details.author-details[open] .author-summary {
   margin-top: 4rem;
   padding: 2rem 0;
   color: var(--gray);
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
+
+.custom-footer .footer-profile,
+.custom-footer .footer-profile h3,
+.custom-footer .footer-profile p {
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Hide backlinks on Home / Index / Sobre-Mim pages */
+body[data-slug="index"] .backlinks,
+body[data-slug="pt-br/index"] .backlinks,
+body[data-slug="pt-br/sobre-mim"] .backlinks,
+body[data-slug="pt-br/mapa/index"] .backlinks,
+body[data-slug="mapa/index"] .backlinks {
+  display: none !important;
 }
 
 .custom-footer hr {
@@ -1060,6 +1081,113 @@ details.author-details[open] .author-summary {
       }
     }
   }
+}
+
+/* --- Gradient Text, Tables & Cards Styling --- */
+.center h1, .center h2, .center h3 {
+  background: linear-gradient(135deg, var(--secondary), var(--tertiary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: fit-content;
+}
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--lightgray);
+  margin: 1.5rem 0;
+
+  th {
+    background: linear-gradient(135deg, var(--secondary), var(--tertiary)) !important;
+    color: #ffffff !important;
+    font-weight: 600;
+    padding: 0.75rem 1rem;
+    text-align: left;
+
+    a {
+      color: #ffffff !important;
+    }
+  }
+
+  td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  tr:nth-child(even) {
+    background: rgba(109, 40, 217, 0.03);
+  }
+
+  tr:hover {
+    background: rgba(109, 40, 217, 0.08);
+  }
+}
+
+.vault-card {
+  background: linear-gradient(135deg, rgba(109, 40, 217, 0.04), rgba(147, 51, 234, 0.08));
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  padding: 1.25rem;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: var(--secondary);
+  }
+}
+
+/* --- Rainbow Folder Palette for Quartz Explorer --- */
+.explorer div[data-folderpath*="projects"] > button,
+.explorer div[data-folderpath*="projects"] > a {
+  color: #06b6d4 !important;
+  font-weight: 600;
+}
+
+.explorer div[data-folderpath*="research"] > button,
+.explorer div[data-folderpath*="research"] > a {
+  color: #10b981 !important;
+  font-weight: 600;
+}
+
+.explorer div[data-folderpath*="media"] > button,
+.explorer div[data-folderpath*="media"] > a {
+  color: #a855f7 !important;
+  font-weight: 600;
+}
+
+.explorer div[data-folderpath*="resource"] > button,
+.explorer div[data-folderpath*="resource"] > a {
+  color: #f59e0b !important;
+  font-weight: 600;
+}
+
+/* --- Centered Titles for Lesson Pages --- */
+.page-layout h1.article-title,
+.type-aula h1.article-title,
+.center h1.article-title,
+h1.article-title {
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* --- Grid and Cards Layout --- */
+.cards, .grid-2 {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)) !important;
+  gap: 1.25rem !important;
+  margin: 1.5rem 0 !important;
+}
+
+.cards > .callout,
+.cards > div.callout,
+.cards .callout {
+  margin: 0 !important;
+  height: 100% !important;
+  box-sizing: border-box !important;
 }
 
 

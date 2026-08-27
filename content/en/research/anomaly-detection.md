@@ -4,6 +4,8 @@ title: Anomaly Detection in Gaia Data
 created: 2025-09-01
 modified: 2026-07-25T23:58:08.065-03:00
 published: 2026-07-25T23:58:08.065-03:00
+cssclasses:
+  - page-layout
 ---
 
 # 🔭 Anomaly Detection in Gaia Data
@@ -57,7 +59,7 @@ This work was published as:
 
 > ANDRADE, P. H. R. et al. _Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4_. Boletim da Sociedade Astronômica Brasileira, 2025.
 
-And presented as a poster at **SAB 2025**, at the**78th Annual SBPC Meeting (2026)**, and at this**National Observatory Winter School (2026)** — see [Apresentação de Pesquisa](/pt-br/resource/escolainverno/apresentacao) (Portuguese) for the full text of that presentation.
+And presented as a poster at **SAB 2025**, at the**78th Annual SBPC Meeting (2026)**, and at this**National Observatory Winter School (2026)** — see [[pt-br/resource/escolainverno/apresentacao|Apresentação de Pesquisa]] (Portuguese) for the full text of that presentation.
 
 ---
 
@@ -126,12 +128,12 @@ Summary of the main methodological decisions made throughout the project, from m
 - da Silva & Smiljanic (2023) — t-SNE in chemodynamical space (basis for the columns-vs-pixels comparison).
 - Hughes et al. (2022) — discovery of extremely metal-poor stars in GALAH DR3 via supervised ML.
 - Pettee et al. (2023) — weakly-supervised detection of stellar streams in Gaia (CWoLa).
-- See [Articles](/pt-br/research/anomaly-detection/articles) (Portuguese) for the complete reading notes on every paper used in this research.
+- See [[pt-br/research/anomaly-detection/articles|Articles]] (Portuguese) for the complete reading notes on every paper used in this research.
 
 ---
 
 ## 🔗 References and related
 
-- [Apresentação de Pesquisa](/pt-br/resource/escolainverno/apresentacao) — preparation text for presenting Stage 1 (Portuguese; SBPC 2026 Banner and this Winter School's Banner).
-- [Understanding Dark Matter from Extragalactic Shocks](/en/research/dark-matter-shocks) — another astronomy research project, also grounded in the dynamics/kinematics of gravitational systems
-- [Simulating the Impact of Satellites on Astronomical Observations](/en/research/satellite-trail-removal) — another project with a computational focus applied to astronomical data
+- [[pt-br/resource/escolainverno/apresentacao|Apresentação de Pesquisa]] — preparation text for presenting Stage 1 (Portuguese; SBPC 2026 Banner and this Winter School's Banner).
+- [[en/research/dark-matter-shocks|Understanding Dark Matter from Extragalactic Shocks]] — another astronomy research project, also grounded in the dynamics/kinematics of gravitational systems
+- [[en/research/satellite-trail-removal|Simulating the Impact of Satellites on Astronomical Observations]] — another project with a computational focus applied to astronomical data

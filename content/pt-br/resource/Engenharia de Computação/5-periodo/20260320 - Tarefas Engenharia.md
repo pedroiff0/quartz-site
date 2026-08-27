@@ -1,8 +1,8 @@
 ---
 publish: true
 titulo: 20260320 - provas 2026-1
-criado: sexta-feira 20/03/2026 20:33
-modificado: sexta-feira 20/03/2026 20:33
+created: 2026-03-20
+modified: 2026-08-27
 tags:
 cssclasses:
 ---

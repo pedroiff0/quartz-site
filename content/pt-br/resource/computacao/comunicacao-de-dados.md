@@ -2,11 +2,13 @@
 publish: false
 title: Comunicação de Dados
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.975-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] Comunicação de dados é a camada mais fundamental das redes: como transformar informação em sinais elétricos, ópticos ou de rádio, transmiti-los por um meio físico cheio de ruído e recuperá-los do outro lado sem erro. É a ponte entre a engenharia elétrica e a computação.
@@ -70,5 +72,5 @@ Detecção e correção de erros (paridade, CRC, Hamming), controle de fluxo, pr
 
 ## Conexão com as disciplinas do curso
 
-- [Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados) — a disciplina que este guia acompanha diretamente: sinais, meios, modulação e enlace.
-- [Processamento de Sinais](/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais) — eletiva que aprofunda a matemática dos sinais (Fourier, filtragem, amostragem) por trás de tudo que se estuda aqui.
+- [[pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados|Comunicação de Dados]] — a disciplina que este guia acompanha diretamente: sinais, meios, modulação e enlace.
+- [[pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais|Processamento de Sinais]] — eletiva que aprofunda a matemática dos sinais (Fourier, filtragem, amostragem) por trás de tudo que se estuda aqui.

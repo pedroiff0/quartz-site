@@ -2,11 +2,13 @@
 publish: false
 title: Programação
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.979-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
@@ -78,9 +80,9 @@ O que dominar: classes, encapsulamento, herança, polimorfismo e interfaces (em 
 
 ## Conexão com as disciplinas do curso
 
-- [Algoritmos e Técnicas de Programação](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao) — etapas 1 e 2 da trilha.
-- [Algoritmos e Estruturas de Dados I](/pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i) — início da etapa 3: listas, pilhas, filas.
-- [Algoritmos e Estruturas de Dados II](/pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii) — continuação da etapa 3: árvores, hash, ordenação.
-- [Paradigmas de Linguagem de Programação](/pt-br/resource/engenharia-de-computação/5-periodo/paradigmas-de-linguagem-de-programacao) — a visão comparada de paradigmas da etapa 4.
-- [Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i) — os pilares de OO na prática, com Java.
-- [Programação Orientada a Objetos II](/pt-br/resource/engenharia-de-computação/7-periodo/programacao-orientada-a-objetos-ii) — aprofundamento: design, interfaces e projetos maiores.
+- [[pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao|Algoritmos e Técnicas de Programação]] — etapas 1 e 2 da trilha.
+- [[pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i|Algoritmos e Estruturas de Dados I]] — início da etapa 3: listas, pilhas, filas.
+- [[pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii|Algoritmos e Estruturas de Dados II]] — continuação da etapa 3: árvores, hash, ordenação.
+- [[pt-br/resource/engenharia-de-computação/5-periodo/paradigmas-de-linguagem-de-programacao|Paradigmas de Linguagem de Programação]] — a visão comparada de paradigmas da etapa 4.
+- [[pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i|Programação Orientada a Objetos I]] — os pilares de OO na prática, com Java.
+- [[pt-br/resource/engenharia-de-computação/7-periodo/programacao-orientada-a-objetos-ii|Programação Orientada a Objetos II]] — aprofundamento: design, interfaces e projetos maiores.

@@ -7,6 +7,8 @@ published: 2026-08-01T16:22:00.830-03:00
 tags:
   - journal-club
   - engcomp
+cssclasses:
+  - page-layout
 ---
 
 > [!note] Summary
@@ -63,9 +65,9 @@ tags:
 
 ## 🔗 References and correlations
 
-- [ENGCOMP — Articles discussed](/pt-br/research/journal-clubs/engcomp)
-- [Club Dashboard](/en/research/journal-clubs/engcomp/dashboard)
-- [Journal Clubs — Overview](/pt-br/research/journal-clubs)
+- [[pt-br/research/journal-clubs/engcomp|ENGCOMP — Articles discussed]]
+- [[en/research/journal-clubs/engcomp/dashboard|Club Dashboard]]
+- [[pt-br/research/journal-clubs|Journal Clubs — Overview]]
 - [Full taxonomy of arXiv categories](https://arxiv.org/category_taxonomy)— the official list, if you wish to propose a new axis.
 
 > [!abstract] Automatic translation notice

@@ -1,14 +1,16 @@
 ---
 publish: true
 title: "LaTeX & Escrita Acadêmica"
-created: '2026-08-04'
-modified: '2026-08-04'
+created: 2026-08-04
+modified: 2026-08-27
 tags:
   - latex
   - escrita-academica
   - abnt
   - ifftese
   - relatex
+cssclasses:
+  - page-layout
 ---
 
 Bem-vindo ao repositório oficial da formação em **LaTeX & Escrita Acadêmica** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**, ministrada pelo **Prof. Pedro Henrique Rocha de Andrade**.
@@ -21,11 +23,11 @@ Esta plataforma centraliza o referencial teórico-metodológico e a arquitetura 
 
 A formação em **LaTeX & Escrita Acadêmica** integra-se transversalmente à matriz curricular do curso de **Bacharelado em Engenharia de Computação** do IFF — Campus Bom Jesus do Itabapoana, fornecendo a instrumentação técnica, a automação tipográfica e a fundamentação epistêmica indispensáveis para a elaboração de trabalhos acadêmicos de alta complexidade:
 
-- ✍️ **[Expressão Oral e Escrita (1º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/expressao-oral-e-escrita)** — *Desenvolvimento da comunicação científica, sobriedade vocabular, coesão textual e estrutura argumentativa.*
-- 📊 **[Gestão de Projetos e Engenharia de Software (5º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/engenharia-de-software)** — *Planejamento, matrizes de análise, gerenciamento de requisitos e especificação formal de sistemas.*
-- 🔬 **[Metodologia Científica e Tecnológica (8º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/metodologia-cientifica-e-tecnologica)** — *Problematização, formulação de hipóteses, revisão sistemática da literatura (PRISMA 2020) e conformidade ABNT NBR 14724.*
-- 🚀 **[Projeto Final de Curso I — PFC 1 (9º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/projeto-final-de-curso-i)** — *Elaboração da proposta de monografia, elementos pré-textuais, referencial teórico e projeto de pesquisa na classe `ifftese.cls`.*
-- 🏆 **[Projeto Final de Curso II — PFC 2 (10º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/10-periodo/projeto-final-de-curso-ii)** — *Defesa final, consolidação do trabalho de conclusão de curso (TCC), apresentações com `slidesiffmodelo.cls` e depósito na biblioteca.*
+- ✍️ **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/expressao-oral-e-escrita|Expressão Oral e Escrita (1º Período)]]** — *Desenvolvimento da comunicação científica, sobriedade vocabular, coesão textual e estrutura argumentativa.*
+- 📊 **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/engenharia-de-software|Gestão de Projetos e Engenharia de Software (5º Período)]]** — *Planejamento, matrizes de análise, gerenciamento de requisitos e especificação formal de sistemas.*
+- 🔬 **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/metodologia-cientifica-e-tecnologica|Metodologia Científica e Tecnológica (8º Período)]]** — *Problematização, formulação de hipóteses, revisão sistemática da literatura (PRISMA 2020) e conformidade ABNT NBR 14724.*
+- 🚀 **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/projeto-final-de-curso-i|Projeto Final de Curso I — PFC 1 (9º Período)]]** — *Elaboração da proposta de monografia, elementos pré-textuais, referencial teórico e projeto de pesquisa na classe `ifftese.cls`.*
+- 🏆 **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/10-periodo/projeto-final-de-curso-ii|Projeto Final de Curso II — PFC 2 (10º Período)]]** — *Defesa final, consolidação do trabalho de conclusão de curso (TCC), apresentações com `slidesiffmodelo.cls` e depósito na biblioteca.*
 
 ---
 
@@ -326,9 +328,9 @@ Navegue diretamente pelas notas de aula e apresentações através do carrossel 
 ## 📚 Material Suplementar e Documentos Oficiais
 
 > [!note] Guia Rápido e Documentos Institucionais
-> - **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)** — *Planejamento analítico das 20 aulas, divisão em 5 módulos didáticos, matriz de competências e referencial normativo ABNT.*
-> - **[📜 Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — *Código de ética científica, política institucional de integridade contra plágio/autoplágio, regimento de uso de IA (LLMs) e boas práticas de laboratório.*
-> - **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — *Referência técnica unificada com documentação canônica das classes `ifftese.cls`, `iffposter.cls`, `relatoriocorp.cls` e pacotes `metadados.sty` e `macros.sty`.*
+> - **[[pt-br/resource/latex/planejamento-e-cronograma|📅 Planejamento Letivo e Cronograma de Atividades]]** — *Planejamento analítico das 20 aulas, divisão em 5 módulos didáticos, matriz de competências e referencial normativo ABNT.*
+> - **[[pt-br/resource/latex/codigo-de-conduta-e-diretrizes|📜 Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas]]** — *Código de ética científica, política institucional de integridade contra plágio/autoplágio, regimento de uso de IA (LLMs) e boas práticas de laboratório.*
+> - **[[pt-br/resource/latex/modelos-de-documento|🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX]]** — *Referência técnica unificada com documentação canônica das classes `ifftese.cls`, `iffposter.cls`, `relatoriocorp.cls` e pacotes `metadados.sty` e `macros.sty`.*
 
 ---
 

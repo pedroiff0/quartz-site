@@ -4,6 +4,8 @@ title: Planilhador
 tags: [NFCe, Planilhas]
 repo: https://github.com/pedroiff0/planilhador
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

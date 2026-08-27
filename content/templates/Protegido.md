@@ -2,11 +2,13 @@
 publish: false
 draft: true
 title: "[NOME DA PÁGINA PROTEGIDA]"
-created: '2026-08-08'
+created: 2026-08-08
 modified: '2026-08-08'
 password: "SUA_SENHA_AQUI"
 tags:
   - protegido
+cssclasses:
+  - page-layout
 ---
 
 # 🔒 [NOME DA PÁGINA PROTEGIDA]

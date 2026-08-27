@@ -9,6 +9,8 @@ tags:
   - artificial-satellites
   - image-processing
   - undergraduate-research
+cssclasses:
+  - page-layout
 ---
 
 # 🛰️ Simulating the Impact of Satellites on Astronomical Observations
@@ -55,7 +57,7 @@ The project was planned in 5 phases: (1) systematic review of the problem and ex
 - Milazzo et al. (2021) — _The Growing Digital Divide and its Negative Impacts on NASA's Future Workforce_, BAAS 53, 436
 - Rawls et al. (2020) — _Satellite Constellation Internet Affordability and Need_, RNAAS 4, 189
 - Venkatesan et al. (2020) — _The Impact of Satellite Constellations on Space as an Ancestral Global Commons_, Nature Astronomy 4, 1043
-- [FEBIC 2024](/pt-br/media/2024/febic-2024) — coverage of the presentation and 3rd place (Portuguese only)
-- [MCTIA 2025](/pt-br/media/2025/mctia-2025) — coverage of the presentation and 1st place (Portuguese only)
-- [Understanding Dark Matter through Extragalactic Shocks](/en/research/dark-matter-shocks) — earlier project, same advisor
-- [Anomaly Detection in Gaia Data](/en/research/anomaly-detection) — another project focused on machine learning applied to astronomical data
+- [[pt-br/media/2024/febic-2024|FEBIC 2024]] — coverage of the presentation and 3rd place (Portuguese only)
+- [[pt-br/media/2025/mctia-2025|MCTIA 2025]] — coverage of the presentation and 1st place (Portuguese only)
+- [[en/research/dark-matter-shocks|Understanding Dark Matter through Extragalactic Shocks]] — earlier project, same advisor
+- [[en/research/anomaly-detection|Anomaly Detection in Gaia Data]] — another project focused on machine learning applied to astronomical data

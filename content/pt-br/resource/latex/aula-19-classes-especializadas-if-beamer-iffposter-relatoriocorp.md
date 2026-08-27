@@ -1,7 +1,7 @@
 ---
 title: "Aula 19: Classes Especializadas (Beamer, Poster e Relatório)"
-created: '2026-08-04'
-modified: '2026-08-04'
+created: 2026-08-04
+modified: 2026-08-27
 publish: true
 notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-19.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-19-branco.pdf)"
@@ -10,6 +10,8 @@ tags:
   - escrita-academica
   - abnt
   - ifftese
+cssclasses:
+  - page-layout
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
@@ -64,8 +66,8 @@ flowchart TD
 
 Esta aula conecta-se transversalmente aos seguintes tópicos da formação em LaTeX & Escrita Acadêmica:
 
-- 🔗 **[Aula 17: Engenharia de Classes .cls - Anatomia da ifftese e abntex2](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls)**
-- 🔗 **[Aula 20: Automação LaTeX, Git e Integração Contínua CI/CD](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua)**
+- 🔗 **[[pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls|Aula 17: Engenharia de Classes .cls - Anatomia da ifftese e abntex2]]**
+- 🔗 **[[pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua|Aula 20: Automação LaTeX, Git e Integração Contínua CI/CD]]**
 
 ## 📚 Referências Bibliográficas
 

@@ -3,6 +3,8 @@ publish: false
 title: Arquivo de Apostilas
 tags: [Material Didático, Engenharia de Computação, Autoral]
 status: planejamento
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

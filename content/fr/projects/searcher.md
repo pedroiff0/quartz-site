@@ -3,6 +3,8 @@ publish: false
 title: arXiv Searcher
 tags: [Automação, Pesquisa, Daemon, BibTeX]
 status: planejamento
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

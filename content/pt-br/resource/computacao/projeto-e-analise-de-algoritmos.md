@@ -2,11 +2,13 @@
 publish: false
 title: Projeto e Análise de Algoritmos
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.975-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
@@ -75,4 +77,4 @@ O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topoló
 
 ## Conexão com as disciplinas do curso
 
-- [Projeto e Análise de Algoritmos](/pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos) — a disciplina do 5º período que cobre exatamente esta trilha; chegue nela com as estruturas de dados frescas na cabeça.
+- [[pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos|Projeto e Análise de Algoritmos]] — a disciplina do 5º período que cobre exatamente esta trilha; chegue nela com as estruturas de dados frescas na cabeça.

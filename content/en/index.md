@@ -1,9 +1,11 @@
 ---
 publish: true
 title: About Me
-created: 2026-07-18T14:25:13.277-03:00
+created: 2026-07-18
 modified: 2026-07-26T12:36:37.259-03:00
 published: 2026-07-26T12:36:37.259-03:00
+cssclasses:
+  - page-layout
 ---
 
 > [!info] Welcome!
@@ -29,7 +31,7 @@ If you'd like to get in touch, send an email!
 - 🎓 [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
 - 💻 [GitHub](https://github.com/pedroiff0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
-- 📸 [Instagram](https://instagram.com/fckpeeh)
+- 📸 [Instagram](https://instagram.com/ra.pedroh)
 - 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
 - ✉️ [Email](mailto:pedroiff0@gmail.com)
 
@@ -150,8 +152,8 @@ To navigate my work, explore the sections of this site:
 
 The links below are currently available only in Portuguese:
 
-- [Research](/pt-br/research/) — Learn about my current projects and publications.
-- [Resources](/pt-br/resource/) — Materials, scripts, and useful tools I've developed or use.
-- [Media](/pt-br/media/) — Participations in events, fairs, and presentations.
+- [[pt-br/research/|Research]] — Learn about my current projects and publications.
+- [[pt-br/resource/|Resources]] — Materials, scripts, and useful tools I've developed or use.
+- [[pt-br/media/|Media]] — Participations in events, fairs, and presentations.
 
 This site is written in two languages: all content is first written in **Portuguese (Brazil)** and translated to English as time allows — so not every page has an English version yet. If you noticed something missing or outdated in translation, feel free to open an [issue in the repository](https://github.com/pedroiff0/quartz-site/issues), or [click here to open one pre-filled from the translation template](https://github.com/pedroiff0/quartz-site/issues/new?template=traducao.yml).

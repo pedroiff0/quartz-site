@@ -4,6 +4,8 @@ title: Portfólio (este site)
 tags: [Portfólio, Página Única, Multilíngue, Sem Framework]
 repo: https://github.com/pedroiff0/portfolio
 status: público
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

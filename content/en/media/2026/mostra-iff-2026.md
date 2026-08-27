@@ -1,11 +1,13 @@
 ---
 publish: false
 title: Mostra do Conhecimento - 2026
-created: 2026-07-18T13:50:21.240-03:00
+created: 2026-07-18
 modified: 2026-07-26T10:40:28.909-03:00
 published: 2026-07-26T10:40:28.909-03:00
 photoFolder: mostra2026
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🏫 Knowledge Show - 2026
@@ -36,8 +38,8 @@ type: blog
 
 ## 🔗 References and correlations
 
-- [Gaia Data Anomalies Detection](/en/research/anomaly-detection)— full search behind the poster
-- [SAB 2025](/en/media/2025/sab-2025)— previous version of the same poster
+- [[en/research/anomaly-detection|Gaia Data Anomalies Detection]]— full search behind the poster
+- [[en/media/2025/sab-2025|SAB 2025]]— previous version of the same poster
 
 > [!abstract] Automatic translation notice
 > This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

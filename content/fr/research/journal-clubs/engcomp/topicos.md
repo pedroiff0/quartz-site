@@ -7,6 +7,8 @@ published: 2026-08-01T16:22:00.830-03:00
 tags:
   - journal-club
   - engcomp
+cssclasses:
+  - page-layout
 ---
 
 > [!note] Résumé
@@ -65,9 +67,9 @@ tags:
 
 ## 🔗 Références et corrections
 
-- [ENGCOMP - articles déjà discutés](/fr/research/journal-clubs/engcomp)
-- [Tableau de bord du club](/fr/research/journal-clubs/engcomp/dashboard)
-- [Clubs de Journal - aperçu](/fr/research/journal-clubs)
+- [[fr/research/journal-clubs/engcomp|ENGCOMP - articles déjà discutés]]
+- [[fr/research/journal-clubs/engcomp/dashboard|Tableau de bord du club]]
+- [[fr/research/journal-clubs|Clubs de Journal - aperçu]]
 - [Taxonomie complète des catégories arXiv](https://arxiv.org/category_taxonomy)- la liste officielle, si vous voulez proposer un nouvel axe.
 
 > [!abstract] Avis de traduction automatique

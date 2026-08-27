@@ -4,6 +4,8 @@ title: "Journal Clubs"
 created: 2026-07-26
 modified: 2026-07-26
 published: 2026-08-01T16:28:51.169-03:00
+cssclasses:
+  - page-layout
 ---
 
 > [!note] Summary
@@ -13,15 +15,15 @@ published: 2026-08-01T16:28:51.169-03:00
 
 ## Groups
 
-- **[MWBR](/en/research/journal-clubs/mwbr)** — Milky Way research group, galactic archaeology and stellar populations.
-- **[ENGCOMP](/en/research/journal-clubs/engcomp)** — Computer Engineering journal club.
+- **[[en/research/journal-clubs/mwbr|MWBR]]** — Milky Way research group, galactic archaeology and stellar populations.
+- **[[en/research/journal-clubs/engcomp|ENGCOMP]]** — Computer Engineering journal club.
 
  Each of these pages mounts its own list of articles from the frontmatter of the notes in the folder, via [Obsidian Bases](https://help.obsidian.md/bases)— there is no handwritten list to keep up to date.
 
 ## Default of each entry
 
 > [!example] Article Note Template
-> Every article note discussed follows the same structure. These fields alone feed the table of the group page and the [dashboard](/en/research/journal-clubs/engcomp/dashboard)— just create the note in the right folder ('mwbr/' or 'engcomp/') and it appears in the next build.
+> Every article note discussed follows the same structure. These fields alone feed the table of the group page and the [[en/research/journal-clubs/engcomp/dashboard]]— just create the note in the right folder ('mwbr/' or 'engcomp/') and it appears in the next build.
 >
 > The 'arxiv' field is mandatory: it distinguishes an article note from the support pages of the folder (index, topics, dashboard). And the name of the date field is ‘discussed’, without hyphen — hyphened property breaks the base expression engine.
 >
@@ -58,7 +60,7 @@ published: 2026-08-01T16:28:51.169-03:00
 
 ## 🔗 References and correlations
 
-- [Research — Overview](/en/research)
+- [[en/research|Research — Overview]]
 
 > [!abstract] Automatic translation notice
 > This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

@@ -7,6 +7,8 @@ published: 2026-07-25T23:58:08.057-03:00
 tags:
   - artigo
   - pesquisa
+cssclasses:
+  - page-layout
 ---
 
 > [!note] En resumen
@@ -20,7 +22,7 @@ tags:
 
  En la parte no supervisada, los autores testan un autoencoder para reducir la dimensionalidad de los espectros a un mapa 2D — el resultado no separa las clases de forma útil. Cambian a t-SNE, que revela una estructura rica: aglomerados que corresponden, sin ninguna etiqueta previa, a binarias, gigantes pobres en metales, estrellas calientes de rotación rápida y bandas moleculares. El algoritmo de clúster DBSCAN aisla cada grupo automáticamente desde el mapa. Comparando esta detección no supervisada con el método clásico (función de correlación cruzada, CCF), muestran que los dos son complementarios, cada uno encuentra binarias que el otro pierde.
 
- En la parte generativa (supervisionada), usan The Cannon y The Payne para construir, a partir de etiquetas conocidas (temperatura, gravedad, metalicidad), un modelo data-driven del espectro de una estrella soltera; sumando dos de esos espectros-modelo, generan una plantilla de binaria y lo ajustan a los datos observados — lo que permite identificar hasta binarias espectroscopicamente no resueltas, cuya velocidad orbital no separa las líneas. La conclusión central del artículo, y tal vez la más importante para quien está aprendiendo ML: intervención humana sigue siendo indispensable, porque efectos instrumentales y de reducción de datos pueden imitar la firma de una binaria y engañar el algoritmo. Es la base metodológica del proyecto de detección de anomalías de este sitio web (aprendizado de patrones en datos estelares) y también un buen material introductorio de ML aplicado, referenciado en la página de [Machine Learning](/pt-br/resource/computacao/machine-learning).
+ En la parte generativa (supervisionada), usan The Cannon y The Payne para construir, a partir de etiquetas conocidas (temperatura, gravedad, metalicidad), un modelo data-driven del espectro de una estrella soltera; sumando dos de esos espectros-modelo, generan una plantilla de binaria y lo ajustan a los datos observados — lo que permite identificar hasta binarias espectroscopicamente no resueltas, cuya velocidad orbital no separa las líneas. La conclusión central del artículo, y tal vez la más importante para quien está aprendiendo ML: intervención humana sigue siendo indispensable, porque efectos instrumentales y de reducción de datos pueden imitar la firma de una binaria y engañar el algoritmo. Es la base metodológica del proyecto de detección de anomalías de este sitio web (aprendizado de patrones en datos estelares) y también un buen material introductorio de ML aplicado, referenciado en la página de [[pt-br/resource/computacao/machine-learning|Machine Learning]].
 
  [Véase el artículo original](https://ui.adsabs.harvard.edu/abs/2019MmSAI..90..327T)
 

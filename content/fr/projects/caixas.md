@@ -4,6 +4,8 @@ title: Caixas
 tags: [Controle de Caixa, Relatórios]
 repo: https://github.com/pedroiff0/caixas
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

@@ -4,6 +4,8 @@ title: meu-setup
 tags: [Dotfiles, Provisionamento, Multi-distro, Open Source, Idempotente]
 repo: https://github.com/pedroiff0/meu-setup
 status: público
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

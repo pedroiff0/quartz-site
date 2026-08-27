@@ -2,7 +2,7 @@
 publish: false
 title: Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.987-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -64,7 +64,7 @@ Fechando o curso, a aula revisita a própria **definição formal de galáxia sa
 ## 🔗 Referências e correlatos
 
 - Simon (2019) — revisão sobre a definição e propriedades de galáxias anãs satélites, ARA\&A 57, 375
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](/pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — os processos nucleossintéticos cuja assinatura individual as UFDs preservam melhor que qualquer outro ambiente
-- [Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites](/pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade) — pré-requisito direto: o mesmo formalismo de MDF, aqui levado ao regime mais extremo (UFDs) do espectro de galáxias satélites
-- [Escola de Inverno — Aglomerados, Aula 03](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula03) — o problema núcleo-cúspide e outras tensões do $\Lambda$CDM em pequena escala, testáveis também via UFDs
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico]] — os processos nucleossintéticos cuja assinatura individual as UFDs preservam melhor que qualquer outro ambiente
+- [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites]] — pré-requisito direto: o mesmo formalismo de MDF, aqui levado ao regime mais extremo (UFDs) do espectro de galáxias satélites
+- [[pt-br/resource/escolainverno/aglomerados/aglomerados-aula03|Escola de Inverno — Aglomerados, Aula 03]] — o problema núcleo-cúspide e outras tensões do $\Lambda$CDM em pequena escala, testáveis também via UFDs

@@ -1,11 +1,13 @@
 ---
 publish: true
 title: "CONFICT - 2026"
-created: 2026-07-18T13:50:21.240-03:00
+created: 2026-07-18
 modified: 2026-07-31T22:59:58.715-03:00
 published: 2026-07-31T22:59:58.715-03:00
 photoFolder: confict2026
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🔬 CONFICT - 2026
@@ -32,8 +34,8 @@ type: blog
 
 ## 🔗 Referencias y correcciones
 
-- [Detección de Anomalías en Datos de Gaia](/es/research/anomaly-detection)— investigación completa detrás del póster
-- [SAB 2025](/es/media/2025/sab-2025)— versión anterior del mismo póster
+- [[es/research/anomaly-detection|Detección de Anomalías en Datos de Gaia]]— investigación completa detrás del póster
+- [[es/media/2025/sab-2025|SAB 2025]]— versión anterior del mismo póster
 
 > [!abstract] Aviso de traducción automática
 > Esta página fue traducida automáticamente del portugués utilizando el traductor automático basado en LibreTranslate implementado en `tools/translate_quartz.py` (que preserva wikilinks, embeds y nombres propios mediante división posicional). Es traducción automática y puede contener imprecisiones — la versión original en portugués es la fuente autoritativa.

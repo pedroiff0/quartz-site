@@ -2,7 +2,7 @@
 publish: false
 title: Aula 05 — Avermelhamento, Extinção e IMF
 created: 2026-07-23
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -36,7 +36,7 @@ professor: Hélio Dotto Perottoni
 
 Gás e poeira ocupam o espaço entre as estrelas: **~99%** da massa do ISM está em forma de gás (HI neutro, HII ionizado, H₂ molecular), e **~1%** em poeira. Da massa de gás, cerca de 70% é hidrogênio, 29% hélio e 1% metais. A distribuição do ISM **não é homogênea** ao longo do disco galáctico.
 
-A massa total de gás + poeira representa apenas 10–20% da massa em estrelas da Galáxia. Estimativas de ordem de grandeza para a Via Láctea: massa total $1$–$1{,}5\times10^{12}\,M_\odot$; massa estelar $\sim5\times10^{10}\,M_\odot$; massa em gás $\sim1\times10^{10}\,M_\odot$ — o restante é matéria escura, cuja distribuição não é diretamente observável (ver [Entendendo a Matéria Escura a partir de Choques Extragalácticos](/pt-br/research/dark-matter-shocks) para um método alternativo de mapeá-la).
+A massa total de gás + poeira representa apenas 10–20% da massa em estrelas da Galáxia. Estimativas de ordem de grandeza para a Via Láctea: massa total $1$–$1{,}5\times10^{12}\,M_\odot$; massa estelar $\sim5\times10^{10}\,M_\odot$; massa em gás $\sim1\times10^{10}\,M_\odot$ — o restante é matéria escura, cuja distribuição não é diretamente observável (ver [[pt-br/research/dark-matter-shocks|Entendendo a Matéria Escura a partir de Choques Extragalácticos]] para um método alternativo de mapeá-la).
 
 ### Poeira interestelar
 
@@ -102,7 +102,7 @@ A **função de massa inicial** (ver Aula 02) descreve a probabilidade de forma�
 - Cardelli, Clayton & Mathis (1989) — lei de extinção universal parametrizada por $R_V$
 - Schlegel, Finkbeiner & Davis (1998) — mapas de extinção de referência
 - Offner et al. (2014) — revisão da IMF
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 02 — Diagrama HR e Aglomerados Estelares](/pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — IMF introduzida pela primeira vez
-- [Aula 06 — Diagrama HR e Relação Massa-Luminosidade](/pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade)
-- [Entendendo a Matéria Escura a partir de Choques Extragalácticos](/pt-br/research/dark-matter-shocks) — outro método (dinâmico) de mapear massa não-luminosa, em escala extragaláctica
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]] — IMF introduzida pela primeira vez
+- [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|Aula 06 — Diagrama HR e Relação Massa-Luminosidade]]
+- [[pt-br/research/dark-matter-shocks|Entendendo a Matéria Escura a partir de Choques Extragalácticos]] — outro método (dinâmico) de mapear massa não-luminosa, em escala extragaláctica

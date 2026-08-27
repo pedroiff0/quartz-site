@@ -1,9 +1,11 @@
 ---
 publish: true
 title: Sobre Mí
-created: 2026-07-18T14:50:18.601-03:00
+created: 2026-07-18
 modified: 2026-07-23
 published: 2026-07-26T12:36:37.259-03:00
+cssclasses:
+  - page-layout
 ---
 
 > [!info] ¡Bienvenido(a)!
@@ -29,7 +31,7 @@ Si quieres ponerte en contacto, ¡envíame un correo!
 - 🎓 [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
 - 💻 [GitHub](https://github.com/pedroiff0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
-- 📸 [Instagram](https://instagram.com/fckpeeh)
+- 📸 [Instagram](https://instagram.com/ra.pedroh)
 - 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
 - ✉️ [Correo](mailto:pedroiff0@gmail.com)
 
@@ -128,7 +130,7 @@ A continuación mi CV en el idioma de esta página y el repositorio (LaTeX multi
 ### 3️⃣ Tercer paso: Explorar el contenido
 
 > [!warning] Versión en español todavía en preparación
-> El resto del contenido de este sitio aún no está traducido al español — está disponible en [portugués](/pt-br/) (idioma original) y, parcialmente, en [inglés](/en/).
+> El resto del contenido de este sitio aún no está traducido al español — está disponible en [[pt-br/|portugués]] (idioma original) y, parcialmente, en [[en/|inglés]].
 
 Para navegar mi trabajo, explora las secciones del sitio (en portugués/inglés):
 
@@ -153,8 +155,8 @@ Para navegar mi trabajo, explora las secciones del sitio (en portugués/inglés)
 
 Los enlaces que aparecen a continuación solo están disponibles actualmente en portugués.
 
-- [Investigación](/pt-br/research/) — Conoce mis proyectos actuales y publicaciones.
-- [Recursos](/pt-br/resource/) — Materiales, scripts y herramientas útiles que he desarrollado o utilizo.
-- [Medios](/pt-br/media/) — Participaciones en eventos, ferias y presentaciones.
+- [[pt-br/research/|Investigación]] — Conoce mis proyectos actuales y publicaciones.
+- [[pt-br/resource/|Recursos]] — Materiales, scripts y herramientas útiles que he desarrollado o utilizo.
+- [[pt-br/media/|Medios]] — Participaciones en eventos, ferias y presentaciones.
 
 Este sitio se escribe primero en **portugués (Brasil)** y se traduce al inglés a medida que el tiempo lo permite — el español es el idioma más reciente en incorporarse, así que todavía queda mucho por traducir. Si notaste algo que falta o está desactualizado, puedes abrir un [issue en el repositorio](https://github.com/pedroiff0/quartz-site/issues), o [hacer clic aquí para abrir uno ya completado desde la plantilla de traducción](https://github.com/pedroiff0/quartz-site/issues/new?template=traducao.yml).

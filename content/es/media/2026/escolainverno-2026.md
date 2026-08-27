@@ -1,11 +1,13 @@
 ---
 publish: true
 title: "Escuela de invierno ON - 2026"
-created: 2026-07-18T13:50:21.240-03:00
+created: 2026-07-18
 modified: 2026-07-26T10:16:40.175-03:00
 published: 2026-07-26T10:16:40.175-03:00
 photoFolder: escolainverno2026
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # ❄️ Escuela de invierno ON - 2026
@@ -19,7 +21,7 @@ type: blog
 
 ## 👋 Mi participación
 
- Si has llegado aquí escaneando el QR code de mi póster, ¡es bienvenido(a)! El póster presentado en esta escuela es una actualización de lo que llevé a la SAB 2025, en Caxambu (MG) — con el mapeo no supervisado vía t-SNE y las proyecciones más recientes. Vea el texto completo de preparación de la presentación en [Presentación de búsqueda](/pt-br/resource/escolainverno/apresentacao), y el estado actual de la investigación en [Detección de Anomalías en Datos de Gaia](/es/research/anomaly-detection).
+ Si has llegado aquí escaneando el QR code de mi póster, ¡es bienvenido(a)! El póster presentado en esta escuela es una actualización de lo que llevé a la SAB 2025, en Caxambu (MG) — con el mapeo no supervisado vía t-SNE y las proyecciones más recientes. Vea el texto completo de preparación de la presentación en [[pt-br/resource/escolainverno/apresentacao|Presentación de búsqueda]], y el estado actual de la investigación en [[es/research/anomaly-detection|Detección de Anomalías en Datos de Gaia]].
 
 > [!note] Opinión
 > ¡Mi segundo congreso de Astronomía en menos de un año! Fue una oportunidad muy legal e importante, el contacto con las diferentes áreas de investigación mostró las muchas posibilidades de seguir investigación, el networking con los profesores/investigadores de mi área de investigación también enriqueció bastante el progreso de mi trabajo en colaboración con los profesores [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja) y [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com)
@@ -32,13 +34,13 @@ type: blog
 > [!note] Banners presentados:
 > Versión predeterminada:![[assets/banners/BannerEscolaInverno26.pdf]]
 
- Más detalles de la investigación se pueden encontrar en [Detección de Anomalías en Datos de Gaia](/es/research/anomaly-detection); una versión más actualizada se presentará también en [SAB 2026](/es/media/2026/sab-2026), que ocurrirá en Navidad (RN) de los días 25 al 30 de octubre de 2026.
+ Más detalles de la investigación se pueden encontrar en [[es/research/anomaly-detection|Detección de Anomalías en Datos de Gaia]]; una versión más actualizada se presentará también en [[es/media/2026/sab-2026|SAB 2026]], que ocurrirá en Navidad (RN) de los días 25 al 30 de octubre de 2026.
 
 ## 🔗 Referencias y correcciones
 
-- 📓 Notas de clases completas, por minicurso:[Escuela de invierno (ON 2026)](/pt-br/resource/escolainverno)
-- [Detección de Anomalías en Datos de Gaia](/es/research/anomaly-detection)— investigación completa detrás del póster
-- [SAB 2025](/es/media/2025/sab-2025)— versión anterior del mismo póster
+- 📓 Notas de clases completas, por minicurso:[[pt-br/resource/escolainverno|Escuela de invierno (ON 2026)]]
+- [[es/research/anomaly-detection|Detección de Anomalías en Datos de Gaia]]— investigación completa detrás del póster
+- [[es/media/2025/sab-2025|SAB 2025]]— versión anterior del mismo póster
 
 > [!abstract] Aviso de traducción automática
 > Esta página fue traducida automáticamente del portugués utilizando el traductor automático basado en LibreTranslate implementado en `tools/translate_quartz.py` (que preserva wikilinks, embeds y nombres propios mediante división posicional). Es traducción automática y puede contener imprecisiones — la versión original en portugués es la fuente autoritativa.

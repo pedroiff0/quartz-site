@@ -4,6 +4,8 @@ title: LevantamentoEstoque
 tags: [Estoque, Compras]
 repo: https://github.com/pedroiff0/levantamento-estoque
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

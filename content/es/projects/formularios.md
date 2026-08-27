@@ -4,6 +4,8 @@ title: Formulários
 tags: [Resumos, Fórmulas]
 repo: https://github.com/pedroiff0/formularios
 status: público
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

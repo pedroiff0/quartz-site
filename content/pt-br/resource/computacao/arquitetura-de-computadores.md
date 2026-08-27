@@ -2,11 +2,13 @@
 publish: false
 title: Arquitetura de Computadores
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.979-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
@@ -76,7 +78,7 @@ O que dominar: superescalar, multicore, coerência de cache em alto nível; e do
 
 ## Conexão com as disciplinas do curso
 
-- [Organização de Computadores](/pt-br/resource/engenharia-de-computação/7-periodo/organizacao-de-computadores) — etapas 1 e 2 da trilha: componentes, ciclo de instrução, ISA.
-- [Arquitetura de Computadores](/pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores) — etapa 3: pipeline, cache, memória e desempenho.
-- [Microcontroladores](/pt-br/resource/engenharia-de-computação/8-periodo/microcontroladores) — a etapa 4 aplicada: programação direto no hardware.
-- [Sistemas Embarcados](/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-embarcados) — integração de tudo: hardware, firmware e restrições de tempo real.
+- [[pt-br/resource/engenharia-de-computação/7-periodo/organizacao-de-computadores|Organização de Computadores]] — etapas 1 e 2 da trilha: componentes, ciclo de instrução, ISA.
+- [[pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores|Arquitetura de Computadores]] — etapa 3: pipeline, cache, memória e desempenho.
+- [[pt-br/resource/engenharia-de-computação/8-periodo/microcontroladores|Microcontroladores]] — a etapa 4 aplicada: programação direto no hardware.
+- [[pt-br/resource/engenharia-de-computação/9-periodo/sistemas-embarcados|Sistemas Embarcados]] — integração de tudo: hardware, firmware e restrições de tempo real.

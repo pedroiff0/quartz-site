@@ -1,9 +1,11 @@
 ---
 publish: true
 title: À propos de moi
-created: 2026-07-18T14:50:18.601-03:00
+created: 2026-07-18
 modified: 2026-07-23
 published: 2026-07-26T12:36:37.259-03:00
+cssclasses:
+  - page-layout
 ---
 
 > [!info] Bienvenue !
@@ -29,7 +31,7 @@ Si vous souhaitez me contacter, envoyez-moi un e-mail !
 - 🎓 [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
 - 💻 [GitHub](https://github.com/pedroiff0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
-- 📸 [Instagram](https://instagram.com/fckpeeh)
+- 📸 [Instagram](https://instagram.com/ra.pedroh)
 - 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
 - ✉️ [E-mail](mailto:pedroiff0@gmail.com)
 
@@ -128,7 +130,7 @@ Vous préférez ne pas ouvrir votre client e-mail ? Remplissez les champs ci-des
 ### 3️⃣ Troisième étape : explorer le contenu
 
 > [!warning] Version française encore en préparation
-> Le reste du contenu de ce site n'est pas encore traduit en français — il est disponible en [portugais](/pt-br/) (langue d'origine) et, en partie, en [anglais](/en/).
+> Le reste du contenu de ce site n'est pas encore traduit en français — il est disponible en [[pt-br/|portugais]] (langue d'origine) et, en partie, en [[en/|anglais]].
 
 Pour naviguer dans mon travail, explorez les sections du site (en portugais/anglais) :
 
@@ -153,8 +155,8 @@ Pour naviguer dans mon travail, explorez les sections du site (en portugais/angl
 
 Les liens ci-dessous ne sont actuellement disponibles qu'en portugais:
 
-- [Recherche](/pt-br/research/) — Découvrez mes projets actuels et publications.
-- [Ressources](/pt-br/resource/) — Matériaux, scripts et outils utiles que j'ai développés ou que j'utilise.
-- [Médias](/pt-br/media/) — Participations à des événements, salons et présentations.
+- [[pt-br/research/|Recherche]] — Découvrez mes projets actuels et publications.
+- [[pt-br/resource/|Ressources]] — Matériaux, scripts et outils utiles que j'ai développés ou que j'utilise.
+- [[pt-br/media/|Médias]] — Participations à des événements, salons et présentations.
 
 Ce site est d'abord rédigé en **portugais (Brésil)** puis traduit en anglais au fil du temps — le français est la langue la plus récente à rejoindre le site, il reste donc beaucoup à traduire. Si vous avez remarqué quelque chose de manquant ou d'obsolète, vous pouvez ouvrir une [issue dans le dépôt](https://github.com/pedroiff0/quartz-site/issues), ou [cliquer ici pour en ouvrir une déjà pré-remplie à partir du modèle de traduction](https://github.com/pedroiff0/quartz-site/issues/new?template=traducao.yml).

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.987-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -82,9 +82,9 @@ onde $dM_h/dt$ é a taxa de acréscimo (_infall_) de gás, $\psi(t)$ é a taxa d
 ## 🔗 Referências e correlatos
 
 - Kirby (2013) — MDFs de galáxias anãs via espectroscopia
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](/pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — a origem física dos elementos cuja distribuição a MDF resume estatisticamente
-- [Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos](/pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos) — completeza e efeitos de seleção, aqui aplicados diretamente ao problema da MDF
-- [Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade](/pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr) — a mesma lógica de evolução química (infall, enriquecimento) aplicada à Via Láctea em vez de galáxias anãs satélites
-- [Escola de Inverno — Arqueologia Galáctica, Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — populações I/II/III como o caso extremo de uma MDF dominada por um único evento de enriquecimento primordial
-- [Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica](/pt-br/resource/curso-on/aula-22-galaxias-anas-ultrafracas) — aula de encerramento do curso: o mesmo problema de MDF levado ao regime mais extremo de massa estelar
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico]] — a origem física dos elementos cuja distribuição a MDF resume estatisticamente
+- [[pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos|Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos]] — completeza e efeitos de seleção, aqui aplicados diretamente ao problema da MDF
+- [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade]] — a mesma lógica de evolução química (infall, enriquecimento) aplicada à Via Láctea em vez de galáxias anãs satélites
+- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — populações I/II/III como o caso extremo de uma MDF dominada por um único evento de enriquecimento primordial
+- [[pt-br/resource/curso-on/aula-22-galaxias-anas-ultrafracas|Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica]] — aula de encerramento do curso: o mesmo problema de MDF levado ao regime mais extremo de massa estelar

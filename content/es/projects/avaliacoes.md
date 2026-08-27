@@ -4,6 +4,8 @@ title: Sistema de Avaliações
 tags: [EdTech, LaTeX, Provas, Multi-variantes]
 repo: https://github.com/pedroiff0/avaliacoes
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

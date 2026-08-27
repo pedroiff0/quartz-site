@@ -1,155 +1,157 @@
 ---
 publish: false
 title: "trancas"
+cssclasses:
+  - page-layout
 ---
 
 # Dependências (Trancas)
 
 Para cada disciplina que tranca outras, mostra o que ela bloqueia (dependentes).
 
-- **[1 - Fundamentos da Computação (CSECBJI.1)](01%20-%20Periodo/01%20-%20Fundamentos%20da%20Computa%C3%A7%C3%A3o/Ementa%20-%20Fundamentos%20da%20Computa%C3%A7%C3%A3o.md)** tranca as seguintes disciplinas:
-  - [52 - Organização de Computadores (CSECBJI.52)](07%20-%20Periodo/52%20-%20Organiza%C3%A7%C3%A3o%20de%20Computadores/Ementa%20-%20Organiza%C3%A7%C3%A3o%20de%20Computadores.md)
-  - [56 - Sistemas Operacionais I (CSECBJI.56)](07%20-%20Periodo/56%20-%20Sistemas%20Operacionais%20I/Ementa%20-%20Sistemas%20Operacionais%20I.md)
+- **[[01%20-%20Periodo/01%20-%20Fundamentos%20da%20Computa%C3%A7%C3%A3o/Ementa%20-%20Fundamentos%20da%20Computa%C3%A7%C3%A3o|1 - Fundamentos da Computação (CSECBJI.1)]]** tranca as seguintes disciplinas:
+  - [[07%20-%20Periodo/52%20-%20Organiza%C3%A7%C3%A3o%20de%20Computadores/Ementa%20-%20Organiza%C3%A7%C3%A3o%20de%20Computadores|52 - Organização de Computadores (CSECBJI.52)]]
+  - [[07%20-%20Periodo/56%20-%20Sistemas%20Operacionais%20I/Ementa%20-%20Sistemas%20Operacionais%20I|56 - Sistemas Operacionais I (CSECBJI.56)]]
 
-- **[3 - Lógica para Computação (CSECBJI.3)](01%20-%20Periodo/03%20-%20L%C3%B3gica%20para%20Computa%C3%A7%C3%A3o/Ementa%20-%20L%C3%B3gica%20para%20Computa%C3%A7%C3%A3o.md)** tranca as seguintes disciplinas:
-  - [14 - Matemática Discreta (CSECBJI.14)](02%20-%20Periodo/14%20-%20Matem%C3%A1tica%20Discreta/Ementa%20-%20Matem%C3%A1tica%20Discreta.md)
-  - [35 - Modelagem de Dados (CSECBJI.35)](05%20-%20Periodo/35%20-%20Modelagem%20de%20Dados/Ementa%20-%20Modelagem%20de%20Dados.md)
-  - [46 - Eletrônica Digital (CSECBJI.46)](06%20-%20Periodo/46%20-%20Eletr%C3%B4nica%20Digital/Ementa%20-%20Eletr%C3%B4nica%20Digital.md)
+- **[[01%20-%20Periodo/03%20-%20L%C3%B3gica%20para%20Computa%C3%A7%C3%A3o/Ementa%20-%20L%C3%B3gica%20para%20Computa%C3%A7%C3%A3o|3 - Lógica para Computação (CSECBJI.3)]]** tranca as seguintes disciplinas:
+  - [[02%20-%20Periodo/14%20-%20Matem%C3%A1tica%20Discreta/Ementa%20-%20Matem%C3%A1tica%20Discreta|14 - Matemática Discreta (CSECBJI.14)]]
+  - [[05%20-%20Periodo/35%20-%20Modelagem%20de%20Dados/Ementa%20-%20Modelagem%20de%20Dados|35 - Modelagem de Dados (CSECBJI.35)]]
+  - [[06%20-%20Periodo/46%20-%20Eletr%C3%B4nica%20Digital/Ementa%20-%20Eletr%C3%B4nica%20Digital|46 - Eletrônica Digital (CSECBJI.46)]]
 
-- **[4 - Cálculo I (CSECBJI.4)](01%20-%20Periodo/04%20-%20C%C3%A1lculo%20I/Ementa%20-%20C%C3%A1lculo%20I.md)** tranca as seguintes disciplinas:
-  - [9 - Cálculo II (CSECBJI.9)](02%20-%20Periodo/09%20-%20C%C3%A1lculo%20II/Ementa%20-%20C%C3%A1lculo%20II.md)
-  - [11 - Física I (CSECBJI.11)](02%20-%20Periodo/11%20-%20F%C3%ADsica%20I/Ementa%20-%20F%C3%ADsica%20I.md)
-  - [18 - Equações Diferenciais (CSECBJI.18)](03%20-%20Periodo/18%20-%20Equa%C3%A7%C3%B5es%20Diferenciais/Ementa%20-%20Equa%C3%A7%C3%B5es%20Diferenciais.md)
-  - [28 - Fenômenos de Transporte (CSECBJI.28)](04%20-%20Periodo/28%20-%20Fen%C3%B4menos%20de%20Transporte/Ementa%20-%20Fen%C3%B4menos%20de%20Transporte.md)
+- **[[01%20-%20Periodo/04%20-%20C%C3%A1lculo%20I/Ementa%20-%20C%C3%A1lculo%20I|4 - Cálculo I (CSECBJI.4)]]** tranca as seguintes disciplinas:
+  - [[02%20-%20Periodo/09%20-%20C%C3%A1lculo%20II/Ementa%20-%20C%C3%A1lculo%20II|9 - Cálculo II (CSECBJI.9)]]
+  - [[02%20-%20Periodo/11%20-%20F%C3%ADsica%20I/Ementa%20-%20F%C3%ADsica%20I|11 - Física I (CSECBJI.11)]]
+  - [[03%20-%20Periodo/18%20-%20Equa%C3%A7%C3%B5es%20Diferenciais/Ementa%20-%20Equa%C3%A7%C3%B5es%20Diferenciais|18 - Equações Diferenciais (CSECBJI.18)]]
+  - [[04%20-%20Periodo/28%20-%20Fen%C3%B4menos%20de%20Transporte/Ementa%20-%20Fen%C3%B4menos%20de%20Transporte|28 - Fenômenos de Transporte (CSECBJI.28)]]
 
-- **[5 - Álgebra Linear e Geometria Analítica I (CSECBJI.5)](01%20-%20Periodo/05%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20I/Ementa%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20I.md)** tranca as seguintes disciplinas:
-  - [10 - Álgebra Linear e Geometria Analítica II (CSECBJI.10)](02%20-%20Periodo/10%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20II/Ementa%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20II.md)
-  - [11 - Física I (CSECBJI.11)](02%20-%20Periodo/11%20-%20F%C3%ADsica%20I/Ementa%20-%20F%C3%ADsica%20I.md)
-  - [18 - Equações Diferenciais (CSECBJI.18)](03%20-%20Periodo/18%20-%20Equa%C3%A7%C3%B5es%20Diferenciais/Ementa%20-%20Equa%C3%A7%C3%B5es%20Diferenciais.md)
+- **[[01%20-%20Periodo/05%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20I/Ementa%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20I|5 - Álgebra Linear e Geometria Analítica I (CSECBJI.5)]]** tranca as seguintes disciplinas:
+  - [[02%20-%20Periodo/10%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20II/Ementa%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20II|10 - Álgebra Linear e Geometria Analítica II (CSECBJI.10)]]
+  - [[02%20-%20Periodo/11%20-%20F%C3%ADsica%20I/Ementa%20-%20F%C3%ADsica%20I|11 - Física I (CSECBJI.11)]]
+  - [[03%20-%20Periodo/18%20-%20Equa%C3%A7%C3%B5es%20Diferenciais/Ementa%20-%20Equa%C3%A7%C3%B5es%20Diferenciais|18 - Equações Diferenciais (CSECBJI.18)]]
 
-- **[9 - Cálculo II (CSECBJI.9)](02%20-%20Periodo/09%20-%20C%C3%A1lculo%20II/Ementa%20-%20C%C3%A1lculo%20II.md)** tranca as seguintes disciplinas:
-  - [17 - Cálculo III (CSECBJI.17)](03%20-%20Periodo/17%20-%20C%C3%A1lculo%20III/Ementa%20-%20C%C3%A1lculo%20III.md)
-  - [19 - Física II (CSECBJI.19)](03%20-%20Periodo/19%20-%20F%C3%ADsica%20II/Ementa%20-%20F%C3%ADsica%20II.md)
+- **[[02%20-%20Periodo/09%20-%20C%C3%A1lculo%20II/Ementa%20-%20C%C3%A1lculo%20II|9 - Cálculo II (CSECBJI.9)]]** tranca as seguintes disciplinas:
+  - [[03%20-%20Periodo/17%20-%20C%C3%A1lculo%20III/Ementa%20-%20C%C3%A1lculo%20III|17 - Cálculo III (CSECBJI.17)]]
+  - [[03%20-%20Periodo/19%20-%20F%C3%ADsica%20II/Ementa%20-%20F%C3%ADsica%20II|19 - Física II (CSECBJI.19)]]
 
-- **[10 - Álgebra Linear e Geometria Analítica II (CSECBJI.10)](02%20-%20Periodo/10%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20II/Ementa%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20II.md)** tranca as seguintes disciplinas:
-  - [77 - Computação Gráfica (CSECBJI.77)](Eletivas/77%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica/Ementa%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica.md)
-  - [85 - Modelagem Ambiental (CSECBJI.85)](Eletivas/85%20-%20Modelagem%20Ambiental/Ementa%20-%20Modelagem%20Ambiental.md)
-  - [88 - Pesquisa Operacional I (CSECBJI.88)](Eletivas/88%20-%20Pesquisa%20Operacional%20I/Ementa%20-%20Pesquisa%20Operacional%20I.md)
+- **[[02%20-%20Periodo/10%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20II/Ementa%20-%20%C3%81lgebra%20Linear%20e%20Geometria%20Anal%C3%ADtica%20II|10 - Álgebra Linear e Geometria Analítica II (CSECBJI.10)]]** tranca as seguintes disciplinas:
+  - [[Eletivas/77%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica/Ementa%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica|77 - Computação Gráfica (CSECBJI.77)]]
+  - [[Eletivas/85%20-%20Modelagem%20Ambiental/Ementa%20-%20Modelagem%20Ambiental|85 - Modelagem Ambiental (CSECBJI.85)]]
+  - [[Eletivas/88%20-%20Pesquisa%20Operacional%20I/Ementa%20-%20Pesquisa%20Operacional%20I|88 - Pesquisa Operacional I (CSECBJI.88)]]
 
-- **[11 - Física I (CSECBJI.11)](02%20-%20Periodo/11%20-%20F%C3%ADsica%20I/Ementa%20-%20F%C3%ADsica%20I.md)** tranca as seguintes disciplinas:
-  - [19 - Física II (CSECBJI.19)](03%20-%20Periodo/19%20-%20F%C3%ADsica%20II/Ementa%20-%20F%C3%ADsica%20II.md)
-  - [21 - Mecânica dos Sólidos (CSECBJI.21)](03%20-%20Periodo/21%20-%20Mec%C3%A2nica%20dos%20S%C3%B3lidos/Ementa%20-%20Mec%C3%A2nica%20dos%20S%C3%B3lidos.md)
+- **[[02%20-%20Periodo/11%20-%20F%C3%ADsica%20I/Ementa%20-%20F%C3%ADsica%20I|11 - Física I (CSECBJI.11)]]** tranca as seguintes disciplinas:
+  - [[03%20-%20Periodo/19%20-%20F%C3%ADsica%20II/Ementa%20-%20F%C3%ADsica%20II|19 - Física II (CSECBJI.19)]]
+  - [[03%20-%20Periodo/21%20-%20Mec%C3%A2nica%20dos%20S%C3%B3lidos/Ementa%20-%20Mec%C3%A2nica%20dos%20S%C3%B3lidos|21 - Mecânica dos Sólidos (CSECBJI.21)]]
 
-- **[13 - Algoritmos e Técnicas de Programação (CSECBJI.13)](02%20-%20Periodo/13%20-%20Algoritmos%20e%20T%C3%A9cnicas%20de%20Programa%C3%A7%C3%A3o/Ementa%20-%20Algoritmos%20e%20T%C3%A9cnicas%20de%20Programa%C3%A7%C3%A3o.md)** tranca as seguintes disciplinas:
-  - [22 - Algoritmos e Estruturas de Dados I (CSECBJI.22)](03%20-%20Periodo/22%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20I/Ementa%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20I.md)
-  - [25 - Cálculo Numérico (CSECBJI.25)](04%20-%20Periodo/25%20-%20C%C3%A1lculo%20Num%C3%A9rico/Ementa%20-%20C%C3%A1lculo%20Num%C3%A9rico.md)
-  - [38 - Paradigmas de Linguagem de Programação (CSECBJI.38)](05%20-%20Periodo/38%20-%20Paradigmas%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o/Ementa%20-%20Paradigmas%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o.md)
-  - [45 - Programação Orientada a Objetos I (CSECBJI.45)](06%20-%20Periodo/45%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I/Ementa%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I.md)
+- **[[02%20-%20Periodo/13%20-%20Algoritmos%20e%20T%C3%A9cnicas%20de%20Programa%C3%A7%C3%A3o/Ementa%20-%20Algoritmos%20e%20T%C3%A9cnicas%20de%20Programa%C3%A7%C3%A3o|13 - Algoritmos e Técnicas de Programação (CSECBJI.13)]]** tranca as seguintes disciplinas:
+  - [[03%20-%20Periodo/22%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20I/Ementa%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20I|22 - Algoritmos e Estruturas de Dados I (CSECBJI.22)]]
+  - [[04%20-%20Periodo/25%20-%20C%C3%A1lculo%20Num%C3%A9rico/Ementa%20-%20C%C3%A1lculo%20Num%C3%A9rico|25 - Cálculo Numérico (CSECBJI.25)]]
+  - [[05%20-%20Periodo/38%20-%20Paradigmas%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o/Ementa%20-%20Paradigmas%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o|38 - Paradigmas de Linguagem de Programação (CSECBJI.38)]]
+  - [[06%20-%20Periodo/45%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I/Ementa%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I|45 - Programação Orientada a Objetos I (CSECBJI.45)]]
 
-- **[14 - Matemática Discreta (CSECBJI.14)](02%20-%20Periodo/14%20-%20Matem%C3%A1tica%20Discreta/Ementa%20-%20Matem%C3%A1tica%20Discreta.md)** tranca as seguintes disciplinas:
-  - [34 - Projeto e Análise de Algoritmos (CSECBJI.34)](05%20-%20Periodo/34%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos/Ementa%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos.md)
-  - [40 - Linguagens Formais e Autômatos (CSECBJI.40)](05%20-%20Periodo/40%20-%20Linguagens%20Formais%20e%20Aut%C3%B4matos/Ementa%20-%20Linguagens%20Formais%20e%20Aut%C3%B4matos.md)
+- **[[02%20-%20Periodo/14%20-%20Matem%C3%A1tica%20Discreta/Ementa%20-%20Matem%C3%A1tica%20Discreta|14 - Matemática Discreta (CSECBJI.14)]]** tranca as seguintes disciplinas:
+  - [[05%20-%20Periodo/34%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos/Ementa%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos|34 - Projeto e Análise de Algoritmos (CSECBJI.34)]]
+  - [[05%20-%20Periodo/40%20-%20Linguagens%20Formais%20e%20Aut%C3%B4matos/Ementa%20-%20Linguagens%20Formais%20e%20Aut%C3%B4matos|40 - Linguagens Formais e Autômatos (CSECBJI.40)]]
 
-- **[15 - Química (CSECBJI.15)](02%20-%20Periodo/15%20-%20Qu%C3%ADmica/Ementa%20-%20Qu%C3%ADmica.md)** tranca as seguintes disciplinas:
-  - [23 - Introdução à Ciência dos Materiais (CSECBJI.23)](03%20-%20Periodo/23%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20dos%20Materiais/Ementa%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20dos%20Materiais.md)
+- **[[02%20-%20Periodo/15%20-%20Qu%C3%ADmica/Ementa%20-%20Qu%C3%ADmica|15 - Química (CSECBJI.15)]]** tranca as seguintes disciplinas:
+  - [[03%20-%20Periodo/23%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20dos%20Materiais/Ementa%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20dos%20Materiais|23 - Introdução à Ciência dos Materiais (CSECBJI.23)]]
 
-- **[17 - Cálculo III (CSECBJI.17)](03%20-%20Periodo/17%20-%20C%C3%A1lculo%20III/Ementa%20-%20C%C3%A1lculo%20III.md)** tranca as seguintes disciplinas:
-  - [26 - Física III (CSECBJI.26)](04%20-%20Periodo/26%20-%20F%C3%ADsica%20III/Ementa%20-%20F%C3%ADsica%20III.md)
-  - [31 - Cálculo IV (CSECBJI.31)](04%20-%20Periodo/31%20-%20C%C3%A1lculo%20IV/Ementa%20-%20C%C3%A1lculo%20IV.md)
+- **[[03%20-%20Periodo/17%20-%20C%C3%A1lculo%20III/Ementa%20-%20C%C3%A1lculo%20III|17 - Cálculo III (CSECBJI.17)]]** tranca as seguintes disciplinas:
+  - [[04%20-%20Periodo/26%20-%20F%C3%ADsica%20III/Ementa%20-%20F%C3%ADsica%20III|26 - Física III (CSECBJI.26)]]
+  - [[04%20-%20Periodo/31%20-%20C%C3%A1lculo%20IV/Ementa%20-%20C%C3%A1lculo%20IV|31 - Cálculo IV (CSECBJI.31)]]
 
-- **[18 - Equações Diferenciais (CSECBJI.18)](03%20-%20Periodo/18%20-%20Equa%C3%A7%C3%B5es%20Diferenciais/Ementa%20-%20Equa%C3%A7%C3%B5es%20Diferenciais.md)** tranca as seguintes disciplinas:
-  - [85 - Modelagem Ambiental (CSECBJI.85)](Eletivas/85%20-%20Modelagem%20Ambiental/Ementa%20-%20Modelagem%20Ambiental.md)
+- **[[03%20-%20Periodo/18%20-%20Equa%C3%A7%C3%B5es%20Diferenciais/Ementa%20-%20Equa%C3%A7%C3%B5es%20Diferenciais|18 - Equações Diferenciais (CSECBJI.18)]]** tranca as seguintes disciplinas:
+  - [[Eletivas/85%20-%20Modelagem%20Ambiental/Ementa%20-%20Modelagem%20Ambiental|85 - Modelagem Ambiental (CSECBJI.85)]]
 
-- **[19 - Física II (CSECBJI.19)](03%20-%20Periodo/19%20-%20F%C3%ADsica%20II/Ementa%20-%20F%C3%ADsica%20II.md)** tranca as seguintes disciplinas:
-  - [26 - Física III (CSECBJI.26)](04%20-%20Periodo/26%20-%20F%C3%ADsica%20III/Ementa%20-%20F%C3%ADsica%20III.md)
-  - [28 - Fenômenos de Transporte (CSECBJI.28)](04%20-%20Periodo/28%20-%20Fen%C3%B4menos%20de%20Transporte/Ementa%20-%20Fen%C3%B4menos%20de%20Transporte.md)
+- **[[03%20-%20Periodo/19%20-%20F%C3%ADsica%20II/Ementa%20-%20F%C3%ADsica%20II|19 - Física II (CSECBJI.19)]]** tranca as seguintes disciplinas:
+  - [[04%20-%20Periodo/26%20-%20F%C3%ADsica%20III/Ementa%20-%20F%C3%ADsica%20III|26 - Física III (CSECBJI.26)]]
+  - [[04%20-%20Periodo/28%20-%20Fen%C3%B4menos%20de%20Transporte/Ementa%20-%20Fen%C3%B4menos%20de%20Transporte|28 - Fenômenos de Transporte (CSECBJI.28)]]
 
-- **[22 - Algoritmos e Estruturas de Dados I (CSECBJI.22)](03%20-%20Periodo/22%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20I/Ementa%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20I.md)** tranca as seguintes disciplinas:
-  - [30 - Algoritmos e Estruturas de Dados II (CSECBJI.30)](04%20-%20Periodo/30%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20II/Ementa%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20II.md)
+- **[[03%20-%20Periodo/22%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20I/Ementa%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20I|22 - Algoritmos e Estruturas de Dados I (CSECBJI.22)]]** tranca as seguintes disciplinas:
+  - [[04%20-%20Periodo/30%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20II/Ementa%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20II|30 - Algoritmos e Estruturas de Dados II (CSECBJI.30)]]
 
-- **[26 - Física III (CSECBJI.26)](04%20-%20Periodo/26%20-%20F%C3%ADsica%20III/Ementa%20-%20F%C3%ADsica%20III.md)** tranca as seguintes disciplinas:
-  - [33 - Eletricidade Aplicada (CSECBJI.33)](05%20-%20Periodo/33%20-%20Eletricidade%20Aplicada/Ementa%20-%20Eletricidade%20Aplicada.md)
-  - [37 - Eletrônica Analógica (CSECBJI.37)](05%20-%20Periodo/37%20-%20Eletr%C3%B4nica%20Anal%C3%B3gica/Ementa%20-%20Eletr%C3%B4nica%20Anal%C3%B3gica.md)
+- **[[04%20-%20Periodo/26%20-%20F%C3%ADsica%20III/Ementa%20-%20F%C3%ADsica%20III|26 - Física III (CSECBJI.26)]]** tranca as seguintes disciplinas:
+  - [[05%20-%20Periodo/33%20-%20Eletricidade%20Aplicada/Ementa%20-%20Eletricidade%20Aplicada|33 - Eletricidade Aplicada (CSECBJI.33)]]
+  - [[05%20-%20Periodo/37%20-%20Eletr%C3%B4nica%20Anal%C3%B3gica/Ementa%20-%20Eletr%C3%B4nica%20Anal%C3%B3gica|37 - Eletrônica Analógica (CSECBJI.37)]]
 
-- **[29 - Probabilidade e Estatística (CSECBJI.29)](04%20-%20Periodo/29%20-%20Probabilidade%20e%20Estat%C3%ADstica/Ementa%20-%20Probabilidade%20e%20Estat%C3%ADstica.md)** tranca as seguintes disciplinas:
-  - [41 - Avaliação e Desempenho de Sistemas (CSECBJI.41)](05%20-%20Periodo/41%20-%20Avalia%C3%A7%C3%A3o%20e%20Desempenho%20de%20Sistemas/Ementa%20-%20Avalia%C3%A7%C3%A3o%20e%20Desempenho%20de%20Sistemas.md)
+- **[[04%20-%20Periodo/29%20-%20Probabilidade%20e%20Estat%C3%ADstica/Ementa%20-%20Probabilidade%20e%20Estat%C3%ADstica|29 - Probabilidade e Estatística (CSECBJI.29)]]** tranca as seguintes disciplinas:
+  - [[05%20-%20Periodo/41%20-%20Avalia%C3%A7%C3%A3o%20e%20Desempenho%20de%20Sistemas/Ementa%20-%20Avalia%C3%A7%C3%A3o%20e%20Desempenho%20de%20Sistemas|41 - Avaliação e Desempenho de Sistemas (CSECBJI.41)]]
 
-- **[30 - Algoritmos e Estruturas de Dados II (CSECBJI.30)](04%20-%20Periodo/30%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20II/Ementa%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20II.md)** tranca as seguintes disciplinas:
-  - [34 - Projeto e Análise de Algoritmos (CSECBJI.34)](05%20-%20Periodo/34%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos/Ementa%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos.md)
-  - [77 - Computação Gráfica (CSECBJI.77)](Eletivas/77%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica/Ementa%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica.md)
+- **[[04%20-%20Periodo/30%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20II/Ementa%20-%20Algoritmos%20e%20Estruturas%20de%20Dados%20II|30 - Algoritmos e Estruturas de Dados II (CSECBJI.30)]]** tranca as seguintes disciplinas:
+  - [[05%20-%20Periodo/34%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos/Ementa%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos|34 - Projeto e Análise de Algoritmos (CSECBJI.34)]]
+  - [[Eletivas/77%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica/Ementa%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica|77 - Computação Gráfica (CSECBJI.77)]]
 
-- **[31 - Cálculo IV (CSECBJI.31)](04%20-%20Periodo/31%20-%20C%C3%A1lculo%20IV/Ementa%20-%20C%C3%A1lculo%20IV.md)** tranca as seguintes disciplinas:
-  - [83 - Processamento de Sinais (CSECBJI.83)](Eletivas/83%20-%20Processamento%20de%20Sinais/Ementa%20-%20Processamento%20de%20Sinais.md)
+- **[[04%20-%20Periodo/31%20-%20C%C3%A1lculo%20IV/Ementa%20-%20C%C3%A1lculo%20IV|31 - Cálculo IV (CSECBJI.31)]]** tranca as seguintes disciplinas:
+  - [[Eletivas/83%20-%20Processamento%20de%20Sinais/Ementa%20-%20Processamento%20de%20Sinais|83 - Processamento de Sinais (CSECBJI.83)]]
 
-- **[33 - Eletricidade Aplicada (CSECBJI.33)](05%20-%20Periodo/33%20-%20Eletricidade%20Aplicada/Ementa%20-%20Eletricidade%20Aplicada.md)** tranca as seguintes disciplinas:
-  - [82 - Energia e Eficiência Energética (CSECBJI.82)](Eletivas/82%20-%20Energia%20e%20Efici%C3%AAncia%20Energ%C3%A9tica/Ementa%20-%20Energia%20e%20Efici%C3%AAncia%20Energ%C3%A9tica.md)
+- **[[05%20-%20Periodo/33%20-%20Eletricidade%20Aplicada/Ementa%20-%20Eletricidade%20Aplicada|33 - Eletricidade Aplicada (CSECBJI.33)]]** tranca as seguintes disciplinas:
+  - [[Eletivas/82%20-%20Energia%20e%20Efici%C3%AAncia%20Energ%C3%A9tica/Ementa%20-%20Energia%20e%20Efici%C3%AAncia%20Energ%C3%A9tica|82 - Energia e Eficiência Energética (CSECBJI.82)]]
 
-- **[34 - Projeto e Análise de Algoritmos (CSECBJI.34)](05%20-%20Periodo/34%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos/Ementa%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos.md)** tranca as seguintes disciplinas:
-  - [84 - Geoprocessamento (CSECBJI.84)](Eletivas/84%20-%20Geoprocessamento/Ementa%20-%20Geoprocessamento.md)
-  - [90 - Inteligência Artificial (CSECBJI.90)](Eletivas/90%20-%20Intelig%C3%AAncia%20Artificial/Ementa%20-%20Intelig%C3%AAncia%20Artificial.md)
+- **[[05%20-%20Periodo/34%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos/Ementa%20-%20Projeto%20e%20An%C3%A1lise%20de%20Algoritmos|34 - Projeto e Análise de Algoritmos (CSECBJI.34)]]** tranca as seguintes disciplinas:
+  - [[Eletivas/84%20-%20Geoprocessamento/Ementa%20-%20Geoprocessamento|84 - Geoprocessamento (CSECBJI.84)]]
+  - [[Eletivas/90%20-%20Intelig%C3%AAncia%20Artificial/Ementa%20-%20Intelig%C3%AAncia%20Artificial|90 - Inteligência Artificial (CSECBJI.90)]]
 
-- **[35 - Modelagem de Dados (CSECBJI.35)](05%20-%20Periodo/35%20-%20Modelagem%20de%20Dados/Ementa%20-%20Modelagem%20de%20Dados.md)** tranca as seguintes disciplinas:
-  - [44 - Banco de Dados (CSECBJI.44)](06%20-%20Periodo/44%20-%20Banco%20de%20Dados/Ementa%20-%20Banco%20de%20Dados.md)
+- **[[05%20-%20Periodo/35%20-%20Modelagem%20de%20Dados/Ementa%20-%20Modelagem%20de%20Dados|35 - Modelagem de Dados (CSECBJI.35)]]** tranca as seguintes disciplinas:
+  - [[06%20-%20Periodo/44%20-%20Banco%20de%20Dados/Ementa%20-%20Banco%20de%20Dados|44 - Banco de Dados (CSECBJI.44)]]
 
-- **[36 - Engenharia de Software (CSECBJI.36)](05%20-%20Periodo/36%20-%20Engenharia%20de%20Software/Ementa%20-%20Engenharia%20de%20Software.md)** tranca as seguintes disciplinas:
-  - [42 - Análise de Software Orientado a Objetos (CSECBJI.42)](06%20-%20Periodo/42%20-%20Ana%CC%81lise%20de%20Software%20Orientada%20a%CC%80%20Objetos/Ementa%20-%20An%C3%A1lise%20de%20Software%20Orientado%20a%20Objetos.md)
+- **[[05%20-%20Periodo/36%20-%20Engenharia%20de%20Software/Ementa%20-%20Engenharia%20de%20Software|36 - Engenharia de Software (CSECBJI.36)]]** tranca as seguintes disciplinas:
+  - [[06%20-%20Periodo/42%20-%20Ana%CC%81lise%20de%20Software%20Orientada%20a%CC%80%20Objetos/Ementa%20-%20An%C3%A1lise%20de%20Software%20Orientado%20a%20Objetos|42 - Análise de Software Orientado a Objetos (CSECBJI.42)]]
 
-- **[37 - Eletrônica Analógica (CSECBJI.37)](05%20-%20Periodo/37%20-%20Eletr%C3%B4nica%20Anal%C3%B3gica/Ementa%20-%20Eletr%C3%B4nica%20Anal%C3%B3gica.md)** tranca as seguintes disciplinas:
-  - [46 - Eletrônica Digital (CSECBJI.46)](06%20-%20Periodo/46%20-%20Eletr%C3%B4nica%20Digital/Ementa%20-%20Eletr%C3%B4nica%20Digital.md)
+- **[[05%20-%20Periodo/37%20-%20Eletr%C3%B4nica%20Anal%C3%B3gica/Ementa%20-%20Eletr%C3%B4nica%20Anal%C3%B3gica|37 - Eletrônica Analógica (CSECBJI.37)]]** tranca as seguintes disciplinas:
+  - [[06%20-%20Periodo/46%20-%20Eletr%C3%B4nica%20Digital/Ementa%20-%20Eletr%C3%B4nica%20Digital|46 - Eletrônica Digital (CSECBJI.46)]]
 
-- **[38 - Paradigmas de Linguagem de Programação (CSECBJI.38)](05%20-%20Periodo/38%20-%20Paradigmas%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o/Ementa%20-%20Paradigmas%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o.md)** tranca as seguintes disciplinas:
-  - [45 - Programação Orientada a Objetos I (CSECBJI.45)](06%20-%20Periodo/45%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I/Ementa%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I.md)
+- **[[05%20-%20Periodo/38%20-%20Paradigmas%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o/Ementa%20-%20Paradigmas%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o|38 - Paradigmas de Linguagem de Programação (CSECBJI.38)]]** tranca as seguintes disciplinas:
+  - [[06%20-%20Periodo/45%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I/Ementa%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I|45 - Programação Orientada a Objetos I (CSECBJI.45)]]
 
-- **[40 - Linguagens Formais e Autômatos (CSECBJI.40)](05%20-%20Periodo/40%20-%20Linguagens%20Formais%20e%20Aut%C3%B4matos/Ementa%20-%20Linguagens%20Formais%20e%20Aut%C3%B4matos.md)** tranca as seguintes disciplinas:
-  - [48 - Compiladores (CSECBJI.48)](06%20-%20Periodo/48%20-%20Compiladores/Ementa%20-%20Compiladores.md)
+- **[[05%20-%20Periodo/40%20-%20Linguagens%20Formais%20e%20Aut%C3%B4matos/Ementa%20-%20Linguagens%20Formais%20e%20Aut%C3%B4matos|40 - Linguagens Formais e Autômatos (CSECBJI.40)]]** tranca as seguintes disciplinas:
+  - [[06%20-%20Periodo/48%20-%20Compiladores/Ementa%20-%20Compiladores|48 - Compiladores (CSECBJI.48)]]
 
-- **[42 - Análise de Software Orientado a Objetos (CSECBJI.42)](06%20-%20Periodo/42%20-%20Ana%CC%81lise%20de%20Software%20Orientada%20a%CC%80%20Objetos/Ementa%20-%20An%C3%A1lise%20de%20Software%20Orientado%20a%20Objetos.md)** tranca as seguintes disciplinas:
-  - [50 - Projeto de Software Orientado a Objetos (CSECBJI.50)](07%20-%20Periodo/50%20-%20Projeto%20de%20Software%20Orientado%20a%20Objetos/Ementa%20-%20Projeto%20de%20Software%20Orientado%20a%20Objetos.md)
+- **[[06%20-%20Periodo/42%20-%20Ana%CC%81lise%20de%20Software%20Orientada%20a%CC%80%20Objetos/Ementa%20-%20An%C3%A1lise%20de%20Software%20Orientado%20a%20Objetos|42 - Análise de Software Orientado a Objetos (CSECBJI.42)]]** tranca as seguintes disciplinas:
+  - [[07%20-%20Periodo/50%20-%20Projeto%20de%20Software%20Orientado%20a%20Objetos/Ementa%20-%20Projeto%20de%20Software%20Orientado%20a%20Objetos|50 - Projeto de Software Orientado a Objetos (CSECBJI.50)]]
 
-- **[45 - Programação Orientada a Objetos I (CSECBJI.45)](06%20-%20Periodo/45%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I/Ementa%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I.md)** tranca as seguintes disciplinas:
-  - [51 - Programação Orientada a Objetos II (CSECBJI.51)](07%20-%20Periodo/51%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20II/Ementa%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20II.md)
+- **[[06%20-%20Periodo/45%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I/Ementa%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20I|45 - Programação Orientada a Objetos I (CSECBJI.45)]]** tranca as seguintes disciplinas:
+  - [[07%20-%20Periodo/51%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20II/Ementa%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20II|51 - Programação Orientada a Objetos II (CSECBJI.51)]]
 
-- **[46 - Eletrônica Digital (CSECBJI.46)](06%20-%20Periodo/46%20-%20Eletr%C3%B4nica%20Digital/Ementa%20-%20Eletr%C3%B4nica%20Digital.md)** tranca as seguintes disciplinas:
-  - [53 - Sistemas Digitais (CSECBJI.53)](07%20-%20Periodo/53%20-%20Sistemas%20Digitais/Ementa%20-%20Sistemas%20Digitais.md)
+- **[[06%20-%20Periodo/46%20-%20Eletr%C3%B4nica%20Digital/Ementa%20-%20Eletr%C3%B4nica%20Digital|46 - Eletrônica Digital (CSECBJI.46)]]** tranca as seguintes disciplinas:
+  - [[07%20-%20Periodo/53%20-%20Sistemas%20Digitais/Ementa%20-%20Sistemas%20Digitais|53 - Sistemas Digitais (CSECBJI.53)]]
 
-- **[47 - Comunicação de Dados (CSECBJI.47)](06%20-%20Periodo/47%20-%20Comunica%C3%A7%C3%A3o%20de%20Dados/Ementa%20-%20Comunica%C3%A7%C3%A3o%20de%20Dados.md)** tranca as seguintes disciplinas:
-  - [55 - Redes de Computadores I (CSECBJI.55)](07%20-%20Periodo/55%20-%20Redes%20de%20Computadores%20I/Ementa%20-%20Redes%20de%20Computadores%20I.md)
-  - [83 - Processamento de Sinais (CSECBJI.83)](Eletivas/83%20-%20Processamento%20de%20Sinais/Ementa%20-%20Processamento%20de%20Sinais.md)
+- **[[06%20-%20Periodo/47%20-%20Comunica%C3%A7%C3%A3o%20de%20Dados/Ementa%20-%20Comunica%C3%A7%C3%A3o%20de%20Dados|47 - Comunicação de Dados (CSECBJI.47)]]** tranca as seguintes disciplinas:
+  - [[07%20-%20Periodo/55%20-%20Redes%20de%20Computadores%20I/Ementa%20-%20Redes%20de%20Computadores%20I|55 - Redes de Computadores I (CSECBJI.55)]]
+  - [[Eletivas/83%20-%20Processamento%20de%20Sinais/Ementa%20-%20Processamento%20de%20Sinais|83 - Processamento de Sinais (CSECBJI.83)]]
 
-- **[51 - Programação Orientada a Objetos II (CSECBJI.51)](07%20-%20Periodo/51%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20II/Ementa%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20II.md)** tranca as seguintes disciplinas:
-  - [79 - Desenvolvimento Web (CSECBJI.79)](Eletivas/79%20-%20Desenvolvimento%20Web/Ementa%20-%20Desenvolvimento%20Web.md)
+- **[[07%20-%20Periodo/51%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20II/Ementa%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20II|51 - Programação Orientada a Objetos II (CSECBJI.51)]]** tranca as seguintes disciplinas:
+  - [[Eletivas/79%20-%20Desenvolvimento%20Web/Ementa%20-%20Desenvolvimento%20Web|79 - Desenvolvimento Web (CSECBJI.79)]]
 
-- **[52 - Organização de Computadores (CSECBJI.52)](07%20-%20Periodo/52%20-%20Organiza%C3%A7%C3%A3o%20de%20Computadores/Ementa%20-%20Organiza%C3%A7%C3%A3o%20de%20Computadores.md)** tranca as seguintes disciplinas:
-  - [61 - Arquitetura de Computadores (CSECBJI.61)](08%20-%20Periodo/61%20-%20Arquitetura%20de%20Computadores/Ementa%20-%20Arquitetura%20de%20Computadores.md)
-  - [62 - Microcontroladores (CSECBJI.62)](08%20-%20Periodo/62%20-%20Microcontroladores/Ementa%20-%20Microcontroladores.md)
+- **[[07%20-%20Periodo/52%20-%20Organiza%C3%A7%C3%A3o%20de%20Computadores/Ementa%20-%20Organiza%C3%A7%C3%A3o%20de%20Computadores|52 - Organização de Computadores (CSECBJI.52)]]** tranca as seguintes disciplinas:
+  - [[08%20-%20Periodo/61%20-%20Arquitetura%20de%20Computadores/Ementa%20-%20Arquitetura%20de%20Computadores|61 - Arquitetura de Computadores (CSECBJI.61)]]
+  - [[08%20-%20Periodo/62%20-%20Microcontroladores/Ementa%20-%20Microcontroladores|62 - Microcontroladores (CSECBJI.62)]]
 
-- **[53 - Sistemas Digitais (CSECBJI.53)](07%20-%20Periodo/53%20-%20Sistemas%20Digitais/Ementa%20-%20Sistemas%20Digitais.md)** tranca as seguintes disciplinas:
-  - [61 - Arquitetura de Computadores (CSECBJI.61)](08%20-%20Periodo/61%20-%20Arquitetura%20de%20Computadores/Ementa%20-%20Arquitetura%20de%20Computadores.md)
+- **[[07%20-%20Periodo/53%20-%20Sistemas%20Digitais/Ementa%20-%20Sistemas%20Digitais|53 - Sistemas Digitais (CSECBJI.53)]]** tranca as seguintes disciplinas:
+  - [[08%20-%20Periodo/61%20-%20Arquitetura%20de%20Computadores/Ementa%20-%20Arquitetura%20de%20Computadores|61 - Arquitetura de Computadores (CSECBJI.61)]]
 
-- **[55 - Redes de Computadores I (CSECBJI.55)](07%20-%20Periodo/55%20-%20Redes%20de%20Computadores%20I/Ementa%20-%20Redes%20de%20Computadores%20I.md)** tranca as seguintes disciplinas:
-  - [59 - Redes de Computadores II (CSECBJI.59)](08%20-%20Periodo/59%20-%20Redes%20de%20Computadores%20II/Ementa%20-%20Redes%20de%20Computadores%20II.md)
-  - [71 - Sistemas Distribuídos (CSECBJI.71)](09%20-%20Periodo/71%20-%20Sistemas%20Distribu%C3%ADdos/Ementa%20-%20Sistemas%20Distribu%C3%ADdos.md)
-  - [86 - Algoritmos Distribuídos (CSECBJI.86)](Eletivas/86%20-%20Algoritmos%20Distribu%C3%ADdos/Ementa%20-%20Algoritmos%20Distribu%C3%ADdos.md)
+- **[[07%20-%20Periodo/55%20-%20Redes%20de%20Computadores%20I/Ementa%20-%20Redes%20de%20Computadores%20I|55 - Redes de Computadores I (CSECBJI.55)]]** tranca as seguintes disciplinas:
+  - [[08%20-%20Periodo/59%20-%20Redes%20de%20Computadores%20II/Ementa%20-%20Redes%20de%20Computadores%20II|59 - Redes de Computadores II (CSECBJI.59)]]
+  - [[09%20-%20Periodo/71%20-%20Sistemas%20Distribu%C3%ADdos/Ementa%20-%20Sistemas%20Distribu%C3%ADdos|71 - Sistemas Distribuídos (CSECBJI.71)]]
+  - [[Eletivas/86%20-%20Algoritmos%20Distribu%C3%ADdos/Ementa%20-%20Algoritmos%20Distribu%C3%ADdos|86 - Algoritmos Distribuídos (CSECBJI.86)]]
 
-- **[56 - Sistemas Operacionais I (CSECBJI.56)](07%20-%20Periodo/56%20-%20Sistemas%20Operacionais%20I/Ementa%20-%20Sistemas%20Operacionais%20I.md)** tranca as seguintes disciplinas:
-  - [63 - Sistemas Operacionais II (CSECBJI.63)](08%20-%20Periodo/63%20-%20Sistemas%20Operacionais%20II/Ementa%20-%20Sistemas%20Operacionais%20II.md)
-  - [71 - Sistemas Distribuídos (CSECBJI.71)](09%20-%20Periodo/71%20-%20Sistemas%20Distribu%C3%ADdos/Ementa%20-%20Sistemas%20Distribu%C3%ADdos.md)
-  - [86 - Algoritmos Distribuídos (CSECBJI.86)](Eletivas/86%20-%20Algoritmos%20Distribu%C3%ADdos/Ementa%20-%20Algoritmos%20Distribu%C3%ADdos.md)
+- **[[07%20-%20Periodo/56%20-%20Sistemas%20Operacionais%20I/Ementa%20-%20Sistemas%20Operacionais%20I|56 - Sistemas Operacionais I (CSECBJI.56)]]** tranca as seguintes disciplinas:
+  - [[08%20-%20Periodo/63%20-%20Sistemas%20Operacionais%20II/Ementa%20-%20Sistemas%20Operacionais%20II|63 - Sistemas Operacionais II (CSECBJI.63)]]
+  - [[09%20-%20Periodo/71%20-%20Sistemas%20Distribu%C3%ADdos/Ementa%20-%20Sistemas%20Distribu%C3%ADdos|71 - Sistemas Distribuídos (CSECBJI.71)]]
+  - [[Eletivas/86%20-%20Algoritmos%20Distribu%C3%ADdos/Ementa%20-%20Algoritmos%20Distribu%C3%ADdos|86 - Algoritmos Distribuídos (CSECBJI.86)]]
 
-- **[62 - Microcontroladores (CSECBJI.62)](08%20-%20Periodo/62%20-%20Microcontroladores/Ementa%20-%20Microcontroladores.md)** tranca as seguintes disciplinas:
-  - [70 - Sistemas Embarcados (CSECBJI.70)](09%20-%20Periodo/70%20-%20Sistemas%20Embarcados/Ementa%20-%20Sistemas%20Embarcados.md)
+- **[[08%20-%20Periodo/62%20-%20Microcontroladores/Ementa%20-%20Microcontroladores|62 - Microcontroladores (CSECBJI.62)]]** tranca as seguintes disciplinas:
+  - [[09%20-%20Periodo/70%20-%20Sistemas%20Embarcados/Ementa%20-%20Sistemas%20Embarcados|70 - Sistemas Embarcados (CSECBJI.70)]]
 
-- **[64 - Metodologia Cientifica e Tecnológica (CSECBJI.64)](08%20-%20Periodo/64%20-%20Metodologia%20Cientifica%20e%20Tecnol%C3%B3gica/Ementa%20-%20Metodologia%20Cientifica%20e%20Tecnol%C3%B3gica.md)** tranca as seguintes disciplinas:
-  - [67 - Projeto Final de Curso I (CSECBJI.67)](09%20-%20Periodo/67%20-%20Projeto%20Final%20de%20Curso%20I/Ementa%20-%20Projeto%20Final%20de%20Curso%20I.md)
+- **[[08%20-%20Periodo/64%20-%20Metodologia%20Cientifica%20e%20Tecnol%C3%B3gica/Ementa%20-%20Metodologia%20Cientifica%20e%20Tecnol%C3%B3gica|64 - Metodologia Cientifica e Tecnológica (CSECBJI.64)]]** tranca as seguintes disciplinas:
+  - [[09%20-%20Periodo/67%20-%20Projeto%20Final%20de%20Curso%20I/Ementa%20-%20Projeto%20Final%20de%20Curso%20I|67 - Projeto Final de Curso I (CSECBJI.67)]]
 
-- **[67 - Projeto Final de Curso I (CSECBJI.67)](09%20-%20Periodo/67%20-%20Projeto%20Final%20de%20Curso%20I/Ementa%20-%20Projeto%20Final%20de%20Curso%20I.md)** tranca as seguintes disciplinas:
-  - [74 - Projeto Final de Curso II (CSECBJI.74)](10%20-%20Periodo/74%20-%20Projeto%20Final%20de%20Curso%20II/Ementa%20-%20Projeto%20Final%20de%20Curso%20II.md)
+- **[[09%20-%20Periodo/67%20-%20Projeto%20Final%20de%20Curso%20I/Ementa%20-%20Projeto%20Final%20de%20Curso%20I|67 - Projeto Final de Curso I (CSECBJI.67)]]** tranca as seguintes disciplinas:
+  - [[10%20-%20Periodo/74%20-%20Projeto%20Final%20de%20Curso%20II/Ementa%20-%20Projeto%20Final%20de%20Curso%20II|74 - Projeto Final de Curso II (CSECBJI.74)]]
 
-- **[77 - Computação Gráfica (CSECBJI.77)](Eletivas/77%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica/Ementa%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica.md)** tranca as seguintes disciplinas:
-  - [78 - Processamento de Imagens (CSECBJI.78)](Eletivas/78%20-%20Processamento%20de%20Imagens/Ementa%20-%20Processamento%20de%20Imagens.md)
+- **[[Eletivas/77%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica/Ementa%20-%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica|77 - Computação Gráfica (CSECBJI.77)]]** tranca as seguintes disciplinas:
+  - [[Eletivas/78%20-%20Processamento%20de%20Imagens/Ementa%20-%20Processamento%20de%20Imagens|78 - Processamento de Imagens (CSECBJI.78)]]
 
-- **[86 - Algoritmos Distribuídos (CSECBJI.86)](Eletivas/86%20-%20Algoritmos%20Distribu%C3%ADdos/Ementa%20-%20Algoritmos%20Distribu%C3%ADdos.md)** tranca as seguintes disciplinas:
-  - [87 - Computação Paralela e Distribuída (CSECBJI.87)](09%20-%20Periodo/87%20-%20Computa%C3%A7%C3%A3o%20Paralela%20e%20Distribu%C3%ADda/Ementa%20-%20Computa%C3%A7%C3%A3o%20Paralela%20e%20Distribu%C3%ADda.md)
+- **[[Eletivas/86%20-%20Algoritmos%20Distribu%C3%ADdos/Ementa%20-%20Algoritmos%20Distribu%C3%ADdos|86 - Algoritmos Distribuídos (CSECBJI.86)]]** tranca as seguintes disciplinas:
+  - [[09%20-%20Periodo/87%20-%20Computa%C3%A7%C3%A3o%20Paralela%20e%20Distribu%C3%ADda/Ementa%20-%20Computa%C3%A7%C3%A3o%20Paralela%20e%20Distribu%C3%ADda|87 - Computação Paralela e Distribuída (CSECBJI.87)]]
 
-- **[88 - Pesquisa Operacional I (CSECBJI.88)](Eletivas/88%20-%20Pesquisa%20Operacional%20I/Ementa%20-%20Pesquisa%20Operacional%20I.md)** tranca as seguintes disciplinas:
-  - [89 - Pesquisa Operacional II (CSECBJI.89)](Eletivas/89%20-%20Pesquisa%20Operacional%20II/Ementa%20-%20Pesquisa%20Operacional%20II.md)
+- **[[Eletivas/88%20-%20Pesquisa%20Operacional%20I/Ementa%20-%20Pesquisa%20Operacional%20I|88 - Pesquisa Operacional I (CSECBJI.88)]]** tranca as seguintes disciplinas:
+  - [[Eletivas/89%20-%20Pesquisa%20Operacional%20II/Ementa%20-%20Pesquisa%20Operacional%20II|89 - Pesquisa Operacional II (CSECBJI.89)]]

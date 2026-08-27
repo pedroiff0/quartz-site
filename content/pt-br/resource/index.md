@@ -1,10 +1,12 @@
 ---
 publish: true
 title: Recursos
-created: 2026-07-18T14:50:18.101-03:00
+created: 2026-07-18
 modified: 2026-07-26T11:11:46.278-03:00
 published: 2026-07-26T11:11:46.278-03:00
 order: 2
+cssclasses:
+  - page-layout
 ---
 
 > [!note] Resumo
@@ -30,12 +32,12 @@ Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao l
 
 ### 📖 Materiais de Cursos
 
-- [Engenharia de Computação](/pt-br/resource/engenharia-de-computação) — Grade curricular completa, organizada por período.
-- [Escola de Inverno (ON 2026)](/pt-br/resource/escolainverno) — Notas de aula por minicurso.
+- [[pt-br/resource/engenharia-de-computação|Engenharia de Computação]] — Grade curricular completa, organizada por período.
+- [[pt-br/resource/escolainverno|Escola de Inverno (ON 2026)]] — Notas de aula por minicurso.
 
 ### 💻 Projetos Open-Source
 
-Veja a página dedicada de [Projetos](/pt-br/projects) — ferramentas e aplicações que desenvolvo fora da pesquisa acadêmica.
+Veja a página dedicada de [[pt-br/projects|Projetos]] — ferramentas e aplicações que desenvolvo fora da pesquisa acadêmica.
 
 ### 🎵 Recomendações Pessoais
 

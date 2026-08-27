@@ -6,6 +6,8 @@ modified: 2026-07-26T10:13:34.504-03:00
 published: 2026-07-26T10:13:34.504-03:00
 photoFolder: 4sceg2024
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 💻 4a SCEG 2024
@@ -25,7 +27,7 @@ type: blog
 ## 🔗 Références et corrections
 
 - Source:[IFF - Technologie, e- sport innovation et formation marquent la 4ème programmation SCEG](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/tecnologia-inovacao-e-sports-e-capacitacao-marcam-programacao-da-4-sceg)
-- [e-JINIFF 2024](/fr/media/2024/e-jiniff-2024)- un autre front d'étudiants sur le campus
+- [[fr/media/2024/e-jiniff-2024|e-JINIFF 2024]]- un autre front d'étudiants sur le campus
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

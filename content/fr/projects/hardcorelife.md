@@ -3,6 +3,8 @@ publish: false
 title: HardCoreLife (plataforma)
 tags: [Life OS, Modular, Multi-módulo, Família]
 status: planejamento
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

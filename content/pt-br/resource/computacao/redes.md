@@ -2,11 +2,13 @@
 publish: false
 title: Redes
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.975-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] Redes de computadores é o estudo de como máquinas trocam informação: dos bits no cabo até o navegador carregando uma página. É a infraestrutura invisível de praticamente tudo que você usa — e uma das áreas com mais oferta de trabalho em infraestrutura, cloud e DevOps.
@@ -74,8 +76,8 @@ Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviç
 
 ## Conexão com as disciplinas do curso
 
-- [Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados) — a base física e de enlace: como os bits realmente viajam.
-- [Redes de Computadores I](/pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i) — o núcleo: modelos de referência, IP, TCP/UDP e os principais protocolos.
-- [Redes de Computadores II](/pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii) — roteamento, serviços e tópicos avançados.
-- [Interconexão de Redes de Computadores](/pt-br/resource/engenharia-de-computação/eletivas/interconexao-de-redes-de-computadores) — eletiva sobre como redes distintas se conectam: roteamento entre domínios e equipamentos de borda.
-- [Dimensionamento de Redes de Computadores](/pt-br/resource/engenharia-de-computação/eletivas/dimensionamento-de-redes-de-computadores) — eletiva de projeto: calcular capacidade e planejar redes que aguentam a carga prometida.
+- [[pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados|Comunicação de Dados]] — a base física e de enlace: como os bits realmente viajam.
+- [[pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i|Redes de Computadores I]] — o núcleo: modelos de referência, IP, TCP/UDP e os principais protocolos.
+- [[pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii|Redes de Computadores II]] — roteamento, serviços e tópicos avançados.
+- [[pt-br/resource/engenharia-de-computação/eletivas/interconexao-de-redes-de-computadores|Interconexão de Redes de Computadores]] — eletiva sobre como redes distintas se conectam: roteamento entre domínios e equipamentos de borda.
+- [[pt-br/resource/engenharia-de-computação/eletivas/dimensionamento-de-redes-de-computadores|Dimensionamento de Redes de Computadores]] — eletiva de projeto: calcular capacidade e planejar redes que aguentam a carga prometida.

@@ -2,11 +2,13 @@
 publish: false
 title: Modelagem de Dados
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.975-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] Modelagem de dados é a etapa de projeto que vem antes de qualquer `CREATE TABLE`: entender o domínio do problema, identificar entidades e relacionamentos, e desenhar uma estrutura que represente a realidade sem redundância nem ambiguidade. É a planta baixa do banco de dados.
@@ -71,5 +73,5 @@ Casos que os livros simplificam: dados temporais (histórico de preços, vigênc
 
 ## Conexão com as disciplinas do curso
 
-- [Modelagem de Dados](/pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados) — a disciplina que este guia acompanha diretamente: ER, mapeamento e normalização.
-- [Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados) — onde o modelo vira sistema: SQL, transações e a implementação de tudo que foi projetado aqui.
+- [[pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados|Modelagem de Dados]] — a disciplina que este guia acompanha diretamente: ER, mapeamento e normalização.
+- [[pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados|Banco de Dados]] — onde o modelo vira sistema: SQL, transações e a implementação de tudo que foi projetado aqui.

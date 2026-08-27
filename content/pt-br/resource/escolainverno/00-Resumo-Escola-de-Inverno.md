@@ -5,8 +5,8 @@ titulo: 00-Resumo-Escola-de-Inverno
 disciplina: Resumo Geral
 conteudo: Panorama de tudo o que foi visto na Escola de Inverno do Observatório Nacional (ON) 2026
 professor:
-criado: 22/07/2026
-modificado: 22/07/2026
+created: 2026-07-22
+modified: 2026-08-27
 tags:
   - escola-de-inverno-on
   - resumo

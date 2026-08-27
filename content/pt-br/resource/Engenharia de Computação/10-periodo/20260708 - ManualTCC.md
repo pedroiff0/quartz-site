@@ -1,8 +1,8 @@
 ---
 publish: true
 titulo:  20260708 - ManualTCC
-criado: 2026-07-08
-modificado: 2026-07-08 17:00
+created: 2026-07-08
+modified: 2026-08-27
 tags:
 cssclasses:
 

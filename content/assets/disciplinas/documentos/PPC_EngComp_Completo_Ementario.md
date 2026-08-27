@@ -1,6 +1,8 @@
 ---
 publish: false
 title: "PPC_EngComp_Completo_Ementario"
+cssclasses:
+  - page-layout
 ---
 
 # PPC — Engenharia de Computação (IFF)

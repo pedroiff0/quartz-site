@@ -1,6 +1,8 @@
 ---
 publish: false
 title: "disciplinas_gerais"
+cssclasses:
+  - page-layout
 ---
 
 

@@ -2,20 +2,25 @@
 publish: true
 title: "7º Período"
 created: 2026-07-21
-modified: 2026-08-06
+modified: 2026-08-27
+cssclasses:
+  - page-layout
 ---
+
 
 > [!info] 🎓 Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `440h`
 > - **Resumo Pedagógico:** Arquitetura da Internet, sistemas operacionais e síntese de hardware com VHDL.
 
+
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[Redes de Computadores I](/pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i)** (`80h` · Núcleo Especifico)
-> - 📘 **[Sistemas Operacionais I](/pt-br/resource/engenharia-de-computação/7-periodo/sistemas-operacionais-i)** (`80h` · Núcleo Especifico)
-> - 📘 **[Sistemas Digitais](/pt-br/resource/engenharia-de-computação/7-periodo/sistemas-digitais)** (`80h` · Núcleo Especifico)
-> - 📘 **[Programação Orientada a Objetos II](/pt-br/resource/engenharia-de-computação/7-periodo/programacao-orientada-a-objetos-ii)** (`80h` · Núcleo Especifico)
-> - 📘 **[Organização de Computadores](/pt-br/resource/engenharia-de-computação/7-periodo/organizacao-de-computadores)** (`60h` · Núcleo Especifico)
-> - 📘 **[Gestão de Projetos](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`60h` · Núcleo Humanas)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/7-periodo/redes-de-computadores-i/index|Redes de Computadores I]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-digitais/index|Sistemas Digitais]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/7-periodo/programacao-orientada-a-objetos-ii/index|Programação Orientada a Objetos II]]** (`80h` · Núcleo Especifico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/7-periodo/organizacao-de-computadores/index|Organização de Computadores]]** (`60h` · Núcleo Especifico)
+> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/gestao-de-projetos/index|Gestão de Projetos]]** (`60h` · Núcleo Humanas)
+
 
 > [!tip] 📎 Documentos e Horários Institucionais
 > - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

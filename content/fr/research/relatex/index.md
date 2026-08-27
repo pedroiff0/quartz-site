@@ -8,6 +8,8 @@ tags:
   - latex
   - engenharia-de-software
   - automacao
+cssclasses:
+  - page-layout
 ---
 
 # 📄 ReLaTeX: Classe LaTeX pour le travail académique IFF
@@ -65,8 +67,8 @@ tags:
 - LAMPORT, L. LaTeX: Système de préparation des documents. 2e éd. Reading, Massachusetts: Addison-Wesley, 1994.
 - EQUIPE ABNTEX2 -[la classe abntex2](https://github.com/abntex/abntex2), base de compatibilité ABNT utilisée dans ce projet.
 - COEPE 2026 - la couverture de la présentation entre ici après l'événement (septembre 2026).
-- [LaTeX et les Écritures académiques](/pt-br/resource/latex)- le cours construit sur ce projet; les classes 06 à 08 documentent 'ifftese. cls', 'macros.sty' et 'metadata. la ligne de sty à la ligne.
-- [Modèles d'entreprise](/pt-br/resource/latex/modelos-corporativos)- la même architecture de classe appliquée en dehors de l'académie, avec un manuel de marque sur le site ABNT.
+- [[pt-br/resource/latex|LaTeX et les Écritures académiques]]- le cours construit sur ce projet; les classes 06 à 08 documentent 'ifftese. cls', 'macros.sty' et 'metadata. la ligne de sty à la ligne.
+- [[pt-br/resource/latex/modelos-corporativos|Modèles d'entreprise]]- la même architecture de classe appliquée en dehors de l'académie, avec un manuel de marque sur le site ABNT.
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

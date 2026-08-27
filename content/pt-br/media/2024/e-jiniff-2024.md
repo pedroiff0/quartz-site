@@ -2,10 +2,12 @@
 publish: true
 title: e-JINIFF 2024
 created: 2024-08-23
-modified: 2026-07-26T10:13:37.621-03:00
+modified: 2026-08-27
 published: 2026-07-26T10:13:37.621-03:00
 photoFolder: ejiniff2024
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🎮 e-JINIFF 2024
@@ -25,4 +27,4 @@ Fui organizador da equipe do campus Bom Jesus do Itabapoana, que competiu em cin
 ## 🔗 Referências e correlatos
 
 - Fonte: [IFF — Estudantes do campus Bom Jesus se destacam em e-sports](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/estudantes-do-campus-bom-jesus-se-destacam-em-e-sports)
-- [4ª SCEG 2024](/pt-br/media/2024/4-sceg) — evento onde os e-sports do campus continuaram, com competições próprias
+- [[pt-br/media/2024/4-sceg|4ª SCEG 2024]] — evento onde os e-sports do campus continuaram, com competições próprias

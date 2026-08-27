@@ -1,10 +1,12 @@
 ---
 publish: true
 title: "Recherche"
-created: 2026-07-18T14:50:18.101-03:00
+created: 2026-07-18
 modified: 2026-07-26T10:31:15.908-03:00
 published: 2026-07-26T10:31:15.908-03:00
 order: 1
+cssclasses:
+  - page-layout
 ---
 
 > [!note] Résumé
@@ -53,14 +55,14 @@ order: 1
 
 ## Projets
 
-- [Détection d'anomalies dans les données de Gaia](/fr/research/anomaly-detection)- Construire un pipeline d'apprentissage automatique pour trouver des objets anormaux à Gaïa et des soulèvements complémentaires.
-- [Comprendre la matière noire des chocs extragalactiques](/fr/research/dark-matter-shocks)- Dégustation de la précision d'une méthode Monte Carlo pour donner des collisions d'amas de galaxies, comme proxy indirect pour le comportement de la matière noire.
-- [Simulation de l'impact des satellites sur les observations astronomiques](/fr/research/satellite-trail-removal)- Un algorithme IA pour enlever des traces de satellites artificiels des images astronomiques, récupérant 99,7 % des informations perdues.
-- [ReLaTeX: Classe LaTeX pour le travail académique IFF](/fr/research/relatex)- La classe 'ifftese.cls' et le paquet 'macros.sty' automatisent le respect des normes ABNT dans le travail académique IFF.
+- [[fr/research/anomaly-detection|Détection d'anomalies dans les données de Gaia]]- Construire un pipeline d'apprentissage automatique pour trouver des objets anormaux à Gaïa et des soulèvements complémentaires.
+- [[fr/research/dark-matter-shocks|Comprendre la matière noire des chocs extragalactiques]]- Dégustation de la précision d'une méthode Monte Carlo pour donner des collisions d'amas de galaxies, comme proxy indirect pour le comportement de la matière noire.
+- [[fr/research/satellite-trail-removal|Simulation de l'impact des satellites sur les observations astronomiques]]- Un algorithme IA pour enlever des traces de satellites artificiels des images astronomiques, récupérant 99,7 % des informations perdues.
+- [[fr/research/relatex|ReLaTeX: Classe LaTeX pour le travail académique IFF]]- La classe 'ifftese.cls' et le paquet 'macros.sty' automatisent le respect des normes ABNT dans le travail académique IFF.
 
 ## Lecture
 
-- [Clubs de revues](/fr/research/journal-clubs)- Liste des articles examinés en groupe (MWBR et ENGCOMP), avec la discussion de chacun.
+- [[fr/research/journal-clubs|Clubs de revues]]- Liste des articles examinés en groupe (MWBR et ENGCOMP), avec la discussion de chacun.
 - *[Motifs de l'évolution chimique de la galaxie](/assets/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)* * (W. Maciel, IAG / USP) - livre de référence de ma région, distribué gratuitement par l'auteur.
 
 > [!abstract] Avis de traduction automatique

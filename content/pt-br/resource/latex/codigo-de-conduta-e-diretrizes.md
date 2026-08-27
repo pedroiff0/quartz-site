@@ -1,13 +1,15 @@
 ---
 title: "Código de Conduta, Ética e Diretrizes Acadêmicas"
 publish: true
-created: '2026-08-04'
-modified: '2026-08-04'
+created: 2026-08-04
+modified: 2026-08-27
 tags:
   - latex
   - etica
   - conduta
   - ifftese
+cssclasses:
+  - page-layout
 ---
 
 # 📜 Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas

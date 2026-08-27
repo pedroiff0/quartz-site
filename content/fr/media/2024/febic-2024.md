@@ -6,6 +6,8 @@ modified: 2026-07-26T10:13:40.051-03:00
 published: 2026-07-26T10:13:40.051-03:00
 photoFolder: febic2024
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🛰️ IX FÉBIC 2024
@@ -30,8 +32,8 @@ type: blog
 ## 🔗 Références et corrections
 
 - Source:[IFF - Projet de Bon Jésus IFF est décerné à l'événement national](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-premiado-em-evento-nacional)
-- [Simulation de l'impact des satellites sur les observations astronomiques](/fr/research/satellite-trail-removal)- page de recherche complète de ce projet
-- [MCTIA 2025](/fr/media/2025/mctia-2025)- même projet, un an plus tard, déjà 1ère place
+- [[fr/research/satellite-trail-removal|Simulation de l'impact des satellites sur les observations astronomiques]]- page de recherche complète de ce projet
+- [[fr/media/2025/mctia-2025|MCTIA 2025]]- même projet, un an plus tard, déjà 1ère place
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

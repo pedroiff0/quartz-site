@@ -4,6 +4,8 @@ title: Sistema Acadêmico
 tags: [Full-stack, Web App, Academia, CR/Boletim, Multi-curso, API Bot]
 repo: https://github.com/pedroiff0/sistema-academico
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

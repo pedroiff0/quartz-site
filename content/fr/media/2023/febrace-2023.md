@@ -6,6 +6,8 @@ modified: 2026-07-26T10:13:20.769-03:00
 published: 2026-07-26T10:13:20.769-03:00
 photoFolder: febrace2023
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🔬 FECURE 2023
@@ -30,8 +32,8 @@ type: blog
 ## 🔗 Références et corrections
 
 - Source:[IFF - IFF Le projet Bon Jésus est finaliste au plus grand salon des sciences et de l'ingénierie au Brésil](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-finalista-na-maior-feira-de-ciencias-e-engenharia-do-brasil)
-- [Comprendre la matière noire des chocs extragalactiques](/fr/research/dark-matter-shocks)- page de recherche complète de ce projet
-- [MOSTRATEC 2023](/fr/media/2023/mostratec-2023)- même projet, soumis mois plus tard
+- [[fr/research/dark-matter-shocks|Comprendre la matière noire des chocs extragalactiques]]- page de recherche complète de ce projet
+- [[fr/media/2023/mostratec-2023|MOSTRATEC 2023]]- même projet, soumis mois plus tard
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

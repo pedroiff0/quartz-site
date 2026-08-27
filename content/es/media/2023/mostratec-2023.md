@@ -6,6 +6,8 @@ modified: 2026-07-26T10:13:26.021-03:00
 published: 2026-07-26T10:13:26.021-03:00
 photoFolder: mostratec2023
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🌎 MOSTRATEC 2023
@@ -31,8 +33,8 @@ type: blog
 ## 🔗 Referencias y correcciones
 
 - Fuente:[IFF — Alumnos IFF Bueno Jesús participan de la mayor y más tradicional feria de ciencias de América Latina](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/alunos-do-iff-bom-jesus-participam-da-maior-e-mais-tradicional-feira-de-ciencias-da-america-latina)
-- [Entendiendo la materia Escura a partir de Choques Extragalácticos](/es/research/dark-matter-shocks)— página de búsqueda completa de este proyecto
-- [FEBRACE 2023](/es/media/2023/febrace-2023)— incluso proyecto, presentado meses antes
+- [[es/research/dark-matter-shocks|Entendiendo la materia Escura a partir de Choques Extragalácticos]]— página de búsqueda completa de este proyecto
+- [[es/media/2023/febrace-2023|FEBRACE 2023]]— incluso proyecto, presentado meses antes
 
 > [!abstract] Aviso de traducción automática
 > Esta página fue traducida automáticamente del portugués utilizando el traductor automático basado en LibreTranslate implementado en `tools/translate_quartz.py` (que preserva wikilinks, embeds y nombres propios mediante división posicional). Es traducción automática y puede contener imprecisiones — la versión original en portugués es la fuente autoritativa.

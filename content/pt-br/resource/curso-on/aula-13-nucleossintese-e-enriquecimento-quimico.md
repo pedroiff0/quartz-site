@@ -2,7 +2,7 @@
 publish: false
 title: Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 created: 2026-07-25
-modified: 2026-07-26T11:33:09.987-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -104,7 +104,7 @@ Metais no gás aumentam sua eficiência de **resfriamento radiativo** — o que 
 - Beers & Christlieb (2005) — estrelas CEMP e a busca por metal-pobres extremas
 - Woosley et al. (1990) — proposta do processo-$\nu$
 - Stan Owocki — _Fundamentals of Astrophysics_ (2021); Carroll & Ostlie — _An Introduction to Modern Astrophysics_ (2017) — livros-texto de referência da aula
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 04 — Espectroscopia e Metalicidade](/pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade) — a notação \[Fe/H] usada para quantificar o produto acumulado de todos esses processos
-- [Escola de Inverno — Arqueologia Galáctica, Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — versão mais compacta dos processos-s/r, aqui expandida com toda a classificação B²FH
-- [Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos](/pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso) — como as taxas relativas de SN II/Ia vistas aqui viram a ferramenta $[\alpha/\text{Fe}]$ para separar populações
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|Aula 04 — Espectroscopia e Metalicidade]] — a notação \[Fe/H] usada para quantificar o produto acumulado de todos esses processos
+- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — versão mais compacta dos processos-s/r, aqui expandida com toda a classificação B²FH
+- [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] — como as taxas relativas de SN II/Ia vistas aqui viram a ferramenta $[\alpha/\text{Fe}]$ para separar populações

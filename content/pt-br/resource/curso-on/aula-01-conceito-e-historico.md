@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 — Conceito e Histórico
 created: 2026-07-23
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -115,7 +115,7 @@ O **Modelo Monolítico** \[Eggen, Lynden-Bell & Sandage 1962] foi a primeira ten
 
 **Searle & Zinn (1978)** encontraram a primeira fissura no modelo: aglomerados do halo galáctico possuem um espalhamento em idade **maior** do que a escala de tempo de queda livre — indicando que possivelmente sub-fragmentos galácticos independentes caíram sobre a Galáxia **depois** da formação do grosso do sistema. Isobe (1974), Saio & Yoshii (1979) e Mihalas & Binney (1980) já apontavam efeitos de seleção na metodologia de Eggen-Lynden-Bell-Sandage (ELS): o modelo monolítico é simplista demais para dar conta de populações como as estrelas retrógradas. A formação do halo deve, portanto, ter sido **mais lenta e mais complexa** do que a proposta original.
 
-Esse é o embrião histórico do paradigma moderno de formação hierárquica que fundamenta boa parte do que a arqueologia galáctica investiga hoje (ver [Aula 13](/pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico), sobre a evolução química, e o roteiro de fusões — Gaia Sausage-Enceladus, Sagitário, Nuvens de Magalhães — introduzido acima).
+Esse é o embrião histórico do paradigma moderno de formação hierárquica que fundamenta boa parte do que a arqueologia galáctica investiga hoje (ver [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Aula 13]], sobre a evolução química, e o roteiro de fusões — Gaia Sausage-Enceladus, Sagitário, Nuvens de Magalhães — introduzido acima).
 
 ---
 
@@ -133,7 +133,7 @@ Esse é o embrião histórico do paradigma moderno de formação hierárquica qu
 - Baade (1944) — identificação das populações I e II
 - Eggen, Lynden-Bell & Sandage (1962) — Modelo Monolítico
 - Searle & Zinn (1978) — sinal de acréscimo no halo
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 02 — Diagrama HR e Aglomerados Estelares](/pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados)
-- [Escola de Inverno — Arqueologia Galáctica](/pt-br/resource/escolainverno/arqgal) — minicurso irmão, de escopo mais curto, sobre o mesmo tema geral
-- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — minha pesquisa usa exatamente os dados de populações estelares introduzidos aqui
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]]
+- [[pt-br/resource/escolainverno/arqgal|Escola de Inverno — Arqueologia Galáctica]] — minicurso irmão, de escopo mais curto, sobre o mesmo tema geral
+- [[pt-br/research/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa usa exatamente os dados de populações estelares introduzidos aqui

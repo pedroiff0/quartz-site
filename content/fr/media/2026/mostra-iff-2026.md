@@ -1,11 +1,13 @@
 ---
 publish: false
 title: "Montre les connaissances - 2026"
-created: 2026-07-18T13:50:21.240-03:00
+created: 2026-07-18
 modified: 2026-07-26T10:40:28.909-03:00
 published: 2026-07-26T10:40:28.909-03:00
 photoFolder: mostra2026
 type: blog
+cssclasses:
+  - page-layout
 ---
 
 # 🏫 Montre les connaissances - 2026
@@ -36,8 +38,8 @@ type: blog
 
 ## 🔗 Références et corrections
 
-- [Détection d'anomalies dans les données de Gaia](/fr/research/anomaly-detection)- enquête complète derrière l'affiche
-- [SAB 2025](/fr/media/2025/sab-2025)- version précédente de la même affiche
+- [[fr/research/anomaly-detection|Détection d'anomalies dans les données de Gaia]]- enquête complète derrière l'affiche
+- [[fr/media/2025/sab-2025|SAB 2025]]- version précédente de la même affiche
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

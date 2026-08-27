@@ -2,11 +2,13 @@
 publish: false
 title: Fundamentos da Computação
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.979-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] O que é este tópico
@@ -75,4 +77,4 @@ O que dominar: uma primeira noção de sistema operacional, de redes e de como a
 
 ## Conexão com as disciplinas do curso
 
-- [Fundamentos de Computação](/pt-br/resource/engenharia-de-computação/1-periodo/fundamentos-de-computacao) — a disciplina do 1º período que cobre exatamente esta trilha; este material serve de apoio direto a ela.
+- [[pt-br/resource/engenharia-de-computação/1-periodo/fundamentos-de-computacao|Fundamentos de Computação]] — a disciplina do 1º período que cobre exatamente esta trilha; este material serve de apoio direto a ela.

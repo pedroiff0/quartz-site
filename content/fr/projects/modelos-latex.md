@@ -4,6 +4,8 @@ title: Modelos LaTeX
 tags: [Templates]
 repo: https://github.com/pedroiff0/modelos
 status: privado
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

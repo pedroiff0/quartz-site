@@ -1,6 +1,8 @@
 ---
 publish: false
 title: "relacao"
+cssclasses:
+  - page-layout
 ---
 
 Período	Disciplinas	Professores	Email

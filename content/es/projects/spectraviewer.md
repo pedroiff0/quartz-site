@@ -4,6 +4,8 @@ title: SpectraViewer
 tags: [Espectroscopia, GALAH DR4, Open Source]
 repo: https://github.com/pedroiff0/spectraviewer
 status: público
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

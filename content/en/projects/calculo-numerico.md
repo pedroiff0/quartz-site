@@ -4,6 +4,8 @@ title: Cálculo Numérico
 tags: [Disciplina, Métodos Numéricos]
 repo: https://github.com/pedroiff0/CalculoNumerico
 status: público
+cssclasses:
+  - page-layout
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

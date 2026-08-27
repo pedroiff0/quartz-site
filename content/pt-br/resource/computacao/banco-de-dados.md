@@ -2,11 +2,13 @@
 publish: false
 title: Banco de Dados
 created: 2026-07-18
-modified: 2026-07-26T11:33:09.975-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
   - computacao
+cssclasses:
+  - page-layout
 ---
 
 > [!info] Banco de dados é a área que estuda como armazenar, organizar e recuperar dados de forma confiável e eficiente. SQL e o modelo relacional dominam a indústria há mais de 40 anos — e continuam sendo a habilidade técnica mais universalmente cobrada em vagas de tecnologia.
@@ -25,7 +27,7 @@ Aprenda o que é tabela, linha, coluna, chave primária e chave estrangeira, e d
 
 ### 2. Modelagem e normalização (intermediário)
 
-Aprenda a projetar o banco antes de criá-lo: modelo entidade-relacionamento, mapeamento para tabelas e formas normais (1FN, 2FN, 3FN). Pratique modelando sistemas que você conhece: a biblioteca do campus, um sistema de matrículas, um delivery. Este passo tem trilha própria em [Modelagem de Dados](/pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados). Tempo típico: 4 a 6 semanas.
+Aprenda a projetar o banco antes de criá-lo: modelo entidade-relacionamento, mapeamento para tabelas e formas normais (1FN, 2FN, 3FN). Pratique modelando sistemas que você conhece: a biblioteca do campus, um sistema de matrículas, um delivery. Este passo tem trilha própria em [[pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados|Modelagem de Dados]]. Tempo típico: 4 a 6 semanas.
 
 ### 3. Transações, índices e desempenho (intermediário-avançado)
 
@@ -75,5 +77,5 @@ Backup e recuperação, controle de acesso, replicação e noções de bancos n�
 
 ## Conexão com as disciplinas do curso
 
-- [Modelagem de Dados](/pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados) — o projeto conceitual que antecede o banco: entidades, relacionamentos e normalização.
-- [Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados) — a disciplina central: SQL, transações, índices e a prática com SGBDs reais.
+- [[pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados|Modelagem de Dados]] — o projeto conceitual que antecede o banco: entidades, relacionamentos e normalização.
+- [[pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados|Banco de Dados]] — a disciplina central: SQL, transações, índices e a prática com SGBDs reais.

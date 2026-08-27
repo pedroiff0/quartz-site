@@ -2,8 +2,10 @@
 publish: true
 title: Journal Clubs
 created: 2026-07-26
-modified: 2026-07-26
+modified: 2026-08-27
 published: 2026-08-01T16:28:51.169-03:00
+cssclasses:
+  - page-layout
 ---
 
 > [!note] Resumo
@@ -13,15 +15,15 @@ Diferente de uma simples anotação de leitura individual, um Journal Club aqui 
 
 ## Grupos
 
-- **[MWBR](/pt-br/research/journal-clubs/mwbr)** — grupo de pesquisa em Via Láctea, arqueologia galáctica e populações estelares.
-- **[ENGCOMP](/pt-br/research/journal-clubs/engcomp)** — journal club de Engenharia de Computação.
+- **[[pt-br/research/journal-clubs/mwbr|MWBR]]** — grupo de pesquisa em Via Láctea, arqueologia galáctica e populações estelares.
+- **[[pt-br/research/journal-clubs/engcomp|ENGCOMP]]** — journal club de Engenharia de Computação.
 
 Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatter das notas da pasta, via [Bases do Obsidian](https://help.obsidian.md/bases) — não há lista escrita à mão para manter em dia.
 
 ## Padrão de cada entrada
 
 > [!example] Modelo de nota de artigo
-> Toda nota de artigo discutido segue a mesma estrutura. Esses campos alimentam sozinhos a tabela da página do grupo e o [dashboard](/pt-br/research/journal-clubs/engcomp/dashboard) — basta criar a nota na pasta certa (`mwbr/` ou `engcomp/`) e ela aparece no próximo build.
+> Toda nota de artigo discutido segue a mesma estrutura. Esses campos alimentam sozinhos a tabela da página do grupo e o [[pt-br/research/journal-clubs/engcomp/dashboard]] — basta criar a nota na pasta certa (`mwbr/` ou `engcomp/`) e ela aparece no próximo build.
 >
 > O campo `arxiv` é obrigatório: é ele que distingue uma nota de artigo das páginas de apoio da pasta (índice, tópicos, dashboard). E o nome do campo de data é `discutido`, sem hífen — propriedade com hífen quebra o motor de expressões das Bases.
 >
@@ -58,4 +60,4 @@ Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatt
 
 ## 🔗 Referências e correlatos
 
-- [Pesquisa — visão geral](/pt-br/research)
+- [[pt-br/research|Pesquisa — visão geral]]

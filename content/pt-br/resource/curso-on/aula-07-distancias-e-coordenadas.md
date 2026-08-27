@@ -2,7 +2,7 @@
 publish: false
 title: Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
 created: 2026-07-23
-modified: 2026-07-26T11:33:09.983-03:00
+modified: 2026-08-27
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -142,7 +142,7 @@ Por a Terra não ser uma esfera perfeita, torques diferenciais da Lua e do Sol s
 - Leavitt (1912) — relação período-luminosidade das Cefeidas
 - Hubble (1926, 1929) — Cefeidas em M31; Lei de Hubble
 - Oliveira et al. (2020) — ajuste de isócrona em Messier 69
-- [Curso ON — visão geral](/pt-br/resource/curso-on)
-- [Aula 03 — Magnitudes, Cores e Classificação Espectral](/pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral) — módulo de distância
-- [Aula 08 — Velocidades e Movimento Próprio](/pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio)
-- [Escola de Inverno — Cosmologia, Aula 01](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — o mesmo topo da escada (supernovas Ia como velas padrão), aplicado à escala cosmológica em vez da galáctica
+- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral]] — módulo de distância
+- [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|Aula 08 — Velocidades e Movimento Próprio]]
+- [[pt-br/resource/escolainverno/cosmologia/cosmologia-aula01|Escola de Inverno — Cosmologia, Aula 01]] — o mesmo topo da escada (supernovas Ia como velas padrão), aplicado à escala cosmológica em vez da galáctica

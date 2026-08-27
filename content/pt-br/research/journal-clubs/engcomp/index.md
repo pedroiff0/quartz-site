@@ -2,12 +2,14 @@
 publish: true
 title: ENGCOMP
 created: 2026-07-26
-modified: 2026-08-01
+modified: 2026-08-27
 published: 2026-08-01T20:04:04.327-03:00
+cssclasses:
+  - page-layout
 ---
 
 > [!note] Resumo
-> Journal club de **Engenharia de Computação** do IFF Campus Bom Jesus do Itabapoana: a gente escolhe um artigo recente do arXiv, alguém apresenta, e o resto da conversa é discutir o que foi lido. Esta página guarda o que já foi discutido; os [tópicos acompanhados](/pt-br/research/journal-clubs/engcomp/topicos) mostram onde procurar o próximo.
+> Journal club de **Engenharia de Computação** do IFF Campus Bom Jesus do Itabapoana: a gente escolhe um artigo recente do arXiv, alguém apresenta, e o resto da conversa é discutir o que foi lido. Esta página guarda o que já foi discutido; os [[pt-br/research/journal-clubs/engcomp/topicos|tópicos acompanhados]] mostram onde procurar o próximo.
 
 ## 👥 Participe
 
@@ -21,7 +23,7 @@ A organização acontece toda no grupo de e-mail **[engcompbji](https://groups.g
 
 ## 📚 Artigos já discutidos
 
-A tabela é gerada a partir do frontmatter das próprias notas desta pasta — uma nota nova aparece sozinha no próximo build, sem editar esta página. Ver o [padrão de cada entrada](/pt-br/research/journal-clubs#padrão-de-cada-entrada).
+A tabela é gerada a partir do frontmatter das próprias notas desta pasta — uma nota nova aparece sozinha no próximo build, sem editar esta página. Ver o [[pt-br/research/journal-clubs#padrão-de-cada-entrada|padrão de cada entrada]].
 
 ```base
 filters:
@@ -75,10 +77,10 @@ Texto pronto para anunciar o próximo encontro. Copie, preencha as duas lacunas 
 📄 Artigo: \[TÍTULO + LINK DO ARXIV]
 
 Quem quiser sugerir leitura para as próximas semanas, os tópicos que acompanhamos estão aqui:
-https://www.phrandrade.com[Topicos](/pt-br/research/journal-clubs/engcomp/topicos)
+https://www.phrandrade.com[[pt-br/research/journal-clubs/engcomp/topicos|Topicos]]
 
 O histórico do que já discutimos fica em:
-https://www.phrandrade.com[Engcomp](/pt-br/research/journal-clubs/engcomp)
+https://www.phrandrade.com[[pt-br/research/journal-clubs/engcomp|Engcomp]]
 
 Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">📋 Copiar texto</button>
 
@@ -107,8 +109,8 @@ Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">�
 
 ## 🔗 Referências e correlatos
 
-- [Tópicos e onde procurar](/pt-br/research/journal-clubs/engcomp/topicos) — as categorias do arXiv que o clube acompanha.
-- [Dashboard do clube](/pt-br/research/journal-clubs/engcomp/dashboard) — atividade por mês, tópico e apresentador.
-- [Journal Clubs — visão geral](/pt-br/research/journal-clubs)
-- [MWBR](/pt-br/research/journal-clubs/mwbr)
-- [Pesquisa — visão geral](/pt-br/research)
+- [[pt-br/research/journal-clubs/engcomp/topicos|Tópicos e onde procurar]] — as categorias do arXiv que o clube acompanha.
+- [[pt-br/research/journal-clubs/engcomp/dashboard|Dashboard do clube]] — atividade por mês, tópico e apresentador.
+- [[pt-br/research/journal-clubs|Journal Clubs — visão geral]]
+- [[pt-br/research/journal-clubs/mwbr|MWBR]]
+- [[pt-br/research|Pesquisa — visão geral]]

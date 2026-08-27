@@ -2,12 +2,14 @@
 publish: false
 draft: true
 title: "Página Protegida por Senha Institucional"
-created: '2026-08-08'
+created: 2026-08-08
 modified: '2026-08-08'
 password: "SENHA_AQUI"
 tags:
   - protegido
   - restricao-acesso
+cssclasses:
+  - page-layout
 ---
 
 > [!important] 🔒 Conteúdo Restrito Institucional
