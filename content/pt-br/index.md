@@ -2,7 +2,7 @@
 publish: true
 title: Sobre Mim
 created: 2026-07-18 20:34
-modified: 2026-08-27 23:23
+modified: 2026-08-27 23:28
 published: 2026-07-26T12:36:37.263-03:00
 cssclasses:
   - page-layout
@@ -13,6 +13,12 @@ cssclasses:
 
 > [!abstract] Conheça também o meu portfólio
 > Se você veio do meu **[portfólio de projetos](https://pedroiff0.github.io/webpage/)** (ou quer uma visão rápida de tudo que construí), lá estão todos os meus repositórios do GitHub — públicos e privados — com um *short brief* de cada um, além das bolsas de pesquisa e dos contatos reunidos numa página só. Este site aqui é o conteúdo mais completo (pesquisa, disciplinas, mídia e blog).
+
+<div class="astronomy-qrcode-card">
+  <h3>🌌 Acesse pelo Celular / Compartilhe</h3>
+  <img src="/assets/qrcode-astronomia.png" alt="QR Code Pedro Henrique - Astronomia & Computação" width="200" height="200" />
+  <p>Aponte a câmera do smartphone para acessar <b>www.phrandrade.com</b></p>
+</div>
 
 ## 📚 Por onde começar?
 

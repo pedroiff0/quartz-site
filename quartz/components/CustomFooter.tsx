@@ -178,6 +178,28 @@ if (document.readyState === "loading") {
 } else {
   initMermaid();
 }
+
+function initMobileScroll() {
+  function handleScroll() {
+    if (window.scrollY > 35) {
+      document.body.classList.add("header-scrolled");
+    } else {
+      document.body.classList.remove("header-scrolled");
+    }
+  }
+  window.removeEventListener("scroll", handleScroll);
+  window.addEventListener("scroll", handleScroll, { passive: true });
+  handleScroll();
+}
+
+document.addEventListener("nav", initMobileScroll);
+document.addEventListener("render", initMobileScroll);
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initMobileScroll);
+} else {
+  initMobileScroll();
+}
+
 `;
 
 export default (() => CustomFooter) satisfies QuartzComponentConstructor

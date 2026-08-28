@@ -1234,6 +1234,74 @@ body[data-slug="mapa/index"] .backlinks {
         justify-content: center !important;
       }
     }
+
+    /* 7. Estado ao rolar a tela no mobile: Barra compacta apenas com Hambúrguer e Modo Leitura */
+    body.header-scrolled & {
+      padding: 0.35rem 0.25rem !important;
+      gap: 0 !important;
+      justify-content: space-between !important;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08) !important;
+
+      .search,
+      .darkmode,
+      .nav-lang,
+      .site-header-title-container {
+        display: none !important;
+      }
+
+      .explorer {
+        order: 1 !important;
+        flex: 0 0 auto !important;
+      }
+
+      .readermode {
+        order: 2 !important;
+        flex: 0 0 auto !important;
+        margin-left: auto !important;
+      }
+    }
+  }
+}
+
+/* --- Astronomy QR Code Card --- */
+.astronomy-qrcode-card {
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.03), rgba(56, 189, 248, 0.07));
+  border: 1px solid var(--lightgray);
+  border-radius: 16px;
+  padding: 1.75rem 1.5rem;
+  margin: 2rem 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+  transition: all 0.3s ease;
+
+  &:hover {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+  }
+
+  img {
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+    background: #ffffff;
+    padding: 10px;
+    margin: 1rem 0 0.75rem 0;
+    max-width: 220px;
+    height: auto;
+  }
+
+  h3 {
+    margin: 0 !important;
+    font-size: 1.25rem !important;
+  }
+
+  p {
+    margin: 0 !important;
+    font-size: 0.9rem !important;
+    color: var(--gray);
   }
 }
 
