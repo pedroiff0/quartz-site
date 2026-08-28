@@ -2,7 +2,7 @@
 publish: true
 title: Sobre Mim
 created: 2026-07-18 20:34
-modified: 2026-08-27 23:09
+modified: 2026-08-27 23:23
 published: 2026-07-26T12:36:37.263-03:00
 cssclasses:
   - page-layout
@@ -38,7 +38,7 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 Alguns registros de congressos, premiações científicas, projetos e momentos compartilhados no meu perfil:
 
 <div class="media-carousel">
-  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="carousel-slide">
+  <a href="https://www.instagram.com/ra.pedroh/p/DYKNBK0kTlX/" target="_blank" rel="noopener noreferrer" class="carousel-slide">
     <img src="/assets/photos/mctia2025/0E3056F6-868C-4A69-9C1A-53581288A553_1_105_c.jpeg" alt="MCTIA 2025 - Belém (PA)" />
     <div class="slide-caption">🏆 1º Lugar no MCTIA 2025 · Belém (PA)</div>
   </a>
