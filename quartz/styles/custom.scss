@@ -371,7 +371,7 @@ body[data-slug="mapa/index"] .backlinks {
   & .center {
     max-width: 100% !important;
     box-sizing: border-box !important;
-    padding-top: 4.5rem !important;
+    padding-top: 1rem !important;
   }
 
   /* Ocultar Relógio UTC-3, Título do Site e Cabeçalho no Modo Leitura */
@@ -396,13 +396,13 @@ body[data-slug="mapa/index"] .backlinks {
     & .center,
     & footer {
       box-sizing: border-box !important;
-      padding: 4.5rem 6rem 2rem 5rem !important;
+      padding: 1rem 6rem 2rem 5rem !important;
     }
 
     /* Botão Flutuante do Modo Leitura no Desktop - Topo Esquerdo */
     & .sidebar.left {
       position: fixed !important;
-      top: 1.25rem !important;
+      top: 1rem !important;
       left: 1.25rem !important;
       transform: none !important;
       height: auto !important;
@@ -509,7 +509,7 @@ body[data-slug="mapa/index"] .backlinks {
     }
 
     & .center {
-      padding-top: 4.2rem !important;
+      padding-top: 1rem !important;
       padding-left: 1rem !important;
       padding-right: 1rem !important;
     }
