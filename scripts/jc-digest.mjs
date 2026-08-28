@@ -61,8 +61,8 @@ function artigosRecentes() {
       .map((f) => lerFrontmatter(path.join(PASTA, f)))
       // `arxiv` é o que distingue uma nota de artigo das páginas de apoio
       // (topicos, dashboard), que carregam as mesmas tags.
-      .filter((fm) => fm.arxiv && fm.discutido)
-      .map((fm) => ({ ...fm, data: new Date(fm.discutido) }))
+      .filter((fm) => fm.arxiv && (fm.discussed || fm.discutido))
+      .map((fm) => ({ ...fm, data: new Date(fm.discussed || fm.discutido) }))
       .filter((fm) => !Number.isNaN(fm.data.getTime()) && fm.data >= limite)
       .sort((a, b) => b.data - a.data)
   )
@@ -77,7 +77,8 @@ function montar() {
   if (recentes.length > 0) {
     linhas.push(`Discutidos nas últimas ${JANELA_DIAS / 7} semanas:`)
     for (const artigo of recentes) {
-      const quem = artigo.apresentador ? ` (apresentou: ${artigo.apresentador})` : ""
+      const apresentador = artigo.presenter || artigo.apresentador
+      const quem = apresentador ? ` (apresentou: ${apresentador})` : ""
       linhas.push(`- ${artigo.title}${quem}`)
       linhas.push(`  ${artigo.arxiv}`)
     }

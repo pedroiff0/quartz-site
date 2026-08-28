@@ -2,7 +2,7 @@
 publish: false
 title: Aula 00 - Apresentação
 created: 2026-08-27 18:55
-modified: 2026-08-27 21:59
+modified: 2026-08-28 11:32
 encrypted: true
 tags:
   - aula
@@ -65,8 +65,6 @@ cssclasses:
 ---
 
 ## 📝 Dúvida
-
-- [ ] 
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>

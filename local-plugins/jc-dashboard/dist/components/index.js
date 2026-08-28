@@ -116,14 +116,14 @@ function JCDashboardConstructor() {
     }
 
     const datas = artigos
-      .map((a) => toDate(a.frontmatter?.discutido))
+      .map((a) => toDate(a.frontmatter?.discussed ?? a.frontmatter?.discutido))
       .filter(Boolean)
       .sort((a, b) => a - b)
-    const apresentadores = countBy(artigos, (a) => a.frontmatter?.apresentador)
-    const topicos = countBy(artigos, (a) => a.frontmatter?.topico)
+    const apresentadores = countBy(artigos, (a) => a.frontmatter?.presenter ?? a.frontmatter?.apresentador)
+    const topicos = countBy(artigos, (a) => a.frontmatter?.topic ?? a.frontmatter?.topico)
     const meses = countBy(
-      artigos.filter((a) => toDate(a.frontmatter?.discutido)),
-      (a) => monthKey(toDate(a.frontmatter.discutido)),
+      artigos.filter((a) => toDate(a.frontmatter?.discussed ?? a.frontmatter?.discutido)),
+      (a) => monthKey(toDate(a.frontmatter?.discussed ?? a.frontmatter?.discutido)),
     )
 
     // Cadência: artigos por mês ao longo do intervalo coberto. Um único mês

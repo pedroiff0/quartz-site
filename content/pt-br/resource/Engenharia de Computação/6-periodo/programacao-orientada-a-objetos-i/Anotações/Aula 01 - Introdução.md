@@ -22,7 +22,7 @@ cssclasses:
 
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
-| [[02\|02]] | 27/08/2026 | — |
+| [[02\|02]] | 28/08/2026 | — |
 | [[Aula 01 - Introdução\|Aula 01 - Introdução]] | 26/08/2026 | Anderson Veiga |
 
 > [!info] 📌 Informações da Aula & Contexto do Quadro
