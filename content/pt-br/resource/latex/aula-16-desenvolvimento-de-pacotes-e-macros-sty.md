@@ -1,7 +1,7 @@
 ---
 title: "Aula 16: Desenvolvimento de Pacotes .sty - Programação TeX e Macros"
 created: 2026-08-04 13:34
-modified: 2026-08-27 13:34
+modified: 2026-08-27 21:54
 publish: true
 notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-16-branco.pdf)"

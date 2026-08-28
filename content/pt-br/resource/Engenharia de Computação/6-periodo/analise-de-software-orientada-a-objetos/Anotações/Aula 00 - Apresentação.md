@@ -2,7 +2,7 @@
 publish: true
 title: Aula 00
 created: 2026-08-26 14:49
-modified: 2026-08-27 14:49
+modified: 2026-08-27 21:54
 encrypted: true
 tags:
   - aula

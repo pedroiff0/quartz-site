@@ -6,7 +6,7 @@ disciplina: Ciências Planetárias
 conteudo: Sistema Solar — inventário, arquitetura e dinâmica orbital
 professor:
 created: 2026-07-20 13:34
-modified: 2026-08-27 13:34
+modified: 2026-08-27 21:54
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias

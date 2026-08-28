@@ -2,7 +2,7 @@
 publish: false
 title: Circuitos
 created: 2026-07-18 13:04
-modified: 2026-08-27 13:04
+modified: 2026-08-27 21:54
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos

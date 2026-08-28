@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Journal Clubs
-created: 2026-07-26 13:33
-modified: 2026-08-27 13:33
+created: 2026-07-26 13:04
+modified: 2026-08-27 21:54
 published: 2026-08-01T16:28:51.169-03:00
 cssclasses:
   - page-layout

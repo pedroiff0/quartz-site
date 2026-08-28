@@ -2,7 +2,7 @@
 publish: false
 title: Livro-Texto de Cálculo
 created: 2026-03-13 13:04
-modified: 2026-08-27 13:04
+modified: 2026-08-27 21:54
 published: 2026-07-26T10:03:13.435-03:00
 tags: [Material Didático, Cálculo, Algoritmos, Autoral]
 status: elaboracao

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 16 — Métodos de Determinação de Idades Estelares
 created: 2026-07-25 12:36
-modified: 2026-08-27 12:36
+modified: 2026-08-27 21:54
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on

@@ -2,7 +2,7 @@
 publish: true
 title: CONFICT - 2026
 created: 2026-07-18 13:34
-modified: 2026-08-27 13:34
+modified: 2026-08-27 21:54
 published: 2026-07-31T22:59:58.715-03:00
 photoFolder: confict2026
 type: blog

@@ -2,7 +2,7 @@
 publish: false
 title: Finanças App
 created: 2026-08-08 13:04
-modified: 2026-08-27 13:04
+modified: 2026-08-27 21:54
 tags: [Finanças, Full-stack, Web App, Orçamento, Investimentos]
 repo: https://github.com/pedroiff0/financas-app
 status: privado

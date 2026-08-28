@@ -2,7 +2,7 @@
 publish: true
 title: "Anotações"
 created: 2026-08-24 21:03
-modified: 2026-08-27 21:03
+modified: 2026-08-27 21:54
 cssclasses:
   - page-layout
   - cards

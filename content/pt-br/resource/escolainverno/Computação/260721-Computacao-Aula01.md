@@ -6,7 +6,7 @@ disciplina: Computação Científica de Alto Desempenho
 conteudo: Introdução à Computação de Alto Desempenho (HPC) — paralelismo com OpenMP e MPI
 professor: Fernando Roig
 created: 2026-07-21 13:34
-modified: 2026-08-27 13:34
+modified: 2026-08-27 21:54
 tags:
   - escola-de-inverno-on
   - hpc

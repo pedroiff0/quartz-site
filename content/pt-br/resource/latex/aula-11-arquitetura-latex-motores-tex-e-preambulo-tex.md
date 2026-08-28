@@ -1,7 +1,7 @@
 ---
 title: "Aula 11: Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex"
 created: 2026-08-04 13:34
-modified: 2026-08-27 13:34
+modified: 2026-08-27 21:54
 publish: true
 notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-11.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-11-branco.pdf)"

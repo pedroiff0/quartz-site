@@ -2,7 +2,7 @@
 publish: false
 title: ReLaTeX
 created: 2026-08-08 13:04
-modified: 2026-08-27 13:04
+modified: 2026-08-27 21:54
 tags: [Overleaf Fork, Self-hosted, IFF, LaTeX]
 repo: https://github.com/pedroiff0/relatex
 status: privado
