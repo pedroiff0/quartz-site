@@ -2,13 +2,13 @@
 publish: true
 title: Aula 00
 created: 2026-08-26 14:49
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 encrypted: true
 tags:
   - aula
   - engenharia-de-computacao
   - anotacoes-de-quadro
-disciplina: Análise de Software Orientada a Objetos
+discipline: Análise de Software Orientada a Objetos
 professor: Pablo Manhães
 cssclasses:
   - page-layout

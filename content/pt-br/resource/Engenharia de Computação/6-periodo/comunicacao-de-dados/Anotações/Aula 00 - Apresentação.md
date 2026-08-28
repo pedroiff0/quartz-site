@@ -2,13 +2,13 @@
 publish: false
 title: Aula 00 - Apresentação
 created: 2026-08-27 19:01
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 encrypted: true
 tags:
   - aula
   - engenharia-de-computacao
   - anotacoes-de-quadro
-disciplina: Comunicação de Dados
+discipline: Comunicação de Dados
 professor: Luiz Garcez
 cssclasses:
   - page-layout

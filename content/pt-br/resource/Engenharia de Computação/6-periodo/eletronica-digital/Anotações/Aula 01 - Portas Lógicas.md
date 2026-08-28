@@ -2,13 +2,13 @@
 publish: true
 title: Aula 01 - Portas Lógicas
 created: 2026-08-24 14:50
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 encrypted: true
 tags:
   - aula
   - engenharia-de-computacao
   - anotacoes-de-quadro
-disciplina: Eletrônica Digital
+discipline: Eletrônica Digital
 professor: Fabrício Barros Gonçalves
 cssclasses:
   - page-layout

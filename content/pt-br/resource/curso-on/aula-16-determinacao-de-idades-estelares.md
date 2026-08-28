@@ -2,7 +2,7 @@
 publish: false
 title: Aula 16 — Métodos de Determinação de Idades Estelares
 created: 2026-07-25 12:36
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -14,9 +14,8 @@ cssclasses:
   - page-grid
   - center-images
 encrypted: true
-titulo: CursoON-Aula16
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Taxonomia dos métodos de datação estelar — empíricos (girocronologia, atividade cromosférica, depleção de lítio), dependentes de modelo (isócronas de aglomerados, astrossismologia) e semi-fundamentais (nucleocosmocronologia via Th/U)
+discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+content: Taxonomia dos métodos de datação estelar — empíricos (girocronologia, atividade cromosférica, depleção de lítio), dependentes de modelo (isócronas de aglomerados, astrossismologia) e semi-fundamentais (nucleocosmocronologia via Th/U)
 professor: Hélio Dotto Perottoni
 ---
 

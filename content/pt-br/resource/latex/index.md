@@ -2,7 +2,7 @@
 publish: true
 title: "LaTeX & Escrita Acadêmica"
 created: 2026-08-04 13:34
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 tags:
   - latex
   - escrita-academica

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 04 — Espectroscopia e Metalicidade
 created: 2026-07-23 12:36
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -14,9 +14,8 @@ cssclasses:
   - page-grid
   - center-images
 encrypted: true
-titulo: CursoON-Aula04
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Leis de Kirchhoff, formação de linhas espectrais, a descoberta do hélio e a notação de metalicidade [Fe/H]
+discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+content: Leis de Kirchhoff, formação de linhas espectrais, a descoberta do hélio e a notação de metalicidade [Fe/H]
 professor: Hélio Dotto Perottoni
 ---
 

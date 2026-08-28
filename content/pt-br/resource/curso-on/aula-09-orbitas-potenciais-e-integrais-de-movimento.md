@@ -2,7 +2,7 @@
 publish: false
 title: Aula 09 — Órbitas, Potenciais e Integrais de Movimento
 created: 2026-07-25 12:36
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -14,9 +14,8 @@ cssclasses:
   - page-grid
   - center-images
 encrypted: true
-titulo: CursoON-Aula09
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Da massa ao potencial gravitacional (equação de Poisson), órbitas em sistemas esféricos e axissimétricos, formalismo hamiltoniano e coordenadas ação-ângulo, colisões estelares, a equação de Boltzmann sem colisões, as equações de Jeans e o teorema do virial
+discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+content: Da massa ao potencial gravitacional (equação de Poisson), órbitas em sistemas esféricos e axissimétricos, formalismo hamiltoniano e coordenadas ação-ângulo, colisões estelares, a equação de Boltzmann sem colisões, as equações de Jeans e o teorema do virial
 professor: Hélio Dotto Perottoni
 ---
 

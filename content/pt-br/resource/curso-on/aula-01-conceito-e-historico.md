@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 — Conceito e Histórico
 created: 2026-07-23 12:36
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -13,9 +13,8 @@ cssclasses:
   - page-grid
   - center-images
 encrypted: true
-titulo: CursoON-Aula01
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: O que é arqueologia galáctica, o conceito de população estelar simples e o histórico das descobertas que levaram à identificação das populações I e II
+discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+content: O que é arqueologia galáctica, o conceito de população estelar simples e o histórico das descobertas que levaram à identificação das populações I e II
 professor: Hélio Dotto Perottoni
 ---
 

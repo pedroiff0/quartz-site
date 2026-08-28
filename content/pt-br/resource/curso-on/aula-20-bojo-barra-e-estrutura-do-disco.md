@@ -2,7 +2,7 @@
 publish: false
 title: Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 created: 2026-07-25 12:36
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -15,9 +15,8 @@ cssclasses:
   - page-grid
   - center-images
 encrypted: true
-titulo: CursoON-Aula20
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Classificação morfológica de galáxias e a Via Láctea como espiral barrada típica; o bojo em X e a barra reveladas por contagens estelares; decomposição orbital do bojo (disco, barra, bojo esferoidal clássico); estrutura do disco (warp, cutoff, flare); e o catálogo de mergers confirmados do halo
+discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+content: Classificação morfológica de galáxias e a Via Láctea como espiral barrada típica; o bojo em X e a barra reveladas por contagens estelares; decomposição orbital do bojo (disco, barra, bojo esferoidal clássico); estrutura do disco (warp, cutoff, flare); e o catálogo de mergers confirmados do halo
 professor: Hélio Dotto Perottoni
 ---
 

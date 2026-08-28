@@ -2,7 +2,7 @@
 publish: false
 title: Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
 created: 2026-07-25 12:36
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -14,9 +14,8 @@ cssclasses:
   - page-grid
   - center-images
 encrypted: true
-titulo: CursoON-Aula15
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Panorama histórico dos grandes levantamentos astronômicos — de catálogos visuais e placas fotográficas aos surveys digitais all-sky (SDSS, 2MASS, DES, Euclid, LSST) — e comparação dos principais levantamentos espectroscópicos usados em arqueologia galáctica (Gaia, Gaia-ESO, APOGEE, GALAH, LAMOST, DESI, entre outros)
+discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+content: Panorama histórico dos grandes levantamentos astronômicos — de catálogos visuais e placas fotográficas aos surveys digitais all-sky (SDSS, 2MASS, DES, Euclid, LSST) — e comparação dos principais levantamentos espectroscópicos usados em arqueologia galáctica (Gaia, Gaia-ESO, APOGEE, GALAH, LAMOST, DESI, entre outros)
 professor: Hélio Dotto Perottoni
 ---
 

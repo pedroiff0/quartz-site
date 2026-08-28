@@ -1,11 +1,11 @@
 ---
 publish: true
-titulo: 260405-Aula-Atividades1-1
-disciplina:
-conteudo:
+title: 260405-Aula-Atividades1-1
+discipline:
+content:
 professor:
 created: 2026-04-05 14:49
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 tags:
 cssclasses:
 ---

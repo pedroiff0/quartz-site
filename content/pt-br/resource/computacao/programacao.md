@@ -2,7 +2,7 @@
 publish: false
 title: Programação
 created: 2026-07-18 13:04
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos

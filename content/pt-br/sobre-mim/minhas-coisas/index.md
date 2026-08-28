@@ -4,7 +4,7 @@ title: "Minhas Coisas"
 aliases:
   - "Minhas coisas"
   - "minhas-coisas"
-modified: 2026-08-27 20:52
+modified: 2026-08-27 21:59
 cssclasses:
   - page-layout
 ---

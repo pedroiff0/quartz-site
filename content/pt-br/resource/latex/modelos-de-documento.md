@@ -2,7 +2,7 @@
 publish: false
 title: "Modelos, Classes (.cls) e Pacotes (.sty) ReLaTeX — Guia e Index Oficial"
 created: 2026-08-04 13:04
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 tags:
   - latex
   - relataex

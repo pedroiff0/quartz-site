@@ -1,11 +1,11 @@
 ---
 publish: true
-titulo:  260618-RevisaoProva
-disciplina:
-conteudo:
+title: 260618-RevisaoProva
+discipline:
+content:
 professor:
 created: 2026-06-18 14:49
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 tags:
 cssclasses:
   - page-grid

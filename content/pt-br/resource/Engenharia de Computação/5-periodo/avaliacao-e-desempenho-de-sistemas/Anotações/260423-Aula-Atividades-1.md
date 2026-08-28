@@ -1,11 +1,11 @@
 ---
 publish: true
-titulo:  260423-Aula-Atividades-1
-disciplina:
-conteudo:
+title: 260423-Aula-Atividades-1
+discipline:
+content:
 professor:
 created: 2026-04-23 13:34
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 tags:
 cssclasses:
   - page-grid
@@ -3871,4 +3871,3 @@ $$E[s] = \frac{E[n]}{\lambda(1-P_B)}$$
 $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
-

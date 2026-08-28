@@ -2,7 +2,7 @@
 publish: false
 title: Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
 created: 2026-07-23 12:36
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -14,9 +14,8 @@ cssclasses:
   - page-grid
   - center-images
 encrypted: true
-titulo: CursoON-Aula07
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: A escada cósmica de distâncias — de radar a supernovas Ia — e os sistemas de coordenadas horizontal, equatorial e galáctico
+discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+content: A escada cósmica de distâncias — de radar a supernovas Ia — e os sistemas de coordenadas horizontal, equatorial e galáctico
 professor: Hélio Dotto Perottoni
 ---
 

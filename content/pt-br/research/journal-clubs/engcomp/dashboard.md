@@ -2,7 +2,7 @@
 publish: true
 title: Dashboard do clube
 created: 2026-08-01 13:04
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-08-01T16:26:58.164-03:00
 tags:
   - journal-club

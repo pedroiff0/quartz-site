@@ -1,9 +1,9 @@
 ---
 title: "Aula 09: Resultados: Tabelas IBGE vs. Quadros ABNT"
 created: 2026-08-04 13:34
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 publish: true
-notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf)"
+notes: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-09-branco.pdf)"
 tags:
   - latex

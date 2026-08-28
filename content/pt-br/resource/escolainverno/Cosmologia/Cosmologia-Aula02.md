@@ -1,12 +1,12 @@
 ---
 publish: true
 encrypted: true
-titulo: Cosmologia-Aula02
-disciplina: Cosmologia
-conteudo: Cosmologia — Radiação Cósmica de Fundo (conteúdo a ser preenchido)
+title: Cosmologia-Aula02
+discipline: Cosmologia
+content: Cosmologia — Radiação Cósmica de Fundo (conteúdo a ser preenchido)
 professor: Carlos Bengaly
-created: 2026-08-27 12:46
-modified: 2026-08-27 12:46
+created: 2026-08-27 21:59
+modified: 2026-08-27 21:59
 tags:
   - escola-de-inverno-on
   - cosmologia

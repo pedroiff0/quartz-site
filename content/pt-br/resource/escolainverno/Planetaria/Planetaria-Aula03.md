@@ -1,12 +1,12 @@
 ---
 publish: true
 encrypted: true
-titulo: Planetaria-Aula03
-disciplina: Ciências Planetárias
-conteudo: Ciências Planetárias (continuação — conteúdo a ser preenchido)
+title: Planetaria-Aula03
+discipline: Ciências Planetárias
+content: Ciências Planetárias (continuação — conteúdo a ser preenchido)
 professor:
-created: 2026-08-27 12:46
-modified: 2026-08-27 12:46
+created: 2026-08-27 21:59
+modified: 2026-08-27 21:59
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias

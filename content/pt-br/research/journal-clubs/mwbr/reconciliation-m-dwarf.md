@@ -2,17 +2,17 @@
 publish: true
 title: "Reconciliation of M Dwarf and FGK Stellar Abundances with Galactic Chemical Evolution"
 authors: "Trueman, T. C. L., Wang, H. S., Mojzsis, S. J., Turrini, D., Heng, K., Pignatari, M."
-apresentador: "TBD"
+presenter: "TBD"
 year: 2026
 arxiv: "https://iopscience.iop.org/article/10.3847/1538-4357/ae77e0"
-topico: astro-ph.GA
-discutido: 2026-08-01
+topic: astro-ph.GA
+discussed: 2026-08-01
 tags:
   - journal-club
   - mwbr
 cssclasses:
   - page-layout
-modified: 2026-08-27 13:04
+modified: 2026-08-27 21:59
 ---
 
 > [!note] Em resumo

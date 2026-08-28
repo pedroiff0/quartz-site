@@ -223,11 +223,11 @@ def transform_markdown_file(file_path: str):
                 l = line.strip()
                 if l.startswith('permalink:'):
                     continue
-                if l.startswith('modified:') or l.startswith('modificado:'):
+                if l.startswith(('modified:', 'modificado:')):
                     has_modified = True
                     new_lines.append(f'modified: {mtime_str}')
                     continue
-                if l.startswith('created:') or l.startswith('criado:'):
+                if l.startswith(('created:', 'criado:')):
                     raw_val = l.split(':', 1)[1].strip().strip("'\"")
                     m_full = re.search(r"(\d{4}-\d{2}-\d{2})[T\s](\d{2}:\d{2})", raw_val)
                     if m_full:
@@ -243,9 +243,17 @@ def transform_markdown_file(file_path: str):
                             clean_val = mtime_str
                     new_lines.append(f'created: {clean_val}')
                     continue
+                if l.startswith('titulo:'):
+                    val = l.split(':', 1)[1].strip()
+                    new_lines.append(f'title: {val}')
+                    continue
+                if l.startswith('disciplina:'):
+                    val = l.split(':', 1)[1].strip()
+                    new_lines.append(f'discipline: {val}')
+                    continue
                 if l.startswith('cssclasses:'):
                     has_cssclasses = True
-                if (parent_name == 'anotações' or parent_name == 'anotacoes') and os.path.basename(file_path) == 'index.md' and l.startswith('title:'):
+                if (parent_name == 'anotações' or parent_name == 'anotacoes') and os.path.basename(file_path) == 'index.md' and l.startswith(('title:', 'titulo:')):
                     new_lines.append('title: "Anotações"')
                     continue
                     

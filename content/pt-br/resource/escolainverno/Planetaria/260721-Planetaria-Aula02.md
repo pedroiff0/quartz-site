@@ -1,12 +1,12 @@
 ---
 publish: true
 encrypted: true
-titulo: 260721-Planetaria-Aula02
-disciplina: Ciências Planetárias
-conteudo: Continuação de Ciências Planetárias (conteúdo a ser preenchido)
+title: 260721-Planetaria-Aula02
+discipline: Ciências Planetárias
+content: Continuação de Ciências Planetárias (conteúdo a ser preenchido)
 professor:
 created: 2026-07-21 13:34
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias

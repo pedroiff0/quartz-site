@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 — Diagrama HR e Aglomerados Estelares
 created: 2026-07-23 12:36
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -13,9 +13,8 @@ cssclasses:
   - page-grid
   - center-images
 encrypted: true
-titulo: CursoON-Aula02
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Aglomerados abertos vs. globulares, função de massa inicial (IMF), isócronas e a nomenclatura de populações I, II e III
+discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+content: Aglomerados abertos vs. globulares, função de massa inicial (IMF), isócronas e a nomenclatura de populações I, II e III
 professor: Hélio Dotto Perottoni
 ---
 

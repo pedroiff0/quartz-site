@@ -1,11 +1,11 @@
 ---
 publish: true
-titulo: 260327-Aula-Introducao-1
-disciplina:
-conteudo:
+title: 260327-Aula-Introducao-1
+discipline:
+content:
 professor:
 created: 2026-03-27 14:49
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 tags:
 cssclasses:
   - embed-manila

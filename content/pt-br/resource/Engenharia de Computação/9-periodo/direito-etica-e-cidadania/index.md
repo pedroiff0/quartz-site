@@ -2,7 +2,7 @@
 publish: true
 title: "Direito, Ética e Cidadania"
 created: 2026-07-18 12:00
-modified: 2026-08-27 15:16
+modified: 2026-08-27 21:59
 tags:
   - disciplina
   - engenharia-de-computacao

@@ -1,12 +1,12 @@
 ---
 publish: true
 encrypted: true
-titulo: 260720-Arqueologia-Galactica-Aula01
-disciplina: Astrofísica Estelar / Via Láctea
-conteudo: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas
+title: 260720-Arqueologia-Galactica-Aula01
+discipline: Astrofísica Estelar / Via Láctea
+content: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas
 professor:
 created: 2026-07-20 13:34
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica

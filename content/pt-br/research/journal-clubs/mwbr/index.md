@@ -2,7 +2,7 @@
 publish: true
 title: MWBR — Journal Club
 created: 2026-07-26 13:04
-modified: 2026-08-27 21:54
+modified: 2026-08-27 21:59
 published: 2026-08-01T20:04:12.171-03:00
 cssclasses:
   - page-layout
