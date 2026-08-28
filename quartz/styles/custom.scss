@@ -7,6 +7,18 @@
   max-width: 1850px;
 }
 
+// Elevação das barras laterais e do cabeçalho/corpo próximo ao topo com margem de segurança
+@media all and ($desktop), all and ($tablet) {
+  .page > #quartz-body {
+    & .sidebar {
+      padding-top: 0.85rem !important;
+    }
+    & .page-header {
+      margin-top: 0.85rem !important;
+    }
+  }
+}
+
 // --- Mobile layout fixes ---
 
 // The site title ("Bem-Vindo! / Welcome!") was fighting the explorer toggle,
