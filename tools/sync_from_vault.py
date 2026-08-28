@@ -2,6 +2,7 @@
 import os
 import shutil
 import re
+import datetime
 
 hl_eng = '/home/pedro/hardcore-life/02 - Áreas/Acadêmico/IFF - Engenharia de Computação'
 hl_materiais = os.path.join(hl_eng, '_materiais')
@@ -81,6 +82,99 @@ def convert_md_links_in_str(text: str) -> str:
         return match.group(0)
     return pattern.sub(replacer, text)
 
+def parse_note_metadata(file_path: str):
+    with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+        content = f.read()
+    
+    basename = os.path.basename(file_path).replace('.md', '')
+    title = basename
+    created = ""
+    professor = "—"
+    
+    if content.startswith('---'):
+        parts = content.split('---', 2)
+        if len(parts) >= 3:
+            fm = parts[1]
+            for line in fm.splitlines():
+                l = line.strip()
+                if l.startswith(('title:', 'titulo:')):
+                    val = l.split(':', 1)[1].strip().strip("'\"")
+                    if val and val.lower() != 'anotações':
+                        title = val
+                elif l.startswith(('created:', 'criado:')):
+                    val = l.split(':', 1)[1].strip().strip("'\"")
+                    m = re.search(r"(\d{4})-(\d{2})-(\d{2})", val)
+                    if m:
+                        created = f"{m.group(3)}/{m.group(2)}/{m.group(1)}"
+                    else:
+                        m2 = re.search(r"(\d{2})/(\d{2})/(\d{4})", val)
+                        if m2:
+                            created = f"{m2.group(1)}/{m2.group(2)}/{m2.group(3)}"
+                elif l.startswith(('professor:', 'docente:')):
+                    val = l.split(':', 1)[1].strip().strip("'\"")
+                    if val:
+                        professor = val
+
+    if title == basename:
+        m_h1 = re.search(r"^#\s+(.+)$", content, re.MULTILINE)
+        if m_h1:
+            title = m_h1.group(1).strip()
+            title = title.replace('Notas de Aula - ', 'Aula: ').replace('Notas de Aula: ', 'Aula: ')
+
+    if not created:
+        m_date = re.match(r"^(\d{2})(\d{2})(\d{2})", basename)
+        if m_date:
+            yy, mm, dd = m_date.groups()
+            created = f"{dd}/{mm}/20{yy}"
+        else:
+            mtime = os.path.getmtime(file_path)
+            created = datetime.datetime.fromtimestamp(mtime).strftime('%d/%m/%Y')
+
+    return {
+        'basename': basename,
+        'title': title,
+        'created': created,
+        'professor': professor,
+        'path': file_path
+    }
+
+def generate_anotacoes_table(anotacoes_dir: str, prefix_link="") -> str:
+    if not os.path.exists(anotacoes_dir):
+        return "> [!info] Sem anotações registradas\n> As notas de aula desta disciplina serão disponibilizadas aqui conforme forem ministradas."
+    
+    notes = []
+    for f in os.listdir(anotacoes_dir):
+        if not f.endswith('.md'):
+            continue
+        f_lower = f.lower()
+        if f_lower.startswith('index') or 'esboço' in f_lower or 'esboco' in f_lower or 'draft' in f_lower or '.sync-conflict' in f_lower:
+            continue
+        fp = os.path.join(anotacoes_dir, f)
+        notes.append(parse_note_metadata(fp))
+        
+    if not notes:
+        return "> [!info] Sem anotações registradas\n> As notas de aula desta disciplina serão disponibilizadas aqui conforme forem ministradas."
+    
+    notes.sort(key=lambda x: x['basename'])
+    
+    has_prof = any(n['professor'] != '—' for n in notes)
+    
+    lines = []
+    if has_prof:
+        lines.append("| Aula / Conteúdo | Data | Docente |")
+        lines.append("| :--- | :---: | :--- |")
+        for n in notes:
+            link = f"{prefix_link}{n['basename']}"
+            lines.append(f"| [[{link}\\|{n['title']}]] | {n['created']} | {n['professor']} |")
+    else:
+        lines.append("| Aula / Conteúdo | Data |")
+        lines.append("| :--- | :---: |")
+        for n in notes:
+            link = f"{prefix_link}{n['basename']}"
+            lines.append(f"| [[{link}\\|{n['title']}]] | {n['created']} |")
+            
+    return '\n'.join(lines)
+
 def transform_markdown_file(file_path: str):
     if not file_path.endswith('.md'):
         return
@@ -99,6 +193,9 @@ def transform_markdown_file(file_path: str):
     # 3. Sanitizar permalinks, formatar criacao/modificacao e garantir cssclasses no frontmatter
     import datetime
     mtime_date = datetime.datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%m-%d')
+
+    parent_dir = os.path.dirname(file_path)
+    parent_name = os.path.basename(parent_dir).lower()
 
     if not content.startswith('---'):
         content = f"---\ncreated: {mtime_date}\nmodified: {mtime_date}\ncssclasses:\n  - page-layout\n---\n\n" + content
@@ -142,10 +239,37 @@ def transform_markdown_file(file_path: str):
                     continue
                 if l.startswith('cssclasses:'):
                     has_cssclasses = True
+                if (parent_name == 'anotações' or parent_name == 'anotacoes') and os.path.basename(file_path) == 'index.md' and l.startswith('title:'):
+                    new_lines.append('title: "Anotações"')
+                    continue
                     
             new_lines.append(line)
             
         content = '\n'.join(new_lines)
+
+    # 4. Avaliar e renderizar blocos Dataview para tabelas estáticas Markdown
+    if "```dataview" in content:
+        if parent_name == 'anotações' or parent_name == 'anotacoes':
+            table_md = generate_anotacoes_table(parent_dir)
+            content = re.sub(r'```dataview\s*[\s\S]*?```', table_md, content)
+        elif os.path.exists(os.path.join(parent_dir, 'Anotações')):
+            anot_dir = os.path.join(parent_dir, 'Anotações')
+            table_md = generate_anotacoes_table(anot_dir, prefix_link="Anotações/")
+            content = re.sub(r'```dataview\s*[\s\S]*?```', table_md, content)
+        else:
+            table_md = generate_anotacoes_table(parent_dir)
+            content = re.sub(r'```dataview\s*[\s\S]*?```', table_md, content)
+
+    # 5. Converter blocos DataviewJS para widget limpo
+    if "```dataviewjs" in content:
+        progress_html = '''<div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
+  <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
+  <div style="background: var(--lightgray, #e2e8f0); border-radius: 4px; overflow: hidden; height: 8px;">
+    <div style="background: var(--secondary, #6d28d9); width: 10%; height: 100%;"></div>
+  </div>
+</div>'''
+        content = re.sub(r'```dataviewjs\s*[\s\S]*?```', progress_html, content)
+
     if content and not content.endswith('\n'):
         content += '\n'
         

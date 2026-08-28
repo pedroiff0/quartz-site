@@ -183,6 +183,14 @@ plugins:
           if (orderA !== orderB) return orderA - orderB
           return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
         }
+      mapFn: |
+        (node) => {
+          const seg = (node.slugSegment || "").toLowerCase();
+          if (seg === "anotações" || seg === "anotacoes") {
+            node.displayName = "Anotações";
+          }
+          return node;
+        }
     layout:
       position: left
       priority: 50

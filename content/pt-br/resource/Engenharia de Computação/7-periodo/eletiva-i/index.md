@@ -16,15 +16,5 @@ cssclasses:
 
 ## 📋 Aulas da Disciplina
 
-```dataview
-TABLE 
-  title AS "Conteúdo da Aula",
-  created AS "Data"
-FROM "pt-br/resource/Engenharia de Computação"
-WHERE contains(file.folder, "Eletiva I")
-  AND (contains(file.tags, "aula") OR contains(lower(file.name), "aula"))
-  AND !contains(lower(file.name), "index")
-  AND !contains(lower(file.path), "esboço")
-  AND !contains(lower(file.path), "esboco")
-SORT file.name ASC
-```
+> [!info] Sem anotações registradas
+> As notas de aula desta disciplina serão disponibilizadas aqui conforme forem ministradas.

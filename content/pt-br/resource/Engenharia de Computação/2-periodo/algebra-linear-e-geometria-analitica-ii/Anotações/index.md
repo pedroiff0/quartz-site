@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Anotações de Quadro — Algebra Linear E Geometria Analitica Ii"
+title: "Anotações"
 created: 2026-08-24
 modified: 2026-08-27
 cssclasses:
@@ -14,17 +14,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 ## 📋 Relação de Aulas Registradas
 
-```dataview
-TABLE 
-  title AS "Título / Conteúdo",
-  dateformat(date(created), "dd/MM/yyyy") AS "Data",
-  professor AS "Docente"
-FROM ""
-WHERE contains(file.folder, "Anotações")
-  AND contains(file.path, "algebra-linear-e-geometria-analitica-ii")
-  AND (contains(file.tags, "aula") OR contains(lower(file.name), "aula"))
-  AND !contains(lower(file.name), "index")
-  AND !contains(lower(file.path), "esboço")
-  AND !contains(lower(file.path), "esboco")
-SORT file.name ASC
-```
+> [!info] Sem anotações registradas
+> As notas de aula desta disciplina serão disponibilizadas aqui conforme forem ministradas.

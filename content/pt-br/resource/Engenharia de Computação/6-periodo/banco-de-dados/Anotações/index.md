@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Anotações de Quadro — Banco De Dados"
+title: "Anotações"
 created: 2026-08-24
 modified: 2026-08-27
 cssclasses:
@@ -14,17 +14,6 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 ## 📋 Relação de Aulas Registradas
 
-```dataview
-TABLE 
-  title AS "Título / Conteúdo",
-  dateformat(date(created), "dd/MM/yyyy") AS "Data",
-  professor AS "Docente"
-FROM ""
-WHERE contains(file.folder, "Anotações")
-  AND contains(file.path, "banco-de-dados")
-  AND (contains(file.tags, "aula") OR contains(lower(file.name), "aula"))
-  AND !contains(lower(file.name), "index")
-  AND !contains(lower(file.path), "esboço")
-  AND !contains(lower(file.path), "esboco")
-SORT file.name ASC
-```
+| Aula / Conteúdo | Data | Docente |
+| :--- | :---: | :--- |
+| [[Aula 00 - Apresentação\|Aula 00 - Apresentação]] | 27/08/2026 | Pablo Manhães |

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Anotações de Quadro — Eletricidade Aplicada"
+title: "Anotações"
 created: 2026-08-24
 modified: 2026-08-27
 cssclasses:
@@ -14,17 +14,8 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 ## 📋 Relação de Aulas Registradas
 
-```dataview
-TABLE 
-  title AS "Título / Conteúdo",
-  dateformat(date(created), "dd/MM/yyyy") AS "Data",
-  professor AS "Docente"
-FROM ""
-WHERE contains(file.folder, "Anotações")
-  AND contains(file.path, "eletricidade-aplicada")
-  AND (contains(file.tags, "aula") OR contains(lower(file.name), "aula"))
-  AND !contains(lower(file.name), "index")
-  AND !contains(lower(file.path), "esboço")
-  AND !contains(lower(file.path), "esboco")
-SORT file.name ASC
-```
+| Aula / Conteúdo | Data |
+| :--- | :---: |
+| [[260325-Aula-Introducao-1\|Aula: Introducao]] | 25/03/2026 |
+| [[260405-Aula-Atividades1-1\|Aula: Atividades1]] | 05/04/2026 |
+| [[260413-Aula-ProvaCap9-1\|Aula: ProvaCap9]] | 13/04/2026 |

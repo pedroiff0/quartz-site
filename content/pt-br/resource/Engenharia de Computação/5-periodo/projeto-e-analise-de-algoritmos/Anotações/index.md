@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Anotações de Quadro — Projeto E Analise De Algoritmos"
+title: "Anotações"
 created: 2026-08-24
 modified: 2026-08-27
 cssclasses:
@@ -14,17 +14,8 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 ## 📋 Relação de Aulas Registradas
 
-```dataview
-TABLE 
-  title AS "Título / Conteúdo",
-  dateformat(date(created), "dd/MM/yyyy") AS "Data",
-  professor AS "Docente"
-FROM ""
-WHERE contains(file.folder, "Anotações")
-  AND contains(file.path, "projeto-e-analise-de-algoritmos")
-  AND (contains(file.tags, "aula") OR contains(lower(file.name), "aula"))
-  AND !contains(lower(file.name), "index")
-  AND !contains(lower(file.path), "esboço")
-  AND !contains(lower(file.path), "esboco")
-SORT file.name ASC
-```
+| Aula / Conteúdo | Data |
+| :--- | :---: |
+| [[260413-Aula-AtividadesAbril-1\|Atividades Projeto e Análise de Algoritmos]] | 13/04/2026 |
+| [[260611-Comparação\|Aula: Comparação]] | 11/06/2026 |
+| [[260618-RevisaoProva\|Aula: RevisaoProva]] | 18/06/2026 |

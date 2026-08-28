@@ -10,19 +10,6 @@ cssclasses:
 
 Este painel consolida automaticamente todas as tarefas declaradas nas notas de aula e ementas do período. Para adicionar uma nova tarefa, basta utilizar `- [ ] Descrição da tarefa` em qualquer anotação ou ementa.
 
-```dataview
-TABLE 
-  t.text AS "Tarefa", 
-  choice(t.completed, "✅ Feito", "❌ Pendente") AS "Status", 
-  choice(disciplina, disciplina, file.folder) AS "Origem",
-  t.section AS "Seção"
-FROM "pt-br/resource/Engenharia de Computação/6-periodo"
-FLATTEN file.tasks AS t
-WHERE !contains(lower(file.name), "index")
-  AND !contains(lower(file.path), "esboço") 
-  AND !contains(lower(file.path), "esboco")
-  AND !contains(lower(t.text), "planejando")
-  AND !contains(lower(t.text), "em andamento")
-  AND !contains(lower(t.text), "concluí")
-  AND !contains(lower(t.text), "conclui")
-```
+| Aula / Conteúdo | Data |
+| :--- | :---: |
+| [[tarefas\|Tarefas do 6º Período]] | 24/08/2026 |
