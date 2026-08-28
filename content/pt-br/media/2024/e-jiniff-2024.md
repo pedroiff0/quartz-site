@@ -1,8 +1,8 @@
 ---
 publish: true
 title: e-JINIFF 2024
-created: 2024-08-23
-modified: 2026-08-27
+created: 2024-08-23 13:04
+modified: 2026-08-27 13:04
 published: 2026-07-26T10:13:37.621-03:00
 photoFolder: ejiniff2024
 type: blog

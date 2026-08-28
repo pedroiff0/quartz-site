@@ -1,8 +1,8 @@
 ---
 publish: false
 title: Aula 00 - Apresentação
-created: 2026-08-27
-modified: 2026-08-27
+created: 2026-08-27 18:55
+modified: 2026-08-27 18:55
 encrypted: true
 tags:
   - aula

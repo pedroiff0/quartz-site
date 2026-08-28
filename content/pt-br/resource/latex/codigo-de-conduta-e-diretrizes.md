@@ -1,8 +1,8 @@
 ---
 title: "Código de Conduta, Ética e Diretrizes Acadêmicas"
 publish: true
-created: 2026-08-04
-modified: 2026-08-27
+created: 2026-08-04 13:34
+modified: 2026-08-27 13:34
 tags:
   - latex
   - etica

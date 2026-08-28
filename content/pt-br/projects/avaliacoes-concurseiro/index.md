@@ -1,8 +1,8 @@
 ---
 publish: false
 title: Avaliações Concurseiro
-created: 2026-08-08
-modified: 2026-08-27
+created: 2026-08-08 13:04
+modified: 2026-08-27 13:04
 tags: [Concursos, Gamificação, Mobile, Simulados]
 repo: https://github.com/pedroiff0/avaliacoes-concurseiro
 status: privado

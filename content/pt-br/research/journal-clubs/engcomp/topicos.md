@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Tópicos e onde procurar
-created: 2026-08-01
-modified: 2026-08-27
+created: 2026-08-01 13:33
+modified: 2026-08-27 13:33
 published: 2026-08-01T16:22:00.830-03:00
 tags:
   - journal-club

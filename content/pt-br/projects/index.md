@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Projetos
-created: 2026-07-22
-modified: 2026-08-27
+created: 2026-07-22 19:20
+modified: 2026-08-27 19:20
 published: 2026-07-26T10:03:08.687-03:00
 order: 5
 cssclasses:

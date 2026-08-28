@@ -4,8 +4,8 @@ titulo: 260327-Aula-Introducao-1
 disciplina:
 conteudo:
 professor:
-created: 2026-03-27
-modified: 2026-08-27
+created: 2026-03-27 14:49
+modified: 2026-08-27 14:49
 tags:
 cssclasses:
   - embed-manila

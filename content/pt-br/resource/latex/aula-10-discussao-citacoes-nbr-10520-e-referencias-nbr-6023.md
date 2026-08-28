@@ -1,7 +1,7 @@
 ---
 title: "Aula 10: Discussão, Citações (10520) e Referências (6023)"
-created: 2026-08-04
-modified: 2026-08-27
+created: 2026-08-04 13:34
+modified: 2026-08-27 13:34
 publish: true
 notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-10.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-10-branco.pdf)"

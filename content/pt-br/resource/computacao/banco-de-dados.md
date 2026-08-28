@@ -1,8 +1,8 @@
 ---
 publish: false
 title: Banco de Dados
-created: 2026-07-18
-modified: 2026-08-27
+created: 2026-07-18 13:04
+modified: 2026-08-27 13:04
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos

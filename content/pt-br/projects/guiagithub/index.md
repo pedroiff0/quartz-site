@@ -1,8 +1,8 @@
 ---
 publish: false
 title: guia-github
-created: 2026-03-13
-modified: 2026-08-27
+created: 2026-03-13 13:04
+modified: 2026-08-27 13:04
 published: 2026-07-26T10:03:00.381-03:00
 tags: [Boas Práticas, Templates, Versionamento]
 repo: https://github.com/pedroiff0/guia-github

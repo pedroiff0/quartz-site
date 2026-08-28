@@ -1,7 +1,7 @@
 ---
 title: "Aula 14: Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots"
-created: 2026-08-04
-modified: 2026-08-27
+created: 2026-08-04 13:34
+modified: 2026-08-27 13:34
 publish: true
 notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf)"

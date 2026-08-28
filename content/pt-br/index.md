@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Sobre Mim
-created: 2026-07-18
-modified: 2026-08-27
+created: 2026-07-18 20:34
+modified: 2026-08-27 20:34
 published: 2026-07-26T12:36:37.263-03:00
 cssclasses:
   - page-layout

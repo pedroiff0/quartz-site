@@ -1,8 +1,8 @@
 ---
 publish: false
 title: "Tarefas do 6º Período"
-created: 2026-08-24
-modified: 2026-08-27
+created: 2026-08-24 18:56
+modified: 2026-08-27 18:56
 cssclasses:
   - page-layout
 ---

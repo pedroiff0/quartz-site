@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "1º Período"
-created: 2026-07-21
-modified: 2026-08-27
+created: 2026-07-21 12:00
+modified: 2026-08-27 15:16
 cssclasses:
   - page-layout
 ---

@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Banco de Dados"
-created: 2026-07-18
-modified: 2026-08-27
+created: 2026-07-18 12:00
+modified: 2026-08-27 15:16
 tags:
   - disciplina
   - engenharia-de-computacao

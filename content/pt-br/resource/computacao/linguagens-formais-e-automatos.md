@@ -1,8 +1,8 @@
 ---
 publish: false
 title: Linguagens Formais e Autômatos
-created: 2026-07-26
-modified: 2026-08-27
+created: 2026-07-26 13:04
+modified: 2026-08-27 13:04
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos

@@ -1,8 +1,8 @@
 ---
 publish: true
 title: IX FEBIC 2024
-created: 2024-09-15
-modified: 2026-08-27
+created: 2024-09-15 13:04
+modified: 2026-08-27 13:04
 published: 2026-07-26T10:13:40.051-03:00
 photoFolder: febic2024
 type: blog

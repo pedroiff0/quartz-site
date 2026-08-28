@@ -4,8 +4,8 @@ titulo:  260611-Comparação
 disciplina:
 conteudo:
 professor:
-created: 2026-06-11
-modified: 2026-08-27
+created: 2026-06-11 14:49
+modified: 2026-08-27 14:49
 tags:
 cssclasses:
   - page-grid

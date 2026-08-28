@@ -4,8 +4,8 @@ titulo:  260423-Aula-Atividades-1
 disciplina:
 conteudo:
 professor:
-created: 2026-04-23
-modified: 2026-08-27
+created: 2026-04-23 13:34
+modified: 2026-08-27 13:34
 tags:
 cssclasses:
   - page-grid

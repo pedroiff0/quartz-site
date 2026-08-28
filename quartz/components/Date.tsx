@@ -18,6 +18,19 @@ export function getDate(data: QuartzPluginData): Date | undefined {
 }
 
 export function formatDate(d: Date, locale: ValidLocale = "en-US"): string {
+  const day = String(d.getDate()).padStart(2, "0")
+  const month = String(d.getMonth() + 1).padStart(2, "0")
+  const year = d.getFullYear()
+  const hours = String(d.getHours()).padStart(2, "0")
+  const mins = String(d.getMinutes()).padStart(2, "0")
+
+  if (locale === "pt-BR" || locale?.startsWith("pt")) {
+    if (d.getHours() !== 0 || d.getMinutes() !== 0) {
+      return `${day}/${month}/${year} ${hours}:${mins}`
+    }
+    return `${day}/${month}/${year}`
+  }
+
   return d.toLocaleDateString(locale, {
     year: "numeric",
     month: "short",

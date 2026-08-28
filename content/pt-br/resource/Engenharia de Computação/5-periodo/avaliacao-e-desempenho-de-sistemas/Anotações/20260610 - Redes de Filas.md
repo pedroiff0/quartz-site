@@ -1,8 +1,8 @@
 ---
 publish: true
 titulo:  20260610 - Redes de Filas
-created: 2026-06-10
-modified: 2026-08-27
+created: 2026-06-10 14:49
+modified: 2026-08-27 14:49
 tags:
 cssclasses:
 

@@ -116,4 +116,68 @@ const CustomFooter: QuartzComponent = ({ displayClass, fileData }: QuartzCompone
   )
 }
 
+CustomFooter.afterDOMLoaded = `
+function initMermaid() {
+  const isDark = document.documentElement.getAttribute("saved-theme") === "dark" || 
+                 document.documentElement.dataset.theme === "dark" ||
+                 document.documentElement.getAttribute("data-theme") === "dark";
+  const theme = isDark ? "dark" : "default";
+
+  const codeBlocks = Array.from(document.querySelectorAll("pre > code.language-mermaid, pre.mermaid, div.mermaid, .language-mermaid"));
+  if (codeBlocks.length === 0) return;
+
+  function run() {
+    if (window.mermaid) {
+      window.mermaid.initialize({
+        startOnLoad: false,
+        theme: theme,
+        securityLevel: 'loose',
+        fontFamily: 'inherit'
+      });
+      
+      codeBlocks.forEach((block, index) => {
+        const pre = block.closest("pre") || block;
+        if (pre.dataset.mermaidRendered) return;
+        const code = (block.tagName === "CODE" ? block.textContent : block.querySelector("code")?.textContent || block.textContent).trim();
+        const container = document.createElement("div");
+        container.className = "mermaid-diagram";
+        container.style.display = "flex";
+        container.style.justifyContent = "center";
+        container.style.margin = "1.5rem 0";
+        container.style.overflowX = "auto";
+        pre.dataset.mermaidRendered = "true";
+        pre.parentNode.insertBefore(container, pre);
+        pre.style.display = "none";
+        
+        const renderId = "mermaid-" + index + "-" + Math.random().toString(36).substring(2, 7);
+        window.mermaid.render(renderId, code).then(result => {
+          container.innerHTML = result.svg;
+        }).catch(err => {
+          console.warn("Mermaid render fallback:", err);
+          pre.style.display = "block";
+          container.remove();
+        });
+      });
+    }
+  }
+
+  if (!window.mermaid) {
+    const script = document.createElement("script");
+    script.src = "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js";
+    script.onload = run;
+    document.head.appendChild(script);
+  } else {
+    run();
+  }
+}
+
+document.addEventListener("nav", initMermaid);
+document.addEventListener("render", initMermaid);
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initMermaid);
+} else {
+  initMermaid();
+}
+`;
+
 export default (() => CustomFooter) satisfies QuartzComponentConstructor

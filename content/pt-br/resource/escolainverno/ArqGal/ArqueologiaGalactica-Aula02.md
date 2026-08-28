@@ -5,8 +5,8 @@ titulo: ArqueologiaGalactica-Aula02
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Arqueologia Galáctica — Aglomerados Globulares (conteúdo a ser preenchido)
 professor:
-created: 2026-08-27
-modified: 2026-08-27
+created: 2026-08-27 12:46
+modified: 2026-08-27 12:46
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica

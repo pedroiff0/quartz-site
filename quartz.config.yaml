@@ -98,6 +98,11 @@ plugins:
     enabled: true
     options:
       renderEngine: katex
+      katexOptions:
+        strict: false
+        trust: true
+      customMacros:
+        "\\bar": "\\overline{#1}"
     order: 80
   - source: github:quartz-community/citations
     enabled: false

@@ -6,7 +6,7 @@ repo: https://github.com/pedroiff0/anomaly_detection
 status: privado
 cssclasses:
   - page-layout
-modified: 2026-08-27
+modified: 2026-08-27 13:04
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

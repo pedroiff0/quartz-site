@@ -192,13 +192,14 @@ def transform_markdown_file(file_path: str):
 
     # 3. Sanitizar permalinks, formatar criacao/modificacao e garantir cssclasses no frontmatter
     import datetime
-    mtime_date = datetime.datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%m-%d')
+    mtime_dt = datetime.datetime.fromtimestamp(os.path.getmtime(file_path))
+    mtime_str = mtime_dt.strftime('%Y-%m-%d %H:%M')
 
     parent_dir = os.path.dirname(file_path)
     parent_name = os.path.basename(parent_dir).lower()
 
     if not content.startswith('---'):
-        content = f"---\ncreated: {mtime_date}\nmodified: {mtime_date}\ncssclasses:\n  - page-layout\n---\n\n" + content
+        content = f"---\ncreated: {mtime_str}\nmodified: {mtime_str}\ncssclasses:\n  - page-layout\n---\n\n" + content
     else:
         lines = content.splitlines()
         new_lines = []
@@ -213,7 +214,7 @@ def transform_markdown_file(file_path: str):
                 in_frontmatter = (frontmatter_count == 1)
                 if frontmatter_count == 2:
                     if not has_modified:
-                        new_lines.append(f'modified: {mtime_date}')
+                        new_lines.append(f'modified: {mtime_str}')
                     if not has_cssclasses:
                         new_lines.append('cssclasses:')
                         new_lines.append('  - page-layout')
@@ -224,17 +225,22 @@ def transform_markdown_file(file_path: str):
                     continue
                 if l.startswith('modified:') or l.startswith('modificado:'):
                     has_modified = True
-                    new_lines.append(f'modified: {mtime_date}')
+                    new_lines.append(f'modified: {mtime_str}')
                     continue
                 if l.startswith('created:') or l.startswith('criado:'):
                     raw_val = l.split(':', 1)[1].strip().strip("'\"")
-                    m = re.search(r"(\d\d)/(\d\d)/(\d\d\d\d)", raw_val)
-                    if m:
-                        clean_val = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
-                    elif re.match(r"^\d{4}-\d{2}-\d{2}", raw_val):
-                        clean_val = raw_val[:10]
+                    m_full = re.search(r"(\d{4}-\d{2}-\d{2})[T\s](\d{2}:\d{2})", raw_val)
+                    if m_full:
+                        clean_val = f"{m_full.group(1)} {m_full.group(2)}"
                     else:
-                        clean_val = mtime_date
+                        m_br = re.search(r"(\d{2})/(\d{2})/(\d{4})(?:[T\s](\d{2}:\d{2}))?", raw_val)
+                        if m_br:
+                            d, m, y, t = m_br.groups()
+                            clean_val = f"{y}-{m}-{d} {t}" if t else f"{y}-{m}-{d} {mtime_dt.strftime('%H:%M')}"
+                        elif re.match(r"^\d{4}-\d{2}-\d{2}", raw_val):
+                            clean_val = f"{raw_val[:10]} {mtime_dt.strftime('%H:%M')}"
+                        else:
+                            clean_val = mtime_str
                     new_lines.append(f'created: {clean_val}')
                     continue
                 if l.startswith('cssclasses:'):
