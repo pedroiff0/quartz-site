@@ -2,7 +2,7 @@
 publish: true
 title: Sobre Mim
 created: 2026-07-18 20:34
-modified: 2026-08-27 23:45
+modified: 2026-08-27 23:52
 published: 2026-07-26T12:36:37.263-03:00
 cssclasses:
   - page-layout
@@ -44,6 +44,36 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 <div class="media-carousel instagram-embed-carousel" style="display: flex; gap: 1.25rem; overflow-x: auto; padding: 1rem 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
   <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
     <iframe src="https://www.instagram.com/p/DYKNBK0kTlX/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
+  </div>
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/DArTrfZRQgQ/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
+  </div>
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/DArS8nYx0N0/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
+  </div>
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/Cy_kxxCOtJ3/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
+  </div>
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/DS8bzNfEfJw/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
+  </div>
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/DPW_p8GkRw8/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
+  </div>
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/DArSaddxr5p/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
+  </div>
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/DSAOacdkZuF/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
+  </div>
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/CqQONr9u7lK/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
+  </div>
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/Cl4LPt-OceR/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
+  </div>
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/CtSJjwEuxM0/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
   </div>
 </div>
 
