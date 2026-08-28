@@ -2,7 +2,7 @@
 publish: true
 title: Sobre Mim
 created: 2026-07-18 20:34
-modified: 2026-08-27 23:39
+modified: 2026-08-27 23:45
 published: 2026-07-26T12:36:37.263-03:00
 cssclasses:
   - page-layout
@@ -39,16 +39,17 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 - 📸 [Instagram (`@ra.pedroh`)](https://instagram.com/ra.pedroh)
 - ✉️ [E-mail](mailto:pedroiff0@gmail.com)
 
-### 📸 Publicações & Perfil do Instagram ([@ra.pedroh](https://instagram.com/ra.pedroh))
+### 📸 Publicações no Instagram ([@ra.pedroh](https://instagram.com/ra.pedroh))
 
-<div style="display: flex; flex-direction: column; align-items: center; margin: 1.5rem 0;">
-  <div style="width: 100%; max-width: 480px; border-radius: 14px; overflow: hidden; box-shadow: 0 6px 20px rgba(0,0,0,0.1); border: 1px solid var(--lightgray); background: #ffffff;">
-    <iframe src="https://www.instagram.com/p/DYKNBK0kTlX/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; overflow: hidden; width: 100%; display: block;"></iframe>
+<div class="media-carousel instagram-embed-carousel" style="display: flex; gap: 1.25rem; overflow-x: auto; padding: 1rem 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
+  <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
+    <iframe src="https://www.instagram.com/p/DYKNBK0kTlX/embed" width="100%" height="480" frameborder="0" scrolling="no" allowtransparency="true" style="border: none; width: 100%; display: block;"></iframe>
   </div>
-  <p style="margin-top: 1rem; text-align: center;">
-    <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="jc-button" style="text-decoration: none;">📸 Acessar perfil completo @ra.pedroh no Instagram ↗</a>
-  </p>
 </div>
+
+<p style="text-align: center; margin-top: 0.5rem; margin-bottom: 2rem;">
+  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="jc-button" style="text-decoration: none;">📸 Acessar perfil completo @ra.pedroh no Instagram ↗</a>
+</p>
 
 ---
 

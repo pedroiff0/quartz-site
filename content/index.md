@@ -8,16 +8,6 @@ published: 2026-07-26T10:01:47.627-03:00
 
 Pesquisa entre **astronomia e computação**, materiais de estudo abertos e registro dos eventos por onde passei — tudo reunido em um lugar só.
 
-<div class="astronomy-qrcode-card" style="margin: 2.2rem auto; text-align: center; max-width: 420px; padding: 1.5rem; background: linear-gradient(135deg, rgba(15, 23, 42, 0.03), rgba(56, 189, 248, 0.08)); border: 1px solid var(--lightgray); border-radius: 20px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);">
-  <img src="/assets/qrcode-cosmico-home.png" alt="QR Code Pedro Henrique - www.phrandrade.com" width="340" style="width: 340px; max-width: 82vw; height: auto; border-radius: 14px; box-shadow: 0 6px 20px rgba(0,0,0,0.12); padding: 10px; background: #ffffff; display: block; margin: 0 auto;" />
-  <p style="margin-top: 1rem; margin-bottom: 0; font-size: 0.95rem; color: var(--dark); font-weight: 600;">
-    🌌 <b>www.phrandrade.com</b>
-  </p>
-  <p style="margin-top: 0.25rem; margin-bottom: 0; font-size: 0.82rem; color: var(--gray);">
-    Aponte a câmera do smartphone para acessar o jardim digital
-  </p>
-</div>
-
 **Escolha um idioma para começar** · Choose a language to get started · Elige un idioma para empezar · Choisissez une langue pour commencer
 
 <div class="lang-carousel">
@@ -44,6 +34,16 @@ Pesquisa entre **astronomia e computação**, materiais de estudo abertos e regi
 </div>
 
 Prefere links em texto? [[pt-br/index|Sobre mim]] · [[en/index|About me]] · [[es/index|Sobre mí]] · [[fr/index|À propos de moi]]
+
+<div class="astronomy-qrcode-card" style="margin: 2.2rem auto; text-align: center; max-width: 420px; padding: 1.5rem; background: linear-gradient(135deg, rgba(15, 23, 42, 0.03), rgba(56, 189, 248, 0.08)); border: 1px solid var(--lightgray); border-radius: 20px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);">
+  <img src="/assets/qrcode-cosmico-home.png" alt="QR Code Pedro Henrique - www.phrandrade.com" width="340" style="width: 340px; max-width: 82vw; height: auto; border-radius: 14px; box-shadow: 0 6px 20px rgba(0,0,0,0.12); padding: 10px; background: #ffffff; display: block; margin: 0 auto;" />
+  <p style="margin-top: 1rem; margin-bottom: 0; font-size: 0.95rem; color: var(--dark); font-weight: 600;">
+    🌌 <b>www.phrandrade.com</b>
+  </p>
+  <p style="margin-top: 0.25rem; margin-bottom: 0; font-size: 0.82rem; color: var(--gray);">
+    Aponte a câmera do smartphone para acessar o jardim digital
+  </p>
+</div>
 
 > [!tip] Dá para trocar de idioma a qualquer momento
 > O seletor **PT / EN / ES / FR** fica no topo da barra lateral (no celular, dentro do menu ☰) e mantém você na mesma página, só que no outro idioma. Se a tradução ainda não existir, você cai num aviso amigável em vez de um erro.
