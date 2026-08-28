@@ -7,7 +7,10 @@ const CreatedDate: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCom
   const created = fileData.dates?.created
   const modified = fileData.dates?.modified
   if (!created && !modified) return null
-  const locale = cfg.locale ?? "en-US"
+  const isEn = fileData.slug?.startsWith("en")
+  const isFr = fileData.slug?.startsWith("fr")
+  const isEs = fileData.slug?.startsWith("es")
+  const locale = (isEn ? "en-US" : isFr ? "fr-FR" : isEs ? "es-ES" : (cfg.locale ?? "pt-BR")) as ValidLocale
   const labels = i18n(locale).components.contentMeta
 
   return (
