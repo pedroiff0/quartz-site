@@ -2,7 +2,7 @@
 publish: true
 title: Sobre Mim
 created: 2026-07-18 20:34
-modified: 2026-08-27 21:59
+modified: 2026-08-27 23:09
 published: 2026-07-26T12:36:37.263-03:00
 cssclasses:
   - page-layout
@@ -32,6 +32,41 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
 - 📸 [Instagram (`@ra.pedroh`)](https://instagram.com/ra.pedroh)
 - ✉️ [E-mail](mailto:pedroiff0@gmail.com)
+
+### 📸 Momentos no Instagram ([@ra.pedroh](https://instagram.com/ra.pedroh))
+
+Alguns registros de congressos, premiações científicas, projetos e momentos compartilhados no meu perfil:
+
+<div class="media-carousel">
+  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="carousel-slide">
+    <img src="/assets/photos/mctia2025/0E3056F6-868C-4A69-9C1A-53581288A553_1_105_c.jpeg" alt="MCTIA 2025 - Belém (PA)" />
+    <div class="slide-caption">🏆 1º Lugar no MCTIA 2025 · Belém (PA)</div>
+  </a>
+  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="carousel-slide">
+    <img src="/assets/photos/febic2024/0D3A385B-1F76-4E0A-9340-53B1FBC8EF5A_1_105_c.jpeg" alt="IX FEBIC 2024 - Pomerode (SC)" />
+    <div class="slide-caption">🛰️ Premiação na IX FEBIC 2024 · Pomerode (SC)</div>
+  </a>
+  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="carousel-slide">
+    <img src="/assets/photos/escolainverno2026/1549341A-153B-406C-BECD-CF64CB77BB82_4_5005_c.jpeg" alt="Escola de Inverno de Astrofísica 2026" />
+    <div class="slide-caption">🌌 Escola de Inverno de Astrofísica 2026</div>
+  </a>
+  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="carousel-slide">
+    <img src="/assets/photos/febrace2023/39531230-868C-49DB-B150-569376F7774D_1_105_c.jpeg" alt="FEBRACE 2023 - USP São Paulo" />
+    <div class="slide-caption">🔬 FEBRACE 2023 · USP São Paulo (SP)</div>
+  </a>
+  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="carousel-slide">
+    <img src="/assets/photos/mostratec2023/12EF6C2D-A3D9-4EB4-A67C-CD2AC8EE6B4F_1_105_c.jpeg" alt="MOSTRATEC 2023 - Novo Hamburgo (RS)" />
+    <div class="slide-caption">🚀 MOSTRATEC 2023 · Novo Hamburgo (RS)</div>
+  </a>
+  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="carousel-slide">
+    <img src="/assets/photos/confict2026/3D141DF1-2054-4BC9-A12C-CDC188D0B39E_1_105_c.jpeg" alt="CONFICT 2026" />
+    <div class="slide-caption">📊 Apresentação de Pesquisa · CONFICT</div>
+  </a>
+</div>
+
+<p style="text-align: center; margin-top: -0.5rem; margin-bottom: 2rem;">
+  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="jc-button" style="text-decoration: none;">📸 Acompanhar mais publicações no Instagram @ra.pedroh ↗</a>
+</p>
 
 ---
 

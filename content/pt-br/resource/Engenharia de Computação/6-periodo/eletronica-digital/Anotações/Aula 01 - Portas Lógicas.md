@@ -2,7 +2,7 @@
 publish: true
 title: Aula 01 - Portas Lógicas
 created: 2026-08-24 14:50
-modified: 2026-08-27 21:59
+modified: 2026-08-27 22:29
 encrypted: true
 tags:
   - aula
@@ -20,11 +20,7 @@ cssclasses:
   <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
 </div>
 
-
-
 > [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Disciplina:** [[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital|Eletrônica Digital]]
-> - **Docente Responsável:** Fabrício Barros Gonçalves
 > - **Tópico Central:** Portas Lógicas & Álgebra Booleana
 > - **Status das Anotações:** 🟢 Concluído
 

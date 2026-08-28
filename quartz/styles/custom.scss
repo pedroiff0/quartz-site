@@ -975,49 +975,124 @@ body[data-slug="mapa/index"] .backlinks {
    ========================================================================== */
 
 @media all and ($mobile) {
+  .page {
+    padding: 0 0.75rem !important;
+  }
+
   .sidebar.left {
     display: flex !important;
     flex-wrap: wrap !important;
+    flex-direction: row !important;
     align-items: center !important;
     justify-content: space-between !important;
     width: 100% !important;
-    padding: 0.5rem 0 !important;
-    gap: 0.35rem !important;
+    padding: 0.6rem 0 0.2rem 0 !important;
+    gap: 0.45rem !important;
+    margin: 0 !important;
 
-    /* 1. Botão do Explorar (Apenas ícone 40x40) */
-    .explorer-toggle.mobile-explorer {
+    /* 1. Botão Hambúrguer do Explorador (Mobile) */
+    .explorer {
       order: 1 !important;
+      margin: 0 !important;
       display: inline-flex !important;
       align-items: center !important;
       justify-content: center !important;
-      min-width: 40px !important;
-      height: 40px !important;
-      padding: 0 !important;
-      margin: 0 !important;
-      border-radius: 8px !important;
-      background: var(--lightgray) !important;
-      border: 1px solid var(--gray, #e2e8f0) !important;
-      color: var(--dark) !important;
-      box-shadow: none !important;
+      flex: 0 0 42px !important;
 
-      &::after {
-        content: none !important;
+      .explorer-toggle.mobile-explorer {
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        width: 42px !important;
+        min-width: 42px !important;
+        height: 42px !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        border-radius: 10px !important;
+        background: var(--lightgray) !important;
+        border: 1px solid var(--gray, #e2e8f0) !important;
+        color: var(--dark) !important;
+        cursor: pointer !important;
+        box-shadow: none !important;
+        transition: all 0.2s ease !important;
+
+        svg {
+          width: 22px !important;
+          height: 22px !important;
+          stroke: var(--dark) !important;
+          stroke-width: 2.2px !important;
+        }
+
+        &:active {
+          transform: scale(0.95);
+          background: var(--gray) !important;
+        }
+
+        &::after {
+          content: none !important;
+        }
       }
     }
 
-    /* 2. Botão de Pesquisa (Largura expandida para preencher o centro) */
+    /* 2. Barra / Botão de Pesquisa (Preenche todo o centro disponível) */
     .search {
       order: 2 !important;
       flex: 1 1 auto !important;
       display: inline-flex !important;
       align-items: center !important;
       justify-content: center !important;
-      min-width: 70px !important;
-      height: 40px !important;
+      min-width: 100px !important;
+      height: 42px !important;
       margin: 0 !important;
-      padding: 0 0.4rem !important;
-      border-radius: 8px !important;
+      padding: 0 !important;
+
+      button {
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: flex-start !important;
+        width: 100% !important;
+        height: 42px !important;
+        padding: 0 0.75rem !important;
+        border-radius: 10px !important;
+        background: var(--lightgray) !important;
+        border: 1px solid var(--gray, #e2e8f0) !important;
+        color: var(--gray) !important;
+        font-size: 0.88rem !important;
+        gap: 0.5rem !important;
+        cursor: pointer !important;
+
+        p {
+          display: inline-block !important;
+          margin: 0 !important;
+          font-size: 0.88rem !important;
+          color: var(--gray) !important;
+        }
+
+        svg {
+          width: 18px !important;
+          height: 18px !important;
+          stroke: var(--darkgray) !important;
+          flex-shrink: 0 !important;
+        }
+      }
+    }
+
+    /* 3. Botão Tema Escuro/Claro */
+    .darkmode {
+      order: 3 !important;
+      display: inline-flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      width: 42px !important;
+      min-width: 42px !important;
+      height: 42px !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      border-radius: 10px !important;
       background: var(--lightgray) !important;
+      border: 1px solid var(--gray, #e2e8f0) !important;
+      cursor: pointer !important;
+      flex: 0 0 42px !important;
 
       button {
         display: inline-flex !important;
@@ -1025,59 +1100,99 @@ body[data-slug="mapa/index"] .backlinks {
         justify-content: center !important;
         width: 100% !important;
         height: 100% !important;
+        background: transparent !important;
+        border: none !important;
         padding: 0 !important;
+      }
+
+      svg {
+        width: 20px !important;
+        height: 20px !important;
+        fill: var(--dark) !important;
+        stroke: var(--dark) !important;
       }
     }
 
-    /* 3. Ícone do Modo Noturno */
-    .darkmode, .readermode {
-      order: 3 !important;
+    /* 4. Botão Modo Leitura */
+    .readermode {
+      order: 4 !important;
       display: inline-flex !important;
       align-items: center !important;
       justify-content: center !important;
-      min-width: 40px !important;
-      height: 40px !important;
+      width: 42px !important;
+      min-width: 42px !important;
+      height: 42px !important;
       margin: 0 !important;
       padding: 0 !important;
-      border-radius: 8px !important;
+      border-radius: 10px !important;
       background: var(--lightgray) !important;
+      border: 1px solid var(--gray, #e2e8f0) !important;
+      cursor: pointer !important;
+      flex: 0 0 42px !important;
+
+      button {
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        width: 100% !important;
+        height: 100% !important;
+        background: transparent !important;
+        border: none !important;
+        padding: 0 !important;
+      }
+
+      svg {
+        width: 20px !important;
+        height: 20px !important;
+        fill: var(--dark) !important;
+        stroke: var(--dark) !important;
+      }
     }
 
-    /* 4. Bandeiras de Idioma (Distribuídas com espaçamento igual) */
+    /* 5. Bandeiras de Idioma (Grid de 4 colunas com 100% de largura) */
     .nav-lang {
-      order: 4 !important;
-      display: flex !important;
-      align-items: center !important;
-      justify-content: space-between !important;
-      gap: 0.35rem !important;
-      margin: 0 !important;
+      order: 5 !important;
+      flex: 1 1 100% !important;
+      width: 100% !important;
+      display: grid !important;
+      grid-template-columns: repeat(4, 1fr) !important;
+      gap: 0.45rem !important;
+      margin: 0.25rem 0 !important;
 
       a {
         display: inline-flex !important;
         align-items: center !important;
         justify-content: center !important;
-        flex: 1 !important;
-        min-width: 36px !important;
-        height: 40px !important;
-        padding: 0 0.35rem !important;
+        width: 100% !important;
+        height: 38px !important;
+        padding: 0 !important;
         border-radius: 8px !important;
         background: var(--lightgray) !important;
-        font-size: 1rem !important;
+        border: 1px solid var(--gray, #e2e8f0) !important;
+        font-size: 0.88rem !important;
+        font-weight: 600 !important;
         color: var(--dark) !important;
         text-decoration: none !important;
+        transition: all 0.2s ease !important;
+
+        &:active {
+          transform: scale(0.96);
+          background: var(--gray) !important;
+        }
       }
     }
 
-    /* 5. Linha 2: Título "Pedro H. R. de Andrade" e Relógio UTC-3 centralizados */
+    /* 6. Título "Pedro H. R. de Andrade" e Relógio UTC-3 centralizados */
     .site-header-title-container {
-      order: 10 !important;
+      order: 6 !important;
       flex: 1 1 100% !important;
+      width: 100% !important;
       align-items: center !important;
       text-align: center !important;
-      margin: 0.35rem 0 0.1rem 0 !important;
+      margin: 0.35rem 0 0.15rem 0 !important;
 
       .page-title {
-        font-size: 1.35rem !important;
+        font-size: 1.4rem !important;
         font-weight: 700 !important;
         line-height: 1.25 !important;
         text-align: center !important;
@@ -1087,8 +1202,8 @@ body[data-slug="mapa/index"] .backlinks {
       }
 
       .utc3-live-clock {
-        margin-top: 0.2rem !important;
-        font-size: 0.8rem !important;
+        margin-top: 0.25rem !important;
+        font-size: 0.82rem !important;
         justify-content: center !important;
       }
     }
