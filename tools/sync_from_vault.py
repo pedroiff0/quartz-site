@@ -175,6 +175,126 @@ def generate_anotacoes_table(anotacoes_dir: str, prefix_link="") -> str:
             
     return '\n'.join(lines)
 
+def parse_journal_club_notes(jc_dir: str):
+    if not os.path.exists(jc_dir):
+        return []
+    
+    notes = []
+    for f in os.listdir(jc_dir):
+        if not f.endswith('.md'):
+            continue
+        f_lower = f.lower()
+        if f_lower.startswith('index') or f_lower.startswith('dashboard') or f_lower.startswith('topicos') or f_lower.startswith('readme') or 'esboço' in f_lower or 'esboco' in f_lower or 'draft' in f_lower or '.sync-conflict' in f_lower:
+            continue
+        
+        fp = os.path.join(jc_dir, f)
+        with open(fp, 'r', encoding='utf-8', errors='ignore') as file:
+            content = file.read()
+            
+        basename = f.replace('.md', '')
+        title = basename
+        authors = "—"
+        presenter = "—"
+        year = "—"
+        arxiv = ""
+        discussed = ""
+        
+        if content.startswith('---'):
+            parts = content.split('---', 2)
+            if len(parts) >= 3:
+                fm = parts[1]
+                for line in fm.splitlines():
+                    l = line.strip()
+                    if l.startswith('title:'):
+                        val = l.split(':', 1)[1].strip().strip("'\"")
+                        if val:
+                            title = val
+                    elif l.startswith('authors:'):
+                        authors = l.split(':', 1)[1].strip().strip("'\"")
+                    elif l.startswith(('presenter:', 'apresentador:')):
+                        presenter = l.split(':', 1)[1].strip().strip("'\"")
+                    elif l.startswith('year:'):
+                        year = l.split(':', 1)[1].strip().strip("'\"")
+                    elif l.startswith('arxiv:'):
+                        arxiv = l.split(':', 1)[1].strip().strip("'\"")
+                    elif l.startswith(('discussed:', 'discutido:')):
+                        raw_date = l.split(':', 1)[1].strip().strip("'\"")
+                        m = re.search(r"(\d{4})-(\d{2})-(\d{2})", raw_date)
+                        if m:
+                            discussed = f"{m.group(3)}/{m.group(2)}/{m.group(1)}"
+                        else:
+                            discussed = raw_date
+                            
+        # Se não tem arxiv, não é artigo de Journal Club
+        if not arxiv:
+            continue
+            
+        notes.append({
+            'basename': basename,
+            'title': title,
+            'authors': authors,
+            'presenter': presenter,
+            'year': str(year),
+            'arxiv': arxiv,
+            'discussed': discussed,
+            'path': fp
+        })
+        
+    return notes
+
+def generate_journal_club_table(jc_dir: str, query_text: str) -> str:
+    notes = parse_journal_club_notes(jc_dir)
+    if not notes:
+        return "> [!info] Nenhum artigo registrado\n> Os artigos discutidos neste Journal Club serão listados aqui."
+    
+    query_lower = query_text.lower()
+    
+    # 1. Filtro: Se a query pede apenas os artigos apresentados por Pedro
+    if "contains(presenter, \"pedro\")" in query_lower and not "!contains" in query_lower and not "not contains" in query_lower:
+        filtered = [n for n in notes if "pedro" in n['presenter'].lower()]
+        if not filtered:
+            return "> [!info] Nenhum artigo apresentado até o momento."
+        
+        filtered.sort(key=lambda x: x['discussed'], reverse=True)
+        
+        lines = [
+            "| Artigo | Autoria | Ano | Data | arXiv / Link |",
+            "| :--- | :--- | :---: | :---: | :---: |"
+        ]
+        for n in filtered:
+            arxiv_link = f"[{n['arxiv'].split('/')[-1]}]({n['arxiv']})" if n['arxiv'].startswith("http") else n['arxiv']
+            lines.append(f"| [[{n['basename']}\\|{n['title']}]] | {n['authors']} | {n['year']} | {n['discussed']} | {arxiv_link} |")
+        return '\n'.join(lines)
+        
+    # 2. Filtro: Se a query pede artigos apresentados por colegas (!contains(presenter, "Pedro"))
+    elif "!contains(presenter, \"pedro\")" in query_lower or "not contains(presenter, \"pedro\")" in query_lower:
+        filtered = [n for n in notes if "pedro" not in n['presenter'].lower()]
+        if not filtered:
+            return "> [!info] Nenhum artigo recomendado registrado no momento."
+            
+        filtered.sort(key=lambda x: x['discussed'], reverse=True)
+        
+        lines = [
+            "| Artigo | Apresentado por | Autoria | Ano | Data | arXiv / Link |",
+            "| :--- | :--- | :--- | :---: | :---: | :---: |"
+        ]
+        for n in filtered:
+            arxiv_link = f"[{n['arxiv'].split('/')[-1]}]({n['arxiv']})" if n['arxiv'].startswith("http") else n['arxiv']
+            lines.append(f"| [[{n['basename']}\\|{n['title']}]] | {n['presenter']} | {n['authors']} | {n['year']} | {n['discussed']} | {arxiv_link} |")
+        return '\n'.join(lines)
+        
+    # 3. Tabela Geral (Ex: ENGCOMP ou visão ampla)
+    else:
+        notes.sort(key=lambda x: x['discussed'], reverse=True)
+        lines = [
+            "| Artigo | Apresentou | Autoria | Ano | Discutido em | arXiv |",
+            "| :--- | :--- | :--- | :---: | :---: | :---: |"
+        ]
+        for n in notes:
+            arxiv_link = f"[{n['arxiv'].split('/')[-1]}]({n['arxiv']})" if n['arxiv'].startswith("http") else n['arxiv']
+            lines.append(f"| [[{n['basename']}\\|{n['title']}]] | {n['presenter']} | {n['authors']} | {n['year']} | {n['discussed']} | {arxiv_link} |")
+        return '\n'.join(lines)
+
 def transform_markdown_file(file_path: str):
     if not file_path.endswith('.md'):
         return
@@ -262,17 +382,25 @@ def transform_markdown_file(file_path: str):
         content = '\n'.join(new_lines)
 
     # 4. Avaliar e renderizar blocos Dataview para tabelas estáticas Markdown
-    if "```dataview" in content:
-        if parent_name == 'anotações' or parent_name == 'anotacoes':
-            table_md = generate_anotacoes_table(parent_dir)
-            content = re.sub(r'```dataview\s*[\s\S]*?```', table_md, content)
+    def dataview_replacer(match):
+        block_text = match.group(0)
+        is_jc = ('journal-clubs' in file_path.lower() or 
+                 'journal-clubs' in block_text.lower() or 
+                 'arxiv' in block_text.lower() or
+                 'mwbr' in file_path.lower() or
+                 'engcomp' in file_path.lower())
+        if is_jc:
+            return generate_journal_club_table(parent_dir, block_text)
+        elif parent_name == 'anotações' or parent_name == 'anotacoes':
+            return generate_anotacoes_table(parent_dir)
         elif os.path.exists(os.path.join(parent_dir, 'Anotações')):
             anot_dir = os.path.join(parent_dir, 'Anotações')
-            table_md = generate_anotacoes_table(anot_dir, prefix_link="Anotações/")
-            content = re.sub(r'```dataview\s*[\s\S]*?```', table_md, content)
+            return generate_anotacoes_table(anot_dir, prefix_link="Anotações/")
         else:
-            table_md = generate_anotacoes_table(parent_dir)
-            content = re.sub(r'```dataview\s*[\s\S]*?```', table_md, content)
+            return generate_anotacoes_table(parent_dir)
+
+    if "```dataview" in content:
+        content = re.sub(r'```dataview\s*[\s\S]*?```', dataview_replacer, content)
 
     # 5. Converter blocos DataviewJS para widget limpo
     if "```dataviewjs" in content:

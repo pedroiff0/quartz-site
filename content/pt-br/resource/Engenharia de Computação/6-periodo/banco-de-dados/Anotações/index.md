@@ -17,3 +17,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
 | [[Aula 00 - Apresentação\|Aula 00 - Apresentação]] | 27/08/2026 | Pablo Manhães |
+| [[Trabalho - Normalização e Dependências Funcionais\|Normalização e Dependências Funcionais]] | 29/08/2026 | Pablo Manhães |

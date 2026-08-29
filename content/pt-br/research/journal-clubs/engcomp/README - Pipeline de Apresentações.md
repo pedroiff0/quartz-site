@@ -1,15 +1,11 @@
 ---
-tags:
-  - guia
-  - pipeline
-  - templates
-  - latex
-  - pptx
-  - journal-club
-  - engcomp
-draft: true
 publish: false
-modified: 2026-08-28 21:11
+draft: true
+tags:
+  - documentacao
+  - pipeline-guia
+  - meta
+modified: 2026-08-29 11:34
 cssclasses:
   - page-layout
 ---

@@ -25,6 +25,9 @@ configuration:
     - "**/Esboco/**"
     - "**/esboco"
     - "**/esboco/**"
+    - "**/README*"
+    - "**/*README*"
+    - "**/README - *"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -193,6 +196,9 @@ plugins:
           const seg = (node.slugSegment || "").toLowerCase();
           if (seg === "anotações" || seg === "anotacoes") {
             node.displayName = "Anotações";
+          }
+          if (seg === "atividades") {
+            node.displayName = "Atividades";
           }
           return node;
         }

@@ -2,7 +2,7 @@
 publish: true
 title: "Análise de Software Orientada a Objetos"
 created: 2026-07-18 12:00
-modified: 2026-08-27 21:59
+modified: 2026-08-29 11:18
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -119,3 +119,4 @@ cssclasses:
 
 ## 📝 Anotações e Arquivos Didáticos
 - 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
+- 🎯 **[[Anotações/Atividades/index|Acessar Trabalhos, Atividades & Avaliações]]**

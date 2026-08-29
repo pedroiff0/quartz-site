@@ -23,10 +23,9 @@ cssclasses:
 
 Artigos e tópicos que selecionei e apresentei nas sessões do Journal Club:
 
-| Aula / Conteúdo | Data |
-| :--- | :---: |
-| [[Artigo - Lu2026\|They Won't Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution]] | 28/08/2026 |
-| [[README - Pipeline de Apresentações\|🚀 Guia de Uso: Pipeline Unificado de Apresentações MWBR & IFF]] | 28/08/2026 |
+| Artigo | Autoria | Ano | Data | arXiv / Link |
+| :--- | :--- | :---: | :---: | :---: |
+| [[Artigo - Lu2026\|They Won't Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution]] | Lu, Y. (Lucy), Howell, M., Pinsonneault, M. H., Casey, A. R., Fernández-Trincado, J. G., Méndez Delgado, J. E. | 2026 | 28/08/2026 | [2608.06204](https://arxiv.org/abs/2608.06204) |
 
 ---
 
@@ -34,10 +33,7 @@ Artigos e tópicos que selecionei e apresentei nas sessões do Journal Club:
 
 Artigos de destaque apresentados por outros pesquisadores do grupo com discussões e metodologias que considerei fundamentais:
 
-| Aula / Conteúdo | Data |
-| :--- | :---: |
-| [[Artigo - Lu2026\|They Won't Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution]] | 28/08/2026 |
-| [[README - Pipeline de Apresentações\|🚀 Guia de Uso: Pipeline Unificado de Apresentações MWBR & IFF]] | 28/08/2026 |
+> [!info] Nenhum artigo recomendado registrado no momento.
 
 ---
 

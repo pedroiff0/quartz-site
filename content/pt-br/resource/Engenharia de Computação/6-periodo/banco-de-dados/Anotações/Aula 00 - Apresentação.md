@@ -25,6 +25,7 @@ cssclasses:
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
 | [[Aula 00 - Apresentação\|Aula 00 - Apresentação]] | 27/08/2026 | Pablo Manhães |
+| [[Trabalho - Normalização e Dependências Funcionais\|Normalização e Dependências Funcionais]] | 29/08/2026 | Pablo Manhães |
 
 > [!info] 📌 Informações da Aula & Contexto do Quadro
 > - **Tópico Central:** 

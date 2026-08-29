@@ -1,18 +1,24 @@
 ---
 publish: true
 title: "Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting"
+subtitle: "In-Database LLM Prompt Management and Rewriting"
 authors: "Martins, D. M. L. & Vossen, G."
+corresponding_author: "Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>"
 presenter: "Pedro Henrique Rocha de Andrade"
 year: 2026
 arxiv: "https://arxiv.org/abs/2607.21756"
+citekey: "Martins2026"
 topic: cs.DB
+club: engcomp
 discussed: 2026-08-01
 tags:
   - journal-club
   - engcomp
+  - paper-notes
 cssclasses:
   - page-layout
-modified: 2026-08-28 21:09
+  - paper-notes
+modified: 2026-08-29 11:22
 ---
 
 <div class="paper-banner">
@@ -60,16 +66,9 @@ modified: 2026-08-28 21:09
 
 ## 📂 Recursos & Materiais do Estudo
 
-> [!tip] 🔗 Links e Materiais Vinculados (Dinâmicos)
-> - 📄 **Artigo Original PDF:** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/Artigo - Martins2026.pdf|Artigo - Martins2026.pdf]]
-> - 📑 **Roteiro de Leitura (Lecture PDF):** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/roteiro_Martins2026.pdf|roteiro_Martins2026.pdf]]
-> - 📊 **Slides Beamer (LaTeX PDF Claro):** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/slides_engcomp_artigo.pdf|slides_engcomp_artigo.pdf]]
-> - 📊 **Slides Beamer (LaTeX PDF Escuro):** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/slides_engcomp_artigo_preto.pdf|slides_engcomp_artigo_preto.pdf]]
-> - 💻 **Slides PowerPoint (PPTX Claro):** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/main_slides_169_branco.pptx|main_slides_169_branco.pptx]]
-> - 💻 **Slides PowerPoint (PPTX Escuro):** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/main_slides_169_preto.pptx|main_slides_169_preto.pptx]]
-> - 👥 **Grupo de E-mails do Clube (Google Groups):** [groups.google.com/g/engcompbji](https://groups.google.com/g/engcompbji)
-> - 🏠 **Hub ENGCOMP no Site Pessoal:** [phrandrade.com/engcomp](https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/)
-> - 🔗 **Versão Publicada Desta Nota (Web):** [Acessar Nota Publicada Online](https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/prompt-as-a-data-type)
+| Artigo | Apresentou | Autoria | Ano | Discutido em | arXiv |
+| :--- | :--- | :--- | :---: | :---: | :---: |
+| [[prompt-as-a-data-type\|Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting]] | Pedro Henrique Rocha de Andrade | Martins, D. M. L. & Vossen, G. | 2026 | 01/08/2026 | [2607.21756](https://arxiv.org/abs/2607.21756) |
 
 ---
 

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- Background Gradient: Deep Cosmic Violet -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0717"/>
+      <stop offset="50%" stop-color="#1b0e36"/>
+      <stop offset="100%" stop-color="#2d1254"/>
+    </linearGradient>
+
+    <!-- Glowing Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#ec4899" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.9"/>
+    </linearGradient>
+
+    <!-- Star & Core Gradient: Golden Brilliance -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="35%" stop-color="#fde047"/>
+      <stop offset="70%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+
+    <!-- Orbital Gradient -->
+    <linearGradient id="orbitGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="coreGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="20" result="blur1" />
+      <feGaussianBlur stdDeviation="8" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur1" />
+        <feMergeNode in="blur2" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base Rounded Squircle -->
+  <rect x="24" y="24" width="464" height="464" rx="108" fill="url(#bgGrad)"/>
+  <rect x="24" y="24" width="464" height="464" rx="108" fill="none" stroke="url(#borderGrad)" stroke-width="12" opacity="0.85"/>
+
+  <!-- Subtle Inner Ambient Nebula Glow -->
+  <circle cx="256" cy="256" r="160" fill="#7c3aed" opacity="0.22" filter="url(#glow)"/>
+  <circle cx="256" cy="256" r="90" fill="#f59e0b" opacity="0.18" filter="url(#glow)"/>
+
+  <!-- Celestial Orbital Ring 1 (Inclined Orbit) -->
+  <ellipse cx="256" cy="256" rx="180" ry="65" fill="none" stroke="url(#orbitGrad)" stroke-width="12" stroke-linecap="round" transform="rotate(-30 256 256)" opacity="0.85" filter="url(#glow)"/>
+  <!-- Orbital Satellite Particle 1 -->
+  <circle cx="100" cy="165" r="9" fill="#38bdf8" filter="url(#glow)"/>
+  <circle cx="412" cy="347" r="7" fill="#ec4899" filter="url(#glow)"/>
+
+  <!-- Celestial Orbital Ring 2 (Counter-Inclined Orbit) -->
+  <ellipse cx="256" cy="256" rx="170" ry="60" fill="none" stroke="url(#orbitGrad)" stroke-width="8" stroke-dasharray="16 12" stroke-linecap="round" transform="rotate(40 256 256)" opacity="0.6"/>
+  <!-- Orbital Satellite Particle 2 -->
+  <circle cx="370" cy="160" r="8" fill="#fde047" filter="url(#glow)"/>
+
+  <!-- Stylized Elegant Letter P + Academic Pulsar Node -->
+  <!-- Vertical Stem of 'P' -->
+  <path d="M 200 130 L 200 382" stroke="url(#goldGrad)" stroke-width="26" stroke-linecap="round" filter="url(#glow)"/>
+  
+  <!-- Loop of 'P' with aerodynamic orbital curve -->
+  <path d="M 200 135 C 320 135, 340 260, 200 260" fill="none" stroke="url(#goldGrad)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+
+  <!-- Brilliant Center Pulsar / 4-Point Cosmic Star -->
+  <g transform="translate(256, 256)" filter="url(#coreGlow)">
+    <!-- 4-point star path -->
+    <path d="M 0 -75 Q 0 0 -75 0 Q 0 0 0 75 Q 0 0 75 0 Q 0 0 0 -75 Z" fill="url(#goldGrad)"/>
+    <!-- Diagonal micro-rays -->
+    <path d="M 0 -45 Q 0 0 -45 0 Q 0 0 0 45 Q 0 0 45 0 Q 0 0 0 -45 Z" fill="#ffffff" transform="rotate(45)" opacity="0.9"/>
+    <!-- Core White Sparkle -->
+    <circle cx="0" cy="0" r="14" fill="#ffffff"/>
+  </g>
+
+  <!-- Tiny Accent Stars -->
+  <circle cx="150" cy="100" r="3.5" fill="#ffffff" opacity="0.8"/>
+  <circle cx="380" cy="110" r="4.5" fill="#ffffff" opacity="0.9"/>
+  <circle cx="360" cy="400" r="4" fill="#fde047" opacity="0.85"/>
+  <circle cx="130" cy="390" r="3" fill="#38bdf8" opacity="0.75"/>
+</svg>

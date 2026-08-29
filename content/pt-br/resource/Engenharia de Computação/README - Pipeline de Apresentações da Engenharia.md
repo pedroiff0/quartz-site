@@ -1,14 +1,11 @@
 ---
-tags:
-  - guia
-  - pipeline
-  - engenharia
-  - latex
-  - pptx
-  - quickadd
-draft: true
 publish: false
-modified: 2026-08-28 21:09
+draft: true
+tags:
+  - documentacao
+  - pipeline-guia
+  - meta
+modified: 2026-08-29 11:34
 cssclasses:
   - page-layout
 ---

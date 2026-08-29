@@ -2,7 +2,7 @@
 publish: true
 title: ENGCOMP
 created: 2026-07-26 13:04
-modified: 2026-08-27 21:59
+modified: 2026-08-29 11:50
 published: 2026-08-01T20:04:04.327-03:00
 cssclasses:
   - page-layout
@@ -25,46 +25,9 @@ A organização acontece toda no grupo de e-mail **[engcompbji](https://groups.g
 
 A tabela é gerada a partir do frontmatter das próprias notas desta pasta — uma nota nova aparece sozinha no próximo build, sem editar esta página. Ver o [[pt-br/research/journal-clubs#padrão-de-cada-entrada|padrão de cada entrada]].
 
-```base
-filters:
-  and:
-    - 'file.folder.startsWith("pt-br/research/journal-clubs/engcomp")'
-    # Só notas de artigo têm `arxiv`; é o que separa uma entrada das páginas
-    # de apoio desta pasta (index, topicos, dashboard).
-    - 'note.arxiv'
-formulas:
-  artigo: 'link(file.path, note.title)'
-properties:
-  formula.artigo:
-    displayName: Artigo
-  note.apresentador:
-    displayName: Apresentou
-  note.authors:
-    displayName: Autoria
-  note.year:
-    displayName: Ano
-  note.discutido:
-    displayName: Discutido em
-  # A URL do arXiv entra como texto e o Quartz a transforma em link externo
-  # sozinho. Não usar link() aqui: ele só resolve caminho interno e transforma
-  # uma URL em "../../https/arxiv.org/...". html() também não serve — o markup
-  # é escapado antes de chegar na célula.
-  note.arxiv:
-    displayName: arXiv
-views:
-  - type: table
-    name: Artigos discutidos
-    order:
-      - formula.artigo
-      - note.apresentador
-      - note.authors
-      - note.year
-      - note.discutido
-      - note.arxiv
-    sort:
-      - property: note.discutido
-        direction: DESC
-```
+| Artigo | Apresentou | Autoria | Ano | Discutido em | arXiv |
+| :--- | :--- | :--- | :---: | :---: | :---: |
+| [[prompt-as-a-data-type\|Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting]] | Pedro Henrique Rocha de Andrade | Martins, D. M. L. & Vossen, G. | 2026 | 01/08/2026 | [2607.21756](https://arxiv.org/abs/2607.21756) |
 
 ## 📣 Chamada para o grupo
 
