@@ -2,7 +2,7 @@
 publish: true
 title: MWBR — Journal Club
 created: 2026-07-26 13:04
-modified: 2026-08-27 21:59
+modified: 2026-08-28 13:31
 published: 2026-08-01T20:04:12.171-03:00
 cssclasses:
   - page-layout
@@ -23,38 +23,10 @@ cssclasses:
 
 Artigos e tópicos que selecionei e apresentei nas sessões do Journal Club:
 
-```base
-filters:
-  and:
-    - 'file.folder.startsWith("pt-br/research/journal-clubs/mwbr")'
-    - 'note.arxiv'
-    - 'note.apresentador.contains("Pedro")'
-formulas:
-  artigo: 'link(file.path, note.title)'
-properties:
-  formula.artigo:
-    displayName: Artigo
-  note.authors:
-    displayName: Autoria
-  note.year:
-    displayName: Ano
-  note.discutido:
-    displayName: Data
-  note.arxiv:
-    displayName: arXiv / Link
-views:
-  - type: table
-    name: Minhas Apresentações
-    order:
-      - formula.artigo
-      - note.authors
-      - note.year
-      - note.discutido
-      - note.arxiv
-    sort:
-      - property: note.discutido
-        direction: DESC
-```
+| Aula / Conteúdo | Data |
+| :--- | :---: |
+| [[Artigo - Lu2026\|They Won't Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution]] | 28/08/2026 |
+| [[README - Pipeline de Apresentações\|🚀 Guia de Uso: Pipeline Unificado de Apresentações MWBR & IFF]] | 28/08/2026 |
 
 ---
 
@@ -62,41 +34,10 @@ views:
 
 Artigos de destaque apresentados por outros pesquisadores do grupo com discussões e metodologias que considerei fundamentais:
 
-```base
-filters:
-  and:
-    - 'file.folder.startsWith("pt-br/research/journal-clubs/mwbr")'
-    - 'note.arxiv'
-    - '!note.apresentador.contains("Pedro")'
-formulas:
-  artigo: 'link(file.path, note.title)'
-properties:
-  formula.artigo:
-    displayName: Artigo
-  note.apresentador:
-    displayName: Apresentado por
-  note.authors:
-    displayName: Autoria
-  note.year:
-    displayName: Ano
-  note.discutido:
-    displayName: Data
-  note.arxiv:
-    displayName: arXiv / Link
-views:
-  - type: table
-    name: Seleção de Destaques
-    order:
-      - formula.artigo
-      - note.apresentador
-      - note.authors
-      - note.year
-      - note.discutido
-      - note.arxiv
-    sort:
-      - property: note.discutido
-        direction: DESC
-```
+| Aula / Conteúdo | Data |
+| :--- | :---: |
+| [[Artigo - Lu2026\|They Won't Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution]] | 28/08/2026 |
+| [[README - Pipeline de Apresentações\|🚀 Guia de Uso: Pipeline Unificado de Apresentações MWBR & IFF]] | 28/08/2026 |
 
 ---
 
