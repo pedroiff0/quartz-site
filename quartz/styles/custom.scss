@@ -1412,6 +1412,55 @@ h1.article-title {
   box-sizing: border-box !important;
 }
 
+/* --- Content Overflow & Sidebar Layout Containment --- */
+.center {
+  min-width: 0 !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+article {
+  min-width: 0 !important;
+  max-width: 100% !important;
+  overflow-wrap: break-word !important;
+  word-break: normal !important;
+  box-sizing: border-box !important;
+}
+
+/* Ensure wide tables scroll horizontally within their card/column without breaking grid */
+.table-container,
+table {
+  max-width: 100% !important;
+  display: block !important;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+  box-sizing: border-box !important;
+}
+
+/* Ensure wide math equations scroll horizontally */
+.katex-display {
+  max-width: 100% !important;
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+  padding: 0.5rem 0 !important;
+  -webkit-overflow-scrolling: touch !important;
+}
+
+/* Ensure code blocks stay within bounds */
+pre {
+  max-width: 100% !important;
+  overflow-x: auto !important;
+  box-sizing: border-box !important;
+}
+
+/* Ensure callouts stay within article width */
+.callout {
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  overflow-wrap: break-word !important;
+}
+
+
 
 
 

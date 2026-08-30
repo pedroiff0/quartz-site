@@ -53,32 +53,12 @@ modified: 2026-08-30T16:40:00-03:00
 
 ## 📂 Recursos & Materiais da Disciplina
 
-```dataviewjs
-const c = dv.current();
-const filePath = c.file?.path || "";
-const parts = filePath.split("/");
-const periodIndex = parts.findIndex(p => p.toLowerCase().includes("periodo") || p.toLowerCase().includes("período"));
-const period = c.period || (periodIndex !== -1 ? parts[periodIndex] : "6-periodo");
-const disciplineFolder = (periodIndex !== -1 && parts.length > periodIndex + 1) ? parts[periodIndex + 1] : "filosofia-da-ciencia-e-tecnologia";
-
-let matPath = "02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais";
-if (period && disciplineFolder && disciplineFolder !== "Anotações" && disciplineFolder !== "Atividades") {
-    matPath += `/${period}/${disciplineFolder}`;
-} else if (period) {
-    matPath += `/${period}`;
-}
-
-const roteiroFile = c.roteiro_pdf || "roteiro_iff_disciplina.pdf";
-const hubEngcomp = "https://www.phrandrade.com/pt-br/resource/engenharia-de-computa%C3%A7%C3%A3o/";
-const discHubUrl = c.disciplina_url || (disciplineFolder ? `${hubEngcomp}${period}/${disciplineFolder}/` : hubEngcomp);
-const portalUrl = c.portal_institucional || "https://portal1.iff.edu.br/";
-
-dv.paragraph(`> [!tip] 🔗 Links e Documentos Oficiais Vinculados
-> - 📑 **Roteiro & Documento Técnico Acadêmico (PDF):** [[${matPath}/${roteiroFile}|${roteiroFile}]] *(Documento formatado em LaTeX institucional)*
+> [!tip] 🔗 Links e Documentos Oficiais Vinculados (Filosofia da Ciência e Tecnologia)
+> - 📑 **Roteiro & Documento Técnico Acadêmico (PDF):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/filosofia-da-ciencia-e-tecnologia/roteiro_iff_disciplina.pdf|roteiro_iff_disciplina.pdf]] *(Documento formatado em LaTeX institucional)*
+> - 📑 **Roteiro & Documento Técnico - Modo Noturno (PDF):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/filosofia-da-ciencia-e-tecnologia/roteiro_iff_disciplina_preto.pdf|roteiro_iff_disciplina_preto.pdf]]
 > - 📄 **Texto Original em PDF (PDF++):** [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf]]
-> - 🌐 **Hub da Disciplina no Portal Acadêmico:** [Acessar Página no Quartz](${discHubUrl})
-> - 🏛️ **Portal Institucional IFF:** [portal1.iff.edu.br](${portalUrl})`);
-```
+> - 🌐 **Hub da Disciplina no Quartz:** [Acessar Hub de Filosofia](https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/)
+> - 🏛️ **Portal Institucional IFF:** [portal1.iff.edu.br](https://portal1.iff.edu.br/)
 
 ---
 

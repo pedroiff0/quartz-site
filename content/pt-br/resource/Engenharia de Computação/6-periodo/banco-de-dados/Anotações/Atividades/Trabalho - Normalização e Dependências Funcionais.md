@@ -61,35 +61,14 @@ modified: 2026-08-30T15:58:00-03:00
 
 ## 📂 Recursos & Materiais da Disciplina
 
-```dataviewjs
-const c = dv.current();
-const filePath = c.file?.path || "";
-const parts = filePath.split("/");
-const periodIndex = parts.findIndex(p => p.toLowerCase().includes("periodo") || p.toLowerCase().includes("período"));
-const period = c.period || (periodIndex !== -1 ? parts[periodIndex] : "6-periodo");
-const disciplineFolder = (periodIndex !== -1 && parts.length > periodIndex + 1) ? parts[periodIndex + 1] : "banco-de-dados";
-
-let matPath = "02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais";
-if (period && disciplineFolder && disciplineFolder !== "Anotações" && disciplineFolder !== "Atividades") {
-    matPath += `/${period}/${disciplineFolder}`;
-} else if (period) {
-    matPath += `/${period}`;
-}
-
-const roteiroFile = c.roteiro_pdf || "roteiro_iff_disciplina.pdf";
-const slidesClaroFile = c.slides_latex_claro || "slides_iff_disciplina.pdf";
-const slidesEscuroFile = c.slides_latex_escuro || "slides_iff_disciplina_preto.pdf";
-const hubEngcomp = "https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/";
-const discHubUrl = c.disciplina_url || (disciplineFolder ? `${hubEngcomp}${period}/${disciplineFolder}/` : hubEngcomp);
-const portalUrl = c.portal_institucional || "https://portal1.iff.edu.br/";
-
-dv.paragraph(`> [!tip] 🔗 Links e Materiais Vinculados (Automático da Disciplina)
-> - 📑 **Roteiro & Documento Técnico (PDF):** [[${matPath}/${roteiroFile}|${roteiroFile}]] *(Link no card lateral dos slides)*
-> - 📊 **Slides LaTeX (PDF Claro):** [[${matPath}/${slidesClaroFile}|${slidesClaroFile}]] *(Apresentação Beamer - Modo Claro)*
-> - 📊 **Slides LaTeX (PDF Escuro):** [[${matPath}/${slidesEscuroFile}|${slidesEscuroFile}]] *(Apresentação Beamer - Modo Noturno)*
-> - 🌐 **Hub da Disciplina:** [Acessar Hub no Quartz](${discHubUrl}) *(Link ao clicar na Disciplina no cabeçalho dos slides)*
-> - 🏛️ **Portal Institucional IFF:** [portal1.iff.edu.br](${portalUrl}) *(Portal institucional)*`);
-```
+> [!tip] 🔗 Links e Materiais Vinculados (Banco de Dados)
+> - 📑 **Roteiro & Documento Técnico (PDF):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/banco-de-dados/roteiro_iff_disciplina.pdf|roteiro_iff_disciplina.pdf]] *(Documento formatado em LaTeX institucional)*
+> - 📊 **Slides Beamer Institucionais (PDF Claro):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/banco-de-dados/slides_iff_disciplina.pdf|slides_iff_disciplina.pdf]] *(Apresentação Institucional IFF - Modo Claro)*
+> - 📊 **Slides Beamer Institucionais (PDF Escuro):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/banco-de-dados/slides_iff_disciplina_preto.pdf|slides_iff_disciplina_preto.pdf]] *(Apresentação Institucional IFF - Modo Noturno)*
+> - 💻 **Apresentação em PowerPoint (PPTX Claro):** `slides_iff_disciplina.pptx`
+> - 💻 **Apresentação em PowerPoint (PPTX Escuro):** `slides_iff_disciplina_preto.pptx`
+> - 🌐 **Hub da Disciplina no Quartz:** [Acessar Hub de Banco de Dados](https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/)
+> - 🏛️ **Portal Institucional IFF:** [portal1.iff.edu.br](https://portal1.iff.edu.br/)
 
 > [!info] 🛠️ Guia das Propriedades de Links e Apresentação
 > - **`disciplina_url`**: URL aberta ao clicar no **Nome da Disciplina** no cabeçalho superior dos slides.

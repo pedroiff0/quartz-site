@@ -35,7 +35,7 @@ cssclasses:
   - page-layout
   - center-titles
   - center-images
-modified: 2026-08-29 13:30
+modified: 2026-08-29T13:30:23-03:00
 ---
 
 # 🎓 Trabalho - Coesão e Acoplamento em Análise de Software (ASOO)
@@ -61,10 +61,14 @@ modified: 2026-08-29 13:30
 
 ## 📂 Recursos & Materiais da Disciplina
 
-> [!tip] 🔗 Arquivos e Materiais da Disciplina
-> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
-> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
-> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
+> [!tip] 🔗 Links e Materiais Vinculados (ASOO)
+> - 📑 **Roteiro & Documento Técnico (PDF):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/analise-de-software-orientada-a-objetos/roteiro_iff_disciplina.pdf|roteiro_iff_disciplina.pdf]] *(Documento formatado em LaTeX institucional)*
+> - 📊 **Slides Beamer Institucionais (PDF Claro):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/analise-de-software-orientada-a-objetos/slides_iff_disciplina.pdf|slides_iff_disciplina.pdf]] *(Apresentação Institucional IFF - Modo Claro)*
+> - 📊 **Slides Beamer Institucionais (PDF Escuro):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/analise-de-software-orientada-a-objetos/slides_iff_disciplina_preto.pdf|slides_iff_disciplina_preto.pdf]] *(Apresentação Institucional IFF - Modo Noturno)*
+> - 💻 **Apresentação em PowerPoint (PPTX Claro):** `slides_iff_disciplina.pptx`
+> - 💻 **Apresentação em PowerPoint (PPTX Escuro):** `slides_iff_disciplina_preto.pptx`
+> - 🌐 **Hub da Disciplina no Quartz:** [Acessar Hub de ASOO](https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/)
+> - 🏛️ **Portal Institucional IFF:** [portal1.iff.edu.br](https://portal1.iff.edu.br/)
 
 ---
 
