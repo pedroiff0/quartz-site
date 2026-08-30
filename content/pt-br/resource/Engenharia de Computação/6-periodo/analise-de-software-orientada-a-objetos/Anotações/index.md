@@ -2,7 +2,7 @@
 publish: true
 title: "Anotações"
 created: 2026-08-24 21:03
-modified: 2026-08-29 11:18
+modified: 2026-08-29 12:40
 cssclasses:
   - page-layout
   - cards
@@ -22,7 +22,7 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
-| [[Aula 00 - Apresentação\|Aula 00]] | 26/08/2026 | Pablo Manhães |
+| [[Aula 00 - Apresentação\|📝 Aula 00 - Apresentação]] | 26/08/2026 | Pablo Manhães |
 
 ---
 

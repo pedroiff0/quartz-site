@@ -11,7 +11,7 @@ pdf: "https://arxiv.org/pdf/2608.06204"
 citekey: "Lu2026"
 topic: astro-ph.GA
 club: mwbr
-discussed: 2026-08-28
+discussed: 28/08/2026
 tags:
   - journal-club
   - mwbr
@@ -19,7 +19,7 @@ tags:
 cssclasses:
   - page-layout
   - paper-notes
-modified: 2026-08-29 11:22
+modified: 2026-08-29 12:31
 ---
 
 <div class="paper-banner">
@@ -90,9 +90,10 @@ modified: 2026-08-29 11:22
 
 ## 📂 Recursos & Materiais do Estudo
 
-| Artigo | Apresentou | Autoria | Ano | Discutido em | arXiv |
-| :--- | :--- | :--- | :---: | :---: | :---: |
-| [[Artigo - Lu2026\|They Won't Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution]] | Pedro Henrique Rocha de Andrade | Lu, Y. (Lucy), Howell, M., Pinsonneault, M. H., Casey, A. R., Fernández-Trincado, J. G., Méndez Delgado, J. E. | 2026 | 28/08/2026 | [2608.06204](https://arxiv.org/abs/2608.06204) |
+> [!tip] 🔗 Arquivos e Materiais da Disciplina
+> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
+> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
+> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
 ---
 

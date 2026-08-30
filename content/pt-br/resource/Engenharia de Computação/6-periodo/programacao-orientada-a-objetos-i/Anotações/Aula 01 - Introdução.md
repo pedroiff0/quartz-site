@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Aula 01 - Introdução
+title: "Aula 01 - Introdução"
 created: 2026-08-26 14:49
-modified: 2026-08-27 21:59
+modified: 2026-08-29 12:51
 encrypted: true
 tags:
   - aula
@@ -15,26 +15,28 @@ cssclasses:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="../index">Hub da Disciplina</a></b></div>
+  <div>🏠 <b><a href="../index">Visão Geral</a></b></div>
+  <div>➡️ <b><a href="../index">Aulas</a></b></div>
 </div>
 
-| Aula / Conteúdo | Data | Docente |
-| :--- | :---: | :--- |
-| [[02\|02]] | 29/08/2026 | — |
-| [[Aula 01 - Introdução\|Aula 01 - Introdução]] | 26/08/2026 | Anderson Veiga |
+# 📝 Aula 01 - Introdução
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Tópico Central:** Introdução a POO
-> - **Status das Anotações:** 
-> - [ ] 🟡 Planejando
-> - [ ] 🟠 Em Andamento
-> - [ ] 🟢 Concluído
+> [!info] 📌 Informações da Aula
+> - **Docente:** Anderson Veiga
+> - **Data da Aula:** 26/08/2026
+> - **Tópico Central:** Paradigma Orientado a Objetos, Abstração, Classes, Objetos e Encapsulamento
+> - **Status das Anotações:**
+>   - [ ] 🟡 Planejando
+>   - [ ] 🟠 Em Andamento
+>   - [x] 🟢 Concluído
 
-> [!note] 📦 Material Didático & Recursos da Aula
-> - 📄 **[[Aula 01 - Introdução]]**
-> - 📖 **[[../short-lecture|Short Lecture da Disciplina]]**
+## 📂 Materiais & Recursos Didáticos da Aula
+
+> [!tip] 🔗 Arquivos e Materiais da Disciplina
+> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
+> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
+> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
 ## 📋 Sumário Interativo
 - [📍 Anotações](#-anotações)

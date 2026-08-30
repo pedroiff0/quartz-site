@@ -11,7 +11,7 @@ tags:
 cssclasses:
   - page-layout
   - cards
-modified: 2026-08-29 11:59
+modified: 2026-08-29 12:31
 ---
 
 # 🎯 Atividades, Trabalhos & Avaliações
@@ -22,8 +22,9 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 ## 📋 Relação de Trabalhos & Atividades
 
-> [!info] Sem anotações registradas
-> As notas de aula desta disciplina serão disponibilizadas aqui conforme forem ministradas.
+| Aula / Conteúdo | Data | Docente |
+| :--- | :---: | :--- |
+| [[Trabalho - Normalização e Dependências Funcionais\|🔗 Links e Materiais do Trabalho & Slides (LaTeX / Quartz)]] | 30/08/2026 | Pablo Manhães |
 
 ---
 

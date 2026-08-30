@@ -100,7 +100,10 @@ def parse_note_metadata(file_path: str):
                 if l.startswith(('title:', 'titulo:')):
                     val = l.split(':', 1)[1].strip().strip("'\"")
                     if val and val.lower() != 'anotações':
-                        title = val
+                        if re.match(r"^Aula\s+\d+$", val, re.IGNORECASE) and len(basename) > len(val):
+                            title = basename
+                        else:
+                            title = val
                 elif l.startswith(('created:', 'criado:')):
                     val = l.split(':', 1)[1].strip().strip("'\"")
                     m = re.search(r"(\d{4})-(\d{2})-(\d{2})", val)
@@ -310,6 +313,31 @@ def transform_markdown_file(file_path: str):
     # 2. Converter links markdown no formato [label](path) para Wikilinks [[path|label]]
     content = convert_md_links_in_str(content)
 
+    # 2.1 Em tabelas Markdown (| col1 | col2 |), converter Wikilinks para links markdown padrão [Label](Target)
+    # Isso evita que o parser GFM/Remark quebre colunas devido ao pipe '|' interno do wikilink.
+    lines_tmp = content.splitlines()
+    table_lines = []
+    for line in lines_tmp:
+        if line.strip().startswith('|'):
+            def table_link_converter(match):
+                inner = match.group(1).strip()
+                if '\\|' in inner:
+                    parts = inner.split('\\|', 1)
+                    target, label = parts[0].strip(), parts[1].strip()
+                elif '|' in inner:
+                    parts = inner.split('|', 1)
+                    target, label = parts[0].strip(), parts[1].strip()
+                else:
+                    target = inner
+                    label = os.path.basename(inner)
+                
+                formatted_target = f"<{target}>" if ' ' in target else target
+                return f"[{label}]({formatted_target})"
+
+            line = re.sub(r'\[\[(.*?)\]\]', table_link_converter, line)
+        table_lines.append(line)
+    content = '\n'.join(table_lines)
+
     # 3. Sanitizar permalinks, formatar criacao/modificacao e garantir cssclasses no frontmatter
     import datetime
     mtime_dt = datetime.datetime.fromtimestamp(os.path.getmtime(file_path))
@@ -381,7 +409,7 @@ def transform_markdown_file(file_path: str):
             
         content = '\n'.join(new_lines)
 
-    # 4. Avaliar e renderizar blocos Dataview para tabelas estáticas Markdown
+    # 4. Avaliar e renderizar blocos Dataview para tabelas estáticas Markdown (sem pegar dataviewjs)
     def dataview_replacer(match):
         block_text = match.group(0)
         is_jc = ('journal-clubs' in file_path.lower() or 
@@ -399,18 +427,31 @@ def transform_markdown_file(file_path: str):
         else:
             return generate_anotacoes_table(parent_dir)
 
-    if "```dataview" in content:
-        content = re.sub(r'```dataview\s*[\s\S]*?```', dataview_replacer, content)
+    content = re.sub(r'```dataview\b[\s\S]*?```', dataview_replacer, content)
 
-    # 5. Converter blocos DataviewJS para widget limpo
-    if "```dataviewjs" in content:
-        progress_html = '''<div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
+    # 5. Avaliar e renderizar blocos DataviewJS
+    def dataviewjs_replacer(match):
+        block_text = match.group(0)
+        if 'interactive-nav-bar' in block_text or 'disciplineAulas' in block_text or 'prevLink' in block_text or 'hubLink' in block_text:
+            return '''<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
+  <div>⬅️ <b><a href="../index">Hub da Disciplina</a></b></div>
+  <div>🏠 <b><a href="../index">Visão Geral</a></b></div>
+  <div>➡️ <b><a href="../index">Aulas</a></b></div>
+</div>'''
+        elif '_materiais' in block_text or 'slides_aula' in block_text:
+            return '''> [!tip] 🔗 Arquivos e Materiais da Disciplina
+> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
+> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
+> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*'''
+        else:
+            return '''<div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
   <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
   <div style="background: var(--lightgray, #e2e8f0); border-radius: 4px; overflow: hidden; height: 8px;">
     <div style="background: var(--secondary, #6d28d9); width: 10%; height: 100%;"></div>
   </div>
 </div>'''
-        content = re.sub(r'```dataviewjs\s*[\s\S]*?```', progress_html, content)
+
+    content = re.sub(r'```dataviewjs\b[\s\S]*?```', dataviewjs_replacer, content)
 
     if content and not content.endswith('\n'):
         content += '\n'

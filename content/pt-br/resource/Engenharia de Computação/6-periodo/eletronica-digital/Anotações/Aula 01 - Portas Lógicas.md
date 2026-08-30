@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Aula 01 - Portas Lógicas
+title: "Aula 01 - Portas Lógicas"
 created: 2026-08-24 14:50
-modified: 2026-08-27 22:29
+modified: 2026-08-29 12:51
 encrypted: true
 tags:
   - aula
@@ -15,19 +15,28 @@ cssclasses:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="../index">Hub da Disciplina</a></b></div>
+  <div>🏠 <b><a href="../index">Visão Geral</a></b></div>
+  <div>➡️ <b><a href="../index">Aulas</a></b></div>
 </div>
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Tópico Central:** Portas Lógicas & Álgebra Booleana
-> - **Status das Anotações:** 🟢 Concluído
+# 📝 Aula 01 - Portas Lógicas
 
-> [!note] 📦 Material Didático & Recursos da Aula
-> - 📄 **[Lista de Exercícios de Notação Correta em PDF](/assets/disciplinas/6-periodo/eletronica-digital/Lista_Eletronica_Digital_Notacao_Correta.pdf)**
-> - 📖 **[Livro Texto de Apoio (Capuano & Idoeta)](/assets/disciplinas/6-periodo/eletronica-digital/ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf)**
-> - 💻 **[Simulador LogiSim (Executável JAR)](/assets/disciplinas/6-periodo/eletronica-digital/logisim-generic-2.7.1.jar)**
+> [!info] 📌 Informações da Aula
+> - **Docente:** Fabrício Barros Gonçalves
+> - **Data da Aula:** 24/08/2026
+> - **Tópico Central:** Portas Lógicas Fundamentais, Álgebra Booleana e Circuitos Combinacionais
+> - **Status das Anotações:**
+>   - [ ] 🟡 Planejando
+>   - [ ] 🟠 Em Andamento
+>   - [x] 🟢 Concluído
+
+## 📂 Materiais & Recursos Didáticos da Aula
+
+> [!tip] 🔗 Arquivos e Materiais da Disciplina
+> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
+> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
+> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
 ## 📋 Sumário Interativo
 - [📍 Anotações](#-anotações)

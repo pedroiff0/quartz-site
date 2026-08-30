@@ -1,8 +1,8 @@
 ---
-publish: false
-title: Aula 00 - Apresentação
+publish: true
+title: "Aula 00 - Apresentação"
 created: 2026-08-27 19:01
-modified: 2026-08-27 21:59
+modified: 2026-08-29 12:51
 encrypted: true
 tags:
   - aula
@@ -15,27 +15,28 @@ cssclasses:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="../index">Hub da Disciplina</a></b></div>
+  <div>🏠 <b><a href="../index">Visão Geral</a></b></div>
+  <div>➡️ <b><a href="../index">Aulas</a></b></div>
 </div>
 
-<h1 style="text-align: center;">Aula 00 - Apresentação</h1>
+# 📝 Aula 00 - Apresentação
 
-| Aula / Conteúdo | Data | Docente |
-| :--- | :---: | :--- |
-| [[Aula 00 - Apresentação\|Aula 00 - Apresentação]] | 27/08/2026 | Luiz Garcez |
+> [!info] 📌 Informações da Aula
+> - **Docente:** Luiz Garcez
+> - **Data da Aula:** 27/08/2026
+> - **Tópico Central:** Apresentação da Disciplina, Ementa, Critérios de Avaliação e Modelo OSI / TCP-IP
+> - **Status das Anotações:**
+>   - [x] 🟡 Planejando
+>   - [ ] 🟠 Em Andamento
+>   - [ ] 🟢 Concluído
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
-> - **Tópico Central:** 
-> - **Status das Anotações:** 
-> - [ ] 🟡 Planejando 
-> - [ ] 🟠 Em Andamento 
-> - [ ] 🟢 Concluído
+## 📂 Materiais & Recursos Didáticos da Aula
 
-> [!note] 📦 Material Didático & Recursos da Aula
-> - 📄 **[[assets/disciplinas/|Slides da Aula (PDF)]]**
-> - 📖 **[[../short-lecture|Short Lecture da Disciplina]]**
+> [!tip] 🔗 Arquivos e Materiais da Disciplina
+> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
+> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
+> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
 ## 📋 Sumário Interativo
 - [📍 Anotações](#-anotações)
@@ -65,9 +66,4 @@ cssclasses:
 ---
 
 ## 📝 Dúvida
-
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
-</div>
+- [ ] 

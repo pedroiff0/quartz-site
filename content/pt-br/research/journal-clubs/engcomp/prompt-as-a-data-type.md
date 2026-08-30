@@ -10,7 +10,7 @@ arxiv: "https://arxiv.org/abs/2607.21756"
 citekey: "Martins2026"
 topic: cs.DB
 club: engcomp
-discussed: 2026-08-01
+discussed: 01/08/2026
 tags:
   - journal-club
   - engcomp
@@ -18,7 +18,7 @@ tags:
 cssclasses:
   - page-layout
   - paper-notes
-modified: 2026-08-29 11:22
+modified: 2026-08-29 12:31
 ---
 
 <div class="paper-banner">
@@ -66,9 +66,10 @@ modified: 2026-08-29 11:22
 
 ## 📂 Recursos & Materiais do Estudo
 
-| Artigo | Apresentou | Autoria | Ano | Discutido em | arXiv |
-| :--- | :--- | :--- | :---: | :---: | :---: |
-| [[prompt-as-a-data-type\|Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting]] | Pedro Henrique Rocha de Andrade | Martins, D. M. L. & Vossen, G. | 2026 | 01/08/2026 | [2607.21756](https://arxiv.org/abs/2607.21756) |
+> [!tip] 🔗 Arquivos e Materiais da Disciplina
+> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
+> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
+> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
 ---
 

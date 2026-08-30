@@ -2,7 +2,7 @@
 publish: true
 title: "Atividades, Trabalhos & Provas — Análise de Software Orientada a Objetos"
 created: 2026-08-29 11:15
-modified: 2026-08-29 11:17
+modified: 2026-08-29 11:23
 discipline: "Análise de Software Orientada a Objetos"
 period: "6-periodo"
 tags:
@@ -27,10 +27,9 @@ Este repositório centraliza todos os **trabalhos práticos, seminários, listas
 
 ## 📋 Relação de Trabalhos & Atividades
 
-| Aula / Conteúdo | Data |
-| :--- | :---: |
-| [[README\|README — Atividades & Senha dos Arquivos]] | 29/08/2026 |
-| [[Trabalho - Coesão e Acoplamento\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 29/08/2026 |
+| Aula / Conteúdo | Data | Docente |
+| :--- | :---: | :--- |
+| [[Trabalho - Coesão e Acoplamento - ASOO\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 30/08/2026 | Pablo Manhães |
 
 ---
 
