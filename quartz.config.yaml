@@ -106,7 +106,7 @@ plugins:
         trust: true
       customMacros:
         "\\bar": "\\overline{#1}"
-    order: 80
+    order: 70
   - source: github:quartz-community/citations
     enabled: false
     order: 85
@@ -136,7 +136,7 @@ plugins:
       passwordField: password
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
-    order: 75
+    order: 95
     layout:
       position: beforeBody
       priority: 5
