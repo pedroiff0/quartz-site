@@ -16,8 +16,8 @@ encrypted: true
 password: "eng232"
 
 # 🔗 Links e Materiais da Disciplina & Roteiro Técnico (LaTeX / Quartz)
-disciplina_url: "https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/filosofia-da-ciencia-e-tecnologia/"
-trabalho_url: "https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/atividades/trabalho---introducao-a-filosofia-e-a-critica-dos-pressupostos/"
+disciplina_url: "https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/"
+trabalho_url: "https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotações/atividades/trabalho---introdução-à-filosofia-e-a-crítica-dos-pressupostos/"
 roteiro_pdf: "roteiro_iff_disciplina.pdf"
 portal_institucional: "https://portal1.iff.edu.br/"
 
@@ -34,7 +34,7 @@ draft: false
 cssclasses:
   - page-layout
   - center-titles
-modified: 2026-08-30T16:20:00-03:00
+modified: 2026-08-30T16:40:00-03:00
 ---
 
 # 🎓 Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
@@ -69,12 +69,13 @@ if (period && disciplineFolder && disciplineFolder !== "Anotações" && discipli
 }
 
 const roteiroFile = c.roteiro_pdf || "roteiro_iff_disciplina.pdf";
-const hubEngcomp = "https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/";
+const hubEngcomp = "https://www.phrandrade.com/pt-br/resource/engenharia-de-computa%C3%A7%C3%A3o/";
 const discHubUrl = c.disciplina_url || (disciplineFolder ? `${hubEngcomp}${period}/${disciplineFolder}/` : hubEngcomp);
 const portalUrl = c.portal_institucional || "https://portal1.iff.edu.br/";
 
 dv.paragraph(`> [!tip] 🔗 Links e Documentos Oficiais Vinculados
 > - 📑 **Roteiro & Documento Técnico Acadêmico (PDF):** [[${matPath}/${roteiroFile}|${roteiroFile}]] *(Documento formatado em LaTeX institucional)*
+> - 📄 **Texto Original em PDF (PDF++):** [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf]]
 > - 🌐 **Hub da Disciplina no Portal Acadêmico:** [Acessar Página no Quartz](${discHubUrl})
 > - 🏛️ **Portal Institucional IFF:** [portal1.iff.edu.br](${portalUrl})`);
 ```
@@ -96,8 +97,8 @@ dv.paragraph(`> [!tip] 🔗 Links e Documentos Oficiais Vinculados
 
 Segundo Miguel Reale, a Filosofia traduz-se etimologicamente e historicamente pela sua raiz helênica: *philos* (amizade, amor, inclinação) e *sophia* (sabedoria). Longe de representar a posse arrogante ou definitiva da verdade plena, a Filosofia define-se como uma **orientação perene e inelutável em direção às causas primeiras e razões últimas**.
 
-> "A Filosofia, por ser a expressão mais alta da amizade pela sabedoria, tende a não se contentar com uma resposta, enquanto esta não atinja a essência, a razão última de um dado 'campo' de problemas."  
-> — *Miguel Reale (1994, p. 1)*
+> [!quote|#1e823c] [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf#page=1|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1, p.1]]
+> "A Filosofia, por ser a expressão mais alta da amizade pela sabedoria, tende a não se contentar com uma resposta, enquanto esta não atinja a essência, a razão última de um dado 'campo' de problemas. Há certa verdade, portanto, quando se diz que a Filosofia é a ciência das causas primeiras ou das razões últimas: trata-se, porém, mais de uma inclinação ou orientação perene para a verdade última, do que a posse da verdade plena."
 
 Principais características identificadas no texto:
 1. **Insatisfação Metódica:** O filósofo não se aquieta com explicações parciais ou funcionais; cada resposta legítima inaugura uma nova cadeia de indagações subordinantes.
@@ -109,6 +110,9 @@ Principais características identificadas no texto:
 ## ⚖️ 2. A Aparente Contradição: Por que os Filósofos Divergem?
 
 Um dos tópicos centrais de Reale é o confronto com a crítica leiga ou cética que questiona: *"Para que serve a Filosofia se os pensadores jamais chegam a um acordo unânime?"*
+
+> [!quote|#1e823c] [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf#page=2|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1, p.2]]
+> "A Filosofia não existiria se todos os filósofos culminassem em conclusões uniformes, idênticas. A Filosofia é, ao contrário, uma atividade perene do espírito ditada pelo desejo de renovar-se sempre a universalidade de certos problemas, embora, é claro, as diversas situações de lugar e de tempo possam condicionar a formulação diversa de antigas perguntas..."
 
 Reale desmistifica essa visão ao apontar que:
 * **A Dignidade do Saber:** A ausência de respostas idênticas não é a fraqueza da Filosofia, mas a sua maior dignidade e força.
@@ -122,6 +126,12 @@ Reale desmistifica essa visão ao apontar que:
 
 O cerne epistemológico da tese de Miguel Reale reside no **Problema dos Pressupostos**, estabelecendo a fronteira precisa entre a Ciência Positiva e a Filosofia:
 
+> [!important|#ffd000] [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf#page=2|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1, p.2]]
+> "Talvez resida no problema dos pressupostos a principal diferença entre Ciência positiva e Filosofia. Ciência positiva é construção que parte sempre de um ou de mais pressupostos particulares; Filosofia é crítica de pressupostos, sem partir de pressupostos particulares, visto como as 'evidências' se põem, não se pressupõem."
+
+> [!note|#086ddd] [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf#page=2|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1, p.2]]
+> "Assim, a Geometria é toda uma construção lógica, que obedece a determinados pontos de partida, a certos pressupostos ou 'dados'... Ora, as Geometrias não-euclidianas não são menos Geometrias do que a que começamos a estudar nos ginásios, embora não admitam o postulado acima enunciado... Trata-se, por conseguinte, de Geometrias igualmente rigorosas, cada qual no sistema de suas referências."
+
 | Dimensão | Ciência Positiva | Filosofia |
 |:---|:---|:---|
 | **Ponto de Partida** | Parte de pressupostos e postulados particulares aceitos *a priori*. | Não aceita pressupostos particulares; investiga as raízes de qualquer afirmação. |
@@ -130,14 +140,14 @@ O cerne epistemológico da tese de Miguel Reale reside no **Problema dos Pressup
 | **Exemplo Não-Euclidiano** | Riemann e Lobachevsky adotam outros axiomas e constroem novas geometrias consistentes. | A Filosofia examina como a razão humana cria sistemas axiomáticos distintos. |
 | **Definição de Objeto** | A Física opera sobre a matéria/energia sem questionar o que é o 'Ser'. | A Filosofia investiga o Ser, a causalidade e a legitimidade do método. |
 
-> [!important] A Tese Fundamental de Miguel Reale
-> *"Ciência positiva é construção que parte sempre de um ou de mais pressupostos particulares; Filosofia é crítica de pressupostos, sem partir de pressupostos particulares, visto como as 'evidências' se põem, não se pressupõem."*
-
 ---
 
 ## 🔬 4. Sentido Lato vs Sentido Estrito de Ciência
 
 Para sanar ambiguidades terminológicas, Reale elucida que o termo *Ciência* comporta duas acepções:
+
+> [!tip|#1e823c] [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf#page=3|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1, p.3]]
+> "A discriminação mais ou menos rigorosa entre Filosofia e Ciência surge quando se atribui ao segundo termo um sentido estrito como sistema de conhecimentos metodicamente adquiridos e de validade universal, pela verificação objetiva, se possível experimental, da certeza de seus dados e resultados... Em conclusão, a Filosofia, entendida como 'ciência' na primeira das acepções (sentido lato), tem por objeto indagar dos pressupostos ou condições de possibilidade de todas as ciências particulares."
 
 1. **Ciência em Sentido Lato (*Lato Sensu*):**
    - Sistema de conhecimentos metodicamente adquiridos e integrados em uma unidade coerente de sentido.
@@ -151,6 +161,9 @@ Para sanar ambiguidades terminológicas, Reale elucida que o termo *Ciência* co
 ## 💻 5. Diálogo com a Engenharia de Computação e Tecnologia
 
 Como futuros engenheiros de computação, a leitura de Miguel Reale é um convite indispensável para superar o **tecnicismo cego**:
+
+> [!summary|#bb61e5] [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf#page=3|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1, p.3]]
+> "Não é demais acrescentar que, a nosso ver, a investigação filosófica pressupõe pelo menos uma verdade — admitida à vista das verdades das ciências —, e é a capacidade sintetizadora do espírito, pela qual o homem se distingue dos outros animais, aos quais não é dado superar, integrando-os numa unidade conceitual nova e concreta, os elementos particulares e multíplices da experiência."
 
 1. **Os Pressupostos da Computação:**
    - A computação assenta-se em pressupostos fortes: a decidibilidade de Turing, a lógica matemática binária de Boole, o determinismo de estados e a quantificação discreta da informação.
