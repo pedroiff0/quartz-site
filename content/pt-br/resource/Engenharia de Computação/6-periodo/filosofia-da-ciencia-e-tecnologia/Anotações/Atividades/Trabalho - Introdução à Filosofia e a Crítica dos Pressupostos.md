@@ -34,7 +34,7 @@ draft: false
 cssclasses:
   - page-layout
   - center-titles
-modified: 2026-08-30T16:40:00-03:00
+modified: 2026-08-30 17:34
 ---
 
 # 🎓 Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
@@ -54,8 +54,8 @@ modified: 2026-08-30T16:40:00-03:00
 ## 📂 Recursos & Materiais da Disciplina
 
 > [!tip] 🔗 Links e Documentos Oficiais Vinculados (Filosofia da Ciência e Tecnologia)
-> - 📑 **Roteiro & Documento Técnico Acadêmico (PDF):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/filosofia-da-ciencia-e-tecnologia/roteiro_iff_disciplina.pdf|roteiro_iff_disciplina.pdf]] *(Documento formatado em LaTeX institucional)*
-> - 📑 **Roteiro & Documento Técnico - Modo Noturno (PDF):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/filosofia-da-ciencia-e-tecnologia/roteiro_iff_disciplina_preto.pdf|roteiro_iff_disciplina_preto.pdf]]
+> - 📑 **Roteiro & Documento Técnico Acadêmico (PDF):** [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/filosofia-da-ciencia-e-tecnologia/roteiro_iff_disciplina.pdf|roteiro_iff_disciplina.pdf]] *(Documento formatado em LaTeX institucional)*
+> - 📑 **Roteiro & Documento Técnico - Modo Noturno (PDF):** [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/filosofia-da-ciencia-e-tecnologia/roteiro_iff_disciplina_preto.pdf|roteiro_iff_disciplina_preto.pdf]]
 > - 📄 **Texto Original em PDF (PDF++):** [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf]]
 > - 🌐 **Hub da Disciplina no Quartz:** [Acessar Hub de Filosofia](https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/)
 > - 🏛️ **Portal Institucional IFF:** [portal1.iff.edu.br](https://portal1.iff.edu.br/)

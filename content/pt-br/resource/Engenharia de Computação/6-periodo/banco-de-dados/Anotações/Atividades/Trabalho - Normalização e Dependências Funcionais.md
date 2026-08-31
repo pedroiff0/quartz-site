@@ -37,7 +37,7 @@ tags:
 draft: false
 cssclasses:
   - page-layout
-modified: 2026-08-30T15:58:00-03:00
+modified: 2026-08-30 17:33
 ---
 
 # 🎓 Trabalho - Normalização e Dependências Funcionais em Banco de Dados
@@ -62,9 +62,9 @@ modified: 2026-08-30T15:58:00-03:00
 ## 📂 Recursos & Materiais da Disciplina
 
 > [!tip] 🔗 Links e Materiais Vinculados (Banco de Dados)
-> - 📑 **Roteiro & Documento Técnico (PDF):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/banco-de-dados/roteiro_iff_disciplina.pdf|roteiro_iff_disciplina.pdf]] *(Documento formatado em LaTeX institucional)*
-> - 📊 **Slides Beamer Institucionais (PDF Claro):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/banco-de-dados/slides_iff_disciplina.pdf|slides_iff_disciplina.pdf]] *(Apresentação Institucional IFF - Modo Claro)*
-> - 📊 **Slides Beamer Institucionais (PDF Escuro):** [[02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais/6-periodo/banco-de-dados/slides_iff_disciplina_preto.pdf|slides_iff_disciplina_preto.pdf]] *(Apresentação Institucional IFF - Modo Noturno)*
+> - 📑 **Roteiro & Documento Técnico (PDF):** [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/banco-de-dados/roteiro_iff_disciplina.pdf|roteiro_iff_disciplina.pdf]] *(Documento formatado em LaTeX institucional)*
+> - 📊 **Slides Beamer Institucionais (PDF Claro):** [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/banco-de-dados/slides_iff_disciplina.pdf|slides_iff_disciplina.pdf]] *(Apresentação Institucional IFF - Modo Claro)*
+> - 📊 **Slides Beamer Institucionais (PDF Escuro):** [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/banco-de-dados/slides_iff_disciplina_preto.pdf|slides_iff_disciplina_preto.pdf]] *(Apresentação Institucional IFF - Modo Noturno)*
 > - 💻 **Apresentação em PowerPoint (PPTX Claro):** `slides_iff_disciplina.pptx`
 > - 💻 **Apresentação em PowerPoint (PPTX Escuro):** `slides_iff_disciplina_preto.pptx`
 > - 🌐 **Hub da Disciplina no Quartz:** [Acessar Hub de Banco de Dados](https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados/)

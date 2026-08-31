@@ -22,8 +22,9 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 ## 📋 Relação de Trabalhos & Atividades
 
-> [!info] Sem anotações registradas
-> As notas de aula desta disciplina serão disponibilizadas aqui conforme forem ministradas.
+| Aula / Conteúdo | Data | Docente |
+| :--- | :---: | :--- |
+| [[Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos\|🔗 Links e Materiais da Disciplina & Roteiro Técnico (LaTeX / Quartz)]] | 31/08/2026 | Rafael Tardin |
 
 ---
 

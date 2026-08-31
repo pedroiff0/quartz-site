@@ -24,7 +24,7 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
-| [[Trabalho - Normalização e Dependências Funcionais\|🔗 Links e Materiais do Trabalho & Slides (LaTeX / Quartz)]] | 30/08/2026 | Pablo Manhães |
+| [[Trabalho - Normalização e Dependências Funcionais\|🔗 Links e Materiais do Trabalho & Slides (LaTeX / Quartz)]] | 31/08/2026 | Pablo Manhães |
 
 ---
 
