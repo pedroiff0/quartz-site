@@ -5,7 +5,7 @@ subtitle: "Análise Crítica da Epistemologia de Miguel Reale: Saber Filosófico
 discipline: "Filosofia da Ciência e Tecnologia"
 period: "6-periodo"
 professor: "Rafael Tardin"
-date: 02/09/2026
+date: 2026-09-02
 status: concluído
 authors:
   - Pedro Henrique Rocha de Andrade
@@ -34,7 +34,7 @@ draft: false
 cssclasses:
   - page-layout
   - center-titles
-modified: 2026-08-30 17:34
+modified: 2026-08-31 09:52
 ---
 
 # 🎓 Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos

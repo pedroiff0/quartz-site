@@ -391,6 +391,18 @@ def transform_markdown_file(file_path: str):
                             clean_val = mtime_str
                     new_lines.append(f'created: {clean_val}')
                     continue
+                if l.startswith(('date:', 'data:')):
+                    raw_val = l.split(':', 1)[1].strip().strip("'\"")
+                    m_br = re.search(r"(\d{2})/(\d{2})/(\d{4})(?:[T\s](\d{2}:\d{2}))?", raw_val)
+                    if m_br:
+                        d, m, y, t = m_br.groups()
+                        clean_val = f"{y}-{m}-{d} {t}" if t else f"{y}-{m}-{d}"
+                    elif re.match(r"^\d{4}-\d{2}-\d{2}", raw_val):
+                        clean_val = raw_val
+                    else:
+                        clean_val = raw_val
+                    new_lines.append(f'date: {clean_val}')
+                    continue
                 if l.startswith('titulo:'):
                     val = l.split(':', 1)[1].strip()
                     new_lines.append(f'title: {val}')

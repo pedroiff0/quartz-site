@@ -5,7 +5,7 @@ subtitle: Estudo dos Níveis de Coesão, Princípios GRASP, Paradigmas e Métric
 discipline: Análise de Software Orientada a Objetos
 period: 6-periodo
 professor: Pablo Manhães
-date: 02/09/2026
+date: 2026-09-02
 status: concluído
 authors:
   - Amanda Moraes
@@ -35,7 +35,7 @@ cssclasses:
   - page-layout
   - center-titles
   - center-images
-modified: 2026-08-30 17:33
+modified: 2026-08-31 09:38
 ---
 
 # 🎓 Trabalho - Coesão e Acoplamento em Análise de Software (ASOO)
@@ -47,11 +47,7 @@ modified: 2026-08-30 17:33
 > - **Docente:** Pablo Manhães
 > - **Data Prevista:** 02/09/2026
 > - **Apresentadores:** Amanda Moraes, Pedro Henrique Rocha de Andrade
-> - [x] Definir Coesão e Acoplamento
-> - [x] Explicar a relação oposta e complementar (trade-off)
-> - [x] Detalhar como métricas quantificáveis (LCOM e CBO)
-> - [x] Conectar com paradigmas de linguagens (Estruturado, OO e Funcional)
-> - [x] Compilar materiais pelo pipeline unificado
+> - [x] 🎯 Apresentar Trabalho: Coesão e Acoplamento
 
 > [!important] 🔒 Acesso e Senha dos Arquivos
 > Os materiais gerados na pasta `_materiais/` e espelhados no Quartz Site são protegidos pela senha:
@@ -61,14 +57,10 @@ modified: 2026-08-30 17:33
 
 ## 📂 Recursos & Materiais da Disciplina
 
-> [!tip] 🔗 Links e Materiais Vinculados (ASOO)
-> - 📑 **Roteiro & Documento Técnico (PDF):** [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/analise-de-software-orientada-a-objetos/roteiro_iff_disciplina.pdf|roteiro_iff_disciplina.pdf]] *(Documento formatado em LaTeX institucional)*
-> - 📊 **Slides Beamer Institucionais (PDF Claro):** [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/analise-de-software-orientada-a-objetos/slides_iff_disciplina.pdf|slides_iff_disciplina.pdf]] *(Apresentação Institucional IFF - Modo Claro)*
-> - 📊 **Slides Beamer Institucionais (PDF Escuro):** [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/analise-de-software-orientada-a-objetos/slides_iff_disciplina_preto.pdf|slides_iff_disciplina_preto.pdf]] *(Apresentação Institucional IFF - Modo Noturno)*
-> - 💻 **Apresentação em PowerPoint (PPTX Claro):** `slides_iff_disciplina.pptx`
-> - 💻 **Apresentação em PowerPoint (PPTX Escuro):** `slides_iff_disciplina_preto.pptx`
-> - 🌐 **Hub da Disciplina no Quartz:** [Acessar Hub de ASOO](https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos/)
-> - 🏛️ **Portal Institucional IFF:** [portal1.iff.edu.br](https://portal1.iff.edu.br/)
+> [!tip] 🔗 Arquivos e Materiais da Disciplina
+> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
+> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
+> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
 ---
 

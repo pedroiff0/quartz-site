@@ -16,5 +16,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
-| [[02\|02]] | 31/08/2026 | — |
 | [[Aula 01 - Introdução\|📝 Aula 01 - Introdução]] | 26/08/2026 | Anderson Veiga |
