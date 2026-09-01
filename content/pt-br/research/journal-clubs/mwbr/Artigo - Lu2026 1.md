@@ -19,7 +19,7 @@ tags:
 cssclasses:
   - page-layout
   - paper-notes
-modified: 2026-08-31 15:44
+modified: 2026-08-31 16:15
 ---
 
 <div class="paper-banner">
@@ -103,10 +103,6 @@ modified: 2026-08-31 15:44
 
 > [!PDF|yellow] [[Artigo - Lu2026.pdf#page=2&selection=3,0,23,1&color=yellow|Artigo - Lu2026, p.2]]
 > > Analyses of both open clusters and field stars indicate that RGB mass loss likely decreases with increasing metallicity over the range of −0.5 < [Fe/H] < 0.4
-
-> [!PDF|green] [[Artigo - Lu2026.pdf#page=2&selection=34,4,37,29&color=green|Artigo - Lu2026, p.2]]
-> > However, such stars are rare in the solar neighborhood, likely because they preferentially formed in the inner Galaxy, where the metallicity is higher, and subsequently migrated outward
-
 
 > [!PDF|yellow] [[Artigo - Lu2026.pdf#page=2&selection=41,9,51,24&color=yellow|Artigo - Lu2026, p.2]]
 > > One possible consequence is the production of hot, stripped stellar remnants that contribute to the ultraviolet (UV) upturn observed in quiescent early-type galaxies, where an excess of flux at (λ < 3000˚A) is detected beyond that expected from their old, metalrich stellar populations

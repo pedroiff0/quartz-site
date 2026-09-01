@@ -2,7 +2,7 @@
 publish: true
 title: "Aula 01 - Portas Lógicas"
 created: 2026-08-24 14:50
-modified: 2026-08-29 12:51
+modified: 2026-08-31 17:46
 encrypted: true
 tags:
   - aula
@@ -88,12 +88,12 @@ $$S = A \cdot B$$
 
 **Tabela-Verdade:**
 
-| A | B | S |
-| :---: | :---: | :---: |
-| 0 | 0 | 0 |
-| 0 | 1 | 0 |
-| 1 | 0 | 0 |
-| 1 | 1 | 1 |
+|  A  |  B  |  S  |     |
+| :-: | :-: | :-: | --- |
+|  0  |  0  |  0  |     |
+|  0  |  1  |  0  |     |
+|  1  |  0  |  0  |     |
+|  1  |  1  |  1  |     |
 
 ---
 
@@ -217,7 +217,7 @@ $$S = \overline{A \oplus B} = A B + \bar{A}\bar{B}$$
 1. **Mintermos (Soma de Produtos - SOP):**
    - Correspondem às combinações da tabela-verdade onde a saída do circuito é $1$.
    - Representados pela notação $\sum m$.
-   - Na forma de mintermos, a variável direta vale $1$ e a variável complementada/barrada vale $0$.
+   - ==Na forma de mintermos, a variável direta vale $1$ e a variável complementada/barrada vale $0$.==
 
 2. **Maxtermos (Produto de Somas - POS):**
    - Correspondem às combinações da tabela-verdade onde a saída do circuito é $0$.

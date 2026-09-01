@@ -24,7 +24,7 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
-| [[Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos\|🔗 Links e Materiais da Disciplina & Roteiro Técnico (LaTeX / Quartz)]] | 31/08/2026 | Rafael Tardin |
+| [[Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos\|🔗 Links e Materiais da Disciplina & Roteiro Técnico (LaTeX / Quartz)]] | 01/09/2026 | Rafael Tardin |
 
 ---
 

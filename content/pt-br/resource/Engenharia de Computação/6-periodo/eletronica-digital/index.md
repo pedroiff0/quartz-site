@@ -2,7 +2,7 @@
 publish: true
 title: "Eletrônica Digital"
 created: 2026-07-18 12:00
-modified: 2026-08-27 21:59
+modified: 2026-08-31 19:21
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,23 +36,23 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Sistema de Numeração**
-> 	- [ ] Notação Posicional
-> 	- [ ] Sistemas Numéricos
-> 		- [ ] i. Decimal
-> 		- [ ] ii. Octal
-> 		- [ ] iii. Binário
-> 		- [ ] iv. Hexadecimal
-> 	- [ ] Conversão entre Bases
-> - [ ] **2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]**
-> 	- [ ] Funções Lógicas [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [ ] Tabelas Verdade [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [ ] Álgebra Booleana [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [ ] Teoremas de De Morgan [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [ ] Teorema da Dualidade [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [ ] Mintermos e Maxtermos [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [ ] Simplificação de Equações e Circuitos Lógicos
-> 	- [ ] Mapas de Karnaugh
+> - [x] **1. Sistema de Numeração**
+> 	- [x] Notação Posicional
+> 	- [x] Sistemas Numéricos
+> 		- [x] i. Decimal
+> 		- [x] ii. Octal
+> 		- [x] iii. Binário
+> 		- [x] iv. Hexadecimal
+> 	- [x] Conversão entre Bases
+> - [x] **2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]**
+> 	- [x] Funções Lógicas [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+> 	- [x] Tabelas Verdade [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+> 	- [x] Álgebra Booleana [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+> 	- [x] Teoremas de De Morgan [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+> 	- [x] Teorema da Dualidade [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+> 	- [x] Mintermos e Maxtermos [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+> 	- [x] Simplificação de Equações e Circuitos Lógicos [[Aula 02 - Mapas de Karnough]]
+> 	- [x] Mapas de Karnaugh [[Aula 02 - Mapas de Karnough]]
 > - [ ] **3. Circuitos Combinacionais**
 > 	- [ ] Multiplexadores
 > 	- [ ] Demultiplexadores

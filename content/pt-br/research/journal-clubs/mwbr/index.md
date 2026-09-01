@@ -25,6 +25,7 @@ Artigos e tópicos que selecionei e apresentei nas sessões do Journal Club:
 
 | Artigo | Autoria | Ano | Data | arXiv / Link |
 | :--- | :--- | :---: | :---: | :---: |
+| [[Artigo - Lu2026 1\|They Won't Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution]] | Lu, Y. (Lucy), Howell, M., Pinsonneault, M. H., Casey, A. R., Fernández-Trincado, J. G., Méndez Delgado, J. E. | 2026 | 28/08/2026 | [2608.06204](https://arxiv.org/abs/2608.06204) |
 | [[Artigo - Lu2026\|They Won't Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution]] | Lu, Y. (Lucy), Howell, M., Pinsonneault, M. H., Casey, A. R., Fernández-Trincado, J. G., Méndez Delgado, J. E. | 2026 | 28/08/2026 | [2608.06204](https://arxiv.org/abs/2608.06204) |
 
 ---
