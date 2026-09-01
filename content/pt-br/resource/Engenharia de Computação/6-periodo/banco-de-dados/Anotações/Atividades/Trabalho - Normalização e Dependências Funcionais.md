@@ -1,11 +1,11 @@
 ---
 publish: true
 title: Trabalho - Normalização e Dependências Funcionais
-subtitle: Fundamentação Matemática das Dependências Funcionais e Decomposição em 1FN, 2FN e 3FN
+subtitle: Teoria Relacional e Decomposição em 1FN, 2FN e 3FN (Caso Centro de Memória)
 discipline: Banco de Dados
 period: 6-periodo
 professor: Pablo Manhães
-date: 29/08/2026
+date: 2026-09-02
 status: concluido
 authors:
   - Arthur de Oliveira Lima Potente
@@ -19,9 +19,9 @@ encrypted: true
 password: eng232
 disciplina_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/banco-de-dados/
 trabalho_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/banco-de-dados/anotacoes/atividades/trabalho---normalizacao-e-dependencias-funcionais/
-roteiro_pdf: roteiro_iff_disciplina.pdf
-slides_latex_claro: slides_iff_disciplina.pdf
-slides_latex_escuro: slides_iff_disciplina_preto.pdf
+roteiro_pdf: roteiro_bd2026.md
+slides_latex_claro: slides_bd2026_branco.pdf
+slides_latex_escuro: slides_bd2026_preto.pdf
 portal_institucional: https://portal1.iff.edu.br/
 tags:
   - disciplina
@@ -43,11 +43,11 @@ modified: 2026-09-01T14:38:09-03:00
 # 🎓 Trabalho - Normalização e Dependências Funcionais em Banco de Dados
 
 > [!abstract] Resumo Executivo da Apresentação
-> Este trabalho apresenta o estudo formal e aplicado do processo de **Normalização de Esquemas Relacionais**, utilizando a teoria das **Dependências Funcionais (DFs)** como alicerce matemático. Demonstra-se, a partir de um cenário não-normalizado de **Gestão de Projetos e Alocação de Engenharia**, a transição sistemática da **Forma Não-Normalizada (0FN)** para a **1FN**, **2FN** e **3FN** (com considerações sobre BCNF), eliminando anomalias de inserção, atualização e exclusão, com garantia formal de *Junção sem Perdas (Lossless Join)* e *Preservação de Dependências*.
+> Este trabalho apresenta o estudo formal e aplicado do processo de **Normalização de Esquemas Relacionais**, utilizando a teoria das **Dependências Funcionais (DFs)** como alicerce matemático. Demonstra-se, a partir de um cenário não-normalizado de **Centro de Memória** (acervo, doações e exposições), a transição sistemática da **Forma Não-Normalizada (0FN)** para a **1FN**, **2FN** e **3FN**, eliminando anomalias de inserção, atualização e exclusão, com garantia formal de *Junção sem Perdas (Lossless Join)* e *Preservação de Dependências*.
 
 > [!info] 📌 Informações & Checklist do Trabalho
 > - **Docente:** Pablo Manhães
-> - **Data Prevista:** 01/09/2026
+> - **Data de Apresentação:** 02/09/2026
 > - **Autores / Equipe:** Arthur de Oliveira Lima Potente, Breno Luiz Silva do Carmo, Isaac Salles Gonçalves, Pedro Henrique Rocha de Andrade
 > - **Status da Atividade:** Apresentado
 > - [x] 🎯 Apresentar Trabalho: Normalização e Dependências Funcionais
@@ -75,15 +75,15 @@ if (period && disciplineFolder && disciplineFolder !== "Anotações" && discipli
     matPath += `/${period}`;
 }
 
-const roteiroFile = c.roteiro_pdf || "roteiro_iff_disciplina.pdf";
-const slidesClaroFile = c.slides_latex_claro || "slides_iff_disciplina.pdf";
-const slidesEscuroFile = c.slides_latex_escuro || "slides_iff_disciplina_preto.pdf";
+const roteiroFile = c.roteiro_pdf || "roteiro_bd2026.md";
+const slidesClaroFile = c.slides_latex_claro || "slides_bd2026_branco.pdf";
+const slidesEscuroFile = c.slides_latex_escuro || "slides_bd2026_preto.pdf";
 const hubEngcomp = "https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/";
 const discHubUrl = c.disciplina_url || (disciplineFolder ? `${hubEngcomp}${period}/${disciplineFolder}/` : hubEngcomp);
 const portalUrl = c.portal_institucional || "https://portal1.iff.edu.br/";
 
 dv.paragraph(`> [!tip] 🔗 Links e Materiais Vinculados (Automático da Disciplina)
-> - 📑 **Roteiro & Documento Técnico (PDF):** [[${matPath}/${roteiroFile}|${roteiroFile}]] *(Link no card lateral dos slides)*
+> - 📑 **Roteiro & Documento Técnico:** [[${matPath}/${roteiroFile}|${roteiroFile}]] *(Roteiro completo da apresentação)*
 > - 📊 **Slides LaTeX (PDF Claro):** [[${matPath}/${slidesClaroFile}|${slidesClaroFile}]] *(Apresentação Beamer - Modo Claro)*
 > - 📊 **Slides LaTeX (PDF Escuro):** [[${matPath}/${slidesEscuroFile}|${slidesEscuroFile}]] *(Apresentação Beamer - Modo Noturno)*
 > - 🌐 **Hub da Disciplina:** [Acessar Hub no Quartz](${discHubUrl}) *(Link ao clicar na Disciplina no cabeçalho dos slides)*
@@ -91,14 +91,17 @@ dv.paragraph(`> [!tip] 🔗 Links e Materiais Vinculados (Automático da Discipl
 ```
 
 ---
+
 ## 📋 Sumário Interativo
-- [🎯 1. Fundamentos & Motivação Teórica](#-1-fundamentos--motivação-teórica)
-- [🔍 2. O Cenário Não-Normalizado: Um Caso Prático de Engenharia](#-2-o-cenário-não-normalizado-um-caso-prático-de-engenharia)
-- [📐 3. Dependências Funcionais & O Processo de Normalização Passo a Passo](#-3-dependências-funcionais--o-processo-de-normalização-passo-a-passo)
-- [📈 4. Comparativo de Esquemas, Garantias Formais & Conclusões](#-4-comparativo-de-esquemas-garantias-formais--conclusões)
+- [🎯 1. Conceitos & Dependências Funcionais](#-1-conceitos--dependências-funcionais)
+- [🔍 2. O Cenário Não-Normalizado: Centro de Memória (0FN)](#-2-o-cenário-não-normalizado-centro-de-memória-0fn)
+- [📐 3. Normalização Passo a Passo: 1FN, 2FN e 3FN](#-3-normalização-passo-a-passo-1fn-2fn-e-3fn)
+- [📈 4. Esquema Final, Garantias Formais & Conclusões](#-4-esquema-final-garantias-formais--conclusões)
 - [📚 5. Referências Bibliográficas](#-5-referências-bibliográficas)
+
 ---
-## 🎯 1. Fundamentos & Motivação Teórica
+
+## 🎯 1. Conceitos & Dependências Funcionais
 
 ### 1.1 O Papel da Teoria Relacional
 O modelo relacional clássico proposto por **Edgar F. Codd (1970)** fundamenta o armazenamento e a recuperação de dados em conceitos matemáticos de conjuntos e lógica de predicados de primeira ordem. Em um ambiente operacional, esquemas relacionais mal projetados sofrem de três patologias graves decorrentes da **redundância de dados**:
@@ -140,30 +143,30 @@ $$t_1[X] = t_2[X] \implies t_1[Y] = t_2[Y]$$
 
 ---
 
-## 🔍 2. O Cenário Não-Normalizado: Um Caso Prático de Engenharia
+## 🔍 2. O Cenário Não-Normalizado: Centro de Memória (0FN)
 
-Para ilustrar o processo completo de forma direta e compreensível em uma apresentação de 10 minutos, examinamos o sistema de alocação de projetos de um laboratório de engenharia:
+Para ilustrar o processo completo de forma direta e compreensível em uma apresentação de 10 minutos, examinamos o sistema de um **Centro de Memória** que gerencia acervo, doações e exposições:
 
 ### 2.1 A Relação Universal Não-Normalizada (0FN)
-Suponha uma tabela única `PROJETOS_ALOCACAO_UNIFICADA` que registra projetos de engenharia, funcionários alocados, seus departamentos e as linguagens/ferramentas utilizadas:
+Suponha uma tabela única `ACERVO_COMPLETO` que registra itens do acervo, doações recebidas e exposições realizadas:
 
-$$\text{Tabela}( \underline{\text{Num\_Proj}}, \underline{\text{Num\_Emp}}, \text{Nome\_Emp}, \text{Cargo}, \text{Num\_Depto}, \text{Nome\_Depto}, \text{Cod\_Gerente}, \text{Habilidades}, \text{Nome\_Proj}, \text{Orcamento}, \text{Horas\_Semana} )$$
+$$\text{Tabela}( \underline{\text{cod\_tombo}}, \underline{\text{cod\_exposicao}}, \text{titulo}, \text{descricao}, \text{data\_aquisicao}, \text{cod\_doacao}, \text{data\_doacao}, \text{termo}, \text{id\_doador}, \text{nome\_doador}, \text{cpf\_doador}, \text{email\_doador}, \text{codigo\_exposicao}, \text{titulo\_exposicao}, \text{data\_inicio}, \text{data\_fim}, \text{posicao}, \text{palavras\_chave} )$$
 
-| Num_Proj | Nome_Proj | Orcamento | Num_Emp | Nome_Emp | Cargo | Num_Depto | Nome_Depto | Cod_Gerente | Habilidades | Horas_Semana |
-| :---: | :--- | :---: | :---: | :--- | :--- | :---: | :--- | :---: | :--- | :---: |
-| **P101** | Sistema SCADA | R$ 120.000 | **E01** | Pedro Andrade | Eng. Software | **D01** | Automação | G09 | Python, C++, SQL | 20 |
-| **P101** | Sistema SCADA | R$ 120.000 | **E02** | Ana Soja | Eng. Dados | **D02** | Analytics | G12 | Python, Spark | 15 |
-| **P102** | Visão Térmica | R$ 85.000 | **E01** | Pedro Andrade | Eng. Software | **D01** | Automação | G09 | Python, C++, SQL | 10 |
-| **P103** | Robô AGV | R$ 200.000 | **E03** | Breno Luiz | Eng. Controle | **D01** | Automação | G09 | C++, ROS, VHDL | 30 |
+| cod_tombo | titulo | descricao | cod_doacao | nome_doador | cpf_doador | email_doador | codigo_exposicao | titulo_exposicao | posicao | palavras_chave |
+| :---: | :--- | :--- | :---: | :--- | :--- | :--- | :---: | :--- | :---: | :--- |
+| **T001** | Foto BJ | Foto aérea 1940 | **D01** | Maria Silva | 111.222.333-44 | maria@email.com | **E01** | Memória Urbana | 1 | foto, história, urbano |
+| **T001** | Foto BJ | Foto aérea 1940 | **D01** | Maria Silva | 111.222.333-44 | maria@email.com | **E02** | Raízes Rurais | 3 | foto, história, rural |
+| **T002** | Cartão Postal | Cartão 1920 | **D02** | João Santos | 555.666.777-88 | joao@email.com | **E01** | Memória Urbana | 2 | cartão, postal, antiguidade |
+| **T003** | Jornal 1950 | Edição rara | **D03** | Ana Costa | 999.888.777-66 | ana@email.com | **E02** | Raízes Rurais | 1 | jornal, raro, preservação |
 
 ### 2.2 Diagnóstico das Anomalias Práticas
-1. **Anomalia de Inserção:** Não é possível cadastrar um novo departamento (ex: `D03 - Robótica`) sem alocar pelo menos um projeto e um empregado ativo.
-2. **Anomalia de Exclusão:** Se o projeto `P102` for cancelado e a linha for apagada, não perdemos o empregado porque ele está em `P101`. Porém, se `P103` for cancelado e sua linha excluída, **perdemos o registro de que Breno Luiz trabalha no D01**, pois ele só estava alocado naquele projeto!
-3. **Anomalia de Atualização:** O gerente do departamento `D01` está replicado em 3 linhas. Se o gerente mudar, todas as linhas devem ser atualizadas; se uma linha falhar, o banco entra em estado inconsistente.
+1. **Anomalia de Inserção:** Não é possível cadastrar um novo doador sem que ele tenha doado um item do acervo. O doador só "existe" se houver doação.
+2. **Anomalia de Exclusão:** Se a exposição `E01` for cancelada e as linhas forem apagadas, **perdemos o registro de que Maria Silva doou o item T001**, pois ela só estava vinculada àquela exposição!
+3. **Anomalia de Atualização:** Os dados do doador (nome, cpf, email) estão replicados em múltiplas linhas. Se o email de Maria mudar, todas as linhas devem ser atualizadas; se uma linha falhar, o banco entra em estado inconsistente.
 
 ---
 
-## 📐 3. Dependências Funcionais & O Processo de Normalização Passo a Passo
+## 📐 3. Normalização Passo a Passo: 1FN, 2FN e 3FN
 
 ```
        [ 0FN: Tabela Universal com Listas ]
@@ -179,18 +182,20 @@ $$\text{Tabela}( \underline{\text{Num\_Proj}}, \underline{\text{Num\_Emp}}, \tex
 ```
 
 ### 3.1 Mapeamento Formal das Dependências Funcionais
-Analisando as regras de negócio do cenário:
+Analisando as regras de negócio do cenário Centro de Memória:
 
-1. **$\text{DF}_1$ (Chave Composta $\to$ Atributo da Alocação):**
-   $$\{ \text{Num\_Proj}, \text{Num\_Emp} \} \to \text{Horas\_Semana}$$
-2. **$\text{DF}_2$ (Dependência Parcial do Projeto):**
-   $$\text{Num\_Proj} \to \{ \text{Nome\_Proj}, \text{Orcamento} \}$$
-3. **$\text{DF}_3$ (Dependência Parcial do Empregado):**
-   $$\text{Num\_Emp} \to \{ \text{Nome\_Emp}, \text{Cargo}, \text{Num\_Depto} \}$$
-4. **$\text{DF}_4$ (Dependência Transitiva do Departamento):**
-   $$\text{Num\_Depto} \to \{ \text{Nome\_Depto}, \text{Cod\_Gerente} \}$$
-5. **$\text{DF}_5$ (Habilidades do Empregado):**
-   $$\{ \text{Num\_Emp}, \text{Habilidade} \} \quad (\text{Relação muitos-para-muitos entre Empregado e Habilidade})$$
+1. **$\text{DF}_1$ (Chave Composta $\to$ Atributo da Exposição):**
+   $$\{ \text{cod\_tombo}, \text{codigo\_exposicao} \} \to \text{posicao}$$
+2. **$\text{DF}_2$ (Dependência Parcial do Item):**
+   $$\text{cod\_tombo} \to \{ \text{titulo}, \text{descricao}, \text{data\_aquisicao}, \text{cod\_doacao} \}$$
+3. **$\text{DF}_3$ (Dependência Parcial da Exposição):**
+   $$\text{codigo\_exposicao} \to \{ \text{titulo\_exposicao}, \text{data\_inicio}, \text{data\_fim} \}$$
+4. **$\text{DF}_4$ (Dependência Transitiva da Doação):**
+   $$\text{cod\_doacao} \to \{ \text{data\_doacao}, \text{termo}, \text{id\_doador} \}$$
+5. **$\text{DF}_5$ (Dependência Transitiva do Doador):**
+   $$\text{id\_doador} \to \{ \text{nome\_doador}, \text{cpf\_doador}, \text{email\_doador} \}$$
+6. **$\text{DF}_6$ (Palavras-chave do Item):**
+   $$\{ \text{cod\_tombo}, \text{palavra\_chave} \} \quad (\text{Relação muitos-para-muitos})$$
 
 ---
 
@@ -200,16 +205,16 @@ Analisando as regras de negócio do cenário:
 > Uma relação $R$ está na **1FN** se e somente se todos os domínios subjacentes de seus atributos contêm apenas **valores atômicos (indivisíveis)** e não existem atributos multivalorados ou grupos repetitivos.
 
 #### Problema Identificado:
-O atributo `Habilidades` contém múltiplos valores em uma mesma célula (e.g. `"Python, C++, SQL"`).
+O atributo `palavras_chave` contém múltiplos valores em uma mesma célula (e.g. `"foto, história, urbano"`).
 
 #### Solução:
-Isolar o atributo multivalorado em uma tabela associativa atômica `EMPREGADO_HABILIDADE`:
+Isolar o atributo multivalorado em uma tabela associativa atômica `ITEM_PALAVRACHAVE`:
 
-$$\text{EMPREGADO\_HABILIDADE}( \underline{\text{Num\_Emp}}, \underline{\text{Habilidade}} )$$
+$$\text{ITEM\_PALAVRACHAVE}( \underline{\text{cod\_tombo}}, \underline{\text{palavra\_chave}} )$$
 
 A tabela principal agora possui apenas valores atômicos, com chave primária composta:
 
-$$\text{R\_1FN}( \underline{\text{Num\_Proj}}, \underline{\text{Num\_Emp}}, \text{Nome\_Proj}, \text{Orcamento}, \text{Nome\_Emp}, \text{Cargo}, \text{Num\_Depto}, \text{Nome\_Depto}, \text{Cod\_Gerente}, \text{Horas\_Semana} )$$
+$$\text{R\_1FN}( \underline{\text{cod\_tombo}}, \underline{\text{codigo\_exposicao}}, \text{titulo}, \text{descricao}, \text{data\_aquisicao}, \text{cod\_doacao}, \text{data\_doacao}, \text{termo}, \text{id\_doador}, \text{nome\_doador}, \text{cpf\_doador}, \text{email\_doador}, \text{titulo\_exposicao}, \text{data\_inicio}, \text{data\_fim}, \text{posicao} )$$
 
 ---
 
@@ -221,22 +226,23 @@ $$\text{R\_1FN}( \underline{\text{Num\_Proj}}, \underline{\text{Num\_Emp}}, \tex
 > 2. **Nenhum atributo não-primo é dependente parcial de qualquer chave candidata composta de $R$**. Todo atributo não-primo deve depender da totalidade de cada chave primária.
 
 #### Problema Identificado:
-A chave primária de `R_1FN` é composta: $\{ \text{Num\_Proj}, \text{Num\_Emp} \}$.
-- $\text{DF}_2: \text{Num\_Proj} \to \{ \text{Nome\_Proj}, \text{Orcamento} \}$ $\implies$ Dependência Parcial!
-- $\text{DF}_3: \text{Num\_Emp} \to \{ \text{Nome\_Emp}, \text{Cargo}, \text{Num\_Depto}, \text{Nome\_Depto}, \text{Cod\_Gerente} \}$ $\implies$ Dependência Parcial!
+A chave primária de `R_1FN` é composta: $\{ \text{cod\_tombo}, \text{codigo\_exposicao} \}$.
+- $\text{DF}_2: \text{cod\_tombo} \to \{ \text{titulo}, \text{descricao}, \text{data\_aquisicao}, \text{cod\_doacao} \}$ $\implies$ Dependência Parcial!
+- $\text{DF}_3: \text{codigo\_exposicao} \to \{ \text{titulo\_exposicao}, \text{data\_inicio}, \text{data\_fim} \}$ $\implies$ Dependência Parcial!
 
 #### Solução (Decomposição em 2FN):
 Criamos relações separadas para cada determinante parcial:
 
-1. **`PROJETO`** (elimina a dependência parcial de `Num_Proj`):
-   $$\text{PROJETO}( \underline{\text{Num\_Proj}}, \text{Nome\_Proj}, \text{Orcamento} )$$
+1. **`ITEM_ACERVO`** (elimina a dependência parcial de `cod_tombo`):
+   $$\text{ITEM\_ACERVO}( \underline{\text{cod\_tombo}}, \text{titulo}, \text{descricao}, \text{data\_aquisicao}, \text{cod\_doacao} )$$
+   *Chave Estrangeira:* `cod_doacao REFERENCES DOACAO`
 
-2. **`EMPREGADO_TEMP`** (elimina a dependência parcial de `Num_Emp`):
-   $$\text{EMPREGADO\_TEMP}( \underline{\text{Num\_Emp}}, \text{Nome\_Emp}, \text{Cargo}, \text{Num\_Depto}, \text{Nome\_Depto}, \text{Cod\_Gerente} )$$
+2. **`EXPOSICAO`** (elimina a dependência parcial de `codigo_exposicao`):
+   $$\text{EXPOSICAO}( \underline{\text{codigo\_exposicao}}, \text{titulo\_exposicao}, \text{data\_inicio}, \text{data\_fim} )$$
 
-3. **`ALOCACAO`** (mantém apenas atributos totalmente dependentes da chave composta):
-   $$\text{ALOCACAO}( \underline{\text{Num\_Proj}}, \underline{\text{Num\_Emp}}, \text{Horas\_Semana} )$$
-   *Chaves Estrangeiras:* `Num_Proj REFERENCES PROJETO`, `Num_Emp REFERENCES EMPREGADO`
+3. **`ITEM_EXPOSICAO`** (mantém apenas atributos totalmente dependentes da chave composta):
+   $$\text{ITEM\_EXPOSICAO}( \underline{\text{cod\_tombo}}, \underline{\text{codigo\_exposicao}}, \text{posicao} )$$
+   *Chaves Estrangeiras:* `cod_tombo REFERENCES ITEM_ACERVO`, `codigo_exposicao REFERENCES EXPOSICAO`
 
 ---
 
@@ -252,56 +258,65 @@ Criamos relações separadas para cada determinante parcial:
 > - $A$ é um atributo primo (membro de uma chave candidata).
 
 #### Problema Identificado:
-Na tabela `EMPREGADO_TEMP`, a chave primária é $\text{Num\_Emp}$.
+Na tabela `ITEM_ACERVO`, a chave primária é $\text{cod\_tombo}$.
 Temos a cadeia transitiva:
 
-$$\text{Num\_Emp} \xrightarrow{\text{DF}_3} \text{Num\_Depto} \xrightarrow{\text{DF}_4} \{ \text{Nome\_Depto}, \text{Cod\_Gerente} \}$$
+$$\text{cod\_tombo} \xrightarrow{\text{DF}_2} \text{cod\_doacao} \xrightarrow{\text{DF}_4} \{ \text{data\_doacao}, \text{termo}, \text{id\_doador} \} \xrightarrow{\text{DF}_5} \{ \text{nome\_doador}, \text{cpf\_doador}, \text{email\_doador} \}$$
 
-Como $\text{Num\_Depto}$ **não é uma superchave** de `EMPREGADO_TEMP` e $\{\text{Nome\_Depto}, \text{Cod\_Gerente}\}$ não são atributos primos, temos uma violação explícita da 3FN.
+Como $\text{cod\_doacao}$ **não é uma superchave** de `ITEM_ACERVO` e os atributos de doação/doador não são atributos primos, temos uma violação explícita da 3FN.
 
 #### Solução (Decomposição em 3FN):
-Extraímos a relação de departamento para sua própria tabela:
+Extraímos a relação de doação e doador para suas próprias tabelas:
 
-1. **`DEPARTAMENTO`:**
-   $$\text{DEPARTAMENTO}( \underline{\text{Num\_Depto}}, \text{Nome\_Depto}, \text{Cod\_Gerente} )$$
+1. **`DOACAO`:**
+   $$\text{DOACAO}( \underline{\text{cod\_doacao}}, \text{data\_doacao}, \text{termo}, \text{id\_doador} )$$
+   *Chave Estrangeira:* `id_doador REFERENCES PESSOA`
 
-2. **`EMPREGADO`** (mantém apenas a chave estrangeira para departamento):
-   $$\text{EMPREGADO}( \underline{\text{Num\_Emp}}, \text{Nome\_Emp}, \text{Cargo}, \text{Num\_Depto} )$$
-   *Chave Estrangeira:* `Num_Depto REFERENCES DEPARTAMENTO`
+2. **`PESSOA`:**
+   $$\text{PESSOA}( \underline{\text{id\_doador}}, \text{nome\_doador}, \text{cpf\_doador}, \text{email\_doador} )$$
+
+3. **`ITEM_ACERVO`** (mantém apenas a chave estrangeira para doação):
+   $$\text{ITEM\_ACERVO}( \underline{\text{cod\_tombo}}, \text{titulo}, \text{descricao}, \text{data\_aquisicao}, \text{cod\_doacao} )$$
+   *Chave Estrangeira:* `cod_doacao REFERENCES DOACAO`
 
 ---
 
-## 📈 4. Comparativo de Esquemas, Garantias Formais & Conclusões
+## 📈 4. Esquema Final, Garantias Formais & Conclusões
 
-### 4.1 O Esquema Relacional Final Normalizado (3FN / BCNF)
+### 4.1 O Esquema Relacional Final Normalizado (3FN)
 
-O banco de dados final é composto por **5 relações especializadas e desacopladas**:
+O banco de dados final é composto por **6 relações especializadas e desacopladas**:
 
 ```
  ┌────────────────────────┐             ┌────────────────────────┐
- │        PROJETO         │             │       DEPARTAMENTO     │
+ │       PESSOA           │             │       EXPOSICAO        │
  ├────────────────────────┤             ├────────────────────────┤
- │ 🔑 Num_Proj (PK)       │             │ 🔑 Num_Depto (PK)      │
- │    Nome_Proj           │             │    Nome_Depto          │
- │    Orcamento           │             │    Cod_Gerente         │
- └───────────┬────────────┘             └───────────▲────────────┘
-             │                                      │ (1:N)
-             │ (1:N)                                │
- ┌───────────▼────────────┐             ┌───────────┴────────────┐
- │        ALOCACAO        │             │        EMPREGADO       │
+ │ 🔑 id_doador (PK)      │             │ 🔑 codigo_exposicao(PK)│
+ │    nome_doador         │             │    titulo_exposicao    │
+ │    cpf_doador          │             │    data_inicio         │
+ │    email_doador        │             │    data_fim            │
+ └───────────▲────────────┘             └───────────▲────────────┘
+             │ (1:N)                                │ (1:N)
+             │                                      │
+ ┌───────────┴────────────┐             ┌───────────┴────────────┐
+ │       DOACAO           │             │    ITEM_EXPOSICAO      │
  ├────────────────────────┤             ├────────────────────────┤
- │ 🔑 Num_Proj (PK, FK)   │ (N:1)       │ 🔑 Num_Emp (PK)        │
- │ 🔑 Num_Emp  (PK, FK)   ├─────────────►    Nome_Emp            │
- │    Horas_Semana        │             │    Cargo               │
- └────────────────────────┘             │ 🔗 Num_Depto (FK)      │
-                                        └───────────▲────────────┘
-                                                    │ (1:N)
-                                        ┌───────────┴────────────┐
-                                        │  EMPREGADO_HABILIDADE  │
-                                        ├────────────────────────┤
-                                        │ 🔑 Num_Emp (PK, FK)    │
-                                        │ 🔑 Habilidade (PK)     │
-                                        └────────────────────────┘
+ │ 🔑 cod_doacao (PK)     │             │ 🔑 cod_tombo (PK, FK)  │
+ │    data_doacao         │             │ 🔑 codigo_exposicao    │
+ │    termo               │             │       (PK, FK)         │
+ │ 🔗 id_doador (FK)      │             │    posicao             │
+ └───────────▲────────────┘             └───────────┬────────────┘
+             │ (1:N)                                │ (N:1)
+             │                                      │
+ ┌───────────┴────────────┐             ┌───────────▼────────────┐
+ │     ITEM_ACERVO        │             │  ITEM_PALAVRACHAVE     │
+ ├────────────────────────┤             ├────────────────────────┤
+ │ 🔑 cod_tombo (PK)      │             │ 🔑 cod_tombo (PK, FK)  │
+ │    titulo              │             │ 🔑 palavra_chave (PK)  │
+ │    descricao           │             └────────────────────────┘
+ │    data_aquisicao      │
+ │ 🔗 cod_doacao (FK)     │
+ └────────────────────────┘
 ```
 
 ### 4.2 Garantias Matemáticas da Decomposição
@@ -318,8 +333,8 @@ A normalização não é meramente uma escolha estética de design; ela possui p
 
 | Métrica / Critério                 |          Esquema 0FN (Tabela Única)           |                 Esquema 3FN (Normalizado)                 |
 | :--------------------------------- | :-------------------------------------------: | :-------------------------------------------------------: |
-| **Redundância de Dados**           |  Alta (nomes de depto e gerentes repetidos)   |      Nula (cada fato armazenado exatamente uma vez)       |
-| **Anomalias de Inserção/Exclusão** | Críticas (impossível cadastrar depto isolado) |          Inexistentes (entidades independentes)           |
+| **Redundância de Dados**           |  Alta (nomes de doadores repetidos)           |      Nula (cada fato armazenado exatamente uma vez)       |
+| **Anomalias de Inserção/Exclusão** | Críticas (impossível cadastrar doador isolado) |          Inexistentes (entidades independentes)           |
 | **Integridade dos Dados**          |   Frágil (risco de divergência de strings)    |        Máxima (garantida por chaves estrangeiras)         |
 | **Desempenho de Leitura Simples**  | Rápido (sem `JOIN`, mas com leitura de lixo)  | Exige `JOIN`, mas usa índices $B\text{-Tree}$ de inteiros |
 | **Desempenho de Escrita/Update**   |      Lento (múltiplas linhas alteradas)       |      Instantâneo (alteração atômica em linha única)       |
@@ -327,7 +342,8 @@ A normalização não é meramente uma escolha estética de design; ela possui p
 ---
 
 ## 📚 5. Referências Bibliográficas
-- 1. ELMASRI, Ramez; NAVATHE, Shamkant B. *Sistemas de Banco de Dados*. 7. ed. São Paulo: Pearson, 2018. (Capítulo 14: Teoria de Projeto de Bancos de Dados Relacionais e Dependências Funcionais; Capítulo 15: Algoritmos de Projeto de Bancos de Dados Relacionais).
-- 2. SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. *Sistema de Banco de Dados*. 6. ed. Rio de Janeiro: Elsevier, 2012. (Capítulo 8: Projeto de Banco de Dados Relacional).
+- 1. ELMASRI, Ramez; NAVATHE, Shamkant B. *Sistemas de Banco de Dados*. 7. ed. São Paulo: Pearson, 2018.
+- 2. SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. *Sistema de Banco de Dados*. 6. ed. Rio de Janeiro: Elsevier, 2012.
 - 3. CODD, Edgar F. *A Relational Model of Data for Large Shared Data Banks*. Communications of the ACM, v. 13, n. 6, p. 377-387, 1970.
 - 4. DATE, C. J. *Introdução a Sistemas de Bancos de Dados*. 8. ed. Rio de Janeiro: Elsevier, 2004.
+- 5. IBM. *Database Normalization: Guia Prático*. IBM Think Topics, 2024.

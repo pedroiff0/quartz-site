@@ -1,0 +1,242 @@
+% ============================================================================
+% SLIDES BD 2026 - TEMA CLARO (Fundo Branco)
+% Normalização & Dependências Funcionais - Centro de Memória
+% ============================================================================
+\documentclass[10pt,aspectratio=169]{beamer}
+
+% --- Pacotes ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{multicol}
+
+% --- Tema Claro ---
+\usetheme{Madrid}
+\usecolortheme{default}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}[frame number]
+
+% --- Cores do tema claro ---
+\definecolor{primary}{HTML}{1a365d}
+\definecolor{secondary}{HTML}{2b6cb0}
+\definecolor{accent}{HTML}{d69e2e}
+\definecolor{bglight}{HTML}{f7fafc}
+\definecolor{codebg}{HTML}{edf2f7}
+
+\setbeamercolor{structure}{fg=primary}
+\setbeamercolor{frametitle}{fg=white,bg=primary}
+\setbeamercolor{title}{fg=primary}
+\setbeamercolor{block title}{fg=white,bg=secondary}
+\setbeamercolor{block body}{fg=black,bg=bglight}
+
+% --- Informações ---
+\title{Normalização \& Dependências Funcionais}
+\subtitle{Teoria Relacional e Decomposição em 1FN, 2FN e 3FN \\(Caso Centro de Memória)}
+\author{
+  Arthur de Oliveira Lima Potente \\
+  Breno Luiz Silva do Carmo \\
+  Isaac Salles Gonçalves \\
+  Pedro Henrique Rocha de Andrade
+}
+\institute{Banco de Dados --- 6º Período \\ IFF --- Bom Jesus do Itabapoana, RJ}
+\date{02 de Setembro de 2026}
+
+% --- Início ---
+\begin{document}
+
+% Slide 1: Capa
+\begin{frame}
+  \titlepage
+\end{frame}
+
+% Slide 2: Sumário
+\begin{frame}{Sumário}
+  \begin{enumerate}
+    \item Conceitos
+    \item Cenário 0FN
+    \item 1ª FN
+    \item 2ª FN
+    \item 3ª FN
+    \item Conclusões
+  \end{enumerate}
+\end{frame}
+
+% Slide 3: Conceitos
+\begin{frame}{Conceitos}{O que são Dependências Funcionais?}
+  \begin{figure}
+    \centering
+    \textbf{Teoria de DFs e Anomalias}
+  \end{figure}
+  \vspace{0.3cm}
+  \begin{itemize}
+    \item \textbf{Definição} ($X \to Y$): X determina unicamente o valor de Y.
+    \item \textbf{Determinante vs Determinado}: X determina; Y depende.
+    \item \textbf{Anomalias Clássicas}: Inserção, Exclusão e Alteração.
+    \item \textbf{Objetivo Central}: Eliminar redundâncias sem perda de dados.
+  \end{itemize}
+  \vspace{0.2cm}
+  \begin{block}{Fonte}
+    Elaboração dos Autores (2026)
+  \end{block}
+\end{frame}
+
+% Slide 4: Cenário 0FN
+\begin{frame}{Cenário 0FN}{O Cenário Não-Normalizado}
+  \begin{figure}
+    \centering
+    \textbf{Relação Universal 0FN}
+  \end{figure}
+  \vspace{0.3cm}
+  \begin{itemize}
+    \item \textbf{Domínio}: Acervo, doações e exposições unificados.
+    \item \textbf{Anomalia de Inserção}: Impossível cadastrar doador sem item do acervo.
+    \item \textbf{Anomalia de Exclusão}: Cancelar exposição apaga o item do acervo.
+    \item \textbf{Anomalia de Alteração}: Atualização repetida de dados do doador.
+  \end{itemize}
+  \vspace{0.2cm}
+  \begin{block}{Fonte}
+    Baseado no Sistema Centro de Memória
+  \end{block}
+\end{frame}
+
+% Slide 5: 1FN
+\begin{frame}{1FN}{Primeira Forma Normal --- Atomicidade}
+  \begin{figure}
+    \centering
+    \textbf{Transição para 1FN e 2FN}
+  \end{figure}
+  \vspace{0.3cm}
+  \begin{itemize}
+    \item \textbf{Regra da 1FN}: Atributos estritamente atômicos.
+    \item \textbf{Problema (0FN)}: \texttt{palavras\_chave} agrupadas na mesma célula.
+    \item \textbf{Decomposição}: Extração para tabela associativa:
+    \begin{center}
+      \texttt{Item\_PalavraChave(\underline{cod\_tombo}, \underline{palavra\_chave})}
+    \end{center}
+    \item \textbf{Benefício}: Atomicidade e facilidade de indexação.
+  \end{itemize}
+  \vspace{0.2cm}
+  \begin{block}{Fonte}
+    Elaboração dos Autores (2026)
+  \end{block}
+\end{frame}
+
+% Slide 6: 2FN
+\begin{frame}{2FN}{Segunda Forma Normal --- Dependência Total}
+  \begin{figure}
+    \centering
+    \textbf{Eliminação de DFs Parciais}
+  \end{figure}
+  \vspace{0.3cm}
+  \begin{itemize}
+    \item \textbf{Regra da 2FN}: Estar na 1FN e sem dependências parciais.
+    \item \textbf{Problema}: Título depende só de \texttt{cod\_tombo} em chave composta.
+    \item \textbf{Decomposição 2FN}:
+    \begin{itemize}
+      \item \texttt{Exposicao(\underline{codigo\_exposicao}, titulo, ...)}
+      \item \texttt{Item\_Acervo(\underline{cod\_tombo}, titulo, ...)}
+      \item \texttt{Item\_Exposicao(\underline{cod\_exp}, \underline{cod\_tombo}, pos)}
+    \end{itemize}
+    \item \textbf{Garantia}: Atributos dependem da chave primária completa.
+  \end{itemize}
+  \vspace{0.2cm}
+  \begin{block}{Fonte}
+    Elaboração dos Autores (2026)
+  \end{block}
+\end{frame}
+
+% Slide 7: 3FN
+\begin{frame}{3FN}{Terceira Forma Normal --- Sem DFs Transitivas}
+  \begin{figure}
+    \centering
+    \textbf{Esquema Final em 3FN}
+  \end{figure}
+  \vspace{0.3cm}
+  \begin{itemize}
+    \item \textbf{Regra da 3FN}: Estar na 2FN e sem dependências transitivas.
+    \item \textbf{Problema}: \texttt{cod\_tombo} $\to$ \texttt{cod\_doacao} $\to$ \texttt{dados\_doador}.
+    \item \textbf{Decomposição 3FN}:
+    \begin{itemize}
+      \item \texttt{Doacao(\underline{cod\_doacao}, data, termo, id\_doador)}
+      \item \texttt{Pessoa(\underline{id\_pessoa}, nome, cpf, email, ...)}
+    \end{itemize}
+    \item \textbf{Vínculo}: \texttt{Item\_Acervo} mantém apenas FK \texttt{cod\_doacao}.
+  \end{itemize}
+  \vspace{0.2cm}
+  \begin{block}{Fonte}
+    Elaboração dos Autores (2026)
+  \end{block}
+\end{frame}
+
+% Slide 8: Conclusões
+\begin{frame}{Conclusões}{Esquema Normalizado e Garantias Formais}
+  \begin{figure}
+    \centering
+    \textbf{Relações Especializadas 3FN}
+  \end{figure}
+  \vspace{0.3cm}
+  \begin{itemize}
+    \item \textbf{Lossless Join}: Junção natural recompõe dados sem perdas.
+    \item \textbf{Preservação de DFs}: Regras garantidas localmente por constraints.
+    \item \textbf{Redundância Nula}: Cada fato registrado em uma única tabela.
+    \item \textbf{Integridade}: Consistência assegurada por PKs e FKs.
+  \end{itemize}
+  \vspace{0.2cm}
+  \begin{block}{Fonte}
+    Elaboração dos Autores (2026)
+  \end{block}
+\end{frame}
+
+% Slide 9: Comparação
+\begin{frame}{Conclusões}{Comparativo de Esquemas}
+  \begin{table}
+    \centering
+    \small
+    \begin{tabular}{>{\raggedright}p{0.35\textwidth} >{\centering}p{0.25\textwidth} >{\centering\arraybackslash}p{0.25\textwidth}}
+      \toprule
+      \textbf{Critério} & \textbf{0FN (Bruto)} & \textbf{3FN (Normalizado)} \\
+      \midrule
+      Redundância & Alta & Nula \\
+      Anomalias & Críticas & Inexistentes \\
+      Integridade & Frágil & Máxima \\
+      Update & Lento (múltiplas linhas) & Instantâneo (linha única) \\
+      \bottomrule
+    \end{tabular}
+  \end{table}
+\end{frame}
+
+% Slide 10: Referências
+\begin{frame}{Referências Bibliográficas}
+  \footnotesize
+  \begin{enumerate}
+    \item ELMASRI, R.; NAVATHE, S. B. \textit{Sistemas de Banco de Dados}. 7. ed. São Paulo: Pearson, 2018.
+    \item SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. \textit{Sistema de Banco de Dados}. 6. ed. Elsevier, 2012.
+    \item CODD, Edgar F. A Relational Model of Data for Large Shared Data Banks. \textit{ACM}, 1970.
+    \item DATE, C. J. \textit{Introdução a Sistemas de Bancos de Dados}. 8. ed. Elsevier, 2004.
+    \item IBM. \textit{Database Normalization: Guia Prático}. IBM Think Topics, 2024.
+  \end{enumerate}
+\end{frame}
+
+% Slide 11: Obrigado
+\begin{frame}{}
+  \centering
+  \vspace{1.5cm}
+  {\Huge \textbf{Obrigado!}}\\[0.5cm]
+  {\large Perguntas \& Discussão}\\[1cm]
+  \normalsize
+  Contatos:\\
+  \texttt{pedroiff0@gmail.com}\\
+  \texttt{brenooh7@gmail.com}\\
+  \texttt{isaacsalles2005@gmail.com}\\
+  \texttt{arthurpotente16@gmail.com}\\[0.5cm]
+  \small
+  \url{www.phrandrade.com/pt-br/resource/engenharia-de-computação}
+\end{frame}
+
+\end{document}
