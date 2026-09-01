@@ -1,30 +1,28 @@
 ---
 publish: true
-title: "Trabalho - Normalização e Dependências Funcionais"
-subtitle: "Fundamentação Matemática das Dependências Funcionais e Decomposição em 1FN, 2FN e 3FN"
-discipline: "Banco de Dados"
-period: "6-periodo"
-professor: "Pablo Manhães"
-date: 2026-08-29
-status: planejando
+title: Trabalho - Normalização e Dependências Funcionais
+subtitle: Fundamentação Matemática das Dependências Funcionais e Decomposição em 1FN, 2FN e 3FN
+discipline: Banco de Dados
+period: 6-periodo
+professor: Pablo Manhães
+date: 29/08/2026
+status: concluido
 authors:
-  - Breno Luiz
-  - Isaac Salles
+  - Arthur de Oliveira Lima Potente
+  - Breno Luiz Silva do Carmo
+  - Isaac Salles Gonçalves
   - Pedro Henrique Rocha de Andrade
-corresponding_author: "Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>"
-presenter: "Pedro Henrique Rocha de Andrade"
-short_title: "Normalização & FN"
+corresponding_author: Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>
+presenter: Pedro Henrique Rocha de Andrade
+short_title: Normalização & FN
 encrypted: true
-password: "eng232"
-
-# 🔗 Links e Materiais do Trabalho & Slides (LaTeX / Quartz)
-disciplina_url: "https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/banco-de-dados/"
-trabalho_url: "https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/banco-de-dados/anotacoes/atividades/trabalho---normalizacao-e-dependencias-funcionais/"
-roteiro_pdf: "roteiro_iff_disciplina.pdf"
-slides_latex_claro: "slides_iff_disciplina.pdf"
-slides_latex_escuro: "slides_iff_disciplina_preto.pdf"
-portal_institucional: "https://portal1.iff.edu.br/"
-
+password: eng232
+disciplina_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/banco-de-dados/
+trabalho_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/banco-de-dados/anotacoes/atividades/trabalho---normalizacao-e-dependencias-funcionais/
+roteiro_pdf: roteiro_iff_disciplina.pdf
+slides_latex_claro: slides_iff_disciplina.pdf
+slides_latex_escuro: slides_iff_disciplina_preto.pdf
+portal_institucional: https://portal1.iff.edu.br/
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,7 +35,9 @@ tags:
 draft: false
 cssclasses:
   - page-layout
-modified: 2026-08-31 09:37
+  - center-images
+  - center-titles
+modified: 2026-09-01T14:38:09-03:00
 ---
 
 # 🎓 Trabalho - Normalização e Dependências Funcionais em Banco de Dados
@@ -47,10 +47,9 @@ modified: 2026-08-31 09:37
 
 > [!info] 📌 Informações & Checklist do Trabalho
 > - **Docente:** Pablo Manhães
-> - **Data Prevista:** 29/08/2026
-> - **Apresentador:** Pedro Henrique Rocha de Andrade
-> - **Autores / Equipe:** Breno Luiz, Isaac Salles e Pedro Henrique Rocha de Andrade
-> - **Status da Atividade:** 🟡 `Planejando` *(Status no frontmatter: `status: planejando`)*
+> - **Data Prevista:** 01/09/2026
+> - **Autores / Equipe:** Arthur de Oliveira Lima Potente, Breno Luiz Silva do Carmo, Isaac Salles Gonçalves, Pedro Henrique Rocha de Andrade
+> - **Status da Atividade:** Apresentado
 > - [x] 🎯 Apresentar Trabalho: Normalização e Dependências Funcionais
 
 > [!important] 🔒 Acesso e Senha dos Arquivos
@@ -61,36 +60,44 @@ modified: 2026-08-31 09:37
 
 ## 📂 Recursos & Materiais da Disciplina
 
-> [!tip] 🔗 Arquivos e Materiais da Disciplina
-> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
-> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
-> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
+```dataviewjs
+const c = dv.current();
+const filePath = c.file?.path || "";
+const parts = filePath.split("/");
+const periodIndex = parts.findIndex(p => p.toLowerCase().includes("periodo") || p.toLowerCase().includes("período"));
+const period = c.period || (periodIndex !== -1 ? parts[periodIndex] : "6-periodo");
+const disciplineFolder = (periodIndex !== -1 && parts.length > periodIndex + 1) ? parts[periodIndex + 1] : "banco-de-dados";
 
-> [!info] 🛠️ Guia das Propriedades de Links e Apresentação
-> - **`disciplina_url`**: URL aberta ao clicar no **Nome da Disciplina** no cabeçalho superior dos slides.
-> - **`trabalho_url`**: URL aberta ao clicar no **"Seminário \| `short_title`"** ou no **título do rodapé** dos slides, levando ao endereço público deste `.md` no Quartz.
-> - **`short_title`**: Título curto exibido no cabeçalho dos slides (ao lado de `Nome da Disciplina | ...`).
-> - **`roteiro_pdf`**: Nome do PDF do relatório em `_materiais/`, linkado no rodapé do card de figura lateral nos slides.
-> - **`slides_latex_claro` & `slides_latex_escuro`**: Nomes dos PDFs dos slides Beamer (claro e noturno).
-> - **QR Code (Encerramento):** Redireciona para o portal principal de **Engenharia de Computação** (`phrandrade.com/disciplinas`).
+let matPath = "02 - Áreas/Acadêmico/IFF - Engenharia de Computação/_materiais";
+if (period && disciplineFolder && disciplineFolder !== "Anotações" && disciplineFolder !== "Atividades") {
+    matPath += `/${period}/${disciplineFolder}`;
+} else if (period) {
+    matPath += `/${period}`;
+}
+
+const roteiroFile = c.roteiro_pdf || "roteiro_iff_disciplina.pdf";
+const slidesClaroFile = c.slides_latex_claro || "slides_iff_disciplina.pdf";
+const slidesEscuroFile = c.slides_latex_escuro || "slides_iff_disciplina_preto.pdf";
+const hubEngcomp = "https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/";
+const discHubUrl = c.disciplina_url || (disciplineFolder ? `${hubEngcomp}${period}/${disciplineFolder}/` : hubEngcomp);
+const portalUrl = c.portal_institucional || "https://portal1.iff.edu.br/";
+
+dv.paragraph(`> [!tip] 🔗 Links e Materiais Vinculados (Automático da Disciplina)
+> - 📑 **Roteiro & Documento Técnico (PDF):** [[${matPath}/${roteiroFile}|${roteiroFile}]] *(Link no card lateral dos slides)*
+> - 📊 **Slides LaTeX (PDF Claro):** [[${matPath}/${slidesClaroFile}|${slidesClaroFile}]] *(Apresentação Beamer - Modo Claro)*
+> - 📊 **Slides LaTeX (PDF Escuro):** [[${matPath}/${slidesEscuroFile}|${slidesEscuroFile}]] *(Apresentação Beamer - Modo Noturno)*
+> - 🌐 **Hub da Disciplina:** [Acessar Hub no Quartz](${discHubUrl}) *(Link ao clicar na Disciplina no cabeçalho dos slides)*
+> - 🏛️ **Portal Institucional IFF:** [portal1.iff.edu.br](${portalUrl}) *(Portal institucional)*`);
+```
 
 ---
-
 ## 📋 Sumário Interativo
 - [🎯 1. Fundamentos & Motivação Teórica](#-1-fundamentos--motivação-teórica)
 - [🔍 2. O Cenário Não-Normalizado: Um Caso Prático de Engenharia](#-2-o-cenário-não-normalizado-um-caso-prático-de-engenharia)
 - [📐 3. Dependências Funcionais & O Processo de Normalização Passo a Passo](#-3-dependências-funcionais--o-processo-de-normalização-passo-a-passo)
 - [📈 4. Comparativo de Esquemas, Garantias Formais & Conclusões](#-4-comparativo-de-esquemas-garantias-formais--conclusões)
 - [📚 5. Referências Bibliográficas](#-5-referências-bibliográficas)
-
 ---
-
-## Anotações
-
-Referencia: https://www.ibm.com/br-pt/think/topics/database-normalization
-https://medium.com/@celionormando/depend%C3%AAncias-funcionais-e-normaliza%C3%A7%C3%A3o-9098c3ac9c33
-https://www.datacamp.com/pt/tutorial/normalization-in-dbms
-
 ## 🎯 1. Fundamentos & Motivação Teórica
 
 ### 1.1 O Papel da Teoria Relacional
@@ -309,13 +316,13 @@ A normalização não é meramente uma escolha estética de design; ela possui p
 
 ### 4.3 Tabela Comparativa de Avaliação
 
-| Métrica / Critério | Esquema 0FN (Tabela Única) | Esquema 3FN (Normalizado) |
-| :--- | :---: | :---: |
-| **Redundância de Dados** | Alta (nomes de depto e gerentes repetidos) | Nula (cada fato armazenado exatamente uma vez) |
-| **Anomalias de Inserção/Exclusão** | Críticas (impossível cadastrar depto isolado) | Inexistentes (entidades independentes) |
-| **Integridade dos Dados** | Frágil (risco de divergência de strings) | Máxima (garantida por chaves estrangeiras) |
-| **Desempenho de Leitura Simples** | Rápido (sem `JOIN`, mas com leitura de lixo) | Exige `JOIN`, mas usa índices $B\text{-Tree}$ de inteiros |
-| **Desempenho de Escrita/Update** | Lento (múltiplas linhas alteradas) | Instantâneo (alteração atômica em linha única) |
+| Métrica / Critério                 |          Esquema 0FN (Tabela Única)           |                 Esquema 3FN (Normalizado)                 |
+| :--------------------------------- | :-------------------------------------------: | :-------------------------------------------------------: |
+| **Redundância de Dados**           |  Alta (nomes de depto e gerentes repetidos)   |      Nula (cada fato armazenado exatamente uma vez)       |
+| **Anomalias de Inserção/Exclusão** | Críticas (impossível cadastrar depto isolado) |          Inexistentes (entidades independentes)           |
+| **Integridade dos Dados**          |   Frágil (risco de divergência de strings)    |        Máxima (garantida por chaves estrangeiras)         |
+| **Desempenho de Leitura Simples**  | Rápido (sem `JOIN`, mas com leitura de lixo)  | Exige `JOIN`, mas usa índices $B\text{-Tree}$ de inteiros |
+| **Desempenho de Escrita/Update**   |      Lento (múltiplas linhas alteradas)       |      Instantâneo (alteração atômica em linha única)       |
 
 ---
 
