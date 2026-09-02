@@ -3,10 +3,10 @@ publish: true
 title: Aula 02 - Mapas de Karnough
 subtitle: ""
 created: 2026-08-31 17:02
-modified: 2026-08-31 19:22
-discipline: ""
-period: ""
-professor: ""
+modified: 2026-09-01 16:14
+discipline: Eletrônica Digital
+period: 6-periodo
+professor: Fabrício Barros Gonçalves
 encrypted: true
 password: eng232
 slides_aula: ""
@@ -50,9 +50,7 @@ cssclasses:
 - [📍 Anotações](#-anotações)
 - [🧠 Resumo](#-resumo)
 - [📝 Dúvida](#-dúvida)
-
 ---
-
 ## 📍 Anotações
 
 ### 31/08
@@ -144,7 +142,7 @@ $$S'= \bar{B}$$
 |  1  |  0  | 1   |
 |  1  |  1  | 1   |
 
-#### 3 Variáveis
+##### 3 Variáveis
 $$S= \bar{A}B + A\bar{B} + AB$$
 
 | Caso |  A  |  B  | C   |
@@ -260,7 +258,7 @@ $$S'=\bar{A}C + A\bar{B} + A\bar{C}$$
 ![[ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf#page=133&rect=169,643,715,1353|ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.133]]
 
 
-#### 4 Variáveis
+##### 4 Variáveis
 
 | Caso |  A  |  B  | C   | D   |
 | :--: | :-: | :-: | --- | --- |
@@ -305,7 +303,6 @@ Tudo é 1, logo S = 1
 
 ###### Caso 4: Pares
 ![[ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf#page=138&rect=206,350,939,946|ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.138]]
-
 
 
 ---

@@ -8,7 +8,7 @@ professor: Pablo Manhães
 date: 2026-09-02
 status: concluído
 authors:
-  - Amanda Moraes
+  - Amanda do Carmo de Moraes
   - Pedro Henrique Rocha de Andrade
 corresponding_author: Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>
 presenter: Pedro Henrique Rocha de Andrade
@@ -35,7 +35,7 @@ cssclasses:
   - page-layout
   - center-titles
   - center-images
-modified: 2026-08-31 09:38
+modified: 2026-09-01 16:54
 ---
 
 # 🎓 Trabalho - Coesão e Acoplamento em Análise de Software (ASOO)
@@ -46,7 +46,7 @@ modified: 2026-08-31 09:38
 > [!info] 📌 Informações & Checklist do Trabalho
 > - **Docente:** Pablo Manhães
 > - **Data Prevista:** 02/09/2026
-> - **Apresentadores:** Amanda Moraes, Pedro Henrique Rocha de Andrade
+> - **Apresentadores:** Amanda do Carmo de Moraes, Pedro Henrique Rocha de Andrade
 > - [x] 🎯 Apresentar Trabalho: Coesão e Acoplamento
 
 > [!important] 🔒 Acesso e Senha dos Arquivos
@@ -71,16 +71,7 @@ modified: 2026-08-31 09:38
 - [🧮 4. Coesão e Acoplamento como Métricas (LCOM e CBO)](#-4-coesão-e-acoplamento-como-métricas-lcom-e-cbo)
 - [🏁 5. Conclusões](#-5-conclusões)
 - [📚 Referências Bibliográficas](#-referências-bibliográficas)
-
 ---
-
-## Anotações
-Referência prinicipal: https://engsoftmoderna.info/cap5.html#coes%C3%A3o
-https://engsoftmoderna.info/cap5.html#acoplamento
-
-https://medium.com/@laurammoraesDev/acoplamento-e-coes%C3%A3o-o-que-s%C3%A3o-795bdde30ddc
-https://www.devmedia.com.br/entendendo-coesao-e-acoplamento/18538
-
 ## 🎯 1. O que são Coesão e Acoplamento?
 
 * **Coesão:** Mede a afinidade e o foco interno de um módulo (classe ou função). Um componente coeso faz **apenas uma coisa** de forma dedicada, sem misturar assuntos.

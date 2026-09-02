@@ -1,26 +1,24 @@
 ---
 publish: true
-title: "Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos"
+title: Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
 subtitle: "Análise Crítica da Epistemologia de Miguel Reale: Saber Filosófico, Ciência Positiva e os Fundamentos da Engenharia"
-discipline: "Filosofia da Ciência e Tecnologia"
-period: "6-periodo"
-professor: "Rafael Tardin"
+discipline: Filosofia da Ciência e Tecnologia
+period: 6-periodo
+professor: Rafael Tardin
 date: 2026-09-02
 status: concluído
 authors:
+  - Bernardo Rainha Gomes
   - Pedro Henrique Rocha de Andrade
-corresponding_author: "Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>"
-presenter: "Pedro Henrique Rocha de Andrade"
-short_title: "Filosofia & Pressupostos"
+corresponding_author: Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>
+presenter: Pedro Henrique Rocha de Andrade
+short_title: Filosofia & Pressupostos
 encrypted: true
-password: "eng232"
-
-# 🔗 Links e Materiais da Disciplina & Roteiro Técnico (LaTeX / Quartz)
-disciplina_url: "https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/"
-trabalho_url: "https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotações/atividades/trabalho---introdução-à-filosofia-e-a-crítica-dos-pressupostos/"
-roteiro_pdf: "roteiro_iff_disciplina.pdf"
-portal_institucional: "https://portal1.iff.edu.br/"
-
+password: eng232
+disciplina_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/
+trabalho_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotações/atividades/trabalho---introdução-à-filosofia-e-a-crítica-dos-pressupostos/
+roteiro_pdf: roteiro_iff_disciplina.pdf
+portal_institucional: https://portal1.iff.edu.br/
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -34,7 +32,7 @@ draft: false
 cssclasses:
   - page-layout
   - center-titles
-modified: 2026-08-31 09:52
+modified: 2026-09-01 15:59
 ---
 
 # 🎓 Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos

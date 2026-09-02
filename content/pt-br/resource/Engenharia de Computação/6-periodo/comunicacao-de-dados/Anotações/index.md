@@ -14,6 +14,6 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 ## 📋 Relação de Aulas Registradas
 
-| Aula / Conteúdo | Data | Docente |
-| :--- | :---: | :--- |
-| [[Aula 00 - Apresentação\|📝 Aula 00 - Apresentação]] | 27/08/2026 | Luiz Garcez |
+| Aula / Conteúdo | Data |
+| :--- | :---: |
+| [[Aula Sinais\|🔗 Materiais e Arquivos da Aula (Disponíveis em _materiais da Disciplina)]] | 01/09/2026 |

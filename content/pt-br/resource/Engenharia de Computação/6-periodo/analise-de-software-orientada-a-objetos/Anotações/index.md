@@ -20,9 +20,8 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 ## 📋 Relação de Aulas Registradas
 
-| Aula / Conteúdo | Data | Docente |
-| :--- | :---: | :--- |
-| [[Aula 00 - Apresentação\|📝 Aula 00 - Apresentação]] | 26/08/2026 | Pablo Manhães |
+> [!info] Sem anotações registradas
+> As notas de aula desta disciplina serão disponibilizadas aqui conforme forem ministradas.
 
 ---
 
