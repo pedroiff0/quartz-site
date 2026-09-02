@@ -66,7 +66,7 @@ Sinais Analógicos
 Sinais Digitais
 
 
-> [!PDF|red] [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=60&selection=122,0,124,47&color=red|Forouzan_Comunicacao_de_dados_e_redes_de, p.27]]
+> [!danger] [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=60&selection=122,0,124,47&color=red|Forouzan_Comunicacao_de_dados_e_redes_de, p.27]]
 > > Freqüência é a taxa de mudança em relação ao tempo. A mudança em curto espaço de tempo significa alta freqüência. Mudanças ao longo de espaço de tempo prolongado significam baixa freqüência.
 
 
@@ -74,7 +74,7 @@ Sinais Digitais
 ![[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=61&rect=138,115,539,423&color=important|Forouzan_Comunicacao_de_dados_e_redes_de, p.28]]
 
 
-> [!PDF|important] [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=64&selection=12,0,13,56&color=important|Forouzan_Comunicacao_de_dados_e_redes_de, p.31]]
+> [!important] [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=64&selection=12,0,13,56&color=important|Forouzan_Comunicacao_de_dados_e_redes_de, p.31]]
 > > Uma onda senoidal completa no tempo pode ser representada por um único pico no domínio da freqüência.
 > 
 > 

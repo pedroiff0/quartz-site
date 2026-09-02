@@ -338,6 +338,16 @@ def transform_markdown_file(file_path: str):
         table_lines.append(line)
     content = '\n'.join(table_lines)
 
+    # 2.2 Normalizar Callouts específicos do PDF++ e cores para callouts semânticos padrão do Quartz
+    content = re.sub(r'>\s*\[!PDF\|yellow\]', '> [!warning]', content, flags=re.IGNORECASE)
+    content = re.sub(r'>\s*\[!PDF\|green\]', '> [!tip]', content, flags=re.IGNORECASE)
+    content = re.sub(r'>\s*\[!PDF\|#1e823c\]', '> [!tip]', content, flags=re.IGNORECASE)
+    content = re.sub(r'>\s*\[!tip\|#1e823c\]', '> [!tip]', content, flags=re.IGNORECASE)
+    content = re.sub(r'>\s*\[!PDF\|note\]', '> [!note]', content, flags=re.IGNORECASE)
+    content = re.sub(r'>\s*\[!PDF\|red\]', '> [!danger]', content, flags=re.IGNORECASE)
+    content = re.sub(r'>\s*\[!PDF\|important\]', '> [!important]', content, flags=re.IGNORECASE)
+    content = re.sub(r'>\s*\[!PDF\|([a-zA-Z0-9#_-]+)\]', r'> [!]', content)
+
     # 3. Sanitizar permalinks, formatar criacao/modificacao e garantir cssclasses no frontmatter
     import datetime
     mtime_dt = datetime.datetime.fromtimestamp(os.path.getmtime(file_path))
@@ -592,6 +602,23 @@ if __name__ == '__main__':
     hl_jc = '/home/pedro/hardcore-life/02 - Áreas/Acadêmico/Pesquisas/Journal-Clubs'
     qs_jc = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/research/journal-clubs'
     sync_dirs(hl_jc, qs_jc)
+
+    print('\n=== 🔄 SINCRONIZANDO MATERIAIS DE JOURNAL CLUBS PARA ASSETS ===')
+    for club in ['mwbr', 'engcomp']:
+        hl_mat = f'/home/pedro/hardcore-life/02 - Áreas/Acadêmico/Pesquisas/Journal-Clubs/{club}/_materiais'
+        qs_mat = f'/home/pedro/Repositorios/pessoal/quartz-site/content/assets/journal-clubs/{club}'
+        if os.path.exists(hl_mat):
+            os.makedirs(qs_mat, exist_ok=True)
+            for item in os.listdir(hl_mat):
+                if item.startswith('.') or 'lock' in item:
+                    continue
+                s_item = os.path.join(hl_mat, item)
+                d_item = os.path.join(qs_mat, item)
+                if os.path.isdir(s_item):
+                    shutil.copytree(s_item, d_item, dirs_exist_ok=True)
+                elif os.path.isfile(s_item):
+                    shutil.copy2(s_item, d_item)
+            print(f'✅ Materiais de {club} sincronizados para assets com sucesso!')
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Cursos & Recursos) PARA O QUARTZ-SITE ===')
     hl_curso_on = '/home/pedro/hardcore-life/05 - Recursos/Cursos/Curso ON'

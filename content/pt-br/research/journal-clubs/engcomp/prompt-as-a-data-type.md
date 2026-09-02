@@ -57,7 +57,7 @@ modified: 2026-08-29 12:31
 
 ## 🔬 2. Arquitetura do PromptDB & O Tipo de Dado `PROMPT`
 
-> [!tip|#1e823c] [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/Artigo - Martins2026.pdf#page=3|Artigo - Martins2026, p.3]]
+> [!tip] [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/Artigo - Martins2026.pdf#page=3|Artigo - Martins2026, p.3]]
 > > *"By defining PROMPT as a composite SQL domain, database engines can perform algebraic rewrites, syntactic validation, and version branching natively."*
 > 
 > **Anotação:** O tipo `PROMPT` armazena templates, parâmetros e metadados contextuais, transformando o prompt em uma entidade versionável e transacional dentro da relação.

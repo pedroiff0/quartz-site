@@ -124,7 +124,7 @@ O cerne epistemológico da tese de Miguel Reale reside no **Problema dos Pressup
 
 Para sanar ambiguidades terminológicas, Reale elucida que o termo *Ciência* comporta duas acepções:
 
-> [!tip|#1e823c] [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf#page=3|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1, p.3]]
+> [!tip] [[Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1.pdf#page=3|Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1, p.3]]
 > "A discriminação mais ou menos rigorosa entre Filosofia e Ciência surge quando se atribui ao segundo termo um sentido estrito como sistema de conhecimentos metodicamente adquiridos e de validade universal, pela verificação objetiva, se possível experimental, da certeza de seus dados e resultados... Em conclusão, a Filosofia, entendida como 'ciência' na primeira das acepções (sentido lato), tem por objeto indagar dos pressupostos ou condições de possibilidade de todas as ciências particulares."
 
 1. **Ciência em Sentido Lato (*Lato Sensu*):**

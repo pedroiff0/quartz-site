@@ -1466,3 +1466,138 @@ pre {
 
 
 
+
+/* --- Paper Banner & Paper Notes Styling --- */
+.paper-banner {
+  background: linear-gradient(135deg, rgba(109, 40, 217, 0.08), rgba(14, 165, 233, 0.08));
+  border: 1px solid var(--lightgray);
+  border-left: 4px solid var(--secondary);
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+}
+
+.paper-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--dark);
+  line-height: 1.35;
+  margin-bottom: 0.6rem;
+}
+
+.paper-meta {
+  font-size: 0.92rem;
+  color: var(--darkgray);
+  line-height: 1.6;
+}
+
+.paper-meta a {
+  color: var(--secondary);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.paper-meta a:hover {
+  text-decoration: underline;
+}
+
+/* --- Color Grid (PDF++ Legend Cards) --- */
+.color-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.color-card {
+  padding: 0.9rem 1.1rem;
+  border-radius: 10px;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  border: 1px solid var(--lightgray);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.color-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.color-card.yellow {
+  background: rgba(219, 137, 66, 0.1);
+  border-left: 4px solid #db8942;
+  color: var(--dark);
+}
+
+.color-card.green {
+  background: rgba(0, 191, 165, 0.1);
+  border-left: 4px solid #00bfa5;
+  color: var(--dark);
+}
+
+.color-card.blue {
+  background: rgba(68, 138, 255, 0.1);
+  border-left: 4px solid #448aff;
+  color: var(--dark);
+}
+
+.color-card.red {
+  background: rgba(219, 66, 66, 0.1);
+  border-left: 4px solid #db4242;
+  color: var(--dark);
+}
+
+/* --- Enhanced Callouts Styling with High Contrast & Distinct Palette --- */
+.callout[data-callout="warning"] {
+  --color: #db8942 !important;
+  --border: #db894255 !important;
+  --bg: rgba(219, 137, 66, 0.08) !important;
+}
+
+.callout[data-callout="tip"] {
+  --color: #00bfa5 !important;
+  --border: #00bfa555 !important;
+  --bg: rgba(0, 191, 165, 0.08) !important;
+}
+
+.callout[data-callout="note"] {
+  --color: #448aff !important;
+  --border: #448aff55 !important;
+  --bg: rgba(68, 138, 255, 0.08) !important;
+}
+
+.callout[data-callout="danger"] {
+  --color: #db4242 !important;
+  --border: #db424255 !important;
+  --bg: rgba(219, 66, 66, 0.08) !important;
+}
+
+.callout[data-callout="important"] {
+  --color: #8b5cf6 !important;
+  --border: #8b5cf655 !important;
+  --bg: rgba(139, 92, 246, 0.08) !important;
+}
+
+.callout[data-callout="abstract"] {
+  --color: #00b0ff !important;
+  --border: #00b0ff55 !important;
+  --bg: rgba(0, 176, 255, 0.08) !important;
+}
+
+.callout[data-callout="question"] {
+  --color: #dba642 !important;
+  --border: #dba64255 !important;
+  --bg: rgba(219, 166, 66, 0.08) !important;
+}
+
+/* Article figure images styling */
+article img {
+  border-radius: 8px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  margin: 1.5rem auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+

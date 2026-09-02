@@ -63,7 +63,7 @@ cssclasses:
 	1. Blueprint
 ![[Introdução à Programação Orientada a Objetos.pdf#page=7&rect=43,16,684,252|Introdução à Programação Orientada a Objetos, p.7]]
 6. Paradigma:
-> [!PDF|important] [[Introdução à Programação Orientada a Objetos.pdf#page=10&selection=2,0,4,38&color=important|Introdução à Programação Orientada a Objetos, p.10]]
+> [!important] [[Introdução à Programação Orientada a Objetos.pdf#page=10&selection=2,0,4,38&color=important|Introdução à Programação Orientada a Objetos, p.10]]
 > > É um paradigma de programação que organiza o software em torno de objetos, que representam entidades do mundo real ou conceitual, agrupando dados e comportamentos dentro de uma entidade.
 > 
 > 
@@ -140,7 +140,7 @@ class Carro {
 New = construtor, carro = “ponteiro”
 
 
-> [!PDF|important] [[Introdução à Programação Orientada a Objetos.pdf#page=22&selection=0,0,0,34&color=important|Introdução à Programação Orientada a Objetos, p.22]]
+> [!important] [[Introdução à Programação Orientada a Objetos.pdf#page=22&selection=0,0,0,34&color=important|Introdução à Programação Orientada a Objetos, p.22]]
 > > A classe define, o objeto possui.
 
 #### Tarefa Prática:
