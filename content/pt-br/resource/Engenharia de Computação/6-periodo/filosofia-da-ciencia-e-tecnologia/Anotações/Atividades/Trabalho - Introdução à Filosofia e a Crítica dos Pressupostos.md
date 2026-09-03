@@ -32,7 +32,7 @@ draft: false
 cssclasses:
   - page-layout
   - center-titles
-modified: 2026-09-01 15:59
+modified: 2026-09-02 17:23
 ---
 
 # 🎓 Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
@@ -97,7 +97,7 @@ Reale desmistifica essa visão ao apontar que:
 * **A Universalidade está nos Problemas, não nas Soluções:** Questões formuladas na Grécia Antiga por Platão e Aristóteles, ou na Modernidade por Descartes e Kant, permanecem vivas e atuais porque transcendem os ciclos temporais.
 * **A Filosofia como seu Próprio Problema:** Citando Georg Simmel, Reale lembra que a Filosofia reverte sobre sua própria essência. Ela é um permanente *estar em marcha* (Karl Jaspers).
 * **Exemplos de Filosofia Autêntica:** Destacam-se as trajetórias de **John Dewey** e **Benedetto Croce**, pensadores que, até o fim da vida, recusaram sistemas cristalizados e mantiveram acesa a chama da investigação contínua.
-
+l
 ---
 
 ## 🧩 3. O Problema Central dos Pressupostos: Ciência Positiva vs Filosofia
@@ -157,6 +157,13 @@ Como futuros engenheiros de computação, a leitura de Miguel Reale é um convit
 
 1. **A Filosofia como Consciência Crítica:** A filosofia não concorre com as ciências particulares, mas atua como sua guardiã epistemológica, indagando a validade de suas premissas e a destinação humana de seus resultados.
 2. **A Formação Integral do Engenheiro:** Um engenheiro incapaz de filosofar reduz-se a um mero operador de ferramentas pré-concebidas. O domínio da crítica dos pressupostos confere autonomia intelectual para inovar, desenhar arquiteturas robustas e agir com responsabilidade ética.
+
+Thaumática
+Correlação cientista filosofo thauma
+
+
+Giovani Reale, Coleção da Filosofia
+Rubens Alves, Coleção
 
 ---
 

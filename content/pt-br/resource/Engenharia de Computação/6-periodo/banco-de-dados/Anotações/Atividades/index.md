@@ -24,7 +24,7 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
-| [[Trabalho - Normalização e Dependências Funcionais\|🎓 Trabalho - Normalização e Dependências Funcionais em Banco de Dados]] | 02/09/2026 | Pablo Manhães |
+| [[Trabalho - Normalização e Dependências Funcionais\|🎓 Trabalho - Normalização e Dependências Funcionais em Banco de Dados]] | 03/09/2026 | Pablo Manhães |
 
 ---
 
