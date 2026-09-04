@@ -29,7 +29,7 @@ Este repositório centraliza todos os **trabalhos práticos, seminários, listas
 
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
-| [[Trabalho - Coesão e Acoplamento - ASOO\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 03/09/2026 | Pablo Manhães |
+| [[Trabalho - Coesão e Acoplamento - ASOO\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 04/09/2026 | Pablo Manhães |
 
 ---
 

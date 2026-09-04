@@ -14,5 +14,6 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 ## 📋 Relação de Aulas Registradas
 
-> [!info] Sem anotações registradas
-> As notas de aula desta disciplina serão disponibilizadas aqui conforme forem ministradas.
+| Aula / Conteúdo | Data | Docente |
+| :--- | :---: | :--- |
+| [[Aula 01 - Apresentação SO\|📝 Aula 01 - Apresentação SO]] | 03/09/2026 | Wesley Folly |
