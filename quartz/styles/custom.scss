@@ -1621,17 +1621,20 @@ article img {
 /* --- Wallpaper: Via Láctea (noite) / Sol (dia) ---
    Duas fotos reais (texturas 8K da solarsystemscope.com, baixadas e
    reprocessadas em WebP local — quartz/static/wallpapers/, nunca hotlink),
-   cada uma com uma versão mobile bem mais leve (900px) para não pesar o
-   carregamento em telas pequenas — a versão desktop (2200px) já fica na
-   casa de poucas dezenas/centenas de KB.
+   cada uma com uma versão mobile bem mais leve para não pesar o
+   carregamento em telas pequenas.
    O gradiente com var(--light)/color-mix por cima da foto é o que mantém
    o texto legível: sidebar, cabeçalho e a maior parte dos componentes não
    têm background opaco próprio (só uns cards específicos, como
    .vault-card/.paper-banner/.astronomy-qrcode-card, que já usam washes
    translúcidos pensando em ter algo por trás) — sem esse overlay a foto
-   ficaria em bruto atrás do texto do site inteiro. background-attachment:
-   fixed só no desktop/tablet; no mobile causa jank/scroll travado
-   (principalmente Safari iOS), então ali o fundo rola com a página. */
+   ficaria em bruto atrás do texto do site inteiro.
+   Sem background-attachment: fixed em nenhum breakpoint — testado ao vivo
+   (Playwright + CDP) e a foto "grudada" na tela junto com o canvas animado
+   do #cosmic-bg (requestAnimationFrame, ver Head.tsx) disputava o
+   compositor a cada scroll/frame e travava a UI ("GPU stall due to
+   ReadPixels" no console) — sensação de página que nunca termina de
+   carregar. Fundo rola com a página em todos os tamanhos de tela. */
 $wallpaper-overlay: linear-gradient(
   color-mix(in srgb, var(--light) 88%, transparent),
   color-mix(in srgb, var(--light) 92%, transparent)
@@ -1643,12 +1646,7 @@ body {
   background-repeat: no-repeat;
   background-image: $wallpaper-overlay, url("static/wallpapers/sun-desktop.webp");
 
-  @media all and ($tablet), all and ($desktop) {
-    background-attachment: fixed;
-  }
-
   @media all and ($mobile) {
-    background-attachment: scroll;
     background-image: $wallpaper-overlay, url("static/wallpapers/sun-mobile.webp");
   }
 }
