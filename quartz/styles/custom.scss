@@ -112,20 +112,25 @@
   color: var(--dark);
 }
 
-
-
-
 /* --- Explorer Language Flattening --- */
 
 /* Hide EN root folder entirely on PT-BR pages */
 body[data-slug^="pt-br"] .explorer-ul > li > .folder-container[data-folderpath="en"],
-body[data-slug^="pt-br"] .explorer-ul > li > .folder-container[data-folderpath="en"] + .folder-outer {
+body[data-slug^="pt-br"]
+  .explorer-ul
+  > li
+  > .folder-container[data-folderpath="en"]
+  + .folder-outer {
   display: none !important;
 }
 
 /* Hide PT-BR root folder entirely on EN pages */
 body:not([data-slug^="pt-br"]) .explorer-ul > li > .folder-container[data-folderpath="pt-br"],
-body:not([data-slug^="pt-br"]) .explorer-ul > li > .folder-container[data-folderpath="pt-br"] + .folder-outer {
+body:not([data-slug^="pt-br"])
+  .explorer-ul
+  > li
+  > .folder-container[data-folderpath="pt-br"]
+  + .folder-outer {
   display: none !important;
 }
 
@@ -173,7 +178,9 @@ body:not([data-slug^="pt-br"]) .explorer-ul > li > .folder-container[data-folder
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: transform 0.2s ease, background 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    background 0.2s ease;
 }
 
 .nav-lang a:hover {
@@ -297,7 +304,9 @@ body[data-slug="mapa/index"] .backlinks {
 
 .social-icon-link {
   color: var(--darkgray) !important;
-  transition: color 0.2s ease, transform 0.2s ease !important;
+  transition:
+    color 0.2s ease,
+    transform 0.2s ease !important;
 }
 
 .social-icon-link:hover {
@@ -312,7 +321,8 @@ body[data-slug="mapa/index"] .backlinks {
   gap: 2rem;
 }
 
-.footer-info h4, .footer-links h4 {
+.footer-info h4,
+.footer-links h4 {
   color: var(--dark);
   margin-bottom: 1rem;
   font-size: 1.1rem;
@@ -558,12 +568,12 @@ body[data-slug="mapa/index"] .backlinks {
   position: relative;
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s ease;
 }
 
 .carousel-slide:hover {
-  box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
 }
 
 .carousel-slide img {
@@ -670,7 +680,7 @@ body[data-slug="mapa/index"] .backlinks {
   bottom: 0;
   left: 0;
   right: 0;
-  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
   color: white;
   padding: 1.5rem 1rem 1rem;
   font-weight: bold;
@@ -927,8 +937,13 @@ body[data-slug="mapa/index"] .backlinks {
 }
 
 @keyframes nf-float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-12px); }
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
 }
 
 .notfound h1 {
@@ -956,7 +971,9 @@ body[data-slug="mapa/index"] .backlinks {
   color: var(--light);
   font-weight: 600;
   text-decoration: none;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
 }
 
 .notfound-btn:hover {
@@ -1306,7 +1323,9 @@ body[data-slug="mapa/index"] .backlinks {
 }
 
 /* --- Gradient Text, Tables & Cards Styling --- */
-.center h1, .center h2, .center h3 {
+.center h1,
+.center h2,
+.center h3 {
   background: linear-gradient(135deg, var(--secondary), var(--tertiary));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1353,7 +1372,9 @@ table {
   border: 1px solid var(--lightgray);
   border-radius: 10px;
   padding: 1.25rem;
-  transition: transform 0.2s ease, border-color 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    border-color 0.2s ease;
 
   &:hover {
     transform: translateY(-2px);
@@ -1397,7 +1418,8 @@ h1.article-title {
 }
 
 /* --- Grid and Cards Layout --- */
-.cards, .grid-2 {
+.cards,
+.grid-2 {
   display: grid !important;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)) !important;
   gap: 1.25rem !important;
@@ -1460,13 +1482,6 @@ pre {
   overflow-wrap: break-word !important;
 }
 
-
-
-
-
-
-
-
 /* --- Paper Banner & Paper Notes Styling --- */
 .paper-banner {
   background: linear-gradient(135deg, rgba(109, 40, 217, 0.08), rgba(14, 165, 233, 0.08));
@@ -1516,7 +1531,9 @@ pre {
   font-size: 0.88rem;
   line-height: 1.5;
   border: 1px solid var(--lightgray);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .color-card:hover {
@@ -1601,3 +1618,45 @@ article img {
   height: auto;
 }
 
+/* --- Wallpaper: Via Láctea (noite) / Sol (dia) ---
+   Duas fotos reais (texturas 8K da solarsystemscope.com, baixadas e
+   reprocessadas em WebP local — quartz/static/wallpapers/, nunca hotlink),
+   cada uma com uma versão mobile bem mais leve (900px) para não pesar o
+   carregamento em telas pequenas — a versão desktop (2200px) já fica na
+   casa de poucas dezenas/centenas de KB.
+   O gradiente com var(--light)/color-mix por cima da foto é o que mantém
+   o texto legível: sidebar, cabeçalho e a maior parte dos componentes não
+   têm background opaco próprio (só uns cards específicos, como
+   .vault-card/.paper-banner/.astronomy-qrcode-card, que já usam washes
+   translúcidos pensando em ter algo por trás) — sem esse overlay a foto
+   ficaria em bruto atrás do texto do site inteiro. background-attachment:
+   fixed só no desktop/tablet; no mobile causa jank/scroll travado
+   (principalmente Safari iOS), então ali o fundo rola com a página. */
+$wallpaper-overlay: linear-gradient(
+  color-mix(in srgb, var(--light) 88%, transparent),
+  color-mix(in srgb, var(--light) 92%, transparent)
+);
+
+body {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: $wallpaper-overlay, url("static/wallpapers/sun-desktop.webp");
+
+  @media all and ($tablet), all and ($desktop) {
+    background-attachment: fixed;
+  }
+
+  @media all and ($mobile) {
+    background-attachment: scroll;
+    background-image: $wallpaper-overlay, url("static/wallpapers/sun-mobile.webp");
+  }
+}
+
+:root[saved-theme="dark"] body {
+  background-image: $wallpaper-overlay, url("static/wallpapers/milkyway-desktop.webp");
+
+  @media all and ($mobile) {
+    background-image: $wallpaper-overlay, url("static/wallpapers/milkyway-mobile.webp");
+  }
+}
