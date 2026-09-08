@@ -11,7 +11,7 @@ tags:
 cssclasses:
   - page-layout
   - cards
-modified: 2026-08-29 12:31
+modified: 2026-09-07 16:46
 ---
 
 # 🎯 Atividades, Trabalhos & Avaliações
@@ -24,7 +24,7 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
-| [[Trabalho - Normalização e Dependências Funcionais\|🎓 Trabalho - Normalização e Dependências Funcionais em Banco de Dados]] | 07/09/2026 | Pablo Manhães |
+| [[Trabalho - Normalização e Dependências Funcionais\|🎓 Trabalho - Normalização e Dependências Funcionais em Banco de Dados]] | 08/09/2026 | Pablo Manhães |
 
 ---
 

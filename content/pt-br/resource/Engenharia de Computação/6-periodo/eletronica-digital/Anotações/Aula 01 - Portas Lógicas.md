@@ -2,7 +2,7 @@
 publish: true
 title: "Aula 01 - Portas Lógicas"
 created: 2026-08-24 14:50
-modified: 2026-08-31 17:46
+modified: 2026-09-07 16:53
 encrypted: true
 tags:
   - aula

@@ -5,8 +5,8 @@ title: ArqueologiaGalactica-Aula03
 discipline: Astrofísica Estelar / Via Láctea
 content: Arqueologia Galáctica (continuação — conteúdo a ser preenchido)
 professor:
-created: 2026-08-27 21:59
-modified: 2026-08-27 21:59
+created: 2026-09-07 16:47
+modified: 2026-09-07 16:47
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica

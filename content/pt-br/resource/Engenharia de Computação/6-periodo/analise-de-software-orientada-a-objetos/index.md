@@ -2,7 +2,7 @@
 publish: true
 title: "Análise de Software Orientada a Objetos"
 created: 2026-07-18 12:00
-modified: 2026-08-29 11:18
+modified: 2026-09-07 16:46
 tags:
   - disciplina
   - engenharia-de-computacao

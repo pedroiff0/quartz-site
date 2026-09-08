@@ -2,7 +2,7 @@
 publish: true
 title: "Gestão de Projetos"
 created: 2026-08-22 12:00
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:46
 tags:
   - disciplina
   - engenharia-de-computacao

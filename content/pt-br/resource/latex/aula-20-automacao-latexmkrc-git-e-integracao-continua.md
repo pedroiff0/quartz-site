@@ -1,7 +1,7 @@
 ---
 title: "Aula 20: Automação LaTeX, Git e Integração Contínua CI/CD"
 created: 2026-08-04 13:34
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:47
 publish: true
 notes: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-20-branco.pdf)"

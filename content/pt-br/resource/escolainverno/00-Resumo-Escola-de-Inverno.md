@@ -6,7 +6,7 @@ discipline: Resumo Geral
 content: Panorama de tudo o que foi visto na Escola de Inverno do Observatório Nacional (ON) 2026
 professor:
 created: 2026-07-22 13:34
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:47
 tags:
   - escola-de-inverno-on
   - resumo

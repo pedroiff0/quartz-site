@@ -6,7 +6,7 @@ discipline: Astrofísica Extragaláctica
 content: Aglomerados de Galáxias — as maiores estruturas gravitacionalmente ligadas do Universo
 professor: Rogério Monteiro-Oliveira
 created: 2026-07-20 13:34
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:47
 tags:
   - escola-de-inverno-on
   - astrofisica-extragalactica

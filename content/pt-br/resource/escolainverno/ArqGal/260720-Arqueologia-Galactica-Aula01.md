@@ -6,7 +6,7 @@ discipline: Astrofísica Estelar / Via Láctea
 content: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas
 professor:
 created: 2026-07-20 13:34
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:47
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica
