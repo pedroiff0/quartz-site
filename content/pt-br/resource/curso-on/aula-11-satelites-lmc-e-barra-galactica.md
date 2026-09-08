@@ -2,7 +2,7 @@
 publish: false
 title: Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
 created: 2026-07-25 12:36
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:47
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on

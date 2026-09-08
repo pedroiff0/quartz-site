@@ -3,7 +3,7 @@ publish: true
 title: Aula 01 - Apresentação SO
 subtitle: ""
 created: 2026-09-03 13:28
-modified: 2026-09-03 13:29
+modified: 2026-09-07 16:53
 discipline: Sistemas Operacionais I
 period: 7-periodo
 professor: Wesley Folly

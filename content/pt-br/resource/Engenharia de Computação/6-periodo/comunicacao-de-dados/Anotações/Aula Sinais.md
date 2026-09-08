@@ -3,7 +3,7 @@ publish: true
 title: Aula Sinais
 subtitle: ""
 created: 2026-09-01 17:18
-modified: 2026-09-01 17:54
+modified: 2026-09-07 16:53
 discipline: ""
 period: ""
 professor: ""

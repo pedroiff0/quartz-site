@@ -2,7 +2,7 @@
 publish: true
 title: "Eletrônica Digital"
 created: 2026-07-18 12:00
-modified: 2026-08-31 19:21
+modified: 2026-09-07 16:46
 tags:
   - disciplina
   - engenharia-de-computacao

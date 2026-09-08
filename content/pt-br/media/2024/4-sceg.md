@@ -2,7 +2,7 @@
 publish: true
 title: 4ª SCEG 2024
 created: 2024-10-22 13:04
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:46
 published: 2026-07-26T10:13:34.504-03:00
 photoFolder: 4sceg2024
 type: blog

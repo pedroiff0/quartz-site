@@ -2,7 +2,7 @@
 publish: false
 title: Fundamentos da Computação
 created: 2026-07-18 13:04
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:47
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos

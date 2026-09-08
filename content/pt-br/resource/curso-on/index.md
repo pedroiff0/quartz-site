@@ -2,7 +2,7 @@
 publish: false
 title: Arqueologia Galáctica e Populações Estelares
 created: 2026-07-23 13:04
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:47
 published: 2026-07-26T11:50:01.646-03:00
 encrypted: true
 order: 5

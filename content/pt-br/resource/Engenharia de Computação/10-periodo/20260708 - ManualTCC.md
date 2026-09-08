@@ -2,7 +2,7 @@
 publish: true
 title: 20260708 - ManualTCC
 created: 2026-07-08 13:34
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:46
 tags:
 cssclasses:
 

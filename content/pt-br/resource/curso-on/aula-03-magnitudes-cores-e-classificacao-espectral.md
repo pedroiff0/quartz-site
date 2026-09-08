@@ -2,7 +2,7 @@
 publish: false
 title: Aula 03 — Magnitudes, Cores e Classificação Espectral
 created: 2026-07-23 12:36
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:47
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on

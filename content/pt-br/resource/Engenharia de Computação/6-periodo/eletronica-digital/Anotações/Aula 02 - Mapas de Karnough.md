@@ -3,7 +3,7 @@ publish: true
 title: Aula 02 - Mapas de Karnough
 subtitle: ""
 created: 2026-08-31 17:02
-modified: 2026-09-01 16:14
+modified: 2026-09-07 16:53
 discipline: Eletrônica Digital
 period: 6-periodo
 professor: Fabrício Barros Gonçalves

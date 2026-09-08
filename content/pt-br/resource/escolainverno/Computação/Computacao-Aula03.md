@@ -5,8 +5,8 @@ title: Computacao-Aula03
 discipline: Computação Científica de Alto Desempenho
 content: HPC (continuação — conteúdo a ser preenchido)
 professor: Fernando Roig
-created: 2026-08-27 21:59
-modified: 2026-08-27 21:59
+created: 2026-09-07 16:47
+modified: 2026-09-07 16:47
 tags:
   - escola-de-inverno-on
   - hpc

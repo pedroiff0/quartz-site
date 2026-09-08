@@ -5,8 +5,8 @@ title: Cosmologia-Aula03
 discipline: Cosmologia
 content: Cosmologia — Estrutura em Grande Escala (conteúdo a ser preenchido)
 professor: Carlos Bengaly
-created: 2026-08-27 21:59
-modified: 2026-08-27 21:59
+created: 2026-09-07 16:47
+modified: 2026-09-07 16:47
 tags:
   - escola-de-inverno-on
   - cosmologia

@@ -2,7 +2,7 @@
 publish: true
 title: "Aula 01 - Introdução"
 created: 2026-08-26 14:49
-modified: 2026-08-29 12:51
+modified: 2026-09-07 16:53
 encrypted: true
 tags:
   - aula

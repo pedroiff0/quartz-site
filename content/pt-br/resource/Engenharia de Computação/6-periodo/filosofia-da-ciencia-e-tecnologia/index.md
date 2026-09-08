@@ -2,7 +2,7 @@
 publish: true
 title: "Filosofia da Ciência e Tecnologia"
 created: 2026-07-18 12:00
-modified: 2026-08-27 21:59
+modified: 2026-09-07 16:46
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -50,17 +50,14 @@ cssclasses:
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica
 > 1. CHAUI, M. S. Convite à filosofia. 14. ed. São Paulo: Ática, 2011.
-> 2. LATOUR, Bruno. Ciência em ação: como seguir cientistas e engenheiros sociedade afora. São Paulo:
-> 3. Ed. UNESP, 2000.
-> 4. MORIN, E. Ciência com consciência. 11. ed. Rio de Janeiro: Bertrand Brasil, 2008.
+> 2. LATOUR, Bruno. Ciência em ação: como seguir cientistas e engenheiros sociedade afora. São Paulo: Ed. UNESP, 2000.
+> 3. MORIN, E. Ciência com consciência. 11. ed. Rio de Janeiro: Bertrand Brasil, 2008.
 > #### 📗 Bibliografia Complementar
-> 1. ARANHA, M. L. A.; MARTINS, M. H. P. Filosofando: introdução à filosofia. 4. ed. rev. São Paulo:
-> 2. Moderna, 2009.
-> 3. HARVEY, David. Condição pós-moderna: uma pesquisa sobre as origens da mudança cultural. 14. ed.
-> 4. São Paulo: Loyola, 2005.
-> 5. PINTO, Álvaro Vieira. O conceito de tecnologia. Rio de Janeiro: Contraponto, 2008.
-> 6. SANTOS, B. S. Um discurso sobre as ciências. 6. ed. São Paulo, SP: Cortez, 2009.
-> 7. LIVA, A. Filosofia da Ciência. Rio de Janeiro: Zahar, 2003.
+> 4. ARANHA, M. L. A.; MARTINS, M. H. P. Filosofando: introdução à filosofia. 4. ed. rev. São Paulo: Moderna, 2009.
+> 5. HARVEY, David. Condição pós-moderna: uma pesquisa sobre as origens da mudança cultural. 14. ed. São Paulo: Loyola, 2005.
+> 6. PINTO, Álvaro Vieira. O conceito de tecnologia. Rio de Janeiro: Contraponto, 2008.
+> 7. SANTOS, B. S. Um discurso sobre as ciências. 6. ed. São Paulo, SP: Cortez, 2009.
+> 8. LIVA, A. Filosofia da Ciência. Rio de Janeiro: Zahar, 2003.
 > 
 
 ## 📝 Anotações e Arquivos Didáticos
