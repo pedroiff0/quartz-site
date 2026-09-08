@@ -1660,8 +1660,8 @@ body {
 :root[data-theme="dark"],
 html.theme-dark {
   $dark-overlay: linear-gradient(
-    color-mix(in srgb, var(--light) 45%, transparent),
-    color-mix(in srgb, var(--light) 55%, transparent)
+    color-mix(in srgb, var(--light) 30%, transparent),
+    color-mix(in srgb, var(--light) 40%, transparent)
   );
   background-image: $dark-overlay, url("static/wallpapers/milkyway-desktop.webp");
 
