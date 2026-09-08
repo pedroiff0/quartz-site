@@ -1651,10 +1651,16 @@ body {
   }
 }
 
-:root[saved-theme="dark"] body {
-  background-image: $wallpaper-overlay, url("static/wallpapers/milkyway-desktop.webp");
+:root[saved-theme="dark"] body,
+:root[data-theme="dark"] body,
+body.theme-dark {
+  $dark-overlay: linear-gradient(
+    color-mix(in srgb, var(--light) 65%, transparent),
+    color-mix(in srgb, var(--light) 75%, transparent)
+  );
+  background-image: $dark-overlay, url("static/wallpapers/milkyway-desktop.webp");
 
   @media all and ($mobile) {
-    background-image: $wallpaper-overlay, url("static/wallpapers/milkyway-mobile.webp");
+    background-image: $dark-overlay, url("static/wallpapers/milkyway-mobile.webp");
   }
 }
