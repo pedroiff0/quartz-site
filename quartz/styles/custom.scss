@@ -1640,7 +1640,8 @@ $wallpaper-overlay: linear-gradient(
   color-mix(in srgb, var(--light) 92%, transparent)
 );
 
-body {
+html {
+  background-color: var(--light);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1651,9 +1652,13 @@ body {
   }
 }
 
-:root[saved-theme="dark"] body,
-:root[data-theme="dark"] body,
-body.theme-dark {
+body {
+  background: transparent !important;
+}
+
+:root[saved-theme="dark"],
+:root[data-theme="dark"],
+html.theme-dark {
   $dark-overlay: linear-gradient(
     color-mix(in srgb, var(--light) 65%, transparent),
     color-mix(in srgb, var(--light) 75%, transparent)
