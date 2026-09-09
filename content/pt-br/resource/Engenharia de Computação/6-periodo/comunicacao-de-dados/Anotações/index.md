@@ -14,7 +14,7 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 ## 📋 Relação de Aulas Registradas
 
-| Aula / Conteúdo | Data |
-| :--- | :---: |
-| [[Aula 02 - Capítulo 3.3\|🔗 Materiais e Arquivos da Aula (Disponíveis em _materiais da Disciplina)]] | 08/09/2026 |
-| [[Aula Sinais\|🔗 Materiais e Arquivos da Aula (Disponíveis em _materiais da Disciplina)]] | 01/09/2026 |
+| Aula / Conteúdo | Data | Docente |
+| :--- | :---: | :--- |
+| [[Aula 02 - Capítulo 3.3\|📝 Aula 02 - Capítulo 3.3]] | 08/09/2026 | Luiz Garcez |
+| [[Aula Sinais\|🔗 Materiais e Arquivos da Aula (Disponíveis em _materiais da Disciplina)]] | 01/09/2026 | — |
