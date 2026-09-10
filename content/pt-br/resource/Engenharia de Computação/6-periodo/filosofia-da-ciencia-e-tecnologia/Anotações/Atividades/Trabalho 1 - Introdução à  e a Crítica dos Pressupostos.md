@@ -32,7 +32,7 @@ draft: false
 cssclasses:
   - page-layout
   - center-titles
-modified: 2026-09-07 20:46
+modified: 2026-09-09 19:59
 ---
 
 # 🎓 Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
@@ -132,6 +132,11 @@ A Engenharia de Computação baseia-se em fortes pressupostos: a abstração alg
 ## 🏁 6. Conclusão
 
 A Filosofia não compete com as ciências exatas, mas atua como sua consciência epistemológica. Ela investiga a validade dos pressupostos que sustentam a prática científica. O profissional de engenharia munido de criticidade (impulsionado pelo "thauma" — o espanto filosófico diante do mundo) transcende a operação de ferramentas, alcançando a capacidade de projetar soluções que de fato compreendam e beneficiem o ser humano.
+
+### Atividades
+Aponte 1 semelhança e 1 diferença entre ciência e filosofia, justifique a perspectiva;
+
+ A principal semelhança entre a Filosofia e a Ciência é que ambas se erguem contra as explicações básicas do senso comum, configurando-se como formas de conhecimento metódico, racional e sistemático que buscam uma compreensão rigorosa e estruturada da realidade. No entanto, elas divergem na maneira como lidam com os chamados "pressupostos" - as verdades assumidas como ponto de partida. A Ciência Positiva (sentido estrito) precisa necessariamente aceitar certos pressupostos de forma não crítica (como a validade da causalidade, a existência do tempo ou do espaço) para que consiga operar, progredir e entregar resultados e leis práticas sem ficar paralisada. Em contrapartida, a Filosofia caracteriza-se justamente como a "crítica radical dos pressupostos"; ela recusa-se a dar qualquer premissa como inquestionável, voltando toda a sua investigação filosófica para interrogar e desconstruir as próprias bases sobre as quais a prática científica e o pensamento se apoiam.
 
 ---
 

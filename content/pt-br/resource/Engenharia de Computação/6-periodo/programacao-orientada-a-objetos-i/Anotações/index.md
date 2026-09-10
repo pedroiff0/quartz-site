@@ -17,3 +17,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
 | [[Aula 01 - Introdução\|📝 Aula 01 - Introdução]] | 26/08/2026 | Anderson Veiga |
+| [[Aula 02 - Construtores e Encapsulamento\|🔗 Materiais e Arquivos da Aula (Disponíveis em _materiais da Disciplina)]] | 09/09/2026 | — |
