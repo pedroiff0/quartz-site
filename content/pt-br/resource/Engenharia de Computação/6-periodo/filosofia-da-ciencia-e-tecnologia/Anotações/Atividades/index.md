@@ -24,7 +24,6 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
-| [[Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos\|🎓 Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos]] | 09/09/2026 | Rafael Tardin |
 | [[Trabalho 1 - Introdução à  e a Crítica dos Pressupostos\|Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos]] | 10/09/2026 | Rafael Tardin |
 | [[Trabalho 2 - Filosofia da Tecnologia\|🎓 Trabalho 2 - Dossiê de Debate: Filosofia da Tecnologia (Alberto Cupani)]] | 10/09/2026 | Rafael Tardin |
 
