@@ -1,0 +1,88 @@
+---aliases:
+  - index
+
+publish: true
+title: "Sistemas Embarcados"
+created: 2026-07-18T12:00:00-03:00
+modified: 2026-09-12T11:19:02-03:00
+tags:
+  - disciplina
+  - engenharia-de-computacao
+cssclasses:
+  - page-layout
+---
+
+
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.70`
+> - **Período:** 9º Período | **Núcleo:** Específica | **Carga Horária:** 60
+> - **Docente Responsável:** Garcez (luiz.garcez@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
+
+
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementação. Programação concorrente. Núcleos operacionais. Escalonamento.
+> ### 🎯 Objetivos
+> - Apresentar os conceitos, problemas e soluções típicas no desenvolvimento de sistemas computacionais embarcados, incluindo os que operam em tempo real.
+> - Realizar o processo de desenvolvimento de um sistema em tempo real, em laboratório, desde a sua especificação até o teste final.
+
+
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> ### 📋 Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/index|CSECBJI.62 - Microcontroladores]]
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
+
+
+> [!tip] 📖 Conteúdo Programático
+> - [ ] **1. Sistemas de Tempo Real**
+> 	- [ ] Caracterização de Sistemas Embarcados Operando em Tempo Real;
+> - [ ] **2. Sistemas Embarcados: Modelagem, Projeto e Implementação**
+> 	- [ ] Processo de Desenvolvimento de Sistemas Embarcados
+> 	- [ ] Modelagem e Projeto de Sistemas Embarcados Através de Statecharts
+> 	- [ ] Estrutura de Implementação de Sistemas Embarcados
+> - [ ] **3. Programação Concorrente**
+> 	- [ ] Conceituação de Concorrência
+> 	- [ ] Problema de Exclusão Mútua
+> 	- [ ] Comunicação e Sincronização em Memória Compartilhada
+> 	- [ ] Comunicação e Sincronização via Troca de Mensagens
+> - [ ] **4. Núcleos Operacionais**
+> 	- [ ] Conceituação de Núcleos Operacionais
+> 	- [ ] Funcionalidades de Núcleos Operacionais
+> - [ ] **5. Escalonamento**
+> 	- [ ] Conceituação
+> 	- [ ] Objetivos
+> 	- [ ] Escalonadores Canônicos
+> 	- [ ] Escalonamento por Prioridades
+> 	- [ ] Escalonamento em Taxa Monotônica
+> 	- [ ] Modelagem Matemática de Escalonadores
+
+> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
+> #### 📕 Bibliografia Básica
+> 1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
+> 2. DENARDIN, G. W. Sistemas Operacionais de Tempo Real e sua Aplicação em Sistemas Embarcados.
+> 3. São Paulo: 2019.
+> 4. SHAW, A. C. Sistemas e Software de Tempo Real. Porto Alegre: Bookman, 2003.
+> #### 📗 Bibliografia Complementar
+> 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
+> 2. LIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição.
+> 3. São Paulo: Erica, 2010.
+> 4. STEVAN JR., S. L., SILVA, R. A. A. Automação e Instrumentação Industrial com Arduino: Teoria e Projetos. São Paulo: Erica, 2015.
+> 5. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+> 6. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+> 7. Porto Alegre: Bookman, 2018.
+> 
+
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
+
+## 🎓 Aulas
+
+- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
+- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/Anotações/Esboço/aula-01-sistemas-de-tempo-real|Aula 01]]
+- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/Anotações/Esboço/aula-02-caracterização-de-sistemas-embarcados-op|Aula 02]]
+- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/Anotações/Esboço/aula-03-sistemas-embarcados-modelagem-projeto-e-|Aula 03]]
+- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/Anotações/Esboço/aula-04-processo-de-desenvolvimento-de-sistemas-|Aula 04]]
+- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/Anotações/Esboço/aula-05-modelagem-e-projeto-de-sistemas-embarcad|Aula 05]]
+- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/Anotações/Esboço/aula-06-estrutura-de-implementação-de-sistemas-e|Aula 06]]

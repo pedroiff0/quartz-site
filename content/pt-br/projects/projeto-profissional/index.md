@@ -1,8 +1,8 @@
 ---
-publish: false
+publish: true
 title: Projeto Profissional (template)
 created: 2026-08-08 13:04
-modified: 2026-09-07 16:46
+modified: 2026-09-11 12:49
 tags: [Template, Boilerplate, Segurança, Auth, Open Source]
 repo: https://github.com/pedroiff0/projeto-profissional
 status: público

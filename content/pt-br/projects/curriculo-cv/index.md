@@ -1,12 +1,12 @@
 ---
-publish: false
+publish: true
 title: Currículo (CV)
 tags: [Multilíngue, PT/EN/ES/FR]
 repo: https://github.com/pedroiff0/cv
 status: público
 cssclasses:
   - page-layout
-modified: 2026-09-07 16:46
+modified: 2026-09-11 12:49
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

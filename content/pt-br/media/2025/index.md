@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "2025"
-created: 2026-07-23 13:04
-modified: 2026-09-07 16:46
+created: 2026-07-23T13:04:00-03:00
+modified: 2026-08-27T21:54:00-03:00
 published: 2026-07-26T12:36:37.267-03:00
 cssclasses:
   - page-layout

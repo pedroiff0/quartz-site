@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Sobre Mim
-created: 2026-07-18 20:34
-modified: 2026-09-07 16:47
+created: 2026-07-18T20:34:00-03:00
+modified: 2026-08-31T09:29:28-03:00
 published: 2026-07-26T12:36:37.263-03:00
 cssclasses:
   - page-layout
@@ -13,7 +13,6 @@ cssclasses:
 
 > [!abstract] Conheça também o meu portfólio
 > Se você veio do meu **[portfólio de projetos](https://pedroiff0.github.io/webpage/)** (ou quer uma visão rápida de tudo que construí), lá estão todos os meus repositórios do GitHub — públicos e privados — com um *short brief* de cada um, além das bolsas de pesquisa e dos contatos reunidos numa página só. Este site aqui é o conteúdo mais completo (pesquisa, disciplinas, mídia e blog).
-
 
 ## 📚 Por onde começar?
 

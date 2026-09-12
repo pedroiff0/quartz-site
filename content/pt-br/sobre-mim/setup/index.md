@@ -4,9 +4,7 @@ title: "Setup"
 aliases:
   - "Setup"
   - "setup"
-modified: 2026-09-07 16:47
-cssclasses:
-  - page-layout
+modified: 2026-08-27T20:52:00-03:00
 ---
 
 # 💻 Meu Setup de Trabalho & Estudo

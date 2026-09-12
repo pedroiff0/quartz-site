@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Mídia
-created: 2026-07-18 13:34
-modified: 2026-09-07 16:46
+created: 2026-07-18T13:34:00-03:00
+modified: 2026-08-27T21:54:00-03:00
 published: 2026-07-26T12:36:37.263-03:00
 order: 4
 cssclasses:
