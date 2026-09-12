@@ -12,4 +12,5 @@ Este painel consolida automaticamente todas as tarefas declaradas nas notas de a
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[6º Período\|6º Período]] | 21/07/2026 |
 | [[tarefas\|Tarefas do 6º Período]] | 24/08/2026 |

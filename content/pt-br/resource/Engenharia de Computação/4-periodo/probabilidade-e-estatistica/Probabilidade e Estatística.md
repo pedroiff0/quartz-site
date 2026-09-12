@@ -1,0 +1,82 @@
+---aliases:
+  - index
+
+publish: true
+title: "Probabilidade e Estatística"
+created: 2026-07-18T12:00:00-03:00
+modified: 2026-09-12T11:19:02-03:00
+tags:
+  - disciplina
+  - engenharia-de-computacao
+cssclasses:
+  - page-layout
+---
+
+
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.29`
+> - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 60
+> - **Docente Responsável:** Roberto Carvalho (contato@iff.edu.br)
+> - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
+
+
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Distribuições de Probabilidades.
+> ### 🎯 Objetivos
+> - Apresentar ao aluno os conceitos básicos de probabilidades e estatística descritiva que possibilitem a aplicação de métodos estatísticos na análise de problemas.
+
+
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito exigido (disciplina de entrada).*
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/index|CSECBJI.41 - Avaliação e Desempenho de Sistemas]]
+
+
+> [!tip] 📖 Conteúdo Programático
+> - [ ] **1. Introdução à Estatística**
+> 	- [ ] Coleta de Dados em Engenharia
+> 	- [ ] Modelos Mecanicistas e Empíricos
+> 	- [ ] Planejamento de Experimentos
+> - [ ] **2. Estatística Descritiva**
+> 	- [ ] Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
+> 	- [ ] Medidas de Posição: Médias, Mediana e Moda
+> 	- [ ] Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
+> - [ ] **3. Probabilidade**
+> 	- [ ] Definição
+> 	- [ ] Eventos Independentes
+> 	- [ ] Probabilidade condicional
+> 	- [ ] Leis da Probabilidade
+> 	- [ ] Teorema de Bayes
+> 	- [ ] Variáveis Aleatórias
+> - [ ] **4. Distribuições de Probabilidades**
+> 	- [ ] Discretas
+> 	- [ ] Contínuas
+
+> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
+> #### 📕 Bibliografia Básica
+> 1. LARSON, R., FARBER, B. Estatística Aplicada. 6ª Edição. São Paulo: Pearson, 2015.
+> 2. MONTGOMERY, D. C., RUNGE, G. C. Estatística Aplicada e Probabilidade para Engenheiros. 6.ª Edição. Rio de Janeiro: LTC, 2016.
+> 3. WALPOLE R., MYERS, R., MYERS, S., YE K., Probabilidade & Estatística para Engenharia e Ciências. 8ª Edição. São Paulo: Pearson, 2008.
+> #### 📗 Bibliografia Complementar
+> 1. BUSSAB, W. O., MORETTIN, P. A. Estatística Básica. 9ª Edição. São Paulo: Saraiva, 2017.
+> 2. DEVORE, J. L. Probabilidade e Estatística para Engenharia e Ciências. 2ª Edição. São Paulo: Cengage,
+> 3. ROSS, S. Probabilidade: Um Curso Moderno com Aplicações. 8ª Edição. Porto Alegre: Bookman, 4.
+> 4. SPIEGEL, M., SCHILER, J., SRINIVASAN, R. A. Probabilidade e Estatística. 3ª Edição. Porto Alegre:
+> 5. Bookman, 2012.
+> 6. YATES, R. D., GOODMAN, D. J. Probabilidade e Processos Estocásticos: Uma Introdução Amigável para Engenheiros Eletricistas e da Computação. 3ª Edição. Rio de Janeiro: LTC, 2016.
+> 
+
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
+
+## 🎓 Aulas
+
+- [[pt-br/resource/Engenharia de Computação/4-periodo/probabilidade-e-estatistica/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
+- [[pt-br/resource/Engenharia de Computação/4-periodo/probabilidade-e-estatistica/Anotações/Esboço/aula-01-introdução-à-estatística|Aula 01]]
+- [[pt-br/resource/Engenharia de Computação/4-periodo/probabilidade-e-estatistica/Anotações/Esboço/aula-02-coleta-de-dados-em-engenharia|Aula 02]]
+- [[pt-br/resource/Engenharia de Computação/4-periodo/probabilidade-e-estatistica/Anotações/Esboço/aula-03-modelos-mecanicistas-e-empíricos|Aula 03]]
+- [[pt-br/resource/Engenharia de Computação/4-periodo/probabilidade-e-estatistica/Anotações/Esboço/aula-04-planejamento-de-experimentos|Aula 04]]
+- [[pt-br/resource/Engenharia de Computação/4-periodo/probabilidade-e-estatistica/Anotações/Esboço/aula-05-estatística-descritiva|Aula 05]]
+- [[pt-br/resource/Engenharia de Computação/4-periodo/probabilidade-e-estatistica/Anotações/Esboço/aula-06-apresentação-de-dados-isolados-e-agrupad|Aula 06]]
