@@ -29,9 +29,9 @@ cssclasses:
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
 | [[Atividades — Filosofia Da Ciencia E Tecnologia\|Atividades, Trabalhos & Provas — Filosofia Da Ciencia E Tecnologia]] | 29/08/2026 | — |
-| [[Trabalho - Espaço Cultural\|🔗 Links e Materiais do Trabalho & Slides (LaTeX / Quartz)]] | 12/09/2026 | — |
-| [[Trabalho 1 - Introdução à  e a Crítica dos Pressupostos\|Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos]] | 12/09/2026 | Rafael Tardin |
-| [[Trabalho 2 - Filosofia da Tecnologia\|🎓 Trabalho 2 - Dossiê de Debate: Filosofia da Tecnologia (Alberto Cupani)]] | 12/09/2026 | Rafael Tardin |
+| [[Trabalho - Espaço Cultural\|🔗 Links e Materiais do Trabalho & Slides (LaTeX / Quartz)]] | 13/09/2026 | — |
+| [[Trabalho 1 - Introdução à  e a Crítica dos Pressupostos\|Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos]] | 13/09/2026 | Rafael Tardin |
+| [[Trabalho 2 - Filosofia da Tecnologia\|🎓 Trabalho 2 - Dossiê de Debate: Filosofia da Tecnologia (Alberto Cupani)]] | 13/09/2026 | Rafael Tardin |
 
 ---
 
