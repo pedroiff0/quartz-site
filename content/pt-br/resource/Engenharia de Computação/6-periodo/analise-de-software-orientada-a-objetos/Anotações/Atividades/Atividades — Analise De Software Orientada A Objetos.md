@@ -35,7 +35,7 @@ cssclasses:
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
 | [[Atividades — Analise De Software Orientada A Objetos\|Atividades, Trabalhos & Provas — Análise de Software Orientada a Objetos]] | 29/08/2026 | — |
-| [[Trabalho - Coesão e Acoplamento - ASOO\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 12/09/2026 | Pablo Manhães |
+| [[Trabalho - Coesão e Acoplamento - ASOO\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 13/09/2026 | Pablo Manhães |
 
 ---
 

@@ -29,7 +29,7 @@ cssclasses:
 | Aula / Conteúdo | Data | Docente |
 | :--- | :---: | :--- |
 | [[Atividades — Banco De Dados\|Atividades, Trabalhos & Provas — Banco De Dados]] | 29/08/2026 | — |
-| [[Trabalho - Normalização e Dependências Funcionais\|🎓 Trabalho - Normalização e Dependências Funcionais em Banco de Dados]] | 12/09/2026 | Pablo Manhães |
+| [[Trabalho - Normalização e Dependências Funcionais\|🎓 Trabalho - Normalização e Dependências Funcionais em Banco de Dados]] | 13/09/2026 | Pablo Manhães |
 
 ---
 
