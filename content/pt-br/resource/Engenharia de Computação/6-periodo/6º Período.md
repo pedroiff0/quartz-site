@@ -1,10 +1,11 @@
----aliases:
+---
+aliases:
   - index
 
 publish: true
 title: "6º Período"
-created: 2026-07-21T12:00:00-03:00
-modified: 2026-08-27T15:16:00-03:00
+created: 2026-07-21 12:00
+modified: 2026-09-14 09:49
 cssclasses:
   - page-layout
 ---
@@ -27,9 +28,6 @@ cssclasses:
 > - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/index|Comunicação de Dados]]** (`60h` · Prof. Me. Luiz Carlos Ferreira Garcez· Terça 16:40–19:20)
 > - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/compiladores/index|Compiladores]]** (`60h` · Prof.  Dr. Fabrício Barros Gonçalves · Sexta 13:40–16:30)
 
-modified: 2026-09-11 12:44
-cssclasses:
-  - page-layout
 ---
 
 ## 🕒 Quadro de Horários Semanal (2026-2)

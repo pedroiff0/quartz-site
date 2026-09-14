@@ -2,8 +2,13 @@
 publish: true
 title: awesome-skills
 created: 2026-08-08 13:04
-modified: 2026-09-11 12:49
-tags: [IA, Agentes, Automação, Open Source, Memória Procedural]
+modified: 2026-09-14 11:55
+tags:
+  - ia
+  - agente
+  - automacao
+  - open-source
+  - memoria-procedural
 repo: https://github.com/pedroiff0/awesome-skills
 status: público
 cssclasses:

@@ -2,12 +2,12 @@
 publish: false
 title: "Modelos, Classes (.cls) e Pacotes (.sty) ReLaTeX — Guia e Index Oficial"
 created: 2026-08-04 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-14 11:17
 tags:
   - latex
   - relataex
-  - modelos
-  - templates
+  - modelo
+  - template
   - iff
 cssclasses:
   - page-layout
@@ -26,20 +26,20 @@ cssclasses:
 
 | Modelo / Pacote | Tipo de Documento / Finalidade | Aula Específica do Curso | Download do Pacote |
 | :--- | :--- | :--- | :--- |
-| **`ifftese.cls`** | Trabalhos Acadêmicos (TCC, Dissertações, Teses ABNT) | [Aula 19: Engenharia da Classe ifftese.cls](pt-br/resource/latex/aula-19-classe-ifftese-engenharia) | [📥 Baixar `ifftese.cls`](/assets/biblioteca/latex-escrita/classes/ifftese.cls) |
-| **`metadados.sty`** | Isolar Dados Biográficos, Banca, Orientação e Título | [Aula 17: Configuração de metadados.sty](pt-br/resource/latex/aula-17-arquivo-metadados-sty) | [📥 Baixar `metadados.sty`](/assets/biblioteca/latex-escrita/pacotes/metadados.sty) |
-| **`macros.sty`** | Comandos de Produtividade (Figuras, Quadros, Teoremas) | [Aula 18: Produtividade e macros.sty](pt-br/resource/latex/aula-18-pacote-macros-sty) | [📥 Baixar `macros.sty`](/assets/biblioteca/latex-escrita/pacotes/macros.sty) |
-| **`slidesiffmodelo.cls`** | Apresentações Beamer Institucionais Widescreen (16:9) | [Aula 21: Slides de Defesa em Beamer](pt-br/resource/latex/aula-21-beamer-slides-defesa) | [📥 Baixar `slidesiffmodelo.cls`](/assets/biblioteca/latex-escrita/classes/slidesiffmodelo.cls) |
-| **`iffposter.cls`** | Pôsteres Científicos e Banners em Formatos A0 / A1 | [Aula 22: Pôster Científico (iffposter.cls)](pt-br/resource/latex/aula-22-poster-cientifico-iffposter) | [📥 Baixar `iffposter.cls`](/assets/biblioteca/latex-escrita/classes/iffposter.cls) |
-| **`relatoriocorp.cls`** | Relatórios Corporativos, Pareceres e Propostas Técnicas | [Aula 23: Relatórios Corporativos](pt-br/resource/latex/aula-23-relatorios-corporativos) | [📥 Baixar `relatoriocorp.cls`](/assets/biblioteca/latex-escrita/classes/relatoriocorp.cls) |
-| **`marca.sty` / `beamerthemecorp.sty`** | Apresentações Executivas e Governança de Paleta Única | [Aula 23: Relatórios Corporativos](pt-br/resource/latex/aula-23-relatorios-corporativos) | [📥 Baixar Pacote Corporativo](/assets/biblioteca/latex-escrita/pacotes/corporativo.zip) |
-| **Scripts de Automação** | Compilação Contínua (`latexmkrc`), Git e Conversão PPTX | [Aula 24: Automação, Git e Submissão](pt-br/resource/latex/aula-24-latexmk-git-e-submissao) | [📥 Baixar latexmkrc](assets/biblioteca/latex-escrita/scripts/latexmkrc) |
+| **`ifftese.cls`** | Trabalhos Acadêmicos (TCC, Dissertações, Teses ABNT) | *(modelo de documento)* | [📥 Baixar `ifftese.cls`](/assets/biblioteca/latex-escrita/classes/ifftese.cls) |
+| **`metadados.sty`** | Isolar Dados Biográficos, Banca, Orientação e Título | *(modelo de documento)* | [📥 Baixar `metadados.sty`](/assets/biblioteca/latex-escrita/pacotes/metadados.sty) |
+| **`macros.sty`** | Comandos de Produtividade (Figuras, Quadros, Teoremas) | *(modelo de documento)* | [📥 Baixar `macros.sty`](/assets/biblioteca/latex-escrita/pacotes/macros.sty) |
+| **`slidesiffmodelo.cls`** | Apresentações Beamer Institucionais Widescreen (16:9) | *(modelo de documento)* | [📥 Baixar `slidesiffmodelo.cls`](/assets/biblioteca/latex-escrita/classes/slidesiffmodelo.cls) |
+| **`iffposter.cls`** | Pôsteres Científicos e Banners em Formatos A0 / A1 | *(modelo de documento)* | [📥 Baixar `iffposter.cls`](/assets/biblioteca/latex-escrita/classes/iffposter.cls) |
+| **`relatoriocorp.cls`** | Relatórios Corporativos, Pareceres e Propostas Técnicas | *(modelo de documento)* | [📥 Baixar `relatoriocorp.cls`](/assets/biblioteca/latex-escrita/classes/relatoriocorp.cls) |
+| **`marca.sty` / `beamerthemecorp.sty`** | Apresentações Executivas e Governança de Paleta Única | *(modelo de documento)* | [📥 Baixar Pacote Corporativo](/assets/biblioteca/latex-escrita/pacotes/corporativo.zip) |
+| **Scripts de Automação** | Compilação Contínua (`latexmkrc`), Git e Conversão PPTX | *(modelo de documento)* |  |
 
 ---
 
 ## 1. Classe Acadêmica Canônica: `ifftese.cls`
 
-> **Estudada em detalhes na:** [[pt-br/resource/latex/aula-19-classe-ifftese-engenharia|Aula 19 — Engenharia de Macros e Estrutura Interna da Classe ifftese.cls]]
+> **Estudada em detalhes na:** *(modelo de documento)*
 
 A classe **`ifftese.cls`** estende o modelo nacional `abntex2`, ajustando automaticamente as margens para a **ABNT NBR 14724**, gerando a folha de rosto canônica do IFF, ficha catalográfica, folha de aprovação e sumários com pontilhados dinâmicos na norma **ABNT NBR 6027**.
 
@@ -87,7 +87,7 @@ erros de formatação em teses acadêmicas.
 
 ## 2. Isolamento Biográfico: `metadados.sty`
 
-> **Estudado em detalhes na:** [[pt-br/resource/latex/aula-17-arquivo-metadados-sty|Aula 17 — Arquivo de Configuração de Metadados (metadados.sty)]]
+> **Estudado em detalhes na:** *(modelo de documento)*
 
 O pacote **`metadados.sty`** centraliza todos os dados de autoria, filiação institucional, título do projeto e composição da banca examinadora. Ele possui detecção gramatical para flexionar automaticamente termos como *"Orientador(a)"* e *"Coorientador(a)"*.
 
@@ -128,7 +128,7 @@ O pacote **`metadados.sty`** centraliza todos os dados de autoria, filiação in
 
 ## 3. Banco de Produtividade: `macros.sty`
 
-> **Estudado em detalhes na:** [[pt-br/resource/latex/aula-18-pacote-macros-sty|Aula 18 — Produtividade e Macros Personalizadas (macros.sty)]]
+> **Estudado em detalhes na:** *(modelo de documento)*
 
 A biblioteca **`macros.sty`** substitui blocos repetitivos de código LaTeX por comandos concisos e blindados contra erros de formatação na NBR 14724 e normas IBGE 1993.
 
@@ -151,7 +151,7 @@ ao seu conteúdo argumentativo.
 
 ## 4. Slides de Defesa Institucionais: `slidesiffmodelo.cls`
 
-> **Estudada em detalhes na:** [[pt-br/resource/latex/aula-21-beamer-slides-defesa|Aula 21 — Slides de Defesa Institucionais em Beamer]]
+> **Estudada em detalhes na:** *(modelo de documento)*
 
 A classe **`slidesiffmodelo.cls`** formata apresentações Beamer em proporção widescreen **16:9**, herdando os dados do arquivo `metadados.sty` e aplicando a paleta oficial verde (`#2D6238`) e vermelha (`#B3282D`) do Instituto Federal Fluminense.
 
@@ -201,7 +201,7 @@ A classe **`slidesiffmodelo.cls`** formata apresentações Beamer em proporção
 
 ## 5. Pôster Científico Institucional: `iffposter.cls`
 
-> **Estudada em detalhes na:** [[pt-br/resource/latex/aula-22-poster-cientifico-iffposter|Aula 22 — Pôster Científico em LaTeX (iffposter.cls)]]
+> **Estudada em detalhes na:** *(modelo de documento)*
 
 A classe **`iffposter.cls`** padroniza banners científicos nos formatos **A0** e **A1** para feiras, congressos e mostras de iniciação científica, desenhando cabeçalho institucional, logomarcas de fomento e colunas balanceadas.
 
@@ -237,7 +237,7 @@ O layout vetorial em 3 colunas reduziu o corte de texto e evitou quebras de tabe
 
 ## 6. Documentação Executiva: `relatoriocorp.cls` e `marca.sty`
 
-> **Estudada em detalhes na:** [[pt-br/resource/latex/aula-23-relatorios-corporativos|Aula 23 — Relatórios Corporativos e Documentação Técnica]]
+> **Estudada em detalhes na:** *(modelo de documento)*
 
 No mundo corporativo e industrial, a identidade de marca é governada pelo arquivo central **`marca.sty`**. A classe **`relatoriocorp.cls`** gera pareceres técnicos, diagnósticos e relatórios com sumário executivo em destaque, enquanto **`beamerthemecorp.sty`** produz o pitch deck corporativo a partir da mesma paleta.
 
@@ -271,7 +271,7 @@ com as normas de apresentação corporativa.
 
 ## 7. Scripts de Automação, Compilação e Conversão
 
-> **Estudados em detalhes na:** [[pt-br/resource/latex/aula-24-latexmk-git-e-submissao|Aula 24 — Automação com latexmk, Git e Submissão]]
+> **Estudados em detalhes na:** *(modelo de documento)*
 
 ### Arquivo de Configuração de Automação (`latexmkrc`)
 

@@ -2,8 +2,12 @@
 publish: true
 title: Sistema de Avaliações
 created: 2026-08-08 13:04
-modified: 2026-09-11 12:49
-tags: [EdTech, LaTeX, Provas, Multi-variantes]
+modified: 2026-09-14 11:55
+tags:
+  - edtech
+  - latex
+  - prova
+  - multi-variantes
 repo: https://github.com/pedroiff0/avaliacoes
 status: privado
 cssclasses:

@@ -1,7 +1,7 @@
 ---
 title: "Aula 10: Discussão, Citações (10520) e Referências (6023)"
 created: 2026-08-04 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-12 11:20
 publish: true
 notes: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-10.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-10-branco.pdf)"
@@ -13,6 +13,8 @@ tags:
 cssclasses:
   - page-layout
 ---
+
+**Navegação (grafo):** [[pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt|← Aula 09: Resultados: Tabelas IBGE vs. Quadros ABNT]] · [[pt-br/resource/latex/index|🏠 Hub]] · [[pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex|Aula 11: Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex →]]
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt">Aula Anterior</a></b></div>

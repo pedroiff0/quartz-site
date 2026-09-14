@@ -2,7 +2,7 @@
 publish: false
 title: Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 created: 2026-07-25 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -18,6 +18,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Nucleossíntese primordial (BBN) e estelar — queima de H/He, dragagens, processos alfa/e/s/i/r/p/x/neutrino —, números mágicos e o efeito da metalicidade na formação estelar
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|← Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos →]]
 
 # ⚛️ Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 
@@ -103,7 +105,7 @@ Metais no gás aumentam sua eficiência de **resfriamento radiativo** — o que 
 - Beers & Christlieb (2005) — estrelas CEMP e a busca por metal-pobres extremas
 - Woosley et al. (1990) — proposta do processo-$\nu$
 - Stan Owocki — _Fundamentals of Astrophysics_ (2021); Carroll & Ostlie — _An Introduction to Modern Astrophysics_ (2017) — livros-texto de referência da aula
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|Aula 04 — Espectroscopia e Metalicidade]] — a notação \[Fe/H] usada para quantificar o produto acumulado de todos esses processos
-- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — versão mais compacta dos processos-s/r, aqui expandida com toda a classificação B²FH
+- [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — versão mais compacta dos processos-s/r, aqui expandida com toda a classificação B²FH
 - [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] — como as taxas relativas de SN II/Ia vistas aqui viram a ferramenta $[\alpha/\text{Fe}]$ para separar populações

@@ -1,10 +1,11 @@
----aliases:
+---
+aliases:
   - index
 
 publish: true
 title: Engenharia de Computação
-created: 2026-07-22T12:00:00-03:00
-modified: 2026-08-29T13:31:22-03:00
+created: 2026-07-22 12:00
+modified: 2026-09-14 09:49
 tags:
   - matriz-curricular
   - engenharia-de-computacao
@@ -20,9 +21,6 @@ cssclasses:
 
 Bem-vindo ao portal completo da matriz curricular, ementário, fluxo de períodos e mapeamento de dependências (*trancas*) do curso de **Bacharelado em Engenharia de Computação** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**.
 
-modified: 2026-09-11 12:44
-cssclasses:
-  - page-layout
 ---
 
 

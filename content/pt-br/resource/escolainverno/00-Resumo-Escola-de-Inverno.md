@@ -6,7 +6,7 @@ discipline: Resumo Geral
 content: Panorama de tudo o que foi visto na Escola de Inverno do Observatório Nacional (ON) 2026
 professor:
 created: 2026-07-22 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-12 11:20
 tags:
   - escola-de-inverno-on
   - resumo
@@ -91,3 +91,33 @@ O Sistema Solar se formou a partir do colapso gravitacional de uma nuvem molecul
 
 > [!note] Próximos passos
 > Este resumo e as notas de aula serão atualizados conforme novas aulas acontecem e conforme os **PDFs oficiais das aulas** ficarem disponíveis — o que deve permitir preencher os pontos ainda marcados como "a preencher" e corrigir/expandir qualquer detalhe.
+
+## 🎓 Aulas — Aglomerados
+
+- [[pt-br/resource/escolainverno/Aglomerados/260720-Aglomerados-Aula01|260720-Aglomerados-Aula01]]
+- [[pt-br/resource/escolainverno/Aglomerados/Aglomerados-Aula02|Aglomerados-Aula02]]
+- [[pt-br/resource/escolainverno/Aglomerados/Aglomerados-Aula03|Aglomerados-Aula03]]
+
+## 🎓 Aulas — Computação
+
+- [[pt-br/resource/escolainverno/Computação/260721-Computacao-Aula01|260721-Computacao-Aula01]]
+- [[pt-br/resource/escolainverno/Computação/Computacao-Aula02|Computacao-Aula02]]
+- [[pt-br/resource/escolainverno/Computação/Computacao-Aula03|Computacao-Aula03]]
+
+## 🎓 Aulas — Cosmologia
+
+- [[pt-br/resource/escolainverno/Cosmologia/260721-Cosmologia-Aula01|260721-Cosmologia-Aula01]]
+- [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula02|Cosmologia-Aula02]]
+- [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula03|Cosmologia-Aula03]]
+
+## 🎓 Aulas — ArqGal
+
+- [[pt-br/resource/escolainverno/ArqGal/260720-Arqueologia-Galactica-Aula01|260720-Arqueologia-Galactica-Aula01]]
+- [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula02|ArqueologiaGalactica-Aula02]]
+- [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula03|ArqueologiaGalactica-Aula03]]
+
+## 🎓 Aulas — Planetaria
+
+- [[pt-br/resource/escolainverno/Planetaria/260720-Planetaria-Aula01|260720-Planetaria-Aula01]]
+- [[pt-br/resource/escolainverno/Planetaria/260721-Planetaria-Aula02|260721-Planetaria-Aula02]]
+- [[pt-br/resource/escolainverno/Planetaria/Planetaria-Aula03|Planetaria-Aula03]]

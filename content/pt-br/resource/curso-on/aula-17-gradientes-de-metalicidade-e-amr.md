@@ -2,7 +2,7 @@
 publish: false
 title: Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade
 created: 2026-07-25 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -19,6 +19,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Gradientes radiais e verticais de metalicidade no disco, bojo e halo, migração radial (blurring e churning), gradientes extragalácticos, e o problema histórico da relação idade-metalicidade (AMR)
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|← Aula 16 — Métodos de Determinação de Idades Estelares]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash|Aula 18 — Proto-Disco, Spin-Up e o Disco Splash →]]
 
 # 📉 Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade
 
@@ -86,7 +88,7 @@ A explicação hoje aceita combina duas peças já vistas nesta aula: (1) a form
 - Edvardsson et al. (1993) — primeira evidência de espalhamento inexplicado na AMR
 - Larson (1976); Tissera et al. (2019) — formação inside-out de galáxias
 - Chiappini et al. (1997, 2001) — modelo Two-Infall
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica]] — as ressonâncias de barra que impulsionam o _churning_
 - [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] — a mesma separação química que a migração radial tende a borrar ao longo do tempo
-- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03|Escola de Inverno — Arqueologia Galáctica, Aula 03]] — o modelo Two-Infall (Chiappini+1997/2011) já aparecia citado ali, sem o contexto completo desenvolvido aqui
+- [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 03]] — o modelo Two-Infall (Chiappini+1997/2011) já aparecia citado ali, sem o contexto completo desenvolvido aqui

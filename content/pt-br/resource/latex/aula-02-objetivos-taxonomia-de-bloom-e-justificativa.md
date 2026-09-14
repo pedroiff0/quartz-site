@@ -1,7 +1,7 @@
 ---
 title: "Aula 02: Objetivos, Taxonomia de Bloom e Justificativa"
 created: 2026-08-04 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-12 11:20
 publish: true
 notes: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-02.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-02-branco.pdf)"
@@ -13,6 +13,8 @@ tags:
 cssclasses:
   - page-layout
 ---
+
+**Navegação (grafo):** [[pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses|← Aula 01: Epistemologia, Problematização e Hipóteses]] · [[pt-br/resource/latex/index|🏠 Hub]] · [[pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028|Aula 03: Resumo, Abstract e Palavras-Chave (NBR 6028:2021) →]]
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses">Aula Anterior</a></b></div>

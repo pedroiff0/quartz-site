@@ -2,8 +2,11 @@
 publish: true
 title: Avaliações Professores
 created: 2026-08-08 13:04
-modified: 2026-09-11 12:49
-tags: [EdTech, Banco de Questões, Colaborativo]
+modified: 2026-09-14 11:55
+tags:
+  - edtech
+  - banco-de-questoes
+  - colaborativo
 repo: https://github.com/pedroiff0/avaliacoes-professores
 status: privado
 cssclasses:

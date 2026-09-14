@@ -2,7 +2,7 @@
 publish: false
 title: Aula 04 — Espectroscopia e Metalicidade
 created: 2026-07-23 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -18,6 +18,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Leis de Kirchhoff, formação de linhas espectrais, a descoberta do hélio e a notação de metalicidade [Fe/H]
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|← Aula 03 — Magnitudes, Cores e Classificação Espectral]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Aula 05 — Avermelhamento, Extinção e IMF →]]
 
 # 🔭 Aula 04 — Espectroscopia e Metalicidade
 
@@ -110,8 +112,8 @@ Também é possível estimar metalicidade a partir de **fotometria** (cores), se
 
 - Beers & Christlieb (2005) — estrelas pobres em metais
 - Babusiaux et al. (2018) — metalicidade fotométrica com dados Gaia
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral]]
 - [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Aula 05 — Avermelhamento, Extinção e IMF]]
-- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — notação \[Fe/H] e \[α/Fe] aplicada à separação de populações
-- [[pt-br/research/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa usa espectros GALAH DR4 processados com os mesmos princípios vistos aqui
+- [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — notação \[Fe/H] e \[α/Fe] aplicada à separação de populações
+- [[pt-br/projects/Acadêmico/Anomaly_Detection/README|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa usa espectros GALAH DR4 processados com os mesmos princípios vistos aqui

@@ -5,8 +5,7 @@ title: ArqueologiaGalactica-Aula02
 discipline: Astrofísica Estelar / Via Láctea
 content: Arqueologia Galáctica — Aglomerados Globulares (conteúdo a ser preenchido)
 professor:
-created: 2026-09-07 16:47
-modified: 2026-09-07 16:47
+created: 2026-09-12 11:20
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica
@@ -14,7 +13,11 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+modified: 2026-09-12 11:20
+
 ---
+
+**Navegação (grafo):** [[pt-br/resource/escolainverno/ArqGal/260720-Arqueologia-Galactica-Aula01|← 260720-Arqueologia-Galactica-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula03|ArqueologiaGalactica-Aula03 →]]
 # Notas de Aula — Arqueologia Galáctica (Aula 02)
 
 > [!info] Informações da aula

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 — Conceito e Histórico
 created: 2026-07-23 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -17,6 +17,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: O que é arqueologia galáctica, o conceito de população estelar simples e o histórico das descobertas que levaram à identificação das populações I e II
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares →]]
 
 # 🏛️ Aula 01 — Conceito e Histórico
 
@@ -132,7 +134,7 @@ Esse é o embrião histórico do paradigma moderno de formação hierárquica qu
 - Baade (1944) — identificação das populações I e II
 - Eggen, Lynden-Bell & Sandage (1962) — Modelo Monolítico
 - Searle & Zinn (1978) — sinal de acréscimo no halo
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]]
-- [[pt-br/resource/escolainverno/arqgal|Escola de Inverno — Arqueologia Galáctica]] — minicurso irmão, de escopo mais curto, sobre o mesmo tema geral
-- [[pt-br/research/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa usa exatamente os dados de populações estelares introduzidos aqui
+- [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica]] — minicurso irmão, de escopo mais curto, sobre o mesmo tema geral
+- [[pt-br/projects/Acadêmico/Anomaly_Detection/README|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa usa exatamente os dados de populações estelares introduzidos aqui

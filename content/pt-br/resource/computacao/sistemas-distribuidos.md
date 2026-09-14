@@ -2,7 +2,7 @@
 publish: false
 title: Sistemas Distribuídos
 created: 2026-07-26 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -18,7 +18,7 @@ cssclasses:
 
 Praticamente todo sistema relevante hoje é distribuído: um app de banco replica dados em vários datacenters, um serviço de streaming particiona conteúdo entre servidores, um banco de dados moderno aceita que a rede vai falhar e projeta em torno disso. A parte contraintuitiva — e o motivo de esta disciplina existir — é que **distribuir um sistema não é só "colocar mais máquinas"**: rede tem latência, pacotes se perdem, relógios de máquinas diferentes divergem, e processos podem falhar independentemente uns dos outros sem avisar. Ignorar isso é como prometer uma garantia que a física da rede simplesmente não permite.
 
-Entender os limites fundamentais (o Teorema CAP, consistência eventual vs. forte, os modelos de falha) evita o erro mais caro em sistemas reais: prometer uma consistência que o sistema, sob partição de rede, não consegue entregar. E entender computação paralela (a outra metade desta trilha) é o que permite tirar proveito de múltiplos núcleos/GPUs/nós de um cluster — a mesma motivação, inclusive, do minicurso de [[pt-br/resource/escolainverno/computação|Computação de Alto Desempenho]] que fiz na Escola de Inverno.
+Entender os limites fundamentais (o Teorema CAP, consistência eventual vs. forte, os modelos de falha) evita o erro mais caro em sistemas reais: prometer uma consistência que o sistema, sob partição de rede, não consegue entregar. E entender computação paralela (a outra metade desta trilha) é o que permite tirar proveito de múltiplos núcleos/GPUs/nós de um cluster — a mesma motivação, inclusive, do minicurso de [[pt-br/resource/escolainverno/Computação/|Computação de Alto Desempenho]] que fiz na Escola de Inverno.
 
 ## Trilha de estudo
 
@@ -66,7 +66,7 @@ O que dominar: a Taxonomia de Flynn (SISD, SIMD, MISD, MIMD) para classificar ar
 
 ### Cross-link no próprio site
 
-- **[[pt-br/resource/escolainverno/computação|Computação de Alto Desempenho]]** — o minicurso de HPC (OpenMP/MPI) que fiz na Escola de Inverno em Astrofísica 2026 é, literalmente, a metade "computação paralela" desta trilha aplicada a processamento de dados científicos.
+- **[[pt-br/resource/escolainverno/Computação/|Computação de Alto Desempenho]]** — o minicurso de HPC (OpenMP/MPI) que fiz na Escola de Inverno em Astrofísica 2026 é, literalmente, a metade "computação paralela" desta trilha aplicada a processamento de dados científicos.
 
 ### Bibliografia clássica (consultar na biblioteca)
 

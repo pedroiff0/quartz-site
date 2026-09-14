@@ -18,7 +18,8 @@ tags:
 cssclasses:
   - page-layout
   - paper-notes
-modified: 2026-09-07 16:53
+created: 2026-09-14 10:29
+modified: 2026-09-14 10:29
 ---
 
 <div class="paper-banner">
@@ -48,7 +49,7 @@ modified: 2026-09-07 16:53
 
 ## 📖 1. Motivação e Isolamento Atual de Prompts
 
-> [!warning|#ffd000] [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/Artigo - Martins2026.pdf#page=1|Artigo - Martins2026, p.1]]
+> [!warning|#ffd000] *Artigo - Martins2026, p.1*
 > > *"Currently, prompts sent to LLMs reside entirely within application business logic, rendering them opaque to database optimization engines."*
 > 
 > **Anotação:** A opacidade dos prompts impede que o banco aplique técnicas consagradas como *pushdown de predicados*, reutilização de planos e estimativa de cardinalidade em consultas aumentadas por IA.
@@ -57,7 +58,7 @@ modified: 2026-09-07 16:53
 
 ## 🔬 2. Arquitetura do PromptDB & O Tipo de Dado `PROMPT`
 
-> [!tip] [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/Artigo - Martins2026.pdf#page=3|Artigo - Martins2026, p.3]]
+> [!tip] *Artigo - Martins2026, p.3*
 > > *"By defining PROMPT as a composite SQL domain, database engines can perform algebraic rewrites, syntactic validation, and version branching natively."*
 > 
 > **Anotação:** O tipo `PROMPT` armazena templates, parâmetros e metadados contextuais, transformando o prompt em uma entidade versionável e transacional dentro da relação.
@@ -75,6 +76,6 @@ modified: 2026-09-07 16:53
 
 ## 🔗 Referências e Correlatos
 
-- [[pt-br/research/journal-clubs/engcomp|ENGCOMP — Journal Club]]
-- [[pt-br/research/journal-clubs|Journal Clubs — Visão Geral]]
-- [[pt-br/research|Pesquisas Acadêmicas — Visão Geral]]
+- [[pt-br/research/Journal-Clubs/engcomp/|ENGCOMP — Journal Club]]
+- [[pt-br/research/Journal-Clubs/|Journal Clubs — Visão Geral]]
+- [[pt-br/mapa/MOC - Pesquisa e Astronomia|Pesquisas Acadêmicas — Visão Geral]]

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 08 — Velocidades e Movimento Próprio
 created: 2026-07-23 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -17,6 +17,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Velocidade radial e tangencial, o Padrão Local de Repouso e o movimento próprio das estrelas
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|← Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento →]]
 
 # 🚀 Aula 08 — Velocidades e Movimento Próprio
 
@@ -88,8 +90,8 @@ Movimentos próprios típicos são $< 0{,}1''$/ano; poucas estrelas têm $\mu > 
 ## 🔗 Referências e correlatos
 
 - Mihalas & Binney (1980), Cap. 6 — determinação do movimento solar em relação ao LSR
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas]] — pré-requisito direto (distância entra na conversão $\mu \to v_{tan}$)
 - [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento]] — $(U,V,W)$ e o LSR desta aula tornam-se condições iniciais para integração de órbitas
-- [[pt-br/research/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — cinemática LSR é um dos filtros de pré-processamento usados na minha pesquisa
-- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03|Escola de Inverno — Arqueologia Galáctica, Aula 03]] — LSR e velocidade peculiar aplicadas na prática para separar disco fino/espesso/halo via diagrama de Toomre
+- [[pt-br/projects/Acadêmico/Anomaly_Detection/README|Detecção de Anomalias em Dados do Gaia]] — cinemática LSR é um dos filtros de pré-processamento usados na minha pesquisa
+- [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 03]] — LSR e velocidade peculiar aplicadas na prática para separar disco fino/espesso/halo via diagrama de Toomre

@@ -2,7 +2,7 @@
 publish: true
 title: ENGCOMP
 created: 2026-07-26 13:04
-modified: 2026-09-07 16:46
+modified: 2026-09-14 10:29
 published: 2026-08-01T20:04:04.327-03:00
 cssclasses:
   - page-layout
@@ -43,7 +43,7 @@ Quem quiser sugerir leitura para as próximas semanas, os tópicos que acompanha
 https://www.phrandrade.com[[pt-br/research/journal-clubs/engcomp/topicos|Topicos]]
 
 O histórico do que já discutimos fica em:
-https://www.phrandrade.com[[pt-br/research/journal-clubs/engcomp|Engcomp]]
+https://www.phrandrade.com[[pt-br/research/Journal-Clubs/engcomp/|Engcomp]]
 
 Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">📋 Copiar texto</button>
 
@@ -74,6 +74,6 @@ Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">�
 
 - [[pt-br/research/journal-clubs/engcomp/topicos|Tópicos e onde procurar]] — as categorias do arXiv que o clube acompanha.
 - [[pt-br/research/journal-clubs/engcomp/dashboard|Dashboard do clube]] — atividade por mês, tópico e apresentador.
-- [[pt-br/research/journal-clubs|Journal Clubs — visão geral]]
+- [[pt-br/research/Journal-Clubs/|Journal Clubs — visão geral]]
 - [[pt-br/research/journal-clubs/mwbr|MWBR]]
-- [[pt-br/research|Pesquisa — visão geral]]
+- [[pt-br/mapa/MOC - Pesquisa e Astronomia|Pesquisa — visão geral]]

@@ -2,7 +2,7 @@
 publish: false
 title: Arqueologia Galáctica e Populações Estelares
 created: 2026-07-23 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:50:01.646-03:00
 encrypted: true
 order: 5
@@ -11,7 +11,7 @@ cssclasses:
 ---
 
 > [!note] Resumo
-> Notas de aula da disciplina de pós-graduação "Arqueologia Galáctica e Populações Estelares", ministrada por Hélio Dotto Perottoni no Observatório Nacional (ON) — um curso completo de um semestre, distinto do minicurso mais curto de mesmo tema geral que fiz na [[pt-br/resource/escolainverno/arqgal|Escola de Inverno]].
+> Notas de aula da disciplina de pós-graduação "Arqueologia Galáctica e Populações Estelares", ministrada por Hélio Dotto Perottoni no Observatório Nacional (ON) — um curso completo de um semestre, distinto do minicurso mais curto de mesmo tema geral que fiz na [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno]].
 
 <div class="media-carousel">
   <a href="/pt-br/resource/curso-on/aula-01-conceito-e-historico" class="carousel-slide">
@@ -176,3 +176,28 @@ views:
       - property: file.name
         direction: ASC
 ```
+
+## 🎓 Aulas — Curso ON
+
+- [[pt-br/resource/curso-on/aula-01-conceito-e-historico|Aula 01 — Conceito e Histórico]]
+- [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]]
+- [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral]]
+- [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|Aula 04 — Espectroscopia e Metalicidade]]
+- [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Aula 05 — Avermelhamento, Extinção e IMF]]
+- [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|Aula 06 — Diagrama HR e Relação Massa-Luminosidade]]
+- [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas]]
+- [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|Aula 08 — Velocidades e Movimento Próprio]]
+- [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento]]
+- [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Aula 10 — Integração de Órbitas com galpy]]
+- [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica]]
+- [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica]]
+- [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico]]
+- [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]]
+- [[pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos|Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos]]
+- [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|Aula 16 — Métodos de Determinação de Idades Estelares]]
+- [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade]]
+- [[pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash|Aula 18 — Proto-Disco, Spin-Up e o Disco Splash]]
+- [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo]]
+- [[pt-br/resource/curso-on/aula-20-bojo-barra-e-estrutura-do-disco|Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico]]
+- [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites]]
+- [[pt-br/resource/curso-on/aula-22-galaxias-anas-ultrafracas|Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica]]

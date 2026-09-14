@@ -1,12 +1,16 @@
 ---
 publish: true
 title: page (Quartz)
-tags: [Site Oficial, Obsidian, Multilíngue]
+tags:
+  - site-oficial
+  - obsidian
+  - multilingue
 repo: https://github.com/pedroiff0/quartz-site
 status: público
 cssclasses:
   - page-layout
-modified: 2026-09-11 12:49
+created: 2026-09-14 11:17
+modified: 2026-09-14 11:55
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

@@ -1,10 +1,11 @@
----aliases:
+---
+aliases:
   - index
 
 publish: true
 title: "3º Período"
-created: 2026-07-21T12:00:00-03:00
-modified: 2026-08-27T15:16:00-03:00
+created: 2026-07-21 12:00
+modified: 2026-09-14 09:49
 cssclasses:
   - page-layout
 ---

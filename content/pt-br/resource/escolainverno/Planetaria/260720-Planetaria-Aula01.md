@@ -6,7 +6,7 @@ discipline: Ciências Planetárias
 content: Sistema Solar — inventário, arquitetura e dinâmica orbital
 professor:
 created: 2026-07-20 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-12 11:20
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias
@@ -16,6 +16,8 @@ cssclasses:
   - page-grid
   - center-images
 ---
+
+**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/Planetaria/260721-Planetaria-Aula02|260721-Planetaria-Aula02 →]]
 # Notas de Aula — Ciências Planetárias (Aula 01)
 
 > [!info] Informações da aula

@@ -1,10 +1,11 @@
----aliases:
+---
+aliases:
   - index
 
 publish: true
 title: "Hub — Eletiva Iv"
-created: 2026-08-24T12:00:00-03:00
-modified: 2026-08-27T15:00:00-03:00
+created: 2026-08-24 12:00
+modified: 2026-09-14 09:49
 cssclasses:
   - page-layout
 ---
@@ -14,9 +15,6 @@ cssclasses:
 ## 📂 Acesso Rápido
 - 📝 [[Anotações/index|Anotações de Quadro das Aulas]]
 
-modified: 2026-09-11 12:44
-cssclasses:
-  - page-layout
 ---
 
 ## 📋 Aulas da Disciplina

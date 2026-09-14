@@ -6,7 +6,7 @@ discipline: Computação Científica de Alto Desempenho
 content: Introdução à Computação de Alto Desempenho (HPC) — paralelismo com OpenMP e MPI
 professor: Fernando Roig
 created: 2026-07-21 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-12 11:20
 tags:
   - escola-de-inverno-on
   - hpc
@@ -17,6 +17,8 @@ cssclasses:
   - page-grid
   - center-images
 ---
+
+**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/Computação/Computacao-Aula02|Computacao-Aula02 →]]
 # Notas de Aula — Computação de Alto Desempenho (Aula 01)
 
 > [!info] Informações da aula

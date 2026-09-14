@@ -6,7 +6,7 @@ discipline: Apresentação de Pesquisa
 content: Mapeamento não supervisionado da vizinhança solar com GCNS + GALAH DR4 usando t-SNE (Banner SBPC e Banner Escola de Inverno)
 professor: Orientação de Maria Luiza Linhares Dantas
 created: 2026-07-22 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 tags:
   - pesquisa
   - t-sne
@@ -28,11 +28,11 @@ cssclasses:
 ## 📎 Banners (anexar aqui como referência)
 
 > [!example]- 📄 Banner SBPC 2026 — "Unveiling the Solar vicinity..." (clique para expandir)
-> ![[BannerSBPC.pdf]]
+> !*Banner da SBPC*
 > *Coloque aqui o PDF exportado do Overleaf (projeto `BannerSBPC`). Basta arrastar o arquivo para esta mesma pasta (`Apresentacao/`) com o nome `BannerSBPC.pdf` que o embed acima passa a funcionar sozinho no Obsidian.*
 
 > [!example]- 📄 Banner Escola de Inverno — versão em português (clique para expandir)
-> ![[BannerEscolaInverno.pdf]]
+> !*Banner da Escola de Inverno*
 > *Mesma ideia: arraste o PDF exportado do projeto `BannerEscolaInverno` para esta pasta com esse nome.*
 
 ---

@@ -19,7 +19,8 @@ tags:
 cssclasses:
   - page-layout
   - paper-notes
-modified: 2026-09-07 16:46
+created: 2026-09-14 10:29
+modified: 2026-09-14 10:29
 ---
 
 <div class="paper-banner">
@@ -335,5 +336,5 @@ modified: 2026-09-07 16:46
 ## 🔗 7. Referências e Correlatos
 
 - [[pt-br/research/journal-clubs/mwbr|Milky Way Brazil (MWBR)]]
-- [[pt-br/research/journal-clubs|Journal Clubs — Visão Geral]]
-- [[pt-br/research|Pesquisas Acadêmicas — Visão Geral]]
+- [[pt-br/research/Journal-Clubs/|Journal Clubs — Visão Geral]]
+- [[pt-br/mapa/MOC - Pesquisa e Astronomia|Pesquisas Acadêmicas — Visão Geral]]

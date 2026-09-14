@@ -1,12 +1,17 @@
 ---
 publish: true
 title: anomaly_detection
-tags: [PIBIC/CNPq, Gaia, GALAH, Astroquímica]
+tags:
+  - pibic-cnpq
+  - gaia
+  - galah
+  - astroquimica
 repo: https://github.com/pedroiff0/anomaly_detection
 status: privado
 cssclasses:
   - page-layout
-modified: 2026-09-11 12:49
+created: 2026-09-14 11:17
+modified: 2026-09-14 11:55
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

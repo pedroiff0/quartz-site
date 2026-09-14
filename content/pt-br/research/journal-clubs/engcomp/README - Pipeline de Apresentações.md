@@ -5,7 +5,9 @@ tags:
   - documentacao
   - pipeline-guia
   - meta
-modified: 2026-09-07 16:46
+created: 2026-09-14 10:29
+modified: 2026-09-14 10:29
+
 cssclasses:
   - page-layout
 ---
@@ -67,12 +69,12 @@ Toda nota de artigo do Journal Club ENGCOMP deve conter a seção padronizada ab
 ## 📂 Recursos & Materiais do Estudo
 
 > [!tip] 🔗 Links e Materiais Vinculados (Dinâmicos)
-> - 📄 **Artigo Original PDF:** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/Artigo - Martins2026.pdf|Artigo - Martins2026.pdf]]
-> - 📑 **Roteiro de Leitura (Lecture PDF):** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/roteiro_Martins2026.pdf|roteiro_Martins2026.pdf]]
-> - 📊 **Slides Beamer (LaTeX PDF Claro):** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/slides_engcomp_artigo.pdf|slides_engcomp_artigo.pdf]]
-> - 📊 **Slides Beamer (LaTeX PDF Escuro):** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/slides_engcomp_artigo_preto.pdf|slides_engcomp_artigo_preto.pdf]]
-> - 💻 **Slides PowerPoint (PPTX Claro):** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/main_slides_169_branco.pptx|main_slides_169_branco.pptx]]
-> - 💻 **Slides PowerPoint (PPTX Escuro):** [[pt-br/research/Journal-Clubs/engcomp/_materiais/2607.21756/main_slides_169_preto.pptx|main_slides_169_preto.pptx]]
+> - 📄 **Artigo Original PDF:** *Artigo - Martins2026.pdf*
+> - 📑 **Roteiro de Leitura (Lecture PDF):** *roteiro_Martins2026.pdf*
+> - 📊 **Slides Beamer (LaTeX PDF Claro):** *slides_engcomp_artigo.pdf*
+> - 📊 **Slides Beamer (LaTeX PDF Escuro):** *slides_engcomp_artigo_preto.pdf*
+> - 💻 **Slides PowerPoint (PPTX Claro):** *main_slides_169_branco.pptx*
+> - 💻 **Slides PowerPoint (PPTX Escuro):** *main_slides_169_preto.pptx*
 > - 👥 **Grupo de E-mails do Clube (Google Groups):** [groups.google.com/g/engcompbji](https://groups.google.com/g/engcompbji)
 > - 🏠 **Hub ENGCOMP no Site Pessoal:** [phrandrade.com/engcomp](https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/)
 > - 🔗 **Versão Publicada Desta Nota (Web):** [Acessar Nota Publicada Online](https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/prompt-as-a-data-type)

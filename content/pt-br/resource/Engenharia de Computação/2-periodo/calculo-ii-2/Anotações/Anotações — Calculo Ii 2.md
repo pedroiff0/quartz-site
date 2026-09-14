@@ -1,10 +1,11 @@
----aliases:
+---
+aliases:
   - index
 
 publish: true
 title: "Anotações"
-created: 2026-08-24T21:03:00-03:00
-modified: 2026-08-27T21:54:00-03:00
+created: 2026-08-24 21:03
+modified: 2026-09-14 09:49
 cssclasses:
   - page-layout
   - cards

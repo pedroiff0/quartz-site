@@ -2,8 +2,14 @@
 publish: true
 title: Sistema Acadêmico
 created: 2026-08-08 13:04
-modified: 2026-09-11 12:49
-tags: [Full-stack, Web App, Academia, CR/Boletim, Multi-curso, API Bot]
+modified: 2026-09-14 11:55
+tags:
+  - full-stack
+  - web-app
+  - academia
+  - cr-boletim
+  - multi-curso
+  - api-bot
 repo: https://github.com/pedroiff0/sistema-academico
 status: privado
 cssclasses:

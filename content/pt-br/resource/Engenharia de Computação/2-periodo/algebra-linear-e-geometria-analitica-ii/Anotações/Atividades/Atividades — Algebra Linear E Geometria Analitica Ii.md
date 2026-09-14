@@ -1,34 +1,32 @@
----aliases:
+---
+aliases:
   - index
 
 publish: true
 title: "Atividades, Trabalhos & Provas — Algebra Linear E Geometria Analitica Ii"
-created: 29/08/2026 11:58
+created: 2026-08-29 11:58
 discipline: "Algebra Linear E Geometria Analitica Ii"
 period: "2-periodo"
 tags:
   - disciplina
-  - atividades
-  - trabalhos
+  - atividade
+  - trabalho
 cssclasses:
   - page-layout
   - cards
+modified: 2026-09-14 11:36
 ---
 
 # 🎯 Atividades, Trabalhos & Avaliações
 
 Repositório de **trabalhos práticos, seminários, listas de exercícios e relatórios de avaliação** desenvolvidos na disciplina **Algebra Linear E Geometria Analitica Ii**.
 
-modified: 2026-09-11 12:44
-cssclasses:
-  - page-layout
 ---
 
 ## 📋 Relação de Trabalhos & Atividades
 
-| Aula / Conteúdo | Data |
-| :--- | :---: |
-| [[Atividades — Algebra Linear E Geometria Analitica Ii\|Atividades, Trabalhos & Provas — Algebra Linear E Geometria Analitica Ii]] | 29/08/2026 |
+> [!info] Sem atividades registradas no momento
+> Os trabalhos práticos, seminários e listas de exercícios desta disciplina serão disponibilizados aqui conforme forem ministrados.
 
 ---
 

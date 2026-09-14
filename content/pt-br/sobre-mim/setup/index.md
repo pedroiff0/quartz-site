@@ -4,7 +4,8 @@ title: "Setup"
 aliases:
   - "Setup"
   - "setup"
-modified: 2026-08-27T20:52:00-03:00
+created: 2026-09-07T16:47:01-03:00
+modified: 2026-09-07T16:47:01-03:00
 ---
 
 # 💻 Meu Setup de Trabalho & Estudo

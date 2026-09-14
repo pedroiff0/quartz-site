@@ -16,7 +16,9 @@ draft: false
 cssclasses:
   - page-layout
   - center-titles
+created: 2026-09-07 21:05
 modified: 2026-09-07 21:05
+
 ---
 
 # 🎓 Trabalho 2 - Dossiê de Debate: Filosofia da Tecnologia (Alberto Cupani)

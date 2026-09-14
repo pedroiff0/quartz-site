@@ -2,7 +2,7 @@
 publish: false
 title: Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 created: 2026-07-25 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -19,6 +19,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Classificação morfológica de galáxias e a Via Láctea como espiral barrada típica; o bojo em X e a barra reveladas por contagens estelares; decomposição orbital do bojo (disco, barra, bojo esferoidal clássico); estrutura do disco (warp, cutoff, flare); e o catálogo de mergers confirmados do halo
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|← Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites →]]
 
 # 🪐 Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 
@@ -90,7 +92,7 @@ O halo estelar de galáxias massivas como a Via Láctea forma-se pela assimilaç
 - Queiroz et al. (2021) — decomposição orbital disco/barra/bojo esferoidal
 - Gallart et al. (2021) — sincronismo de quenching entre MW antiga e GSE
 - Skowron et al. (2019); Poggio et al. (2020) — warp e flare do disco
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica]] — o mecanismo de ressonâncias por trás da captura de estrelas pela barra
 - [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] — a dicotomia $\alpha$/Fe que se estende até a barra/bojo
 - [[pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash|Aula 18 — Proto-Disco, Spin-Up e o Disco Splash]] — o disco primordial perturbado pela GSE, aqui ligado à formação do disco espesso

@@ -1,10 +1,11 @@
----aliases:
+---
+aliases:
   - index
 
 publish: true
 title: "Anotações"
-created: 2026-08-24T21:03:00-03:00
-modified: 2026-08-29T11:15:00-03:00
+created: 2026-08-24 21:03
+modified: 2026-09-14 09:49
 cssclasses:
   - page-layout
   - cards
@@ -18,9 +19,6 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 > Para acessar os trabalhos práticos, seminários e provas da disciplina, acesse a pasta:
 > 👉 **[[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/Anotações/Atividades/index|Atividades & Trabalhos Práticos]]**
 
-modified: 2026-09-11 12:44
-cssclasses:
-  - page-layout
 ---
 
 ## 📋 Relação de Aulas Registradas

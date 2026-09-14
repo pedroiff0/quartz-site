@@ -5,8 +5,7 @@ title: Aglomerados-Aula03
 discipline: Astrofísica Extragaláctica
 content: Aglomerados de Galáxias (continuação — conteúdo a ser preenchido)
 professor: Rogério Monteiro-Oliveira
-created: 2026-09-07 16:47
-modified: 2026-09-07 16:47
+created: 2026-09-12 11:20
 tags:
   - escola-de-inverno-on
   - astrofisica-extragalactica
@@ -14,7 +13,11 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+modified: 2026-09-12 11:20
+
 ---
+
+**Navegação (grafo):** [[pt-br/resource/escolainverno/Aglomerados/Aglomerados-Aula02|← Aglomerados-Aula02]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]]
 # Notas de Aula — Aglomerados de Galáxias (Aula 03)
 
 > [!info] Informações da aula

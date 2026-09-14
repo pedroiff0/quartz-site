@@ -2,7 +2,7 @@
 publish: false
 title: Aula 10 — Integração de Órbitas com galpy
 created: 2026-07-25 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -19,6 +19,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Aula prática (Google Colab/galpy) — construir potenciais galácticos, obter dados do Gaia via SQL/TAP, integrar órbitas estelares com incertezas por Monte Carlo, e simular o efeito de fricção dinâmica de um satélite (Sagitário) sobre o disco
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|← Aula 09 — Órbitas, Potenciais e Integrais de Movimento]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica →]]
 
 # 🛰️ Aula 10 — Integração de Órbitas com galpy
 
@@ -110,7 +112,7 @@ Por fim, o notebook combina os dois efeitos: usa `MovingObjectPotential` para tr
 - Documentação do [galpy](https://docs.galpy.org/) — biblioteca usada em toda a aula
 - Vasiliev (2020) — condições iniciais da órbita de Sagitário
 - Feliciano-Souza et al. (em prep.) — número de realizações de Monte Carlo necessárias para parâmetros orbitais robustos (amostra SEGUE)
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento]] — o formalismo teórico (Poisson, $v_c(r)$, integrais de movimento) que este notebook implementa em código
-- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02|Escola de Inverno — Arqueologia Galáctica, Aula 02]] — Omega Centauri e a Gaia-Sausage-Enceladus como outros exemplos de galáxias satélites incorporadas à Via Láctea
+- [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 02]] — Omega Centauri e a Gaia-Sausage-Enceladus como outros exemplos de galáxias satélites incorporadas à Via Láctea
 - [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica]] — continuação direta: pericentro/apocentro, a LMC em referencial não inercial, e ressonâncias de barra

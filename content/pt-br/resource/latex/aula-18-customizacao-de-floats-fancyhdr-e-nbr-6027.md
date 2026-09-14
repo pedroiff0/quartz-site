@@ -1,7 +1,7 @@
 ---
 title: "Aula 18: Controle Avançado de Floats e NBR 6027"
 created: 2026-08-04 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-12 11:20
 publish: true
 notes: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf)"
@@ -13,6 +13,8 @@ tags:
 cssclasses:
   - page-layout
 ---
+
+**Navegação (grafo):** [[pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls|← Aula 17: Engenharia de Classes .cls - Anatomia da ifftese e abntex2]] · [[pt-br/resource/latex/index|🏠 Hub]] · [[pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp|Aula 19: Classes Especializadas (Beamer, Poster e Relatório) →]]
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls">Aula Anterior</a></b></div>

@@ -1,10 +1,11 @@
----aliases:
+---
+aliases:
   - index
 
 publish: true
 title: "Engenharia de Software"
-created: 2026-07-18T12:00:00-03:00
-modified: 2026-09-12T11:19:02-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-14 09:49
 tags:
   - disciplina
   - engenharia-de-computacao
