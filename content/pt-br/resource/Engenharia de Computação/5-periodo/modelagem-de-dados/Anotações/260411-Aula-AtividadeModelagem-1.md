@@ -5,7 +5,7 @@ discipline:
 content:
 professor:
 created: 2026-04-11 14:49
-modified: 2026-09-07 16:46
+modified: 2026-09-14 11:18
 tags:
 cssclasses:
   - page-grid
@@ -26,7 +26,7 @@ Modelo CONCEITUAL $\rightarrow$ Clientes, Contratos, Projetos, Funcionários, Ta
 3. Nome Fantasia
 4. e-mail
 5. Telefone
-Cliente pode firmar nenhum, um ou vários [[#Contrato]], mas só pode estar associado a um único cliente, ou seja relação N:1
+Cliente pode firmar nenhum, um ou vários [[#contrato]], mas só pode estar associado a um único cliente, ou seja relação N:1
 
 Relacionamentos: 
 Cliente (0,N) firma Contrato (1,1)
@@ -37,9 +37,9 @@ Cliente (0,N) firma Contrato (1,1)
 3. Valor global
 4. Prazo em meses
 5. Situação
-Todo contrato implica um [[#Projeto]] de software 
+Todo contrato implica um [[#projeto]] de software 
 Cada projeto está associado a um contrato, ou seja relação 1:1
-Cada contrato deve possuir uma ou mais [[#Parcelas]].
+Cada contrato deve possuir uma ou mais [[#parcelas]].
 
 Relacionamentos
 Contrato (1,1) formaliza Projeto (1,1)
@@ -54,8 +54,8 @@ Contrato (1,N) possui Parcelas (1,1)
 5. Data Termino
 6. Status
 Todo projeto é coordenado por UM funcionário (1:1)
-Um [[#Funcionários]] coordena nenhum, um, ou vários projetos (1:N)
-Cada projeto deve ter pelo menos UMA ou mais [[#Tecnologias]]
+Um [[#funcionarios]] coordena nenhum, um, ou vários projetos (1:N)
+Cada projeto deve ter pelo menos UMA ou mais [[#tecnologias]]
 Um projeto possui uma ou mais tarefas
 
 Relacionamentos
@@ -69,7 +69,7 @@ Projeto (1,N) utiliza Tecnologia (0,N)
 3. e-mail
 4. Cargo
 5. Nível senioridade
-Um funcionário atua em nenhum, um ou vários [[#Projeto]] (1:N)
+Um funcionário atua em nenhum, um ou vários [[#projeto]] (1:N)
 
 Relacionamentos
 Funcionário (0,N) coordenada Projeto (1,1)
@@ -85,7 +85,7 @@ Funcionário (0,N) é responsável por Tarefa (1,1)
 5. Data inicio
 6. Data termino
 7. Situação
-Toda tarefa pertence a um único [[#Projeto]]
+Toda tarefa pertence a um único [[#projeto]]
 
 Relacionamentos
 Tarefa (0,1) depende de Tarefa (0,N)
@@ -95,7 +95,7 @@ Tarefa (0,1) depende de Tarefa (0,N)
 1. Sigla
 2. Nome
 3. Categoria
-Uma tecnologia pode ser utilizada em um ou vários [[#Projeto]]
+Uma tecnologia pode ser utilizada em um ou vários [[#projeto]]
 ***
 ### Parcelas
 1. Número
@@ -104,23 +104,23 @@ Uma tecnologia pode ser utilizada em um ou vários [[#Projeto]]
 4. data de pagamento
 5. status de pagamento
 Pertence a um unico contrato
-Uma parcela não existe sem o respectivo [[#Contrato]], e só é identificada pela combinação entre o número contrato e o número de parcela;
+Uma parcela não existe sem o respectivo [[#contrato]], e só é identificada pela combinação entre o número contrato e o número de parcela;
 ***
 ### Alternativas
 1. Identificar as entidades do domínio. 
 Clientes, funcionários, projetos, tarefas, contratos, parcelas
 
 2. Definir os atributos relevantes de cada entidade. 
-Feito acima: [[#Cliente]], [[#Contrato]], [[#Projeto]], [[#Funcionários]], [[#Tarefas]], [[#Tecnologias]], [[#Parcelas]]
+Feito acima: [[#cliente]], [[#contrato]], [[#projeto]], [[#funcionarios]], [[#tarefas]], [[#tecnologias]], [[#parcelas]]
 
 3. Identificar os relacionamentos existentes. 
-Feito acima: [[#Cliente]], [[#Contrato]], [[#Projeto]], [[#Funcionários]], [[#Tarefas]], [[#Tecnologias]], [[#Parcelas]]
+Feito acima: [[#cliente]], [[#contrato]], [[#projeto]], [[#funcionarios]], [[#tarefas]], [[#tecnologias]], [[#parcelas]]
 
 4. Indicar as cardinalidades mínimas e máximas de cada relacionamento. 
-Feito acima: [[#Cliente]], [[#Contrato]], [[#Projeto]], [[#Funcionários]], [[#Tarefas]], [[#Tecnologias]], [[#Parcelas]]
+Feito acima: [[#cliente]], [[#contrato]], [[#projeto]], [[#funcionarios]], [[#tarefas]], [[#tecnologias]], [[#parcelas]]
 
 5. Apontar, se houver, entidades fortes e entidades fracas. 
-Todas são fortes, exceto a [[#Parcelas]], que depende de [[#Contrato]] para que seja identificada. [[#Tarefas]] deveria ser fraco se não fosse a regra de negócio que ela é única em todo o sistema.
+Todas são fortes, exceto a [[#parcelas]], que depende de [[#contrato]] para que seja identificada. [[#tarefas]] deveria ser fraco se não fosse a regra de negócio que ela é única em todo o sistema.
 
 
 6. Desenhar o diagrama entidade-relacionamento conceitual correspondente.

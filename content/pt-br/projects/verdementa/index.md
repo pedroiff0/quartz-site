@@ -2,9 +2,11 @@
 publish: true
 title: Verdementa
 created: 2026-04-01 13:04
-modified: 2026-09-11 12:49
+modified: 2026-09-14 11:55
 published: 2026-07-26T10:03:21.382-03:00
-tags: [Suíte Comercial, ERP]
+tags:
+  - suite-comercial
+  - erp
 repo: https://github.com/pedroiff0/verdementa
 status: privado
 cssclasses:

@@ -1,8 +1,8 @@
 ---
 publish: true
 title: FEBRACE 2023
-created: 2023-03-20T13:04:00-03:00
-modified: 2026-08-27T21:54:00-03:00
+created: 2023-03-20 13:04
+modified: 2026-09-14 11:55
 published: 2026-07-26T10:13:20.769-03:00
 photoFolder: febrace2023
 type: blog
@@ -27,10 +27,10 @@ Foi a primeira vez que o campus Bom Jesus do Itabapoana do IFF participou da FEB
 ## 📎 Banner
 
 > [!note] Banner apresentado:
-> ![[assets/banners/BannerFEBRACE23.pdf]]
+> 📄 *Pôster do projeto (FEBRACE 2023)*
 
 ## 🔗 Referências e correlatos
 
 - Fonte: [IFF — Projeto do IFF Bom Jesus é finalista na maior feira de ciências e engenharia do Brasil](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-finalista-na-maior-feira-de-ciencias-e-engenharia-do-brasil)
-- [[pt-br/research/dark-matter-shocks|Entendendo a Matéria Escura a partir de Choques Extragalácticos]] — página de pesquisa completa deste projeto
+- [[pt-br/research/Entendendo a Matéria Escura a partir de Choques Extragalaticos - 2023/|Entendendo a Matéria Escura a partir de Choques Extragalácticos]] — página de pesquisa completa deste projeto
 - [[pt-br/media/2023/mostratec-2023|MOSTRATEC 2023]] — mesmo projeto, apresentado meses depois

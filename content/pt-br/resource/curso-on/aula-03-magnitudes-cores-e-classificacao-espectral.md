@@ -2,7 +2,7 @@
 publish: false
 title: Aula 03 — Magnitudes, Cores e Classificação Espectral
 created: 2026-07-23 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -17,6 +17,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Escala de magnitudes, magnitude absoluta, sistemas fotométricos, índices de cor e a classificação espectral OBAFGKM
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|← Aula 02 — Diagrama HR e Aglomerados Estelares]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|Aula 04 — Espectroscopia e Metalicidade →]]
 
 # ✨ Aula 03 — Magnitudes, Cores e Classificação Espectral
 
@@ -110,7 +112,7 @@ O pico do espectro da classe M está deslocado para comprimentos de onda maiores
 
 - Almeida-Fernandes et al. (2021) — sistemas fotométricos
 - Perottoni et al. (2024) — calibração fotométrica (GaiaXPy)
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]]
 - [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|Aula 04 — Espectroscopia e Metalicidade]]
-- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — classificação OBAFGKM revisitada em contexto de nucleossíntese
+- [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — classificação OBAFGKM revisitada em contexto de nucleossíntese

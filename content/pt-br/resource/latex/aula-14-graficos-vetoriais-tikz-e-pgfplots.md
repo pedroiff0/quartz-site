@@ -1,7 +1,7 @@
 ---
 title: "Aula 14: Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots"
 created: 2026-08-04 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-12 11:20
 publish: true
 notes: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf)"
@@ -13,6 +13,8 @@ tags:
 cssclasses:
   - page-layout
 ---
+
+**Navegação (grafo):** [[pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber|← Aula 13: Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber]] · [[pt-br/resource/latex/index|🏠 Hub]] · [[pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty|Aula 15: Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero →]]
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber">Aula Anterior</a></b></div>

@@ -2,7 +2,7 @@
 publish: false
 title: Machine Learning
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -17,7 +17,7 @@ cssclasses:
 
 Pegue um problema concreto: detectar fraude em cartão de crédito. Escrever regras à mão ("bloqueie compras acima de X em país diferente") é uma corrida perdida — fraudadores se adaptam mais rápido do que analistas escrevem regras. A abordagem de ML inverte o jogo: alimente um modelo com milhões de transações rotuladas e deixe-o aprender os padrões, inclusive combinações sutis que nenhum humano formularia. O mesmo princípio vale para diagnóstico médico, previsão de demanda, tradução automática — e é por isso que ML saiu do laboratório para virar infraestrutura básica da indústria.
 
-Aqui tem também uma conexão direta com a pesquisa deste site: trabalho com [[pt-br/research/anomaly-detection|detecção de anomalias em dados astronômicos]] — ensinar modelos a encontrar, em milhões de observações do céu, os objetos que fogem do padrão e podem ser fenômenos novos. É um exemplo honesto do que ML faz de melhor: vasculhar volumes de dados impossíveis para humanos atrás do que interessa. Se o tema te atrai, a página de pesquisa mostra o caminho na prática.
+Aqui tem também uma conexão direta com a pesquisa deste site: trabalho com [[pt-br/projects/Acadêmico/Anomaly_Detection/README|detecção de anomalias em dados astronômicos]] — ensinar modelos a encontrar, em milhões de observações do céu, os objetos que fogem do padrão e podem ser fenômenos novos. É um exemplo honesto do que ML faz de melhor: vasculhar volumes de dados impossíveis para humanos atrás do que interessa. Se o tema te atrai, a página de pesquisa mostra o caminho na prática.
 
 ## Trilha de estudo
 
@@ -50,7 +50,7 @@ Do perceptron ao deep learning: backpropagation, redes convolucionais (imagens),
 - **Métricas além da acurácia** — em fraude, com 99,9% de transações legítimas, o modelo que responde "legítima" para tudo tem 99,9% de acurácia e é inútil. Precisão, revocação, F1 e a matriz de confusão capturam os erros que importam; escolher a métrica certa é decisão de negócio, não detalhe técnico.
 - **Gradiente descendente** — o motor de treinamento de quase tudo: medir o erro, calcular em que direção cada parâmetro deve mudar para reduzi-lo (o gradiente) e dar um passo pequeno nessa direção, milhões de vezes. Entendido isso, redes neurais deixam de ser mágica: backpropagation é só a forma eficiente de calcular esse gradiente.
 - **Engenharia de atributos** — transformar dados brutos em representações que o modelo consegue explorar: extrair dia da semana de uma data, razões entre colunas, estatísticas de janelas de tempo. Na prática clássica, atributos bons com modelo simples ganham de atributos ruins com modelo sofisticado — quase sempre.
-- **Detecção de anomalias** — encontrar o que foge do padrão quando exemplos do "anormal" são raros ou inexistentes: fraude, falha de equipamento, objeto astronômico atípico. Técnicas como Isolation Forest e autoencoders aprendem o normal e sinalizam o resto — é a família de métodos da [[pt-br/research/anomaly-detection|minha pesquisa]].
+- **Detecção de anomalias** — encontrar o que foge do padrão quando exemplos do "anormal" são raros ou inexistentes: fraude, falha de equipamento, objeto astronômico atípico. Técnicas como Isolation Forest e autoencoders aprendem o normal e sinalizam o resto — é a família de métodos da [[pt-br/projects/Acadêmico/Anomaly_Detection/README|minha pesquisa]].
 
 ## Erros comuns de quem está começando
 
@@ -64,7 +64,7 @@ Do perceptron ao deep learning: backpropagation, redes convolucionais (imagens),
 
 Não há livro aberto em português no acervo local para este tópico — a boa notícia é que os melhores materiais da área são gratuitos e estão listados abaixo. O guia oficial do [scikit-learn](https://scikit-learn.org/) funciona, na prática, como um livro-texto de ML clássico com código executável.
 
-> [!tip] Complemento local: a página de [[pt-br/research/anomaly-detection|pesquisa em detecção de anomalias]] traz artigos e sínteses em português sobre a aplicação de ML a dados astronômicos — material real de pesquisa para quem quer ver a teoria em uso. O artigo [[pt-br/research/anomaly-detection/articles/traven2019|Traven et al. (2019)]], citado nos exemplos acima, é um bom ponto de partida: revisa a taxonomia de ML (supervisionado/não supervisionado, discriminativo/generativo) e aplica t-SNE, DBSCAN e modelos generativos à detecção de estrelas binárias.
+> [!tip] Complemento local: a página de [[pt-br/projects/Acadêmico/Anomaly_Detection/README|pesquisa em detecção de anomalias]] traz artigos e sínteses em português sobre a aplicação de ML a dados astronômicos — material real de pesquisa para quem quer ver a teoria em uso. O artigo [[pt-br/research/anomaly-detection/articles/traven2019|Traven et al. (2019)]], citado nos exemplos acima, é um bom ponto de partida: revisa a taxonomia de ML (supervisionado/não supervisionado, discriminativo/generativo) e aplica t-SNE, DBSCAN e modelos generativos à detecção de estrelas binárias.
 
 ## 🔗 Referências externas
 
@@ -79,4 +79,4 @@ Não há livro aberto em português no acervo local para este tópico — a boa 
 ## Conexão com as disciplinas do curso
 
 - [[pt-br/resource/engenharia-de-computação/eletivas/inteligencia-artificial|Inteligência Artificial]] — a eletiva que cobre os fundamentos de IA e aprendizado de máquina dentro da grade.
-- [[pt-br/research/anomaly-detection|Pesquisa: Detecção de Anomalias]] — a aplicação real: ML para encontrar objetos atípicos em levantamentos astronômicos, com os artigos e métodos que uso na pesquisa.
+- [[pt-br/projects/Acadêmico/Anomaly_Detection/README|Pesquisa: Detecção de Anomalias]] — a aplicação real: ML para encontrar objetos atípicos em levantamentos astronômicos, com os artigos e métodos que uso na pesquisa.

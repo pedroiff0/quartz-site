@@ -2,13 +2,13 @@
 publish: true
 title: Portal Acadêmico IFF (academicoWeb)
 created: 2026-03-13 13:04
-modified: 2026-09-11 12:49
+modified: 2026-09-14 11:55
 published: 2026-07-26T10:02:50.481-03:00
 tags:
-  - Web App
-  - IFF
-  - Scraping
-  - Arquivado
+  - web-app
+  - iff
+  - scraping
+  - arquivado
 repo: https://github.com/pedroiff0/academicoWeb
 status: privado
 cssclasses:

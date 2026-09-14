@@ -1,16 +1,17 @@
----aliases:
+---
+aliases:
   - index
 
 publish: true
 title: "Atividades, Trabalhos & Provas — Análise de Software Orientada a Objetos"
-created: 2026-08-29T11:15:00-03:00
-modified: 2026-08-29T11:15:00-03:00
+created: 2026-08-29 11:15
+modified: 2026-09-14 11:17
 discipline: "Análise de Software Orientada a Objetos"
 period: "6-periodo"
 tags:
   - disciplina
-  - atividades
-  - trabalhos
+  - atividade
+  - trabalho
   - analise-de-software
 cssclasses:
   - page-layout
@@ -25,17 +26,13 @@ Este repositório centraliza todos os **trabalhos práticos, seminários, listas
 > Os roteiros em PDF e apresentações dos trabalhos contam com criptografia de segurança institucional.
 > Para orientações e chave de acesso, consulte o [[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/Anotações/Atividades/README|README de Atividades]].
 
-modified: 2026-09-11 12:44
-cssclasses:
-  - page-layout
 ---
 
 ## 📋 Relação de Trabalhos & Atividades
 
-| Aula / Conteúdo | Data | Docente |
-| :--- | :---: | :--- |
-| [[Atividades — Analise De Software Orientada A Objetos\|Atividades, Trabalhos & Provas — Análise de Software Orientada a Objetos]] | 29/08/2026 | — |
-| [[Trabalho - Coesão e Acoplamento - ASOO\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 13/09/2026 | Pablo Manhães |
+| Atividade / Trabalho | Data | Autoria | Docente |
+| :--- | :---: | :--- | :--- |
+| [[Trabalho - Coesão e Acoplamento - ASOO\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 2026-09-02 | Amanda do Carmo de Moraes, Pedro Henrique Rocha de Andrade | Pablo Manhães |
 
 ---
 

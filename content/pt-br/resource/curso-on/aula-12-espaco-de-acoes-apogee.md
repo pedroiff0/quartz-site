@@ -2,7 +2,7 @@
 publish: false
 title: Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -19,6 +19,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Aula prática (APOGEE DR19) — excentricidade, pericentro/apocentro, diagrama de Toomre, o espaço (E, Lz) e o "diamante" de ações (JR, Jz, Lz) para separar populações estelares e identificar acréscimos
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|← Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico →]]
 
 # 🎯 Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica
 
@@ -81,7 +83,7 @@ Esse tipo de diagrama comprime toda a informação dinâmica de uma órbita (for
 
 - Helmi, White, de Zeeuw & Zhao (1999) — _Debris streams in the solar neighbourhood as relics from the formation of the Galaxy_, Nature 402, 53 (bibcode `1999Natur.402...53H`) — paper fundador do uso do espaço de integrais de movimento
 - Outras leituras citadas nos slides originais (bibcodes ADS, sem título extraído): `2022ApJ...935L..22T`, `2023A&A...670L...2D`, `2023ApJ...946...66L`, `2023MNRAS.518.6200B`, `2024MNRAS.532.4389D`, `2021A&A...654A..15B`
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento]] — base teórica de $E$, $L_z$ e das ações usadas aqui
 - [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Aula 10 — Integração de Órbitas com galpy]] — como esses mesmos parâmetros orbitais são calculados a partir de dados 6D individuais
 - [[pt-br/resource/escolainverno/apresentacao/minhapesquisa-vizinhancasolar-tsne|Apresentação de Pesquisa — Vizinhança Solar com t-SNE]] — o mesmo diagrama de Toomre usado aqui aparece na minha própria pesquisa para separar disco de halo

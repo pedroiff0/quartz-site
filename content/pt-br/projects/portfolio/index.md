@@ -2,8 +2,12 @@
 publish: true
 title: Portfólio (este site)
 created: 2026-08-08 13:04
-modified: 2026-09-11 12:49
-tags: [Portfólio, Página Única, Multilíngue, Sem Framework]
+modified: 2026-09-14 11:55
+tags:
+  - portfolio
+  - pagina-unica
+  - multilingue
+  - sem-framework
 repo: https://github.com/pedroiff0/portfolio
 status: público
 cssclasses:

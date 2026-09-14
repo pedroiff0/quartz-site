@@ -2,7 +2,7 @@
 publish: false
 title: Aula 06 — Diagrama HR e Relação Massa-Luminosidade
 created: 2026-07-23 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -17,6 +17,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Como medir as propriedades físicas fundamentais das estrelas e como o diagrama HR revela a relação entre massa, luminosidade e tempo de vida
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|← Aula 05 — Avermelhamento, Extinção e IMF]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas →]]
 
 # 📊 Aula 06 — Diagrama HR e Relação Massa-Luminosidade
 
@@ -106,7 +108,7 @@ ou seja, **o tempo de vida na Sequência Principal decresce fortemente com a mas
 
 - Russell (1914) — diagrama HR original
 - Reid (1987) — relação massa-luminosidade
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]] — isócronas e turnoffs como relógios de idade
 - [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas]]
-- [[pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — mesmo diagrama HR/cor-magnitude, com foco em populações estelares em vez de $t_{SP}\propto M^{-3}$
+- [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — mesmo diagrama HR/cor-magnitude, com foco em populações estelares em vez de $t_{SP}\propto M^{-3}$

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 — Diagrama HR e Aglomerados Estelares
 created: 2026-07-23 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -17,6 +17,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Aglomerados abertos vs. globulares, função de massa inicial (IMF), isócronas e a nomenclatura de populações I, II e III
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-01-conceito-e-historico|← Aula 01 — Conceito e Histórico]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral →]]
 
 # 🌟 Aula 02 — Diagrama HR e Aglomerados Estelares
 
@@ -110,7 +112,7 @@ Já os aglomerados globulares, por serem velhos, podem ocupar regiões muito dis
 - Babusiaux et al. (2018) — populações jovens vs. velhas com dados Gaia
 - Frebel & Norris (2018) — busca por estrelas de População III / metal-pobres extremas
 - Hao et al. (2021); Castro-Ginard et al. (2021) — mapeamento do disco via aglomerados abertos
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-01-conceito-e-historico|Aula 01 — Conceito e Histórico]]
 - [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral]]
 - [[pt-br/resource/escolainverno/aglomerados|Escola de Inverno — Aglomerados]] — minicurso irmão sobre o mesmo tema

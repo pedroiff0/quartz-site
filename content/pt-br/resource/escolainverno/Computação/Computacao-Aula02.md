@@ -5,8 +5,7 @@ title: Computacao-Aula02
 discipline: Computação Científica de Alto Desempenho
 content: HPC (continuação — conteúdo a ser preenchido)
 professor: Fernando Roig
-created: 2026-09-07 16:47
-modified: 2026-09-07 16:47
+created: 2026-09-12 11:20
 tags:
   - escola-de-inverno-on
   - hpc
@@ -14,7 +13,11 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+modified: 2026-09-12 11:20
+
 ---
+
+**Navegação (grafo):** [[pt-br/resource/escolainverno/Computação/260721-Computacao-Aula01|← 260721-Computacao-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/Computação/Computacao-Aula03|Computacao-Aula03 →]]
 # Notas de Aula — Computação de Alto Desempenho (Aula 02)
 
 > [!info] Informações da aula

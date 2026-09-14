@@ -9,7 +9,7 @@ hl_materiais = os.path.join(hl_eng, '_materiais')
 qs_eng = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/Engenharia de Computação'
 qs_disciplinas = '/home/pedro/Repositorios/pessoal/quartz-site/content/assets/disciplinas'
 
-hl_escola = '/home/pedro/hardcore-life/05 - Recursos/Cursos/Escola de Inverno - ON'
+hl_escola = '/home/pedro/hardcore-life/04 - Recursos/Cursos/Escola de Inverno - ON'
 qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/escolainverno'
 
 EXCLUDED_DIR_NAMES = {
@@ -150,7 +150,7 @@ def generate_anotacoes_table(anotacoes_dir: str, prefix_link="") -> str:
         if not f.endswith('.md'):
             continue
         f_lower = f.lower()
-        if f_lower.startswith('index') or 'esboço' in f_lower or 'esboco' in f_lower or 'draft' in f_lower or '.sync-conflict' in f_lower:
+        if f_lower.startswith('index') or f_lower.startswith('atividades') or 'esboço' in f_lower or 'esboco' in f_lower or 'draft' in f_lower or '.sync-conflict' in f_lower:
             continue
         fp = os.path.join(anotacoes_dir, f)
         notes.append(parse_note_metadata(fp))
@@ -175,6 +175,113 @@ def generate_anotacoes_table(anotacoes_dir: str, prefix_link="") -> str:
         for n in notes:
             link = f"{prefix_link}{n['basename']}"
             lines.append(f"| [[{link}\\|{n['title']}]] | {n['created']} |")
+            
+    return '\n'.join(lines)
+
+def parse_atividade_metadata(file_path: str):
+    with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+        content = f.read()
+    
+    basename = os.path.basename(file_path).replace('.md', '')
+    title = basename
+    date_val = ""
+    professor = "—"
+    authors = []
+    
+    if content.startswith('---'):
+        parts = content.split('---', 2)
+        if len(parts) >= 3:
+            fm = parts[1]
+            in_authors = False
+            for line in fm.splitlines():
+                l = line.strip()
+                if l.startswith('authors:'):
+                    in_authors = True
+                    continue
+                elif in_authors:
+                    if l.startswith('- '):
+                        authors.append(l[2:].strip().strip("'\""))
+                        continue
+                    elif l and not l.startswith('#'):
+                        in_authors = False
+                
+                if l.startswith(('title:', 'titulo:')):
+                    val = l.split(':', 1)[1].strip().strip("'\"")
+                    if val:
+                        title = val
+                elif l.startswith(('date:', 'data:')):
+                    val = l.split(':', 1)[1].strip().strip("'\"")
+                    if val:
+                        date_val = val
+                elif l.startswith(('created:', 'criado:')):
+                    if not date_val:
+                        val = l.split(':', 1)[1].strip().strip("'\"")
+                        m = re.search(r"(\d{4})-(\d{2})-(\d{2})", val)
+                        if m:
+                            date_val = f"{m.group(3)}/{m.group(2)}/{m.group(1)}"
+                        else:
+                            date_val = val
+                elif l.startswith(('professor:', 'docente:')):
+                    val = l.split(':', 1)[1].strip().strip("'\"")
+                    if val:
+                        professor = val
+
+    if not date_val:
+        mtime = os.path.getmtime(file_path)
+        date_val = datetime.datetime.fromtimestamp(mtime).strftime('%d/%m/%Y')
+
+    authors_str = ", ".join(authors) if authors else "—"
+
+    return {
+        'basename': basename,
+        'title': title,
+        'date': date_val,
+        'authors': authors_str,
+        'professor': professor,
+        'path': file_path
+    }
+
+def generate_atividades_table(atividades_dir: str, prefix_link="") -> str:
+    if not os.path.exists(atividades_dir):
+        return "> [!info] Sem atividades registradas no momento\n> Os trabalhos práticos, seminários e listas de exercícios desta disciplina serão disponibilizados aqui conforme forem ministrados."
+    
+    notes = []
+    for f in os.listdir(atividades_dir):
+        if not f.endswith('.md'):
+            continue
+        f_lower = f.lower()
+        if f_lower.startswith('index') or f_lower.startswith('atividades —') or f_lower.startswith('atividades -') or 'esboço' in f_lower or 'esboco' in f_lower or 'draft' in f_lower or '.sync-conflict' in f_lower:
+            continue
+        fp = os.path.join(atividades_dir, f)
+        notes.append(parse_atividade_metadata(fp))
+        
+    if not notes:
+        return "> [!info] Sem atividades registradas no momento\n> Os trabalhos práticos, seminários e listas de exercícios desta disciplina serão disponibilizados aqui conforme forem ministrados."
+    
+    notes.sort(key=lambda x: x['basename'])
+    
+    has_authors = any(n['authors'] != '—' for n in notes)
+    has_prof = any(n['professor'] != '—' for n in notes)
+    
+    lines = []
+    if has_authors and has_prof:
+        lines.append("| Atividade / Trabalho | Data | Autoria | Docente |")
+        lines.append("| :--- | :---: | :--- | :--- |")
+        for n in notes:
+            link = f"{prefix_link}{n['basename']}"
+            lines.append(f"| [[{link}\\|{n['title']}]] | {n['date']} | {n['authors']} | {n['professor']} |")
+    elif has_authors:
+        lines.append("| Atividade / Trabalho | Data | Autoria |")
+        lines.append("| :--- | :---: | :--- |")
+        for n in notes:
+            link = f"{prefix_link}{n['basename']}"
+            lines.append(f"| [[{link}\\|{n['title']}]] | {n['date']} | {n['authors']} |")
+    else:
+        lines.append("| Atividade / Trabalho | Data |")
+        lines.append("| :--- | :---: |")
+        for n in notes:
+            link = f"{prefix_link}{n['basename']}"
+            lines.append(f"| [[{link}\\|{n['title']}]] | {n['date']} |")
             
     return '\n'.join(lines)
 
@@ -306,6 +413,9 @@ def transform_markdown_file(file_path: str):
     
     original = content
     
+    # 0. Corrigir frontmatter malformado colado em delimitador (ex: ---aliases: -> ---\naliases:)
+    content = re.sub(r'^---([a-zA-Z0-9_-]+:)', r'---\n\1', content)
+
     # 1. Reescrever caminhos de links internos de pastas do vault para slugs do site
     for old_prefix, new_prefix in LINK_REWRITES:
         content = content.replace(old_prefix, new_prefix)
@@ -439,8 +549,13 @@ def transform_markdown_file(file_path: str):
                  'arxiv' in block_text.lower() or
                  'mwbr' in file_path.lower() or
                  'engcomp' in file_path.lower())
+        is_atividades = ('atividades' in file_path.lower() or 
+                         'atividades' in parent_name or 
+                         'atividades' in block_text.lower())
         if is_jc:
             return generate_journal_club_table(parent_dir, block_text)
+        elif is_atividades:
+            return generate_atividades_table(parent_dir)
         elif parent_name == 'anotações' or parent_name == 'anotacoes':
             return generate_anotacoes_table(parent_dir)
         elif os.path.exists(os.path.join(parent_dir, 'Anotações')):
@@ -579,13 +694,13 @@ if __name__ == '__main__':
     print('✅ Notas acadêmicas sincronizadas com sucesso!')
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Escola de Inverno) PARA O QUARTZ-SITE ===')
-    hl_escola = '/home/pedro/hardcore-life/05 - Recursos/Cursos/Escola de Inverno - ON'
+    hl_escola = '/home/pedro/hardcore-life/04 - Recursos/Cursos/Escola de Inverno - ON'
     qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/escolainverno'
     sync_dirs(hl_escola, qs_escola)
     print('✅ Notas da Escola de Inverno sincronizadas com sucesso!')
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Mídia) PARA O QUARTZ-SITE ===')
-    hl_media = '/home/pedro/hardcore-life/04 - Mídia'
+    hl_media = '/home/pedro/hardcore-life/03 - Mídia'
     qs_media = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/media'
     sync_dirs(hl_media, qs_media)
 
@@ -621,15 +736,15 @@ if __name__ == '__main__':
             print(f'✅ Materiais de {club} sincronizados para assets com sucesso!')
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Cursos & Recursos) PARA O QUARTZ-SITE ===')
-    hl_curso_on = '/home/pedro/hardcore-life/05 - Recursos/Cursos/Curso ON'
+    hl_curso_on = '/home/pedro/hardcore-life/04 - Recursos/Cursos/Curso ON'
     qs_curso_on = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/curso-on'
     sync_dirs(hl_curso_on, qs_curso_on)
 
-    hl_latex = '/home/pedro/hardcore-life/05 - Recursos/Cursos/LaTeX e Escrita Cientifica'
+    hl_latex = '/home/pedro/hardcore-life/04 - Recursos/Cursos/LaTeX e Escrita Cientifica'
     qs_latex = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/latex'
     sync_dirs(hl_latex, qs_latex)
 
-    hl_comp = '/home/pedro/hardcore-life/05 - Recursos/Computação'
+    hl_comp = '/home/pedro/hardcore-life/04 - Recursos/Computação'
     qs_comp = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/computacao'
     sync_dirs(hl_comp, qs_comp)
 

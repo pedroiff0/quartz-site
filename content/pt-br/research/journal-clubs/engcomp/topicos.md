@@ -2,7 +2,7 @@
 publish: true
 title: Tópicos e onde procurar
 created: 2026-08-01 13:04
-modified: 2026-09-07 16:46
+modified: 2026-09-14 10:29
 published: 2026-08-01T16:22:00.830-03:00
 tags:
   - journal-club
@@ -65,7 +65,7 @@ Não precisa ser artigo da semana. Clássico da área, artigo que você não ent
 
 ## 🔗 Referências e correlatos
 
-- [[pt-br/research/journal-clubs/engcomp|ENGCOMP — artigos já discutidos]]
+- [[pt-br/research/Journal-Clubs/engcomp/|ENGCOMP — artigos já discutidos]]
 - [[pt-br/research/journal-clubs/engcomp/dashboard|Dashboard do clube]]
-- [[pt-br/research/journal-clubs|Journal Clubs — visão geral]]
+- [[pt-br/research/Journal-Clubs/|Journal Clubs — visão geral]]
 - [Taxonomia completa de categorias do arXiv](https://arxiv.org/category_taxonomy) — a lista oficial, caso queira propor um eixo novo.

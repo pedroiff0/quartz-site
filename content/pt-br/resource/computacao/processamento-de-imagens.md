@@ -2,7 +2,7 @@
 publish: false
 title: Processamento de Imagens
 created: 2026-07-26 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -12,7 +12,7 @@ cssclasses:
 ---
 
 > [!info] O que é este tópico
-> Processamento de Imagens é o estudo de como tratar uma imagem digital como o que ela realmente é — uma matriz de números — e aplicar operações matemáticas sobre essa matriz para realçá-la, restaurá-la ou extrair informação dela. É a base de visão computacional, e tem uma conexão direta com a minha própria pesquisa: o projeto [[pt-br/research/satellite-trail-removal|Simulando o Impacto de Satélites em Observações Astronômicas]] trata, na prática, de remover um tipo específico de "ruído" (rastros de satélite) de imagens astronômicas — exatamente o tipo de problema que esta disciplina formaliza.
+> Processamento de Imagens é o estudo de como tratar uma imagem digital como o que ela realmente é — uma matriz de números — e aplicar operações matemáticas sobre essa matriz para realçá-la, restaurá-la ou extrair informação dela. É a base de visão computacional, e tem uma conexão direta com a minha própria pesquisa: o projeto [[pt-br/research/Simulando o impacto de satélites em observações astronômicas - 2024/|Simulando o Impacto de Satélites em Observações Astronômicas]] trata, na prática, de remover um tipo específico de "ruído" (rastros de satélite) de imagens astronômicas — exatamente o tipo de problema que esta disciplina formaliza.
 
 ## Por que estudar isso?
 
@@ -76,7 +76,7 @@ O que dominar: **limiarização** (_thresholding_) — separar pixels em duas cl
 
 ## 🔗 Referências externas
 
-- [[pt-br/research/satellite-trail-removal|Simulando o Impacto de Satélites em Observações Astronômicas]] — minha própria pesquisa, uma aplicação real de processamento/restauração de imagens a dados astronômicos: um algoritmo de IA que recupera informação perdida por rastros de satélite em imagens do céu.
+- [[pt-br/research/Simulando o impacto de satélites em observações astronômicas - 2024/|Simulando o Impacto de Satélites em Observações Astronômicas]] — minha própria pesquisa, uma aplicação real de processamento/restauração de imagens a dados astronômicos: um algoritmo de IA que recupera informação perdida por rastros de satélite em imagens do céu.
 
 ## Conexão com as disciplinas do curso
 

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
 created: 2026-07-23 12:36
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -18,6 +18,8 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: A escada cósmica de distâncias — de radar a supernovas Ia — e os sistemas de coordenadas horizontal, equatorial e galáctico
 professor: Hélio Dotto Perottoni
 ---
+
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|← Aula 06 — Diagrama HR e Relação Massa-Luminosidade]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|Aula 08 — Velocidades e Movimento Próprio →]]
 
 # 📐 Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
 
@@ -141,7 +143,7 @@ Por a Terra não ser uma esfera perfeita, torques diferenciais da Lua e do Sol s
 - Leavitt (1912) — relação período-luminosidade das Cefeidas
 - Hubble (1926, 1929) — Cefeidas em M31; Lei de Hubble
 - Oliveira et al. (2020) — ajuste de isócrona em Messier 69
-- [[pt-br/resource/curso-on|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral]] — módulo de distância
 - [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|Aula 08 — Velocidades e Movimento Próprio]]
 - [[pt-br/resource/escolainverno/cosmologia/cosmologia-aula01|Escola de Inverno — Cosmologia, Aula 01]] — o mesmo topo da escada (supernovas Ia como velas padrão), aplicado à escala cosmológica em vez da galáctica

@@ -2,9 +2,13 @@
 publish: true
 title: arXiv Searcher
 created: 2026-03-13 13:04
-modified: 2026-09-11 12:49
+modified: 2026-09-14 11:55
 published: 2026-07-26T10:03:17.536-03:00
-tags: [Automação, Pesquisa, Daemon, BibTeX]
+tags:
+  - automacao
+  - pesquisa
+  - daemon
+  - bibtex
 status: planejamento
 cssclasses:
   - page-layout

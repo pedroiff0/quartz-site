@@ -1,7 +1,7 @@
 ---
 title: "Aula 05: Introdução e Lacuna de Pesquisa (*Research Gap*)"
 created: 2026-08-04 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-12 11:20
 publish: true
 notes: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf)"
@@ -13,6 +13,8 @@ tags:
 cssclasses:
   - page-layout
 ---
+
+**Navegação (grafo):** [[pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724|← Aula 04: Elementos Pré-Textuais NBR 14724]] · [[pt-br/resource/latex/index|🏠 Hub]] · [[pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma|Aula 06: Revisão Sistemática da Literatura e Protocolo PRISMA 2020 →]]
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724">Aula Anterior</a></b></div>

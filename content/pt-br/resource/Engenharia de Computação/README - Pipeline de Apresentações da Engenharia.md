@@ -5,7 +5,9 @@ tags:
   - documentacao
   - pipeline-guia
   - meta
-modified: 2026-09-07 16:47
+created: 2026-09-14 10:29
+modified: 2026-09-14 10:29
+
 cssclasses:
   - page-layout
 ---
@@ -58,11 +60,11 @@ publish: false
 ## 📂 Recursos & Materiais da Disciplina
 
 > [!tip] 🔗 Links e Materiais Vinculados (Dinâmicos)
-> - 📑 **Roteiro & Notas de Aula (PDF):** [[pt-br/resource/Engenharia de Computação/_materiais/roteiro_iff_disciplina.pdf|roteiro_iff_disciplina.pdf]]
-> - 📊 **Slides da Apresentação (LaTeX PDF Claro):** [[pt-br/resource/Engenharia de Computação/_materiais/slides_iff_disciplina.pdf|slides_iff_disciplina.pdf]]
-> - 📊 **Slides da Apresentação (LaTeX PDF Escuro):** [[pt-br/resource/Engenharia de Computação/_materiais/slides_iff_disciplina_preto.pdf|slides_iff_disciplina_preto.pdf]]
-> - 💻 **Slides PowerPoint (PPTX Claro):** [[pt-br/resource/Engenharia de Computação/_materiais/slides_iff_disciplina.pptx|slides_iff_disciplina.pptx]]
-> - 💻 **Slides PowerPoint (PPTX Escuro):** [[pt-br/resource/Engenharia de Computação/_materiais/slides_iff_disciplina_preto.pptx|slides_iff_disciplina_preto.pptx]]
+> - 📑 **Roteiro & Notas de Aula (PDF):** *roteiro_iff_disciplina.pdf*
+> - 📊 **Slides da Apresentação (LaTeX PDF Claro):** *slides_iff_disciplina.pdf*
+> - 📊 **Slides da Apresentação (LaTeX PDF Escuro):** *slides_iff_disciplina_preto.pdf*
+> - 💻 **Slides PowerPoint (PPTX Claro):** *slides_iff_disciplina.pptx*
+> - 💻 **Slides PowerPoint (PPTX Escuro):** *slides_iff_disciplina_preto.pptx*
 > - 🌐 **Hub de Disciplinas no Site Pessoal:** [phrandrade.com/disciplinas](https://www.phrandrade.com/pt-br/resource/engenharia-de-computa%C3%A7%C3%A3o/)
 > - 🏛️ **Portal Institucional IFFluminense:** [portal1.iff.edu.br](https://portal1.iff.edu.br/)
 

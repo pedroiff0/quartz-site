@@ -2,9 +2,12 @@
 publish: true
 title: Arquivo de Apostilas
 created: 2026-04-05 13:04
-modified: 2026-09-11 12:49
+modified: 2026-09-14 11:55
 published: 2026-07-26T10:02:56.002-03:00
-tags: [Material Didático, Engenharia de Computação, Autoral]
+tags:
+  - material-didatico
+  - engenharia-de-computacao
+  - autoral
 status: planejamento
 cssclasses:
   - page-layout

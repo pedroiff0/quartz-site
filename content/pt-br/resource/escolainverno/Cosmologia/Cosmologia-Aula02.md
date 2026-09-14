@@ -5,8 +5,7 @@ title: Cosmologia-Aula02
 discipline: Cosmologia
 content: Cosmologia — Radiação Cósmica de Fundo (conteúdo a ser preenchido)
 professor: Carlos Bengaly
-created: 2026-09-07 16:47
-modified: 2026-09-07 16:47
+created: 2026-09-12 11:20
 tags:
   - escola-de-inverno-on
   - cosmologia
@@ -14,7 +13,11 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+modified: 2026-09-12 11:20
+
 ---
+
+**Navegação (grafo):** [[pt-br/resource/escolainverno/Cosmologia/260721-Cosmologia-Aula01|← 260721-Cosmologia-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula03|Cosmologia-Aula03 →]]
 # Notas de Aula — Cosmologia (Aula 02)
 
 > [!info] Informações da aula

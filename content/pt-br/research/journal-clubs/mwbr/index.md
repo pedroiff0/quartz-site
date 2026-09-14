@@ -2,7 +2,7 @@
 publish: true
 title: MWBR — Journal Club
 created: 2026-07-26 13:04
-modified: 2026-09-07 16:46
+modified: 2026-09-14 10:29
 published: 2026-08-01T20:04:12.171-03:00
 cssclasses:
   - page-layout
@@ -39,6 +39,6 @@ Artigos de destaque apresentados por outros pesquisadores do grupo com discussõ
 
 ## 🔗 Referências e correlatos
 
-- [[pt-br/research/journal-clubs|Journal Clubs — Visão Geral]]
-- [[pt-br/research/journal-clubs/engcomp|ENGCOMP Journal Club]]
-- [[pt-br/research|Pesquisa — Visão Geral]]
+- [[pt-br/research/Journal-Clubs/|Journal Clubs — Visão Geral]]
+- [[pt-br/research/Journal-Clubs/engcomp/|ENGCOMP Journal Club]]
+- [[pt-br/mapa/MOC - Pesquisa e Astronomia|Pesquisa — Visão Geral]]

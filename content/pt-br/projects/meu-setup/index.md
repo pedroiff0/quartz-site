@@ -2,8 +2,13 @@
 publish: true
 title: meu-setup
 created: 2026-08-08 13:04
-modified: 2026-09-11 12:49
-tags: [Dotfiles, Provisionamento, Multi-distro, Open Source, Idempotente]
+modified: 2026-09-14 11:55
+tags:
+  - dotfiles
+  - provisionamento
+  - multi-distro
+  - open-source
+  - idempotente
 repo: https://github.com/pedroiff0/meu-setup
 status: público
 cssclasses:

@@ -1,7 +1,7 @@
 ---
 title: "Aula 03: Resumo, Abstract e Palavras-Chave (NBR 6028:2021)"
 created: 2026-08-04 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-12 11:20
 publish: true
 notes: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-03.pdf)"
 slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-03-branco.pdf)"
@@ -13,6 +13,8 @@ tags:
 cssclasses:
   - page-layout
 ---
+
+**Navegação (grafo):** [[pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa|← Aula 02: Objetivos, Taxonomia de Bloom e Justificativa]] · [[pt-br/resource/latex/index|🏠 Hub]] · [[pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724|Aula 04: Elementos Pré-Textuais NBR 14724 →]]
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
   <div>⬅️ <b><a href="/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa">Aula Anterior</a></b></div>

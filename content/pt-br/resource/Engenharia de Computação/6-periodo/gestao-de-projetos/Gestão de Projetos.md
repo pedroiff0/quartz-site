@@ -1,10 +1,11 @@
----aliases:
+---
+aliases:
   - index
 
 publish: true
 title: "Gestão de Projetos"
-created: 2026-08-22T12:00:00-03:00
-modified: 2026-09-12T11:19:02-03:00
+created: 2026-08-22 12:00
+modified: 2026-09-14 09:49
 tags:
   - disciplina
   - engenharia-de-computacao

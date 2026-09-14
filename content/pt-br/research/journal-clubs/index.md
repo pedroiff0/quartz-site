@@ -2,7 +2,7 @@
 publish: true
 title: Journal Clubs
 created: 2026-07-26 13:04
-modified: 2026-09-07 16:46
+modified: 2026-09-14 10:29
 published: 2026-08-01T16:28:51.169-03:00
 cssclasses:
   - page-layout
@@ -16,7 +16,7 @@ Diferente de uma simples anotação de leitura individual, um Journal Club aqui 
 ## Grupos
 
 - **[[pt-br/research/journal-clubs/mwbr|MWBR]]** — grupo de pesquisa em Via Láctea, arqueologia galáctica e populações estelares.
-- **[[pt-br/research/journal-clubs/engcomp|ENGCOMP]]** — journal club de Engenharia de Computação.
+- **[[pt-br/research/Journal-Clubs/engcomp/|ENGCOMP]]** — journal club de Engenharia de Computação.
 
 Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatter das notas da pasta, via [Bases do Obsidian](https://help.obsidian.md/bases) — não há lista escrita à mão para manter em dia.
 
@@ -60,4 +60,4 @@ Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatt
 
 ## 🔗 Referências e correlatos
 
-- [[pt-br/research|Pesquisa — visão geral]]
+- [[pt-br/mapa/MOC - Pesquisa e Astronomia|Pesquisa — visão geral]]

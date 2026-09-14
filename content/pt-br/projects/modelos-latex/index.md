@@ -1,12 +1,14 @@
 ---
 publish: true
 title: Modelos LaTeX
-tags: [Templates]
+tags:
+  - template
 repo: https://github.com/pedroiff0/modelos
 status: privado
 cssclasses:
   - page-layout
-modified: 2026-09-11 12:49
+created: 2026-09-14 11:17
+modified: 2026-09-14 11:55
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

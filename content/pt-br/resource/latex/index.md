@@ -2,7 +2,7 @@
 publish: true
 title: "LaTeX & Escrita Acadêmica"
 created: 2026-08-04 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-12 11:20
 tags:
   - latex
   - escrita-academica
@@ -413,3 +413,26 @@ views:
 > - **[Plataforma Brasil & CEP/CONEP](https://plataformabrasil.saude.gov.br/)** — *Base nacional e unificada dos registros de pesquisas envolvendo seres humanos.*
 > - **[PRISMA 2020 Statement](http://www.prisma-statement.org/)** — *Diretrizes internacionais e fluxogramas recomendados para revisões sistemáticas da literatura.*
 > - **[IBGE — Normas de Apresentação Tabular (1993)](https://biblioteca.ibge.gov.br/)** — *Manual técnico oficial para elaboração e padronização de tabelas estatísticas brasileiras.*
+
+## 🎓 Aulas — LaTeX e Escrita Cientifica
+
+- [[pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses|Aula 01: Epistemologia, Problematização e Hipóteses]]
+- [[pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa|Aula 02: Objetivos, Taxonomia de Bloom e Justificativa]]
+- [[pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028|Aula 03: Resumo, Abstract e Palavras-Chave (NBR 6028:2021)]]
+- [[pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724|Aula 04: Elementos Pré-Textuais NBR 14724]]
+- [[pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa|Aula 05: Introdução e Lacuna de Pesquisa (*Research Gap*)]]
+- [[pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma|Aula 06: Revisão Sistemática da Literatura e Protocolo PRISMA 2020]]
+- [[pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade|Aula 07: Metodologia, Materiais e Reprodutibilidade na ABNT]]
+- [[pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia|Aula 08: Ética na Pesquisa (Plataforma Brasil) e IA]]
+- [[pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt|Aula 09: Resultados: Tabelas IBGE vs. Quadros ABNT]]
+- [[pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023|Aula 10: Discussão, Citações (10520) e Referências (6023)]]
+- [[pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex|Aula 11: Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex]]
+- [[pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs|Aula 12: Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)]]
+- [[pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber|Aula 13: Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber]]
+- [[pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots|Aula 14: Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots]]
+- [[pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty|Aula 15: Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero]]
+- [[pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty|Aula 16: Desenvolvimento de Pacotes .sty - Programação TeX e Macros]]
+- [[pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls|Aula 17: Engenharia de Classes .cls - Anatomia da ifftese e abntex2]]
+- [[pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027|Aula 18: Controle Avançado de Floats e NBR 6027]]
+- [[pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp|Aula 19: Classes Especializadas (Beamer, Poster e Relatório)]]
+- [[pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua|Aula 20: Automação LaTeX, Git e Integração Contínua CI/CD]]

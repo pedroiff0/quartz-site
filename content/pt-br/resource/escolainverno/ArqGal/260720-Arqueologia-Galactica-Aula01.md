@@ -6,7 +6,7 @@ discipline: Astrofísica Estelar / Via Láctea
 content: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas
 professor:
 created: 2026-07-20 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-14 10:29
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica
@@ -17,6 +17,8 @@ cssclasses:
   - page-grid
   - center-images
 ---
+
+**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula02|ArqueologiaGalactica-Aula02 →]]
 # Notas de Aula — Arqueologia Galáctica
 
 > [!info] Informações da aula
@@ -68,7 +70,7 @@ Estrelas nascem em berçários estelares — regiões densas e frias de nuvens m
 
 > [!info]- 📷 Imagem pendente
 > Diagrama "Chandra Stellar Fate" (tipos de morte estelar conforme a massa inicial) — referência: repositório **Kepler** da UFRGS.
-> ![[Pasted image 20260720094718.png]]
+> 
 
 ### O que cada tipo de evento produz
 
