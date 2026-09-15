@@ -1,16 +1,16 @@
 ---
 publish: true
-title: 260618-RevisaoProva
-discipline:
-content:
-professor:
+title: "260618-RevisaoProva"
 created: 2026-06-18 14:49
-modified: 2026-09-07 16:46
+modified: 2026-09-14 20:12
+encrypted: true
+password: "eng232"
 tags:
+  - aula
+  - engenharia-de-computacao
+  - anotacoes-de-quadro
 cssclasses:
-  - page-grid
-  - center-images
-
+  - page-layout
 ---
 # Notas de Aula - RevisaoProva
 ***

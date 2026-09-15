@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Sistemas Operacionais II"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,27 +36,27 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Sistemas de Arquivos**
-> 	- [ ] Arquivos
-> 	- [ ] Diretórios
-> 	- [ ] Implementação do Sistema de Arquivos
-> 	- [ ] Gerenciamento e Otimização dos Sistemas
-> 	- [ ] Exemplos de Sistemas de Arquivos
-> - [ ] **2. Entrada/Saída**
-> 	- [ ] Princípios do Hardware de E/S
-> 	- [ ] Princípios do Software E/S
-> 	- [ ] Camadas do Software E/S
-> 	- [ ] Discos
-> 	- [ ] Relógios
-> 	- [ ] Interfaces com o usuário g. Gerenciamento de Energia
-> - [ ] **3. Deadlocks**
-> 	- [ ] Recursos
-> 	- [ ] Introdução a Deadlocks
-> 	- [ ] Algoritmo do Avestruz
-> 	- [ ] Detecção e Recuperação de Deadlocks
-> 	- [ ] Evitando Deadlocks
-> 	- [ ] Prevenção de Deadlocks
-> 	- [ ] Outras Questões
+> - **1. Sistemas de Arquivos**
+> 	- Arquivos
+> 	- Diretórios
+> 	- Implementação do Sistema de Arquivos
+> 	- Gerenciamento e Otimização dos Sistemas
+> 	- Exemplos de Sistemas de Arquivos
+> - **2. Entrada/Saída**
+> 	- Princípios do Hardware de E/S
+> 	- Princípios do Software E/S
+> 	- Camadas do Software E/S
+> 	- Discos
+> 	- Relógios
+> 	- Interfaces com o usuário g. Gerenciamento de Energia
+> - **3. Deadlocks**
+> 	- Recursos
+> 	- Introdução a Deadlocks
+> 	- Algoritmo do Avestruz
+> 	- Detecção e Recuperação de Deadlocks
+> 	- Evitando Deadlocks
+> 	- Prevenção de Deadlocks
+> 	- Outras Questões
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

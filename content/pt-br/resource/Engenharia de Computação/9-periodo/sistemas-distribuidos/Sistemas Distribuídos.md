@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Sistemas Distribuídos"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,43 +37,43 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Conceito de Sistemas Distribuídos**
-> 	- [ ] Definição e Principais Características de Sistemas Distribuídos
-> 	- [ ] Motivação para o Desenvolvimento de Aplicações Distribuídas
-> - [ ] **2. Motivação para o Desenvolvimento de Aplicações Distribuídas**
-> - [ ] **3. Exemplos de Sistemas Distribuídos**
-> - [ ] **4. Aspectos de Heterogeneidade, abertura, segurança, escalabilidade, tolerância a falhas, concorrência e transparência em sistemas distribuídos**
-> - [ ] **5. Arquitetura de Sistemas Distribuídos**
-> 	- [ ] Cliente-Servidor
-> 	- [ ] Peer-to-Peer
-> - [ ] **6. Sincronização em Sistemas Distribuídos**
-> 	- [ ] Modelo de Interação
-> 		- [ ] i. Síncrono
-> 	- [ ] Assincrono
-> - [ ] **7. Características da comunicação entre processos**
-> - [ ] **8. Primitivas de comunicação**
-> - [ ] **9. Sincronização interna e externa de relógios físicos**
-> - [ ] **10. Modelo de Falha e Segurança**
-> 	- [ ] Modelo de Falhas
-> 		- [ ] i. Falhas em Processos e em Canais de comunicação
-> 	- [ ] Modelo de Segurança
-> 		- [ ] i. Ameaças
-> 	- [ ] Métodos de ataque
-> 	- [ ] Mecanismo de segurança
-> - [ ] **11. Middleware para Aplicações Distribuídas**
-> 	- [ ] Comunicação entre Objetos Distribuídos
-> 	- [ ] Referência de Objetos Remotos
-> 	- [ ] Serviço de Nomes
-> 	- [ ] Arquitetura de Eventos e Notificações
-> 	- [ ] Middleware para Aplicações Distribuídas
-> - [ ] **12. Transações Distribuídas e Controle de Concorrência**
-> 	- [ ] Propriedades ACID de uma Transação
-> 	- [ ] Estados de uma Transação
-> 	- [ ] Protocolos de efetivação de uma transação
-> 	- [ ] Transações planas e aninhadas
-> 	- [ ] Leituras sujas, cancelamento em cascata, escritas prematuras
-> - [ ] **13. Controle de concorrência**
-> - [ ] **14. Impasses**
+> - **1. Conceito de Sistemas Distribuídos**
+> 	- Definição e Principais Características de Sistemas Distribuídos
+> 	- Motivação para o Desenvolvimento de Aplicações Distribuídas
+> - **2. Motivação para o Desenvolvimento de Aplicações Distribuídas**
+> - **3. Exemplos de Sistemas Distribuídos**
+> - **4. Aspectos de Heterogeneidade, abertura, segurança, escalabilidade, tolerância a falhas, concorrência e transparência em sistemas distribuídos**
+> - **5. Arquitetura de Sistemas Distribuídos**
+> 	- Cliente-Servidor
+> 	- Peer-to-Peer
+> - **6. Sincronização em Sistemas Distribuídos**
+> 	- Modelo de Interação
+> 		- i. Síncrono
+> 	- Assincrono
+> - **7. Características da comunicação entre processos**
+> - **8. Primitivas de comunicação**
+> - **9. Sincronização interna e externa de relógios físicos**
+> - **10. Modelo de Falha e Segurança**
+> 	- Modelo de Falhas
+> 		- i. Falhas em Processos e em Canais de comunicação
+> 	- Modelo de Segurança
+> 		- i. Ameaças
+> 	- Métodos de ataque
+> 	- Mecanismo de segurança
+> - **11. Middleware para Aplicações Distribuídas**
+> 	- Comunicação entre Objetos Distribuídos
+> 	- Referência de Objetos Remotos
+> 	- Serviço de Nomes
+> 	- Arquitetura de Eventos e Notificações
+> 	- Middleware para Aplicações Distribuídas
+> - **12. Transações Distribuídas e Controle de Concorrência**
+> 	- Propriedades ACID de uma Transação
+> 	- Estados de uma Transação
+> 	- Protocolos de efetivação de uma transação
+> 	- Transações planas e aninhadas
+> 	- Leituras sujas, cancelamento em cascata, escritas prematuras
+> - **13. Controle de concorrência**
+> - **14. Impasses**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

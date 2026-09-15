@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Interconexão de Redes de Computadores"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,15 +36,15 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Projeto de Rede Hierárquico**
-> - [ ] **2. Conexão à WAN**
-> - [ ] **3. Conexões Point-to-Point**
-> - [ ] **4. Frame Relay**
-> - [ ] **5. NAT**
-> - [ ] **6. Soluções de Banda Larga**
-> - [ ] **7. Protegendo a Conectividade de Site para Site**
-> - [ ] **8. Monitorando a Rede**
-> - [ ] **9. Solucionando Problemas de Rede**
+> - **1. Projeto de Rede Hierárquico**
+> - **2. Conexão à WAN**
+> - **3. Conexões Point-to-Point**
+> - **4. Frame Relay**
+> - **5. NAT**
+> - **6. Soluções de Banda Larga**
+> - **7. Protegendo a Conectividade de Site para Site**
+> - **8. Monitorando a Rede**
+> - **9. Solucionando Problemas de Rede**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

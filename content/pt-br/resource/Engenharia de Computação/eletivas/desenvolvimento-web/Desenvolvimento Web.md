@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Desenvolvimento Web"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,15 +36,15 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Programação para Web**
-> 	- [ ] História da Internet e da World Wide Web.
-> 	- [ ] Desenvolvimento Front-End
-> 	- [ ] Desenvolvimento Back-End
-> - [ ] **2. Frameworks Web**
-> 	- [ ] Introdução à frameworks para desenvolvimento web
-> - [ ] **3. Acesso a banco de dados em sistemas Web**
-> 	- [ ] Conexão com Sistema de Gerenciamento de Banco de Dados
-> 	- [ ] Engenharia Web
+> - **1. Programação para Web**
+> 	- História da Internet e da World Wide Web.
+> 	- Desenvolvimento Front-End
+> 	- Desenvolvimento Back-End
+> - **2. Frameworks Web**
+> 	- Introdução à frameworks para desenvolvimento web
+> - **3. Acesso a banco de dados em sistemas Web**
+> 	- Conexão com Sistema de Gerenciamento de Banco de Dados
+> 	- Engenharia Web
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

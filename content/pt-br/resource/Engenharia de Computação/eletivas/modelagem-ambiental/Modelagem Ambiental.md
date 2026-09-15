@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Modelagem Ambiental"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,13 +37,13 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Dinâmica de sistemas lineares e não-lineares.**
-> - [ ] **2. Hierarquia de sistemas.**
-> - [ ] **3. Modelagem da dinâmica de populações.**
-> - [ ] **4. Modelagem do ciclo do carbono.**
-> - [ ] **5. Modelagem da dinâmica de ecossistemas.**
-> - [ ] **6. Modelagem do sistema hidrológico.**
-> - [ ] **7. Modelagem do sistema climático.**
+> - **1. Dinâmica de sistemas lineares e não-lineares.**
+> - **2. Hierarquia de sistemas.**
+> - **3. Modelagem da dinâmica de populações.**
+> - **4. Modelagem do ciclo do carbono.**
+> - **5. Modelagem da dinâmica de ecossistemas.**
+> - **6. Modelagem do sistema hidrológico.**
+> - **7. Modelagem do sistema climático.**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

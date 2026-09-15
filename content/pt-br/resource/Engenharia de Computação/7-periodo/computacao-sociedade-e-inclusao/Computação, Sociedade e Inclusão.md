@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Computação, Sociedade e Inclusão"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,39 +36,39 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Fundamentação e Discussão Crítica acerca de Computação e Sociedade:**
-> 	- [ ] Aspectos Sociais;
-> 	- [ ] Aspectos Econômicos;
-> 	- [ ] Aspectos Culturais;
-> 	- [ ] Aspectos Políticos;
-> - [ ] **2. O computador na sociedade atual:**
-> 	- [ ] Aplicação de Computadores e sua Influência na Sociedade;
-> 	- [ ] Vantagens e Desvantagens da Automação;
-> - [ ] **3. Apropriações da Computação e Relações de Poder:**
-> 	- [ ] O espaço público, o privado e o sujeito.
-> - [ ] **4. Recursos e Repositórios Educacionais Abertos:**
-> 	- [ ] Histórico
-> 	- [ ] Definições
-> 	- [ ] Políticas Públicas
-> 	- [ ] Projetos
-> - [ ] **5. Conteúdos e Identidade Cultural:**
-> 	- [ ] Homem, Cultura e Sociedade;
-> 	- [ ] Estudo da Cultura e o Trabalho Etnográfico;
-> 	- [ ] Universalismo e Particularismo;
-> 	- [ ] Identidade Individuais e Sociais;
-> 	- [ ] Cultura Contemporânea, Sociedade e Tecnologias de Informação e Comunicação.
-> - [ ] **6. Cidadania e Educação na Sociedade Digital**
-> 	- [ ] Educação
-> 		- [ ] i. Educação Presencial
-> 		- [ ] ii. Educação à Distância
-> 	- [ ] Cidadania
-> 	- [ ] Educação, Cidadania e Inclusão Social
-> - [ ] **7. Ferramental Tecnológico como Construção Sócio-Cultural:**
-> 	- [ ] Tecnologia Social: Conceitos e Debates;
-> 	- [ ] Tecnologia Social e Tecnologia Convencional
-> 	- [ ] Tecnologia Social no Brasil
-> 	- [ ] Tecnologia no Mundo
-> - [ ] **8. Relevância Social e Investimento em Tecnologia Social**
+> - **1. Fundamentação e Discussão Crítica acerca de Computação e Sociedade:**
+> 	- Aspectos Sociais;
+> 	- Aspectos Econômicos;
+> 	- Aspectos Culturais;
+> 	- Aspectos Políticos;
+> - **2. O computador na sociedade atual:**
+> 	- Aplicação de Computadores e sua Influência na Sociedade;
+> 	- Vantagens e Desvantagens da Automação;
+> - **3. Apropriações da Computação e Relações de Poder:**
+> 	- O espaço público, o privado e o sujeito.
+> - **4. Recursos e Repositórios Educacionais Abertos:**
+> 	- Histórico
+> 	- Definições
+> 	- Políticas Públicas
+> 	- Projetos
+> - **5. Conteúdos e Identidade Cultural:**
+> 	- Homem, Cultura e Sociedade;
+> 	- Estudo da Cultura e o Trabalho Etnográfico;
+> 	- Universalismo e Particularismo;
+> 	- Identidade Individuais e Sociais;
+> 	- Cultura Contemporânea, Sociedade e Tecnologias de Informação e Comunicação.
+> - **6. Cidadania e Educação na Sociedade Digital**
+> 	- Educação
+> 		- i. Educação Presencial
+> 		- ii. Educação à Distância
+> 	- Cidadania
+> 	- Educação, Cidadania e Inclusão Social
+> - **7. Ferramental Tecnológico como Construção Sócio-Cultural:**
+> 	- Tecnologia Social: Conceitos e Debates;
+> 	- Tecnologia Social e Tecnologia Convencional
+> 	- Tecnologia Social no Brasil
+> 	- Tecnologia no Mundo
+> - **8. Relevância Social e Investimento em Tecnologia Social**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

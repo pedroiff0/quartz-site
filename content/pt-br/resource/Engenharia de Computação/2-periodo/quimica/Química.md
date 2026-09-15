@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Química"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,53 +36,53 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Estrutura da matéria:**
-> 	- [ ] Esquemas básicos da química: sistema, matéria, propriedades, energia e transformações;
-> 	- [ ] Modelo atômico de Dalton;
-> 	- [ ] Modelo atômico de Thomson;
-> 	- [ ] Modelo atômico de Rutherford e Bohr;
-> 	- [ ] Noções de mecânica ondulatória;
-> 	- [ ] Modelo atômico atual.
-> - [ ] **2. Periodicidade química:**
-> 	- [ ] Tabela Periódica;
-> 	- [ ] Periodicidade e Configuração eletrônica;
-> 	- [ ] Propriedades periódicas dos elementos: raio atômico, energia de ionização, afinidade eletrônica e eletronegatividade.
-> - [ ] **3. Ligações químicas:**
-> 	- [ ] Ligação iônica;
-> 	- [ ] Ligação covalente;
-> 	- [ ] Ligação metálica.
-> - [ ] **4. Reações Químicas:**
-> 	- [ ] Equações Químicas
-> 	- [ ] Estequiometria
-> 	- [ ] Reações em solução aquosa Noções de Termodinâmica
-> - [ ] **5. Química e Termoquímica:**
-> 	- [ ] Primeira lei da termodinâmica: calor, trabalho e energia interna;
-> 	- [ ] Definição e cálculos de entalpia de processos físicos e químicos;
-> 	- [ ] Entalpia de combustão e os combustíveis;
-> 	- [ ] Segunda lei da termodinâmica: a entropia;
-> 	- [ ] Energia livre de Gibbs e espontaneidade dos processos.
-> - [ ] **6. Equilíbrio Químico:**
-> 	- [ ] Equilíbrio químico homogêneo e as constantes de equilíbrio
-> 	- [ ] Princípio de Le Chatelier e o deslocamento do equilíbrio
-> 	- [ ] Equilíbrio químico heterogêneo
-> 	- [ ] Equilíbrio químico em solução aquosa: ácido, base e pH.
-> - [ ] **7. Cinética Química:**
-> 	- [ ] Conceito e determinação da velocidade das reações químicas;
-> 	- [ ] Lei de velocidade da reação química;
-> 	- [ ] Teoria das colisões moleculares, complexo ativado e estado de transição;
-> 	- [ ] Mecanismos de reações químicas;
-> 	- [ ] Catálise.
-> - [ ] **8. Eletroquímica:**
-> 	- [ ] Reações de óxido redução
-> 	- [ ] Noção de potencial eletroquímico
-> 	- [ ] Células galvânicas
-> 	- [ ] Células eletrolíticas
-> 	- [ ] Energia livre de Gibbs, tensão de célula e equilíbrio
-> - [ ] **9. Noções de química orgânica:**
-> 	- [ ] O átomo de carbono;
-> 	- [ ] As cadeias carbônicas;
-> 	- [ ] As funções orgânicas;
-> 	- [ ] Introdução aos polímeros.
+> - **1. Estrutura da matéria:**
+> 	- Esquemas básicos da química: sistema, matéria, propriedades, energia e transformações;
+> 	- Modelo atômico de Dalton;
+> 	- Modelo atômico de Thomson;
+> 	- Modelo atômico de Rutherford e Bohr;
+> 	- Noções de mecânica ondulatória;
+> 	- Modelo atômico atual.
+> - **2. Periodicidade química:**
+> 	- Tabela Periódica;
+> 	- Periodicidade e Configuração eletrônica;
+> 	- Propriedades periódicas dos elementos: raio atômico, energia de ionização, afinidade eletrônica e eletronegatividade.
+> - **3. Ligações químicas:**
+> 	- Ligação iônica;
+> 	- Ligação covalente;
+> 	- Ligação metálica.
+> - **4. Reações Químicas:**
+> 	- Equações Químicas
+> 	- Estequiometria
+> 	- Reações em solução aquosa Noções de Termodinâmica
+> - **5. Química e Termoquímica:**
+> 	- Primeira lei da termodinâmica: calor, trabalho e energia interna;
+> 	- Definição e cálculos de entalpia de processos físicos e químicos;
+> 	- Entalpia de combustão e os combustíveis;
+> 	- Segunda lei da termodinâmica: a entropia;
+> 	- Energia livre de Gibbs e espontaneidade dos processos.
+> - **6. Equilíbrio Químico:**
+> 	- Equilíbrio químico homogêneo e as constantes de equilíbrio
+> 	- Princípio de Le Chatelier e o deslocamento do equilíbrio
+> 	- Equilíbrio químico heterogêneo
+> 	- Equilíbrio químico em solução aquosa: ácido, base e pH.
+> - **7. Cinética Química:**
+> 	- Conceito e determinação da velocidade das reações químicas;
+> 	- Lei de velocidade da reação química;
+> 	- Teoria das colisões moleculares, complexo ativado e estado de transição;
+> 	- Mecanismos de reações químicas;
+> 	- Catálise.
+> - **8. Eletroquímica:**
+> 	- Reações de óxido redução
+> 	- Noção de potencial eletroquímico
+> 	- Células galvânicas
+> 	- Células eletrolíticas
+> 	- Energia livre de Gibbs, tensão de célula e equilíbrio
+> - **9. Noções de química orgânica:**
+> 	- O átomo de carbono;
+> 	- As cadeias carbônicas;
+> 	- As funções orgânicas;
+> 	- Introdução aos polímeros.
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

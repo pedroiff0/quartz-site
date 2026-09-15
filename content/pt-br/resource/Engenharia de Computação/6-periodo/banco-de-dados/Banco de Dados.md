@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Banco de Dados"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,27 +36,27 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Linguagem de Definição e Manipulação de Dados**
-> - [ ] **2. Processamento e Otimização de Consultas**
-> - [ ] **3. Transações**
-> 	- [ ] Conceito
-> 	- [ ] Propriedades
-> 		- [ ] i. Atomicidade
-> 		- [ ] ii. Consistência
-> 		- [ ] iii. Isolamento
-> 		- [ ] iv. Durabilidade
-> 	- [ ] Controle e Falhas em Transações
-> 	- [ ] Concorrência
-> - [ ] **4. Programação em Bancos de Dados**
-> 	- [ ] PL/SQL
-> 		- [ ] i. Conceitos
-> 		- [ ] ii. Comandos
-> 	- [ ] Procedimentos Armazenados
-> 	- [ ] Gatilhos
-> - [ ] **5. Segurança**
-> 	- [ ] Privilégios de Acesso
-> 	- [ ] Visões
-> 	- [ ] Criptografia de Dados
+> - **1. Linguagem de Definição e Manipulação de Dados**
+> - **2. Processamento e Otimização de Consultas**
+> - **3. Transações**
+> 	- Conceito
+> 	- Propriedades
+> 		- i. Atomicidade
+> 		- ii. Consistência
+> 		- iii. Isolamento
+> 		- iv. Durabilidade
+> 	- Controle e Falhas em Transações
+> 	- Concorrência
+> - **4. Programação em Bancos de Dados**
+> 	- PL/SQL
+> 		- i. Conceitos
+> 		- ii. Comandos
+> 	- Procedimentos Armazenados
+> 	- Gatilhos
+> - **5. Segurança**
+> 	- Privilégios de Acesso
+> 	- Visões
+> 	- Criptografia de Dados
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

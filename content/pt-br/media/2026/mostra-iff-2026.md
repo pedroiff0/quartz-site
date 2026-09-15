@@ -2,7 +2,7 @@
 publish: false
 title: Mostra do Conhecimento - 2026
 created: 2026-07-18 13:34
-modified: 2026-09-14 10:29
+modified: 2026-09-14 20:13
 published: 2026-07-26T10:40:28.909-03:00
 photoFolder: mostra2026
 type: blog

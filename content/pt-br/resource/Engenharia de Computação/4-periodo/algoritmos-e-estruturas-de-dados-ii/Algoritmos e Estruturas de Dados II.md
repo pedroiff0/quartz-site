@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Algoritmos e Estruturas de Dados II"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -38,29 +38,29 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Ordenação Externa**
-> 	- [ ] Manipulação de arquivos
-> - [ ] **2. Tabela Hash**
-> 	- [ ] Funções Hash
-> 	- [ ] Tratamento de Colisões
-> 	- [ ] Algoritmos para Tabelas Hash
-> - [ ] **3. Árvores Binárias**
-> 	- [ ] Percurso em Árvores
-> 	- [ ] Árvores Binárias
-> 	- [ ] Árvores Binárias de Busca
-> 	- [ ] Operações de Árvores Binárias de Busca
-> 	- [ ] Balanceamento de Árvores
-> 	- [ ] Árvores AVL
-> 	- [ ] Inserção
-> 	- [ ] Remoção
-> 	- [ ] Busca
-> 	- [ ] Rebalanceamento
-> 	- [ ] Árvores B e B+
-> 	- [ ] Inserção
-> 	- [ ] Remoção
-> 	- [ ] Busca
-> 	- [ ] Rebalanceamento
-> - [ ] **4. Estruturas de Dados Eficientes em Disco**
+> - **1. Ordenação Externa**
+> 	- Manipulação de arquivos
+> - **2. Tabela Hash**
+> 	- Funções Hash
+> 	- Tratamento de Colisões
+> 	- Algoritmos para Tabelas Hash
+> - **3. Árvores Binárias**
+> 	- Percurso em Árvores
+> 	- Árvores Binárias
+> 	- Árvores Binárias de Busca
+> 	- Operações de Árvores Binárias de Busca
+> 	- Balanceamento de Árvores
+> 	- Árvores AVL
+> 	- Inserção
+> 	- Remoção
+> 	- Busca
+> 	- Rebalanceamento
+> 	- Árvores B e B+
+> 	- Inserção
+> 	- Remoção
+> 	- Busca
+> 	- Rebalanceamento
+> - **4. Estruturas de Dados Eficientes em Disco**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

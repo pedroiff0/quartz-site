@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Sistemas Digitais"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -39,48 +39,48 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Análise e Síntese de Circuitos Digitais**
-> 	- [ ] Contadores Síncronos e Assíncronos
-> 	- [ ] Projetos de Máquinas Sequenciais Síncronas
-> 		- [ ] i. Tabela de Transição
-> 		- [ ] ii. Diagramas de Estado
-> 	- [ ] Geradores e Detectores de Sequências
-> 	- [ ] Registradores Série-Paralelo
-> 	- [ ] Registradores de deslocamento
-> 	- [ ] Aplicação de Simbologia IEC
-> 	- [ ] Circuitos Integrados Comerciais
-> - [ ] **2. Características das Famílias Lógicas Digitais**
-> 	- [ ] Estrutura Interna
-> 	- [ ] Características
-> 	- [ ] Parâmetros Elétricos
-> 	- [ ] Limitações
-> 	- [ ] Aplicações das Tecnologias RTL, TTL, ETL, CMOS e BiCMOS
-> 	- [ ] Subfamílias ou Séries
-> 	- [ ] Restrições de Carregamento e Interfaceamento de Diferentes Famílias Tecnológicas em Circuitos Digitais
-> - [ ] **3. Conversores Analógico-Digital e Digital-Analógica**
-> 	- [ ] Conversores DA
-> 		- [ ] i. Em Rede Resistiva Ponderada
-> 		- [ ] ii. Em Rede R-2R
-> 	- [ ] Conversores AD
-> 		- [ ] i. Paralelo
-> 		- [ ] ii. Rampa Simples
-> 		- [ ] iii. Rampa Dupla
-> 		- [ ] iv. Aproximação Sucessiva
-> 		- [ ] v. Modulador delta
-> 		- [ ] vi. Circuitos de Amostragem
-> 		- [ ] vii. Retenção, Quantização e Codificação Digital
-> - [ ] **4. Dispositivos de Memórias**
-> 	- [ ] Memórias Semicondutoras
-> 		- [ ] i. ROM
-> 		- [ ] ii. PROM
-> 		- [ ] iii. EPROM
-> 		- [ ] iv. EEPROM
-> 		- [ ] v. Flash
-> 		- [ ] vi. SRAM
-> 		- [ ] vii. DRAM
-> 	- [ ] Características Elétricas e Pinagem de Circuitos Integrados Comerciais
-> 	- [ ] Saídas de Alta Impedância, Barramentos de I/O, Endereçamento e Sinais de Controle
-> 	- [ ] Associação de Memórias
+> - **1. Análise e Síntese de Circuitos Digitais**
+> 	- Contadores Síncronos e Assíncronos
+> 	- Projetos de Máquinas Sequenciais Síncronas
+> 		- i. Tabela de Transição
+> 		- ii. Diagramas de Estado
+> 	- Geradores e Detectores de Sequências
+> 	- Registradores Série-Paralelo
+> 	- Registradores de deslocamento
+> 	- Aplicação de Simbologia IEC
+> 	- Circuitos Integrados Comerciais
+> - **2. Características das Famílias Lógicas Digitais**
+> 	- Estrutura Interna
+> 	- Características
+> 	- Parâmetros Elétricos
+> 	- Limitações
+> 	- Aplicações das Tecnologias RTL, TTL, ETL, CMOS e BiCMOS
+> 	- Subfamílias ou Séries
+> 	- Restrições de Carregamento e Interfaceamento de Diferentes Famílias Tecnológicas em Circuitos Digitais
+> - **3. Conversores Analógico-Digital e Digital-Analógica**
+> 	- Conversores DA
+> 		- i. Em Rede Resistiva Ponderada
+> 		- ii. Em Rede R-2R
+> 	- Conversores AD
+> 		- i. Paralelo
+> 		- ii. Rampa Simples
+> 		- iii. Rampa Dupla
+> 		- iv. Aproximação Sucessiva
+> 		- v. Modulador delta
+> 		- vi. Circuitos de Amostragem
+> 		- vii. Retenção, Quantização e Codificação Digital
+> - **4. Dispositivos de Memórias**
+> 	- Memórias Semicondutoras
+> 		- i. ROM
+> 		- ii. PROM
+> 		- iii. EPROM
+> 		- iv. EEPROM
+> 		- v. Flash
+> 		- vi. SRAM
+> 		- vii. DRAM
+> 	- Características Elétricas e Pinagem de Circuitos Integrados Comerciais
+> 	- Saídas de Alta Impedância, Barramentos de I/O, Endereçamento e Sinais de Controle
+> 	- Associação de Memórias
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

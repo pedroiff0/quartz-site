@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Redes de Computadores I"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -41,39 +41,39 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Introdução as Redes de Computadores**
-> 	- [ ] Conceituação
-> 	- [ ] Tipos
-> 	- [ ] Topologias
-> 	- [ ] Evolução e Histórico das Redes de Computadores
-> 	- [ ] Equipamentos Utilizados
-> - [ ] **2. Modelos OSI e TCP/IP**
-> 	- [ ] Modelo OSI e Modelo TCP/IP
-> 	- [ ] Camadas do Modelo OSI
-> 		- [ ] i. Física
-> 		- [ ] ii. Enlace
-> 		- [ ] iii. Rede
-> 		- [ ] iv. Transporte
-> 		- [ ] v. Sessão
-> 		- [ ] vi. Apresentação
-> 		- [ ] vii. Aplicação
-> 	- [ ] Camadas do Modelo TCP/IP
-> 		- [ ] i. Rede
-> 		- [ ] ii. Internet
-> 		- [ ] iii. Transporte
-> 		- [ ] iv. Aplicação
-> 	- [ ] Modelo OSI x Modelo TCP/IP
-> - [ ] **3. Arquitetura das Redes**
-> 	- [ ] Escalabilidade
-> 	- [ ] Tolerância à Falhas Qualidade de Serviço
-> - [ ] **4. Segurança**
-> - [ ] **5. Meio de Comunicação**
-> 	- [ ] Fio de Cobre
-> 	- [ ] Sem Fio
-> 	- [ ] Óptico
-> - [ ] **6. Protocolo IP**
-> 	- [ ] Conceituação do Protocolo IP
-> 	- [ ] Endereçamento IP
+> - **1. Introdução as Redes de Computadores**
+> 	- Conceituação
+> 	- Tipos
+> 	- Topologias
+> 	- Evolução e Histórico das Redes de Computadores
+> 	- Equipamentos Utilizados
+> - **2. Modelos OSI e TCP/IP**
+> 	- Modelo OSI e Modelo TCP/IP
+> 	- Camadas do Modelo OSI
+> 		- i. Física
+> 		- ii. Enlace
+> 		- iii. Rede
+> 		- iv. Transporte
+> 		- v. Sessão
+> 		- vi. Apresentação
+> 		- vii. Aplicação
+> 	- Camadas do Modelo TCP/IP
+> 		- i. Rede
+> 		- ii. Internet
+> 		- iii. Transporte
+> 		- iv. Aplicação
+> 	- Modelo OSI x Modelo TCP/IP
+> - **3. Arquitetura das Redes**
+> 	- Escalabilidade
+> 	- Tolerância à Falhas Qualidade de Serviço
+> - **4. Segurança**
+> - **5. Meio de Comunicação**
+> 	- Fio de Cobre
+> 	- Sem Fio
+> 	- Óptico
+> - **6. Protocolo IP**
+> 	- Conceituação do Protocolo IP
+> 	- Endereçamento IP
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

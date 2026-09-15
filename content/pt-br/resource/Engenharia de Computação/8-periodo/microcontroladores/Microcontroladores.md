@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Microcontroladores"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,51 +37,51 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Principais Características**
-> 	- [ ] Histórico dos Microcontroladores e Microprocessadores
-> 	- [ ] Dispositivos Comerciais Disponíveis
-> - [ ] **2. Tipos de Arquiteturas**
-> 	- [ ] Arquiteturas Harvard e Von Neuman
-> 	- [ ] Estrutura Interna de uma CPU
-> 	- [ ] Ciclos de Máquina
-> - [ ] **3. Memórias Internas**
-> 	- [ ] Tipos de Memórias: Flash, RAM, ROM
-> 	- [ ] Modos de Acesso
-> 	- [ ] Ciclos de Escrita e Leitura
-> - [ ] **4. Registradores**
-> - [ ] **5. Modos de Endereçamento**
-> 	- [ ] Direto
-> 	- [ ] Indireto
-> 	- [ ] Relativo
-> 	- [ ] Absoluto
-> 	- [ ] Longo
-> 	- [ ] Indexado
-> - [ ] **6. Instruções**
-> 	- [ ] Conjunto de Instruções
-> 	- [ ] Instruções Lógicas
-> 	- [ ] Aritméticas
-> 	- [ ] Transferência de Dados
-> 	- [ ] Booleanas
-> 	- [ ] Condicionais
-> 	- [ ] Especiais
-> - [ ] **7. Compiladores e Ferramentas de Desenvolvimento**
-> - [ ] **8. Sistema de Interrupções**
-> - [ ] **9. Dispositivos de Entrada/Saída**
-> 	- [ ] Métodos de Interfaceamento
-> 	- [ ] I/O Mapeado em Memória
-> 	- [ ] Drives de Potência
-> 	- [ ] Interfaceamento com LCD, Display de 7 Segmentos e Teclas
-> 	- [ ] Acionamentos de Motores DC, Passo e Servo-Motores
-> - [ ] **10. Conversores A/D e D/A**
-> - [ ] **11. Dispositivos Periféricos**
-> 	- [ ] Temporizadores/Contadores
-> 	- [ ] Interface de Comunicação Serial
-> 	- [ ] Dispositivos Externos:
-> 		- [ ] i. Memórias Seriais
-> 		- [ ] ii. Potenciômetros Digitais
-> 		- [ ] iii. Relógio de Tempo Real
-> 		- [ ] iv. Sensores
-> 		- [ ] v. Outros Dispositivos
+> - **1. Principais Características**
+> 	- Histórico dos Microcontroladores e Microprocessadores
+> 	- Dispositivos Comerciais Disponíveis
+> - **2. Tipos de Arquiteturas**
+> 	- Arquiteturas Harvard e Von Neuman
+> 	- Estrutura Interna de uma CPU
+> 	- Ciclos de Máquina
+> - **3. Memórias Internas**
+> 	- Tipos de Memórias: Flash, RAM, ROM
+> 	- Modos de Acesso
+> 	- Ciclos de Escrita e Leitura
+> - **4. Registradores**
+> - **5. Modos de Endereçamento**
+> 	- Direto
+> 	- Indireto
+> 	- Relativo
+> 	- Absoluto
+> 	- Longo
+> 	- Indexado
+> - **6. Instruções**
+> 	- Conjunto de Instruções
+> 	- Instruções Lógicas
+> 	- Aritméticas
+> 	- Transferência de Dados
+> 	- Booleanas
+> 	- Condicionais
+> 	- Especiais
+> - **7. Compiladores e Ferramentas de Desenvolvimento**
+> - **8. Sistema de Interrupções**
+> - **9. Dispositivos de Entrada/Saída**
+> 	- Métodos de Interfaceamento
+> 	- I/O Mapeado em Memória
+> 	- Drives de Potência
+> 	- Interfaceamento com LCD, Display de 7 Segmentos e Teclas
+> 	- Acionamentos de Motores DC, Passo e Servo-Motores
+> - **10. Conversores A/D e D/A**
+> - **11. Dispositivos Periféricos**
+> 	- Temporizadores/Contadores
+> 	- Interface de Comunicação Serial
+> 	- Dispositivos Externos:
+> 		- i. Memórias Seriais
+> 		- ii. Potenciômetros Digitais
+> 		- iii. Relógio de Tempo Real
+> 		- iv. Sensores
+> 		- v. Outros Dispositivos
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

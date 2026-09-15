@@ -2,14 +2,14 @@
 publish: true
 title: "Aula 01 - Introdução"
 created: 2026-08-26 14:49
-modified: 2026-09-14 11:39
+modified: 2026-09-14 20:12
 encrypted: true
+password: "eng232"
 tags:
   - aula
+  - aula-01
   - engenharia-de-computacao
   - anotacoes-de-quadro
-discipline: Programação Orientada a Objetos I
-professor: Anderson Veiga
 cssclasses:
   - page-layout
 ---

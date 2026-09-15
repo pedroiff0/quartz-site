@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Pesquisa Operacional I"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,33 +36,33 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Introdução à Pesquisa Operacional**
-> 	- [ ] Definição de Pesquisa Operacional
-> 	- [ ] Metodologia da Pesquisa Operacional
-> 	- [ ] Programação Matemática
-> 	- [ ] Classificação dos Problemas de Programação Matemática
-> - [ ] **2. Programação Linear (PL)**
-> 	- [ ] Modelagem em PL
-> 	- [ ] Manipulação de Problemas de PL
-> 	- [ ] Formulação Canônica e Padrão
-> 	- [ ] Representação Geométrica de um Problema de PL
-> - [ ] **3. Método Simplex**
-> 	- [ ] Fundamentos Teóricos do Método Simplex
-> 	- [ ] O Algoritmo Simplex
-> 	- [ ] Casos Especiais para o Simplex
-> 	- [ ] Adaptação de Outras Formas de Modelo
-> 	- [ ] Dificuldades Computacionais
-> - [ ] **4. Dualidade e Análise de Sensibilidade**
-> 	- [ ] Forma Simétrica
-> 	- [ ] Interpretação Econômica
-> 	- [ ] Teoria de Folgas Complementares
-> 	- [ ] Aplicações Computacionais
-> - [ ] **5. Otimização de Redes**
-> 	- [ ] Modelos de Redes
-> 	- [ ] Problemas de Transporte
-> 	- [ ] O Problema da Designação
-> 	- [ ] O Problema do Transbordo
-> 	- [ ] Modelos Determinístico de Estoque
+> - **1. Introdução à Pesquisa Operacional**
+> 	- Definição de Pesquisa Operacional
+> 	- Metodologia da Pesquisa Operacional
+> 	- Programação Matemática
+> 	- Classificação dos Problemas de Programação Matemática
+> - **2. Programação Linear (PL)**
+> 	- Modelagem em PL
+> 	- Manipulação de Problemas de PL
+> 	- Formulação Canônica e Padrão
+> 	- Representação Geométrica de um Problema de PL
+> - **3. Método Simplex**
+> 	- Fundamentos Teóricos do Método Simplex
+> 	- O Algoritmo Simplex
+> 	- Casos Especiais para o Simplex
+> 	- Adaptação de Outras Formas de Modelo
+> 	- Dificuldades Computacionais
+> - **4. Dualidade e Análise de Sensibilidade**
+> 	- Forma Simétrica
+> 	- Interpretação Econômica
+> 	- Teoria de Folgas Complementares
+> 	- Aplicações Computacionais
+> - **5. Otimização de Redes**
+> 	- Modelos de Redes
+> 	- Problemas de Transporte
+> 	- O Problema da Designação
+> 	- O Problema do Transbordo
+> 	- Modelos Determinístico de Estoque
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

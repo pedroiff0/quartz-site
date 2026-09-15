@@ -1,11 +1,16 @@
 ---
 aliases:
   - index
-
 publish: true
-title: "Anotações"
+title: "Anotações — Calculo Numerico"
 created: 2026-08-24 21:03
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
+encrypted: true
+password: "eng232"
+tags:
+  - disciplina
+  - anotacao
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - cards

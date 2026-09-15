@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Paradigmas de Linguagem de Programação"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,44 +36,44 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Visão Geral de Linguagens de Programação**
-> 	- [ ] Conceito e Paradigmas
-> 	- [ ] Sintaxe Semântica
-> 	- [ ] Compiladores e Interpretadores
-> - [ ] **2. Valores e Tipos**
-> 	- [ ] Valores e Tipos
-> 	- [ ] Tipos Primitivos
-> 	- [ ] Tipos Compostos
-> 	- [ ] Tipos Recursivos
-> 	- [ ] Sistemas de Tipos
-> 	- [ ] Expressões
-> - [ ] **3. Armazenamento**
-> 	- [ ] Variáveis e Constantes
-> 	- [ ] Variáveis Compostas
-> 	- [ ] Tempo de Vida de Variáveis
-> 	- [ ] Ponteiros
-> 	- [ ] Comandos
-> 	- [ ] Expressões com Efeitos Colaterais
-> - [ ] **4. Abstração Procedural**
-> 	- [ ] Tipos de Abstração
-> 	- [ ] Parâmetros e Argumentos
-> 	- [ ] Ordem de Avaliação
-> - [ ] **5. Abstração de Dados**
-> 	- [ ] Pacotes
-> 	- [ ] Encapsulamento
-> 	- [ ] Tipo Abstrato de Dados
-> 	- [ ] Objetos e Classes
-> - [ ] **6. Fluxo de Controle**
-> 	- [ ] Sequenciadores
-> 	- [ ] Jumps
-> 	- [ ] Scapes
-> 	- [ ] Exceções
-> - [ ] **7. Paradigmas de Programação**
-> 	- [ ] Programação Imperativa
-> 	- [ ] Programação Orientada a Objetos
-> 	- [ ] Programação Funcional
-> 	- [ ] Programação Lógico
-> 	- [ ] Paradigmas híbridos
+> - **1. Visão Geral de Linguagens de Programação**
+> 	- Conceito e Paradigmas
+> 	- Sintaxe Semântica
+> 	- Compiladores e Interpretadores
+> - **2. Valores e Tipos**
+> 	- Valores e Tipos
+> 	- Tipos Primitivos
+> 	- Tipos Compostos
+> 	- Tipos Recursivos
+> 	- Sistemas de Tipos
+> 	- Expressões
+> - **3. Armazenamento**
+> 	- Variáveis e Constantes
+> 	- Variáveis Compostas
+> 	- Tempo de Vida de Variáveis
+> 	- Ponteiros
+> 	- Comandos
+> 	- Expressões com Efeitos Colaterais
+> - **4. Abstração Procedural**
+> 	- Tipos de Abstração
+> 	- Parâmetros e Argumentos
+> 	- Ordem de Avaliação
+> - **5. Abstração de Dados**
+> 	- Pacotes
+> 	- Encapsulamento
+> 	- Tipo Abstrato de Dados
+> 	- Objetos e Classes
+> - **6. Fluxo de Controle**
+> 	- Sequenciadores
+> 	- Jumps
+> 	- Scapes
+> 	- Exceções
+> - **7. Paradigmas de Programação**
+> 	- Programação Imperativa
+> 	- Programação Orientada a Objetos
+> 	- Programação Funcional
+> 	- Programação Lógico
+> 	- Paradigmas híbridos
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

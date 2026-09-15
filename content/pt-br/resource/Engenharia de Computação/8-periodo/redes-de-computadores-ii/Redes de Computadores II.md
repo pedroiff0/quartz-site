@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Redes de Computadores II"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,17 +36,17 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Roteadores e suas Tecnologias**
-> - [ ] **2. Conceitos de Roteamento**
-> - [ ] **3. Roteamento Estático**
-> - [ ] **4. Roteamento Dinâmico**
-> - [ ] **5. Redes com Switches**
-> - [ ] **6. Configuração de Switch**
-> - [ ] **7. VLANs**
-> - [ ] **8. Listas de Controle de Acesso**
-> - [ ] **9. DHCP**
-> - [ ] **10. NAT para IPv4**
-> - [ ] **11. Descoberta, Gerenciamento e Manutenção de Dispositivos**
+> - **1. Roteadores e suas Tecnologias**
+> - **2. Conceitos de Roteamento**
+> - **3. Roteamento Estático**
+> - **4. Roteamento Dinâmico**
+> - **5. Redes com Switches**
+> - **6. Configuração de Switch**
+> - **7. VLANs**
+> - **8. Listas de Controle de Acesso**
+> - **9. DHCP**
+> - **10. NAT para IPv4**
+> - **11. Descoberta, Gerenciamento e Manutenção de Dispositivos**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

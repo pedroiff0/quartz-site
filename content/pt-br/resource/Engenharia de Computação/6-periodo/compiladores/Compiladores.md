@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Compiladores"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -38,45 +38,45 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Compiladores e Interpretadores**
-> 	- [ ] Definições Básicas de Compiladores e Interpretadores
-> 	- [ ] Etapas de Tradução de Programas
-> - [ ] **2. Análise Léxica e Sintática**
-> 	- [ ] Tradução Simples Dirigida por Sintaxe
-> 	- [ ] Reconhecimento de Tokens
-> 	- [ ] Gerador de analisador léxico
-> 	- [ ] Expressões regulares e autômatos
-> 	- [ ] Gramática livre de contexto
-> 	- [ ] Análise sintática descendente e ascendente
-> 	- [ ] Análise LR
-> 	- [ ] Gerador de analisador sintático
-> - [ ] **3. Tabelas de Símbolo**
-> 	- [ ] Estrutura
-> 	- [ ] Atributos
-> 	- [ ] Gerenciamento da Tabela de Símbolos
-> 	- [ ] Técnicas de Implementação de Tabelas de Símbolos
-> - [ ] **4. Análise Semântica**
-> 	- [ ] Tipos de Dados e Verificação de Tipos
-> 	- [ ] Analisador Semântico
-> - [ ] **5. Recuperação de Erro**
-> 	- [ ] Recuperação de Erros na Análise LL
-> 	- [ ] Recuperação de Erros na Análise de Precedência de Operadores
-> 	- [ ] Recuperação de Erros na Análise
-> - [ ] **6. Geração de Código**
-> 	- [ ] Geração de Código Intermediário
-> 	- [ ] Variantes das árvores de Sintaxe
-> 	- [ ] Código de Três Endereços
-> 	- [ ] Verificação de Tipo
-> 	- [ ] Fluxo de Controle
-> - [ ] **7. Otimização**
-> 	- [ ] Otimização de Código
-> 	- [ ] Otimização de Código Intermediário
-> 	- [ ] Otimização de Código para Expressões Aritméticas
-> 	- [ ] Análise de Fluxos
-> - [ ] **8. Ambiente de Tempo de Execução**
-> 	- [ ] Organização de memória
-> 	- [ ] Alocação de espaço de pilha
-> 	- [ ] Coleta de lixo
+> - **1. Compiladores e Interpretadores**
+> 	- Definições Básicas de Compiladores e Interpretadores
+> 	- Etapas de Tradução de Programas
+> - **2. Análise Léxica e Sintática**
+> 	- Tradução Simples Dirigida por Sintaxe
+> 	- Reconhecimento de Tokens
+> 	- Gerador de analisador léxico
+> 	- Expressões regulares e autômatos
+> 	- Gramática livre de contexto
+> 	- Análise sintática descendente e ascendente
+> 	- Análise LR
+> 	- Gerador de analisador sintático
+> - **3. Tabelas de Símbolo**
+> 	- Estrutura
+> 	- Atributos
+> 	- Gerenciamento da Tabela de Símbolos
+> 	- Técnicas de Implementação de Tabelas de Símbolos
+> - **4. Análise Semântica**
+> 	- Tipos de Dados e Verificação de Tipos
+> 	- Analisador Semântico
+> - **5. Recuperação de Erro**
+> 	- Recuperação de Erros na Análise LL
+> 	- Recuperação de Erros na Análise de Precedência de Operadores
+> 	- Recuperação de Erros na Análise
+> - **6. Geração de Código**
+> 	- Geração de Código Intermediário
+> 	- Variantes das árvores de Sintaxe
+> 	- Código de Três Endereços
+> 	- Verificação de Tipo
+> 	- Fluxo de Controle
+> - **7. Otimização**
+> 	- Otimização de Código
+> 	- Otimização de Código Intermediário
+> 	- Otimização de Código para Expressões Aritméticas
+> 	- Análise de Fluxos
+> - **8. Ambiente de Tempo de Execução**
+> 	- Organização de memória
+> 	- Alocação de espaço de pilha
+> 	- Coleta de lixo
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

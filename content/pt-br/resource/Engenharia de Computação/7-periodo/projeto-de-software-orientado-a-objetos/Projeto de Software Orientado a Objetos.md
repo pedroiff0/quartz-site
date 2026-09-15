@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Projeto de Software Orientado a Objetos"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,39 +36,39 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Princípios de Projeto Orientado a Objetos**
-> 	- [ ] Single Responsibility Principle
-> 	- [ ] Open/Closed Principle
-> 	- [ ] Liskov Substitution Principle
-> 	- [ ] Interface Segregation Principle
-> 	- [ ] Dependency Inversion Principle
-> - [ ] **2. Padrões de Projeto**
-> 	- [ ] Padrões de Criação
-> 		- [ ] i. Abstract Factory
-> 		- [ ] ii. Builder
-> 		- [ ] iii. Factory Method
-> 		- [ ] iv. Prototype
-> 		- [ ] v. Singleton
-> 	- [ ] Padrões Estruturais
-> 		- [ ] i. Adapter
-> 		- [ ] ii. Bridge
-> 		- [ ] iii. Composite
-> 		- [ ] iv. Decorator
-> 		- [ ] v. Façade
-> 		- [ ] vi. Flyweight
-> 		- [ ] vii. Proxy
-> 	- [ ] Padrões Comportamentais
-> 		- [ ] i. Chain of Responsability
-> 		- [ ] ii. Command
-> 		- [ ] iii. Interpreter
-> 		- [ ] iv. Iterator
-> 		- [ ] v. Mediator
-> 		- [ ] vi. Memento
-> 		- [ ] vii. Observer
-> 		- [ ] viii. State
-> 		- [ ] ix. Strategy
-> 		- [ ] x. Template Method
-> 	- [ ] xi. Visitor
+> - **1. Princípios de Projeto Orientado a Objetos**
+> 	- Single Responsibility Principle
+> 	- Open/Closed Principle
+> 	- Liskov Substitution Principle
+> 	- Interface Segregation Principle
+> 	- Dependency Inversion Principle
+> - **2. Padrões de Projeto**
+> 	- Padrões de Criação
+> 		- i. Abstract Factory
+> 		- ii. Builder
+> 		- iii. Factory Method
+> 		- iv. Prototype
+> 		- v. Singleton
+> 	- Padrões Estruturais
+> 		- i. Adapter
+> 		- ii. Bridge
+> 		- iii. Composite
+> 		- iv. Decorator
+> 		- v. Façade
+> 		- vi. Flyweight
+> 		- vii. Proxy
+> 	- Padrões Comportamentais
+> 		- i. Chain of Responsability
+> 		- ii. Command
+> 		- iii. Interpreter
+> 		- iv. Iterator
+> 		- v. Mediator
+> 		- vi. Memento
+> 		- vii. Observer
+> 		- viii. State
+> 		- ix. Strategy
+> 		- x. Template Method
+> 	- xi. Visitor
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

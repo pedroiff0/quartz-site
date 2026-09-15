@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Algoritmos Distribuídos"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,27 +37,27 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Introdução à Computação Paralela e Distribuída**
-> 	- [ ] Histórico
-> 	- [ ] Paralelismo e Concorrência
-> 	- [ ] Computação Paralela e Distribuída
-> 	- [ ] Tendências
-> - [ ] **2. Arquiteturas Paralelas**
-> 	- [ ] Taxonomia de Flynn
-> 	- [ ] Níveis de Paralelismo
-> 	- [ ] Hierarquia de Memória e Caching
-> 	- [ ] Corretude de Programas Concorrentes
-> 	- [ ] Propriedades
-> 	- [ ] Interferência entre processos concorrentes
-> 	- [ ] Não Determinismo
-> - [ ] **3. Modelos, Ferramentas e Ambientes de Computação Paralela e Distribuída**
-> 	- [ ] Modelos de Programação Paralela
-> 	- [ ] OpenMP, MPI, CUDA e OpenACC
-> - [ ] **4. Tópicos Emergentes em Computação Paralela e Distribuída**
-> 	- [ ] Projeto de Paralelização
-> 	- [ ] Padrões de Projeto para Programação Paralela
-> 	- [ ] Técnicas Básicas de Otimização
-> 	- [ ] Algoritmos Paralelos para Problemas de Busca, Ordenação e Grafos
+> - **1. Introdução à Computação Paralela e Distribuída**
+> 	- Histórico
+> 	- Paralelismo e Concorrência
+> 	- Computação Paralela e Distribuída
+> 	- Tendências
+> - **2. Arquiteturas Paralelas**
+> 	- Taxonomia de Flynn
+> 	- Níveis de Paralelismo
+> 	- Hierarquia de Memória e Caching
+> 	- Corretude de Programas Concorrentes
+> 	- Propriedades
+> 	- Interferência entre processos concorrentes
+> 	- Não Determinismo
+> - **3. Modelos, Ferramentas e Ambientes de Computação Paralela e Distribuída**
+> 	- Modelos de Programação Paralela
+> 	- OpenMP, MPI, CUDA e OpenACC
+> - **4. Tópicos Emergentes em Computação Paralela e Distribuída**
+> 	- Projeto de Paralelização
+> 	- Padrões de Projeto para Programação Paralela
+> 	- Técnicas Básicas de Otimização
+> 	- Algoritmos Paralelos para Problemas de Busca, Ordenação e Grafos
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

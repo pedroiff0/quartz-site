@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Eletrônica Digital"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -56,15 +56,15 @@ cssclasses:
 > 	- [x] Mintermos e Maxtermos [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
 > 	- [x] Simplificação de Equações e Circuitos Lógicos [[Aula 02 - Mapas de Karnough]]
 > 	- [x] Mapas de Karnaugh [[Aula 02 - Mapas de Karnough]]
-> - [ ] **3. Circuitos Combinacionais**
-> 	- [ ] Multiplexadores
-> 	- [ ] Demultiplexadores
-> 	- [ ] Codificadores
-> 	- [ ] Decodificadores
-> 	- [ ] Conversores de Código
-> 	- [ ] Circuitos Aritméticos
-> 	- [ ] Latches
-> 	- [ ] Flip-Flops
+> - **3. Circuitos Combinacionais**
+> 	- Multiplexadores
+> 	- Demultiplexadores
+> 	- Codificadores
+> 	- Decodificadores
+> 	- Conversores de Código
+> 	- Circuitos Aritméticos
+> 	- Latches
+> 	- Flip-Flops
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

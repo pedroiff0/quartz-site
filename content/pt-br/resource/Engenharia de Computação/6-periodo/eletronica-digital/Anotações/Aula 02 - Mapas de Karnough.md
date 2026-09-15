@@ -1,25 +1,17 @@
 ---
 publish: true
-title: Aula 02 - Mapas de Karnough
-subtitle: ""
+title: "Aula 02 - Mapas de Karnough"
 created: 2026-08-31 17:02
-modified: 2026-09-14 11:39
-discipline: Eletrônica Digital
-period: 6-periodo
-professor: Fabrício Barros Gonçalves
+modified: 2026-09-14 20:12
 encrypted: true
-password: eng232
-slides_aula: ""
-roteiro_aula: ""
-anexos: ""
+password: "eng232"
 tags:
   - aula
+  - aula-02
   - engenharia-de-computacao
-  - anotacao
+  - anotacoes-de-quadro
 cssclasses:
   - page-layout
-  - center-titles
-  - center-images
 ---
 
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
@@ -38,7 +30,7 @@ cssclasses:
 > - **Status das Anotações:** 
 >   - [x] 🟡 Planejando 
 >   - [x] 🟠 Em Andamento 
->   - [ ] 🟢 Concluído
+>   - [x] 🟢 Concluído
 
 ## 📂 Materiais & Recursos Didáticos da Aula
 

@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Segurança e Higiene do Trabalho"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,39 +37,39 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Introdução à Segurança no Trabalho**
-> - [ ] **2. Comissão Interna de Prevenção de Acidentes – CIPA (NR-5)**
-> - [ ] **3. Equipamento de Proteção Individual (NR-6)**
-> - [ ] **4. Programa de Controle Médico de Saúde Ocupacional – PCMSO (NR-7)**
-> - [ ] **5. Programa de Prevenção de Riscos Ambientais – PPRA (NR-9)**
-> 	- [ ] Definição
-> 	- [ ] Do objeto e campo de aplicação
-> 	- [ ] Agentes
-> - [ ] **6. Segurança em Instalações e Serviços em Eletricidade (NR-10)**
-> 	- [ ] Objetivo
-> 	- [ ] Tipos e características de trabalhos em instalações elétricas
-> 	- [ ] Campo de Aplicação
-> 	- [ ] Riscos Elétricos
-> 	- [ ] Medidas de Controle
-> 	- [ ] Medidas de Proteção Coletiva (continuação)
-> 	- [ ] Prontuário de Instalações Elétricas
-> 	- [ ] Critérios mínimos a serem atendidos por profissionais que, direta ou indiretamente, atuem em instalações elétricas.
-> 	- [ ] Treinamento
-> - [ ] **7. Atividades e operações insalubres (NR-15)**
-> 	- [ ] Definição
-> 	- [ ] Agentes Qualitativos e Quantitativos
-> 	- [ ] Limites de Tolerância
-> 	- [ ] Adicional de Insalubridade
-> 	- [ ] Anexos da NR 15
-> 	- [ ] Graus de Insalubridade
-> - [ ] **8. Atividades e Operações Perigosas (NR-16)**
-> 	- [ ] Definição
-> 	- [ ] Adicional de Periculosidade
-> 	- [ ] Anexos da NR 16
-> - [ ] **9. Proteção Contra Incêndio (NR23)**
-> 	- [ ] Conceitos Básicos de Incêndio
-> 	- [ ] Classe de Incêndio
-> 	- [ ] Agentes e tipos de Extintores
+> - **1. Introdução à Segurança no Trabalho**
+> - **2. Comissão Interna de Prevenção de Acidentes – CIPA (NR-5)**
+> - **3. Equipamento de Proteção Individual (NR-6)**
+> - **4. Programa de Controle Médico de Saúde Ocupacional – PCMSO (NR-7)**
+> - **5. Programa de Prevenção de Riscos Ambientais – PPRA (NR-9)**
+> 	- Definição
+> 	- Do objeto e campo de aplicação
+> 	- Agentes
+> - **6. Segurança em Instalações e Serviços em Eletricidade (NR-10)**
+> 	- Objetivo
+> 	- Tipos e características de trabalhos em instalações elétricas
+> 	- Campo de Aplicação
+> 	- Riscos Elétricos
+> 	- Medidas de Controle
+> 	- Medidas de Proteção Coletiva (continuação)
+> 	- Prontuário de Instalações Elétricas
+> 	- Critérios mínimos a serem atendidos por profissionais que, direta ou indiretamente, atuem em instalações elétricas.
+> 	- Treinamento
+> - **7. Atividades e operações insalubres (NR-15)**
+> 	- Definição
+> 	- Agentes Qualitativos e Quantitativos
+> 	- Limites de Tolerância
+> 	- Adicional de Insalubridade
+> 	- Anexos da NR 15
+> 	- Graus de Insalubridade
+> - **8. Atividades e Operações Perigosas (NR-16)**
+> 	- Definição
+> 	- Adicional de Periculosidade
+> 	- Anexos da NR 16
+> - **9. Proteção Contra Incêndio (NR23)**
+> 	- Conceitos Básicos de Incêndio
+> 	- Classe de Incêndio
+> 	- Agentes e tipos de Extintores
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Sistemas Embarcados"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,27 +37,27 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Sistemas de Tempo Real**
-> 	- [ ] Caracterização de Sistemas Embarcados Operando em Tempo Real;
-> - [ ] **2. Sistemas Embarcados: Modelagem, Projeto e Implementação**
-> 	- [ ] Processo de Desenvolvimento de Sistemas Embarcados
-> 	- [ ] Modelagem e Projeto de Sistemas Embarcados Através de Statecharts
-> 	- [ ] Estrutura de Implementação de Sistemas Embarcados
-> - [ ] **3. Programação Concorrente**
-> 	- [ ] Conceituação de Concorrência
-> 	- [ ] Problema de Exclusão Mútua
-> 	- [ ] Comunicação e Sincronização em Memória Compartilhada
-> 	- [ ] Comunicação e Sincronização via Troca de Mensagens
-> - [ ] **4. Núcleos Operacionais**
-> 	- [ ] Conceituação de Núcleos Operacionais
-> 	- [ ] Funcionalidades de Núcleos Operacionais
-> - [ ] **5. Escalonamento**
-> 	- [ ] Conceituação
-> 	- [ ] Objetivos
-> 	- [ ] Escalonadores Canônicos
-> 	- [ ] Escalonamento por Prioridades
-> 	- [ ] Escalonamento em Taxa Monotônica
-> 	- [ ] Modelagem Matemática de Escalonadores
+> - **1. Sistemas de Tempo Real**
+> 	- Caracterização de Sistemas Embarcados Operando em Tempo Real;
+> - **2. Sistemas Embarcados: Modelagem, Projeto e Implementação**
+> 	- Processo de Desenvolvimento de Sistemas Embarcados
+> 	- Modelagem e Projeto de Sistemas Embarcados Através de Statecharts
+> 	- Estrutura de Implementação de Sistemas Embarcados
+> - **3. Programação Concorrente**
+> 	- Conceituação de Concorrência
+> 	- Problema de Exclusão Mútua
+> 	- Comunicação e Sincronização em Memória Compartilhada
+> 	- Comunicação e Sincronização via Troca de Mensagens
+> - **4. Núcleos Operacionais**
+> 	- Conceituação de Núcleos Operacionais
+> 	- Funcionalidades de Núcleos Operacionais
+> - **5. Escalonamento**
+> 	- Conceituação
+> 	- Objetivos
+> 	- Escalonadores Canônicos
+> 	- Escalonamento por Prioridades
+> 	- Escalonamento em Taxa Monotônica
+> 	- Modelagem Matemática de Escalonadores
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

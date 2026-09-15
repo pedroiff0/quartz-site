@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Computação Paralela e Distribuída"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,35 +36,35 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Sistemas de Trocas de Mensagens**
-> - [ ] **2. Processadores de Comunicação**
-> - [ ] **3. Alocação de Processadores**
-> - [ ] **4. Modelos Síncrono e Assíncrono de Computação**
-> - [ ] **5. Computações em Sistemas Anônimos**
-> 	- [ ] Limitações Intrínsecas
-> 	- [ ] Noções de conhecimento em sistemas distribuídos
-> - [ ] **6. Modelos de Computação**
-> 	- [ ] Eventos, ordem e estados globais
-> 	- [ ] A complexidade de computações distribuídas
-> - [ ] **7. Algoritmos Básicos**
-> 	- [ ] Propagação de Informação
-> 	- [ ] Algoritmos simples sobre grafos
-> 		- [ ] i. Teste de conectividade
-> 		- [ ] ii. Distâncias mais curtas
-> - [ ] **8. Técnicas Básicas**
-> 	- [ ] Eleição de líder
-> 	- [ ] Gravação de estados globais
-> 	- [ ] Sincronização de redes
-> - [ ] **9. Introdução à Alto-Estabilização**
-> 	- [ ] Detecção de Terminação
-> 	- [ ] Detecção de Deadlocks
-> - [ ] **10. Outros Algoritmos sobre Grafos**
-> 	- [ ] Árvores geradoras mínimas
-> 	- [ ] Fluxos em redes
-> - [ ] **11. Compartilhamento de Recursos**
-> 	- [ ] Algoritmos de exclusão mútua
-> 	- [ ] Dinning Philosopers
-> 	- [ ] Drinking Philosopers
+> - **1. Sistemas de Trocas de Mensagens**
+> - **2. Processadores de Comunicação**
+> - **3. Alocação de Processadores**
+> - **4. Modelos Síncrono e Assíncrono de Computação**
+> - **5. Computações em Sistemas Anônimos**
+> 	- Limitações Intrínsecas
+> 	- Noções de conhecimento em sistemas distribuídos
+> - **6. Modelos de Computação**
+> 	- Eventos, ordem e estados globais
+> 	- A complexidade de computações distribuídas
+> - **7. Algoritmos Básicos**
+> 	- Propagação de Informação
+> 	- Algoritmos simples sobre grafos
+> 		- i. Teste de conectividade
+> 		- ii. Distâncias mais curtas
+> - **8. Técnicas Básicas**
+> 	- Eleição de líder
+> 	- Gravação de estados globais
+> 	- Sincronização de redes
+> - **9. Introdução à Alto-Estabilização**
+> 	- Detecção de Terminação
+> 	- Detecção de Deadlocks
+> - **10. Outros Algoritmos sobre Grafos**
+> 	- Árvores geradoras mínimas
+> 	- Fluxos em redes
+> - **11. Compartilhamento de Recursos**
+> 	- Algoritmos de exclusão mútua
+> 	- Dinning Philosopers
+> 	- Drinking Philosopers
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

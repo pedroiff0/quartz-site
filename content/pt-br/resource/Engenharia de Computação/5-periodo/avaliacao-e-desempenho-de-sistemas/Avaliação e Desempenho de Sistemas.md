@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Avaliação e Desempenho de Sistemas"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,23 +36,23 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Visão Geral**
-> 	- [ ] Motivação
-> 	- [ ] Técnicas de Avaliação de Desempenho
-> 	- [ ] Metodologia Geral para Estudo de Modelagem
-> - [ ] **2. Modelos Determinísticos de Desempenho**
-> 	- [ ] Leis Fundamentais
-> 	- [ ] Lei de Litle
-> 	- [ ] Leis Operacionais
-> 	- [ ] Limites Assintóticos
-> 	- [ ] Análise do Valor Médio
-> - [ ] **3. Introdução a Modelos Probabilísticos de Desempenho**
-> 	- [ ] Filas M/M/1
-> - [ ] **4. Modelos de Carga**
-> 	- [ ] Caracterização de Cargas
-> 	- [ ] Benchmarking
-> 	- [ ] Modelos de Comportamento de Usuários
-> 	- [ ] Planejamento e Gerenciamento de Capacidade
+> - **1. Visão Geral**
+> 	- Motivação
+> 	- Técnicas de Avaliação de Desempenho
+> 	- Metodologia Geral para Estudo de Modelagem
+> - **2. Modelos Determinísticos de Desempenho**
+> 	- Leis Fundamentais
+> 	- Lei de Litle
+> 	- Leis Operacionais
+> 	- Limites Assintóticos
+> 	- Análise do Valor Médio
+> - **3. Introdução a Modelos Probabilísticos de Desempenho**
+> 	- Filas M/M/1
+> - **4. Modelos de Carga**
+> 	- Caracterização de Cargas
+> 	- Benchmarking
+> 	- Modelos de Comportamento de Usuários
+> 	- Planejamento e Gerenciamento de Capacidade
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Linguagens Formais e Autômatos"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -38,21 +38,21 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Linguagens Regulares**
-> - [ ] **2. Linguagens Livres de Contexto**
-> - [ ] **3. Linguagens Sensíveis ao Contexto**
-> - [ ] **4. Autômatos**
-> 	- [ ] Autômato Finito
-> 	- [ ] Autômato Determinístico
-> 	- [ ] Autômato Não-Determinístico
-> 	- [ ] Autômato de Pilha
-> - [ ] **5. Máquina de Turing**
-> 	- [ ] Definição do Modelo Computacional de Máquina de Estados e da Máquina de Turing
-> 	- [ ] Variações e Extensões da Máquina de Turing
-> 	- [ ] Aplicações da Máquina de Turing
-> - [ ] **6. Computabilidade**
-> - [ ] **7. Noções de Cálculo-Lambda**
-> - [ ] **8. Funções Recursivas**
+> - **1. Linguagens Regulares**
+> - **2. Linguagens Livres de Contexto**
+> - **3. Linguagens Sensíveis ao Contexto**
+> - **4. Autômatos**
+> 	- Autômato Finito
+> 	- Autômato Determinístico
+> 	- Autômato Não-Determinístico
+> 	- Autômato de Pilha
+> - **5. Máquina de Turing**
+> 	- Definição do Modelo Computacional de Máquina de Estados e da Máquina de Turing
+> 	- Variações e Extensões da Máquina de Turing
+> 	- Aplicações da Máquina de Turing
+> - **6. Computabilidade**
+> - **7. Noções de Cálculo-Lambda**
+> - **8. Funções Recursivas**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

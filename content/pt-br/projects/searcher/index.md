@@ -2,7 +2,7 @@
 publish: true
 title: arXiv Searcher
 created: 2026-03-13 13:04
-modified: 2026-09-14 11:55
+modified: 2026-09-14 20:13
 published: 2026-07-26T10:03:17.536-03:00
 tags:
   - automacao

@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Ciências do Ambiente"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,32 +36,32 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Conceitos Básicos**
-> 	- [ ] A crise ambiental
-> 	- [ ] Recursos Naturais
-> 	- [ ] Poluição
-> - [ ] **2. Ecossistemas**
-> 	- [ ] Definição e estrutura
-> 	- [ ] Reciclagem de matéria e fluxo de energia
-> 	- [ ] Cadeias alimentares
-> 	- [ ] Produtividade primária
-> 	- [ ] Sucessão ecológica
-> 	- [ ] Amplificação biológica
-> 	- [ ] Biomas
-> - [ ] **3. Ciclos Biogeoquímicos**
-> 	- [ ] O ciclo do carbono
-> 	- [ ] O ciclo do nitrogênio
-> 	- [ ] O ciclo do fósforo
-> 	- [ ] O ciclo do enxofre
-> 	- [ ] O ciclo hidrológico
-> - [ ] **4. Poluição Ambiental**
-> 	- [ ] A energia e o meio ambiente
-> 	- [ ] O meio aquático
-> 	- [ ] O meio terrestre
-> 	- [ ] O meio atmosférico
-> - [ ] **5. Desenvolvimento Sustentável**
-> 	- [ ] Economia e Meio ambiente
-> 	- [ ] Avaliação de impactos ambientais
+> - **1. Conceitos Básicos**
+> 	- A crise ambiental
+> 	- Recursos Naturais
+> 	- Poluição
+> - **2. Ecossistemas**
+> 	- Definição e estrutura
+> 	- Reciclagem de matéria e fluxo de energia
+> 	- Cadeias alimentares
+> 	- Produtividade primária
+> 	- Sucessão ecológica
+> 	- Amplificação biológica
+> 	- Biomas
+> - **3. Ciclos Biogeoquímicos**
+> 	- O ciclo do carbono
+> 	- O ciclo do nitrogênio
+> 	- O ciclo do fósforo
+> 	- O ciclo do enxofre
+> 	- O ciclo hidrológico
+> - **4. Poluição Ambiental**
+> 	- A energia e o meio ambiente
+> 	- O meio aquático
+> 	- O meio terrestre
+> 	- O meio atmosférico
+> - **5. Desenvolvimento Sustentável**
+> 	- Economia e Meio ambiente
+> 	- Avaliação de impactos ambientais
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

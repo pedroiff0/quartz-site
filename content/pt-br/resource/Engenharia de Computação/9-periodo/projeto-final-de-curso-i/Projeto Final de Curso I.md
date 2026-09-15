@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Projeto Final de Curso I"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,15 +36,15 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Metodologia de Planejamento;**
-> - [ ] **2. Orientação de Pesquisa Bibliográfica;**
-> - [ ] **3. Regras de Elaboração de Documentos Técnicos;**
-> - [ ] **4. Técnicas de Criatividade;**
-> - [ ] **5. Orientação sobre Preparação e Apresentação de Palestra;**
-> - [ ] **6. Técnicas de Subdivisão de Trabalho;**
-> - [ ] **7. Estabelecimento de Cronograma;**
-> - [ ] **8. Orçamento de Projeto;**
-> - [ ] **9. Desenvolvimento do Projeto de Fim de Curso.**
+> - **1. Metodologia de Planejamento;**
+> - **2. Orientação de Pesquisa Bibliográfica;**
+> - **3. Regras de Elaboração de Documentos Técnicos;**
+> - **4. Técnicas de Criatividade;**
+> - **5. Orientação sobre Preparação e Apresentação de Palestra;**
+> - **6. Técnicas de Subdivisão de Trabalho;**
+> - **7. Estabelecimento de Cronograma;**
+> - **8. Orçamento de Projeto;**
+> - **9. Desenvolvimento do Projeto de Fim de Curso.**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

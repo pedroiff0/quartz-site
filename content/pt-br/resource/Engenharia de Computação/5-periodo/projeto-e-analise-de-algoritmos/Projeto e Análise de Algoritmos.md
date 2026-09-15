@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Projeto e Análise de Algoritmos"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -38,38 +38,38 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Medidas de Complexidade**
-> - [ ] **2. Notação Assintótica**
-> - [ ] **3. Análise Assintótica de Limites de Complexidade**
-> - [ ] **4. Algoritmos de Força Bruta**
-> - [ ] **5. Algoritmos de Divisão e Conquista**
-> - [ ] **6. Algoritmos Gulosos**
-> - [ ] **7. Teoria dos Grafos**
-> 	- [ ] Conceitos Básicos
-> 	- [ ] Grafos e Digrafos
-> 	- [ ] Extensões de Grafos
-> 	- [ ] Planaridade
-> 	- [ ] Conectividade
-> 	- [ ] Conectividade de Nós e Grafos
-> 	- [ ] Árvores e Grafos
-> 	- [ ] Algoritmo de Conectividade
-> 	- [ ] Coloração
-> 	- [ ] Algoritmos de Coloração de Grafos
-> 	- [ ] Busca em Largura e Profundidade
-> 	- [ ] Algoritmos de Menor Caminho
-> 	- [ ] Algoritmo de Belman-Ford
-> 	- [ ] Algoritmo de Dijkstra
-> 	- [ ] Árvore Geradora
-> 	- [ ] Algoritmo de Kruskal
-> 	- [ ] Algoritmo de Prim
-> 	- [ ] Ordenação Topológica em Grafos
-> 	- [ ] Fluxo de Rede
-> 	- [ ] Algoritmo de Ford-Fulkerson
-> - [ ] **8. Classes de Problema**
-> 	- [ ] P
-> 	- [ ] NP
-> 	- [ ] NP-Completo
-> 	- [ ] NP-Difícil
+> - **1. Medidas de Complexidade**
+> - **2. Notação Assintótica**
+> - **3. Análise Assintótica de Limites de Complexidade**
+> - **4. Algoritmos de Força Bruta**
+> - **5. Algoritmos de Divisão e Conquista**
+> - **6. Algoritmos Gulosos**
+> - **7. Teoria dos Grafos**
+> 	- Conceitos Básicos
+> 	- Grafos e Digrafos
+> 	- Extensões de Grafos
+> 	- Planaridade
+> 	- Conectividade
+> 	- Conectividade de Nós e Grafos
+> 	- Árvores e Grafos
+> 	- Algoritmo de Conectividade
+> 	- Coloração
+> 	- Algoritmos de Coloração de Grafos
+> 	- Busca em Largura e Profundidade
+> 	- Algoritmos de Menor Caminho
+> 	- Algoritmo de Belman-Ford
+> 	- Algoritmo de Dijkstra
+> 	- Árvore Geradora
+> 	- Algoritmo de Kruskal
+> 	- Algoritmo de Prim
+> 	- Ordenação Topológica em Grafos
+> 	- Fluxo de Rede
+> 	- Algoritmo de Ford-Fulkerson
+> - **8. Classes de Problema**
+> 	- P
+> 	- NP
+> 	- NP-Completo
+> 	- NP-Difícil
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

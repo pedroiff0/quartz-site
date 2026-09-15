@@ -1,21 +1,15 @@
 ---
 publish: true
-title: Aula 01 - Apresentação SO
-subtitle: ""
+title: "Aula 01 - Apresentação SO"
 created: 2026-09-03 13:28
-modified: 2026-09-14 11:39
-discipline: Sistemas Operacionais I
-period: 7-periodo
-professor: Wesley Folly
+modified: 2026-09-14 20:12
 encrypted: true
-password: eng232
-slides_aula: ""
-roteiro_aula: ""
-anexos: ""
+password: "eng232"
 tags:
   - aula
+  - aula-01
   - engenharia-de-computacao
-  - anotacao
+  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---

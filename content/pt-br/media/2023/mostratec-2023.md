@@ -2,7 +2,7 @@
 publish: true
 title: MOSTRATEC 2023
 created: 2023-10-23 13:04
-modified: 2026-09-14 11:55
+modified: 2026-09-14 20:13
 published: 2026-07-26T10:13:26.021-03:00
 photoFolder: mostratec2023
 type: blog

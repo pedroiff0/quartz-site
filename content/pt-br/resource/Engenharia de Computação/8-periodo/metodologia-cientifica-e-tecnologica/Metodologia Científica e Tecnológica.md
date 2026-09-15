@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Metodologia Científica e Tecnológica"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -38,14 +38,14 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. As Explicações Teleológicas**
-> - [ ] **2. Iluminismo e a Razão – Descartes – Kant**
-> - [ ] **3. A Ciência**
-> - [ ] **4. O Método**
-> - [ ] **5. O Pensamento Cientifico Moderno**
-> - [ ] **6. A Pesquisa Científica**
-> - [ ] **7. O Registro da Pesquisa Científica**
-> - [ ] **8. Normas Técnicas**
+> - **1. As Explicações Teleológicas**
+> - **2. Iluminismo e a Razão – Descartes – Kant**
+> - **3. A Ciência**
+> - **4. O Método**
+> - **5. O Pensamento Cientifico Moderno**
+> - **6. A Pesquisa Científica**
+> - **7. O Registro da Pesquisa Científica**
+> - **8. Normas Técnicas**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

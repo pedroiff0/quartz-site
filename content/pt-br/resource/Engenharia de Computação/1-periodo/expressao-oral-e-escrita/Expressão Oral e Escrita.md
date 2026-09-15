@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Expressão Oral e Escrita"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -39,19 +39,19 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Noções de texto**
-> 	- [ ] Linguagem verbal e não verbal;
-> 	- [ ] Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
-> 	- [ ] Variações linguísticas.
-> - [ ] **2. Organização textual**
-> 	- [ ] Coerência e Coesão.
-> - [ ] **3. Tipologia Textual**
-> 	- [ ] Estrutura e características do texto descritivo;
-> 	- [ ] Estrutura e características do texto narrativo;
-> 	- [ ] Estrutura e características do texto dissertativo.
-> - [ ] **4. Linguagem e argumentação**
-> - [ ] **5. Redação científica**
-> 	- [ ] Elaboração de resumo, resenha e fichamento.
+> - **1. Noções de texto**
+> 	- Linguagem verbal e não verbal;
+> 	- Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
+> 	- Variações linguísticas.
+> - **2. Organização textual**
+> 	- Coerência e Coesão.
+> - **3. Tipologia Textual**
+> 	- Estrutura e características do texto descritivo;
+> 	- Estrutura e características do texto narrativo;
+> 	- Estrutura e características do texto dissertativo.
+> - **4. Linguagem e argumentação**
+> - **5. Redação científica**
+> 	- Elaboração de resumo, resenha e fichamento.
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica
