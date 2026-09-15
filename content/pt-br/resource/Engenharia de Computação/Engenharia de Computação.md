@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: Engenharia de Computação
 created: 2026-07-22 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - matriz-curricular
   - engenharia-de-computacao

@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Química Experimental"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,21 +36,21 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Estrutura, funcionamento e noções básicas de segurança em laboratório de química.**
-> - [ ] **2. Erros e medidas (precisão e exatidão). Incerteza nos resultados experimentais.**
-> - [ ] **3. Ferramentas Profissionais.**
-> - [ ] **4. Teste de chama.**
-> - [ ] **5. Pesagem. Balança semianalítica e analítica. Teor de umidade.**
-> - [ ] **6. Medidas de volume. Vidrarias volumétricas. Determinação de densidade.**
-> - [ ] **7. Soluções iônicas e soluções moleculares. Soluções eletrolíticas e não eletrolíticas. Polaridade de solubilidade.**
-> - [ ] **8. Estequiometria. Precipitação. Filtração e secagem. Rendimento de reação de precipitação.**
-> - [ ] **9. A escala de pH. Indicadores. Preparo e padronização de soluções. Titulação ácido-base.**
-> - [ ] **10. Termoquímica. Lei de Hess.**
-> - [ ] **11. Fatores que influenciam o equilíbrio químico. Equilíbrio de solubilidade. O efeito do íon comum.**
-> - [ ] **12. Fatores que influenciam a velocidade das reações. Determinação da velocidade de uma reação.**
-> - [ ] **13. rdem de reação e constante de velocidade. Catálise.**
-> - [ ] **14. Pilhas eletroquímicas. Eletrólise. Corrosão.**
-> - [ ] **15. Identificação de grupos funcionais orgânicos. Reatividade de álcoois, aldeídos, cetonas, ácidos carboxílicos e aminas.**
+> - **1. Estrutura, funcionamento e noções básicas de segurança em laboratório de química.**
+> - **2. Erros e medidas (precisão e exatidão). Incerteza nos resultados experimentais.**
+> - **3. Ferramentas Profissionais.**
+> - **4. Teste de chama.**
+> - **5. Pesagem. Balança semianalítica e analítica. Teor de umidade.**
+> - **6. Medidas de volume. Vidrarias volumétricas. Determinação de densidade.**
+> - **7. Soluções iônicas e soluções moleculares. Soluções eletrolíticas e não eletrolíticas. Polaridade de solubilidade.**
+> - **8. Estequiometria. Precipitação. Filtração e secagem. Rendimento de reação de precipitação.**
+> - **9. A escala de pH. Indicadores. Preparo e padronização de soluções. Titulação ácido-base.**
+> - **10. Termoquímica. Lei de Hess.**
+> - **11. Fatores que influenciam o equilíbrio químico. Equilíbrio de solubilidade. O efeito do íon comum.**
+> - **12. Fatores que influenciam a velocidade das reações. Determinação da velocidade de uma reação.**
+> - **13. rdem de reação e constante de velocidade. Catálise.**
+> - **14. Pilhas eletroquímicas. Eletrólise. Corrosão.**
+> - **15. Identificação de grupos funcionais orgânicos. Reatividade de álcoois, aldeídos, cetonas, ácidos carboxílicos e aminas.**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

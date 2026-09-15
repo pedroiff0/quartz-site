@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Algoritmos e Estruturas de Dados I"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,32 +36,32 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Estruturas de Dados Homogêneas:**
-> 	- [ ] Vetores;
-> 	- [ ] Marizes.
-> - [ ] **2. Estruturas de Dados Heterogêneas:**
-> 	- [ ] Registro.
-> - [ ] **3. Passagem de Parâmetros:**
-> 	- [ ] Passagem de parâmetros por valor;
-> 	- [ ] Passagem de parâmetros por referência.
-> - [ ] **4. Alocação Dinâmica de Memória**
-> 	- [ ] Ponteiros
-> - [ ] **5. Estruturas de Dados Lineares:**
-> 	- [ ] Listas Lineares;
-> 	- [ ] Listas Simplesmente Encadeadas;
-> 	- [ ] Listas Duplamente Encadeada;
-> 	- [ ] Listas Circulares;
-> 	- [ ] Pilhas;
-> 	- [ ] Filas;
-> 	- [ ] Listas Ordenadas.
-> - [ ] **6. Recursividade**
-> - [ ] **7. Algoritmos para Pesquisa e Ordenação**
-> 	- [ ] Busca Sequencial;
-> 	- [ ] Busca Binária;
-> 	- [ ] Buble-Sort;
-> 	- [ ] Merge-Sort;
-> 	- [ ] Heap-Sort;
-> 	- [ ] Quick-Sort.
+> - **1. Estruturas de Dados Homogêneas:**
+> 	- Vetores;
+> 	- Marizes.
+> - **2. Estruturas de Dados Heterogêneas:**
+> 	- Registro.
+> - **3. Passagem de Parâmetros:**
+> 	- Passagem de parâmetros por valor;
+> 	- Passagem de parâmetros por referência.
+> - **4. Alocação Dinâmica de Memória**
+> 	- Ponteiros
+> - **5. Estruturas de Dados Lineares:**
+> 	- Listas Lineares;
+> 	- Listas Simplesmente Encadeadas;
+> 	- Listas Duplamente Encadeada;
+> 	- Listas Circulares;
+> 	- Pilhas;
+> 	- Filas;
+> 	- Listas Ordenadas.
+> - **6. Recursividade**
+> - **7. Algoritmos para Pesquisa e Ordenação**
+> 	- Busca Sequencial;
+> 	- Busca Binária;
+> 	- Buble-Sort;
+> 	- Merge-Sort;
+> 	- Heap-Sort;
+> 	- Quick-Sort.
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

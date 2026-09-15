@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Arquitetura de Computadores"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,26 +37,26 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Arquitetura IA-32 / IA-64**
-> 	- [ ] Operação em Modelo Real
-> 	- [ ] Operação em Modo Protegido
-> 	- [ ] Paginação de Memória
-> 	- [ ] Comutação de Tarefas em Ambiente Multitarefa
-> 	- [ ] Mecanismos de Interrupção
-> - [ ] **2. Memórias Dinâmicas e Subsistemas Cache**
-> 	- [ ] Memórias Dinâmicas
-> 	- [ ] Subsistemas Cache
-> - [ ] **3. Processamento Numérico e de Sinais**
-> 	- [ ] Processamento de Números Inteiros
-> 	- [ ] Processamento de Números Reais
-> 	- [ ] Processamento de Sinais em Computador com SIMD
-> - [ ] **4. Barramentos Utilizados nos Computadores Pessoais**
-> 	- [ ] Barramento PCI e PCI-Express
-> 	- [ ] Barramento USB
-> 	- [ ] Outros Barramentos
-> - [ ] **5. Interfaceamento Via Rede:**
-> 	- [ ] Protocolo TCP/IP
-> 	- [ ] Acesso à rede por software
+> - **1. Arquitetura IA-32 / IA-64**
+> 	- Operação em Modelo Real
+> 	- Operação em Modo Protegido
+> 	- Paginação de Memória
+> 	- Comutação de Tarefas em Ambiente Multitarefa
+> 	- Mecanismos de Interrupção
+> - **2. Memórias Dinâmicas e Subsistemas Cache**
+> 	- Memórias Dinâmicas
+> 	- Subsistemas Cache
+> - **3. Processamento Numérico e de Sinais**
+> 	- Processamento de Números Inteiros
+> 	- Processamento de Números Reais
+> 	- Processamento de Sinais em Computador com SIMD
+> - **4. Barramentos Utilizados nos Computadores Pessoais**
+> 	- Barramento PCI e PCI-Express
+> 	- Barramento USB
+> 	- Outros Barramentos
+> - **5. Interfaceamento Via Rede:**
+> 	- Protocolo TCP/IP
+> 	- Acesso à rede por software
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

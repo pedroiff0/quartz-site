@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Probabilidade e Estatística"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,24 +36,24 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Introdução à Estatística**
-> 	- [ ] Coleta de Dados em Engenharia
-> 	- [ ] Modelos Mecanicistas e Empíricos
-> 	- [ ] Planejamento de Experimentos
-> - [ ] **2. Estatística Descritiva**
-> 	- [ ] Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
-> 	- [ ] Medidas de Posição: Médias, Mediana e Moda
-> 	- [ ] Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
-> - [ ] **3. Probabilidade**
-> 	- [ ] Definição
-> 	- [ ] Eventos Independentes
-> 	- [ ] Probabilidade condicional
-> 	- [ ] Leis da Probabilidade
-> 	- [ ] Teorema de Bayes
-> 	- [ ] Variáveis Aleatórias
-> - [ ] **4. Distribuições de Probabilidades**
-> 	- [ ] Discretas
-> 	- [ ] Contínuas
+> - **1. Introdução à Estatística**
+> 	- Coleta de Dados em Engenharia
+> 	- Modelos Mecanicistas e Empíricos
+> 	- Planejamento de Experimentos
+> - **2. Estatística Descritiva**
+> 	- Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
+> 	- Medidas de Posição: Médias, Mediana e Moda
+> 	- Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
+> - **3. Probabilidade**
+> 	- Definição
+> 	- Eventos Independentes
+> 	- Probabilidade condicional
+> 	- Leis da Probabilidade
+> 	- Teorema de Bayes
+> 	- Variáveis Aleatórias
+> - **4. Distribuições de Probabilidades**
+> 	- Discretas
+> 	- Contínuas
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

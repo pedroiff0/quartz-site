@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Física Experimental II"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,12 +37,12 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Oscilações e ondas mecânicas;**
-> - [ ] **2. Ondas estacionárias e onda numa corda;**
-> - [ ] **3. Pêndulo;**
-> - [ ] **4. Dilatação linear e calor específico;**
-> - [ ] **5. Princípios da termodinâmica: conceitos de temperatura e calor;**
-> - [ ] **6. Entropia e os processos irreversíveis.**
+> - **1. Oscilações e ondas mecânicas;**
+> - **2. Ondas estacionárias e onda numa corda;**
+> - **3. Pêndulo;**
+> - **4. Dilatação linear e calor específico;**
+> - **5. Princípios da termodinâmica: conceitos de temperatura e calor;**
+> - **6. Entropia e os processos irreversíveis.**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

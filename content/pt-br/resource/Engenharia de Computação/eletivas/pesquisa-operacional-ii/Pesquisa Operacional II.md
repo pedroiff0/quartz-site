@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Pesquisa Operacional II"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,35 +36,35 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Programação Linear Inteira (PLI)**
-> 	- [ ] Conceitos Fundamentais da PLI
-> 	- [ ] Modelagem Matemática por PLI
-> 	- [ ] Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
-> 	- [ ] Programação Linear Inteira Binária (PLIB)
-> 	- [ ] Modelos de PLIB
-> 	- [ ] Problema do Caixeiro Viajante
-> - [ ] **2. Programação por Metas (PM)**
-> 	- [ ] Conceitos Fundamentais da PM
-> 	- [ ] Metas, desvios e funções objetivo para PM
-> 	- [ ] PM por Priorização
-> 	- [ ] Modelagem Matemática por PM
-> - [ ] **3. Programação Linear Multiobjetivo (PLMO)**
-> 	- [ ] Conceitos Fundamentais da PLMO
-> 	- [ ] Variáveis MINMAX
-> 	- [ ] Fronteira de Eficiência
-> 	- [ ] Modelagem Matemática por PLMO
-> - [ ] **4. Programação Dinâmica (PD)**
-> 	- [ ] Conceitos Fundamentais de PD
-> 	- [ ] Aplicações da PD
-> - [ ] **5. Teoria Clássica da Otimização**
-> 	- [ ] Conceitos Fundamentais
-> 	- [ ] Problemas Irrestritos
-> 	- [ ] Problemas Restritos
-> - [ ] **6. Programação Não-Linear (PNL)**
-> 	- [ ] Tipos de Problemas de PNL
-> 	- [ ] Programação Quadrática
-> 	- [ ] Programação Separável
-> 	- [ ] Programação Convexa
+> - **1. Programação Linear Inteira (PLI)**
+> 	- Conceitos Fundamentais da PLI
+> 	- Modelagem Matemática por PLI
+> 	- Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
+> 	- Programação Linear Inteira Binária (PLIB)
+> 	- Modelos de PLIB
+> 	- Problema do Caixeiro Viajante
+> - **2. Programação por Metas (PM)**
+> 	- Conceitos Fundamentais da PM
+> 	- Metas, desvios e funções objetivo para PM
+> 	- PM por Priorização
+> 	- Modelagem Matemática por PM
+> - **3. Programação Linear Multiobjetivo (PLMO)**
+> 	- Conceitos Fundamentais da PLMO
+> 	- Variáveis MINMAX
+> 	- Fronteira de Eficiência
+> 	- Modelagem Matemática por PLMO
+> - **4. Programação Dinâmica (PD)**
+> 	- Conceitos Fundamentais de PD
+> 	- Aplicações da PD
+> - **5. Teoria Clássica da Otimização**
+> 	- Conceitos Fundamentais
+> 	- Problemas Irrestritos
+> 	- Problemas Restritos
+> - **6. Programação Não-Linear (PNL)**
+> 	- Tipos de Problemas de PNL
+> 	- Programação Quadrática
+> 	- Programação Separável
+> 	- Programação Convexa
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Computação Gráfica"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,35 +37,35 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Dispositivos Gráficos**
-> 	- [ ] Apresentação de Imagens Usando Monitores ou Impressoras
-> 	- [ ] Espaços de Cor
-> 	- [ ] Bibliotecas Gráficas
-> 	- [ ] Visão geral de pipeline gráfico
-> - [ ] **2. Primitivas Gráficas**
-> 	- [ ] Ponto
-> 	- [ ] Reta
-> 	- [ ] Circunferência
-> 	- [ ] Curvas
-> 	- [ ] Polígonos
-> 	- [ ] Planos g. Poliedros
-> - [ ] **3. Modelagem Geométrica**
-> 	- [ ] Triangulação de Polígonos
-> 	- [ ] Vetores Normais
-> 	- [ ] Operações de Conjuntos
-> 	- [ ] Extrusão
-> - [ ] **4. Sistemas de Coordenadas e Transformações 2D e 3D**
-> 	- [ ] Sistemas de Coordenadas
-> 	- [ ] Vetores
-> 	- [ ] Transformações de Escala, Translação, Rotação
-> 	- [ ] Matrizes
-> - [ ] **5. Algoritmos de Projeção e Recorte**
-> 	- [ ] Z-Buffer
-> 	- [ ] Visão Geral de Ray Tracing
-> 	- [ ] Câmeras
-> 	- [ ] Projeções Paralelas e em Perspectiva
-> 	- [ ] Iluminação
-> 	- [ ] Textura, sombras, reflexão e partículas
+> - **1. Dispositivos Gráficos**
+> 	- Apresentação de Imagens Usando Monitores ou Impressoras
+> 	- Espaços de Cor
+> 	- Bibliotecas Gráficas
+> 	- Visão geral de pipeline gráfico
+> - **2. Primitivas Gráficas**
+> 	- Ponto
+> 	- Reta
+> 	- Circunferência
+> 	- Curvas
+> 	- Polígonos
+> 	- Planos g. Poliedros
+> - **3. Modelagem Geométrica**
+> 	- Triangulação de Polígonos
+> 	- Vetores Normais
+> 	- Operações de Conjuntos
+> 	- Extrusão
+> - **4. Sistemas de Coordenadas e Transformações 2D e 3D**
+> 	- Sistemas de Coordenadas
+> 	- Vetores
+> 	- Transformações de Escala, Translação, Rotação
+> 	- Matrizes
+> - **5. Algoritmos de Projeção e Recorte**
+> 	- Z-Buffer
+> 	- Visão Geral de Ray Tracing
+> 	- Câmeras
+> 	- Projeções Paralelas e em Perspectiva
+> 	- Iluminação
+> 	- Textura, sombras, reflexão e partículas
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

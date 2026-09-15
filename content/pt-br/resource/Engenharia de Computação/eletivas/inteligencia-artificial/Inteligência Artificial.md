@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Inteligência Artificial"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,35 +37,35 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Histórico e Princípios de Inteligência Artificial (IA)**
-> 	- [ ] Definições de IA
-> 	- [ ] Histórico da IA
-> 	- [ ] Paradigmas da IA
-> - [ ] **2. Resolução de Problemas**
-> 	- [ ] Agentes
-> 	- [ ] Exemplos de Problemas
-> - [ ] **3. Métodos de Busca**
-> 	- [ ] Estratégias de Busca
-> 	- [ ] Tipos de Busca
-> - [ ] **4. Heurísticas**
-> 	- [ ] Busca Heurística
-> 	- [ ] Aplicações
-> - [ ] **5. Conhecimento e Raciocínio**
-> 	- [ ] Sistemas Baseados em Conhecimento
-> 	- [ ] Aquisição de Conhecimento
-> 	- [ ] Técnicas de Representação de Conhecimento
-> - [ ] **6. Tópicos Avançados**
-> 	- [ ] Aprendizagem de Máquina
-> 	- [ ] Redes Neurais
-> 	- [ ] Algoritmos Genéticos
-> 	- [ ] Sistemas Especialistas
-> 	- [ ] Sistemas Fuzzy
-> 	- [ ] Indução de Regras
-> 	- [ ] Árvores de Decisão
-> 	- [ ] Mineração de Dados
-> - [ ] **7. Aplicações de Inteligência Artificial**
-> 	- [ ] Exemplos de Aplicações
-> 	- [ ] Implementação
+> - **1. Histórico e Princípios de Inteligência Artificial (IA)**
+> 	- Definições de IA
+> 	- Histórico da IA
+> 	- Paradigmas da IA
+> - **2. Resolução de Problemas**
+> 	- Agentes
+> 	- Exemplos de Problemas
+> - **3. Métodos de Busca**
+> 	- Estratégias de Busca
+> 	- Tipos de Busca
+> - **4. Heurísticas**
+> 	- Busca Heurística
+> 	- Aplicações
+> - **5. Conhecimento e Raciocínio**
+> 	- Sistemas Baseados em Conhecimento
+> 	- Aquisição de Conhecimento
+> 	- Técnicas de Representação de Conhecimento
+> - **6. Tópicos Avançados**
+> 	- Aprendizagem de Máquina
+> 	- Redes Neurais
+> 	- Algoritmos Genéticos
+> 	- Sistemas Especialistas
+> 	- Sistemas Fuzzy
+> 	- Indução de Regras
+> 	- Árvores de Decisão
+> 	- Mineração de Dados
+> - **7. Aplicações de Inteligência Artificial**
+> 	- Exemplos de Aplicações
+> 	- Implementação
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

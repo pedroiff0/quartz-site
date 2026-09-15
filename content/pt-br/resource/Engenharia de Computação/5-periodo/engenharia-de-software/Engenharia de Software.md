@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Engenharia de Software"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -43,43 +43,43 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Teoria dos Sistemas**
-> 	- [ ] Sistemas naturais e sistemas automatizados
-> 	- [ ] Software x Sistemas
-> 	- [ ] Categorias de Software
-> - [ ] **2. Processo de Desenvolvimento de Software**
-> 	- [ ] Histórico da Evolução do Software
-> 	- [ ] Etapas do Processo de Desenvolvimento de Software: Análise, Projeto, Implementação, Testes, Implantação e Manutenção.
-> 	- [ ] Modelo Clássico
-> 	- [ ] Modelo em Espiral
-> 	- [ ] Processo Unificado
-> 	- [ ] Métodos Ágeis
-> 	- [ ] Papeis no desenvolvimento de software (stakeholders).
-> - [ ] **3. Análise e Projeto de Software**
-> 	- [ ] Técnicas de Coleta e Especificação de Requisitos
-> 	- [ ] Métodos de Análise: Estruturada, Essencial e Orientada a Objetos
-> 	- [ ] Paralelo entre as diferentes metodologias
-> 	- [ ] A Etapa de Projeto
-> 	- [ ] Princípios de Qualidade em Projeto: Coesão e Acoplamento
-> 	- [ ] Métodos de Projeto
-> - [ ] **4. Arquitetura de Software**
-> 	- [ ] Arquitetura em camadas
-> 	- [ ] Arquitetura MVC
-> 	- [ ] Microserviços
-> 	- [ ] Arquitetura Orientada a Mensagens
-> 	- [ ] Arquitetura Publish/Subscribe
-> - [ ] **5. Testes**
-> 	- [ ] Teste de unidade
-> 	- [ ] Testabilidade
-> 	- [ ] Teste de integração
-> 	- [ ] Testes de sistema
-> - [ ] **6. Visão Geral sobre Manutenção de Software**
-> 	- [ ] Conceito, motivações e dificuldades
-> 	- [ ] Tipos de Manutenção
-> 	- [ ] Processo de Manutenção de Software
-> 	- [ ] Gerência de Configuração
-> 	- [ ] Reengenharia
-> - [ ] **7. Ferramentas e Ambientes de Suporte ao Desenvolvimento de Software**
+> - **1. Teoria dos Sistemas**
+> 	- Sistemas naturais e sistemas automatizados
+> 	- Software x Sistemas
+> 	- Categorias de Software
+> - **2. Processo de Desenvolvimento de Software**
+> 	- Histórico da Evolução do Software
+> 	- Etapas do Processo de Desenvolvimento de Software: Análise, Projeto, Implementação, Testes, Implantação e Manutenção.
+> 	- Modelo Clássico
+> 	- Modelo em Espiral
+> 	- Processo Unificado
+> 	- Métodos Ágeis
+> 	- Papeis no desenvolvimento de software (stakeholders).
+> - **3. Análise e Projeto de Software**
+> 	- Técnicas de Coleta e Especificação de Requisitos
+> 	- Métodos de Análise: Estruturada, Essencial e Orientada a Objetos
+> 	- Paralelo entre as diferentes metodologias
+> 	- A Etapa de Projeto
+> 	- Princípios de Qualidade em Projeto: Coesão e Acoplamento
+> 	- Métodos de Projeto
+> - **4. Arquitetura de Software**
+> 	- Arquitetura em camadas
+> 	- Arquitetura MVC
+> 	- Microserviços
+> 	- Arquitetura Orientada a Mensagens
+> 	- Arquitetura Publish/Subscribe
+> - **5. Testes**
+> 	- Teste de unidade
+> 	- Testabilidade
+> 	- Teste de integração
+> 	- Testes de sistema
+> - **6. Visão Geral sobre Manutenção de Software**
+> 	- Conceito, motivações e dificuldades
+> 	- Tipos de Manutenção
+> 	- Processo de Manutenção de Software
+> 	- Gerência de Configuração
+> 	- Reengenharia
+> - **7. Ferramentas e Ambientes de Suporte ao Desenvolvimento de Software**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

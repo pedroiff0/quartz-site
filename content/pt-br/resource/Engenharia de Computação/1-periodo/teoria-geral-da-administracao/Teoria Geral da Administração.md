@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Teoria Geral da Administração"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,29 +36,29 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. O Campo da Administração**
-> 	- [ ] Administração: Conceito, Importância e Campos de Atuação.
-> 	- [ ] Funções Administrativas;
-> 	- [ ] Características das Funções Administrativas.
-> - [ ] **2. Estruturas Administrativas**
-> 	- [ ] Tipos de Estruturas Formal e Informal;
-> 	- [ ] Importâncias das Estruturas;
-> 	- [ ] Técnicas de Estruturação – Departamentalização;
-> 	- [ ] Organograma.
-> - [ ] **3. Áreas Administrativas**
-> 	- [ ] Administração de Recursos Humanos;
-> 	- [ ] Administração de Produção, Material e Patrimônio;
-> 	- [ ] Administração de Marketing;
-> 	- [ ] Administração Financeira e Orçamentária.
-> - [ ] **4. Planejamento da Ação Empresarial**
-> 	- [ ] Planejamento Estratégico, Tático e Operacional;
-> 	- [ ] Ambiente Organizacional Interno e Externo.
-> - [ ] **5. O Ambiente Organizacional**
-> 	- [ ] Focalizando a Oportunidade;
-> 	- [ ] Novos Mercados;
-> 	- [ ] Técnicas de Decidir;
-> 	- [ ] Desenvolvimento Organizacional;
-> 	- [ ] Gestão do Conhecimento.
+> - **1. O Campo da Administração**
+> 	- Administração: Conceito, Importância e Campos de Atuação.
+> 	- Funções Administrativas;
+> 	- Características das Funções Administrativas.
+> - **2. Estruturas Administrativas**
+> 	- Tipos de Estruturas Formal e Informal;
+> 	- Importâncias das Estruturas;
+> 	- Técnicas de Estruturação – Departamentalização;
+> 	- Organograma.
+> - **3. Áreas Administrativas**
+> 	- Administração de Recursos Humanos;
+> 	- Administração de Produção, Material e Patrimônio;
+> 	- Administração de Marketing;
+> 	- Administração Financeira e Orçamentária.
+> - **4. Planejamento da Ação Empresarial**
+> 	- Planejamento Estratégico, Tático e Operacional;
+> 	- Ambiente Organizacional Interno e Externo.
+> - **5. O Ambiente Organizacional**
+> 	- Focalizando a Oportunidade;
+> 	- Novos Mercados;
+> 	- Técnicas de Decidir;
+> 	- Desenvolvimento Organizacional;
+> 	- Gestão do Conhecimento.
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

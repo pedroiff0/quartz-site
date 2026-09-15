@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Física Experimental I"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,15 +36,15 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Algarismos Significativos – cálculo do valor de $\pi$;**
-> - [ ] **2. Softwares de tratamento de dados;**
-> - [ ] **3. Propagação de erros;**
-> - [ ] **4. Gráficos;**
-> - [ ] **5. MRU;**
-> - [ ] **6. MRUV e Cálculo de g;**
-> - [ ] **7. Aplicação das Leis de Newton;**
-> - [ ] **8. Energia Mecânica e sua Conservação;**
-> - [ ] **9. Conservação de momento.**
+> - **1. Algarismos Significativos – cálculo do valor de $\pi$;**
+> - **2. Softwares de tratamento de dados;**
+> - **3. Propagação de erros;**
+> - **4. Gráficos;**
+> - **5. MRU;**
+> - **6. MRUV e Cálculo de g;**
+> - **7. Aplicação das Leis de Newton;**
+> - **8. Energia Mecânica e sua Conservação;**
+> - **9. Conservação de momento.**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

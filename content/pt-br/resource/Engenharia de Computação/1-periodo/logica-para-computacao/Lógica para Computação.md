@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Lógica para Computação"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -39,15 +39,15 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Introdução à Lógica para Computação;**
-> - [ ] **2. Lógica Proposicional**
-> 	- [ ] Linguagem, Sintaxe, Semântica e Propriedades Semânticas;
-> 	- [ ] Métodos para Determinação da Validade de Fórmulas;
-> 	- [ ] Sistemas de Dedução de Lógica Proposicional.
-> - [ ] **3. Lógica de Predicados de Primeira Ordem:**
-> 	- [ ] Linguagem, Quantificadores, Sintaxe, Semântica e Propriedades Semânticas;
-> 	- [ ] Sistemas de Dedução na Lógica de Predicados.
-> - [ ] **4. Aplicações de Lógica na Computação.**
+> - **1. Introdução à Lógica para Computação;**
+> - **2. Lógica Proposicional**
+> 	- Linguagem, Sintaxe, Semântica e Propriedades Semânticas;
+> 	- Métodos para Determinação da Validade de Fórmulas;
+> 	- Sistemas de Dedução de Lógica Proposicional.
+> - **3. Lógica de Predicados de Primeira Ordem:**
+> 	- Linguagem, Quantificadores, Sintaxe, Semântica e Propriedades Semânticas;
+> 	- Sistemas de Dedução na Lógica de Predicados.
+> - **4. Aplicações de Lógica na Computação.**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

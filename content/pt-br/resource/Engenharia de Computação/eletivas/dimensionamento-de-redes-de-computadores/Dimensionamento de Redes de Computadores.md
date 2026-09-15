@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Dimensionamento de Redes de Computadores"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,14 +36,14 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Dimensionamento de Redes**
-> - [ ] **2. Redundância de LAN**
-> - [ ] **3. Agregação de Links**
-> - [ ] **4. LANs Sem Fio**
-> - [ ] **5. Solução Problemas de OSPF de Área Única**
-> - [ ] **6. OSPF Multiárea**
-> - [ ] **7. EIGRP**
-> - [ ] **8. Solução de Problemas de EIGRP**
+> - **1. Dimensionamento de Redes**
+> - **2. Redundância de LAN**
+> - **3. Agregação de Links**
+> - **4. LANs Sem Fio**
+> - **5. Solução Problemas de OSPF de Área Única**
+> - **6. OSPF Multiárea**
+> - **7. EIGRP**
+> - **8. Solução de Problemas de EIGRP**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

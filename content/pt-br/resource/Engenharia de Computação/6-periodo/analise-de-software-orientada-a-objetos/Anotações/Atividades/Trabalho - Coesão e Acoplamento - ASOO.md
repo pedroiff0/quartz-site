@@ -36,7 +36,7 @@ cssclasses:
   - center-titles
   - center-images
 created: 2026-09-07 16:53
-modified: 2026-09-07 16:53
+modified: 2026-09-14 20:12
 ---
 
 # 🎓 Trabalho - Coesão e Acoplamento em Análise de Software (ASOO)

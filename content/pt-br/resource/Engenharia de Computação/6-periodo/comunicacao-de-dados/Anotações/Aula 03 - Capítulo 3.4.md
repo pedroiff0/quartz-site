@@ -1,24 +1,15 @@
 ---
 publish: true
-title: Aula 03 - Capítulo 3.4
-subtitle: ""
+title: "Aula 03 - Capítulo 3.4"
 created: 2026-09-09 16:58
-modified: 2026-09-14 11:39
-discipline: ""
-period: ""
-professor: ""
+modified: 2026-09-14 20:12
 encrypted: true
 password: "eng232"
-
-# 🔗 Materiais e Arquivos da Aula (Disponíveis em _materiais da Disciplina)
-slides_aula: ""
-roteiro_aula: ""
-anexos: ""
-
 tags:
   - aula
+  - aula-03
   - engenharia-de-computacao
-  - anotacao
+  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---

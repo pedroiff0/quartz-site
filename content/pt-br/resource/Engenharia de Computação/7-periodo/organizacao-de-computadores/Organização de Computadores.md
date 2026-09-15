@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Organização de Computadores"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,25 +37,25 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Arquitetura Básica de Processador**
-> 	- [ ] Unidade Central de Processamento
-> 		- [ ] i. Unidade de Controle
-> 		- [ ] ii. Unidade Lógica e Aritmética
-> 		- [ ] iii. Registradores
-> 	- [ ] Barramento Internos
-> 	- [ ] Ciclo Básico de Instrução (Busca-Decodifica-Executa)
-> - [ ] **2. Memórias i. Endereços de Memória ii. Códigos de Correção de Erros iii. Memória Cache iv. Empacotamento e Tipos de Memória**
-> 	- [ ] Memória Primária
-> 	- [ ] Memória Secundária
-> 		- [ ] i. Discos Magnéticos
-> 		- [ ] ii. Discos Flexíveis
-> 		- [ ] iii. Discos Óticos
-> - [ ] **3. Entrada/Saída**
-> 	- [ ] Barramentos
-> 	- [ ] Terminais
-> 	- [ ] Dispositivos Apontadores
-> 	- [ ] Impressoras
-> 	- [ ] Equipamentos de Telecomunicações
+> - **1. Arquitetura Básica de Processador**
+> 	- Unidade Central de Processamento
+> 		- i. Unidade de Controle
+> 		- ii. Unidade Lógica e Aritmética
+> 		- iii. Registradores
+> 	- Barramento Internos
+> 	- Ciclo Básico de Instrução (Busca-Decodifica-Executa)
+> - **2. Memórias i. Endereços de Memória ii. Códigos de Correção de Erros iii. Memória Cache iv. Empacotamento e Tipos de Memória**
+> 	- Memória Primária
+> 	- Memória Secundária
+> 		- i. Discos Magnéticos
+> 		- ii. Discos Flexíveis
+> 		- iii. Discos Óticos
+> - **3. Entrada/Saída**
+> 	- Barramentos
+> 	- Terminais
+> 	- Dispositivos Apontadores
+> 	- Impressoras
+> 	- Equipamentos de Telecomunicações
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

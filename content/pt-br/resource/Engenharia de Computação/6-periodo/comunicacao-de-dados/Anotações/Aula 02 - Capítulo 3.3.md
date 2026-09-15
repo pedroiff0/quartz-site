@@ -1,21 +1,15 @@
 ---
 publish: true
-title: Aula 02 - Capítulo 3.3
-subtitle: ""
+title: "Aula 02 - Capítulo 3.3"
 created: 2026-09-08 15:33
-modified: 2026-09-14 11:39
-discipline: Comunicação de Dados
-period: 6-periodo
-professor: Luiz Garcez
+modified: 2026-09-14 20:12
 encrypted: true
-password: eng232
-slides_aula: ""
-roteiro_aula: ""
-anexos: ""
+password: "eng232"
 tags:
   - aula
+  - aula-02
   - engenharia-de-computacao
-  - anotacao
+  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---

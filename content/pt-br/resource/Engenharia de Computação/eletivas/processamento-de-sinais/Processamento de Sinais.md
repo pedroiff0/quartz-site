@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Processamento de Sinais"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,29 +37,29 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Introdução ao Processamento Digital de Sinais**
-> 	- [ ] Domínios de Tempo Contínuo e Discreto
-> 	- [ ] Aplicações de Processamento Digital
-> 	- [ ] Discretização Temporal e Quantização em Amplitude
-> 	- [ ] Teoria da Amostragem
-> - [ ] **2. Fundamentos Matemáticos de Sinais e Sistemas Discretos**
-> 	- [ ] Características de Sistemas Discretos com Ênfase em Sistemas Lineares e Invariantes
-> 	- [ ] Representação de Sinais como Função de Sinais Fundamentais
-> 	- [ ] Descrição de Sistemas por meio de Equações
-> 	- [ ] Aplicações de Transformada Z
-> 	- [ ] Correlação de Sinais em Tempo Discreto
-> 	- [ ] Representação Numérica
-> - [ ] **3. Análise em Frequência de Sinais**
-> - [ ] **4. Transformada Discreta de Fourier (DFT) e Transformada Rápida de Fourier (FFT)**
-> 	- [ ] Definição de Transformada Discreta de Fourier
-> 	- [ ] Convergência da Transformada de Fourier
-> 	- [ ] Relação entre Transformada de Fourier e Transformada Z
-> 	- [ ] Propriedades da Transformada de Fourier
-> 	- [ ] Computação Eficiente de DFT, FFT
-> - [ ] **5. Filtros Digitais:**
-> 	- [ ] Filtros de Resposta Finita ao Impulso
-> 	- [ ] Filtros Analógicos de Referência
-> 	- [ ] Quantização de Coeficientes e Impacto
+> - **1. Introdução ao Processamento Digital de Sinais**
+> 	- Domínios de Tempo Contínuo e Discreto
+> 	- Aplicações de Processamento Digital
+> 	- Discretização Temporal e Quantização em Amplitude
+> 	- Teoria da Amostragem
+> - **2. Fundamentos Matemáticos de Sinais e Sistemas Discretos**
+> 	- Características de Sistemas Discretos com Ênfase em Sistemas Lineares e Invariantes
+> 	- Representação de Sinais como Função de Sinais Fundamentais
+> 	- Descrição de Sistemas por meio de Equações
+> 	- Aplicações de Transformada Z
+> 	- Correlação de Sinais em Tempo Discreto
+> 	- Representação Numérica
+> - **3. Análise em Frequência de Sinais**
+> - **4. Transformada Discreta de Fourier (DFT) e Transformada Rápida de Fourier (FFT)**
+> 	- Definição de Transformada Discreta de Fourier
+> 	- Convergência da Transformada de Fourier
+> 	- Relação entre Transformada de Fourier e Transformada Z
+> 	- Propriedades da Transformada de Fourier
+> 	- Computação Eficiente de DFT, FFT
+> - **5. Filtros Digitais:**
+> 	- Filtros de Resposta Finita ao Impulso
+> 	- Filtros Analógicos de Referência
+> 	- Quantização de Coeficientes e Impacto
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

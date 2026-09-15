@@ -2,7 +2,7 @@
 publish: false
 title: CONEPE - 2026
 created: 2026-07-18 13:34
-modified: 2026-09-07 16:46
+modified: 2026-09-14 20:13
 published: 2026-07-26T10:40:03.400-03:00
 photoFolder: conepe2026
 type: blog

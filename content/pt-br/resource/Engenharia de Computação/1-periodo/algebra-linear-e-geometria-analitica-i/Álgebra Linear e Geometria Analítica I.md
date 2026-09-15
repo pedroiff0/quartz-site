@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Álgebra Linear e Geometria Analítica I"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -39,57 +39,57 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Matrizes:**
-> - [ ] **2. Definição e Tipos Especiais;**
-> - [ ] **3. Álgebra Matricial;**
-> - [ ] **4. Matriz Transposta;**
-> - [ ] **5. Matriz Simétrica;**
-> - [ ] **6. Matriz Ortogonal;**
-> - [ ] **7. Determinantes**
-> 	- [ ] Determinante de uma Matriz;
-> 	- [ ] Ordem e Representação;
-> 	- [ ] Propriedades;
-> 	- [ ] Cálculo do Determinante por uma Linha;
-> 	- [ ] Cálculo do Determinante por Laplace;
-> 	- [ ] Operações Elementares;
-> 	- [ ] Cálculo do Determinante por Triangularização;
-> - [ ] **8. Inversão de Matrizes:**
-> 	- [ ] Matriz Inversa;
-> 	- [ ] Propriedades;
-> 	- [ ] Inversão de Matrizes por Matriz Adjunta;
-> 	- [ ] Inversão de Matrizes por Meio de Operações Elementares;
-> - [ ] **9. Sistemas de Equações Lineares:**
-> 	- [ ] Sistema Compatível;
-> 	- [ ] Sistemas Equivalentes;
-> 	- [ ] Operações Elementares e Sistemas Equivalentes;
-> 	- [ ] Sistema Linear Homogêneo;
-> 	- [ ] Classificação e Solução dos Sistemas de Equações Lineares;
-> 	- [ ] Discussão de Sistemas em Função de Parâmetros Reais.
-> - [ ] **10. Vetores:**
-> 	- [ ] Vetores no R² e no R³, operações;
-> 	- [ ] Vetor Definido por Dois Pontos;
-> 	- [ ] Produto Escalar;
-> 	- [ ] Módulo de um Vetor;
-> 	- [ ] Ângulo entre Dois Vetores;
-> 	- [ ] Paralelismo e Ortogonalidade de Dois Vetores;
-> 	- [ ] Produto Vetorial;
-> 	- [ ] Produto Misto;
-> 	- [ ] Equação de Planos;
-> 	- [ ] Área de Triângulos e Paralelogramos;
-> 	- [ ] Volumes de Paralelepípedos.
-> - [ ] **11. Espaços Vetoriais:**
-> 	- [ ] Propriedades;
-> 	- [ ] Subespaços Vetoriais;
-> 	- [ ] Combinação Linear;
-> 	- [ ] Dependência e Independência Linear;
-> 	- [ ] Base e Dimensão.
-> - [ ] **12. Espaços Vetoriais Euclidianos:**
-> 	- [ ] Produto Interno Não Usual;
-> 	- [ ] Módulo de um Vetor e Normalização de Vetores;
-> 	- [ ] Vetores Ortogonais;
-> 	- [ ] Bases Ortogonais e Ortonormais;
-> 	- [ ] Processo de Ortogonalização de Gram Schmidt;
-> 	- [ ] Complemento Ortogonal.
+> - **1. Matrizes:**
+> - **2. Definição e Tipos Especiais;**
+> - **3. Álgebra Matricial;**
+> - **4. Matriz Transposta;**
+> - **5. Matriz Simétrica;**
+> - **6. Matriz Ortogonal;**
+> - **7. Determinantes**
+> 	- Determinante de uma Matriz;
+> 	- Ordem e Representação;
+> 	- Propriedades;
+> 	- Cálculo do Determinante por uma Linha;
+> 	- Cálculo do Determinante por Laplace;
+> 	- Operações Elementares;
+> 	- Cálculo do Determinante por Triangularização;
+> - **8. Inversão de Matrizes:**
+> 	- Matriz Inversa;
+> 	- Propriedades;
+> 	- Inversão de Matrizes por Matriz Adjunta;
+> 	- Inversão de Matrizes por Meio de Operações Elementares;
+> - **9. Sistemas de Equações Lineares:**
+> 	- Sistema Compatível;
+> 	- Sistemas Equivalentes;
+> 	- Operações Elementares e Sistemas Equivalentes;
+> 	- Sistema Linear Homogêneo;
+> 	- Classificação e Solução dos Sistemas de Equações Lineares;
+> 	- Discussão de Sistemas em Função de Parâmetros Reais.
+> - **10. Vetores:**
+> 	- Vetores no R² e no R³, operações;
+> 	- Vetor Definido por Dois Pontos;
+> 	- Produto Escalar;
+> 	- Módulo de um Vetor;
+> 	- Ângulo entre Dois Vetores;
+> 	- Paralelismo e Ortogonalidade de Dois Vetores;
+> 	- Produto Vetorial;
+> 	- Produto Misto;
+> 	- Equação de Planos;
+> 	- Área de Triângulos e Paralelogramos;
+> 	- Volumes de Paralelepípedos.
+> - **11. Espaços Vetoriais:**
+> 	- Propriedades;
+> 	- Subespaços Vetoriais;
+> 	- Combinação Linear;
+> 	- Dependência e Independência Linear;
+> 	- Base e Dimensão.
+> - **12. Espaços Vetoriais Euclidianos:**
+> 	- Produto Interno Não Usual;
+> 	- Módulo de um Vetor e Normalização de Vetores;
+> 	- Vetores Ortogonais;
+> 	- Bases Ortogonais e Ortonormais;
+> 	- Processo de Ortogonalização de Gram Schmidt;
+> 	- Complemento Ortogonal.
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

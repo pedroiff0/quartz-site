@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Disciplinas Eletivas"
 created: 2026-07-21 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 cssclasses:
   - page-layout
 ---

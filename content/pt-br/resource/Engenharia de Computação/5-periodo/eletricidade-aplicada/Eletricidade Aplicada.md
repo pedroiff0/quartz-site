@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Eletricidade Aplicada"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -36,30 +36,30 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Análise de Circuitos Em Corrente Alternada**
-> 	- [ ] Padrões Elétricos e Convenções;
-> 	- [ ] Circuitos em Corrente Alternada;
-> 	- [ ] Representação Senoidal, Retangular e Polar;
-> 	- [ ] Valor Eficaz de uma Onda Senoidal;
-> 	- [ ] Triângulos de Impedâncias;
-> 	- [ ] Reatância indutiva;
-> 	- [ ] Reatância capacitiva;
-> 	- [ ] Triângulo de Potência;
-> 	- [ ] Potência Ativa;
-> 	- [ ] Potência Reativa;
-> 	- [ ] Potência Aparente;
-> 	- [ ] Fator de Potência;
-> 	- [ ] Noções de Circuitos Trifásicos;
-> 	- [ ] Transformadores;
-> 	- [ ] Relação de transformação, ligação de triângulo e estrela;
-> - [ ] **2. Fornecimento de Energia**
-> 	- [ ] Visão Geral do Sistema Elétrico;
-> 	- [ ] Modalidades de Ligações dos Consumidores;
-> 	- [ ] Monofásica;
-> 	- [ ] Bifásica;
-> 	- [ ] Trifásica;
-> 	- [ ] Instalação para Iluminação e Aparelhos Eletrodomésticos;
-> 	- [ ] Normas, Símbolos e Convenções.
+> - **1. Análise de Circuitos Em Corrente Alternada**
+> 	- Padrões Elétricos e Convenções;
+> 	- Circuitos em Corrente Alternada;
+> 	- Representação Senoidal, Retangular e Polar;
+> 	- Valor Eficaz de uma Onda Senoidal;
+> 	- Triângulos de Impedâncias;
+> 	- Reatância indutiva;
+> 	- Reatância capacitiva;
+> 	- Triângulo de Potência;
+> 	- Potência Ativa;
+> 	- Potência Reativa;
+> 	- Potência Aparente;
+> 	- Fator de Potência;
+> 	- Noções de Circuitos Trifásicos;
+> 	- Transformadores;
+> 	- Relação de transformação, ligação de triângulo e estrela;
+> - **2. Fornecimento de Energia**
+> 	- Visão Geral do Sistema Elétrico;
+> 	- Modalidades de Ligações dos Consumidores;
+> 	- Monofásica;
+> 	- Bifásica;
+> 	- Trifásica;
+> 	- Instalação para Iluminação e Aparelhos Eletrodomésticos;
+> 	- Normas, Símbolos e Convenções.
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

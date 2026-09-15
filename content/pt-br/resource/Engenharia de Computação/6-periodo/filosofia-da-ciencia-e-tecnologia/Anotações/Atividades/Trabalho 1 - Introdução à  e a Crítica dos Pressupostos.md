@@ -33,7 +33,7 @@ cssclasses:
   - page-layout
   - center-titles
 created: 2026-09-09 19:59
-modified: 2026-09-09 19:59
+modified: 2026-09-14 20:12
 ---
 
 # 🎓 Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos

@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Introdução à Ciência dos Materiais"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -37,54 +37,54 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Ciência e engenharia dos materiais**
-> 	- [ ] Importância científica e tecnológica dos materiais
-> 	- [ ] Classificação geral dos materiais usados na engenharia
-> 	- [ ] Propriedades dos materiais (mecânicas, térmicas, elétricas, magnéticas, químicas e óticas)
-> - [ ] **2. Estrutura de sólidos cristalinos**
-> 	- [ ] Estruturas cristalinas: célula unitária
-> 	- [ ] Cálculo de densidade
-> 	- [ ] Polimorfismo e alotropia
-> 	- [ ] Direções e planos cristalográficos
-> 	- [ ] Densidades atômicas linear e planar
-> 	- [ ] Monocristais
-> 	- [ ] Materiais policristalinos
-> 	- [ ] Anisotropia
-> - [ ] **3. Imperfeições em sólidos**
-> 	- [ ] Defeitos pontuais: lacunas e impurezas
-> 	- [ ] Discordâncias
-> 	- [ ] Defeitos interfaciais
-> 	- [ ] Defeitos volumétricos ou de massa
-> 	- [ ] Vibrações atômicas
-> - [ ] **4. Difusão**
-> 	- [ ] Mecanismos da difusão
-> 	- [ ] Fatores que influenciam a difusão
-> - [ ] **5. Propriedades mecânicas dos metais**
-> 	- [ ] Conceitos de tensão e deformação
-> 	- [ ] Deformação elástica
-> 	- [ ] Deformação plástica
-> 	- [ ] Dureza
-> - [ ] **6. Mecanismos de aumento de resistência**
-> 	- [ ] Discordâncias e a deformação plástica
-> 	- [ ] Aumento da resistência pela redução do tamanho de grão
-> 	- [ ] Aumento da resistência por solução sólida
-> 	- [ ] Encruamento
-> 	- [ ] Recuperação, recristalização e crescimento de grão
-> - [ ] **7. Falha**
-> 	- [ ] Fratura
-> 	- [ ] Fadiga
-> 	- [ ] Fluência
-> - [ ] **8. Diagrama de fase**
-> 	- [ ] Diagramas de fase em condições de equilíbrio
-> 	- [ ] Sistema Ferro Carbono
-> 	- [ ] Transformações de fase
-> 	- [ ] Alterações microestruturais e das propriedades em ligas ferro carbono
-> - [ ] **9. Ligas Metálicas**
-> 	- [ ] Fabricação dos metais
-> 	- [ ] Ligas ferrosas
-> 	- [ ] Ligas não-ferrosas
-> - [ ] **10. Corrosão e degradação dos materiais**
-> - [ ] **11. Ensaios não destrutivos**
+> - **1. Ciência e engenharia dos materiais**
+> 	- Importância científica e tecnológica dos materiais
+> 	- Classificação geral dos materiais usados na engenharia
+> 	- Propriedades dos materiais (mecânicas, térmicas, elétricas, magnéticas, químicas e óticas)
+> - **2. Estrutura de sólidos cristalinos**
+> 	- Estruturas cristalinas: célula unitária
+> 	- Cálculo de densidade
+> 	- Polimorfismo e alotropia
+> 	- Direções e planos cristalográficos
+> 	- Densidades atômicas linear e planar
+> 	- Monocristais
+> 	- Materiais policristalinos
+> 	- Anisotropia
+> - **3. Imperfeições em sólidos**
+> 	- Defeitos pontuais: lacunas e impurezas
+> 	- Discordâncias
+> 	- Defeitos interfaciais
+> 	- Defeitos volumétricos ou de massa
+> 	- Vibrações atômicas
+> - **4. Difusão**
+> 	- Mecanismos da difusão
+> 	- Fatores que influenciam a difusão
+> - **5. Propriedades mecânicas dos metais**
+> 	- Conceitos de tensão e deformação
+> 	- Deformação elástica
+> 	- Deformação plástica
+> 	- Dureza
+> - **6. Mecanismos de aumento de resistência**
+> 	- Discordâncias e a deformação plástica
+> 	- Aumento da resistência pela redução do tamanho de grão
+> 	- Aumento da resistência por solução sólida
+> 	- Encruamento
+> 	- Recuperação, recristalização e crescimento de grão
+> - **7. Falha**
+> 	- Fratura
+> 	- Fadiga
+> 	- Fluência
+> - **8. Diagrama de fase**
+> 	- Diagramas de fase em condições de equilíbrio
+> 	- Sistema Ferro Carbono
+> 	- Transformações de fase
+> 	- Alterações microestruturais e das propriedades em ligas ferro carbono
+> - **9. Ligas Metálicas**
+> 	- Fabricação dos metais
+> 	- Ligas ferrosas
+> 	- Ligas não-ferrosas
+> - **10. Corrosão e degradação dos materiais**
+> - **11. Ensaios não destrutivos**
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Atividades, Trabalhos & Provas — Análise de Software Orientada a Objetos"
 created: 2026-08-29 11:15
-modified: 2026-09-14 11:17
+modified: 2026-09-14 20:12
 discipline: "Análise de Software Orientada a Objetos"
 period: "6-periodo"
 tags:

@@ -1,18 +1,16 @@
 ---
 publish: true
-title: 260326-Aula-Intro-1
-discipline:
-content:
-professor:
+title: "260326-Aula-Intro-1"
 created: 2026-03-26 14:49
-modified: 2026-09-07 16:46
+modified: 2026-09-14 20:12
+encrypted: true
+password: "eng232"
 tags:
+  - aula
+  - engenharia-de-computacao
+  - anotacoes-de-quadro
 cssclasses:
-  - embed-manila
-  - page-grid
-  - recolor-images
-  - center-images
-  - pen-purple
+  - page-layout
 ---
 # Notas de Aula - Intro
 ***

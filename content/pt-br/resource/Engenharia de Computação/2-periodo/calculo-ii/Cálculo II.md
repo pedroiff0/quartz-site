@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Cálculo II"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -40,28 +40,28 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Aplicações da Integral Definida**
-> 	- [ ] Cálculo de área;
-> 	- [ ] Volume de sólido de revolução;
-> 	- [ ] Centro de massa;
-> 	- [ ] Comprimento de arco.
-> - [ ] **2. Integrais Impróprias**
-> 	- [ ] Formas indeterminadas;
-> 	- [ ] Limites infinitos de integração.
-> - [ ] **3. Funções de Várias Variáveis**
-> 	- [ ] Funções de mais de uma variável;
-> 	- [ ] Limites e continuidade.
-> - [ ] **4. Derivadas Parciais**
-> 	- [ ] Regra da cadeia;
-> 	- [ ] Derivação implícita.
-> - [ ] **5. Aplicações das Derivadas Parciais**
-> 	- [ ] Derivada direcional e gradiente;
-> 	- [ ] Planos tangentes e normais a superfícies;
-> 	- [ ] Derivadas parciais de ordem superior.
-> - [ ] **6. Integração Múltipla**
-> 	- [ ] Integrais iteradas;
-> 	- [ ] Integrais duplas;
-> 	- [ ] Integrais triplas.
+> - **1. Aplicações da Integral Definida**
+> 	- Cálculo de área;
+> 	- Volume de sólido de revolução;
+> 	- Centro de massa;
+> 	- Comprimento de arco.
+> - **2. Integrais Impróprias**
+> 	- Formas indeterminadas;
+> 	- Limites infinitos de integração.
+> - **3. Funções de Várias Variáveis**
+> 	- Funções de mais de uma variável;
+> 	- Limites e continuidade.
+> - **4. Derivadas Parciais**
+> 	- Regra da cadeia;
+> 	- Derivação implícita.
+> - **5. Aplicações das Derivadas Parciais**
+> 	- Derivada direcional e gradiente;
+> 	- Planos tangentes e normais a superfícies;
+> 	- Derivadas parciais de ordem superior.
+> - **6. Integração Múltipla**
+> 	- Integrais iteradas;
+> 	- Integrais duplas;
+> 	- Integrais triplas.
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

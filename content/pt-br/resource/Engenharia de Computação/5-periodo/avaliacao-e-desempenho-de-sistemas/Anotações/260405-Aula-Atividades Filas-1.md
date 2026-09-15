@@ -1,16 +1,16 @@
 ---
 publish: true
-title: 260405-Aula-Atividades Filas-1
-discipline:
-content:
-professor:
+title: "260405-Aula-Atividades Filas-1"
 created: 2026-04-05 14:49
-modified: 2026-09-07 16:46
+modified: 2026-09-14 20:12
+encrypted: true
+password: "eng232"
 tags:
+  - aula
+  - engenharia-de-computacao
+  - anotacoes-de-quadro
 cssclasses:
-  - page-grid
-  - center-images
-
+  - page-layout
 ---
 # Notas de Aula - Atividades Filas
 ***

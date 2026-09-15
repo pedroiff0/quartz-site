@@ -5,7 +5,7 @@ aliases:
 publish: true
 title: "Álgebra Linear e Geometria Analítica II"
 created: 2026-07-18 12:00
-modified: 2026-09-14 09:49
+modified: 2026-09-14 20:12
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -38,29 +38,29 @@ cssclasses:
 
 
 > [!tip] 📖 Conteúdo Programático
-> - [ ] **1. Transformações Lineares**
-> 	- [ ] Transformações lineares;
-> 	- [ ] Núcleo e imagem de uma transformação linear;
-> 	- [ ] Matriz de uma transformação linear;
-> 	- [ ] Operações com transformações lineares;
-> 	- [ ] Transformações lineares no plano;
-> 	- [ ] Transformações lineares no espaço;
-> - [ ] **2. Operadores Lineares**
-> 	- [ ] Operadores Inversíveis;
-> 	- [ ] Mudança de base;
-> 	- [ ] Matrizes Semelhantes;
-> 	- [ ] Operadores auto-adjuntos;
-> 	- [ ] Operadores ortogonais.
-> - [ ] **3. Valores e Vetores Próprios**
-> 	- [ ] Determinação dos valores próprios e dos vetores próprios;
-> 	- [ ] Propriedades;
-> 	- [ ] Diagonalização de operadores;
-> 	- [ ] Diagonalização de matrizes simétricas;
-> - [ ] **4. Formas Quadráticas**
-> 	- [ ] Forma quadrática no plano;
-> 	- [ ] Classificação de cônicas;
-> 	- [ ] Forma quadrática no espaço;
-> 	- [ ] Classificação de quádricas.
+> - **1. Transformações Lineares**
+> 	- Transformações lineares;
+> 	- Núcleo e imagem de uma transformação linear;
+> 	- Matriz de uma transformação linear;
+> 	- Operações com transformações lineares;
+> 	- Transformações lineares no plano;
+> 	- Transformações lineares no espaço;
+> - **2. Operadores Lineares**
+> 	- Operadores Inversíveis;
+> 	- Mudança de base;
+> 	- Matrizes Semelhantes;
+> 	- Operadores auto-adjuntos;
+> 	- Operadores ortogonais.
+> - **3. Valores e Vetores Próprios**
+> 	- Determinação dos valores próprios e dos vetores próprios;
+> 	- Propriedades;
+> 	- Diagonalização de operadores;
+> 	- Diagonalização de matrizes simétricas;
+> - **4. Formas Quadráticas**
+> 	- Forma quadrática no plano;
+> 	- Classificação de cônicas;
+> 	- Forma quadrática no espaço;
+> 	- Classificação de quádricas.
 
 > [!info] 📚 Bibliografia Básica e Complementar (ABNT)
 > #### 📕 Bibliografia Básica

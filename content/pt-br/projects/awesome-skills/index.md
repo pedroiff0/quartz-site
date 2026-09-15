@@ -2,7 +2,7 @@
 publish: true
 title: awesome-skills
 created: 2026-08-08 13:04
-modified: 2026-09-14 11:55
+modified: 2026-09-14 20:12
 tags:
   - ia
   - agente

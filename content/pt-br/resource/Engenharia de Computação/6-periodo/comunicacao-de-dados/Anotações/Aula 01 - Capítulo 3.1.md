@@ -1,24 +1,15 @@
 ---
 publish: true
-title: Aula Sinais
-subtitle: ""
+title: "Aula Sinais"
 created: 2026-09-01 17:18
-modified: 2026-09-14 11:39
-discipline: ""
-period: ""
-professor: ""
+modified: 2026-09-14 20:12
 encrypted: true
 password: "eng232"
-
-# 🔗 Materiais e Arquivos da Aula (Disponíveis em _materiais da Disciplina)
-slides_aula: ""
-roteiro_aula: ""
-anexos: ""
-
 tags:
   - aula
+  - aula-01
   - engenharia-de-computacao
-  - anotacao
+  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---
