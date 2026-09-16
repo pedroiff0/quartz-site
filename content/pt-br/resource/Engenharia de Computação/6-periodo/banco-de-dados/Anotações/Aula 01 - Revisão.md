@@ -7,7 +7,7 @@ tags:
   - aula
   - engenharia-de-computacao
 created: 2026-09-15 13:47
-modified: 2026-09-15 21:50
+modified: 2026-09-16 11:01
 cssclasses:
   - page-layout
 ---
@@ -98,7 +98,7 @@ Chave Estrangeira (FK):
 ---
 
 ## Flashcards de Fixação (Spaced Repetition)
-#flashcards
+#flashcard
 <!-- Sintaxe: Pergunta::Resposta ou Pergunta:::Resposta invertida -->
 - 
 
@@ -106,5 +106,3 @@ Chave Estrangeira (FK):
 
 ## Dúvidas & Exercícios Recomendados
 - [ ] 
-
-https://github.com/alibaba/open-code-review
