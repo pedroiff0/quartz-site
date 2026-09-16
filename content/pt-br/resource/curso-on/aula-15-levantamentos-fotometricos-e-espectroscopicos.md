@@ -2,7 +2,7 @@
 publish: false
 title: Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
 created: 2026-07-25 12:36
-modified: 2026-09-14 11:17
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -19,9 +19,9 @@ content: Panorama histórico dos grandes levantamentos astronômicos — de cat�
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|← Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|Aula 16 — Métodos de Determinação de Idades Estelares →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|← Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|Aula 16 — Métodos de Determinação de Idades Estelares →]]
 
-# 🔭 Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
+# Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
 
 > [!note] Resumo
 > Um panorama de como a astronomia observacional foi da contagem manual de objetos difusos (Messier, séc. XVIII) aos levantamentos digitais que hoje sustentam a arqueologia galáctica — fotografia (Carte du Ciel, POSS), a virada digital (SDSS), surveys all-sky (2MASS, WISE, DES, Euclid, LSST) e, por fim, um comparativo direto dos principais levantamentos espectroscópicos (Gaia, APOGEE, GALAH, LAMOST, DESI e outros) usados para reconstruir a história química e dinâmica da Via Láctea.
@@ -34,17 +34,17 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 📜 Dos catálogos visuais à era fotográfica
+## Dos catálogos visuais à era fotográfica
 
 Os primeiros grandes catálogos eram compilações visuais: o **Catálogo Messier** (séc. XVIII, ~110 objetos difusos, originalmente pensado para não confundir nebulosas com cometas), o **New General Catalogue** (NGC, Dreyer 1888, ~7.800 nebulosas e aglomerados) e o **Index Catalogue** (IC, Dreyer 1895-1908, mais de 13 mil objetos, já incorporando descobertas por placa fotográfica).
 
 A **era fotográfica** ampliou drasticamente a escala: o **Carte du Ciel** (1887), um projeto colaborativo internacional com mais de 22 mil placas de vidro, tentou (sem nunca concluir) mapear fotograficamente todo o céu; o **Palomar Observatory Sky Survey (POSS)**, entre as décadas de 1950-1990, tornou-se o atlas fotográfico de referência do hemisfério norte, servindo de base para inúmeros catálogos e digitalizações posteriores.
 
-## 💻 A virada digital: SDSS e a primeira geração de CCD
+## A virada digital: SDSS e a primeira geração de CCD
 
 Nos anos 1990, surveys baseados em CCD (DMS, CFRS, LCRS, ESP, entre outros) já exploravam estrutura em grande escala e evolução de galáxias, mas foi o **Sloan Digital Sky Survey (SDSS)**, iniciado em 2000, que marcou a transição definitiva: fotometria digital em 5 bandas (_ugriz_), espectroscopia automatizada, pipeline totalmente digital e banco de dados público — mais de 500 milhões de objetos fotométricos, milhões de espectros, centenas de TB de dados. É o modelo (arquitetura de pipeline + acesso público) que praticamente todo levantamento posterior seguiu.
 
-## 🛰️ Surveys fotométricos all-sky e de grande campo
+## Surveys fotométricos all-sky e de grande campo
 
 | Survey | Cobertura/banda | Escala | Papel principal |
 |---|---|---|---|
@@ -61,11 +61,11 @@ Nos anos 1990, surveys baseados em CCD (DMS, CFRS, LCRS, ESP, entre outros) já 
 > [!info] O que o DES revelou sobre o halo
 > A combinação de profundidade + área do DES permitiu mapear populações estelares muito tênues do halo, revelando **correntes estelares**, **galáxias anãs satélites** e estruturas resultantes de eventos de acréscimo — evidência direta de que o halo estelar da Via Láctea é feito de múltiplas subestruturas fossilizadas da formação hierárquica da Galáxia (o mesmo tema da Escola de Inverno).
 
-## ⚠️ Cuidados ao analisar dados fotométricos
+## Cuidados ao analisar dados fotométricos
 
 Nem todo objeto num catálogo fotométrico é igualmente confiável. Pontos de atenção recorrentes: comportamento nas extremidades **faint/bright** da distribuição; a relação entre magnitude e seu erro (_mag_ vs. _emag\_err_, que tipicamente cresce nas bordas); e a **completeza** do catálogo — comprometida por limites de detecção/seleção, viés contra objetos de baixo brilho superficial, _blending_/_crowding_ (fontes sobrepostas em regiões densas) e extinção interestelar (Aula 05 do curso-on).
 
-## 🌈 Comparativo dos principais levantamentos espectroscópicos
+## Comparativo dos principais levantamentos espectroscópicos
 
 | Survey | Resolução | Banda | Telescópio/instrumento | Nº de objetos | Objetivo principal |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@ Nem todo objeto num catálogo fotométrico é igualmente confiável. Pontos de a
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **SDSS como ponto de virada:** primeiro survey a combinar fotometria digital multibanda, espectroscopia automatizada e banco de dados público num pipeline unificado — o modelo seguido por praticamente todo survey posterior.
 - **Trade-off resolução vs. cobertura/objetos:** levantamentos de alta resolução (GALAH, APOGEE, Gaia-ESO) sacrificam número de objetos por precisão em abundâncias; levantamentos de baixa resolução (SEGUE, BOSS, DESI, LAMOST-LRS) trocam precisão por volume.
@@ -92,11 +92,11 @@ Nem todo objeto num catálogo fotométrico é igualmente confiável. Pontos de a
 - **Completeza de catálogo:** nunca assumir que um catálogo fotométrico é uma amostra não enviesada — limites de detecção, _blending_ e extinção sempre introduzem seletividade.
 - **$R=\lambda/\Delta\lambda$:** a resolução espectral que determina se linhas espectrais próximas podem ser distinguidas — crítica para qualquer medida de abundância ou velocidade radial.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Aula 05 — Avermelhamento, Extinção e IMF]] — extinção interestelar como uma das fontes de incompletude discutidas aqui
 - [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica]] — usa exatamente o catálogo APOGEE DR19 apresentado nesta tabela
 - [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — o levantamento GALAH, aqui comparado a seus pares, é a base de dados da minha própria pesquisa
-- [[pt-br/projects/Acadêmico/Anomaly_Detection/README|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa combina exatamente GALAH DR4 e astrometria Gaia, dois dos levantamentos desta tabela
+- [[pt-br/projects/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa combina exatamente GALAH DR4 e astrometria Gaia, dois dos levantamentos desta tabela
 - [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|Aula 16 — Métodos de Determinação de Idades Estelares]] — os dados espectroscópicos/fotométricos vistos aqui alimentam diretamente os métodos de idade discutidos a seguir

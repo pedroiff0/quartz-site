@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Cálculo IV"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,17 +11,17 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.31`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Tacila (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Singularidades e séries de Laurent. Resíduos e polos. Integração complexa. Teorema de Cauchy-Goursat. Teorema do resíduo. Transformada de Laplace. Séries de Fourier. Transformada de Fourier.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Compreender e aplicar os principais resultados sobre séries de potências que representam funções reais;
 > - Adquirir noções de funções de variável complexa;
 > - Desenvolver funções de variável complexa em séries de Laurent;
@@ -32,14 +29,14 @@ cssclasses:
 > - Aplicar o cálculo de resíduos à obtenção da transformada inversa de Laplace;
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/index|CSECBJI.17 - Cálculo III]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/index|CSECBJI.83 - Processamento de Sinais]]
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/Cálculo III|CSECBJI.17 - Cálculo III]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Processamento de Sinais|CSECBJI.83 - Processamento de Sinais]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Sequências e séries**
 > 	- Definições e notações;
 > 	- Critérios de convergência;
@@ -83,12 +80,12 @@ cssclasses:
 > 	- Definição e propriedades;
 > 	- Aplicações.
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 10.ª Edição Rio de Janeiro: LTC, 2015.
 > 2. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 4. 3ª Edição. Rio de Janeiro: LTC, 2018
 > 3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
 > 2. BROWN, J. W., CHURCHIL, R. V. Variáveis Complexas e Aplicações. 9ª Edição. São Paulo: McGraw Hill, 2015.
 > 3. MCMAHON, D. Variáveis Complexas Desmitificadas: Um Guia para o Autoaprendizado. São Paulo:
@@ -97,15 +94,5 @@ cssclasses:
 > 6. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/Anotações/Esboço/aula-01-sequências-e-séries|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/Anotações/Esboço/aula-02-definições-e-notações|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/Anotações/Esboço/aula-03-critérios-de-convergência|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/Anotações/Esboço/aula-04-propriedades|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/Anotações/Esboço/aula-05-séries-de-taylor-e-maclaurin|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/Anotações/Esboço/aula-06-séries-de-potências|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

@@ -2,7 +2,7 @@
 publish: false
 title: Compiladores
 created: 2026-07-26 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -62,7 +62,7 @@ O que dominar: organização de memória de um programa em execução (pilha, he
 - **Ignorar que otimizações podem mudar comportamento observável** — otimizações agressivas assumem ausência de efeitos colaterais problemáticos; código que depende de ordem de avaliação não especificada pode se comportar diferente compilado com e sem otimização.
 - **Pular a base de Linguagens Formais e Autômatos** — expressões regulares e gramáticas livres de contexto não são "matéria antiga passada" aqui: são literalmente a especificação formal do analisador léxico e do analisador sintático que você constrói nesta disciplina.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Livro gratuito online
 
@@ -77,11 +77,11 @@ O que dominar: organização de memória de um programa em execução (pilha, he
 
 - AHO, A. V., LAM, M. S., SETHI, R., ULLMAN, J. D. _Compiladores: Princípios, Técnicas e Ferramentas_ (o "Dragon Book") — a referência canônica da área, cobre exatamente as fases desta trilha em profundidade.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/) — série de posts gratuita e muito didática, construindo um interpretador em Python passo a passo desde o analisador léxico.
 
 ## Conexão com as disciplinas do curso
 
 - [[pt-br/resource/computacao/linguagens-formais-e-automatos|Linguagens Formais e Autômatos]] — pré-requisito direto: expressões regulares/AFD viram análise léxica, gramáticas livres de contexto/autômato de pilha viram análise sintática.
-- [[pt-br/resource/engenharia-de-computação/6-periodo/compiladores|Compiladores]] — a disciplina do 6º período que cobre exatamente esta trilha.
+- [[pt-br/resource/Engenharia de Computação/6-periodo/compiladores/Compiladores|Compiladores]] — a disciplina do 6º período que cobre exatamente esta trilha.

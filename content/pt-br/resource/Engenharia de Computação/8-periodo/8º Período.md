@@ -1,35 +1,32 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "8º Período"
 created: 2026-07-21 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 cssclasses:
   - page-layout
 ---
 
 
-> [!info] 🎓 Visão Geral e Carga Horária do Período
+> [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `420h`
 > - **Resumo Pedagógico:** Sistemas microcontrolados, arquitetura de alto desempenho e segurança do trabalho.
 
 
-> [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/index|Arquitetura de Computadores]]** (`80h` · Núcleo Especifico)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/index|Microcontroladores]]** (`80h` · Núcleo Especifico)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/redes-de-computadores-ii/index|Redes de Computadores II]]** (`80h` · Núcleo Especifico)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/index|Sistemas Operacionais II]]** (`60h` · Núcleo Especifico)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/metodologia-cientifica-e-tecnologica/index|Metodologia Científica e Tecnológica]]** (`60h` · Núcleo Humanas)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/8-periodo/seguranca-e-higiene-do-trabalho/index|Segurança e Higiene do Trabalho]]** (`60h` · Núcleo Humanas)
+> [!note]  Grade Curricular e Disciplinas Integrantes
+> -  **[[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/Arquitetura de Computadores|Arquitetura de Computadores]]** (`80h` · Núcleo Especifico)
+> -  **[[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/Microcontroladores|Microcontroladores]]** (`80h` · Núcleo Especifico)
+> -  **[[pt-br/resource/Engenharia de Computação/8-periodo/redes-de-computadores-ii/Redes de Computadores II|Redes de Computadores II]]** (`80h` · Núcleo Especifico)
+> -  **[[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/Sistemas Operacionais II|Sistemas Operacionais II]]** (`60h` · Núcleo Especifico)
+> -  **[[pt-br/resource/Engenharia de Computação/8-periodo/metodologia-cientifica-e-tecnologica/Metodologia Científica e Tecnológica|Metodologia Científica e Tecnológica]]** (`60h` · Núcleo Humanas)
+> -  **[[pt-br/resource/Engenharia de Computação/8-periodo/seguranca-e-higiene-do-trabalho/Segurança e Higiene do Trabalho|Segurança e Higiene do Trabalho]]** (`60h` · Núcleo Humanas)
 
 
-> [!tip] 📎 Documentos e Horários Institucionais
-> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
-> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
+> [!tip]  Documentos e Horários Institucionais
+> -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
+> -  **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
 
-## 🎨 Carrossel de Disciplinas do Período
+## Carrossel de Disciplinas do Período
 
 Navegue interativamente pelas disciplinas deste bloco letivo:
 

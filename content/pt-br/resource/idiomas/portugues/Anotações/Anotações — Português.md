@@ -1,0 +1,30 @@
+---
+aliases:
+  - Repositório de Anotações
+publish: false
+title: "Anotações — Português"
+created: 2026-09-14 11:54
+modified: 2026-09-15 21:33
+tags:
+  - anexo
+  - portugues
+  - idioma
+cssclasses:
+  - page-layout
+---
+
+# Repositório de Anotações — Português
+
+> [!info] Hub de Navegação de Lições
+> Todas as anotações detalhadas de aula, exercícios e flashcards deste idioma.
+
+## Lições Estruturadas
+| Aula / Conteúdo | Data |
+| :--- | :---: |
+| [[Anotações — Português\|Repositório de Anotações — Português]] | 14/09/2026 |
+| [[aula-01-alfabeto-fonetica-e-saudacoes\|Aula 01 — Fonologia, Nova Ortografia e Regras de Acentuação Gráfica]] | 14/09/2026 |
+| [[aula-02-pronomes-e-verbos-essenciais\|Aula 02 — Sintaxe de Regência Verbal, Nominal e Concordância]] | 14/09/2026 |
+| [[aula-03-numeros-e-apresentacao-pessoal\|Aula 03 — Coesão, Coerência e Estrutura de Redação Dissertativo-Argumentativa]] | 14/09/2026 |
+
+## Caderno de Atividades & Exercícios
+-  [[Atividades/Atividades — Português|Acessar Caderno de Atividades de Português]]

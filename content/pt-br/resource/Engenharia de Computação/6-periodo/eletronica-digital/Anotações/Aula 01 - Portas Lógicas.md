@@ -2,7 +2,7 @@
 publish: true
 title: "Aula 01 - Portas Lógicas"
 created: 2026-08-24 14:50
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 encrypted: true
 password: "eng232"
 tags:
@@ -21,34 +21,34 @@ cssclasses:
   </div>
 </div>
 
-# 📝 Aula 01 - Portas Lógicas
+# Aula 01 - Portas Lógicas
 
-> [!info] 📌 Informações da Aula
+> [!info]  Informações da Aula
 > - **Docente:** Fabrício Barros Gonçalves
 > - **Data da Aula:** 24/08/2026
 > - **Tópico Central:** Portas Lógicas Fundamentais, Álgebra Booleana e Circuitos Combinacionais
 > - **Status das Anotações:**
->   - [ ] 🟡 Planejando
->   - [ ] 🟠 Em Andamento
->   - [x] 🟢 Concluído
+>   - [ ]  Planejando
+>   - [ ]  Em Andamento
+>   - [x]  Concluído
 
-## 📂 Materiais & Recursos Didáticos da Aula
+## Materiais & Recursos Didáticos da Aula
 
 > [!tip] 🔗 Arquivos e Materiais da Disciplina
 > - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
 > - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
 > - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
-## 📋 Sumário Interativo
-- [📍 Anotações](#-anotações)
-- [🧠 Resumo](#-resumo)
-- [📝 Dúvida](#-dúvida)
+## Sumário Interativo
+- [ Anotações](#-anotações)
+- [ Resumo](#-resumo)
+- [ Dúvida](#-dúvida)
 
 ---
 
-## 📍 Anotações
+## Anotações
 
-### 📐 Revisão de Lógica para Computação & Fundamentação Teórica
+### Revisão de Lógica para Computação & Fundamentação Teórica
 
 Nesta aula de **Eletrônica Digital**, estudamos a transição da lógica matemática/proposicional para o ambiente de hardware por meio dos blocos lógicos fundamentais (portas lógicas).
 
@@ -213,7 +213,7 @@ $$S = \overline{A \oplus B} = A B + \bar{A}\bar{B}$$
 
 ---
 
-### 🧮 Mintermos e Maxtermos
+### Mintermos e Maxtermos
 
 1. **Mintermos (Soma de Produtos - SOP):**
    - Correspondem às combinações da tabela-verdade onde a saída do circuito é $1$.
@@ -227,7 +227,7 @@ $$S = \overline{A \oplus B} = A B + \bar{A}\bar{B}$$
 
 ---
 
-### 📖 Exemplo do Quadro: Diagrama de Trilhos e Portas Lógicas para ABC
+### Exemplo do Quadro: Diagrama de Trilhos e Portas Lógicas para ABC
 
 Abaixo está o circuito completo com barramento/trilhos de sinal ($A, B, C$) e seus respectivos inversores (NOT), alimentando os mintermos e maxtermos e conectando à porta principal de saída ao final da expressão:
 
@@ -355,7 +355,7 @@ flowchart LR
 
 ---
 
-## 🧠 Resumo
+## Resumo
 
 | Tópico | Princípio Central | Atenção Especial / Pegadinha |
 | :--- | :--- | :--- |
@@ -364,19 +364,19 @@ flowchart LR
 | **Universalidade NAND/NOR** | Implementa qualquer circuito lógico | Atenção às inversões duplas ao aplicar De Morgan |
 | **Diagrama de Trilhos** | Conecta barramentos A, B, C | Passar por portas NOT antes dos blocos AND/OR |
 
-> [!tip] 💡 Dica de Prova do Professor Fabrício
+> [!tip]  Dica de Prova do Professor Fabrício
 > Em avaliações e no laboratório, dê preferência a trabalhar com **mintermos ($\sum m$)**, pois simplifica a conversão para circuitos AND-OR e facilita a montagem dos diagramas de trilho no **LogiSim**!
 
 ---
 
-## 📝 Dúvidas & Exercícios Recomendados
+## Dúvidas & Exercícios Recomendados
 
 - [x] Testar os circuitos das 7 portas no simulador LogiSim (`logisim-generic-2.7.1.jar`).
 - [ ] Resolver a [Lista de Exercícios de Notação Correta em PDF](/assets/disciplinas/6-periodo/eletronica-digital/Lista_Eletronica_Digital_Notacao_Correta.pdf).
 - [ ] Desenhar o circuito de mintermos para a função $S(A,B,C) = \sum m(1, 4, 7)$ utilizando os trilhos A, B, C.
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
+  <div>⬅ <b><a href="#">Aula Anterior</a></b></div>
+  <div> <b><a href="../">Hub da Disciplina</a></b></div>
+  <div> <b><a href="#">Próxima Aula</a></b></div>
 </div>

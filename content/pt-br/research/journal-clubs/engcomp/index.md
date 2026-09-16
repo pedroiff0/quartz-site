@@ -76,4 +76,4 @@ Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">�
 - [[pt-br/research/journal-clubs/engcomp/dashboard|Dashboard do clube]] — atividade por mês, tópico e apresentador.
 - [[pt-br/research/Journal-Clubs/|Journal Clubs — visão geral]]
 - [[pt-br/research/journal-clubs/mwbr|MWBR]]
-- [[pt-br/mapa/MOC - Pesquisa e Astronomia|Pesquisa — visão geral]]
+- [[pt-br/research/index|Pesquisa — visão geral]]

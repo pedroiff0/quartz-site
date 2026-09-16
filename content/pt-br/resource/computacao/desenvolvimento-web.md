@@ -2,7 +2,7 @@
 publish: false
 title: Desenvolvimento Web
 created: 2026-07-26 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -61,7 +61,7 @@ O que dominar: uma visão geral de performance web (tempo de carregamento, cache
 - **Confundir síncrono e assíncrono em JavaScript** — `fetch` e outras operações de rede são assíncronas por natureza (a resposta não chega instantaneamente); tratar código assíncrono como se fosse síncrono é a fonte mais comum de bugs de iniciante ("por que essa variável ainda está vazia?").
 - **Guardar segredos (senhas, chaves de API) no código do front-end** — tudo que roda no navegador é visível a quem inspecionar o código-fonte; segredos sempre ficam no back-end.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Livros e apostilas abertas
 
@@ -75,12 +75,12 @@ O que dominar: uma visão geral de performance web (tempo de carregamento, cache
 - **[MDN Web Docs](https://developer.mozilla.org/pt-BR/)** — a referência definitiva de HTML, CSS e JavaScript, mantida pela Mozilla, com tradução em português.
 - **[freeCodeCamp](https://www.freecodecamp.org/)** — currículo completo e gratuito, do zero absoluto até projetos full-stack, com certificados.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [roadmap.sh/frontend](https://roadmap.sh/frontend) e [roadmap.sh/backend](https://roadmap.sh/backend) — mapas visuais atualizados do que compõe uma formação em front-end e back-end, úteis pra situar onde cada tecnologia (frameworks, bancos, ferramentas) se encaixa.
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web|Desenvolvimento Web]] — a eletiva que cobre exatamente esta trilha: programação para Web, frameworks, acesso a banco de dados e engenharia Web.
+- [[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/Desenvolvimento Web|Desenvolvimento Web]] — a eletiva que cobre exatamente esta trilha: programação para Web, frameworks, acesso a banco de dados e engenharia Web.
 - [[pt-br/resource/computacao/redes|Redes]] — a base de protocolos (TCP/IP, DNS) sobre a qual HTTP roda.
-- [[pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados|Banco de Dados]] — o que sustenta a persistência de dados de qualquer aplicação web real.
+- [[pt-br/resource/Engenharia de Computação/6-periodo/banco-de-dados/Banco de Dados|Banco de Dados]] — o que sustenta a persistência de dados de qualquer aplicação web real.

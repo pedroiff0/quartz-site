@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Equações Diferenciais"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,30 +11,30 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.18`
 > - **Período:** 3º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Gustavo Stênio (gustavo.neitzel@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explícitas. Equações lineares de 2.ª ordem. Equações diferenciais lineares de ordem superior. O método da variação dos parâmetros. Solução de equações diferenciais ordinárias. Introdução a equações diferenciais parciais.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Apresentar ao aluno os conceitos básicos de equações diferenciais ordinárias e parciais;
 > - Resolver problemas.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/index|CSECBJI.4 - Cálculo I]]
-> - [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/index|CSECBJI.5 - Álgebra Linear e Geometria Analítica I]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/eletivas/modelagem-ambiental/index|CSECBJI.85 - Modelagem Ambiental]]
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Cálculo I|CSECBJI.4 - Cálculo I]]
+> - [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Álgebra Linear e Geometria Analítica I|CSECBJI.5 - Álgebra Linear e Geometria Analítica I]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/eletivas/modelagem-ambiental/Modelagem Ambiental|CSECBJI.85 - Modelagem Ambiental]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Conceitos fundamentais em equações diferenciais**
 > 	- Definição de Equação Diferencial Ordinária
 > 	- Ordem e Grau de uma Equação Diferencial
@@ -75,13 +72,13 @@ cssclasses:
 > 	- Soluções de Equações Diferenciais Parciais
 > 	- Problemas com Condições Iniciais/de Contorno
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno.
 > 2. ª Edição Rio de Janeiro: LTC, 2015.
 > 3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
 > 4. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
 > 2. ÇENGEL, Y. A., PALM III, W. J. Equações Diferenciais. São Paulo: McGrall Hill, 2014.
 > 3. DIACU, F. Introdução à Equações Diferenciais: Teoria e Aplicações. Rio de Janeiro, 2004.
@@ -89,15 +86,5 @@ cssclasses:
 > 5. NAGLE, K. R., SAFF, E. B., SNYDER, A. D. Equações Diferenciais. 8ª Edição. São Paulo: Pearson, 2012.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Anotações/Esboço/aula-01-conceitos-fundamentais-em-equações-difer|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Anotações/Esboço/aula-02-definição-de-equação-diferencial-ordinár|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Anotações/Esboço/aula-03-ordem-e-grau-de-uma-equação-diferencial|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Anotações/Esboço/aula-04-equação-diferencial-ordinária-linear-de-|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Anotações/Esboço/aula-05-solução-de-uma-equação-diferencial|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Anotações/Esboço/aula-06-existência-e-unicidade-de-solução-para-u|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

@@ -1,5 +1,0 @@
----
-cssclasses:
-  - page-layout
----
-

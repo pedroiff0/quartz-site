@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Introdução à Ciência dos Materiais"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,29 +11,29 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.23`
 > - **Período:** 3º Período | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Alcides Oliveira (alcides.oliveira@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em Sólidos; Difusão; Propriedades Mecânicas dos Metais; Mecanismo de Aumento de Resistência; Falha; Diagrama de Fase; Ligas Metálicas; Corrosão e Degradação dos Materiais; Ensaios não Destrutivos.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Desenvolver habilidade para seleção e utilização de materiais na engenharia;
 > - Proporcionar aos alunos a aquisição de conhecimentos em ciência e tecnologia de materiais, capacitando-o a reconhecer, classificar e selecionar materiais aplicados a equipamentos e processos no campo da tecnologia de automação.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/index|CSECBJI.15 - Química]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/Química|CSECBJI.15 - Química]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Ciência e engenharia dos materiais**
 > 	- Importância científica e tecnológica dos materiais
 > 	- Classificação geral dos materiais usados na engenharia
@@ -86,13 +83,13 @@ cssclasses:
 > - **10. Corrosão e degradação dos materiais**
 > - **11. Ensaios não destrutivos**
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. ASKELAND, D., WRIGHT, W. Ciência e Engenharia dos Materiais. 2ª Edição. São Paulo: Cengage,
 > 2. CALLISTER, W. D., RETHWISCH, D. Ciência e Engenharia dos Materiais: Uma Introdução. 9ª Edição.
 > 3. Rio de Janeiro: LTC, 2016.
 > 4. VAN VLACK, L. H. Princípios de Ciência e Tecnologia dos Materiais. São Paulo: Editora Campus,
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 5. BOTELHO, M. H. C. Resistência dos Materiais: Para Entender e Gostar. 4ª Edição. São Paulo:
 > 6. Blucher, 2017.
 > 7. GARCIA, A.
@@ -101,15 +98,5 @@ cssclasses:
 > 10. SMITH, W. F., HASHEMI, J. Fundamentos de Engenharia e Ciência dos Materiais. 5ª Edição. São Paulo: McGraw Hill, 2012.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/Anotações/Esboço/aula-01-ciência-e-engenharia-dos-materiais|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/Anotações/Esboço/aula-02-importância-científica-e-tecnológica-dos|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/Anotações/Esboço/aula-03-classificação-geral-dos-materiais-usados|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/Anotações/Esboço/aula-04-propriedades-dos-materiais-mecânicas-tér|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/Anotações/Esboço/aula-05-estrutura-de-sólidos-cristalinos|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/Anotações/Esboço/aula-06-estruturas-cristalinas-célula-unitária|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

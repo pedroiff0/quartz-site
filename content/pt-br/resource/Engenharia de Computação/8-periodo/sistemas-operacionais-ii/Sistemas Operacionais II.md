@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Sistemas Operacionais II"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.63`
 > - **Período:** 8º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Sistemas de Arquivos; Entrada/Saída; Deadlocks.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Aprofundar os conhecimentos acerca das estruturas de um sistema operacional.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/index|CSECBJI.56 - Sistemas Operacionais I]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/Sistemas Operacionais I|CSECBJI.56 - Sistemas Operacionais I]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Sistemas de Arquivos**
 > 	- Arquivos
 > 	- Diretórios
@@ -58,12 +55,12 @@ cssclasses:
 > 	- Prevenção de Deadlocks
 > 	- Outras Questões
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
 > 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
 > 3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
 > 2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.
 > 3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição.
@@ -72,15 +69,5 @@ cssclasses:
 > 6. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/Anotações/Esboço/aula-01-sistemas-de-arquivos|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/Anotações/Esboço/aula-02-arquivos|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/Anotações/Esboço/aula-03-diretórios|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/Anotações/Esboço/aula-04-implementação-do-sistema-de-arquivos|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/Anotações/Esboço/aula-05-gerenciamento-e-otimização-dos-sistemas|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/Anotações/Esboço/aula-06-exemplos-de-sistemas-de-arquivos|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

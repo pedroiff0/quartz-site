@@ -38,28 +38,28 @@ cssclasses:
   - center-images
   - center-titles
 created: 2026-09-07 16:53
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 ---
 
-# 🎓 Trabalho - Normalização e Dependências Funcionais em Banco de Dados
+# Trabalho - Normalização e Dependências Funcionais em Banco de Dados
 
 > [!abstract] Resumo Executivo da Apresentação
 > Este trabalho apresenta o estudo formal e aplicado do processo de **Normalização de Esquemas Relacionais**, utilizando a teoria das **Dependências Funcionais (DFs)** como alicerce matemático. Demonstra-se, a partir de um cenário não-normalizado de **Gestão de Projetos e Alocação de Engenharia**, a transição sistemática da **Forma Não-Normalizada (0FN)** para a **1FN**, **2FN** e **3FN** (com considerações sobre BCNF), eliminando anomalias de inserção, atualização e exclusão, com garantia formal de *Junção sem Perdas (Lossless Join)* e *Preservação de Dependências*.
 
-> [!info] 📌 Informações & Checklist do Trabalho
+> [!info]  Informações & Checklist do Trabalho
 > - **Docente:** Pablo Manhães
 > - **Data Prevista:** 01/09/2026
 > - **Autores / Equipe:** Arthur de Oliveira Lima Potente, Breno Luiz Silva do Carmo, Isaac Salles Gonçalves, Pedro Henrique Rocha de Andrade
 > - **Status da Atividade:** Apresentado
-> - [x] 🎯 Apresentar Trabalho: Normalização e Dependências Funcionais
+> - [x]  Apresentar Trabalho: Normalização e Dependências Funcionais
 
-> [!important] 🔒 Acesso e Senha dos Arquivos
+> [!important]  Acesso e Senha dos Arquivos
 > Os materiais gerados na pasta `_materiais/` e espelhados no Quartz Site são protegidos pela senha canônica:
 > **`eng232`**
 
 ---
 
-## 📂 Recursos & Materiais da Disciplina
+## Recursos & Materiais da Disciplina
 
 > [!tip] 🔗 Arquivos e Materiais da Disciplina
 > - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
@@ -67,14 +67,14 @@ modified: 2026-09-14 20:12
 > - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
 ---
-## 📋 Sumário Interativo
-- [🎯 1. Fundamentos & Motivação Teórica](#-1-fundamentos--motivação-teórica)
-- [🔍 2. O Cenário Não-Normalizado: Um Caso Prático de Engenharia](#-2-o-cenário-não-normalizado-um-caso-prático-de-engenharia)
-- [📐 3. Dependências Funcionais & O Processo de Normalização Passo a Passo](#-3-dependências-funcionais--o-processo-de-normalização-passo-a-passo)
-- [📈 4. Comparativo de Esquemas, Garantias Formais & Conclusões](#-4-comparativo-de-esquemas-garantias-formais--conclusões)
-- [📚 5. Referências Bibliográficas](#-5-referências-bibliográficas)
+## Sumário Interativo
+- [ 1. Fundamentos & Motivação Teórica](#-1-fundamentos--motivação-teórica)
+- [ 2. O Cenário Não-Normalizado: Um Caso Prático de Engenharia](#-2-o-cenário-não-normalizado-um-caso-prático-de-engenharia)
+- [ 3. Dependências Funcionais & O Processo de Normalização Passo a Passo](#-3-dependências-funcionais--o-processo-de-normalização-passo-a-passo)
+- [ 4. Comparativo de Esquemas, Garantias Formais & Conclusões](#-4-comparativo-de-esquemas-garantias-formais--conclusões)
+- [ 5. Referências Bibliográficas](#-5-referências-bibliográficas)
 ---
-## 🎯 1. Fundamentos & Motivação Teórica
+## 1. Fundamentos & Motivação Teórica
 
 ### 1.1 O Papel da Teoria Relacional
 O modelo relacional clássico proposto por **Edgar F. Codd (1970)** fundamenta o armazenamento e a recuperação de dados em conceitos matemáticos de conjuntos e lógica de predicados de primeira ordem. Em um ambiente operacional, esquemas relacionais mal projetados sofrem de três patologias graves decorrentes da **redundância de dados**:
@@ -116,7 +116,7 @@ $$t_1[X] = t_2[X] \implies t_1[Y] = t_2[Y]$$
 
 ---
 
-## 🔍 2. O Cenário Não-Normalizado: Um Caso Prático de Engenharia
+## 2. O Cenário Não-Normalizado: Um Caso Prático de Engenharia
 
 Para ilustrar o processo completo de forma direta e compreensível em uma apresentação de 10 minutos, examinamos o sistema de alocação de projetos de um laboratório de engenharia:
 
@@ -139,7 +139,7 @@ $$\text{Tabela}( \underline{\text{Num\_Proj}}, \underline{\text{Num\_Emp}}, \tex
 
 ---
 
-## 📐 3. Dependências Funcionais & O Processo de Normalização Passo a Passo
+## 3. Dependências Funcionais & O Processo de Normalização Passo a Passo
 
 ```
        [ 0FN: Tabela Universal com Listas ]
@@ -247,7 +247,7 @@ Extraímos a relação de departamento para sua própria tabela:
 
 ---
 
-## 📈 4. Comparativo de Esquemas, Garantias Formais & Conclusões
+## 4. Comparativo de Esquemas, Garantias Formais & Conclusões
 
 ### 4.1 O Esquema Relacional Final Normalizado (3FN / BCNF)
 
@@ -257,7 +257,7 @@ O banco de dados final é composto por **5 relações especializadas e desacopla
  ┌────────────────────────┐             ┌────────────────────────┐
  │        PROJETO         │             │       DEPARTAMENTO     │
  ├────────────────────────┤             ├────────────────────────┤
- │ 🔑 Num_Proj (PK)       │             │ 🔑 Num_Depto (PK)      │
+ │  Num_Proj (PK)       │             │  Num_Depto (PK)      │
  │    Nome_Proj           │             │    Nome_Depto          │
  │    Orcamento           │             │    Cod_Gerente         │
  └───────────┬────────────┘             └───────────▲────────────┘
@@ -266,17 +266,17 @@ O banco de dados final é composto por **5 relações especializadas e desacopla
  ┌───────────▼────────────┐             ┌───────────┴────────────┐
  │        ALOCACAO        │             │        EMPREGADO       │
  ├────────────────────────┤             ├────────────────────────┤
- │ 🔑 Num_Proj (PK, FK)   │ (N:1)       │ 🔑 Num_Emp (PK)        │
- │ 🔑 Num_Emp  (PK, FK)   ├─────────────►    Nome_Emp            │
+ │  Num_Proj (PK, FK)   │ (N:1)       │  Num_Emp (PK)        │
+ │  Num_Emp  (PK, FK)   ├─────────────►    Nome_Emp            │
  │    Horas_Semana        │             │    Cargo               │
- └────────────────────────┘             │ 🔗 Num_Depto (FK)      │
+ └────────────────────────┘             │  Num_Depto (FK)      │
                                         └───────────▲────────────┘
                                                     │ (1:N)
                                         ┌───────────┴────────────┐
                                         │  EMPREGADO_HABILIDADE  │
                                         ├────────────────────────┤
-                                        │ 🔑 Num_Emp (PK, FK)    │
-                                        │ 🔑 Habilidade (PK)     │
+                                        │  Num_Emp (PK, FK)    │
+                                        │  Habilidade (PK)     │
                                         └────────────────────────┘
 ```
 
@@ -302,7 +302,7 @@ A normalização não é meramente uma escolha estética de design; ela possui p
 
 ---
 
-## 📚 5. Referências Bibliográficas
+## 5. Referências Bibliográficas
 - 1. ELMASRI, Ramez; NAVATHE, Shamkant B. *Sistemas de Banco de Dados*. 7. ed. São Paulo: Pearson, 2018. (Capítulo 14: Teoria de Projeto de Bancos de Dados Relacionais e Dependências Funcionais; Capítulo 15: Algoritmos de Projeto de Bancos de Dados Relacionais).
 - 2. SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. *Sistema de Banco de Dados*. 6. ed. Rio de Janeiro: Elsevier, 2012. (Capítulo 8: Projeto de Banco de Dados Relacional).
 - 3. CODD, Edgar F. *A Relational Model of Data for Large Shared Data Banks*. Communications of the ACM, v. 13, n. 6, p. 377-387, 1970.

@@ -3,7 +3,7 @@ publish: false
 kanban-plugin: board
 title: "Quadro Kanban — Curso de Mandarim"
 created: 2026-09-14 11:54
-modified: 2026-09-14 22:05
+modified: 2026-09-15 21:33
 tags:
   - kanban
   - mandarim
@@ -12,31 +12,31 @@ cssclasses:
   - page-layout
 ---
 
-## 📥 Backlog de Lições
+## Backlog de Lições
 
-- [ ] [[pt-br/resource/idiomas/mandarim/Anotações/Esboço/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] #mandarim #aula
+- [ ] [[pt-br/resource/idiomas/mandarim/Anotações/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] #mandarim #aula
 - [ ] Lição 04 — Família, Adjetivos e Descrição Física #mandarim #aula
 - [ ] Lição 05 — Alimentos, Restaurante e Pedidos #mandarim #aula
 - [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária #mandarim #aula
 
-## 🎯 A Aprender (Esta Semana)
+## A Aprender (Esta Semana)
 
-- [ ] [[pt-br/resource/idiomas/mandarim/Anotações/Esboço/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] #mandarim #aula
+- [ ] [[pt-br/resource/idiomas/mandarim/Anotações/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] #mandarim #aula
 
-## 🔄 Em Estudo (Hoje)
+## Em Estudo (Hoje)
 
-- [ ] [[pt-br/resource/idiomas/mandarim/Anotações/Esboço/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] #mandarim #aula
+- [ ] [[pt-br/resource/idiomas/mandarim/Anotações/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] #mandarim #aula
 
-## 🃏 Flashcards & Anki
+## Flashcards & Anki
 
 - [ ] Cadastrar vocabulário da Aula 01 no baralho Anki #mandarim #anki
 - [ ] Revisão diária dos cartões #mandarim #anki
 
-## 🎧 Imersão & Escuta
+## Imersão & Escuta
 
 - [ ] Ouvir áudio nativo de 5 minutos sobre saudações #mandarim #escuta
 
-## ✅ Lições Dominadas
+## Lições Dominadas
 
 - [x] Configuração da estrutura do curso de Mandarim #mandarim
 

@@ -4,7 +4,7 @@ created: 2026-07-23
 modified: 2026-07-26T12:09:20.533-03:00
 published: 2026-07-26T12:09:20.533-03:00
 type: blog
-title:
+title: "✍️ Bem-vindo ao blog"
 cssclasses:
   - page-layout
 ---

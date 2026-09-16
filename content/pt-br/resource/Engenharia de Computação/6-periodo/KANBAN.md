@@ -4,7 +4,7 @@ publish: false
 kanban-plugin: board
 title: Quadro Kanban — 6º Período EngComp
 created: 2026-09-14 11:53
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - kanban
   - academico
@@ -14,28 +14,28 @@ cssclasses:
   - page-layout
 ---
 
-## 🎯 A Fazer (Mapeadas nas Notas)
+## A Fazer (Mapeadas nas Notas)
 
 - [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital/Anotações/Aula 01 - Portas Lógicas|Eletrônica Digital]]: Resolver a Lista de Exercícios de Notação Correta em PDF #academico #eletronica-digital
 - [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital/Anotações/Aula 01 - Portas Lógicas|Eletrônica Digital]]: Desenhar o circuito de mintermos para $S(A,B,C) = \sum m(1, 4, 7)$ #academico #eletronica-digital
 - [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital/Anotações/Aula 02 - Mapas de Karnough|Eletrônica Digital]]: Lista de Exercícios de Mapas de Karnaugh #academico #eletronica-digital
 - [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/Anotações/Aula 01 - Introdução|POO I]]: Implementar classe Conta Bancária #academico #poo
 - [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/Anotações/Aula 01 - Introdução|POO I]]: Como pede informação ao usuário? (Scanner / BufferedReader) #academico #poo
-- [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/filosofia-da-ciencia-e-tecnologia/Anotações/Atividades/Trabalho - Espaço Cultural|Filosofia]]: 🎯 Apresentar Trabalho - Espaço Cultural #academico #filosofia
+- [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/filosofia-da-ciencia-e-tecnologia/Anotações/Atividades/Trabalho - Espaço Cultural|Filosofia]]:  Apresentar Trabalho - Espaço Cultural #academico #filosofia
 
 
-## 🔄 Em Andamento (Hoje)
+## Em Andamento (Hoje)
 
 
 
-## ✅ Concluído (Mapeadas nas Notas)
+## Concluído (Mapeadas nas Notas)
 
 - [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/Anotações/Aula 01 - Capítulo 3.1|Comunicação de Dados]]: Ler capítulo 3.3 #academico #comunicacao-de-dados
 - [x] [[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/Anotações/Aula 02 - Capítulo 3.3|Comunicação de Dados]]: Ler capítulo 3.4 #academico #comunicacao-de-dados
 - [x] [[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital/Anotações/Aula 01 - Portas Lógicas|Eletrônica Digital]]: Testar os circuitos das 7 portas no simulador LogiSim #academico #eletronica-digital
 - [x] [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/Anotações/Aula 01 - Introdução|POO I]]: Implementar classe Lâmpada #academico #poo
-- [x] [[pt-br/resource/Engenharia de Computação/6-periodo/banco-de-dados/Anotações/Atividades/Trabalho - Normalização e Dependências Funcionais|Banco de Dados]]: 🎯 Apresentar Trabalho - Normalização e Dependências Funcionais #academico #banco-de-dados
-- [x] [[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/Anotações/Atividades/Trabalho - Coesão e Acoplamento - ASOO|ASOO]]: 🎯 Apresentar Trabalho - Coesão e Acoplamento #academico #asoo
+- [x] [[pt-br/resource/Engenharia de Computação/6-periodo/banco-de-dados/Anotações/Atividades/Trabalho - Normalização e Dependências Funcionais|Banco de Dados]]:  Apresentar Trabalho - Normalização e Dependências Funcionais #academico #banco-de-dados
+- [x] [[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/Anotações/Atividades/Trabalho - Coesão e Acoplamento - ASOO|ASOO]]:  Apresentar Trabalho - Coesão e Acoplamento #academico #asoo
 - [x] [[pt-br/resource/Engenharia de Computação/6-periodo/filosofia-da-ciencia-e-tecnologia/Anotações/Atividades/Trabalho 1 - Introdução à  e a Crítica dos Pressupostos|Filosofia]]: Apresentar Trabalho 1 #academico #filosofia
 
 

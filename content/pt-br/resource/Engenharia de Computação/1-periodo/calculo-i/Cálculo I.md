@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Cálculo I"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,34 +11,34 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.4`
 > - **Período:** 1º Período | **Núcleo:** Básico | **Carga Horária:** 120
 > - **Docente Responsável:** Gustavo Stênio (gustavo.neitzel@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Elementares do Cálculo, Limites e Continuidade de Funções, Derivação, Aplicações da derivada, Integração, Integral Indefinida e Integral Definida.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Introduzir o estudo de todas as funções elementares de maneira a familiarizar o aluno com a individualidade de cada função: parte gráfica, taxas de crescimento comparadas, características de cada função, leitura dos gráficos;
 > - Desenvolver o conceito de limite inicialmente de maneira informal; discutir métodos para calcular limites e apresentar a definição matemática formal de limite;
 > - Aplicar limites no estudo de curvas contínuas;
 > - Promover um entendimento claro dos conceitos do Cálculo que são fundamentais na resolução de problemas enfatizando a utilidade do cálculo por meio do estudo de regras de derivação, taxas relacionadas e traçados de curvas com aplicações do cotidiano.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/index|CSECBJI.11 - Física I]]
-> - [[pt-br/resource/Engenharia de Computação/2-periodo/calculo-ii/index|CSECBJI.9 - Cálculo II]]
-> - [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/index|CSECBJI.18 - Equações Diferenciais]]
-> - [[pt-br/resource/Engenharia de Computação/4-periodo/fenomenos-de-transporte/index|CSECBJI.28 - Fenômenos de Transporte]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Física I|CSECBJI.11 - Física I]]
+> - [[pt-br/resource/Engenharia de Computação/2-periodo/calculo-ii/Cálculo II|CSECBJI.9 - Cálculo II]]
+> - [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Equações Diferenciais|CSECBJI.18 - Equações Diferenciais]]
+> - [[pt-br/resource/Engenharia de Computação/4-periodo/fenomenos-de-transporte/Fenômenos de Transporte|CSECBJI.28 - Fenômenos de Transporte]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Números Reais:**
 > 	- Conjuntos Numéricos;
 > 	- Desigualdades;
@@ -96,13 +93,13 @@ cssclasses:
 > 	- Teorema Fundamental do Cálculo;
 > 	- Cálculo de Áreas;
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. LEITHOLD, L. O. O cálculo com Geometria Analítica. São Paulo: Habra, 1994. Vol.
 > 2. GUIDORIZZI, H. L. Um Curso de Cálculo Diferencial e Integral. 6ª Edição. Rio de Janeiro: LTC, 2018.
 > 3. Vol.
 > 4. HOWARD, A., BIVENS, I. C., DAVIS, S. L. Cálculo. 10ª Edição. Porto Alegre: Bookman, 2014. Vol.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. FLEMMING, D. M., GONÇALVES, M. B. Cálculo A: Funções, Limites, Derivação e Integração. 6ª Edição. São Paulo: Pearson, 2006.
 > 2. LARSON, R., HOSTETLER, R., EDWARDS, B. H. Cálculo. 8ª Edição. São Paulo: AMGH, 2006. Vol.
 > 3. MUNEM, M. A.; FOULIS, D.J. Cálculo. Rio de Janeiro: LTC, 1982. Vol.
@@ -110,15 +107,5 @@ cssclasses:
 > 5. WEIER, M., HASS, J., THOMAS, G. B. Cálculo 1. 12ª Edição. São Paulo: Pearson, 2012. Vol.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Anotações/Esboço/aula-01-números-reais|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Anotações/Esboço/aula-02-conjuntos-numéricos|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Anotações/Esboço/aula-03-desigualdades|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Anotações/Esboço/aula-04-valor-absoluto|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Anotações/Esboço/aula-05-intervalos|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Anotações/Esboço/aula-06-funções|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

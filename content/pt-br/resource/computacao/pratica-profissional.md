@@ -2,7 +2,7 @@
 publish: false
 title: Prática Profissional
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -32,7 +32,7 @@ O que dominar: a anatomia de um artigo (introdução → método → resultados 
 
 ### 3. Normas, citação e ferramentas (antes do TCC)
 
-O que dominar: ABNT para estrutura e citações, um gerenciador de referências (Zotero) e LaTeX com abnTeX2 — a combinação que elimina o trabalho braçal de formatação. O que praticar: formatar um relatório antigo inteiro na norma, do sumário às referências. Veja a página dedicada de [[pt-br/resource/latex|LaTeX e Escrita Acadêmica]].
+O que dominar: ABNT para estrutura e citações, um gerenciador de referências (Zotero) e LaTeX com abnTeX2 — a combinação que elimina o trabalho braçal de formatação. O que praticar: formatar um relatório antigo inteiro na norma, do sumário às referências. Veja a página dedicada de [[pt-br/resource/latex/LaTeX & Escrita Acadêmica|LaTeX e Escrita Acadêmica]].
 
 ### 4. Identidade acadêmica e carreira (contínuo)
 
@@ -55,13 +55,13 @@ O que dominar: currículo Lattes completo e atualizado, ORCID vinculado, e a hab
 - **Ignorar eventos científicos por insegurança** — Congresso de iniciação científica existe pra iniciante. Apresentar trabalho em andamento com método honesto é normal e bem-visto; esperar o trabalho "ficar pronto" é esperar pra sempre.
 - **Formatar na mão** — Sumário, numeração e referências manuais quebram a cada revisão. abnTeX2 + Zotero fazem isso por você; o tempo de aprendizado se paga na primeira entrega.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 - **[Orientação à Prática Profissional e Pesquisa](/assets/biblioteca/computacao/orientacao-pratica-profissional-ifro.pdf)** (Rede e-Tec/IFRO) — apostila aberta que cobre método científico e postura profissional, via [proedu.rnp.br](https://proedu.rnp.br).
 - **Guias de normalização ABNT** — [PUC Minas](/assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e [UNIP](/assets/biblioteca/latex-escrita/guia-abnt-unip.pdf): resumos práticos e gratuitos das normas pra trabalhos acadêmicos.
-- Para LaTeX, abnTeX2 e escrita: veja a página completa de [[pt-br/resource/latex|LaTeX e Escrita Acadêmica]].
+- Para LaTeX, abnTeX2 e escrita: veja a página completa de [[pt-br/resource/latex/LaTeX & Escrita Acadêmica|LaTeX e Escrita Acadêmica]].
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Currículo Lattes](https://lattes.cnpq.br) — a plataforma oficial do CNPq. Crie o seu hoje se ainda não tem; é pré-requisito de praticamente toda bolsa no país.
 - [ORCID](https://orcid.org) — identificador acadêmico internacional, gratuito, exigido por revistas e agências. Vincule ao Lattes.
@@ -69,7 +69,7 @@ O que dominar: currículo Lattes completo e atualizado, ORCID vinculado, e a hab
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica|Metodologia Científica e Tecnológica]] — método, normas e projeto de pesquisa.
-- [[projeto-final-de-curso-i/index|Projeto Final de Curso I]] — proposta, revisão bibliográfica e cronograma do TCC.
-- [[projeto-final-de-curso-ii/index|Projeto Final de Curso II]] — execução, escrita final e defesa.
-- [[empreendedorismo/index|Empreendedorismo]] — a face "mercado" da prática profissional.
+- [[pt-br/resource/Engenharia de Computação/8-periodo/metodologia-cientifica-e-tecnologica/Metodologia Científica e Tecnológica|Metodologia Científica e Tecnológica]] — método, normas e projeto de pesquisa.
+- [[projeto-final-de-curso-i/Projeto Final de Curso I|Projeto Final de Curso I]] — proposta, revisão bibliográfica e cronograma do TCC.
+- [[projeto-final-de-curso-ii/Projeto Final de Curso II|Projeto Final de Curso II]] — execução, escrita final e defesa.
+- [[empreendedorismo/Empreendedorismo|Empreendedorismo]] — a face "mercado" da prática profissional.

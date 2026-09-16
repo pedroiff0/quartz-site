@@ -2,7 +2,7 @@
 publish: false
 title: Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
 created: 2026-07-23 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:51
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -19,9 +19,9 @@ content: A escada cósmica de distâncias — de radar a supernovas Ia — e os 
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|← Aula 06 — Diagrama HR e Relação Massa-Luminosidade]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|Aula 08 — Velocidades e Movimento Próprio →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|← Aula 06 — Diagrama HR e Relação Massa-Luminosidade]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|Aula 08 — Velocidades e Movimento Próprio →]]
 
-# 📐 Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
+# Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
 
 > [!note] Resumo
 > As distâncias estabelecem a escala absoluta de toda a Astronomia. Esta aula percorre a "escada cósmica de distâncias" — do radar no Sistema Solar às supernovas tipo Ia em galáxias distantes — e fecha com os três sistemas de coordenadas usados para localizar objetos no céu e na Galáxia.
@@ -33,7 +33,7 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 🪜 A escada cósmica de distâncias
+## A escada cósmica de distâncias
 
 Cada método de medição de distância só é válido dentro de uma faixa de escalas, e o método seguinte precisa ser **calibrado** pelo anterior — daí "escada":
 
@@ -45,7 +45,7 @@ Cada método de medição de distância só é válido dentro de uma faixa de es
 | Galáxias próximas | Variáveis Cefeidas (+ outras) | $10^7$ anos-luz |
 | Galáxias distantes | Supernovas Tipo Ia (velas padrão) | $10^{10}$ anos-luz |
 
-## 🛰️ Distâncias no Sistema Solar
+## Distâncias no Sistema Solar
 
 A **3ª Lei de Kepler** dá as distâncias **relativas** entre os planetas e o Sol — mas é necessária uma medida **absoluta** de pelo menos um corpo para calibrar toda a escala.
 
@@ -53,7 +53,7 @@ A **3ª Lei de Kepler** dá as distâncias **relativas** entre os planetas e o S
 - **Trânsito de Vênus (meados do séc. XVIII):** campanha internacional liderada por **Edmond Halley** (o mesmo do cometa) melhora a precisão para 2%.
 - **Radar (RAdio Detection And Ranging, início dos anos 1960):** mede-se o tempo entre emissão e detecção de uma onda refletida por uma superfície sólida; $d = c\,\Delta t / 2$. Os valores obtidos já nos anos 60 concordam com os atuais até a quinta casa decimal. Um dos principais instrumentos históricos foi o **radiotelescópio de Arecibo** (500 m), hoje descomissionado.
 
-## ⭐ Paralaxe trigonométrica
+## Paralaxe trigonométrica
 
 A **paralaxe** é a mudança de posição aparente de um objeto devido ao movimento do observador — o mesmo princípio da percepção de profundidade humana (nossos dois olhos como linha de base). Por triangulação: $d = x/\tan\alpha$, onde $x$ é a linha de base e $\alpha$ o ângulo medido.
 
@@ -78,11 +78,11 @@ $d\,[\text{pc}] = \frac{1}{p\,['']}$
 
 Paralaxe medida: $p = 0{,}3564 \pm 0{,}1343\,$mas (incerteza alta, pois a estrela é brilhante demais, $V<9$, para medidas ideais do Gaia). Magnitude aparente $m=7{,}76$; distância calculada $\approx2{,}81\,$kpc. Para posicionar a estrela corretamente no diagrama HR, ainda é preciso corrigir por extinção/avermelhamento (Aula 05) antes de converter para magnitude absoluta.
 
-## 🌌 Distâncias na escala da Galáxia — ajuste de sequência principal
+## Distâncias na escala da Galáxia — ajuste de sequência principal
 
 Aglomerados estelares são conjuntos de estrelas nascidas aproximadamente juntas — isso se reflete na distribuição de suas estrelas-membro no diagrama HR. Como o brilho aparente depende da distância, e **todas** as estrelas de um mesmo aglomerado estão à mesma distância, é possível ajustar simultaneamente um único modelo teórico (isócrona) a todas elas, com **quatro parâmetros livres**: idade, composição química, avermelhamento e módulo de distância \[ex.: Oliveira et al. 2020, para o aglomerado globular Messier 69]. Isso seria impossível de fazer para uma estrela isolada, mas em aglomerados temos milhares de estrelas simultaneamente restringindo o ajuste.
 
-## 🌠 Distâncias a galáxias próximas — Variáveis Cefeidas
+## Distâncias a galáxias próximas — Variáveis Cefeidas
 
 **Henrietta Leavitt** (início do séc. XX), estudando estrelas variáveis nas Nuvens de Magalhães, percebeu uma relação entre o **período de pulsação** e o **brilho** dessas estrelas — a **relação período-luminosidade** ("Lei de Leavitt") \[1912HarCi.173....1L]. As Cefeidas são estrelas pulsantes muito luminosas, brilhantes o bastante para serem observadas em galáxias próximas.
 
@@ -91,7 +91,7 @@ Aglomerados estelares são conjuntos de estrelas nascidas aproximadamente juntas
 
 **Edwin Hubble (1926)** usou Cefeidas para descobrir variáveis em Andrômeda (M31), confirmando que ela era de fato **outra galáxia**, e não uma nebulosa dentro da Via Láctea — o marco que estabeleceu a existência de outras galáxias há exatamente 100 anos. Em **1929**, Hubble usou Cefeidas em várias galáxias próximas para mostrar que (exceto para as mais próximas, como M31 e as Nuvens de Magalhães) galáxias seguem uma relação linear entre velocidade radial e distância — a **Lei de Hubble**, cujo coeficiente angular é a constante de Hubble, medindo a taxa de expansão do Universo.
 
-## 💥 Distâncias a galáxias distantes — Supernovas Tipo Ia
+## Distâncias a galáxias distantes — Supernovas Tipo Ia
 
 Estrelas de massa próxima à do Sol terminam suas vidas como **anãs brancas** (após a fase de ramo assintótico e ejeção de nebulosa planetária). Uma característica fundamental das anãs brancas é o **limite de massa de Chandrasekhar** ($\sim1{,}4\,M_\odot$). Em um sistema binário, uma anã branca pode acretar material de uma estrela companheira; se atingir o limite de Chandrasekhar, ocorre uma **supernova tipo Ia**.
 
@@ -106,7 +106,7 @@ Como todas as SN Ia explodem com massa muito próxima do mesmo limite, elas libe
 
 Cada elo depende do anterior — por isso "escada".
 
-## 🧭 Sistemas de coordenadas
+## Sistemas de coordenadas
 
 ### Horizontal
 
@@ -130,20 +130,20 @@ Por a Terra não ser uma esfera perfeita, torques diferenciais da Lua e do Sol s
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Escada cósmica de distâncias:** cada método (radar → paralaxe → ajuste de SP → Cefeidas → SN Ia) calibra o próximo, cobrindo escalas de $10^{-4}$ a $10^{10}$ anos-luz.
 - **Parsec:** distância correspondente a paralaxe de 1 segundo de arco; $d\,[\text{pc}] = 1/p['']$.
 - **Vela padrão:** objeto de luminosidade intrínseca conhecida (Cefeidas via relação P-L; SN Ia via limite de Chandrasekhar) — converte brilho aparente diretamente em distância.
 - **Coordenadas galácticas $(l,b)$:** sistema com plano fundamental no disco da Via Láctea, essencial para qualquer estudo de arqueologia galáctica.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Bessel (1838) — primeira paralaxe estelar medida com sucesso
 - Leavitt (1912) — relação período-luminosidade das Cefeidas
 - Hubble (1926, 1929) — Cefeidas em M31; Lei de Hubble
 - Oliveira et al. (2020) — ajuste de isócrona em Messier 69
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral]] — módulo de distância
 - [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|Aula 08 — Velocidades e Movimento Próprio]]
-- [[pt-br/resource/escolainverno/cosmologia/cosmologia-aula01|Escola de Inverno — Cosmologia, Aula 01]] — o mesmo topo da escada (supernovas Ia como velas padrão), aplicado à escala cosmológica em vez da galáctica
+- [[pt-br/resource/escolainverno/Cosmologia/260721-Cosmologia-Aula01|Escola de Inverno — Cosmologia, Aula 01]] — o mesmo topo da escada (supernovas Ia como velas padrão), aplicado à escala cosmológica em vez da galáctica

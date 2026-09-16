@@ -2,7 +2,7 @@
 publish: false
 title: Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 created: 2026-07-25 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -20,9 +20,9 @@ content: Classificação morfológica de galáxias e a Via Láctea como espiral 
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|← Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|← Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites →]]
 
-# 🪐 Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
+# Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 
 > [!note] Resumo
 > Uma visão de conjunto da Via Láctea como galáxia: onde ela se encaixa na classificação morfológica de Hubble, como o bojo e a barra galáctica foram revelados por contagens estelares em infravermelho, como a decomposição orbital do bojo mostra que a barra é feita de estrelas "capturadas" do disco (não formadas ali), a estrutura de larga escala do disco (_warp_, _cutoff_, _flare_), e o catálogo atual de eventos de fusão confirmados no halo galáctico.
@@ -35,15 +35,15 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 🌌 A Via Láctea no diagrama de Hubble
+## A Via Láctea no diagrama de Hubble
 
 No **diagrama "garfo de cavalo" de Hubble**, galáxias dividem-se entre elípticas (_early-type_) e espirais, regulares ou barradas (_late-type_). A Via Láctea é uma **espiral barrada** típica — e, colocada no diagrama de formação estelar (taxa de formação estelar vs. massa estelar), ocupa uma posição intermediária entre a "nuvem azul" (galáxias formando estrelas ativamente) e a "sequência vermelha" (galáxias quiescentes), na chamada "vale verde" junto com suas análogas mais próximas.
 
-## 🎯 O bojo em X e a descoberta da barra
+## O bojo em X e a descoberta da barra
 
 Dados em infravermelho da missão **WISE**, ao subtrair um modelo sem barra, revelam um **bojo em forma de X** (Ness & Lang 2016) — um padrão que, segundo Portail et al. (2017), é simplesmente a consequência de observarmos a **barra galáctica** com um certo ângulo de posição ($\phi\sim20°$) em relação à linha de visada Sol-Centro Galáctico. Combinando astrometria do Gaia com imageamento infravermelho, contagens estelares simples já bastam para revelar diretamente a barra (Anders et al. 2022; Souza et al. 2024).
 
-## 🥧 Decompondo o bojo por órbitas
+## Decompondo o bojo por órbitas
 
 Usando posições e velocidades do Gaia para calcular órbitas completas de milhares de estrelas (curso-on Aulas 09-10), é possível separar as populações estelares sobrepostas na região central da Galáxia num diagrama **excentricidade vs. altura máxima acima do plano** (Queiroz et al. 2021), restrito a estrelas a até ~4 kpc do Centro Galáctico:
 
@@ -54,7 +54,7 @@ Usando posições e velocidades do Gaia para calcular órbitas completas de milh
 > [!warning] A lição crucial: a barra não se formou "no lugar"
 > A dicotomia química $\alpha$/Fe (curso-on Aula 14) **se estende** até a região interna/bojo — e a barra é feita de estrelas com a **mesma química** de disco fino e disco espesso. Ou seja: as estrelas da barra **não se formaram ali**; foram **capturadas** de um disco pré-existente pela própria dinâmica da barra (o mesmo mecanismo de ressonâncias já visto no curso-on Aula 11). A visão "moderna" do bojo é, portanto, a de uma **combinação** de populações: uma porção interna do disco, a barra, e o bojo esferoidal clássico — não uma estrutura única e homogênea.
 
-## 🌀 O disco fino domina — mas não é simples
+## O disco fino domina — mas não é simples
 
 Cerca de **95% das estrelas do disco** (e da Galáxia como um todo) pertencem ao **disco fino** — jovem, com idade média $\sim5\,$Gyr; o disco espesso é a população velha remanescente. O próprio Sol é uma estrela típica de disco fino, tanto em química quanto em idade ($\sim4{,}5\,$Gyr). Mesmo assim, o perfil de densidade vertical do disco **exige dois componentes geométricos** distintos (fino e espesso) para ser bem ajustado — a mesma separação estrutural que sustenta toda a discussão química das Aulas 14 e 17.
 
@@ -62,7 +62,7 @@ Cerca de **95% das estrelas do disco** (e da Galáxia como um todo) pertencem ao
 
 A estrutura de larga escala do disco tem três características bem documentadas: um **warp** (empenamento, o disco se curva para fora do plano médio nas bordas), um possível **cutoff/truncamento** radial (debatido desde os anos 1990 — Ruiz 1992 — até trabalhos recentes), e um **flare** (o disco "alarga" verticalmente conforme o raio galactocêntrico aumenta). Esses três efeitos, medidos com levantamentos modernos (Skowron et al. 2019; Poggio et al. 2020), descrevem como o disco se desvia de um modelo plano e simples.
 
-## 🧩 A hierarquia de mergers confirmados no halo
+## A hierarquia de mergers confirmados no halo
 
 O halo estelar de galáxias massivas como a Via Láctea forma-se pela assimilação, ao longo do tempo, de debris de galáxias anãs desintegradas — a **formação hierárquica** (ilustrada por simulações como a Vintergatan e o projeto Aquarius). Hoje, mais de um punhado de eventos de fusão já foram identificados e confirmados no halo da Galáxia — além da GSE (curso-on Aula 19), destacam-se:
 
@@ -75,7 +75,7 @@ O halo estelar de galáxias massivas como a Via Láctea forma-se pela assimilaç
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Via Láctea = espiral barrada** no diagrama de Hubble, numa posição intermediária de formação estelar entre nuvem azul e sequência vermelha.
 - **Bojo em X:** consequência geométrica de observar a barra galáctica com ângulo de posição $\sim20°$ — não uma estrutura física separada.
@@ -85,14 +85,14 @@ O halo estelar de galáxias massivas como a Via Láctea forma-se pela assimilaç
 - **Catálogo de mergers confirmados:** GSE (halo interno), Sagittarius (halo externo), Orphan, Cetus, Wukong/LMS-1, corrente de Helmi.
 - **GSE ↔ disco espesso:** coincidência temporal entre o fim da formação estelar na MW antiga e na GSE, evidência forte de causalidade comum (Gallart et al. 2021).
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Ness & Lang (2016); Portail et al. (2017) — o bojo em X como projeção geométrica da barra
 - Anders et al. (2022); Souza et al. (2024) — revelando a barra por contagens estelares (StarHorse)
 - Queiroz et al. (2021) — decomposição orbital disco/barra/bojo esferoidal
 - Gallart et al. (2021) — sincronismo de quenching entre MW antiga e GSE
 - Skowron et al. (2019); Poggio et al. (2020) — warp e flare do disco
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica]] — o mecanismo de ressonâncias por trás da captura de estrelas pela barra
 - [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] — a dicotomia $\alpha$/Fe que se estende até a barra/bojo
 - [[pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash|Aula 18 — Proto-Disco, Spin-Up e o Disco Splash]] — o disco primordial perturbado pela GSE, aqui ligado à formação do disco espesso

@@ -6,7 +6,7 @@ discipline: Cosmologia
 content: O modelo cosmológico padrão (ΛCDM) e suas sondas observacionais
 professor: Carlos Bengaly
 created: 2026-07-21 13:34
-modified: 2026-09-12 11:20
+modified: 2026-09-15 21:34
 tags:
   - escola-de-inverno-on
   - cosmologia
@@ -18,7 +18,7 @@ cssclasses:
   - center-images
 ---
 
-**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula02|Cosmologia-Aula02 →]]
+**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula02|Cosmologia-Aula02 →]]
 # Notas de Aula — Cosmologia (Aula 01)
 
 > [!info] Informações da aula
@@ -28,11 +28,11 @@ cssclasses:
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 A **cosmologia** estuda a origem, evolução, composição e estrutura do Universo como um todo, em escalas onde ele pode ser tratado como **homogêneo e isotrópico** (acima de ~100 Mpc — ver nota de Aglomerados). Essa aula percorre a evolução histórica do modelo cosmológico padrão e introduz as três principais **sondas observacionais** que usamos para testá-lo: supernovas tipo Ia, a Radiação Cósmica de Fundo (RCF) e a Estrutura em Grande Escala (EGE) do Universo.
 
-### 📑 Tópicos abordados
+### Tópicos abordados
 1. O que é cosmologia
 2. Sondas observacionais: Supernovas Ia, RCF, EGE
 3. História do modelo cosmológico
@@ -104,7 +104,7 @@ O modelo cosmológico padrão é conhecido como **$\Lambda$CDM**:
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Princípio cosmológico:** em grandes escalas (>100 Mpc), o Universo é homogêneo e isotrópico.
 - **RCF:** radiação remanescente da recombinação, ~380 mil anos após o Big Bang, hoje a 2,725 K.
@@ -114,7 +114,7 @@ O modelo cosmológico padrão é conhecido como **$\Lambda$CDM**:
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 1)
 > *(nenhuma pergunta registrada nesta aula)*

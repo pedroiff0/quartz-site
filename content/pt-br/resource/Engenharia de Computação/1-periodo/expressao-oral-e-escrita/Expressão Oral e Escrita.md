@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Expressão Oral e Escrita"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,31 +11,31 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.8`
 > - **Período:** Eletiva | **Núcleo:** Específico | **Carga Horária:** 60h
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Noções de texto. A organização micro e macroestrutural do texto: coesão e coerência. Tipologia textual. Linguagem e argumentação. Redação científica: resumo, resenha.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Capacitar o aluno a melhorar a compreensão, organização e a redação de textos narrativos, descritivos e dissertativos e elaborar textos relacionados com o curso;
 > - Instrumentar os estudantes a se expressarem tanto verbalmente quanto por escrito.
 > - rientar a leitura de textos diversos, especialmente os acadêmicos.
 > - Estimular os estudantes a participar de eventos científicos.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Noções de texto**
 > 	- Linguagem verbal e não verbal;
 > 	- Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
@@ -53,13 +50,13 @@ cssclasses:
 > - **5. Redação científica**
 > 	- Elaboração de resumo, resenha e fichamento.
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. ALMEIDA, D. S. A Produção de Textos no Ensino Superior. Curitiba: Editora CRV, 2012.
 > 2. MARTINS, D. S., ZILBERKNOP, L. S. Português Instrumental: De Acordo com as Normas Atuais da ABNT.
 > 3. Ed. Rio de Janeiro: Atlas, 2019.
 > 4. MATTOSO, C. J. G. Manual de Expressão Oral e Escrita. 23. Ed. Rio de janeiro: Editora Vozes, 2012
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 5. DEMAI, F. M. Português Instrumental. São Paulo: Editora Érica, 2014.
 > 6. DINTEL, F. Como Escrever Textos Técnicos e Profissionais: Todas as Orientações para Elaborar Relatórios, Cartas e Documentos Eficazes. São Paulo: Gutenberg, 2011.
 > 7. MEDEIROS, J. B. Português Instrumental: Contém Técnicas de Elaboração de Trabalho de Conclusão de Curso.
@@ -69,15 +66,5 @@ cssclasses:
 > 11. Editora Vozes, 2012
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/Anotações/Esboço/aula-01-noções-de-texto|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/Anotações/Esboço/aula-02-linguagem-verbal-e-não-verbal|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/Anotações/Esboço/aula-03-linguagem-padrão-e-coloquial-adequação-d|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/Anotações/Esboço/aula-04-variações-linguísticas|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/Anotações/Esboço/aula-05-organização-textual|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/Anotações/Esboço/aula-06-coerência-e-coesão|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

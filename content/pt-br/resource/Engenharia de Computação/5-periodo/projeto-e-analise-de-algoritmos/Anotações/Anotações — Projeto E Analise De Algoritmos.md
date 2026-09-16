@@ -1,10 +1,8 @@
 ---
-aliases:
-  - index
 publish: true
 title: "Anotações — Projeto E Analise De Algoritmos"
 created: 2026-08-24 21:03
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 encrypted: true
 password: "eng232"
 tags:
@@ -16,15 +14,15 @@ cssclasses:
   - cards
 ---
 
-# 📝 Anotações de Quadro & Conteúdo das Aulas
+# Anotações de Quadro & Conteúdo das Aulas
 
 Este repositório consolida as anotações detalhadas de quadro, exercícios e materiais de apoio da disciplina **Projeto E Analise De Algoritmos**.
 
-## 📋 Relação de Aulas Registradas
+## Relação de Aulas Registradas
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[260413-Aula-AtividadesAbril-1\|Atividades Projeto e Análise de Algoritmos]] | 13/04/2026 |
 | [[260611-Comparação\|Aula: Comparação]] | 11/06/2026 |
 | [[260618-RevisaoProva\|Aula: RevisaoProva]] | 18/06/2026 |
-| [[Anotações — Projeto E Analise De Algoritmos\|📝 Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
+| [[Anotações — Projeto E Analise De Algoritmos\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |

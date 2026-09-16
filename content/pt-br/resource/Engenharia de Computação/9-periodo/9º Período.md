@@ -1,34 +1,31 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "9º Período"
 created: 2026-07-21 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 cssclasses:
   - page-layout
 ---
 
 
-> [!info] 🎓 Visão Geral e Carga Horária do Período
+> [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `400h`
 > - **Resumo Pedagógico:** Qualificação da proposta de TCC (PFC I), sistemas embarcados e computação distribuída.
 
 
-> [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[[pt-br/resource/Engenharia de Computação/9-periodo/projeto-final-de-curso-i/index|Projeto Final de Curso I (PFC I)]]** (`100h` · Núcleo Especifico)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/index|Sistemas Distribuídos]]** (`80h` · Núcleo Especifico)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/index|Sistemas Embarcados]]** (`80h` · Núcleo Especifico)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/9-periodo/empreendedorismo/index|Empreendedorismo e Inovação]]** (`60h` · Núcleo Humanas)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/index|Direito, Ética e Cidadania]]** (`80h` · Núcleo Humanas)
+> [!note]  Grade Curricular e Disciplinas Integrantes
+> -  **[[pt-br/resource/Engenharia de Computação/9-periodo/projeto-final-de-curso-i/Projeto Final de Curso I|Projeto Final de Curso I (PFC I)]]** (`100h` · Núcleo Especifico)
+> -  **[[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Sistemas Distribuídos|Sistemas Distribuídos]]** (`80h` · Núcleo Especifico)
+> -  **[[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/Sistemas Embarcados|Sistemas Embarcados]]** (`80h` · Núcleo Especifico)
+> -  **[[pt-br/resource/Engenharia de Computação/9-periodo/empreendedorismo/Empreendedorismo|Empreendedorismo e Inovação]]** (`60h` · Núcleo Humanas)
+> -  **[[pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/Direito, Ética e Cidadania|Direito, Ética e Cidadania]]** (`80h` · Núcleo Humanas)
 
 
-> [!tip] 📎 Documentos e Horários Institucionais
-> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
-> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
+> [!tip]  Documentos e Horários Institucionais
+> -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
+> -  **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
 
-## 🎨 Carrossel de Disciplinas do Período
+## Carrossel de Disciplinas do Período
 
 Navegue interativamente pelas disciplinas deste bloco letivo:
 

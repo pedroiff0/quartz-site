@@ -2,7 +2,7 @@
 publish: false
 title: Lógica de Computação
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -57,7 +57,7 @@ O que dominar: a ponte entre a teoria e o código — álgebra booleana em circu
 - **Pular os exercícios de demonstração** — Ler uma prova pronta e entendê-la é fácil; produzir uma do zero é outra habilidade. Como em programação, ninguém aprende a provar vendo os outros provarem. Escreva as demonstrações, mesmo as "óbvias".
 - **Achar que é conteúdo isolado, "só pra passar"** — Aluno que arquiva a lógica depois da prova sofre em algoritmos (invariantes, indução), em banco de dados (predicados) e em eletrônica digital (álgebra booleana). É a disciplina com maior taxa de reaparecimento do curso.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Livros e apostilas abertas
 
@@ -69,7 +69,7 @@ O que dominar: a ponte entre a teoria e o código — álgebra booleana em circu
 - ROSEN, K. _Matemática Discreta e suas Aplicações_. — A referência mais usada no mundo pra matemática discreta; enciclopédico e cheio de exercícios com resposta.
 - GERSTING, J. _Fundamentos Matemáticos para a Ciência da Computação_. — Alternativa mais enxuta, muito adotada em cursos brasileiros.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: Computer Science](https://roadmap.sh/computer-science) — situe a lógica e a matemática discreta no mapa geral da formação; o roadmap mostra o que depende delas mais adiante.
 - [MIT OpenCourseWare — Mathematics for Computer Science](https://ocw.mit.edu/) — procure o curso 6.042J: é a referência mundial de matemática discreta pra computação, com notas de aula completas e listas resolvidas. Use quando quiser rigor acima do nível da disciplina.
@@ -78,5 +78,5 @@ O que dominar: a ponte entre a teoria e o código — álgebra booleana em circu
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/1-periodo/logica-para-computacao|Lógica para Computação]] — a disciplina do 1º período que cobre as etapas 1 e 2 desta trilha.
-- [[pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta|Matemática Discreta]] — a continuação natural no 2º período: conjuntos, relações, contagem e grafos (etapa 3).
+- [[pt-br/resource/Engenharia de Computação/1-periodo/logica-para-computacao/Lógica para Computação|Lógica para Computação]] — a disciplina do 1º período que cobre as etapas 1 e 2 desta trilha.
+- [[pt-br/resource/Engenharia de Computação/2-periodo/matematica-discreta/Matemática Discreta|Matemática Discreta]] — a continuação natural no 2º período: conjuntos, relações, contagem e grafos (etapa 3).

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -20,9 +20,9 @@ content: Aula prática (galpy) — pericentro/apocentro de galáxias satélites,
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|← Aula 10 — Integração de Órbitas com galpy]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|← Aula 10 — Integração de Órbitas com galpy]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica →]]
 
-# 🪐 Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
+# Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
 
 > [!note] Resumo
 > Continuação prática da Aula 10: como calcular pericentro/apocentro de uma galáxia satélite e comparar potenciais diferentes, como incluir a Grande Nuvem de Magalhães (LMC) como um perturbador massivo que também puxa a própria Via Láctea (exigindo um referencial não inercial), e como a barra galáctica introduz ressonâncias orbitais — corrotação e a Ressonância Externa de Lindblad (OLR) — que moldam a cinemática estelar local.
@@ -35,18 +35,18 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 Esta aula segue direto da Aula 10, aprofundando três ideias: (1) como extrair pericentro e apocentro de uma órbita integrada, e como isso muda dependendo do potencial escolhido; (2) como simular corretamente o efeito da LMC — massiva o bastante para também mover a Via Láctea, exigindo um referencial não inercial; e (3) como a barra galáctica gera ressonâncias que capturam órbitas estelares em padrões específicos.
 
-## 🛰️ Pericentro e apocentro de uma galáxia anã
+## Pericentro e apocentro de uma galáxia anã
 
 O galpy conhece as órbitas de **50 galáxias satélites** da Via Láctea prontas via `Orbit.from_name('MW satellite galaxies')` (LMC, SMC, Sagittarius, Fornax, Draco, Sculptor, entre outras). Para uma órbita já integrada, o **apocentro** e o **pericentro** são simplesmente o máximo e o mínimo da distância galactocêntrica $r(t)$ ao longo do tempo — o notebook verifica isso explicitamente: encontrar o `argmax`/`argmin` de $r(t)$ dá o mesmo resultado que os métodos prontos `orbit.rap()` e `orbit.rperi()` do galpy. Usando `scipy.signal.argrelextrema`, é possível extrair **todos** os pericentros/apocentros sucessivos de uma órbita de longo prazo — úteis para checar se a órbita é razoavelmente periódica (os valores sucessivos de pericentro/apocentro do exemplo variam por menos de 1%, indicando uma órbita estável no potencial estático adotado).
 
 > [!tip] O potencial escolhido muda a órbita reconstruída
 > Integrar a mesma galáxia satélite (Bootes III, no exemplo) em `MWPotential2014` e em `McMillan17` produz trajetórias visivelmente diferentes no plano $Y$-$Z$ — um lembrete direto de que qualquer órbita reconstruída (incluindo pericentros/apocentros) é sempre condicional ao modelo de potencial galáctico assumido, nunca uma medida "livre de modelo".
 
-## 🌌 A LMC como perturbador: referencial não inercial
+## A LMC como perturbador: referencial não inercial
 
 A Grande Nuvem de Magalhães (LMC) tem massa suficiente ($\sim1{,}38\times10^{11}\,M_\odot$) para não apenas sofrer a gravidade da Via Láctea, mas também **puxar a própria Galáxia** de volta — o centro da Via Láctea não é, portanto, um referencial verdadeiramente inercial quando a LMC está por perto. Simular esse efeito corretamente exige três ingredientes combinados:
 
@@ -59,7 +59,7 @@ O mesmo procedimento é repetido tanto para `MWPotential2014` quanto para `McMil
 > [!warning] Múltiplas órbitas de uma vez, sem laço `for`
 > O galpy aceita um array de condições iniciais (ex.: 100 amostras de incerteza gaussianas em torno de Bootes III) e integra todas simultaneamente — mas o notebook faz questão de avisar: nesse exemplo específico, as incertezas de movimento próprio foram amostradas **sem** covariância (diferente do procedimento cuidadoso da Aula 10). O objetivo ali é só ilustrar a mecânica de integrar um ensemble de órbitas de uma vez, não produzir uma incerteza estatisticamente correta.
 
-## 〰️ A barra galáctica e suas ressonâncias
+## 〰 A barra galáctica e suas ressonâncias
 
 A Via Láctea tem uma **barra** no seu centro, modelada aqui com o `DehnenBarPotential` — um potencial parametrizado por velocidade angular de padrão ($\Omega_b$), comprimento, intensidade, e um período de "aquecimento" gradual ($t_{form}$, $t_{steady}$) para evitar choques numéricos ao ligar a barra.
 
@@ -73,7 +73,7 @@ Uma órbita simples, sem barra, é regular e previsível. A mesma órbita, com a
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Pericentro/apocentro:** mínimo/máximo de $r(t)$ ao longo de uma órbita integrada — dependem do potencial assumido, não são medidas livres de modelo.
 - **Referencial não inercial:** necessário sempre que um perturbador (como a LMC) é massivo o bastante para também acelerar o corpo central do sistema de referência — implementado no galpy somando uma `NonInertialFrameForce` calculada a partir da força que o perturbador exerce na origem.
@@ -81,12 +81,12 @@ Uma órbita simples, sem barra, é regular e previsível. A mesma órbita, com a
 - **Corrotação vs. OLR:** duas ressonâncias de barra relevantes para a vizinhança solar, dependendo se a barra é longa/lenta ou curta/rápida — cada uma produz uma assinatura orbital característica (libração em torno de pontos de Lagrange vs. morfologia 2:1).
 - **Estrutura secular vs. acretada:** ressonâncias de barra são um mecanismo interno de gerar subestrutura cinemática, distinto (mas potencialmente confundível) com assinaturas de fusões como a GSE.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Documentação do [galpy](https://docs.galpy.org/) — `DehnenBarPotential`, `NonInertialFrameForce`
 - Pérez-Villegas et al. (2017) — modelo de barra longa e lenta, ressonância de corrotação
 - Dehnen (2000) — modelo de barra curta e rápida, Ressonância Externa de Lindblad
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Aula 10 — Integração de Órbitas com galpy]] — pré-requisito direto: fricção dinâmica e potenciais "vivos" (`MovingObjectPotential`), aqui estendidos à LMC
 - [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 03]] — Gaia-Sausage-Enceladus como o tipo de assinatura extragaláctica que precisa ser distinguida de estrutura secular gerada pela barra
 - [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica]] — as mesmas integrais de movimento aplicadas a mais de um milhão de estrelas reais (APOGEE DR19)

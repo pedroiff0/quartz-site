@@ -6,7 +6,7 @@ discipline: Astrofísica Estelar / Via Láctea
 content: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas
 professor:
 created: 2026-07-20 13:34
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:34
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica
@@ -18,7 +18,7 @@ cssclasses:
   - center-images
 ---
 
-**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula02|ArqueologiaGalactica-Aula02 →]]
+**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula02|ArqueologiaGalactica-Aula02 →]]
 # Notas de Aula — Arqueologia Galáctica
 
 > [!info] Informações da aula
@@ -27,11 +27,11 @@ cssclasses:
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 Assim como um arqueólogo lê a história humana em camadas de sedimento, a **arqueologia galáctica** lê a história da nossa Galáxia na composição química das estrelas: cada geração estelar enriquece o gás interestelar com novos elementos, então estrelas mais velhas "carregam" a assinatura química de um Universo mais jovem e mais pobre em metais. A aula percorre: (1) como classificamos estrelas por seu espectro, (2) como diferentes tipos de estrelas (e supernovas) produzem diferentes elementos, e (3) como usamos essas assinaturas químicas para separar populações estelares e reconstruir a formação da Galáxia.
 
-### 📑 Tópicos abordados
+### Tópicos abordados
 1. Classificação espectral de estrelas
 2. Evolução estelar e nucleossíntese
 3. Populações estelares e arqueologia química
@@ -68,7 +68,7 @@ Estrelas nascem em berçários estelares — regiões densas e frias de nuvens m
 
 ![Nebulosa de Carina: um dos maiores berçários estelares conhecidos, onde nuvens densas e frias colapsam gravitacionalmente para formar novas estrelas (NASA/ESA/Hubble).](https://commons.wikimedia.org/wiki/Special:FilePath/Carina_Nebula.jpg)
 
-> [!info]- 📷 Imagem pendente
+> [!info]-  Imagem pendente
 > Diagrama "Chandra Stellar Fate" (tipos de morte estelar conforme a massa inicial) — referência: repositório **Kepler** da UFRGS.
 > 
 
@@ -137,7 +137,7 @@ Estudos da vizinhança solar (razão [$\alpha$/Fe] vs. [Fe/H]) — ex.: **Adibek
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Classificação espectral (OBAFGKM):** sequência de temperatura estelar, identificada por linhas de absorção características.
 - **Nucleossíntese:** produção de elementos químicos em processos estelares (fusão no núcleo, supernovas, colisões de estrelas de nêutrons).
@@ -147,7 +147,7 @@ Estudos da vizinhança solar (razão [$\alpha$/Fe] vs. [Fe/H]) — ex.: **Adibek
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 1)
 > 1. **Como o [O/Fe] ajuda a separar o disco fino do disco espesso da Galáxia?** *(em aberto — ver seção 3)*
@@ -158,7 +158,7 @@ Estudos da vizinhança solar (razão [$\alpha$/Fe] vs. [Fe/H]) — ex.: **Adibek
 
 ---
 
-## 🔗 Referências
+## Referências
 - Hunt & Reffert (2024) — catálogo de 5647 aglomerados abertos
 - Adibekyan et al. (2012); Haywood et al. (2013) — química da vizinhança solar
 - Kobayashi et al. (2020) — modelos de nucleossíntese de elementos pesados

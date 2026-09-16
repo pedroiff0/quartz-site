@@ -2,7 +2,7 @@
 publish: false
 title: Aula 04 — Espectroscopia e Metalicidade
 created: 2026-07-23 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -19,9 +19,9 @@ content: Leis de Kirchhoff, formação de linhas espectrais, a descoberta do hé
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|← Aula 03 — Magnitudes, Cores e Classificação Espectral]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Aula 05 — Avermelhamento, Extinção e IMF →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|← Aula 03 — Magnitudes, Cores e Classificação Espectral]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Aula 05 — Avermelhamento, Extinção e IMF →]]
 
-# 🔭 Aula 04 — Espectroscopia e Metalicidade
+# Aula 04 — Espectroscopia e Metalicidade
 
 > [!note] Resumo
 > A espectroscopia é o fundamento indispensável da astrofísica moderna: revela composição química, movimento e distância a partir de como a matéria emite e absorve radiação. Esta aula percorre a física da formação de linhas espectrais e chega à notação \[Fe/H], usada em toda a arqueologia galáctica para medir metalicidade.
@@ -33,11 +33,11 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 🌈 Espectroscopia moderna
+## Espectroscopia moderna
 
 A espectroscopia associa as propriedades observadas nos espectros (linhas espectrais e suas intensidades) a fenômenos físicos que ocorrem em ambientes extraterrestres — transições eletrônicas de diferentes energias em estrelas, nebulosas, planetas etc. Foi essa técnica que permitiu a **Cecilia Payne** descobrir/interpretar a composição química do Sol (ver abaixo). O aparato básico de um espectrógrafo é: fonte → fenda → prisma (hoje, rede de difração) → CCD.
 
-## 🔎 A descoberta do hélio
+## A descoberta do hélio
 
 Uma sequência de marcos no início do séc. XIX/XX:
 
@@ -47,7 +47,7 @@ Uma sequência de marcos no início do séc. XIX/XX:
 - **Jules Janssen (1868):** observa uma linha escura não identificada no espectro solar.
 - **Norman Lockyer (1868):** identifica essa mesma linha e propõe que ela seria devida a um elemento até então desconhecido — o **hélio**, batizado antes mesmo de ser isolado em laboratório na Terra.
 
-## ⚖️ Leis de Kirchhoff
+## Leis de Kirchhoff
 
 1. Sólidos, líquidos ou gases muito densos, quando aquecidos, produzem **espectros contínuos**.
 2. Gases pouco densos, quando aquecidos, produzem **espectros de emissão**.
@@ -55,7 +55,7 @@ Uma sequência de marcos no início do séc. XIX/XX:
 
 Cada elemento químico possui um conjunto único e característico de linhas — é isso que permite identificar um elemento através de seu espectro.
 
-## ⚛️ Formação de linhas espectrais
+## Formação de linhas espectrais
 
 Um elétron ligado a um núcleo tem um **estado fundamental** (energia mínima) e uma **energia de ionização** (acima da qual deixa de estar ligado — o átomo torna-se um íon). Entre esses dois limites, o elétron só pode ocupar **níveis discretos de energia** bem definidos. A energia do fóton emitido/absorvido numa transição é:
 
@@ -69,13 +69,13 @@ O desenvolvimento da Classificação de Harvard (~1910–1920) coincide com o **
 - **Temperaturas intermediárias:** maior probabilidade do elétron ocupar o primeiro estado excitado (nível 2) → ocorrem as transições da **série de Balmer**, detectáveis no visível. É por isso que **estrelas tipo A** têm as linhas de H mais **fortes** de toda a sequência espectral.
 - **Altas temperaturas:** acima de $\sim$10 mil K, o hidrogênio ioniza-se rapidamente → menos H neutro → linhas mais fracas novamente. Por isso, estrelas tipo O e B têm linhas de H mais fracas que as de tipo A.
 
-## 🧪 Composição das estrelas: Cecilia Payne
+## Composição das estrelas: Cecilia Payne
 
 O entendimento dos processos de excitação/ionização atômica permitiu calcular a intensidade das linhas espectrais em função da temperatura — trabalho de **Cecilia Payne**, que demonstrou que as quantidades de **H e He são muito maiores** do que qualquer outro elemento nas estrelas (e, por extensão, no Universo). No início do séc. XX, a qualidade dos dados ainda não permitia distinguir diferenças finas de composição química entre estrelas; hoje, espectros de alta resolução (mais pixels por comprimento de onda) permitem determinações detalhadas — fundamentais para entender a evolução estelar e a produção dos elementos da tabela periódica.
 
 Comparando espectros de estrelas de tipo espectral semelhante, um aumento na quantidade/intensidade de linhas indica **diminuição** na quantidade de elementos mais pesados que H e He — os **metais**, na acepção astronômica: literalmente qualquer elemento além de hidrogênio e hélio. Assume-se, em geral, que a composição da superfície observada reflete a composição original da nuvem de gás da qual a estrela se formou.
 
-## 🔢 Metalicidades e abundâncias
+## Metalicidades e abundâncias
 
 Os primeiros modelos de evolução estelar consideravam apenas três componentes de abundância: hidrogênio ($X$), hélio ($Y$) e metais ($Z$), com $X+Y+Z=1$. Espectroscopicamente, assume-se $Z \propto n(\text{Fe})$, dando origem à notação padrão:
 
@@ -102,18 +102,18 @@ Também é possível estimar metalicidade a partir de **fotometria** (cores), se
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Leis de Kirchhoff:** espectro contínuo (fonte densa quente) vs. emissão (gás quente rarefeito) vs. absorção (gás frio rarefeito na frente de fonte contínua).
 - **Séries de Balmer:** transições do H visíveis no óptico, responsáveis pelo pico de intensidade das linhas de H em estrelas tipo A.
 - **\[Fe/H]:** notação logarítmica-relativa ao Sol; base quantitativa de toda a arqueologia química da Galáxia.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Beers & Christlieb (2005) — estrelas pobres em metais
 - Babusiaux et al. (2018) — metalicidade fotométrica com dados Gaia
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral]]
 - [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Aula 05 — Avermelhamento, Extinção e IMF]]
 - [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — notação \[Fe/H] e \[α/Fe] aplicada à separação de populações
-- [[pt-br/projects/Acadêmico/Anomaly_Detection/README|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa usa espectros GALAH DR4 processados com os mesmos princípios vistos aqui
+- [[pt-br/projects/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa usa espectros GALAH DR4 processados com os mesmos princípios vistos aqui

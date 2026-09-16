@@ -3,7 +3,7 @@ publish: false
 kanban-plugin: board
 title: "Quadro Kanban — IFF Engenharia de Computação"
 created: 2026-09-14 11:54
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - kanban
   - academico
@@ -12,32 +12,32 @@ cssclasses:
   - page-layout
 ---
 
-## 📚 Grade Curricular & Eletivas
+## Grade Curricular & Eletivas
 
 - [ ] Escolher disciplinas optativas para o 7º período #academico #engenharia
 - [ ] Mapeamento de carga horária complementar pendente #academico #iff
 - [ ] Revisar pré-requisitos trancados para o 8º período #academico #planejamento
 
-## 🎯 6º Período (Atual)
+## 6º Período (Atual)
 
 - [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/banco-de-dados/Banco de Dados|Banco de Dados]] — Modelagem física e consultas #academico #disciplina
 - [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/Comunicação de Dados|Comunicação de Dados]] — Camadas OSI e modulação #academico #disciplina
 - [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital/Eletrônica Digital|Eletrônica Digital]] — Mapas de Karnaugh e circuitos #academico #disciplina
 - [ ] [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/Programação Orientada a Objetos I|POO I]] — Polimorfismo e herança #academico #disciplina
 
-## ⏳ 7º Período (Próximo)
+## 7º Período (Próximo)
 
 - [ ] [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/Sistemas Operacionais I|Sistemas Operacionais I]] — Kernel e escalonamento #academico
 - [ ] Redes de Computadores I — Protocolos TCP/IP e roteamento #academico
 - [ ] Engenharia de Software I — Metodologias ágeis e arquitetura #academico
 
-## 🔬 TCC, Estágio & Pesquisa
+## TCC, Estágio & Pesquisa
 
 - [ ] Definir proposta temática preliminar de TCC #academico #pesquisa
 - [ ] Alinhar horas de iniciação científica (CNPq / Arqueologia Galáctica) com coordenação #pesquisa #iff
 - [ ] Documentação de estágio e relatórios parciais #academico #estagio
 
-## ✅ Períodos Concluídos
+## Períodos Concluídos
 
 - [x] 1º Período (Cálculo I, Geometria Analítica, Intro EngComp) #academico
 - [x] 2º Período (Cálculo II, Álgebra Linear, Física I) #academico

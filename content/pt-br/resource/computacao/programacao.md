@@ -2,7 +2,7 @@
 publish: false
 title: Programação
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -57,7 +57,7 @@ O que dominar: classes, encapsulamento, herança, polimorfismo e interfaces (em 
 - **Ignorar as mensagens de erro** — Iniciante vê erro e sai mudando código aleatoriamente. A mensagem de erro diz o tipo do problema e a linha; aprender a lê-la (e a ler o stack trace) é possivelmente a habilidade de maior retorno por hora investida em toda a programação.
 - **Querer o projeto grande antes da base** — Começar "um app completo" na terceira semana termina em frustração e abandono. A progressão que funciona: exercícios curtos → programas de 100 linhas → projeto pequeno completo → projeto com outras pessoas.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Livros e apostilas abertas
 
@@ -69,7 +69,7 @@ O que dominar: classes, encapsulamento, herança, polimorfismo e interfaces (em 
 - **[Estrutura de Dados](/assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)**, 2 volumes (Rede e-Tec) — cobre as estruturas fundamentais da etapa 3 em português acessível, via [proedu.rnp.br](https://proedu.rnp.br).
 - **[Introdução à POO com Java](/assets/biblioteca/computacao/intro-poo-java-etec.pdf)** (Rede e-Tec) — apoio direto às disciplinas de orientação a objetos, via [proedu.rnp.br](https://proedu.rnp.br).
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: Python](https://roadmap.sh/python), [Roadmap: C++](https://roadmap.sh/cpp) e [Roadmap: Java](https://roadmap.sh/java) — mapas por linguagem; escolha o da linguagem da sua disciplina atual e use como checklist de tópicos.
 - [beecrowd](https://www.beecrowd.com.br/) — juiz online brasileiro com milhares de problemas em português, dos triviais aos de maratona. É onde a etapa 1 e 3 desta trilha acontecem na prática; comece pelos problemas da categoria iniciante.
@@ -80,9 +80,9 @@ O que dominar: classes, encapsulamento, herança, polimorfismo e interfaces (em 
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao|Algoritmos e Técnicas de Programação]] — etapas 1 e 2 da trilha.
-- [[pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i|Algoritmos e Estruturas de Dados I]] — início da etapa 3: listas, pilhas, filas.
-- [[pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii|Algoritmos e Estruturas de Dados II]] — continuação da etapa 3: árvores, hash, ordenação.
-- [[pt-br/resource/engenharia-de-computação/5-periodo/paradigmas-de-linguagem-de-programacao|Paradigmas de Linguagem de Programação]] — a visão comparada de paradigmas da etapa 4.
-- [[pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i|Programação Orientada a Objetos I]] — os pilares de OO na prática, com Java.
-- [[pt-br/resource/engenharia-de-computação/7-periodo/programacao-orientada-a-objetos-ii|Programação Orientada a Objetos II]] — aprofundamento: design, interfaces e projetos maiores.
+- [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Algoritmos e Técnicas de Programação|Algoritmos e Técnicas de Programação]] — etapas 1 e 2 da trilha.
+- [[pt-br/resource/Engenharia de Computação/3-periodo/algoritmos-e-estruturas-de-dados-i/Algoritmos e Estruturas de Dados I|Algoritmos e Estruturas de Dados I]] — início da etapa 3: listas, pilhas, filas.
+- [[pt-br/resource/Engenharia de Computação/4-periodo/algoritmos-e-estruturas-de-dados-ii/Algoritmos e Estruturas de Dados II|Algoritmos e Estruturas de Dados II]] — continuação da etapa 3: árvores, hash, ordenação.
+- [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/Paradigmas de Linguagem de Programação|Paradigmas de Linguagem de Programação]] — a visão comparada de paradigmas da etapa 4.
+- [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/Programação Orientada a Objetos I|Programação Orientada a Objetos I]] — os pilares de OO na prática, com Java.
+- [[pt-br/resource/Engenharia de Computação/7-periodo/programacao-orientada-a-objetos-ii/Programação Orientada a Objetos II|Programação Orientada a Objetos II]] — aprofundamento: design, interfaces e projetos maiores.

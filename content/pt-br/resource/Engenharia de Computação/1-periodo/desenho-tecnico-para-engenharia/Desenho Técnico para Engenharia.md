@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Desenho Técnico para Engenharia"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,31 +11,31 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.7`
 > - **Período:** 1º Período | **Núcleo:** Básica | **Carga Horária:** 80
 > - **Docente Responsável:** Filipe Ambrósio (filipe.loures@gsuite.iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Utilização de instrumentos de desenho; Normas para desenho; Desenho geométrico; Projeções ortogonais; Perspectiva isométrica; Dimensionamento e cotagem; Cortes e secções.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Capacitar os alunos para interpretação e confecção de desenhos técnicos;
 > - Desenvolver raciocínio espacial;
 > - Adquirir conhecimentos e normas, técnicos, para confecção e leitura de desenhos;
 > - Introduzir conceitos de computação gráfica.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Utilização de instrumentos de desenho;**
 > - **2. Normas para desenho;**
 > - **3. Desenho geométrico**
@@ -75,27 +72,17 @@ cssclasses:
 > 	- Linha de corte AB e CD;
 > 	- Identificação de hachuras pela ABNT.
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. PEREIRA, Patrícia; MICELI M.T. Desenho Técnico Básico. Rio de Janeiro: LTC, 2008.
 > 2. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. São Paulo: Pearson, 2013.
 > 3. SILVA, A., RIBEIRO, C. T., DIAS, J., SOUZA, L. Desenho Técnico Moderno. 4ª Edição. Rio de Janeiro: LTC,
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. LEAKE, J. M., BORGERSON, J. L. Manual de Desenho Técnico para Engenharia: Desenho, Modelagem e Visualização. 2ª Edição. Rio de Janeiro: LTC, 2014.
 > 2. MORIOKA, C. A., CRUZ, M. D., CRUZ, E. C. Desenho Técnico: Medidas e Representação Gráfica. São Paulo: Editora Érica, 2014.
 > 3. NETTO, C. C. Estudo Dirigido Autodesk: AutoCAD 2018 para Windows. São Paulo: Érica, 2017.
 > 4. NORTON, R. L. Projeto de Máquinas: Uma Abordagem Integrada. 4ª Edição. Porto Alegre: Bookman, RODRIGUES, A. R., SOUZA, A. F., JUNIOR, A. B., BRANDÃO, L. C., SILVEIRA, Z. C. Desenho Técnico Mecânico. Rio de Janeiro: Elsevier, 2015.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/Anotações/Esboço/aula-01-utilização-de-instrumentos-de-desenho|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/Anotações/Esboço/aula-02-normas-para-desenho|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/Anotações/Esboço/aula-03-desenho-geométrico|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/Anotações/Esboço/aula-04-geometria-plana|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/Anotações/Esboço/aula-05-linhas|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/Anotações/Esboço/aula-06-ângulos|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

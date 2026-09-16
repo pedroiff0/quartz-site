@@ -19,7 +19,7 @@ cssclasses:
   - page-layout
   - paper-notes
 created: 2026-09-14 10:29
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:50
 ---
 
 <div class="paper-banner">
@@ -37,7 +37,7 @@ modified: 2026-09-14 20:12
 
 ***
 
-## ❓ Perguntas Norteadoras da Discussão
+## Perguntas Norteadoras da Discussão
 
 > [!question] Roteiro de Discussão no Clube ENGCOMP
 > 1. **Qual é o principal gargalo arquitetural da separação entre lógica de prompts (na aplicação) e dados estruturados (no SGBD)?**
@@ -47,7 +47,7 @@ modified: 2026-09-14 20:12
 
 ***
 
-## 📖 1. Motivação e Isolamento Atual de Prompts
+## 1. Motivação e Isolamento Atual de Prompts
 
 > [!warning|#ffd000] *Artigo - Martins2026, p.1*
 > > *"Currently, prompts sent to LLMs reside entirely within application business logic, rendering them opaque to database optimization engines."*
@@ -56,7 +56,7 @@ modified: 2026-09-14 20:12
 
 ***
 
-## 🔬 2. Arquitetura do PromptDB & O Tipo de Dado `PROMPT`
+## 2. Arquitetura do PromptDB & O Tipo de Dado `PROMPT`
 
 > [!tip] *Artigo - Martins2026, p.3*
 > > *"By defining PROMPT as a composite SQL domain, database engines can perform algebraic rewrites, syntactic validation, and version branching natively."*
@@ -65,7 +65,7 @@ modified: 2026-09-14 20:12
 
 ***
 
-## 📂 Recursos & Materiais do Estudo
+## Recursos & Materiais do Estudo
 
 > [!tip] 🔗 Arquivos e Materiais da Disciplina
 > - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
@@ -74,8 +74,8 @@ modified: 2026-09-14 20:12
 
 ---
 
-## 🔗 Referências e Correlatos
+## Referências e Correlatos
 
-- [[pt-br/research/Journal-Clubs/engcomp/|ENGCOMP — Journal Club]]
-- [[pt-br/research/Journal-Clubs/|Journal Clubs — Visão Geral]]
-- [[pt-br/mapa/MOC - Pesquisa e Astronomia|Pesquisas Acadêmicas — Visão Geral]]
+- [[pt-br/research/Journal-Clubs/engcomp/Journal Club — ENGCOMP|ENGCOMP — Journal Club]]
+- [[pt-br/research/Journal-Clubs/Journal Clubs — Índice|Journal Clubs — Visão Geral]]
+- [[pt-br/research/index|Pesquisas Acadêmicas — Visão Geral]]

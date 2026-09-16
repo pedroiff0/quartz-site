@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Projeto e Análise de Algoritmos"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,30 +11,30 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.34`
 > - **Período:** 5º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limites de Complexidade. Análise de algoritmos iterativos e recursivos.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Conhecer as técnicas e formalismos fundamentais para analisar algoritmos
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/2-periodo/matematica-discreta/index|CSECBJI.14 - Matemática Discreta]]
-> - [[pt-br/resource/Engenharia de Computação/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|CSECBJI.30 - Algoritmos e Estruturas de Dados II]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/eletivas/geoprocessamento/index|CSECBJI.84 - Geoprocessamento]]
-> - [[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/index|CSECBJI.90 - Inteligência Artificial]]
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/2-periodo/matematica-discreta/Matemática Discreta|CSECBJI.14 - Matemática Discreta]]
+> - [[pt-br/resource/Engenharia de Computação/4-periodo/algoritmos-e-estruturas-de-dados-ii/Algoritmos e Estruturas de Dados II|CSECBJI.30 - Algoritmos e Estruturas de Dados II]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/eletivas/geoprocessamento/Geoprocessamento|CSECBJI.84 - Geoprocessamento]]
+> - [[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/Inteligência Artificial|CSECBJI.90 - Inteligência Artificial]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Medidas de Complexidade**
 > - **2. Notação Assintótica**
 > - **3. Análise Assintótica de Limites de Complexidade**
@@ -71,12 +68,12 @@ cssclasses:
 > 	- NP-Completo
 > 	- NP-Difícil
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,
 > 2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014.
 > 3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C. São Paulo: Cengage, 2010.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo:
 > 2. McGrall Hill, 2007.
 > 3. ASCENCIO, A. F. G., ARAÚJO, G. A. Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++. São Paulo: Pearson, 2015.
@@ -85,15 +82,5 @@ cssclasses:
 > 6. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/Anotações/Esboço/aula-01-medidas-de-complexidade|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/Anotações/Esboço/aula-02-notação-assintótica|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/Anotações/Esboço/aula-03-análise-assintótica-de-limites-de-comple|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/Anotações/Esboço/aula-04-algoritmos-de-força-bruta|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/Anotações/Esboço/aula-05-algoritmos-de-divisão-e-conquista|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/Anotações/Esboço/aula-06-algoritmos-gulosos|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

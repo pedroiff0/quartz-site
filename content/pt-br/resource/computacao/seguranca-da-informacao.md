@@ -2,7 +2,7 @@
 publish: false
 title: Segurança da Informação
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -58,13 +58,13 @@ Consolide atacando (legalmente): capture-the-flag no [picoCTF](https://picoctf.o
 - **Tratar segurança como etapa final do projeto.** "Depois a gente adiciona segurança" produz retrabalho e brechas estruturais. Validação de entrada, controle de acesso e tratamento de segredos são decisões de arquitetura, não verniz.
 - **Achar que o firewall (ou o antivírus, ou o HTTPS) resolve tudo.** Cada controle protege contra uma classe específica de ataque. HTTPS protege o dado em trânsito e não faz nada contra SQL injection; o firewall não impede phishing. Segurança é o conjunto, nunca uma bala de prata.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 **Livros abertos (licença pública):**
 
 - **[Segurança da Informação](/assets/biblioteca/computacao/seguranca-da-informacao-ifro.pdf)** (Rede e-Tec Brasil / IFRO) — apostila em português cobrindo fundamentos, políticas de segurança e proteção de sistemas; boa porta de entrada no vocabulário da área. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: Cyber Security](https://roadmap.sh/cyber-security) — o mapa completo da carreira em segurança, dos fundamentos às especializações (ofensiva, defensiva, GRC). Use para se orientar e escolher um ramo.
 - [OWASP](https://owasp.org/) — a fundação que define os padrões de segurança de aplicações: o Top 10, cheat sheets de defesa e o Juice Shop para praticar. Referência obrigatória para qualquer desenvolvedor web.
@@ -76,5 +76,5 @@ Consolide atacando (legalmente): capture-the-flag no [picoCTF](https://picoctf.o
 
 Não há disciplina dedicada de segurança na grade — o tema aparece dentro das disciplinas de redes, e o restante é por sua conta (use este guia como trilha):
 
-- [[pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i|Redes de Computadores I]] — a base indispensável: TCP/IP, portas e serviços são o alfabeto de qualquer análise de segurança.
-- [[pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii|Redes de Computadores II]] — onde aparecem os tópicos de segurança de redes: firewalls, VPNs e proteção de perímetro.
+- [[pt-br/resource/Engenharia de Computação/7-periodo/redes-de-computadores-i/Redes de Computadores I|Redes de Computadores I]] — a base indispensável: TCP/IP, portas e serviços são o alfabeto de qualquer análise de segurança.
+- [[pt-br/resource/Engenharia de Computação/8-periodo/redes-de-computadores-ii/Redes de Computadores II|Redes de Computadores II]] — onde aparecem os tópicos de segurança de redes: firewalls, VPNs e proteção de perímetro.

@@ -2,7 +2,7 @@
 publish: false
 title: Sistemas Operacionais
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -57,7 +57,7 @@ O que dominar: memória virtual e paginação (agora do lado da política: algor
 - **Confundir memória virtual com swap** — Memória virtual é o mecanismo de tradução de endereços que existe sempre, mesmo com RAM sobrando; swap é só o transbordo pra disco. Misturar os dois impede de entender tanto o desempenho quanto as ferramentas de diagnóstico (`free`, `vmstat`).
 - **Tratar o "matar processo" como solução, não como sintoma** — `kill -9` resolve o momento, mas quem para aí nunca aprende. O hábito profissional é perguntar _por que_ o processo travou: bloqueado em quê? esperando qual recurso? Os conceitos da disciplina são exatamente o vocabulário dessa pergunta.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Livros e apostilas abertas
 
@@ -69,7 +69,7 @@ O que dominar: memória virtual e paginação (agora do lado da política: algor
 
 - TANENBAUM, A. S. _Sistemas Operacionais Modernos_. — A referência mundial da disciplina: processos, memória, arquivos, E/S e estudos de caso (Linux, Windows). É o livro pra aprofundar cada etapa desta trilha.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: Linux](https://roadmap.sh/linux) — trilha de domínio do Linux, do básico de terminal à administração; acompanha a etapa 1 e continua útil a carreira inteira.
 - [man7.org](https://man7.org/) — as man pages do Linux mantidas por Michael Kerrisk: a documentação definitiva de syscalls e da API do sistema. Use quando quiser saber exatamente o que `fork`, `mmap` ou qualquer chamada faz.
@@ -79,5 +79,5 @@ O que dominar: memória virtual e paginação (agora do lado da política: algor
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/7-periodo/sistemas-operacionais-i|Sistemas Operacionais I]] — etapas 1 a 3 da trilha: processos, threads, escalonamento e sincronização.
-- [[pt-br/resource/engenharia-de-computação/8-periodo/sistemas-operacionais-ii|Sistemas Operacionais II]] — etapa 4: memória virtual, sistemas de arquivos e E/S.
+- [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/Sistemas Operacionais I|Sistemas Operacionais I]] — etapas 1 a 3 da trilha: processos, threads, escalonamento e sincronização.
+- [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/Sistemas Operacionais II|Sistemas Operacionais II]] — etapa 4: memória virtual, sistemas de arquivos e E/S.

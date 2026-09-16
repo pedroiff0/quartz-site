@@ -2,7 +2,7 @@
 publish: false
 title: Informática Básica
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:34
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -57,14 +57,14 @@ O que dominar: abrir o terminal sem medo, navegar (`cd`, `ls`/`dir`), criar e mo
 - **Formatar trabalho com espaço e Enter em vez de estilos** — Funciona até o professor pedir uma mudança, e aí o documento inteiro desmonta. Estilos, quebras de seção e sumário automático custam uma tarde pra aprender e economizam dezenas de horas ao longo do curso.
 - **Clicar em "avançar, avançar, concluir" sem ler** — Tanto em instaladores (que embutem programas indesejados) quanto em mensagens de erro (que dizem exatamente qual é o problema). Ler o que está na tela é, honestamente, metade da informática básica.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Livros e apostilas abertas
 
 - **[Periféricos e Suprimentos](/assets/biblioteca/computacao/perifericos-e-suprimentos-etec.pdf)** (Escola Técnica Aberta/MEC) — apostila aberta sobre os componentes e periféricos do computador, boa base pra etapa 1 da trilha. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
 - O acervo do [proedu.rnp.br](https://proedu.rnp.br) (repositório público da Rede e-Tec) tem diversas outras apostilas introdutórias de informática — vale explorar a busca do portal pelo tema que você precisar reforçar.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [CS50 — Harvard](https://cs50.harvard.edu/) — a aula introdutória explica o que é um computador e como ele representa informação, no nível certo pra quem está começando do zero. Bom próximo passo quando a fluência operacional já estiver instalada.
 - [Roadmap: Computer Science](https://roadmap.sh/computer-science) — use como mapa do que vem depois: informática básica é o degrau de entrada, e o roadmap mostra a escada inteira.

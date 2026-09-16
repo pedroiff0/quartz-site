@@ -6,7 +6,7 @@ discipline: Resumo Geral
 content: Panorama de tudo o que foi visto na Escola de Inverno do Observatório Nacional (ON) 2026
 professor:
 created: 2026-07-22 13:34
-modified: 2026-09-12 11:20
+modified: 2026-09-15 21:34
 tags:
   - escola-de-inverno-on
   - resumo
@@ -14,27 +14,27 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# 🌌 Resumo Geral — Escola de Inverno do Observatório Nacional (2026)
+# Resumo Geral — Escola de Inverno do Observatório Nacional (2026)
 
 > [!info] Sobre este arquivo
 > Panorama de todas as áreas cobertas até agora na Escola de Inverno. Cada seção resume a nota detalhada correspondente — clique nos links para ver a aula completa, com explicações, fórmulas e imagens.
 
 ---
 
-## 🗺️ Mapa geral das disciplinas
+## Mapa geral das disciplinas
 
 | Área | Professor(a) | Do que trata | Nota completa |
 |---|---|---|---|
-| 🌐 Aglomerados de Galáxias | Rogério Monteiro-Oliveira | As maiores estruturas gravitacionalmente ligadas do Universo | [260720-Aglomerados-Aula01](260720-Aglomerados-Aula01) |
-| ⭐ Arqueologia Galáctica | — | História da Via Láctea lida na composição química das estrelas | [260720-Arqueologia-Galactica-Aula01](260720-Arqueologia-Galactica-Aula01) |
-| 💻 Computação de Alto Desempenho | Fernando Roig | Programação paralela (OpenMP/MPI) para ciência de dados | [260721-Computacao-Aula01](260721-Computacao-Aula01) |
-| 🌀 Cosmologia | Carlos Bengaly | O modelo padrão ΛCDM e suas sondas observacionais | [260721-Cosmologia-Aula01](260721-Cosmologia-Aula01) |
-| 👻 Neutrinos (Palestra) | Gabriel Rodrigues | Física de partículas + cosmologia dos neutrinos | [260720-Neutrinos](260720-Neutrinos) |
-| 🪐 Ciências Planetárias | — | Sistema Solar: inventário, arquitetura e dinâmica orbital | [260720-Planetaria-Aula01](260720-Planetaria-Aula01), [260721-Planetaria-Aula02](260721-Planetaria-Aula02) |
+|  Aglomerados de Galáxias | Rogério Monteiro-Oliveira | As maiores estruturas gravitacionalmente ligadas do Universo | [260720-Aglomerados-Aula01](260720-Aglomerados-Aula01) |
+|  Arqueologia Galáctica | — | História da Via Láctea lida na composição química das estrelas | [260720-Arqueologia-Galactica-Aula01](260720-Arqueologia-Galactica-Aula01) |
+|  Computação de Alto Desempenho | Fernando Roig | Programação paralela (OpenMP/MPI) para ciência de dados | [260721-Computacao-Aula01](260721-Computacao-Aula01) |
+|  Cosmologia | Carlos Bengaly | O modelo padrão ΛCDM e suas sondas observacionais | [260721-Cosmologia-Aula01](260721-Cosmologia-Aula01) |
+|  Neutrinos (Palestra) | Gabriel Rodrigues | Física de partículas + cosmologia dos neutrinos | [260720-Neutrinos](260720-Neutrinos) |
+|  Ciências Planetárias | — | Sistema Solar: inventário, arquitetura e dinâmica orbital | [260720-Planetaria-Aula01](260720-Planetaria-Aula01), [260721-Planetaria-Aula02](260721-Planetaria-Aula02) |
 
 ---
 
-## 🧵 O fio condutor: uma história em escalas
+## O fio condutor: uma história em escalas
 
 Um jeito de amarrar todas as aulas é pensar em **escala**, do menor para o maior:
 
@@ -48,7 +48,7 @@ Por trás de tudo isso está a **Computação de Alto Desempenho**: a ferramenta
 
 ---
 
-## 🔑 Grandes ideias que aparecem repetidamente
+## Grandes ideias que aparecem repetidamente
 
 > [!tip] Temas recorrentes entre as aulas
 > - **Matéria escura:** aparece em Aglomerados (Zwicky/Coma, lentes gravitacionais), em Cosmologia (CDM, candidatos WIMP/áxion) e em Neutrinos (neutrinos como matéria escura "quente", mas insuficiente).
@@ -59,29 +59,29 @@ Por trás de tudo isso está a **Computação de Alto Desempenho**: a ferramenta
 
 ---
 
-## 📚 Resumo por área
+## Resumo por área
 
-### 🌐 Aglomerados de Galáxias
+### Aglomerados de Galáxias
 Os aglomerados são os maiores objetos já **virializados** do Universo ($10^{14}$–$10^{15}\,M_\odot$), compostos majoritariamente por **matéria escura (~80%)**, com gás quente (ICM, ~15%) e galáxias (~5%). Zwicky, em 1933, foi o primeiro a notar essa discrepância de massa usando o **teorema do virial** no Aglomerado de Coma. Hoje detectamos aglomerados por 4 vias complementares: óptico (galáxias, sequência vermelha), raio-X (gás do ICM), micro-ondas (efeito Sunyaev-Zel'dovich) e lentes gravitacionais fracas (mapeando a matéria escura diretamente).
 
-### ⭐ Arqueologia Galáctica
+### Arqueologia Galáctica
 Estrelas são classificadas pela sequência espectral **OBAFGKM** (temperatura decrescente). Ao longo da vida e, principalmente, ao morrer (supernovas, nebulosas planetárias, colisões de estrelas de nêutrons), as estrelas produzem e espalham elementos químicos pelo espaço — os processos **s** (lento, em estrelas AGB) e **r** (rápido, em fusões de estrelas de nêutrons) explicam a origem de praticamente toda a tabela periódica além do ferro. Comparando a composição química de estrelas antigas e novas (populações I, II e III), reconstruímos a história de formação da Via Láctea.
 
-### 💻 Computação de Alto Desempenho
+### Computação de Alto Desempenho
 Para simular os fenômenos acima (N-corpos, hidrodinâmica, aprendizado de máquina), astrônomos usam **clusters de supercomputadores**. Dois paradigmas principais: **OpenMP** (memória compartilhada, paraleliza laços dentro de um mesmo nó) e **MPI** (memória distribuída, troca mensagens entre muitos nós via broadcast/reduce/scatter/gather).
 
-### 🌀 Cosmologia
+### Cosmologia
 O modelo padrão **ΛCDM** descreve um Universo composto por ~68% energia escura, ~27% matéria escura fria e ~5% matéria comum. Ele é testado por três sondas principais: **supernovas Ia** (expansão acelerada, descoberta em 1998), a **Radiação Cósmica de Fundo** (fóssil térmico do Universo primordial, a 2,725 K) e a **Estrutura em Grande Escala** (a teia cósmica de filamentos e aglomerados).
 
-### 👻 Neutrinos
+### Neutrinos
 Previstos por Pauli (1930) para salvar a conservação de energia no decaimento beta, os neutrinos só foram detectados em 1956. Em 1998, a descoberta da **oscilação de neutrinos** provou que eles têm massa — um dado que hoje é comparado diretamente com limites obtidos da própria cosmologia (RCF + estrutura em grande escala), unindo física de partículas e o Universo em grande escala.
 
-### 🪐 Ciências Planetárias
+### Ciências Planetárias
 O Sistema Solar se formou a partir do colapso gravitacional de uma nuvem molecular, passando por um disco protoplanetário. Sua dinâmica é regida pela gravitação newtoniana e pelas **leis de Kepler**, com órbitas descritas por 6 elementos orbitais constantes (no problema de 2 corpos). Modelos dinâmicos como o **Grand Tack** e o **modelo de Nice** explicam características hoje observadas, como a baixa massa de Marte e o Bombardeio Intenso Tardio da Lua.
 
 ---
 
-## 🔗 Notas completas
+## Notas completas
 - [[260720-Aglomerados-Aula01]]
 - [[260720-Arqueologia-Galactica-Aula01]]
 - [[260721-Computacao-Aula01]]
@@ -92,31 +92,31 @@ O Sistema Solar se formou a partir do colapso gravitacional de uma nuvem molecul
 > [!note] Próximos passos
 > Este resumo e as notas de aula serão atualizados conforme novas aulas acontecem e conforme os **PDFs oficiais das aulas** ficarem disponíveis — o que deve permitir preencher os pontos ainda marcados como "a preencher" e corrigir/expandir qualquer detalhe.
 
-## 🎓 Aulas — Aglomerados
+## Aulas — Aglomerados
 
 - [[pt-br/resource/escolainverno/Aglomerados/260720-Aglomerados-Aula01|260720-Aglomerados-Aula01]]
 - [[pt-br/resource/escolainverno/Aglomerados/Aglomerados-Aula02|Aglomerados-Aula02]]
 - [[pt-br/resource/escolainverno/Aglomerados/Aglomerados-Aula03|Aglomerados-Aula03]]
 
-## 🎓 Aulas — Computação
+## Aulas — Computação
 
 - [[pt-br/resource/escolainverno/Computação/260721-Computacao-Aula01|260721-Computacao-Aula01]]
 - [[pt-br/resource/escolainverno/Computação/Computacao-Aula02|Computacao-Aula02]]
 - [[pt-br/resource/escolainverno/Computação/Computacao-Aula03|Computacao-Aula03]]
 
-## 🎓 Aulas — Cosmologia
+## Aulas — Cosmologia
 
 - [[pt-br/resource/escolainverno/Cosmologia/260721-Cosmologia-Aula01|260721-Cosmologia-Aula01]]
 - [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula02|Cosmologia-Aula02]]
 - [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula03|Cosmologia-Aula03]]
 
-## 🎓 Aulas — ArqGal
+## Aulas — ArqGal
 
 - [[pt-br/resource/escolainverno/ArqGal/260720-Arqueologia-Galactica-Aula01|260720-Arqueologia-Galactica-Aula01]]
 - [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula02|ArqueologiaGalactica-Aula02]]
 - [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula03|ArqueologiaGalactica-Aula03]]
 
-## 🎓 Aulas — Planetaria
+## Aulas — Planetaria
 
 - [[pt-br/resource/escolainverno/Planetaria/260720-Planetaria-Aula01|260720-Planetaria-Aula01]]
 - [[pt-br/resource/escolainverno/Planetaria/260721-Planetaria-Aula02|260721-Planetaria-Aula02]]

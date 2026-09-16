@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Processamento de Imagens"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.78`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração de imagens. Fundamentos para um sistema de análise de imagens. Segmentação de imagens.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Apresentar os fundamentos gerais sobre processamento de imagens e vídeos digitais. Desenvolver rotinas de processamento de imagens para diversas aplicações.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/eletivas/computacao-grafica/index|CSECBJI.77 - Computação Gráfica]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/eletivas/computacao-grafica/Computação Gráfica|CSECBJI.77 - Computação Gráfica]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Fundamentação, aplicações, representação e modelagem de imagens digitais**
 > 	- Conceitos básicos das áreas de processamento e análise de imagens
 > 	- Principais áreas de aplicação envolvendo o tratamento de imagens
@@ -65,12 +62,12 @@ cssclasses:
 > 	- Morfologia para Correção da Segmentação
 > 	- Erosão, Dilatação, Abertura e Fechamento
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018.
 > 2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003
 > 3. CONCI, A., AZEVEDO, E. Computação Gráfica: Teoria e Prática – Volume 2. São Paulo: Elsevier, 2007.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
 > 2. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
 > 3. GONZALEZ, R. C., WOODS, R. E. Processamento Digital de Imagens. 3ª Edição. São Paulo: Pearson, 4.
@@ -78,15 +75,5 @@ cssclasses:
 > 5. SOLOMON, C., BRECKON, T. Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab. Rio de Janeiro: LTC, 2013.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/Anotações/Esboço/aula-01-fundamentação-aplicações-representação-e|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/Anotações/Esboço/aula-02-conceitos-básicos-das-áreas-de-processam|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/Anotações/Esboço/aula-03-principais-áreas-de-aplicação-envolvendo|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/Anotações/Esboço/aula-04-componentes-fundamentais-de-um-sistema-d|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/Anotações/Esboço/aula-05-aquisição-de-imagens-e-técnicas-de-realc|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/Anotações/Esboço/aula-06-aquisição-e-digitalização-de-imagens|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

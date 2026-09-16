@@ -6,20 +6,20 @@ tags:
   - pipeline-guia
   - meta
 created: 2026-09-14 10:29
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 
 cssclasses:
   - page-layout
 ---
 
-# 🚀 Guia de Uso: Pipeline Unificado de Apresentações ENGCOMP Journal Club
+# Guia de Uso: Pipeline Unificado de Apresentações ENGCOMP Journal Club
 
 > [!abstract] Visão Geral da Arquitetura
 > Manual do pipeline automatizado do **Journal Club de Engenharia de Computação (ENGCOMP)** do IFFluminense. A arquitetura conecta automaticamente as anotações do **Obsidian (.md)** ao **Roteiro/Lecture (.tex/.pdf)**, aos **Slides Beamer 16:9 (.pdf claro/escuro)** e às **Apresentações PowerPoint (.pptx claro/escuro)**, com espelhamento automático para a pasta `_materiais/[arxiv_id]/` e para o Quartz Site.
 
 ---
 
-## 🧭 O Fluxo de Trabalho (Do Paper à Apresentação)
+## O Fluxo de Trabalho (Do Paper à Apresentação)
 
 ```mermaid
 graph TD
@@ -36,7 +36,7 @@ graph TD
 
 ---
 
-## 📂 Estrutura do Modelo (`slides-engcomp/`)
+## Estrutura do Modelo (`slides-engcomp/`)
 
 O repositório do modelo está localizado em [[file:///home/pedro/Repositorios/latex/modelos/slides-engcomp|`/home/pedro/Repositorios/latex/modelos/slides-engcomp/`]]:
 
@@ -61,28 +61,28 @@ slides-engcomp/
 
 ---
 
-## 🔗 A Seção de Links Dinâmicos no Obsidian
+## A Seção de Links Dinâmicos no Obsidian
 
 Toda nota de artigo do Journal Club ENGCOMP deve conter a seção padronizada abaixo. O script [`gerar_tudo.py`](file:///home/pedro/Repositorios/latex/modelos/slides-engcomp/gerar_tudo.py) lê esses links para montar a caixa de metadados no Roteiro e atualizar os links dos slides:
 
 ```markdown
-## 📂 Recursos & Materiais do Estudo
+## Recursos & Materiais do Estudo
 
-> [!tip] 🔗 Links e Materiais Vinculados (Dinâmicos)
-> - 📄 **Artigo Original PDF:** *Artigo - Martins2026.pdf*
-> - 📑 **Roteiro de Leitura (Lecture PDF):** *roteiro_Martins2026.pdf*
-> - 📊 **Slides Beamer (LaTeX PDF Claro):** *slides_engcomp_artigo.pdf*
-> - 📊 **Slides Beamer (LaTeX PDF Escuro):** *slides_engcomp_artigo_preto.pdf*
-> - 💻 **Slides PowerPoint (PPTX Claro):** *main_slides_169_branco.pptx*
-> - 💻 **Slides PowerPoint (PPTX Escuro):** *main_slides_169_preto.pptx*
-> - 👥 **Grupo de E-mails do Clube (Google Groups):** [groups.google.com/g/engcompbji](https://groups.google.com/g/engcompbji)
-> - 🏠 **Hub ENGCOMP no Site Pessoal:** [phrandrade.com/engcomp](https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/)
-> - 🔗 **Versão Publicada Desta Nota (Web):** [Acessar Nota Publicada Online](https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/prompt-as-a-data-type)
+> [!tip]  Links e Materiais Vinculados (Dinâmicos)
+> -  **Artigo Original PDF:** *Artigo - Martins2026.pdf*
+> -  **Roteiro de Leitura (Lecture PDF):** *roteiro_Martins2026.pdf*
+> -  **Slides Beamer (LaTeX PDF Claro):** *slides_engcomp_artigo.pdf*
+> -  **Slides Beamer (LaTeX PDF Escuro):** *slides_engcomp_artigo_preto.pdf*
+> -  **Slides PowerPoint (PPTX Claro):** *main_slides_169_branco.pptx*
+> -  **Slides PowerPoint (PPTX Escuro):** *main_slides_169_preto.pptx*
+> -  **Grupo de E-mails do Clube (Google Groups):** [groups.google.com/g/engcompbji](https://groups.google.com/g/engcompbji)
+> -  **Hub ENGCOMP no Site Pessoal:** [phrandrade.com/engcomp](https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/)
+> -  **Versão Publicada Desta Nota (Web):** [Acessar Nota Publicada Online](https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/prompt-as-a-data-type)
 ```
 
 ---
 
-## ⚡ Como Executar o Pipeline Mestre
+## Como Executar o Pipeline Mestre
 
 Para compilar a Lecture, os dois PDFs LaTeX, os dois PPTXs e sincronizar tudo automaticamente com o Obsidian e o Quartz Site, execute:
 
@@ -96,7 +96,7 @@ python3 /home/pedro/Repositorios/latex/modelos/slides-engcomp/gerar_tudo.py --no
 
 ---
 
-## 🎯 Regras de Design e Padrões Fixados
+## Regras de Design e Padrões Fixados
 
 | Elemento | Tema Branco (Light) | Tema Preto (Dark) |
 | :--- | :--- | :--- |

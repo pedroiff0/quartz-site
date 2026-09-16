@@ -2,7 +2,7 @@
 publish: false
 title: Engenharia de Software
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -56,7 +56,7 @@ Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços,
 - **Confundir "funciona" com "está bom".** Código que passa no teste manual mas ninguém entende é passivo, não ativo. O leitor mais provável do seu código é você mesmo em seis meses — escreva para ele.
 - **Ignorar requisitos não funcionais até o fim.** Desempenho, segurança e disponibilidade não se "adicionam depois": moldam a arquitetura desde o início. Descobrir na entrega que o sistema precisava aguentar 10× a carga é refazer, não ajustar.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 **Livros abertos (licença pública):**
 
@@ -69,7 +69,7 @@ Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços,
 - SOMMERVILLE, I. _Engenharia de Software_. O livro-texto padrão da disciplina no mundo todo: processos, requisitos, projeto, testes e manutenção com visão panorâmica.
 - PRESSMAN, R. _Engenharia de Software: uma abordagem profissional_. O outro clássico, com pegada mais prescritiva e orientada à prática profissional; ótimo contraponto ao Sommerville.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: Software Design & Architecture](https://roadmap.sh/software-design-architecture) — a trilha que conecta código limpo, princípios de design, padrões e arquitetura numa progressão única. O melhor mapa geral da área.
 - [Roadmap: Software Architect](https://roadmap.sh/software-architect) — visão de mais longo prazo: o que um arquiteto de software precisa dominar. Útil para enxergar aonde a trilha leva.
@@ -78,6 +78,6 @@ Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços,
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software|Engenharia de Software]] — processos, requisitos e ciclo de vida: o panorama da área.
-- [[pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos|Análise de Software Orientada a Objetos]] — modelagem OO e UML: transformar requisitos em modelos.
-- [[pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos|Projeto de Software Orientado a Objetos]] — do modelo ao design implementável: princípios, padrões e arquitetura.
+- [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/Engenharia de Software|Engenharia de Software]] — processos, requisitos e ciclo de vida: o panorama da área.
+- [[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/Análise de Software Orientada a Objetos|Análise de Software Orientada a Objetos]] — modelagem OO e UML: transformar requisitos em modelos.
+- [[pt-br/resource/Engenharia de Computação/7-periodo/projeto-de-software-orientado-a-objetos/Projeto de Software Orientado a Objetos|Projeto de Software Orientado a Objetos]] — do modelo ao design implementável: princípios, padrões e arquitetura.

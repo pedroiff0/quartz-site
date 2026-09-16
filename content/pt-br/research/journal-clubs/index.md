@@ -60,4 +60,4 @@ Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatt
 
 ## 🔗 Referências e correlatos
 
-- [[pt-br/mapa/MOC - Pesquisa e Astronomia|Pesquisa — visão geral]]
+- [[pt-br/research/index|Pesquisa — visão geral]]

@@ -2,7 +2,7 @@
 publish: false
 title: Análise e Desempenho de Sistemas
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -55,7 +55,7 @@ Quando o sistema é complexo demais para fórmula fechada, entra a simulação d
 - **Otimizar sem medir antes.** Intuição sobre gargalos erra com frequência humilhante — o lento nunca é onde parece. Meça, ache o gargalo real, otimize, meça de novo. Nessa ordem, sempre.
 - **Tratar o modelo como realidade.** M/M/1 assume hipóteses (chegadas de Poisson, serviço exponencial) que o sistema real pode violar. O modelo orienta e dá intuição; a validação vem da medição. Confie no modelo calibrado, não no modelo cru.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 **Livros abertos (licença pública):**
 
@@ -64,7 +64,7 @@ Quando o sistema é complexo demais para fórmula fechada, entra a simulação d
 
 > [!tip] Para a parte quantitativa (filas, probabilidade, simulação), os materiais da própria disciplina e as notas de aula são o caminho — e a bibliografia indicada pelo professor cobre os modelos em profundidade.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: System Design](https://roadmap.sh/system-design) — a versão de mercado desta disciplina: escalabilidade, balanceamento de carga, caching, filas. Use para conectar a teoria acadêmica às entrevistas e sistemas reais.
 - [Roadmap: DevOps](https://roadmap.sh/devops) — monitoramento, observabilidade e infraestrutura: o contexto profissional onde medição de desempenho acontece todo dia.
@@ -73,4 +73,4 @@ Quando o sistema é complexo demais para fórmula fechada, entra a simulação d
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas|Avaliação e Desempenho de Sistemas]] — a disciplina que este guia acompanha diretamente: métricas, teoria das filas, medição e simulação.
+- [[pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/Avaliação e Desempenho de Sistemas|Avaliação e Desempenho de Sistemas]] — a disciplina que este guia acompanha diretamente: métricas, teoria das filas, medição e simulação.

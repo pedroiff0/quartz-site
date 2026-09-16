@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Cálculo III"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,32 +11,32 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.17`
 > - **Período:** 3º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Vital (tiago.vital@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss;
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Compreender os conceitos, procedimentos e técnicas do Cálculo III, desenvolvendo a capacidade de formular hipóteses e selecionar estratégias de ação;
 > - Utilizar os conhecimentos e técnicas do Cálculo III na resolução de problemas em outras áreas do currículo e principalmente em sua vida profissional quando esses conhecimentos e técnicas se fizerem necessários;
 > - Desenvolver a capacidade de interpretar e criticar resultados obtidos;
 > - Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/2-periodo/calculo-ii/index|CSECBJI.9 - Cálculo II]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/index|CSECBJI.26 - Física III]]
-> - [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/index|CSECBJI.31 - Cálculo IV]]
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/2-periodo/calculo-ii/Cálculo II|CSECBJI.9 - Cálculo II]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Física III|CSECBJI.26 - Física III]]
+> - [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/Cálculo IV|CSECBJI.31 - Cálculo IV]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Funções a valores vetoriais**
 > 	- Definições, limite e continuidade
 > 	- Curvas no plano e no espaço: forma vetorial
@@ -68,14 +65,14 @@ cssclasses:
 > - **4. Teorema de Stokes**
 > - **5. Teorema da Divergência**
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.
 > 2. \_\_\_\_\_\_. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.
 > 3. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 3. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
 > 4. \_\_\_\_\_\_. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
 > 5. STEWART, J. Cálculo: Volume 1. 8ª Edição. São Paulo: Cengage Learning, 2017.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. FERREIRA, P. C. P. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 1. Rio de Janeiro:
 > 2. Ciência Moderna, 2013.
 > 3. \_\_\_\_\_\_. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 2. Rio de Janeiro: Ciência Moderna, 2013.
@@ -85,15 +82,5 @@ cssclasses:
 > 7. THOMAS, G. B. Cálculo: Volume 2. 12ª Edição. São Paulo: Pearson Learning, \_\_\_\_\_\_. Cálculo: Volume 1. 12ª Edição. São Paulo: Pearson Learning, 2012.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/Anotações/Esboço/aula-01-funções-a-valores-vetoriais|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/Anotações/Esboço/aula-02-definições-limite-e-continuidade|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/Anotações/Esboço/aula-03-curvas-no-plano-e-no-espaço-forma-vetori|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/Anotações/Esboço/aula-04-limites-de-funções-a-valores-vetoriais|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/Anotações/Esboço/aula-05-continuidade-de-funções-a-valores-vetori|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/Anotações/Esboço/aula-06-diferenciação-e-integração|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Modelagem Ambiental"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,29 +11,29 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.85`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Dinâmica de sistemas lineares e não-lineares. Hierarquia de sistemas. Modelagem da dinâmica de populações. Modelagem do ciclo do carbono. Modelagem da dinâmica de ecossistemas. Modelagem do sistema hidrológico. Modelagem do sistema climático.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Oferecer ao aluno o conhecimento básico sobre modelagem de sistemas ambientais.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/index|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
-> - [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/index|CSECBJI.18 - Equações Diferenciais]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/Álgebra Linear e Geometria Analítica II|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
+> - [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Equações Diferenciais|CSECBJI.18 - Equações Diferenciais]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Dinâmica de sistemas lineares e não-lineares.**
 > - **2. Hierarquia de sistemas.**
 > - **3. Modelagem da dinâmica de populações.**
@@ -45,12 +42,12 @@ cssclasses:
 > - **6. Modelagem do sistema hidrológico.**
 > - **7. Modelagem do sistema climático.**
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008.
 > 2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012.
 > 3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher,
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 4. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017.
 > 5. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos,
 > 6. LORENZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. São Paulo: Blucher, 2015.
@@ -58,15 +55,5 @@ cssclasses:
 > 8. YAMAMOTO, J. K., LANDIM, P. M. B. Geoestatística: Conceitos e Aplicações. São Paulo: Oficina de Textos, 2013.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/eletivas/modelagem-ambiental/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/modelagem-ambiental/Anotações/Esboço/aula-01-dinâmica-de-sistemas-lineares-e-não-line|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/modelagem-ambiental/Anotações/Esboço/aula-02-hierarquia-de-sistemas|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/modelagem-ambiental/Anotações/Esboço/aula-03-modelagem-da-dinâmica-de-populações|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/modelagem-ambiental/Anotações/Esboço/aula-04-modelagem-do-ciclo-do-carbono|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/modelagem-ambiental/Anotações/Esboço/aula-05-modelagem-da-dinâmica-de-ecossistemas|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/modelagem-ambiental/Anotações/Esboço/aula-06-modelagem-do-sistema-hidrológico|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

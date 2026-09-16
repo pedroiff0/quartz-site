@@ -6,7 +6,7 @@ discipline: Computação Científica de Alto Desempenho
 content: Introdução à Computação de Alto Desempenho (HPC) — paralelismo com OpenMP e MPI
 professor: Fernando Roig
 created: 2026-07-21 13:34
-modified: 2026-09-12 11:20
+modified: 2026-09-15 21:34
 tags:
   - escola-de-inverno-on
   - hpc
@@ -18,7 +18,7 @@ cssclasses:
   - center-images
 ---
 
-**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/Computação/Computacao-Aula02|Computacao-Aula02 →]]
+**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Computação/Computacao-Aula02|Computacao-Aula02 →]]
 # Notas de Aula — Computação de Alto Desempenho (Aula 01)
 
 > [!info] Informações da aula
@@ -27,13 +27,13 @@ cssclasses:
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 Muitos problemas de astrofísica (simulações de N corpos, hidrodinâmica, aprendizado de máquina em grandes catálogos) são grandes demais para rodar em um único computador em tempo razoável. A **Computação de Alto Desempenho (HPC)** resolve isso dividindo o trabalho entre muitos processadores que rodam **simultaneamente** — o que chamamos de **computação paralela**. A aula introduz os dois grandes paradigmas de paralelismo (memória compartilhada e memória distribuída) e as duas ferramentas mais usadas para programá-los: **OpenMP** e **MPI**.
 
 ![Supercomputador Pleiades (NASA): um cluster HPC é formado por milhares de nós de computação (CPU/GPU) conectados por uma rede de alta velocidade.](https://commons.wikimedia.org/wiki/Special:FilePath/Pleiades_supercomputer.jpg)
 
-### 📑 Tópicos abordados
+### Tópicos abordados
 1. O que é HPC e por que usar programação paralela
 2. Processos, threads e os dois modelos de memória
 3. OpenMP (memória compartilhada)
@@ -144,7 +144,7 @@ Quando o problema é grande demais para caber (ou processar) em um único nó co
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **HPC:** uso de clusters de múltiplos nós (CPU/GPU) para resolver problemas computacionalmente intensivos via paralelismo.
 - **Memória compartilhada vs. distribuída:** dois paradigmas de paralelismo — threads compartilhando memória (OpenMP) vs. processos isolados trocando mensagens (MPI).
@@ -154,7 +154,7 @@ Quando o problema é grande demais para caber (ou processar) em um único nó co
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 1)
 > *(nenhuma pergunta registrada nesta aula)*

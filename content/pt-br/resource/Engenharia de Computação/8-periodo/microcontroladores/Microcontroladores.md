@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Microcontroladores"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,29 +11,29 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.62`
 > - **Período:** 8º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Garcez (luiz.garcez@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Principais características; Tipos de arquiteturas; Memórias internas; Registradores; Modos de endereçamento; Instruções; Linguagem assembly; Compiladores e ferramentas de desenvolvimento; Sistema de interrupções; Dispositivos de entrada e saída (I/O); Estudo dos conversores A/D; Estudo dos conversores D/A; Dispositivos periféricos; Desenvolvimento de projetos utilizando microcontroladores; Projetos com microcontrolador empregando conversores A/D e D/A; Atividades de laboratório.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - ●
 > - Fornecer conhecimentos necessários para analisar e projetar hardware e software de sistemas microcontrolados e suas interfaces
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/organizacao-de-computadores/index|CSECBJI.52 - Organização de Computadores]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/index|CSECBJI.70 - Sistemas Embarcados]]
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/organizacao-de-computadores/Organização de Computadores|CSECBJI.52 - Organização de Computadores]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/Sistemas Embarcados|CSECBJI.70 - Sistemas Embarcados]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Principais Características**
 > 	- Histórico dos Microcontroladores e Microprocessadores
 > 	- Dispositivos Comerciais Disponíveis
@@ -83,12 +80,12 @@ cssclasses:
 > 		- iv. Sensores
 > 		- v. Outros Dispositivos
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
 > 2. GIMENEZ, S. P. Microcontroladores 8051: Teoria e Prática. São Paulo: Erica, 2010.
 > 3. NICOLOSI, D. E. Microcontrolador 8051: Detalhado. São Paulo: Erica, 2013.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
 > 2. GIMENEZ, S. P. Microcontroladores 8051. São Paulo: Pearson, 2002.
 > 3. NICOLOSI, D. E. C. Laboratório de Microcontroladores Família 8051: Treino de Instruções, Hardware e Software. 6ª Edição. São Paulo: Erica, 2014.
@@ -97,15 +94,5 @@ cssclasses:
 > 6. São Paulo: Erica, 2010.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/Anotações/Esboço/aula-01-principais-características|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/Anotações/Esboço/aula-02-histórico-dos-microcontroladores-e-micro|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/Anotações/Esboço/aula-03-dispositivos-comerciais-disponíveis|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/Anotações/Esboço/aula-04-tipos-de-arquiteturas|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/Anotações/Esboço/aula-05-arquiteturas-harvard-e-von-neuman|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/Anotações/Esboço/aula-06-estrutura-interna-de-uma-cpu|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

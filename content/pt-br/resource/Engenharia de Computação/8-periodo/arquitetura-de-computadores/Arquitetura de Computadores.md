@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Arquitetura de Computadores"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,29 +11,29 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.61`
 > - **Período:** 8º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Fabrício Barros (fabricio.goncalves@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; Barramentos de computadores pessoais; Interfaceamento via rede; Práticas de laboratório.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Capacitar o aluno, através do conhecimento básico da arquitetura IA-32/IA-64, a interfacear e integrar novos projetos e produtos dentro dessa arquitetura que é a base da maioria dos computadores pessoais modernos.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/organizacao-de-computadores/index|CSECBJI.52 - Organização de Computadores]]
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-digitais/index|CSECBJI.53 - Sistemas Digitais]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/organizacao-de-computadores/Organização de Computadores|CSECBJI.52 - Organização de Computadores]]
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-digitais/Sistemas Digitais|CSECBJI.53 - Sistemas Digitais]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Arquitetura IA-32 / IA-64**
 > 	- Operação em Modelo Real
 > 	- Operação em Modo Protegido
@@ -58,12 +55,12 @@ cssclasses:
 > 	- Protocolo TCP/IP
 > 	- Acesso à rede por software
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
 > 2. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
 > 3. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003.
 > 2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007.
 > 3. HENNESSY, J. Organização e Projeto de Computadores. 5ª Edição. São Paulo: Elsevier, 2017.
@@ -71,15 +68,5 @@ cssclasses:
 > 5. WEBER, R. F. Fundamentos de Arquitetura de Computadores. 4ª Edição. Porto Alegre: Bookman,
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/Anotações/Esboço/aula-01-arquitetura-ia-32-ia-64|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/Anotações/Esboço/aula-02-operação-em-modelo-real|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/Anotações/Esboço/aula-03-operação-em-modo-protegido|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/Anotações/Esboço/aula-04-paginação-de-memória|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/Anotações/Esboço/aula-05-comutação-de-tarefas-em-ambiente-multita|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/Anotações/Esboço/aula-06-mecanismos-de-interrupção|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

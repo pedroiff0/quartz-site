@@ -36,27 +36,27 @@ cssclasses:
   - center-titles
   - center-images
 created: 2026-09-07 16:53
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 ---
 
-# 🎓 Trabalho - Coesão e Acoplamento em Análise de Software (ASOO)
+# Trabalho - Coesão e Acoplamento em Análise de Software (ASOO)
 
 > [!abstract] Resumo da Apresentação
 > Estudo analítico e prático dos princípios de **Alta Coesão** e **Baixo Acoplamento** na engenharia de software. O trabalho aborda as definições teóricas e métricas formais (como LCOM e CBO), explica a dinâmica oposta e complementar desses dois atributos de qualidade, e faz uma conexão direta com os paradigmas de linguagens de programação (Estruturado, Orientado a Objetos e Funcional).
 
-> [!info] 📌 Informações & Checklist do Trabalho
+> [!info]  Informações & Checklist do Trabalho
 > - **Docente:** Pablo Manhães
 > - **Data Prevista:** 02/09/2026
 > - **Apresentadores:** Amanda do Carmo de Moraes, Pedro Henrique Rocha de Andrade
-> - [x] 🎯 Apresentar Trabalho: Coesão e Acoplamento
+> - [x]  Apresentar Trabalho: Coesão e Acoplamento
 
-> [!important] 🔒 Acesso e Senha dos Arquivos
+> [!important]  Acesso e Senha dos Arquivos
 > Os materiais gerados na pasta `_materiais/` e espelhados no Quartz Site são protegidos pela senha:
 > **`eng232`**
 
 ---
 
-## 📂 Recursos & Materiais da Disciplina
+## Recursos & Materiais da Disciplina
 
 > [!tip] 🔗 Arquivos e Materiais da Disciplina
 > - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
@@ -65,15 +65,15 @@ modified: 2026-09-14 20:12
 
 ---
 
-## 📋 Sumário Interativo
-- [🎯 1. O que são Coesão e Acoplamento?](#-1-o-que-são-coesão-e-acoplamento)
-- [⚖️ 2. A Relação Oposta e o Equilíbrio de Design](#-2-a-relação-oposta-e-o-equilíbrio-de-design)
-- [🧩 3. Paradigmas de Linguagens de Programação](#-3-paradigmas-de-linguagens-de-programação)
-- [🧮 4. Coesão e Acoplamento como Métricas (LCOM e CBO)](#-4-coesão-e-acoplamento-como-métricas-lcom-e-cbo)
-- [🏁 5. Conclusões](#-5-conclusões)
-- [📚 Referências Bibliográficas](#-referências-bibliográficas)
+## Sumário Interativo
+- [ 1. O que são Coesão e Acoplamento?](#-1-o-que-são-coesão-e-acoplamento)
+- [ 2. A Relação Oposta e o Equilíbrio de Design](#-2-a-relação-oposta-e-o-equilíbrio-de-design)
+- [ 3. Paradigmas de Linguagens de Programação](#-3-paradigmas-de-linguagens-de-programação)
+- [ 4. Coesão e Acoplamento como Métricas (LCOM e CBO)](#-4-coesão-e-acoplamento-como-métricas-lcom-e-cbo)
+- [ 5. Conclusões](#-5-conclusões)
+- [ Referências Bibliográficas](#-referências-bibliográficas)
 ---
-## 🎯 1. O que são Coesão e Acoplamento?
+## 1. O que são Coesão e Acoplamento?
 
 * **Coesão:** Mede a afinidade e o foco interno de um módulo (classe ou função). Um componente coeso faz **apenas uma coisa** de forma dedicada, sem misturar assuntos.
 * **Acoplamento:** Mede a dependência externa de um módulo em relação a outros. Quanto mais conexões, chamadas ou dados compartilhados um módulo possui com o mundo exterior, mais acoplado ele está.
@@ -83,7 +83,7 @@ modified: 2026-09-14 20:12
 
 ---
 
-## ⚖️ 2. A Relação Oposta e o Equilíbrio de Design
+## 2. A Relação Oposta e o Equilíbrio de Design
 Coesão e acoplamento atuam em direções opostas e complementares de complexidade:
 - **O Extremo do Zero Acoplamento:** Se tentarmos zerar o acoplamento colocando todo o código em uma única classe gigantesca (para que ela não dependa de mais ninguém), a coesão cai a zero, pois a classe passa a fazer tudo (*God Class*).
 - **O Extremo da Alta Coesão Sem Controle:** Se criarmos classes minúsculas contendo apenas um método cada para maximizar a coesão, teremos que conectá-las extensivamente para resolver regras de negócio simples, fazendo o acoplamento explodir.
@@ -91,7 +91,7 @@ Coesão e acoplamento atuam em direções opostas e complementares de complexida
 
 ---
 
-## 🧩 3. Paradigmas de Linguagens de Programação
+## 3. Paradigmas de Linguagens de Programação
 A forma como lidamos com a coesão e o acoplamento varia de acordo com o paradigma adotado:
 
 1. **Paradigma Estruturado (Procedural):**
@@ -109,7 +109,7 @@ A forma como lidamos com a coesão e o acoplamento varia de acordo com o paradig
 
 ---
 
-## 🧮 4. Coesão e Acoplamento como Métricas (LCOM e CBO)
+## 4. Coesão e Acoplamento como Métricas (LCOM e CBO)
 A qualidade do design não é apenas subjetiva; ela é medida por métricas estatísticas formais da suite CK (*Chidamber & Kemerer*):
 
 ### A. Métrica de Coesão: LCOM (*Lack of Cohesion in Methods*)
@@ -126,13 +126,13 @@ Mede a quantidade de outras classes que estão acopladas a uma determinada class
 
 ---
 
-## 🏁 5. Conclusões
+## 5. Conclusões
 - Coesão e acoplamento andam de mãos dadas: a busca por alta coesão e baixo acoplamento é o objetivo que guia refatorações e padrões de projeto (GRASP e GoF).
 - Entender como esses atributos se comportam nos diferentes paradigmas nos permite escolher a melhor abordagem arquitetural dependendo da linguagem e do domínio do problema.
 
 ---
 
-## 📚 Referências Bibliográficas
+## Referências Bibliográficas
 - 1. LARMAN, Craig. *Utilizando UML e Padrões*. 3. ed. Porto Alegre: Bookman, 2007.
 - 2. CHIDAMBER, S. R.; KEMERER, C. F. *A Metrics Suite for Object Oriented Design*. IEEE Transactions on Software Engineering, v. 20, n. 6, 1994.
 - 3. MARTIN, Robert C. *Clean Architecture*. Prentice Hall, 2017.

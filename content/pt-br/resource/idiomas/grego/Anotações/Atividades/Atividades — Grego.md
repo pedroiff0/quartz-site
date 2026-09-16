@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: "Atividades — Grego"
 created: 2026-09-14 11:54
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - atividade
   - grego
@@ -13,17 +13,17 @@ cssclasses:
   - page-layout
 ---
 
-# 📝 Caderno de Atividades & Prática — Grego
+# Caderno de Atividades & Prática — Grego
 
-> [!todo]+ 🎯 Metas Semanais de Treino
-> - [ ] 🎧 3 sessões semanais de Shadowing / Escuta ativa (15 min)
-> - [ ] 🃏 Manter revisão diária de cartões no Anki com 0 pendências
-> - [ ] ✍️ Produção de um pequeno parágrafo ou diálogo na língua
-> - [ ] 🗣️ Gravar 1 minuto de fala sobre a rotina para autoanálise
+> [!todo]+  Metas Semanais de Treino
+> - [ ]  3 sessões semanais de Shadowing / Escuta ativa (15 min)
+> - [ ]  Manter revisão diária de cartões no Anki com 0 pendências
+> - [ ]  Produção de um pequeno parágrafo ou diálogo na língua
+> - [ ]  Gravar 1 minuto de fala sobre a rotina para autoanálise
 
 ---
 
-## ✍️ Registro de Exercícios das Lições
+## Registro de Exercícios das Lições
 
 ### Lição 01: Fonética e Saudações
 - [ ] Prática de pronúncia das saudações com áudio de referência

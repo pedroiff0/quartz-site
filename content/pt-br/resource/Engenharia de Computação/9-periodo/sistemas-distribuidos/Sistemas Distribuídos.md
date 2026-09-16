@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Sistemas Distribuídos"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,29 +11,29 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.71`
 > - **Período:** 9º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sincronização em Sistemas Distribuídos; Modelo de Falha e Segurança; Middewares para Aplicações Distribuídas; Transações Distribuídas e Controle de Concorrência.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Conhecer e aplicar conceitos e tecnologias de Sistemas Distribuídos
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/redes-de-computadores-i/index|CSECBJI.55 - Redes de Computadores I]]
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/index|CSECBJI.56 - Sistemas Operacionais I]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/redes-de-computadores-i/Redes de Computadores I|CSECBJI.55 - Redes de Computadores I]]
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/Sistemas Operacionais I|CSECBJI.56 - Sistemas Operacionais I]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Conceito de Sistemas Distribuídos**
 > 	- Definição e Principais Características de Sistemas Distribuídos
 > 	- Motivação para o Desenvolvimento de Aplicações Distribuídas
@@ -75,13 +72,13 @@ cssclasses:
 > - **13. Controle de concorrência**
 > - **14. Impasses**
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
 > 2. Porto Alegre: Bookman, 2007.
 > 3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
 > 4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
 > 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
 > 3. Pearson, 2013.
@@ -92,15 +89,5 @@ cssclasses:
 > 8. Porto Alegre: Bookman, 2018.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Anotações/Esboço/aula-01-conceito-de-sistemas-distribuídos|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Anotações/Esboço/aula-02-definição-e-principais-características-d|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Anotações/Esboço/aula-03-motivação-para-o-desenvolvimento-de-apli|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Anotações/Esboço/aula-04-motivação-para-o-desenvolvimento-de-apli|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Anotações/Esboço/aula-05-exemplos-de-sistemas-distribuídos|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Anotações/Esboço/aula-06-aspectos-de-heterogeneidade-abertura-seg|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

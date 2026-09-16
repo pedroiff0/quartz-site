@@ -2,7 +2,7 @@
 publish: false
 title: Comunicação de Dados
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -54,7 +54,7 @@ Detecção e correção de erros (paridade, CRC, Hamming), controle de fluxo, pr
 - **Decorar esquemas de modulação sem desenhar as formas de onda.** Quem nunca desenhou um NRZ ou um Manchester à mão confunde tudo na prova. Desenhar meia dúzia de sequências resolve de vez.
 - **Achar que o assunto é obsoleto.** Nada disso é passado: 5G, Wi-Fi 7, fibra até a casa e comunicação por satélite são exatamente esses conceitos com números maiores. Quem domina a base lê a tecnologia nova sem susto.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 **Livros abertos (licença pública):**
 
@@ -64,7 +64,7 @@ Detecção e correção de erros (paridade, CRC, Hamming), controle de fluxo, pr
 
 - FOROUZAN, B. _Comunicação de Dados e Redes de Computadores_. A referência principal da disciplina: didático, cheio de figuras e com exercícios numéricos no nível exato do que cai em prova. Se for ler um só livro, é este.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: Computer Science](https://roadmap.sh/computer-science) — mostra onde comunicação de dados se encaixa nos fundamentos da computação e o que vem depois na trilha.
 - [Wireshark](https://www.wireshark.org/) — mesmo sendo uma ferramenta de camadas superiores, capturar quadros Ethernet e ver campos como o FCS (checksum CRC) torna concreto o que a teoria de enlace descreve.
@@ -72,5 +72,5 @@ Detecção e correção de erros (paridade, CRC, Hamming), controle de fluxo, pr
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados|Comunicação de Dados]] — a disciplina que este guia acompanha diretamente: sinais, meios, modulação e enlace.
-- [[pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais|Processamento de Sinais]] — eletiva que aprofunda a matemática dos sinais (Fourier, filtragem, amostragem) por trás de tudo que se estuda aqui.
+- [[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/Comunicação de Dados|Comunicação de Dados]] — a disciplina que este guia acompanha diretamente: sinais, meios, modulação e enlace.
+- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Processamento de Sinais|Processamento de Sinais]] — eletiva que aprofunda a matemática dos sinais (Fourier, filtragem, amostragem) por trás de tudo que se estuda aqui.

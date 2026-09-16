@@ -1,10 +1,9 @@
 ---
-aliases:
-  - index
 publish: false
 title: "Japonês"
+status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-14 22:05
+modified: 2026-09-15 21:34
 tags:
   - idioma
   - japones
@@ -13,9 +12,9 @@ cssclasses:
   - page-layout
 ---
 
-# 🇯🇵 Curso de Japonês
+# Curso de Japonês
 
-> [!info] 📌 Informações Gerais do Idioma
+> [!info] Informações Gerais do Idioma
 > - **Família Linguística:** Japônica (Língua Isolada/Japônica)
 > - **Sistema de Escrita:** Hiragana (46 caracteres) + Katakana (46 caracteres) + Kanji (caracteres ideográficos) + Rōmaji
 > - **Nível Atual:** A1 (Iniciante) | **Nível Alvo:** B2 (Independência & Fluência)
@@ -23,9 +22,9 @@ cssclasses:
 
 ---
 
-## 📋 Conteúdo Programático & Trilha Curricular
+## Conteúdo Programático & Trilha Curricular
 
-> [!tip] 🗺️ Módulos de Aprendizado
+> [!tip] Módulos de Aprendizado
 > - [ ] **Módulo 1: Fundamentos, Fonética & Alfabeto (A1.1)**
 > 	- [ ] Fonemas fundamentais, vogais e consoantes diferenciais
 > 	- [ ] Saudações, apresentações formais e informais
@@ -47,12 +46,12 @@ cssclasses:
 
 ---
 
-## 📝 Anotações e Acesso às Lições
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações]]**
-- 📋 **[[KANBAN|Quadro Kanban de Aprendizado de Japonês]]**
+## Anotações e Acesso às Lições
+-  **Repositório de Anotações**
+-  **[[KANBAN|Quadro Kanban de Aprendizado de Japonês]]**
 
-## 🎓 Aulas & Lições
+## Aulas & Lições
 
-- [[pt-br/resource/idiomas/japones/Anotações/Esboço/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01]] — Sistema de Escrita (Hiragana & Katakana) e Saudações
-- [[pt-br/resource/idiomas/japones/Anotações/Esboço/aula-02-pronomes-e-verbos-essenciais|Aula 02]] — Pronomes, Partículas Fundamentais (Wa, Ga, Ka) e a Cópula Desu
-- [[pt-br/resource/idiomas/japones/Anotações/Esboço/aula-03-numeros-e-apresentacao-pessoal|Aula 03]] — Números de 1 a 100, Países e Autoapresentação (Jikoshoukai)
+- [[pt-br/resource/idiomas/japones/Anotações/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01]] — Sistema de Escrita (Hiragana & Katakana) e Saudações
+- [[pt-br/resource/idiomas/japones/Anotações/aula-02-pronomes-e-verbos-essenciais|Aula 02]] — Pronomes, Partículas Fundamentais (Wa, Ga, Ka) e a Cópula Desu
+- [[pt-br/resource/idiomas/japones/Anotações/aula-03-numeros-e-apresentacao-pessoal|Aula 03]] — Números de 1 a 100, Países e Autoapresentação (Jikoshoukai)

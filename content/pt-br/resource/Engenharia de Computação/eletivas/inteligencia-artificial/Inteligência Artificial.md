@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Inteligência Artificial"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,29 +11,29 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.90`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Específico | **Carga Horária:** 60
 > - **Docente Responsável:** Thiago Juncal (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos de busca. Heurísticas. Conhecimento e raciocínio. Tópicos avançados.Aplicações de IA-Inteligência Artificial.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Compreender os diferentes paradigmas que embasam as aplicações da IA. Entender os principais
 > - bjetivos e as limitações da Inteligência Artificial (IA). Aplicar os conceitos e técnicas da Inteligência Artificial.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/index|CSECBJI.34 - Projeto e Análise de Algoritmos]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/Projeto e Análise de Algoritmos|CSECBJI.34 - Projeto e Análise de Algoritmos]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Histórico e Princípios de Inteligência Artificial (IA)**
 > 	- Definições de IA
 > 	- Histórico da IA
@@ -67,12 +64,12 @@ cssclasses:
 > 	- Exemplos de Aplicações
 > 	- Implementação
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. COPPIN, B. Inteligência Artificial. Rio de Janeiro: LTC, 2010.
 > 2. LUGER, G. Inteligência Artificial. 6ª Edição. São Paulo: Pearson, 2013.
 > 3. LIMA, I., PINHEIRO, C., SANTOS, F. O. Inteligência Artificial. São Paulo: Elsevier, 2014.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. BRAGA, A. P., CARVALHO, A. P. L., LUDEMIR, T. B. Redes Neurais Artificiais: Teoria e Aplicações. 2ª Edição. Rio de Janeiro: LTC, 2007.
 > 2. FACELLI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina. Rio de Janeiro: LTC, 2011.
 > 3. LINDEN, R. Algoritmos Genéticos. 3ª Edição. Rio de Janeiro: Ciência Moderna, 2012.
@@ -80,15 +77,5 @@ cssclasses:
 > 5. SIMÕES, M. G., SHAW, I. S. Controle e Modelagem Fuzzy. 2ª Edição. São Paulo: Blucher, 2007.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/Anotações/Esboço/aula-01-histórico-e-princípios-de-inteligência-a|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/Anotações/Esboço/aula-02-definições-de-ia|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/Anotações/Esboço/aula-03-histórico-da-ia|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/Anotações/Esboço/aula-04-paradigmas-da-ia|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/Anotações/Esboço/aula-05-resolução-de-problemas|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/Anotações/Esboço/aula-06-agentes|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

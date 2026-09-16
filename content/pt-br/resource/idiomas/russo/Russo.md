@@ -1,10 +1,9 @@
 ---
-aliases:
-  - index
 publish: false
 title: "Russo"
+status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-14 22:05
+modified: 2026-09-15 21:34
 tags:
   - idioma
   - russo
@@ -13,9 +12,9 @@ cssclasses:
   - page-layout
 ---
 
-# 🇷🇺 Curso de Russo
+# Curso de Russo
 
-> [!info] 📌 Informações Gerais do Idioma
+> [!info] Informações Gerais do Idioma
 > - **Família Linguística:** Indo-Europeia (Eslava Oriental)
 > - **Sistema de Escrita:** Alfabeto Cirílico Russo (33 letras: 10 vogais, 21 consoantes e 2 sinais)
 > - **Nível Atual:** A1 (Iniciante) | **Nível Alvo:** B2 (Independência & Fluência)
@@ -23,9 +22,9 @@ cssclasses:
 
 ---
 
-## 📋 Conteúdo Programático & Trilha Curricular
+## Conteúdo Programático & Trilha Curricular
 
-> [!tip] 🗺️ Módulos de Aprendizado
+> [!tip] Módulos de Aprendizado
 > - [ ] **Módulo 1: Fundamentos, Fonética & Alfabeto (A1.1)**
 > 	- [ ] Fonemas fundamentais, vogais e consoantes diferenciais
 > 	- [ ] Saudações, apresentações formais e informais
@@ -47,12 +46,12 @@ cssclasses:
 
 ---
 
-## 📝 Anotações e Acesso às Lições
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações]]**
-- 📋 **[[KANBAN|Quadro Kanban de Aprendizado de Russo]]**
+## Anotações e Acesso às Lições
+-  **Repositório de Anotações**
+-  **[[KANBAN|Quadro Kanban de Aprendizado de Russo]]**
 
-## 🎓 Aulas & Lições
+## Aulas & Lições
 
-- [[pt-br/resource/idiomas/russo/Anotações/Esboço/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01]] — O Alfabeto Cirílico, Redução Vocálica (Akanie) e Saudações
-- [[pt-br/resource/idiomas/russo/Anotações/Esboço/aula-02-pronomes-e-verbos-essenciais|Aula 02]] — Pronomes Pessoais, Ausência do Verbo Ser no Presente e Ter (У меня есть)
-- [[pt-br/resource/idiomas/russo/Anotações/Esboço/aula-03-numeros-e-apresentacao-pessoal|Aula 03]] — Números de 1 a 100, Sistema de Casos (Introdução) e Apresentação
+- [[pt-br/resource/idiomas/russo/Anotações/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01]] — O Alfabeto Cirílico, Redução Vocálica (Akanie) e Saudações
+- [[pt-br/resource/idiomas/russo/Anotações/aula-02-pronomes-e-verbos-essenciais|Aula 02]] — Pronomes Pessoais, Ausência do Verbo Ser no Presente e Ter (У меня есть)
+- [[pt-br/resource/idiomas/russo/Anotações/aula-03-numeros-e-apresentacao-pessoal|Aula 03]] — Números de 1 a 100, Sistema de Casos (Introdução) e Apresentação

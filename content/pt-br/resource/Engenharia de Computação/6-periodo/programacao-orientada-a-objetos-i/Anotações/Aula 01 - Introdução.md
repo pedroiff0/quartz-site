@@ -2,7 +2,7 @@
 publish: true
 title: "Aula 01 - Introdução"
 created: 2026-08-26 14:49
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 encrypted: true
 password: "eng232"
 tags:
@@ -21,38 +21,38 @@ cssclasses:
   </div>
 </div>
 
-# 📝 Aula 01 - Introdução
+# Aula 01 - Introdução
 
-> [!info] 📌 Informações da Aula
+> [!info]  Informações da Aula
 > - **Docente:** Anderson Veiga
 > - **Data da Aula:** 26/08/2026
 > - **Tópico Central:** Paradigma Orientado a Objetos, Abstração, Classes, Objetos e Encapsulamento
 > - **Status das Anotações:**
->   - [ ] 🟡 Planejando
->   - [ ] 🟠 Em Andamento
->   - [x] 🟢 Concluído
+>   - [ ]  Planejando
+>   - [ ]  Em Andamento
+>   - [x]  Concluído
 
-## 📂 Materiais & Recursos Didáticos da Aula
+## Materiais & Recursos Didáticos da Aula
 
 > [!tip] 🔗 Arquivos e Materiais da Disciplina
 > - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
 > - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
 > - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
-## 📋 Sumário Interativo
-- [📍 Anotações](#-anotações)
-- [🧠 Resumo](#-resumo)
-- [📝 Dúvida](#-dúvida)
+## Sumário Interativo
+- [ Anotações](#-anotações)
+- [ Resumo](#-resumo)
+- [ Dúvida](#-dúvida)
 
 ---
 
-## 📍 Anotações
+## Anotações
 
 #### 26/08
 1. Introdução:
 2. Descrevendo Objetos
 	1. Conceito de Abstração
-![[Introdução à Programação Orientada a Objetos.pdf#page=2&rect=160,68,571,298|Introdução à Programação Orientada a Objetos, p.2]]
+> 📖 *[Referência: Introdução à Programação Orientada a Objetos, p.2]*
 3. Estrutura Formal
 	1. Atributos
 	2. Operações ou Métodos (Ações: Funções)
@@ -62,14 +62,14 @@ cssclasses:
 	3. Mesmas Operações = Mesmo tipo = Mesma classe
 5. Classe
 	1. Blueprint
-![[Introdução à Programação Orientada a Objetos.pdf#page=7&rect=43,16,684,252|Introdução à Programação Orientada a Objetos, p.7]]
+> 📖 *[Referência: Introdução à Programação Orientada a Objetos, p.7]*
 6. Paradigma:
-> [!important] [[Introdução à Programação Orientada a Objetos.pdf#page=10&selection=2,0,4,38&color=important|Introdução à Programação Orientada a Objetos, p.10]]
+> [!important] **Introdução à Programação Orientada a Objetos, p.10**
 > > É um paradigma de programação que organiza o software em torno de objetos, que representam entidades do mundo real ou conceitual, agrupando dados e comportamentos dentro de uma entidade.
 > 
 > 
 7. Linguagem: JAVA
-![[Introdução à Programação Orientada a Objetos.pdf#page=12&rect=110,113,606,230&color=important|Introdução à Programação Orientada a Objetos, p.12]]
+> 📖 *[Referência: Introdução à Programação Orientada a Objetos, p.12]*
 8. Compilar e Executar
 	1. javac
 	2. java
@@ -141,7 +141,7 @@ class Carro {
 New = construtor, carro = “ponteiro”
 
 
-> [!important] [[Introdução à Programação Orientada a Objetos.pdf#page=22&selection=0,0,0,34&color=important|Introdução à Programação Orientada a Objetos, p.22]]
+> [!important] **Introdução à Programação Orientada a Objetos, p.22**
 > > A classe define, o objeto possui.
 
 #### Tarefa Prática:
@@ -195,7 +195,7 @@ class Conta {
 
 ---
 
-## 🧠 Resumo
+## Resumo
 
 | Tópico    | Princípio Central | Atenção Especial / Pegadinha |
 | :-------- | :---------------- | :--------------------------- |
@@ -203,17 +203,17 @@ class Conta {
 | Objeto    |                   |                              |
 | Atributos |                   |                              |
 
-> [!tip] 💡 Dica de Prova do Professor
+> [!tip]  Dica de Prova do Professor
 > 
 
 ---
 
-## 📝 Dúvida
+## Dúvida
 
 - [ ] Como pede informação ao usuário?
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
+  <div>⬅ <b><a href="#">Aula Anterior</a></b></div>
+  <div> <b><a href="../">Hub da Disciplina</a></b></div>
+  <div> <b><a href="#">Próxima Aula</a></b></div>
 </div>
