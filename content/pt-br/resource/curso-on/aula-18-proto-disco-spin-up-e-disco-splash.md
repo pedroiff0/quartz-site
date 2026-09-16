@@ -2,7 +2,7 @@
 publish: false
 title: Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
 created: 2026-07-25 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -19,9 +19,9 @@ content: Cronologia da evolução galáctica (parte 1) — do pipeline observaci
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|← Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|← Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo →]]
 
-# 🌅 Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
+# Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
 
 > [!note] Resumo
 > Primeira metade da aula de síntese do curso: como ir de observações brutas (astrometria, fotometria, espectroscopia) a parâmetros orbitais completos, e como isso reconstrói a cronologia mais antiga da Via Láctea — desde as candidatas a "proto-galáxia" (Kraken, Heracles, Aurora, entre outras), passando pela evidência de um disco já presente em $z\sim3$, o "spin-up" do disco em rotação, até o disco "splash" — estrelas do disco primordial aquecidas e lançadas para órbitas quase-halo pela fusão Gaia-Sausage-Enceladus.
@@ -34,11 +34,11 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 🎯 Por que a Via Láctea é um "laboratório" único
+## Por que a Via Láctea é um "laboratório" único
 
 Arqueologia galáctica é o uso de informação sobre populações estelares para reconstruir a sequência de eventos que formou a estrutura atual da Galáxia. A Via Láctea é a **única** galáxia onde é possível ter informação detalhada, estrela a estrela, para amostras de milhões de objetos — por isso, o que se aprende sobre ela funciona como modelo (_template_) para a formação de galáxias em geral.
 
-## 🧮 Do dado bruto aos parâmetros orbitais
+## Do dado bruto aos parâmetros orbitais
 
 Reconstruir a órbita completa de uma estrela combina várias camadas de informação: **astrometria** (paralaxes), **fotometria multibanda**, **espectroscopia** (parâmetros estelares) e **modelos/isócronas estelares**, tudo combinado por um código Bayesiano espectrofotométrico como o **StarHorse** (já mencionado na Escola de Inverno) para produzir a distribuição estelar 3D da Galáxia.
 
@@ -47,7 +47,7 @@ O mesmo tipo de pipeline se estende aos **parâmetros orbitais**: partindo de qu
 > [!tip] Por que isso funciona mesmo para debris completamente disperso
 > Uma animação clássica (créditos: Ana Bonaca) mostra várias galáxias anãs "jogadas" no potencial de um modelo da Via Láctea: por mais que se disrompam espacialmente ao longo do tempo, **conservam** quantidades cinemáticas como energia orbital total e momento angular — o mesmo princípio (Helmi et al. 1999, curso-on Aula 12) que permite reconhecer debris de fusões antigas no espaço $(E, L_z)$ muito depois de qualquer coerência espacial ter desaparecido.
 
-## 🕰️ A cronologia da Via Láctea, em uma figura
+## A cronologia da Via Láctea, em uma figura
 
 Um resumo recorrente ao longo desta aula organiza a história galáctica em quatro estágios aproximados (o mesmo roteiro já introduzido no curso-on Aula 01):
 
@@ -58,19 +58,19 @@ Um resumo recorrente ao longo desta aula organiza a história galáctica em quat
 | Sagittarius dSph | $2>z>0{,}3$, $\sim$5 Gyr | Sobredensidades estelares no disco + aumento da taxa de formação estelar (Ruiz-Lara+2020) |
 | Nuvens de Magalhães | $z<0{,}3$, $>{\sim}3{,}5$ Gyr | Halo "desperta" com a primeira aproximação (Lucchini+2020) |
 
-## 👶 A proto-Via Láctea: candidatas em debate
+## A proto-Via Láctea: candidatas em debate
 
 Diversos trabalhos recentes (2019-2025) propõem estruturas antigas e massivas, possivelmente formadas ainda antes ou durante a fase mais primitiva da Galáxia, com nomes distintos conforme o grupo que as identificou — **Kraken**, **Koala**, **Heracles**, **Aurora**, **"Poor Old Heart"**, **Pangu** (Kruijssen+2019/2020; Forbes 2020; Horta+2021; Rix+2022; Belokurov & Kravtsov 2022; Xiang+2025). Não há ainda consenso sobre quantas dessas estruturas são de fato distintas entre si (ou do próprio _in situ_ mais antigo da Galáxia) — um dos debates mais ativos da área hoje.
 
-## 🌀 O disco primordial e o "spin-up"
+## O disco primordial e o "spin-up"
 
 Evidências recentes (Sestito+2019/2020/2021; Di Matteo+2020; Cordoni+2021; Re Fiorentin+2021; Carollo+2023; Bellazzini+2024; Xiang+2025; Borbolato+2025, entre muitos outros) sugerem que discos finos já estavam presentes em redshifts tão altos quanto $z\sim3$ — um **disco primordial** anterior a qualquer fusão importante. A transição desse material proto-galáctico, dominado por movimento aleatório/dispersão, para um disco genuinamente rotacional é o **spin-up** (Chandra+2024; Semenov+2024) — o próprio mecanismo listado como primeiro estágio na tabela acima.
 
-## 💦 O disco "splash": estrelas de disco lançadas ao halo
+## O disco "splash": estrelas de disco lançadas ao halo
 
 Um dos resultados mais marcantes é a identificação de um componente **metal-rico mas cinematicamente parecido com halo** — o disco **"splash"** (Belokurov+2020; ver também Amarante+2020) — interpretado como estrelas do disco primordial que existiam **antes** da fusão GSE e foram dinamicamente **aquecidas e "chacoalhadas"** (_kicked out_) pelo próprio impacto do merger, ficando com órbitas quentes/excêntricas apesar de reter a química de disco (metal-rica). É uma peça chave para entender por que nem toda estrela halo-like é necessariamente acretada.
 
-## ⚖️ Disco fino vs. disco espesso: co-formação, não sequência simples
+## Disco fino vs. disco espesso: co-formação, não sequência simples
 
 O quadro clássico do **Two-Infall Model** (curso-on Aula 17) supõe duas épocas de queda de gás separadas, formando primeiro o disco espesso e depois o fino. Trabalhos mais recentes revisitam essa separação:
 
@@ -84,7 +84,7 @@ O quadro clássico do **Two-Infall Model** (curso-on Aula 17) supõe duas época
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Pipeline observacional → orbital:** astrometria + fotometria + espectroscopia + isócronas (via StarHorse) → parâmetros estelares → integração de órbitas → integrais de movimento $(E, J_R, J_\phi, J_z)$.
 - **Cronologia em 4 estágios:** formação do disco/spin-up ($>11$ Gyr) → GSE (~11-9 Gyr) → Sagitário (~5 Gyr) → Nuvens de Magalhães (>~3,5 Gyr).
@@ -94,14 +94,14 @@ O quadro clássico do **Two-Infall Model** (curso-on Aula 17) supõe duas época
 - **Disco splash:** componente metal-rico, cinematicamente quente, interpretado como disco primordial aquecido pelo impacto da fusão GSE.
 - **Co-formação disco fino/espesso:** evidência recente de que a separação fino/espesso pode não exigir um merger mediador distinto, nem ser explicada por migração radial.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Helmi et al. (1999) — conservação de $E$, $L_z$ em debris, já citada no curso-on Aula 12
 - Kruijssen et al. (2019, 2020); Belokurov & Kravtsov (2022) — candidatas de proto-Via Láctea
 - Sestito et al. (2019, 2020, 2021) — disco primordial em alto redshift
 - Belokurov et al. (2020); Amarante et al. (2020) — disco splash
 - Borbolato et al. (2026, submetido); Amarante et al. (2026); Spitoni et al. (2019) — revisão recente da co-formação disco fino/espesso
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Aula 10 — Integração de Órbitas com galpy]] — o mesmo pipeline de Monte Carlo para parâmetros orbitais, aqui aplicado à cronologia galáctica
 - [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade]] — o Two-Infall Model revisitado aqui à luz de evidências mais recentes
 - [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 02]] — a mesma cronologia em 4 estágios já introduzida ali, com Omega Centauri como um dos casos discutidos

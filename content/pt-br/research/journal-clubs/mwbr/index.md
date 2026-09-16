@@ -41,4 +41,4 @@ Artigos de destaque apresentados por outros pesquisadores do grupo com discussõ
 
 - [[pt-br/research/Journal-Clubs/|Journal Clubs — Visão Geral]]
 - [[pt-br/research/Journal-Clubs/engcomp/|ENGCOMP Journal Club]]
-- [[pt-br/mapa/MOC - Pesquisa e Astronomia|Pesquisa — Visão Geral]]
+- [[pt-br/research/index|Pesquisa — Visão Geral]]

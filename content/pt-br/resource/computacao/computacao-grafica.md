@@ -2,7 +2,7 @@
 publish: false
 title: Computação Gráfica
 created: 2026-07-26 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -60,7 +60,7 @@ O que dominar: o modelo de iluminação de Phong (componentes ambiente, difusa e
 - **Achar que ray tracing é sempre "melhor" que rasterização** — ray tracing é mais caro computacionalmente; a escolha entre as duas técnicas é uma decisão de engenharia (tempo real vs. qualidade), não uma hierarquia de "melhor e pior".
 - **Ignorar aliasing (serrilhado)** — rasterizar bordas diagonais sem qualquer técnica de anti-aliasing produz o efeito clássico de "escada" nas bordas; é um problema de amostragem, não um bug.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Cursos e tutoriais gratuitos
 
@@ -72,11 +72,11 @@ O que dominar: o modelo de iluminação de Phong (componentes ambiente, difusa e
 
 - AZEVEDO, E., CONCI, A., VASCONCELOS, C. _Computação Gráfica: Teoria e Prática_ — a referência-base da própria ementa da disciplina, em português.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [The Book of Shaders](https://thebookofshaders.com/) — introdução gratuita e visual a shaders (o código que roda por pixel na GPU), útil pra quem quer ver iluminação e cor "ao vivo" enquanto edita o código.
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica|Computação Gráfica]] — a eletiva que cobre exatamente esta trilha; tem como pré-requisitos Álgebra Linear e Geometria Analítica II e Algoritmos e Estruturas de Dados II.
+- [[pt-br/resource/Engenharia de Computação/eletivas/computacao-grafica/Computação Gráfica|Computação Gráfica]] — a eletiva que cobre exatamente esta trilha; tem como pré-requisitos Álgebra Linear e Geometria Analítica II e Algoritmos e Estruturas de Dados II.
 - [[pt-br/resource/computacao/processamento-de-imagens|Processamento de Imagens]] — a tranca direta: uma vez que uma imagem é gerada (ou capturada), processá-la usa as mesmas noções de matriz, pixel e espaço de cor apresentadas aqui.

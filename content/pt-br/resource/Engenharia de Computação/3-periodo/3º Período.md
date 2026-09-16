@@ -1,35 +1,32 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "3º Período"
 created: 2026-07-21 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 cssclasses:
   - page-layout
 ---
 
 
-> [!info] 🎓 Visão Geral e Carga Horária do Período
+> [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `460h`
 > - **Resumo Pedagógico:** Consolidação em estruturas de dados eficientes, cálculo avançado e eletromagnetismo.
 
 
-> [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`80h` · Núcleo Profissionalizante)
-> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`80h` · Núcleo Profissionalizante)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/index|Cálculo III]]** (`80h` · Núcleo Básico)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/index|Equações Diferenciais]]** (`80h` · Núcleo Básico)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/3-periodo/fisica-ii/index|Física II]]** (`80h` · Núcleo Básico)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/3-periodo/fisica-experimental-ii/index|Física Experimental II]]** (`60h` · Núcleo Básico)
+> [!note]  Grade Curricular e Disciplinas Integrantes
+> -  **Anotações da Disciplina** (`80h` · Núcleo Profissionalizante)
+> -  **Anotações da Disciplina** (`80h` · Núcleo Profissionalizante)
+> -  **[[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/Cálculo III|Cálculo III]]** (`80h` · Núcleo Básico)
+> -  **[[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Equações Diferenciais|Equações Diferenciais]]** (`80h` · Núcleo Básico)
+> -  **[[pt-br/resource/Engenharia de Computação/3-periodo/fisica-ii/Física II|Física II]]** (`80h` · Núcleo Básico)
+> -  **[[pt-br/resource/Engenharia de Computação/3-periodo/fisica-experimental-ii/Física Experimental II|Física Experimental II]]** (`60h` · Núcleo Básico)
 
 
-> [!tip] 📎 Documentos e Horários Institucionais
-> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
-> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
+> [!tip]  Documentos e Horários Institucionais
+> -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
+> -  **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
 
-## 🎨 Carrossel de Disciplinas do Período
+## Carrossel de Disciplinas do Período
 
 Navegue interativamente pelas disciplinas deste bloco letivo:
 

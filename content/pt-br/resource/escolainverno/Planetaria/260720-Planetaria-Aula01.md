@@ -6,7 +6,7 @@ discipline: Ciências Planetárias
 content: Sistema Solar — inventário, arquitetura e dinâmica orbital
 professor:
 created: 2026-07-20 13:34
-modified: 2026-09-12 11:20
+modified: 2026-09-15 21:34
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias
@@ -17,7 +17,7 @@ cssclasses:
   - center-images
 ---
 
-**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/Planetaria/260721-Planetaria-Aula02|260721-Planetaria-Aula02 →]]
+**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Planetaria/260721-Planetaria-Aula02|260721-Planetaria-Aula02 →]]
 # Notas de Aula — Ciências Planetárias (Aula 01)
 
 > [!info] Informações da aula
@@ -25,13 +25,13 @@ cssclasses:
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 Esta aula apresenta o Sistema Solar como um sistema físico: quais objetos o compõem, como se organizam espacialmente (arquitetura), e quais leis físicas (gravitação, mecânica celeste) governam seus movimentos. A aula fecha com um resumo do processo de formação do Sistema Solar e alguns dos problemas em aberto mais discutidos na área (massa de Marte, origem da Lua, migração planetária).
 
 ![Visão geral do Sistema Solar: o Sol, os planetas e suas principais características (NASA).](https://commons.wikimedia.org/wiki/Special:FilePath/Planets2013.svg)
 
-### 📑 Tópicos abordados
+### Tópicos abordados
 1. O Sol e o inventário do Sistema Solar
 2. Arquitetura: terrestres, gigantes gasosos, gigantes de gelo, população de pequenos corpos
 3. Dinâmica orbital: gravitação, problema de 2 corpos, leis de Kepler
@@ -143,7 +143,7 @@ Uma órbita fechada completa é definida por **6 parâmetros** (os *elementos or
 
 ---
 
-## ⚠️ Pontos de atenção e questões em aberto
+## Pontos de atenção e questões em aberto
 
 > [!important] Atenção
 > 1. **Baixa massa de Marte:** os modelos clássicos de formação planetária previam um Marte muito mais massivo do que o observado — um dos problemas centrais que motivou modelos mais recentes.
@@ -156,7 +156,7 @@ Uma órbita fechada completa é definida por **6 parâmetros** (os *elementos or
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Equilíbrio hidrostático:** condição que distingue planetas/planetas-anões de asteroides (forma esférica por autogravidade).
 - **Elementos orbitais:** os 6 parâmetros ($a, e, i, \omega, \Omega, \tau$) que definem completamente uma órbita.
@@ -165,7 +165,7 @@ Uma órbita fechada completa é definida por **6 parâmetros** (os *elementos or
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 1)
 > 1. **Como a 2ª Lei de Kepler se generaliza no problema de 2 corpos?** Vale notar o quanto a formulação original se modifica ao tratar o problema de forma completa (2 corpos, não um corpo fixo).

@@ -2,7 +2,7 @@
 publish: false
 title: Circuitos
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -57,7 +57,7 @@ O que dominar: latches e flip-flops (a célula de memória de 1 bit), registrado
 - **Confundir o domínio analógico com o digital** — No mundo digital, 0 e 1 são faixas de tensão com margens de ruído, tempos de subida e atrasos de propagação — não abstrações perfeitas. Glitches e circuitos que "funcionam devagar mas falham rápido" só fazem sentido pra quem lembra que todo circuito digital é analógico por baixo.
 - **Medir errado com o multímetro** — Tensão se mede em paralelo, corrente em série; medir corrente em paralelo com a fonte é curto-circuito (e fusível queimado no multímetro). Parece detalhe bobo, mas é o erro de laboratório mais cometido no primeiro período de prática.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Livros e apostilas abertas
 
@@ -70,7 +70,7 @@ O que dominar: latches e flip-flops (a célula de memória de 1 bit), registrado
 - BOYLESTAD, R. _Introdução à Análise de Circuitos_. — Referência tradicional de análise de circuitos, com muitos exercícios resolvidos.
 - TOCCI, R. et al. _Sistemas Digitais: Princípios e Aplicações_. — O livro-texto clássico de eletrônica digital, da porta lógica à FSM.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Falstad Circuit Simulator](https://falstad.com/circuit/) — simulador de circuitos no navegador com animação da corrente fluindo em tempo real. A melhor ferramenta de intuição que existe pra etapas 1 e 2; use pra conferir cada exercício resolvido no papel.
 - [Tinkercad](https://www.tinkercad.com/) — simulador da Autodesk com protoboard virtual, componentes e Arduino. Ideal pra praticar montagem realista (e errar sem queimar nada) antes do laboratório físico.
@@ -79,7 +79,7 @@ O que dominar: latches e flip-flops (a célula de memória de 1 bit), registrado
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada|Eletricidade Aplicada]] — etapa 1 da trilha: análise de circuitos elétricos.
-- [[pt-br/resource/engenharia-de-computação/5-periodo/eletronica-analogica|Eletrônica Analógica]] — etapa 2: diodos, transistores e amplificadores.
-- [[pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital|Eletrônica Digital]] — etapa 3 e início da 4: portas, Karnaugh, flip-flops.
-- [[pt-br/resource/engenharia-de-computação/7-periodo/sistemas-digitais|Sistemas Digitais]] — etapa 4 completa: registradores, contadores e máquinas de estados.
+- [[pt-br/resource/Engenharia de Computação/5-periodo/eletricidade-aplicada/Eletricidade Aplicada|Eletricidade Aplicada]] — etapa 1 da trilha: análise de circuitos elétricos.
+- [[pt-br/resource/Engenharia de Computação/5-periodo/eletronica-analogica/Eletrônica Analógica|Eletrônica Analógica]] — etapa 2: diodos, transistores e amplificadores.
+- [[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital/Eletrônica Digital|Eletrônica Digital]] — etapa 3 e início da 4: portas, Karnaugh, flip-flops.
+- [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-digitais/Sistemas Digitais|Sistemas Digitais]] — etapa 4 completa: registradores, contadores e máquinas de estados.

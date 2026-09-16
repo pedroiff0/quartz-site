@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Química"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.15`
 > - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Renato Batista (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Químicas. Introdução à Termodinâmica Química. Termoquímica, Combustíveis e Combustão. Equilíbrio Químico. Cinética Química. Eletroquímica. Noções de Química Orgânica.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Rever e aprofundar os conceitos relativos aos constituintes básicos da matéria permitindo uma avaliação das características físicas e químicas das substâncias e dos materiais, de tal forma a capacitar o aluno para reconhecer a importância da química na vida cotidiana, como também sua aplicação em outros domínios.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/index|CSECBJI.23 - Introdução à Ciência dos Materiais]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/Introdução à Ciência dos Materiais|CSECBJI.23 - Introdução à Ciência dos Materiais]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Estrutura da matéria:**
 > 	- Esquemas básicos da química: sistema, matéria, propriedades, energia e transformações;
 > 	- Modelo atômico de Dalton;
@@ -84,12 +81,12 @@ cssclasses:
 > 	- As funções orgânicas;
 > 	- Introdução aos polímeros.
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. ATKINS, P., JONES, L., LAVERMANM L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 7ª Edição. Porto Alegre: Bookman, 2018.
 > 2. KOTZ, J., TREICHEL, P. M., TOWNSEND, J., TREICHEL, D. Química Geral e Reações Químicas: Volume 1 e 2. 3ª Edição. São Paulo: Cengage Learning, 2015.
 > 3. RUSSEL, J. B. Química Geral: Volume 1 e 2. 2ª Edição. São Paulo: Pearson, 1994.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. BRADY, J. E., RUSSEL, J. W., HOLUM, J. R. Química: A Matéria e Suas Transformações.
 > 2. ª ed., vol. 1 e 2, Rio de Janeiro: LTC, 2009 BROWN, T. L., LEMAY, H. E., BURSTEN, B. E., BURDGE, J. R. Química: A Ciência Central. 10ª Edição.
 > 3. São Paulo: Pearson, 2016.
@@ -98,15 +95,5 @@ cssclasses:
 > 6. SNYDER, S. A. Química Orgânica: Volume 1 e 2. 12ª Edição. Rio de Janeiro: LTC, 2018.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/Anotações/Esboço/aula-01-estrutura-da-matéria|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/Anotações/Esboço/aula-02-esquemas-básicos-da-química-sistema-maté|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/Anotações/Esboço/aula-03-modelo-atômico-de-dalton|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/Anotações/Esboço/aula-04-modelo-atômico-de-thomson|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/Anotações/Esboço/aula-05-modelo-atômico-de-rutherford-e-bohr|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/Anotações/Esboço/aula-06-noções-de-mecânica-ondulatória|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

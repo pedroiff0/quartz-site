@@ -3,7 +3,7 @@ publish: false
 kanban-plugin: board
 title: "Quadro Kanban — Trilha Poliglota de Idiomas"
 created: 2026-09-14 11:54
-modified: 2026-09-14 20:13
+modified: 2026-09-15 21:34
 tags:
   - kanban
   - idioma
@@ -12,21 +12,21 @@ cssclasses:
   - page-layout
 ---
 
-## 🎯 Idioma Foco do Momento
+## Idioma Foco do Momento
 
 - [ ] Escolher a primeira língua para avanço diário (ex: Francês ou Mandarim) #idioma #foco
 
-## 📚 A Fazer (Esta Semana)
+## A Fazer (Esta Semana)
 
 - [ ] Concluir as Aulas 01 e 02 do idioma em foco #idioma #aula
 - [ ] Praticar fonética e gravação de áudio comparativo (shadowing) #idioma #fala
 
-## 🔄 Em Estudo Diário
+## Em Estudo Diário
 
 - [ ] Revisão diária de cartões no Anki (15 a 20 min) #idioma #anki
 - [ ] Imersão passiva com podcast nativo da língua alvo #idioma #escuta
 
-## ⏳ Próximos Idiomas na Fila
+## Próximos Idiomas na Fila
 
 - [ ] Francês — Consolidação A1 #frances #idioma
 - [ ] Italiano — Início de fundamentos #italiano #idioma
@@ -39,7 +39,7 @@ cssclasses:
 - [ ] Português — Regência, concordância e redação formal #portugues #norma-culta
 - [ ] Russo — Leitura cirílica e redução vocálica #russo #idioma
 
-## ✅ Concluído & Nível Atingido
+## Concluído & Nível Atingido
 
 - [x] Estruturação da esteira curricular de 10 idiomas no vault #idioma #harness
 - [x] Criação dos templates e lições fundamentais #idioma #template

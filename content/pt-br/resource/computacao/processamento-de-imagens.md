@@ -2,7 +2,7 @@
 publish: false
 title: Processamento de Imagens
 created: 2026-07-26 13:04
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -12,7 +12,7 @@ cssclasses:
 ---
 
 > [!info] O que é este tópico
-> Processamento de Imagens é o estudo de como tratar uma imagem digital como o que ela realmente é — uma matriz de números — e aplicar operações matemáticas sobre essa matriz para realçá-la, restaurá-la ou extrair informação dela. É a base de visão computacional, e tem uma conexão direta com a minha própria pesquisa: o projeto [[pt-br/research/Simulando o impacto de satélites em observações astronômicas - 2024/|Simulando o Impacto de Satélites em Observações Astronômicas]] trata, na prática, de remover um tipo específico de "ruído" (rastros de satélite) de imagens astronômicas — exatamente o tipo de problema que esta disciplina formaliza.
+> Processamento de Imagens é o estudo de como tratar uma imagem digital como o que ela realmente é — uma matriz de números — e aplicar operações matemáticas sobre essa matriz para realçá-la, restaurá-la ou extrair informação dela. É a base de visão computacional, e tem uma conexão direta com a minha própria pesquisa: o projeto **Simulando o Impacto de Satélites em Observações Astronômicas** trata, na prática, de remover um tipo específico de "ruído" (rastros de satélite) de imagens astronômicas — exatamente o tipo de problema que esta disciplina formaliza.
 
 ## Por que estudar isso?
 
@@ -61,7 +61,7 @@ O que dominar: **limiarização** (_thresholding_) — separar pixels em duas cl
 - **Aplicar filtros ao RGB diretamente quando a operação depende de luminância** — algumas operações (como equalização de contraste) fazem mais sentido aplicadas ao canal de luminância (convertendo para um espaço como HSV ou YCbCr) do que a cada canal RGB isoladamente, o que evita distorcer as cores da imagem.
 - **Achar que mais suavização é sempre melhor pra remover ruído** — suavizar demais borra detalhes reais junto com o ruído; a escolha do filtro (média simples vs. gaussiano vs. bilateral, que preserva bordas) é sempre um equilíbrio entre remover ruído e preservar informação.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Ferramentas e tutoriais gratuitos
 
@@ -74,12 +74,12 @@ O que dominar: **limiarização** (_thresholding_) — separar pixels em duas cl
 - GONZALEZ, R. C., WOODS, R. E. _Processamento Digital de Imagens_ — a referência canônica da área, citada na própria ementa da disciplina.
 - SOLOMON, C., BRECKON, T. _Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab_ — bom complemento prático ao Gonzalez & Woods.
 
-## 🔗 Referências externas
+## Referências externas
 
-- [[pt-br/research/Simulando o impacto de satélites em observações astronômicas - 2024/|Simulando o Impacto de Satélites em Observações Astronômicas]] — minha própria pesquisa, uma aplicação real de processamento/restauração de imagens a dados astronômicos: um algoritmo de IA que recupera informação perdida por rastros de satélite em imagens do céu.
+- **Simulando o Impacto de Satélites em Observações Astronômicas** — minha própria pesquisa, uma aplicação real de processamento/restauração de imagens a dados astronômicos: um algoritmo de IA que recupera informação perdida por rastros de satélite em imagens do céu.
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens|Processamento de Imagens]] — a eletiva que cobre exatamente esta trilha; tem como pré-requisito direto Computação Gráfica.
+- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/Processamento de Imagens|Processamento de Imagens]] — a eletiva que cobre exatamente esta trilha; tem como pré-requisito direto Computação Gráfica.
 - [[pt-br/resource/computacao/computacao-grafica|Computação Gráfica]] — de onde vêm os conceitos de matriz, pixel e espaço de cor usados aqui desde o início.
 - [[pt-br/resource/computacao/machine-learning|Machine Learning]] — segmentação e extração de características são, frequentemente, a etapa de pré-processamento que alimenta um classificador ou modelo de aprendizado de máquina.

@@ -2,7 +2,7 @@
 publish: true
 title: "Aula Sinais"
 created: 2026-09-01 17:18
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 encrypted: true
 password: "eng232"
 tags:
@@ -20,32 +20,32 @@ cssclasses:
   </div>
 </div>
 
-# 📝 Aula Sinais
+# Aula Sinais
 
-> [!info] 📌 Informações da Aula
+> [!info]  Informações da Aula
 > - **Docente:** 
 > - **Data da Aula:** 01/09/2026
 > - **Tópico Central:** 
 > - **Status das Anotações:** 
->   - [ ] 🟡 Planejando 
->   - [x] 🟠 Em Andamento 
->   - [ ] 🟢 Concluído
+>   - [ ]  Planejando 
+>   - [x]  Em Andamento 
+>   - [ ]  Concluído
 
-## 📂 Materiais & Recursos Didáticos da Aula
+## Materiais & Recursos Didáticos da Aula
 
 > [!tip] 🔗 Arquivos e Materiais da Disciplina
 > - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
 > - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
 > - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
-## 📋 Sumário Interativo
-- [📍 Anotações](#-anotações)
-- [🧠 Resumo](#-resumo)
-- [📝 Dúvida](#-dúvida)
+## Sumário Interativo
+- [ Anotações](#-anotações)
+- [ Resumo](#-resumo)
+- [ Dúvida](#-dúvida)
 
 ---
 
-## 📍 Anotações
+## Anotações
 
 ### 01/09
 
@@ -58,42 +58,42 @@ Sinais Analógicos
 Sinais Digitais
 
 
-> [!danger] [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=60&selection=122,0,124,47&color=red|Forouzan_Comunicacao_de_dados_e_redes_de, p.27]]
+> [!danger] **Forouzan_Comunicacao_de_dados_e_redes_de, p.27**
 > > Freqüência é a taxa de mudança em relação ao tempo. A mudança em curto espaço de tempo significa alta freqüência. Mudanças ao longo de espaço de tempo prolongado significam baixa freqüência.
 
 
 
-![[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=61&rect=138,115,539,423&color=important|Forouzan_Comunicacao_de_dados_e_redes_de, p.28]]
+> 📖 *[Referência: Forouzan_Comunicacao_de_dados_e_redes_de, p.28]*
 
 
-> [!important] [[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=64&selection=12,0,13,56&color=important|Forouzan_Comunicacao_de_dados_e_redes_de, p.31]]
+> [!important] **Forouzan_Comunicacao_de_dados_e_redes_de, p.31**
 > > Uma onda senoidal completa no tempo pode ser representada por um único pico no domínio da freqüência.
 > 
 > 
 
-![[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=64&rect=125,319,531,492|Forouzan_Comunicacao_de_dados_e_redes_de, p.31]]
+> 📖 *[Referência: Forouzan_Comunicacao_de_dados_e_redes_de, p.31]*
 
 
-![[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=65&rect=140,151,524,324|Forouzan_Comunicacao_de_dados_e_redes_de, p.32]]
+> 📖 *[Referência: Forouzan_Comunicacao_de_dados_e_redes_de, p.32]*
 
-![[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=66&rect=137,63,529,190|Forouzan_Comunicacao_de_dados_e_redes_de, p.33]]
+> 📖 *[Referência: Forouzan_Comunicacao_de_dados_e_redes_de, p.33]*
 
-![[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=67&rect=138,64,506,361&color=important|Forouzan_Comunicacao_de_dados_e_redes_de, p.34]]
+> 📖 *[Referência: Forouzan_Comunicacao_de_dados_e_redes_de, p.34]*
 
-![[pt-br/resource/Engenharia de Computação/_materiais/6-periodo/comunicacao-de-dados/Forouzan_Comunicacao_de_dados_e_redes_de.pdf#page=70&rect=123,339,498,671&color=important|Forouzan_Comunicacao_de_dados_e_redes_de, p.37]]
+> 📖 *[Referência: Forouzan_Comunicacao_de_dados_e_redes_de, p.37]*
 
 ---
 
-## 🧠 Resumo
+## Resumo
 
 | Tópico | Princípio Central | Atenção Especial / Pegadinha |
 | :--- | :--- | :--- |
 | | | |
 
-> [!tip] 💡 Dica de Prova do Professor
+> [!tip]  Dica de Prova do Professor
 > Destaques e orientações mencionadas pelo docente durante a aula.
 
 ---
 
-## 📝 Dúvida
+## Dúvida
 - [ ] Ler capítulo 3.3 08/09 

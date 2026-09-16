@@ -13,11 +13,11 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-modified: 2026-09-12 11:20
+modified: 2026-09-15 21:34
 
 ---
 
-**Navegação (grafo):** [[pt-br/resource/escolainverno/ArqGal/260720-Arqueologia-Galactica-Aula01|← 260720-Arqueologia-Galactica-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula03|ArqueologiaGalactica-Aula03 →]]
+**Navegação (grafo):** [[pt-br/resource/escolainverno/ArqGal/260720-Arqueologia-Galactica-Aula01|← 260720-Arqueologia-Galactica-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula03|ArqueologiaGalactica-Aula03 →]]
 # Notas de Aula — Arqueologia Galáctica (Aula 02)
 
 > [!info] Informações da aula
@@ -25,29 +25,29 @@ modified: 2026-09-12 11:20
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 *Conteúdo desta aula ainda não registrado.* Como contexto de partida (a confirmar/expandir com o conteúdo real da aula): diferente dos **aglomerados abertos** (100–1000 estrelas, disco galáctico, idades variadas — ver Aula 01), os **aglomerados globulares** são sistemas muito mais populosos e antigos, tipicamente encontrados no **halo galáctico**, com uma única população estelar de idade aproximadamente uniforme — por isso são importantes laboratórios para estudar estrelas muito velhas e a formação inicial da Galáxia.
 
-### 📑 Tópicos abordados
+### Tópicos abordados
 1. *(a preencher)*
 
 ---
 
-## ⚠️ Pontos de atenção
+## Pontos de atenção
 
 > [!important] Atenção
 > *(nenhuma anotação registrada ainda)*
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - *(a preencher)*
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 2)
 > *(nenhuma pergunta registrada ainda)*

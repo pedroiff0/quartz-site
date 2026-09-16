@@ -2,7 +2,7 @@
 publish: false
 title: Aula 05 — Avermelhamento, Extinção e IMF
 created: 2026-07-23 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -19,9 +19,9 @@ content: O meio interestelar, a extinção e o avermelhamento da luz por poeira,
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|← Aula 04 — Espectroscopia e Metalicidade]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|Aula 06 — Diagrama HR e Relação Massa-Luminosidade →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|← Aula 04 — Espectroscopia e Metalicidade]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|Aula 06 — Diagrama HR e Relação Massa-Luminosidade →]]
 
-# 🌫️ Aula 05 — Avermelhamento, Extinção e IMF
+# Aula 05 — Avermelhamento, Extinção e IMF
 
 > [!note] Resumo
 > Antes de qualquer estimativa de distância na Galáxia ser confiável, é preciso corrigir a luz estelar do efeito do meio interestelar: gás e poeira absorvem e espalham fótons de forma dependente do comprimento de onda, atenuando (extinção) e avermelhando a luz observada.
@@ -33,11 +33,11 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## ☁️ O meio interestelar (ISM)
+## O meio interestelar (ISM)
 
 Gás e poeira ocupam o espaço entre as estrelas: **~99%** da massa do ISM está em forma de gás (HI neutro, HII ionizado, H₂ molecular), e **~1%** em poeira. Da massa de gás, cerca de 70% é hidrogênio, 29% hélio e 1% metais. A distribuição do ISM **não é homogênea** ao longo do disco galáctico.
 
-A massa total de gás + poeira representa apenas 10–20% da massa em estrelas da Galáxia. Estimativas de ordem de grandeza para a Via Láctea: massa total $1$–$1{,}5\times10^{12}\,M_\odot$; massa estelar $\sim5\times10^{10}\,M_\odot$; massa em gás $\sim1\times10^{10}\,M_\odot$ — o restante é matéria escura, cuja distribuição não é diretamente observável (ver [[pt-br/research/Entendendo a Matéria Escura a partir de Choques Extragalaticos - 2023/|Entendendo a Matéria Escura a partir de Choques Extragalácticos]] para um método alternativo de mapeá-la).
+A massa total de gás + poeira representa apenas 10–20% da massa em estrelas da Galáxia. Estimativas de ordem de grandeza para a Via Láctea: massa total $1$–$1{,}5\times10^{12}\,M_\odot$; massa estelar $\sim5\times10^{10}\,M_\odot$; massa em gás $\sim1\times10^{10}\,M_\odot$ — o restante é matéria escura, cuja distribuição não é diretamente observável (ver **Entendendo a Matéria Escura a partir de Choques Extragalácticos** para um método alternativo de mapeá-la).
 
 ### Poeira interestelar
 
@@ -52,11 +52,11 @@ Grãos com núcleo de ferro, silicatos e grafite, envoltos por materiais congela
 
 A poeira não emite no visível, mas **bloqueia** a luz — nebulosas de reflexão são regiões onde a poeira espalha luz estelar, tornando-se visível principalmente em comprimentos de onda azuis.
 
-## 📉 A descoberta observacional do meio interestelar
+## A descoberta observacional do meio interestelar
 
 **Hartmann (1904)** observou o sistema binário **δ Orionis** e notou que, embora a maioria das linhas espectrais se deslocasse de forma consistente com o movimento orbital (variação de velocidade radial esperada para um binário), a linha K do Cálcio **não** compartilhava essa variação. A conclusão correta: havia uma nuvem de gás contendo cálcio estacionária na linha de visada, entre nós e o sistema binário — a primeira evidência direta de matéria difusa no espaço interestelar.
 
-## 🌒 Extinção interestelar
+## Extinção interestelar
 
 **Trumpler (1930)** obteve evidência da existência de absorção interestelar comparando distâncias de aglomerados abertos calculadas por dois métodos independentes: brilho das estrelas vs. diâmetro angular do aglomerado — a discrepância sistemática revelou que a luz estava sendo atenuada por poeira ao longo do caminho. Trumpler mostrou que a extinção segue aproximadamente uma lei $\propto\lambda^{-1}$: se os grãos fossem muito maiores que $\lambda$, a extinção seria $\propto\lambda^0$; se fossem de tamanho molecular, seria espalhamento Rayleigh ($\propto\lambda^{-4}$). A lei $\lambda^{-1}$ observada implica grãos de tamanho **intermediário**.
 
@@ -85,25 +85,25 @@ Os mapas de **Schlegel et al. (1998)** foram obtidos a partir de dados de infrav
 
 Correção prática básica: $\text{mag}_{x,0} = \text{mag}_x - \text{coef.\ extinção}_x \cdot E(B-V)_{\text{SFD}}$ (ou multiplicado pelo fator de correção de Schlafly, $\times0{,}86$).
 
-## 🧮 IMF — revisitada
+## IMF — revisitada
 
 A **função de massa inicial** (ver Aula 02) descreve a probabilidade de formação de estrelas de cada massa. Segue sendo um objeto de estudo ativo: incerta no limite de altíssimas massas ($\sim100\,M_\odot$), no valor exato do pico característico, e quanto à sua universalidade entre diferentes ambientes de formação \[Offner et al. 2014]. O formato exato da IMF é crucial para prever escalas de tempo de enriquecimento químico, ocorrência de supernovas e dinâmica do meio interestelar em uma galáxia — conectando diretamente esta aula com o tema central do curso.
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Extinção ($A_\lambda$) vs. avermelhamento ($E(B-V)$):** atenuação total vs. mudança de cor diferencial — ambas causadas pela poeira interestelar.
 - **$R_V = A_V / E(B-V) \approx 3{,}1$:** razão característica do meio interestelar difuso; usada para converter excesso de cor em extinção total.
 - **Corrigir extinção é obrigatório** para qualquer estimativa de distância confiável — senão, distâncias são sistematicamente superestimadas.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Trumpler (1930) — primeira evidência de extinção interestelar via aglomerados
 - Cardelli, Clayton & Mathis (1989) — lei de extinção universal parametrizada por $R_V$
 - Schlegel, Finkbeiner & Davis (1998) — mapas de extinção de referência
 - Offner et al. (2014) — revisão da IMF
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]] — IMF introduzida pela primeira vez
 - [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|Aula 06 — Diagrama HR e Relação Massa-Luminosidade]]
-- [[pt-br/research/Entendendo a Matéria Escura a partir de Choques Extragalaticos - 2023/|Entendendo a Matéria Escura a partir de Choques Extragalácticos]] — outro método (dinâmico) de mapear massa não-luminosa, em escala extragaláctica
+- **Entendendo a Matéria Escura a partir de Choques Extragalácticos** — outro método (dinâmico) de mapear massa não-luminosa, em escala extragaláctica

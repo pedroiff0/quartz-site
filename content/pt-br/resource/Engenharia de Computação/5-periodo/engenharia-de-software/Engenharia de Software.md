@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Engenharia de Software"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,17 +11,17 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.36`
 > - **Período:** 5º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Fabrício Barros (fabricio.goncalves@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto de software. Arquitetura de software. Testes. Visão geral sobre manutenção de software.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Desenvolver a visão de software como um sistema e parte de um sistema;
 > - Conhecer processos de desenvolvimento de software
 > - Compreender os papéis dos participantes do processo de desenvolvimento de software;
@@ -35,14 +32,14 @@ cssclasses:
 > - Trabalhar com ambientes e ferramentas de suporte ao desenvolvimento de software
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/index|CSECBJI.42 - Análise de Software Orientada a Objetos]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/Análise de Software Orientada a Objetos|CSECBJI.42 - Análise de Software Orientada a Objetos]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Teoria dos Sistemas**
 > 	- Sistemas naturais e sistemas automatizados
 > 	- Software x Sistemas
@@ -81,12 +78,12 @@ cssclasses:
 > 	- Reengenharia
 > - **7. Ferramentas e Ambientes de Suporte ao Desenvolvimento de Software**
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. PRESSMAN, R. S., MAXIM, B. R. Engenharia de Software: Uma Abordagem Profissional. 8ª Edição. Porto Alegre: Bookman, 2016.
 > 2. SOMMERVILLE, I. Engenharia de Software. 9ª Edição. São Paulo: Pearson, 2011.
 > 3. WAZLAWICK, R. S. Engenharia de Software: Conceitos e Práticas. São Paulo: Elsevier, 2013.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. DELAMARO, M. E., MALDONADO, J. C., JINO, M. Introdução ao Teste de Software. 2ª Edição. São Paulo: Elsevier, 2016.
 > 2. FERNANDES, J. M., MACHADO, R. J. Requisitos em Projetos de Software e de Sistemas de Informação.
 > 3. São Paulo: Novatec, 2017.
@@ -95,15 +92,5 @@ cssclasses:
 > 6. SAMPAIO, C. Qualidade de Software na Prática: Como Reduzir o Custo de Manutenção de Software com a Análise de Código. São Paulo: Ciência Moderna, 2014.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/Anotações/Esboço/aula-01-teoria-dos-sistemas|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/Anotações/Esboço/aula-02-sistemas-naturais-e-sistemas-automatizad|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/Anotações/Esboço/aula-03-software-x-sistemas|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/Anotações/Esboço/aula-04-categorias-de-software|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/Anotações/Esboço/aula-05-processo-de-desenvolvimento-de-software|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/Anotações/Esboço/aula-06-histórico-da-evolução-do-software|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

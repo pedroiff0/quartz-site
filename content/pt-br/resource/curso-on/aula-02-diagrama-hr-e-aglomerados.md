@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 — Diagrama HR e Aglomerados Estelares
 created: 2026-07-23 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -18,9 +18,9 @@ content: Aglomerados abertos vs. globulares, função de massa inicial (IMF), is
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-01-conceito-e-historico|← Aula 01 — Conceito e Histórico]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-01-conceito-e-historico|← Aula 01 — Conceito e Histórico]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral →]]
 
-# 🌟 Aula 02 — Diagrama HR e Aglomerados Estelares
+# Aula 02 — Diagrama HR e Aglomerados Estelares
 
 > [!note] Resumo
 > Estrelas de diferentes massas evoluem de formas diferentes, e essa diferença é o que torna os aglomerados estelares laboratórios ideais para testar modelos de evolução estelar: todas as suas estrelas nasceram (quase) ao mesmo tempo. Esta aula compara aglomerados abertos e globulares, introduz a função de massa inicial (IMF) e as isócronas, e fecha com a nomenclatura de populações I, II e III.
@@ -32,11 +32,11 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 📈 Por que aglomerados?
+## Por que aglomerados?
 
 No diagrama HR (Hipparcos 1997), estrelas da vizinhança solar aparecem com **todas as idades e composições químicas diferentes** — a Sequência Principal, o ramo das gigantes e outras fases coexistem misturadas. Como diferentes massas evoluem em ritmos diferentes, e a composição química também influencia a evolução, a distribuição de estrelas de um **aglomerado** no diagrama HR corresponde essencialmente à diferença de massa entre elas — porque todas nasceram (aproximadamente) juntas, com a mesma idade e composição. Um único aglomerado já contém estrelas em vários estágios evolutivos: sequência principal, gigantes vermelhas, ramo horizontal.
 
-## 🔵🔴 Dois tipos básicos de aglomerados
+## Dois tipos básicos de aglomerados
 
 | | Aglomerados abertos (ex.: Plêiades) | Aglomerados globulares (ex.: ω Centauri) |
 |---|---|---|
@@ -58,7 +58,7 @@ Dominados por estrelas velhas (mais vermelhas), ocupando diferentes estágios ev
 > [!tip] Como saber quais estrelas realmente pertencem a um aglomerado?
 > Hoje é possível combinar movimentos próprios e paralaxes medidos pela missão **Gaia** com modelos teóricos de mesma idade/metalicidade para determinar a probabilidade de associação — aceitando, por exemplo, apenas estrelas com >99,9% de probabilidade de membro, o que produz um diagrama HR "limpo".
 
-## 🧮 Função de Massa Inicial (IMF)
+## Função de Massa Inicial (IMF)
 
 A **IMF** (_initial mass function_) descreve a probabilidade de uma estrela com determinada massa se formar em determinado ambiente \[Offner et al. 2014]. Da distribuição, percebe-se que a probabilidade de formação de estrelas de alta massa ($>10\,M_\odot$) é muito baixa em todos os casos observados.
 
@@ -72,7 +72,7 @@ A **IMF** (_initial mass function_) descreve a probabilidade de uma estrela com 
 
 Combinando a **teoria de evolução estelar** com a **IMF**, é possível construir modelos completos para as populações estelares simples (SSPs) de um aglomerado.
 
-## 📐 Populações estelares simples e isócronas
+## Populações estelares simples e isócronas
 
 Uma **isócrona** é uma curva no diagrama HR que representa uma população de estrelas simples — mesma idade e mesma composição química.
 
@@ -83,13 +83,13 @@ Quatro parâmetros moldam o formato de uma isócrona: **avermelhamento**, **dist
 
 Populações com a **mesma idade** constituem o ambiente ideal para estudar como a evolução estelar depende da massa — comparando populações jovens e velhas lado a lado \[Babusiaux et al. 2018].
 
-## 🗺️ Aglomerados no contexto da Galáxia
+## Aglomerados no contexto da Galáxia
 
 Como aglomerados abertos têm populações jovens, eles devem estar ligados às regiões onde há gás para formar estrelas: o **plano galáctico**, especialmente o disco com braços espirais ricos em gás e poeira. Por isso, aglomerados abertos são usados para **mapear o disco e os braços espirais** \[Hao et al. 2021; Castro-Ginard et al. 2021] — o catálogo de referência atual soma **5647 aglomerados abertos** \[Hunt & Reffert 2024].
 
 Já os aglomerados globulares, por serem velhos, podem ocupar regiões muito distantes do plano da Galáxia — no halo.
 
-## 🏷️ Populações estelares (I, II e III)
+## Populações estelares (I, II e III)
 
 - **População I:** jovens e ricas em metais. Tipo mais abundante na Galáxia; típicas de aglomerados abertos e braços espirais. **O Sol é uma estrela de População I.**
 - **População II:** velhas e pobres em metais. Típicas de aglomerados globulares, do halo da Galáxia e predominantes em galáxias elípticas.
@@ -97,14 +97,14 @@ Já os aglomerados globulares, por serem velhos, podem ocupar regiões muito dis
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Aglomerados abertos vs. globulares:** jovens/metal-ricos/disco vs. velhos/metal-pobres/halo — o par observacional que ancora o conceito de população estelar simples.
 - **IMF:** distribuição de probabilidade de massas estelares na formação — ainda incerta no regime de alta massa e quanto à universalidade.
 - **Isócrona:** curva HR de uma população inteira de mesma idade/metalicidade — não confundir com trajetória evolutiva individual.
 - **Pop I / II / III:** nomenclatura de metalicidade decrescente/idade crescente; Pop III nunca observada diretamente.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Hunt & Reffert (2024) — catálogo de 5647 aglomerados abertos
 - Offner et al. (2014) — revisão da função de massa inicial
@@ -112,7 +112,7 @@ Já os aglomerados globulares, por serem velhos, podem ocupar regiões muito dis
 - Babusiaux et al. (2018) — populações jovens vs. velhas com dados Gaia
 - Frebel & Norris (2018) — busca por estrelas de População III / metal-pobres extremas
 - Hao et al. (2021); Castro-Ginard et al. (2021) — mapeamento do disco via aglomerados abertos
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-01-conceito-e-historico|Aula 01 — Conceito e Histórico]]
 - [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral]]
 - [[pt-br/resource/escolainverno/aglomerados|Escola de Inverno — Aglomerados]] — minicurso irmão sobre o mesmo tema

@@ -2,7 +2,7 @@
 publish: false
 title: Sistemas Distribuídos
 created: 2026-07-26 13:04
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:51
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -18,7 +18,7 @@ cssclasses:
 
 Praticamente todo sistema relevante hoje é distribuído: um app de banco replica dados em vários datacenters, um serviço de streaming particiona conteúdo entre servidores, um banco de dados moderno aceita que a rede vai falhar e projeta em torno disso. A parte contraintuitiva — e o motivo de esta disciplina existir — é que **distribuir um sistema não é só "colocar mais máquinas"**: rede tem latência, pacotes se perdem, relógios de máquinas diferentes divergem, e processos podem falhar independentemente uns dos outros sem avisar. Ignorar isso é como prometer uma garantia que a física da rede simplesmente não permite.
 
-Entender os limites fundamentais (o Teorema CAP, consistência eventual vs. forte, os modelos de falha) evita o erro mais caro em sistemas reais: prometer uma consistência que o sistema, sob partição de rede, não consegue entregar. E entender computação paralela (a outra metade desta trilha) é o que permite tirar proveito de múltiplos núcleos/GPUs/nós de um cluster — a mesma motivação, inclusive, do minicurso de [[pt-br/resource/escolainverno/Computação/|Computação de Alto Desempenho]] que fiz na Escola de Inverno.
+Entender os limites fundamentais (o Teorema CAP, consistência eventual vs. forte, os modelos de falha) evita o erro mais caro em sistemas reais: prometer uma consistência que o sistema, sob partição de rede, não consegue entregar. E entender computação paralela (a outra metade desta trilha) é o que permite tirar proveito de múltiplos núcleos/GPUs/nós de um cluster — a mesma motivação, inclusive, do minicurso de [[pt-br/resource/escolainverno/Computação/260721-Computacao-Aula01|Computação de Alto Desempenho]] que fiz na Escola de Inverno.
 
 ## Trilha de estudo
 
@@ -62,18 +62,18 @@ O que dominar: a Taxonomia de Flynn (SISD, SIMD, MISD, MIMD) para classificar ar
 - **Usar 2PC sem entender que ele bloqueia** — se o coordenador cai depois da fase de votação, os participantes ficam travados esperando uma decisão que pode nunca chegar; sistemas de produção usam variantes mais robustas (como protocolos baseados em consenso, ex: Raft/Paxos) justamente por causa dessa limitação.
 - **Escolher consistência forte por padrão sem medir o custo** — consistência forte tende a custar disponibilidade e latência; muitos sistemas reais (carrinhos de compra, contadores de curtidas) toleram bem consistência eventual, e insistir em forte só adiciona complexidade sem benefício percebido pelo usuário.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Cross-link no próprio site
 
-- **[[pt-br/resource/escolainverno/Computação/|Computação de Alto Desempenho]]** — o minicurso de HPC (OpenMP/MPI) que fiz na Escola de Inverno em Astrofísica 2026 é, literalmente, a metade "computação paralela" desta trilha aplicada a processamento de dados científicos.
+- **[[pt-br/resource/escolainverno/Computação/260721-Computacao-Aula01|Computação de Alto Desempenho]]** — o minicurso de HPC (OpenMP/MPI) que fiz na Escola de Inverno em Astrofísica 2026 é, literalmente, a metade "computação paralela" desta trilha aplicada a processamento de dados científicos.
 
 ### Bibliografia clássica (consultar na biblioteca)
 
 - TANENBAUM, A. S., VAN STEEN, M. _Sistemas Distribuídos: Princípios e Paradigmas_ — a referência mais didática, cobre transparência, comunicação, sincronização e tolerância a falhas na mesma ordem desta trilha.
 - COULOURIS, G., DOLLIMORE, J., KINDBERG, T. _Sistemas Distribuídos: Conceitos e Projeto_ — mais orientado a middleware e transações distribuídas; bom complemento ao Tanenbaum.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [MIT 6.824 — Distributed Systems](https://pdos.csail.mit.edu/6.824/) — curso de graduação do MIT, com todas as aulas em vídeo e material gratuitos; referência-padrão mundial na área.
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) — artigo curto e clássico sobre as armadilhas práticas (não só teóricas) de projetar sistemas distribuídos.
@@ -81,6 +81,6 @@ O que dominar: a Taxonomia de Flynn (SISD, SIMD, MISD, MIMD) para classificar ar
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos|Sistemas Distribuídos]] — a disciplina do 9º período que cobre as etapas 1 a 4 desta trilha: conceitos, comunicação, middleware e tolerância a falhas.
-- [[pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos|Algoritmos Distribuídos]] — eletiva que aprofunda a etapa 5: modelos síncrono/assíncrono, algoritmos de eleição e exclusão mútua.
-- [[pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida|Computação Paralela e Distribuída]] — eletiva-continuação que foca na parte de arquiteturas paralelas (OpenMP/MPI/CUDA) da etapa 5.
+- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Sistemas Distribuídos|Sistemas Distribuídos]] — a disciplina do 9º período que cobre as etapas 1 a 4 desta trilha: conceitos, comunicação, middleware e tolerância a falhas.
+- [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Algoritmos Distribuídos|Algoritmos Distribuídos]] — eletiva que aprofunda a etapa 5: modelos síncrono/assíncrono, algoritmos de eleição e exclusão mútua.
+- [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/Computação Paralela e Distribuída|Computação Paralela e Distribuída]] — eletiva-continuação que foca na parte de arquiteturas paralelas (OpenMP/MPI/CUDA) da etapa 5.

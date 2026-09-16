@@ -2,7 +2,7 @@
 title: "Código de Conduta, Ética e Diretrizes Acadêmicas"
 publish: true
 created: 2026-08-04 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:34
 tags:
   - latex
   - etica
@@ -12,7 +12,7 @@ cssclasses:
   - page-layout
 ---
 
-# 📜 Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas
+# Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas
 
 > **Instituição:** Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana  
 > **Disciplina:** LaTeX & Escrita Acadêmica (Período: 24/08/2026 a 20/12/2026 — Terças-feiras, 14h30 às 17h30)  
@@ -21,7 +21,7 @@ cssclasses:
 
 ---
 
-## 🏛️ 1. Compromisso Institucional com a Integridade Científica
+## 1. Compromisso Institucional com a Integridade Científica
 
 A formação de pesquisadores, profissionais de Engenharia e autores técnicos no **Instituto Federal Fluminense (IFF)** assenta-se na rigorosa honestidade intelectual. Todos os trabalhos acadêmicos, monografias, artigos, relatórios técnicos e apresentações devem representar fielmente a observação autônoma, a verificação metodológica e o crédito escrupuloso às fontes referenciais.
 
@@ -35,7 +35,7 @@ graph TD
 
 ---
 
-## 🚫 2. Política Zero Tolerância a Plágio e Autoplágio
+## 2. Política Zero Tolerância a Plágio e Autoplágio
 
 O plágio — definido como a apropriação indevida de ideias, dados, trechos textuais ou figuras sem a citação expressa e normatizada de sua autoria — constitui infração grave às diretrizes institucionais do IFF:
 
@@ -45,7 +45,7 @@ O plágio — definido como a apropriação indevida de ideias, dados, trechos t
 
 ---
 
-## 🤖 3. Diretrizes Institucionais para Uso de IA Generativa (LLMs)
+## 3. Diretrizes Institucionais para Uso de IA Generativa (LLMs)
 
 O uso de Modelos de Linguagem de Grande Escala (LLMs, tais como ChatGPT, Gemini, Claude ou DeepSeek) é reconhecido como ferramenta auxiliar de pesquisa, revisão gramatical e suporte de codificação LaTeX, desde que governado pelos seguintes princípios:
 
@@ -55,7 +55,7 @@ O uso de Modelos de Linguagem de Grande Escala (LLMs, tais como ChatGPT, Gemini,
 
 ---
 
-## 🏥 4. Ética na Pesquisa Envolvendo Seres Humanos (Plataforma Brasil)
+## 4. Ética na Pesquisa Envolvendo Seres Humanos (Plataforma Brasil)
 
 Investigações e estudos empíricos que envolvam intervenção, entrevistas, questionários ou coleta de dados biológicos/comportamentais de seres humanos submetem-se à **Resolução CNS nº 466/2012** e normas complementares:
 
@@ -64,7 +64,7 @@ Investigações e estudos empíricos que envolvam intervenção, entrevistas, qu
 
 ---
 
-## 💻 5. Boas Práticas de Laboratório e Ecossistema ReLaTeX
+## 5. Boas Práticas de Laboratório e Ecossistema ReLaTeX
 
 Durante os encontros letivos presenciais às **terças-feiras (14h30 às 17h30)** e na produção assíncrona, espera-se cooperação técnica e respeito ao ecossistema institucional:
 

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Algoritmos e Técnicas de Programação"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,17 +11,17 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.13`
 > - **Período:** 2º Período | **Núcleo:** Profissionalizante | **Carga Horária:** —
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exemplos informais de algoritmos. Tipos primitivos de dados. Variáveis e constantes. Expressões aritméticas e operadores aritméticos. Expressões lógicas. Operadores relacionais e lógicos. Tabelas verdade. Comando de atribuição. Comandos de entrada e saída. Seleção simples, composta, encadeada e de múltipla escolha. Estruturas de repetição.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Identificar as diferenças entre algoritmo e programa de computador;
 > - Distinguir as etapas necessárias para elaboração de um algoritmo e de um programa de computador;
 > - Acompanhar a execução de um programa de computador;
@@ -33,17 +30,17 @@ cssclasses:
 > - Aplicar o raciocínio lógico-dedutivo na criação de programas computacionais em linguagem de Programação C.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/3-periodo/algoritmos-e-estruturas-de-dados-i/index|CSECBJI.22 - Algoritmos e Estruturas de Dados I]]
-> - [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/index|CSECBJI.25 - Cálculo Numérico]]
-> - [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/index|CSECBJI.38 - Paradigmas de Linguagem de Programação]]
-> - [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/index|CSECBJI.45 - Programação Orientada a Objetos I]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/3-periodo/algoritmos-e-estruturas-de-dados-i/Algoritmos e Estruturas de Dados I|CSECBJI.22 - Algoritmos e Estruturas de Dados I]]
+> - [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/Cálculo Numérico|CSECBJI.25 - Cálculo Numérico]]
+> - [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/Paradigmas de Linguagem de Programação|CSECBJI.38 - Paradigmas de Linguagem de Programação]]
+> - [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/Programação Orientada a Objetos I|CSECBJI.45 - Programação Orientada a Objetos I]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Introdução a Algoritmos e Linguagens de Programação:**
 > 	- Introdução à organização de computadores;
 > 	- Algoritmos, estruturas de dados e programas;
@@ -73,27 +70,17 @@ cssclasses:
 > 	- Repetição com teste no final (DO-WHILE);
 > 	- Repetição com variável de controle (FOR).
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
 > 2. PIVA JR, D., NAKAMITI, G. S., ENGELBRECHT, A. M., BIANCHI, F. Algoritmos e Programação de Computadores. São Paulo: Elsevier, 2012.
 > 3. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
 > 2. FORBELLONE, A. L., EBERSPACHER, H. Lógica de Programação: A Construção de Algoritmos e Estrutura de dados. 3ª Edição. São Paulo: Pearson, 2005.
 > 3. LOPES, A., GARCIA, G. Introdução à Programação: 500 Algoritmos Resolvidos. São Paulo: Campus, MANZANO, J. A. Estudo Dirigido de Linguagem C. 17ª Edição. São Paulo: Editora Érica,2002.
 > 4. MANZANO, J. A., OLIVEIRA, J. F. Algoritmos: Lógica para Desenvolvimento de Programação de Computadores. 28º Edição. São Paulo: Editora Érica, 2016.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Anotações/Esboço/aula-01-introdução-a-algoritmos-e-linguagens-de-|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Anotações/Esboço/aula-02-introdução-à-organização-de-computadores|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Anotações/Esboço/aula-03-algoritmos-estruturas-de-dados-e-program|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Anotações/Esboço/aula-04-função-dos-algoritmos-na-computação|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Anotações/Esboço/aula-05-exemplos-informais-de-algoritmos|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Anotações/Esboço/aula-06-notações-gráficas-e-descritivas-de-algor|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

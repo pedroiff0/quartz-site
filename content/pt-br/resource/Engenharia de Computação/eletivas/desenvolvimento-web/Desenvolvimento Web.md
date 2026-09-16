@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Desenvolvimento Web"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.79`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** —
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web. Engenharia Web
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Apresentar diferentes maneiras de desenvolver sistemas e ferramentas web com tecnologias mais relevantes para o mercado.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/programacao-orientada-a-objetos-ii/index|CSECBJI.51 - Programação Orientada a Objetos II]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/programacao-orientada-a-objetos-ii/Programação Orientada a Objetos II|CSECBJI.51 - Programação Orientada a Objetos II]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Programação para Web**
 > 	- História da Internet e da World Wide Web.
 > 	- Desenvolvimento Front-End
@@ -46,12 +43,12 @@ cssclasses:
 > 	- Conexão com Sistema de Gerenciamento de Banco de Dados
 > 	- Engenharia Web
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. DALL’OGLIO, P. PHP: Programando com Orientação a Objetos. 4ª Edição. São Paulo: Novatec, 2018.
 > 2. DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books, 2016.
 > 3. KRUG, S. Não me Faça Pensar: Uma Abordagem de Bom Senso à Usabilidade Mobile e na Web. Rio de Janeiro: Alta Books, 2014.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. BASSET, L. Introdução ao JSON: Um Guia para JSON que vai Direto ao Ponto. São Paulo: Novatec,
 > 2. DUCKETT, J. Javascript e JQuery: Desenvolvimento de Interfaces Web Interativas. Rio de Janeiro:
 > 3. Alta Books, 2016.
@@ -60,15 +57,5 @@ cssclasses:
 > 6. POWERS, S. Aprendendo Node: Usando JavaScript no Servidor. São Paulo: Novatec, 2017.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/Anotações/Esboço/aula-01-programação-para-web|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/Anotações/Esboço/aula-02-história-da-internet-e-da-world-wide-web|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/Anotações/Esboço/aula-03-desenvolvimento-front-end|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/Anotações/Esboço/aula-04-desenvolvimento-back-end|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/Anotações/Esboço/aula-05-frameworks-web|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/Anotações/Esboço/aula-06-introdução-à-frameworks-para-desenvolvim|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Cálculo Numérico"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,29 +11,29 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.25`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Rodrigo Lacerda (rodrigo.lacerda@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Solução de equações não lineares; Interpolação e ajuste de curvas; Integração numérica; Soluções numéricas de equações diferenciais ordinárias.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Utilizar métodos iterativos para se obter a solução de problemas matemáticos de forma aproximada;
 > - Apresentar ao aluno maneiras práticas de se desenvolver e utilizar métodos numéricos, isso significa mostrar como usar esses métodos numéricos na calculadora e em um computador.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/index|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Algoritmos e Técnicas de Programação|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Números Binários e Análise de Erros**
 > 	- Representação de números em diversas bases
 > 	- Conversão de números nos sistemas decimal e binário
@@ -75,13 +72,13 @@ cssclasses:
 > 	- Equações de ordem superior, problemas de valor de contorno
 > 	- Método das diferenças finitas
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. BURIAN, R.; LIMA, A. C. Cálculo Numérico. Rio de Janeiro: LTC, 2007.
 > 2. RUGGIERO, M. A. G.; LOPES, V. L. da R. Cálculo Numérico: Aspectos Teóricos e Computacionais.
 > 3. ª Edição. São Paulo: Pearson, 2000.
 > 4. SPERANDIO, D., MENDES, J. T., SILVA, L. H. M. Cálculo Numérico: Características Matemáticas e Computacionais dos Métodos Numéricos. São Paulo: Prentice Hall, 2003.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. ARENALES, S., DAREZZO, A. Cálculo Numérico – Aprendizagem com apoio de software. 2ª Edição.
 > 2. São Paulo: Cengage, 2015.
 > 3. FILHO, F. F. Algoritmos Numéricos: Uma Abordagem Moderna de Cálculo Numérico. 3ª Edição. Rio de Janeiro, 2018.
@@ -90,15 +87,5 @@ cssclasses:
 > 6. VARGAS, J. V. C., ARAKI, L. K. Cálculo Numérico Aplicado. São Paulo: Manole, 2016.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/Anotações/Esboço/aula-01-números-binários-e-análise-de-erros|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/Anotações/Esboço/aula-02-representação-de-números-em-diversas-bas|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/Anotações/Esboço/aula-03-conversão-de-números-nos-sistemas-decima|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/Anotações/Esboço/aula-04-aritmética-de-ponto-flutuante|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/Anotações/Esboço/aula-05-erros-absolutos-e-relativos|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/Anotações/Esboço/aula-06-erros-de-arredondamento-e-truncamento-em|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

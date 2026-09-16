@@ -2,7 +2,7 @@
 publish: false
 title: Linguagens Formais e Autômatos
 created: 2026-07-26 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -64,7 +64,7 @@ O que dominar: uma visão panorâmica de dois modelos alternativos de computaç�
 - **Pular esta disciplina achando que "não serve pra nada na prática"** — ela é pré-requisito direto (tranca) de Compiladores; sem entender gramática livre de contexto e autômato de pilha, a análise sintática de Compiladores vira decoreba sem fundamento.
 - **Tentar provar decidibilidade em vez de indecidibilidade por redução** — quando um problema "parece" indecidível, o caminho padrão é reduzir o Problema da Parada a ele, não tentar (inutilmente) construir um algoritmo que o resolva.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Ferramentas gratuitas
 
@@ -75,12 +75,12 @@ O que dominar: uma visão panorâmica de dois modelos alternativos de computaç�
 - SIPSER, M. _Introdução à Teoria da Computação_ — a referência mais didática da área; começa exatamente na ordem desta trilha (regular → livre de contexto → Turing → computabilidade).
 - HOPCROFT, J. E., ULLMAN, J. D., MOTWANI, R. _Introdução à Teoria de Autômatos, Linguagens e Computação_ — mais denso que o Sipser, ótimo como referência de consulta depois da primeira leitura.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Automata Theory — Stanford (Jeffrey Ullman)](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory) — curso gratuito do coautor de um dos livros-base da disciplina.
 - [Computerphile — Halting Problem](https://www.youtube.com/watch?v=92WHN-pAFCs) — a explicação em vídeo mais clara e curta que existe do Problema da Parada, em inglês com legendas disponíveis.
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos|Linguagens Formais e Autômatos]] — a disciplina do 5º período que cobre exatamente esta trilha.
+- [[pt-br/resource/Engenharia de Computação/5-periodo/linguagens-formais-e-automatos/Linguagens Formais e Autômatos|Linguagens Formais e Autômatos]] — a disciplina do 5º período que cobre exatamente esta trilha.
 - [[pt-br/resource/computacao/compiladores|Compiladores]] — a tranca direta: análise léxica usa expressões regulares/AFD, e análise sintática usa gramáticas livres de contexto/autômato de pilha, ambos apresentados aqui pela primeira vez.

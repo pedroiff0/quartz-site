@@ -1,10 +1,9 @@
 ---
-aliases:
-  - index
 publish: false
 title: "Inglês"
+status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-14 22:05
+modified: 2026-09-15 21:34
 tags:
   - idioma
   - ingles
@@ -13,9 +12,9 @@ cssclasses:
   - page-layout
 ---
 
-# 🇬🇧 Curso de Inglês
+# Curso de Inglês
 
-> [!info] 📌 Informações Gerais do Idioma
+> [!info] Informações Gerais do Idioma
 > - **Família Linguística:** Indo-Europeia (Germânica Ocidental)
 > - **Sistema de Escrita:** Alfabeto Latino Básico (26 letras sem acentos nativos)
 > - **Nível Atual:** A1 (Iniciante) | **Nível Alvo:** B2 (Independência & Fluência)
@@ -23,9 +22,9 @@ cssclasses:
 
 ---
 
-## 📋 Conteúdo Programático & Trilha Curricular
+## Conteúdo Programático & Trilha Curricular
 
-> [!tip] 🗺️ Módulos de Aprendizado
+> [!tip] Módulos de Aprendizado
 > - [ ] **Módulo 1: Fundamentos, Fonética & Alfabeto (A1.1)**
 > 	- [ ] Fonemas fundamentais, vogais e consoantes diferenciais
 > 	- [ ] Saudações, apresentações formais e informais
@@ -47,12 +46,12 @@ cssclasses:
 
 ---
 
-## 📝 Anotações e Acesso às Lições
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações]]**
-- 📋 **[[KANBAN|Quadro Kanban de Aprendizado de Inglês]]**
+## Anotações e Acesso às Lições
+-  **Repositório de Anotações**
+-  **[[KANBAN|Quadro Kanban de Aprendizado de Inglês]]**
 
-## 🎓 Aulas & Lições
+## Aulas & Lições
 
-- [[pt-br/resource/idiomas/ingles/Anotações/Esboço/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01]] — Fonética do Inglês (Sons do TH, Vogais Curtas/Longas) e Saudações
-- [[pt-br/resource/idiomas/ingles/Anotações/Esboço/aula-02-pronomes-e-verbos-essenciais|Aula 02]] — Pronomes Pessoais, Verbo To Be e To Have
-- [[pt-br/resource/idiomas/ingles/Anotações/Esboço/aula-03-numeros-e-apresentacao-pessoal|Aula 03]] — Números, Rotina e Pitch de Apresentação Pessoal (Elevator Pitch)
+- [[pt-br/resource/idiomas/ingles/Anotações/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01]] — Fonética do Inglês (Sons do TH, Vogais Curtas/Longas) e Saudações
+- [[pt-br/resource/idiomas/ingles/Anotações/aula-02-pronomes-e-verbos-essenciais|Aula 02]] — Pronomes Pessoais, Verbo To Be e To Have
+- [[pt-br/resource/idiomas/ingles/Anotações/aula-03-numeros-e-apresentacao-pessoal|Aula 03]] — Números, Rotina e Pitch de Apresentação Pessoal (Elevator Pitch)

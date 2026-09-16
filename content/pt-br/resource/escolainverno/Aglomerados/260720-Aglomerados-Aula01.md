@@ -6,7 +6,7 @@ discipline: Astrofísica Extragaláctica
 content: Aglomerados de Galáxias — as maiores estruturas gravitacionalmente ligadas do Universo
 professor: Rogério Monteiro-Oliveira
 created: 2026-07-20 13:34
-modified: 2026-09-12 11:20
+modified: 2026-09-15 21:34
 tags:
   - escola-de-inverno-on
   - astrofisica-extragalactica
@@ -18,7 +18,7 @@ cssclasses:
   - center-images
 ---
 
-**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/Aglomerados/Aglomerados-Aula02|Aglomerados-Aula02 →]]
+**Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Aglomerados/Aglomerados-Aula02|Aglomerados-Aula02 →]]
 # Notas de Aula — Aglomerados de Galáxias
 
 > [!info] Informações da aula
@@ -28,11 +28,11 @@ cssclasses:
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 Um **aglomerado de galáxias** é a maior estrutura do cosmos que já colapsou gravitacionalmente e atingiu equilíbrio (virialização). Acima dessa escala, o Universo ainda está se expandindo e não formou objetos ligados — por isso aglomerados são laboratórios naturais para estudar gravidade, matéria escura e a formação de estruturas em grande escala. A aula introduz a hierarquia de escalas do Universo, a composição física de um aglomerado (galáxias + gás quente + matéria escura) e as diferentes janelas observacionais (óptico, raio-X, micro-ondas) usadas para detectá-los.
 
-### 📑 Tópicos abordados
+### Tópicos abordados
 1. Escalas do cosmos
 2. A "receita" de um aglomerado (do que ele é feito)
 3. Como detectar aglomerados
@@ -191,7 +191,7 @@ Mapeia a massa **total** (incluindo matéria escura) de forma independente do g�
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Virialização:** estado de equilíbrio dinâmico atingido após o colapso gravitacional de uma estrutura.
 - **$R_{200}$ / $M_{200}$:** raio e massa definidos pela região onde a densidade média é 200× a densidade crítica do Universo.
@@ -201,7 +201,7 @@ Mapeia a massa **total** (incluindo matéria escura) de forma independente do g�
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 1)
 > 1. **Qual a melhor técnica, fotometria ou espectroscopia?** R.: Um meio-termo — fotometria de banda estreita de alta resolução espectral, como o levantamento **J-PAS**, combina velocidade (fotometria) com boa resolução em redshift (próxima da espectroscópica).
@@ -211,6 +211,6 @@ Mapeia a massa **total** (incluindo matéria escura) de forma independente do g�
 
 ---
 
-## 🔗 Referências
+## Referências
 - [Página do Prof. Rogério Monteiro-Oliveira — Aula 01](https://www.monteiro-oliveira.com/talks)
 - Simulação **Millennium Run**

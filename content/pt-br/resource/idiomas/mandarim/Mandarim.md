@@ -1,10 +1,9 @@
 ---
-aliases:
-  - index
 publish: false
 title: "Mandarim"
+status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-14 22:05
+modified: 2026-09-15 21:34
 tags:
   - idioma
   - mandarim
@@ -13,9 +12,9 @@ cssclasses:
   - page-layout
 ---
 
-# 🇨🇳 Curso de Mandarim
+# Curso de Mandarim
 
-> [!info] 📌 Informações Gerais do Idioma
+> [!info] Informações Gerais do Idioma
 > - **Família Linguística:** Sino-Tibetana (Língua Sínica)
 > - **Sistema de Escrita:** Pinyin (romanização oficial) + Caracteres Chineses Simplificados (Hanzi)
 > - **Nível Atual:** A1 (Iniciante) | **Nível Alvo:** B2 (Independência & Fluência)
@@ -23,9 +22,9 @@ cssclasses:
 
 ---
 
-## 📋 Conteúdo Programático & Trilha Curricular
+## Conteúdo Programático & Trilha Curricular
 
-> [!tip] 🗺️ Módulos de Aprendizado
+> [!tip] Módulos de Aprendizado
 > - [ ] **Módulo 1: Fundamentos, Fonética & Alfabeto (A1.1)**
 > 	- [ ] Fonemas fundamentais, vogais e consoantes diferenciais
 > 	- [ ] Saudações, apresentações formais e informais
@@ -47,12 +46,12 @@ cssclasses:
 
 ---
 
-## 📝 Anotações e Acesso às Lições
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações]]**
-- 📋 **[[KANBAN|Quadro Kanban de Aprendizado de Mandarim]]**
+## Anotações e Acesso às Lições
+-  **Repositório de Anotações**
+-  **[[KANBAN|Quadro Kanban de Aprendizado de Mandarim]]**
 
-## 🎓 Aulas & Lições
+## Aulas & Lições
 
-- [[pt-br/resource/idiomas/mandarim/Anotações/Esboço/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01]] — Pinyin, os 4 Tons do Mandarim e Saudações Iniciais
-- [[pt-br/resource/idiomas/mandarim/Anotações/Esboço/aula-02-pronomes-e-verbos-essenciais|Aula 02]] — Pronomes Pessoais e Verbos Fundamentais (Shì, Yǒu, Zài)
-- [[pt-br/resource/idiomas/mandarim/Anotações/Esboço/aula-03-numeros-e-apresentacao-pessoal|Aula 03]] — Números de 0 a 99, Países e Autoapresentação
+- [[pt-br/resource/idiomas/mandarim/Anotações/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01]] — Pinyin, os 4 Tons do Mandarim e Saudações Iniciais
+- [[pt-br/resource/idiomas/mandarim/Anotações/aula-02-pronomes-e-verbos-essenciais|Aula 02]] — Pronomes Pessoais e Verbos Fundamentais (Shì, Yǒu, Zài)
+- [[pt-br/resource/idiomas/mandarim/Anotações/aula-03-numeros-e-apresentacao-pessoal|Aula 03]] — Números de 0 a 99, Países e Autoapresentação

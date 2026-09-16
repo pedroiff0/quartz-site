@@ -1,31 +1,28 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "10º Período"
 created: 2026-07-21 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 cssclasses:
   - page-layout
 ---
 
 
-> [!info] 🎓 Visão Geral e Carga Horária do Período
+> [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `360h`
 > - **Resumo Pedagógico:** Defesa pública do PFC II e consolidação do Estágio Supervisionado.
 
 
-> [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[[pt-br/resource/Engenharia de Computação/10-periodo/projeto-final-de-curso-ii/index|Projeto Final de Curso II (PFC II)]]** (`160h` · Núcleo Especifico)
-> - 📘 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]** (`200h` · Núcleo Especifico)
+> [!note]  Grade Curricular e Disciplinas Integrantes
+> -  **[[pt-br/resource/Engenharia de Computação/10-periodo/projeto-final-de-curso-ii/Projeto Final de Curso II|Projeto Final de Curso II (PFC II)]]** (`160h` · Núcleo Especifico)
+> -  **Anotações da Disciplina** (`200h` · Núcleo Especifico)
 
 
-> [!tip] 📎 Documentos e Horários Institucionais
-> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
-> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
+> [!tip]  Documentos e Horários Institucionais
+> -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
+> -  **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
 
-## 🎨 Carrossel de Disciplinas do Período
+## Carrossel de Disciplinas do Período
 
 Navegue interativamente pelas disciplinas deste bloco letivo:
 

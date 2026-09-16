@@ -28,6 +28,10 @@ configuration:
     - "**/README*"
     - "**/*README*"
     - "**/README - *"
+    - "CLAUDE.md"
+    - "**/CLAUDE.md"
+    - "content/assets/**/*.md"
+    - "**/assets/**/*.md"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

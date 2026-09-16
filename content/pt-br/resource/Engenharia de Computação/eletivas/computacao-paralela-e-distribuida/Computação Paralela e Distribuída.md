@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Computação Paralela e Distribuída"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.87`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralela e distribuída. Tópicos emergentes em computação paralela e distribuída.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Prover conhecimento e experiência em programação paralela para o desenvolvimento de software que tenha como requisito a sua execução em um ambiente paralelo e distribuído.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/index|CSECBJI.86 - Algoritmos Distribuídos]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Algoritmos Distribuídos|CSECBJI.86 - Algoritmos Distribuídos]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Sistemas de Trocas de Mensagens**
 > - **2. Processadores de Comunicação**
 > - **3. Alocação de Processadores**
@@ -66,13 +63,13 @@ cssclasses:
 > 	- Dinning Philosopers
 > 	- Drinking Philosopers
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
 > 2. Porto Alegre: Bookman, 2007.
 > 3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
 > 4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
 > 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
 > 3. Pearson, 2013.
@@ -83,15 +80,5 @@ cssclasses:
 > 8. Porto Alegre: Bookman, 2018.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/Anotações/Esboço/aula-01-sistemas-de-trocas-de-mensagens|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/Anotações/Esboço/aula-02-processadores-de-comunicação|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/Anotações/Esboço/aula-03-alocação-de-processadores|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/Anotações/Esboço/aula-04-modelos-síncrono-e-assíncrono-de-computa|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/Anotações/Esboço/aula-05-computações-em-sistemas-anônimos|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/Anotações/Esboço/aula-06-limitações-intrínsecas|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

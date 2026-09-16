@@ -1,0 +1,51 @@
+---
+title: "SpectroTranslator: Deep-neural network algorithm for homogenising spectroscopic parameters"
+first_author: Thomas, G.~F.
+year: "2024"
+tags:
+  - paper
+  - pesquisa
+status: Não lido
+pdf_link: "[Thomas2024.pdf](02%20-%20Áreas/Acadêmico/Pesquisas/Detecção%20de%20Anomalias/papers/PDFs/Thomas2024.pdf)"
+created: 2026-03-06 13:34
+modified: 2026-09-14 20:12
+cssclasses:
+  - page-layout
+---
+
+# Notas — SpectroTranslator: Deep-neural network algorithm for homogenising spectroscopic parameters
+[PDF](02%20-%20Áreas/Acadêmico/Pesquisas/Detecção%20de%20Anomalias/papers/PDFs/Thomas2024.pdf) | [[01%20-%20Projetos/Anomaly_Detection/papers/Notes/Thomas2024|Nota]]
+
+## Perguntas / Respostas / Notas
+- Perguntas:
+  - 
+- Notas:
+  - 
+- Dados:
+  - 
+
+---
+## BibTeX
+```bibtex
+@ARTICLE{Thomas2024,
+       author = {{Thomas}, G.~F. and {Battaglia}, G. and {Gran}, F. and {Fern{\'a}ndez-Alvar}, E. and {Tsantaki}, M. and {Pancino}, E. and {Hill}, V. and {Kordopatis}, G. and {Gallart}, C. and {Turchi}, A. and {Masseron}, T.},
+        title = "{SpectroTranslator: Deep-neural network algorithm for homogenising spectroscopic parameters}",
+      journal = {\aap},
+     keywords = {methods: data analysis, techniques: spectroscopic, catalogs, stars: abundances, stars: fundamental parameters, Galaxy: abundances, Astrophysics - Astrophysics of Galaxies},
+         year = 2024,
+        month = oct,
+       volume = {690},
+          eid = {A54},
+        pages = {A54},
+          doi = {10.1051/0004-6361/202450198},
+archivePrefix = {arXiv},
+       eprint = {2404.02578},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024A&A...690A..54T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+
+---
+## Como citar?
+THOMAS, G. et al. SpectroTranslator: Deep-neural network algorithm for homogenising spectroscopic parameters **Astronomy & Astrophysics**,  v. 690, p. A54,

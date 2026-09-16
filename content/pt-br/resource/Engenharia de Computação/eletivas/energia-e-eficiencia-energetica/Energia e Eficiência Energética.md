@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Energia e Eficiência Energética"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.82`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprimento de energia – estrutura brasileira. Energia e desenvolvimento. Fontes convencionais. Fontes não convencionais. Energia - Recursos naturais. Usos da energia, conservação. Recursos renováveis – Desenvolvimento sustentável.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Analisar as possíveis alternativas energéticas (renováveis e não renováveis) com base nas diferentes tecnologias aplicáveis e nos respectivos impactos ambientais, visando à minoração de problemas ambientais e sociais.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/5-periodo/eletricidade-aplicada/index|CSECBJI.33 - Eletricidade Aplicada]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/5-periodo/eletricidade-aplicada/Eletricidade Aplicada|CSECBJI.33 - Eletricidade Aplicada]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Energia x Recursos Naturais**
 > 	- Introdução
 > 	- Questão Energética na Atualidade
@@ -60,12 +57,12 @@ cssclasses:
 > 	- Papel da Política Energética Nacional
 > - **5. Perspectivas Energéticas**
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. GOLDEMBERG, J., PALETTA, F. C. Energias renováveis. São Paulo: Blucher, 2012.
 > 2. HINRICHS, R., KLEINBACH, M. H. Energia e meio ambiente. São Paulo: Cengage, 2013.
 > 3. REIS, L. B., FADIGAS, E. A. A., CARVALHO, C. E. Energia, recursos naturais e a prática do desenvolvimento sustentável. 2ª Edição. São Paulo: Manole, 2011.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. ABREU, F. V. Biogás: Economia, Regulação e Sustentabilidade. Rio de Janeiro: Interciência,
 > 2. BALFOUR, J., SHAW, M., NASH, N. B. Introdução de Sistemas Fotovoltaicos. Rio de Janeiro:
 > 3. LTC, 2016.
@@ -74,15 +71,5 @@ cssclasses:
 > 6. REIS, L. B. Geração de energia elétrica: tecnologia, inserção ambiental, planejamento, peração e análise de viabilidade. 3ª Edição. São Paulo: Manole, 2017.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/eletivas/energia-e-eficiencia-energetica/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/energia-e-eficiencia-energetica/Anotações/Esboço/aula-01-energia-x-recursos-naturais|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/energia-e-eficiencia-energetica/Anotações/Esboço/aula-02-introdução|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/energia-e-eficiencia-energetica/Anotações/Esboço/aula-03-questão-energética-na-atualidade|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/energia-e-eficiencia-energetica/Anotações/Esboço/aula-04-a-busca-de-soluções-energéticas-para-o-d|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/energia-e-eficiencia-energetica/Anotações/Esboço/aula-05-cadeia-energética|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/energia-e-eficiencia-energetica/Anotações/Esboço/aula-06-recursos-energético|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

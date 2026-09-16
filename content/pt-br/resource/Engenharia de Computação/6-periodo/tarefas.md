@@ -2,7 +2,7 @@
 publish: false
 title: "Tarefas do 6º Período"
 created: 2026-08-24 18:56
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - academico
   - tarefa
@@ -11,7 +11,7 @@ cssclasses:
   - page-layout
 ---
 
-# 📋 Painel Geral de Tarefas (6º Período)
+# Painel Geral de Tarefas (6º Período)
 
 Este painel consolida automaticamente as tarefas e pendências de estudo mapeadas dentro das **anotações de aula e cadernos de atividades** das disciplinas do 6º período. Ementas teóricas e conteúdos programáticos são estritamente excluídos deste quadro.
 

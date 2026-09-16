@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 — Conceito e Histórico
 created: 2026-07-23 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -18,9 +18,9 @@ content: O que é arqueologia galáctica, o conceito de população estelar simp
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares →]]
 
-# 🏛️ Aula 01 — Conceito e Histórico
+# Aula 01 — Conceito e Histórico
 
 > [!note] Resumo
 > Arqueologia galáctica é o uso da composição química, cinemática, posição e idade das estrelas como "fósseis" para reconstruir a história de formação da Via Láctea. Esta aula percorre o conceito de população estelar simples e o histórico — de Herschel a Searle & Zinn — que levou à identificação das populações I e II.
@@ -33,7 +33,7 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 🎯 Conceito e escopo de Arqueologia Galáctica
+## Conceito e escopo de Arqueologia Galáctica
 
 O termo é frequentemente aplicado para descrever pesquisas sobre a formação e a história da Via Láctea e suas populações estelares, combinando dinâmica, química, idade e posição para reconstruir essa história \[Helmi 2020, _Streams, Substructures, and the Early History of the Milky Way_; Freeman & Bland-Hawthorn 2002, _The New Galaxy: Signatures of Its Formation_].
 
@@ -46,7 +46,7 @@ O termo é frequentemente aplicado para descrever pesquisas sobre a formação e
 
 Dados como os do Gaia DR2 (~1,8 bilhão de estrelas) e do APOGEE DR16 (química + dinâmica combinadas) são a base observacional moderna dessa reconstrução.
 
-## 🌌 A história da Via Láctea, em linhas gerais
+## A história da Via Láctea, em linhas gerais
 
 O quadro atual (ex.: Xiao+2025, Semenov+2024, Naidu+2021, Helmi+2018) organiza a formação da Galáxia em estágios aproximados:
 
@@ -59,7 +59,7 @@ O quadro atual (ex.: Xiao+2025, Semenov+2024, Naidu+2021, Helmi+2018) organiza a
 
 Esse roteiro é reconstruído justamente com as ferramentas que o curso desenvolve — órbitas, química, idades — e será revisitado em detalhe nas Unidades 3, 4, 6 e 7 da ementa.
 
-## ⭐ O conceito de população estelar
+## O conceito de população estelar
 
 O objetivo central da área é compreender a formação e evolução das galáxias através das propriedades de seus constituintes. Para isso, admite-se que uma galáxia pode ser desmembrada em **populações**: grupos de estrelas, aglomerados e gás que compartilham propriedades comuns.
 
@@ -77,7 +77,7 @@ O bojo, o halo e o disco galáctico são exemplos de **populações compostas**.
 
 O conceito de SSP também permite reconstruir o **espectro integrado** de uma galáxia como soma ponderada dos espectros de suas populações estelares \[Conroy 2013].
 
-## 📜 Histórico dos estudos galácticos
+## Histórico dos estudos galácticos
 
 ### Estrutura da Galáxia (séc. XVIII–XX)
 
@@ -110,7 +110,7 @@ A comparação da Via Láctea com Andrômeda permitiu inferir os componentes est
 > [!info]- A conferência do Vaticano de 1957
 > Em 1957, uma histórica conferência da Academia Pontifícia de Ciências e do Observatório do Vaticano propôs uma nova divisão de populações estelares da Galáxia — mas o esquema, apesar do consenso na época, caiu em desuso ao final da década seguinte.
 
-## 🧩 O primeiro modelo e o sinal de acréscimo
+## O primeiro modelo e o sinal de acréscimo
 
 O **Modelo Monolítico** \[Eggen, Lynden-Bell & Sandage 1962] foi a primeira tentativa de explicar quantitativamente a formação da Galáxia, propondo um colapso rápido e relativamente uniforme de uma nuvem primordial.
 
@@ -120,13 +120,13 @@ Esse é o embrião histórico do paradigma moderno de formação hierárquica qu
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **SSP (População Estelar Simples):** grupo coevo, quimicamente homogêneo, com cinemática semelhante — o "bloco de construção" de qualquer população composta (bojo, disco, halo).
 - **População I / População II:** classificação de Baade por idade, metalicidade, cinemática e associação estrutural (disco vs. bojo/halo).
 - **Modelo Monolítico → formação hierárquica:** Searle & Zinn (1978) foi o primeiro indício observacional de que o halo se formou por acréscimo de fragmentos, não por colapso único.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Helmi (2020) — _Streams, Substructures, and the Early History of the Milky Way_, ARA\&A 58, 205
 - Freeman & Bland-Hawthorn (2002) — _The New Galaxy: Signatures of Its Formation_
@@ -134,7 +134,7 @@ Esse é o embrião histórico do paradigma moderno de formação hierárquica qu
 - Baade (1944) — identificação das populações I e II
 - Eggen, Lynden-Bell & Sandage (1962) — Modelo Monolítico
 - Searle & Zinn (1978) — sinal de acréscimo no halo
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]]
 - [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica]] — minicurso irmão, de escopo mais curto, sobre o mesmo tema geral
-- [[pt-br/projects/Acadêmico/Anomaly_Detection/README|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa usa exatamente os dados de populações estelares introduzidos aqui
+- [[pt-br/projects/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — minha pesquisa usa exatamente os dados de populações estelares introduzidos aqui

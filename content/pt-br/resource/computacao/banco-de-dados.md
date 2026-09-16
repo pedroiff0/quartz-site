@@ -2,7 +2,7 @@
 publish: false
 title: Banco de Dados
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -27,7 +27,7 @@ Aprenda o que é tabela, linha, coluna, chave primária e chave estrangeira, e d
 
 ### 2. Modelagem e normalização (intermediário)
 
-Aprenda a projetar o banco antes de criá-lo: modelo entidade-relacionamento, mapeamento para tabelas e formas normais (1FN, 2FN, 3FN). Pratique modelando sistemas que você conhece: a biblioteca do campus, um sistema de matrículas, um delivery. Este passo tem trilha própria em [[pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados|Modelagem de Dados]]. Tempo típico: 4 a 6 semanas.
+Aprenda a projetar o banco antes de criá-lo: modelo entidade-relacionamento, mapeamento para tabelas e formas normais (1FN, 2FN, 3FN). Pratique modelando sistemas que você conhece: a biblioteca do campus, um sistema de matrículas, um delivery. Este passo tem trilha própria em [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/Modelagem de Dados|Modelagem de Dados]]. Tempo típico: 4 a 6 semanas.
 
 ### 3. Transações, índices e desempenho (intermediário-avançado)
 
@@ -56,7 +56,7 @@ Backup e recuperação, controle de acesso, replicação e noções de bancos n�
 - **Ignorar transações até o primeiro dado corrompido.** Operações de múltiplos passos sem transação funcionam em desenvolvimento e quebram em produção, no pior momento possível. Adquira o hábito antes do acidente.
 - **Pular a modelagem e sair criando tabelas.** Corrigir um esquema mal projetado com sistema em produção é dolorosíssimo — migração de dados, downtime, risco. Uma hora de diagrama economiza semanas de refatoração.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 **Livros abertos (licença pública):**
 
@@ -68,7 +68,7 @@ Backup e recuperação, controle de acesso, replicação e noções de bancos n�
 - DATE, C. J. _Introdução a Sistemas de Bancos de Dados_. O clássico teórico — rigoroso sobre o modelo relacional e suas fundações. Leitura que dá profundidade depois que você já pratica SQL.
 - ELMASRI, R.; NAVATHE, S. _Sistemas de Banco de Dados_. O livro-texto mais adotado nas universidades brasileiras; equilibra teoria e prática e cobre praticamente toda a ementa da disciplina.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: SQL](https://roadmap.sh/sql) — mapa completo do que aprender em SQL, do básico ao avançado. Use para se localizar e marcar progresso.
 - [Roadmap: PostgreSQL DBA](https://roadmap.sh/postgresql-dba) — a trilha de administração de banco: backup, replicação, tuning. Para quando você já domina SQL e quer o lado de operação.
@@ -77,5 +77,5 @@ Backup e recuperação, controle de acesso, replicação e noções de bancos n�
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados|Modelagem de Dados]] — o projeto conceitual que antecede o banco: entidades, relacionamentos e normalização.
-- [[pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados|Banco de Dados]] — a disciplina central: SQL, transações, índices e a prática com SGBDs reais.
+- [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/Modelagem de Dados|Modelagem de Dados]] — o projeto conceitual que antecede o banco: entidades, relacionamentos e normalização.
+- [[pt-br/resource/Engenharia de Computação/6-periodo/banco-de-dados/Banco de Dados|Banco de Dados]] — a disciplina central: SQL, transações, índices e a prática com SGBDs reais.

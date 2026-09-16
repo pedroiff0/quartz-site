@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Paradigmas de Linguagem de Programação"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.38`
 > - **Período:** 5º Período | **Núcleo:** Profissionalizante | **Carga Horária:** —
 > - **Docente Responsável:** Wesley Folly (wesley.souza@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Visão geral de linguagens de programação: valores e tipos; variáveis e comandos; associações e escopo; abstração e mecanismos de passagens de parâmetros; encapsulamento; sistema de tipos; sequenciadores; concorrência. Paradigmas: imperativo, funcional, lógico, orientado a objetos e paradigmas híbridos.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Compreender os principais conceitos e paradigmas das linguagens de programação permitindo a seleção de uma linguagem mais adequada para solução de um dado problema.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/index|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/index|CSECBJI.45 - Programação Orientada a Objetos I]]
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Algoritmos e Técnicas de Programação|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/Programação Orientada a Objetos I|CSECBJI.45 - Programação Orientada a Objetos I]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Visão Geral de Linguagens de Programação**
 > 	- Conceito e Paradigmas
 > 	- Sintaxe Semântica
@@ -75,12 +72,12 @@ cssclasses:
 > 	- Programação Lógico
 > 	- Paradigmas híbridos
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. SEBESTA, R. W. Conceitos de Linguagens de Programação. 11ª Edição. Porto Alegre: Bookman, 2018.
 > 2. TUCKER, A. B., NOOMAN, R. Linguagens de Programação: Princípios e Paradigmas. 2ª Edição. São Paulo: McGraw Hill, 2009.
 > 3. WAMPLER, D. Programação Funcional para Desenvolvedores Java. São Paulo: Novatec, 2012.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. DONOVAN, A. A. A., KERNIGHAN, B. W. A Linguagem de Programação GO. São Paulo: Novatec, 2017.
 > 2. DOSXEY, C. Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis. São Paulo:
 > 3. Novatec: 2016.
@@ -89,15 +86,5 @@ cssclasses:
 > 6. RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz. São Paulo: Novatec, 2015.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/Anotações/Esboço/aula-01-visão-geral-de-linguagens-de-programação|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/Anotações/Esboço/aula-02-conceito-e-paradigmas|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/Anotações/Esboço/aula-03-sintaxe-semântica|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/Anotações/Esboço/aula-04-compiladores-e-interpretadores|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/Anotações/Esboço/aula-05-valores-e-tipos|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/Anotações/Esboço/aula-06-valores-e-tipos|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

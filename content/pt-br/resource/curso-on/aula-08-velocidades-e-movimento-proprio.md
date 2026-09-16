@@ -2,7 +2,7 @@
 publish: false
 title: Aula 08 — Velocidades e Movimento Próprio
 created: 2026-07-23 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -18,9 +18,9 @@ content: Velocidade radial e tangencial, o Padrão Local de Repouso e o moviment
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|← Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|← Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento →]]
 
-# 🚀 Aula 08 — Velocidades e Movimento Próprio
+# Aula 08 — Velocidades e Movimento Próprio
 
 > [!note] Resumo
 > A última peça do quebra-cabeça (posição, química, idade e agora cinemática): como decompor a velocidade espacial de uma estrela em componentes radial e tangencial, e como referenciá-las ao Padrão Local de Repouso da Galáxia — a base observacional para qualquer estudo de dinâmica estelar (Unidade 3 da ementa).
@@ -32,7 +32,7 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 🎯 Velocidade radial e tangencial
+## Velocidade radial e tangencial
 
 A velocidade espacial de uma estrela, com respeito ao Sol, decompõe-se em dois vetores:
 
@@ -43,11 +43,11 @@ $v_R = c\,\frac{\Delta\lambda}{\lambda_0}$
 
 onde $\Delta\lambda$ é o deslocamento Doppler e $\lambda_0$ o comprimento de onda de repouso da transição. O que é medido diretamente ao telescópio é a $v_R$ **topocêntrica**, que precisa ser corrigida sucessivamente para o centro da Terra ($v_R$ geocêntrica) e depois para o centro do Sol ($v_R$ heliocêntrica).
 
-## 🗺️ Referencial das velocidades espaciais
+## Referencial das velocidades espaciais
 
 O referencial de velocidades na Galáxia baseia-se no sistema de coordenadas galácticas cartesianas (Aula 07), com as mesmas ambiguidades de convenção quanto à direção do eixo radial. As componentes cartesianas de velocidade chamam-se $(U,V,W)$; quando reduzidas ao **Referencial de Repouso da Galáxia**, usam-se as componentes cilíndricas $(\Pi,\Theta,Z)$ que, na vizinhança solar, coincidem numericamente com $(U,V,W)$.
 
-## 🧭 Padrão Local de Repouso (LSR)
+## Padrão Local de Repouso (LSR)
 
 O **LSR** é definido pela velocidade **média** das estrelas na vizinhança solar. Como o único movimento global dessa vizinhança é rotacional, o LSR corresponde à velocidade circular na posição do Sol:
 
@@ -64,7 +64,7 @@ Para estudos de dinâmica galáctica, é mais apropriado remover a contribuiçã
 - **Com respeito ao LSR:** velocidade radial que um observador movendo-se junto ao LSR mediria.
 - **Com respeito ao Padrão Galáctico de Repouso (adotando $\Theta_0=220\,$km/s):** velocidade radial que um observador **estacionário** no referencial de repouso da Galáxia, na posição atual do Sol, mediria. Este é o referencial mais adequado para estudar a distribuição de velocidades de estrelas em diferentes direções do céu.
 
-## 🎯 Movimento próprio
+## Movimento próprio
 
 O deslocamento aparente de uma estrela na esfera celeste, causado pela sua velocidade **tangencial**, chama-se **movimento próprio**. É medido em arcosegundos percorridos por unidade de tempo — tipicamente **miliarcossegundos/ano (mas/yr)**.
 
@@ -81,17 +81,17 @@ Movimentos próprios típicos são $< 0{,}1''$/ano; poucas estrelas têm $\mu > 
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Velocidade radial (Doppler) + velocidade tangencial (movimento próprio + distância) = velocidade espacial completa.**
 - **LSR:** velocidade circular média na posição do Sol, $\Theta_0\approx220\,$km/s; o Sol tem velocidade peculiar própria em relação a ele, $(u,v,w)_\odot=(-9,11,6)\,$km/s.
 - **Movimento próprio depende de distância:** um mesmo $v_{tan}$ produz $\mu$ maior quanto mais próxima a estrela — cuidado ao comparar $\mu$ entre populações a distâncias muito diferentes.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Mihalas & Binney (1980), Cap. 6 — determinação do movimento solar em relação ao LSR
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas]] — pré-requisito direto (distância entra na conversão $\mu \to v_{tan}$)
 - [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento]] — $(U,V,W)$ e o LSR desta aula tornam-se condições iniciais para integração de órbitas
-- [[pt-br/projects/Acadêmico/Anomaly_Detection/README|Detecção de Anomalias em Dados do Gaia]] — cinemática LSR é um dos filtros de pré-processamento usados na minha pesquisa
+- [[pt-br/projects/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — cinemática LSR é um dos filtros de pré-processamento usados na minha pesquisa
 - [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 03]] — LSR e velocidade peculiar aplicadas na prática para separar disco fino/espesso/halo via diagrama de Toomre

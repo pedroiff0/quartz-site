@@ -2,7 +2,7 @@
 publish: true
 title: "Aula 03 -  Correção"
 created: 2026-09-11 23:15
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 encrypted: true
 password: "eng232"
 tags:
@@ -21,32 +21,32 @@ cssclasses:
   </div>
 </div>
 
-# 📝 Aula 03 -  Correção
+# Aula 03 -  Correção
 
-> [!info] 📌 Informações da Aula
+> [!info]  Informações da Aula
 > - **Docente:** 
 > - **Data da Aula:** 11/09/2026
 > - **Tópico Central:** 
 > - **Status das Anotações:** 
->   - [ ] 🟡 Planejando 
->   - [x] 🟠 Em Andamento 
->   - [ ] 🟢 Concluído
+>   - [ ]  Planejando 
+>   - [x]  Em Andamento 
+>   - [ ]  Concluído
 
-## 📂 Materiais & Recursos Didáticos da Aula
+## Materiais & Recursos Didáticos da Aula
 
 > [!tip] 🔗 Arquivos e Materiais da Disciplina
 > - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
 > - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
 > - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
-## 📋 Sumário Interativo
-- [📍 Anotações](#-anotações)
-- [🧠 Resumo](#-resumo)
-- [📝 Dúvida](#-dúvida)
+## Sumário Interativo
+- [ Anotações](#-anotações)
+- [ Resumo](#-resumo)
+- [ Dúvida](#-dúvida)
 
 ---
 
-## 📍 Anotações
+## Anotações
 
 ### 11/09
 
@@ -91,13 +91,13 @@ Decisões:
 * Quais X não reduzem o custo?
 * Quais grupos cobrem todos os 1 sem incluir o 0?
 
-![[ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf#page=159&rect=137,1433,835,1974|ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.159]]
+> 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.159]*
 
 $$S= \bar{A}C + \bar{A}\bar{D} + A\bar{C}D$$
 
 Exercício Resolvido 1
 
-![[ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf#page=160&rect=214,1763,1337,2085|ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.160]]
+> 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.160]*
 $$S= \bar{B} + C$$
 Exemplo Resolvido 2
 
@@ -127,7 +127,7 @@ Exemplo Resolvido 2
 | ${A}$     | X         | 1         | 0     | X         | ${B}$     |
 | ${A}$     | 1         | 0         | 1     | X         | $\bar{B}$ |
 | Casos     | $\bar{D}$ | $D$       | $D$   | $\bar{D}$ | Casos     |
-![[ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf#page=161&rect=143,1039,653,1564|ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.161]]
+> 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.161]*
 
 $$S = \bar{D} + B\bar{C} + A\bar{B}C$$
 
@@ -146,7 +146,7 @@ Teste é no papel pro karnough
 | 0   | 1   | 0     | 1        | 1     | 0        |
 | 1   | 0   | 1     | 0        | 0     | 1        |
 | 1   | 1   | 1     | 0        | 0     | 1        |
-![[ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf#page=182&rect=207,575,957,1130|ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.182]]
+> 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.182]*
 
 | Caso |  A  |  B  | C   | $E_V$ | $B_0$ | Interpretação                     |
 | :--: | :-: | :-: | --- | ----- | ----- | --------------------------------- |
@@ -158,9 +158,9 @@ Teste é no papel pro karnough
 |  5   |  1  |  0  | 1   | X     | X     | IMPOSSIVEL                        |
 |  6   |  1  |  1  | 0   | 0     | 1     | Caixa inferior cheia, bombear     |
 |  7   |  1  |  1  | 1   | 0     | 0     | Ambas cheias                      |
-![[ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf#page=184&rect=209,310,1212,650|ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.184]]
+> 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.184]*
 
-![[ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf#page=185&rect=154,1411,770,1722|ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.185]]
+> 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.185]*
 
 4 variáveis
 
@@ -168,24 +168,24 @@ Ordem de prioridade
 
 A>B>C>D
 
-![[ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf#page=186&rect=179,321,1489,1260|ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.186]]
-![[ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415.pdf#page=187&rect=171,239,921,969|ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.187]]
+> 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.186]*
+> 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.187]*
 
 
 
 ---
 
-## 🧠 Resumo
+## Resumo
 
 | Tópico                 | Princípio Central | Atenção Especial / Pegadinha |
 | :--------------------- | :---------------- | :--------------------------- |
 | Condições Irrelevantes |                   |                              |
 
-> [!tip] 💡 Dica de Prova do Professor
+> [!tip]  Dica de Prova do Professor
 > Destaques e orientações mencionadas pelo docente durante a aula.
 
 ---
 
-## 📝 Dúvidas/Tarefas
+## Dúvidas/Tarefas
 - [x] Exercício Resolvido da seção 3.9.6.1
 - [ ] Exercício de 4 variáveis

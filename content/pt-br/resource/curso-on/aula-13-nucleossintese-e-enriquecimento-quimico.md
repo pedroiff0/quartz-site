@@ -2,7 +2,7 @@
 publish: false
 title: Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 created: 2026-07-25 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -19,9 +19,9 @@ content: Nucleossíntese primordial (BBN) e estelar — queima de H/He, dragagen
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|← Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|← Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos →]]
 
-# ⚛️ Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
+# Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 
 > [!note] Resumo
 > De onde vêm os elementos químicos que a arqueologia galáctica usa como "fósseis"? Esta aula percorre a nucleossíntese primordial (Big Bang) e todos os processos nucleossintéticos estelares identificados por Burbidge, Burbidge, Fowler & Hoyle (1957) — queima de H e He, dragagens, processos alfa/e/s/i/r/p/x/neutrino — fechando com o efeito da metalicidade na massa típica das estrelas que se formam.
@@ -34,7 +34,7 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 🌌 Nucleossíntese primordial (BBN)
+## Nucleossíntese primordial (BBN)
 
 Segundo o modelo do Big Bang, nos primeiros milissegundos do Universo as partículas elementares estavam livres; colisões e capturas subsequentes sintetizaram os primeiros núcleos. O modelo padrão de **nucleossíntese primordial (BBN)** produz apenas nuclídeos leves — H, D, ³He, ⁴He, ⁶Li, ⁷Li e traços de Be e B — porque o Universo já não era quente/denso o bastante para ir além disso. Be e B decaem rapidamente (escala de dezenas de dias) em Li.
 
@@ -44,7 +44,7 @@ Segundo o modelo do Big Bang, nos primeiros milissegundos do Universo as partíc
 > [!warning] O "problema do lítio"
 > Há uma discrepância de vários $\sigma$ entre a abundância de ⁷Li prevista pela BBN (usando restrições da CMB) e a observada — o **lithium problem**. Como todas as taxas de reação nuclear relevantes já são conhecidas com boa precisão, uma solução puramente nuclear foi descartada; a origem da discrepância segue em aberto. (Não confundir com um problema análogo, já resolvido, envolvendo ⁶Li, que se mostrou um efeito sistemático observacional.) Já a abundância de **deutério** tornou-se recentemente mais interessante pelo motivo oposto: as observações hoje são mais precisas que as previsões teóricas, que ainda dependem de melhores restrições experimentais para a reação $d(p,\gamma)$.
 
-## ⭐ Síntese de elementos nas estrelas
+## Síntese de elementos nas estrelas
 
 Fora o Big Bang (e uma contribuição secundária de raios cósmicos, ver processo-x abaixo), o único ambiente quente o bastante para sintetizar novos nuclídeos é o **interior estelar**. Burbidge, Burbidge, Fowler & Hoyle (1957) — o célebre artigo "B²FH" — organizou esses processos numa classificação usada até hoje: queima do H, queima do He, processo-$\alpha$, processo-e, processo-s, processo-i, processo-r, processo-p e processo-x.
 
@@ -67,7 +67,7 @@ Camadas de queima sucessivas têm composições químicas distintas; instabilida
 
 O **processo-$\alpha$** encadeia capturas $(\alpha,\gamma)$ — $^{12}\text{C}(\alpha,\gamma)^{16}\text{O}$, $^{16}\text{O}(\alpha,\gamma)^{20}\text{Ne}$, $^{20}\text{Ne}(\alpha,\gamma)^{24}\text{Mg}$ — produzindo os chamados "núcleos-$\alpha$"; queimas de C, O, Ne, Mg e Si em condições explosivas (estrelas muito massivas) também são classificadas aqui. Acima de $\sim4$–$5\times10^9\,$K — atingido apenas em supernovas — reações de fotodesintegração e captura ocorrem tão rapidamente que o sistema alcança um **equilíbrio estatístico** dominado pelo núcleo de maior energia de ligação, $^{56}$Fe: é o **processo-e**, responsável pelos "elementos do pico do ferro" (isótopos de Ca a Zn).
 
-## ⚖️ Captura de nêutrons: processos s, i e r
+## Captura de nêutrons: processos s, i e r
 
 Como $^{56}$Fe tem a maior energia de ligação de todos os nuclídeos, não há como fundi-lo a outro núcleo e liberar energia — elementos mais pesados que o ferro só se formam por **captura sucessiva de nêutrons** seguida de decaimento $\beta$. Sem repulsão coulombiana para nêutrons, núcleos de $Z$ muito mais alto podem ser alcançados. Os três regimes dependem do **fluxo de nêutrons**:
 
@@ -78,19 +78,19 @@ Como $^{56}$Fe tem a maior energia de ligação de todos os nuclídeos, não há
 > [!info] Números mágicos e o vale de estabilidade
 > Nuclídeos com número de prótons ou nêutrons igual a 2, 8, 20, 28, 50, 82, 126 ou 184 (**números mágicos**) são anormalmente estáveis contra decaimento $\beta$ e, por isso, mais abundantes que seus vizinhos — o pico correspondente ocorre em números de massa diferentes para os processos s e r, o que ajuda a distinguir a contribuição de cada processo numa dada abundância observada.
 
-## 🌟 Outros processos: p (γ), x e neutrino
+## Outros processos: p (γ), x e neutrino
 
 - **Processo-p (ou γ):** B²FH originalmente propôs captura de prótons para explicar nuclídeos pesados ricos em prótons que nem o processo-r nem o s conseguem formar; hoje entende-se que o mecanismo real é fotodesintegração $(\gamma,n)$/$(\gamma,p)$ — daí o nome alternativo "processo-$\gamma$". Opera principalmente em supernovas tipo II, a $T>10^9\,$K.
 - **Processo-x (espalação):** fragmentação de núcleos de C, N e O por colisões com raios cósmicos (prótons, dêuterons, hélios) — um dos principais mecanismos de produção dos elementos leves Li, Be e B no Universo (fora da BBN).
 - **Processo-$\nu$:** durante o colapso do núcleo pré-supernova, o fluxo intensíssimo de neutrinos (sobretudo $\nu_\mu$ e $\nu_\tau$) excita núcleos pesados (e até He) a estados menos ligados, induzindo emissão de prótons/nêutrons/hélios que altera as abundâncias finais — proposto por Woosley et al. (1990), produz nuclídeos raros como ⁷Li, ¹¹B, ¹⁹F, ¹³⁸La e ¹⁸⁰Ta.
 
-## 🌡️ Metalicidade e a massa das primeiras estrelas
+## Metalicidade e a massa das primeiras estrelas
 
 Metais no gás aumentam sua eficiência de **resfriamento radiativo** — o que reduz a temperatura do gás, diminui a **massa de Jeans** (o limiar de colapso gravitacional) e favorece a formação de estrelas **menos massivas**. Por isso, as primeiras estrelas do Universo (População III, sem metais) provavelmente eram sistematicamente muito mais massivas que as estrelas típicas de hoje — uma conexão direta entre nucleossíntese, evolução química e a própria função de massa inicial (IMF, ver Aula 02 do curso-on).
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **BBN (nucleossíntese primordial):** produz apenas H, D, He, Li (e traços de Be/B); o "problema do lítio" (discrepância no ⁷Li) segue sem solução nuclear conhecida.
 - **B²FH (1957):** classificação canônica dos processos nucleossintéticos estelares — H, He, $\alpha$, e, s, i, r, p, x, $\nu$.
@@ -99,13 +99,13 @@ Metais no gás aumentam sua eficiência de **resfriamento radiativo** — o que 
 - **Processos s / i / r:** três regimes de captura de nêutrons além do ferro, diferenciados pelo fluxo de nêutrons e pelo ambiente astrofísico (AGBs de baixa massa; AGBs "super"/candidatos incertos; supernovas ou fusões de compactos).
 - **Metalicidade → massa estelar típica:** mais metais esfriam melhor o gás, reduzem a massa de Jeans e favorecem estrelas menos massivas — por isso a Pop III provavelmente era sistematicamente mais massiva.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Burbidge, Burbidge, Fowler & Hoyle (1957) — _Synthesis of the Elements in Stars_, Rev. Mod. Phys. 29, 547 (bibcode `1957RvMP...29..547B`)
 - Beers & Christlieb (2005) — estrelas CEMP e a busca por metal-pobres extremas
 - Woosley et al. (1990) — proposta do processo-$\nu$
 - Stan Owocki — _Fundamentals of Astrophysics_ (2021); Carroll & Ostlie — _An Introduction to Modern Astrophysics_ (2017) — livros-texto de referência da aula
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|Aula 04 — Espectroscopia e Metalicidade]] — a notação \[Fe/H] usada para quantificar o produto acumulado de todos esses processos
 - [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — versão mais compacta dos processos-s/r, aqui expandida com toda a classificação B²FH
 - [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] — como as taxas relativas de SN II/Ia vistas aqui viram a ferramenta $[\alpha/\text{Fe}]$ para separar populações

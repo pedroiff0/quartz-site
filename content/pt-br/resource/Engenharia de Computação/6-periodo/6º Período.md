@@ -1,17 +1,14 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "6º Período"
 created: 2026-07-21 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 cssclasses:
   - page-layout
 ---
 
 
-> [!info] 🎓 Visão Geral e Carga Horária do Período
+> [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `500h` (340h teóricas + 160h práticas / projetos)
 > - **Semestre Letivo:** `2026-2` (24 de Agosto de 2026 a 18 de Dezembro de 2026 · 20 Semanas / 100 Dias Letivos)
 > - **Resumo Pedagógico:** Análise e engenharia orientada a objetos, bancos de dados relacionais e avançados, circuitos lógicos digitais, teoria e construção de compiladores, telecomunicações e redes físicas, reflexão epistemológica e viabilidade técnica/econômica de projetos de engenharia.
@@ -19,25 +16,25 @@ cssclasses:
 
 
 
-> [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/index|Análise de Software Orientada a Objetos]]** (`60h` · Prof. Pablo · Quarta 13:40–16:30)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/filosofia-da-ciencia-e-tecnologia/index|Filosofia da Ciência e Tecnologia]]** (`60h` · Prof. Dr. Rafel Tardin · Quarta 19:20–22:00)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/banco-de-dados/index|Banco de Dados]]** (`60h` · Prof. Pablo · Terça 13:40–16:30)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/index|Programação Orientada a Objetos I]]** (`60h` · Prof. Me. Andeson Veiga · Quarta 16:40–19:20)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital/index|Eletrônica Digital]]** (`60h` · Prof. Dr. Fabrício Barros Gonçalves · Segunda 16:40–19:20)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/index|Comunicação de Dados]]** (`60h` · Prof. Me. Luiz Carlos Ferreira Garcez· Terça 16:40–19:20)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/6-periodo/compiladores/index|Compiladores]]** (`60h` · Prof.  Dr. Fabrício Barros Gonçalves · Sexta 13:40–16:30)
+> [!note]  Grade Curricular e Disciplinas Integrantes
+> -  **[[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/Análise de Software Orientada a Objetos|Análise de Software Orientada a Objetos]]** (`60h` · Prof. Pablo · Quarta 13:40–16:30)
+> -  **[[pt-br/resource/Engenharia de Computação/6-periodo/filosofia-da-ciencia-e-tecnologia/Filosofia da Ciência e Tecnologia|Filosofia da Ciência e Tecnologia]]** (`60h` · Prof. Dr. Rafel Tardin · Quarta 19:20–22:00)
+> -  **[[pt-br/resource/Engenharia de Computação/6-periodo/banco-de-dados/Banco de Dados|Banco de Dados]]** (`60h` · Prof. Pablo · Terça 13:40–16:30)
+> -  **[[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/Programação Orientada a Objetos I|Programação Orientada a Objetos I]]** (`60h` · Prof. Me. Andeson Veiga · Quarta 16:40–19:20)
+> -  **[[pt-br/resource/Engenharia de Computação/6-periodo/eletronica-digital/Eletrônica Digital|Eletrônica Digital]]** (`60h` · Prof. Dr. Fabrício Barros Gonçalves · Segunda 16:40–19:20)
+> -  **[[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/Comunicação de Dados|Comunicação de Dados]]** (`60h` · Prof. Me. Luiz Carlos Ferreira Garcez· Terça 16:40–19:20)
+> -  **[[pt-br/resource/Engenharia de Computação/6-periodo/compiladores/Compiladores|Compiladores]]** (`60h` · Prof.  Dr. Fabrício Barros Gonçalves · Sexta 13:40–16:30)
 
 ---
 
-## 🕒 Quadro de Horários Semanal (2026-2)
+## Quadro de Horários Semanal (2026-2)
 
 <div style="display: flex; gap: 12px; margin-bottom: 1.5rem; flex-wrap: wrap;" class="schedule-actions-bar">
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/cronograma-6-periodo.json" download="cronograma-6-periodo.json" class="btn-action" style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; background: #2563eb; color: #ffffff; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 0.9rem; box-shadow: 0 2px 4px rgba(37,99,235,0.2);">
-    📥 Exportar Cronograma (JSON)
+     Exportar Cronograma (JSON)
   </a>
   <button onclick="window.print()" class="btn-action" style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; background: #059669; color: #ffffff; border: none; border-radius: 8px; font-weight: 600; font-size: 0.9rem; cursor: pointer; box-shadow: 0 2px 4px rgba(5,150,105,0.2);">
-    🖨️ Imprimir / Salvar em PDF
+     Imprimir / Salvar em PDF
   </a>
 </div>
 
@@ -67,7 +64,7 @@ cssclasses:
 .intervalo-row { background: var(--light, #f8fafc); color: var(--gray, #94a3b8); font-size: 0.7rem; text-align: center; font-style: italic; }
 </style>
 
-| ⏰ Horário       | Segunda (SEG)                                                                                                                                                                                      | Terça (TER)                                                                                                                                                                                              | Quarta (QUA)                                                                                                                                                                                                  | Quinta (QUI)                                                                                                                                                                           | Sexta (SEX)                                                                                                                                                                              |
+|  Horário       | Segunda (SEG)                                                                                                                                                                                      | Terça (TER)                                                                                                                                                                                              | Quarta (QUA)                                                                                                                                                                                                  | Quinta (QUI)                                                                                                                                                                           | Sexta (SEX)                                                                                                                                                                              |
 | :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **13:40–14:30** | —                                                                                                                                                                                                  | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="schedule-badge badge-bd"><b>CSECBJI.44</b><br>Banco de Dados<br>Prof. Pablo</a>                                       | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="schedule-badge badge-asoo"><b>CSECBJI.42</b><br>Análise de Software OO<br>Prof. Pablo</a>         | —                                                                                                                                                                                      | <a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="schedule-badge badge-comp"><b>CSECBJI.48</b><br>Compiladores<br>Prof. Dr. Fabrício Barros Gonçalves</a> |
 | **14:30–14:50** | *Intervalo (20m)*                                                                                                                                                                                  | *Intervalo (20m)*                                                                                                                                                                                        | *Intervalo (20m)*                                                                                                                                                                                             | *Intervalo (20m)*                                                                                                                                                                      | *Intervalo (20m)*                                                                                                                                                                        |
@@ -85,7 +82,7 @@ cssclasses:
 
 ---
 
-## 🎨 Carrossel de Disciplinas do Período
+## Carrossel de Disciplinas do Período
 
 Navegue interativamente pelas disciplinas deste bloco letivo:
 

@@ -6,20 +6,20 @@ tags:
   - pipeline-guia
   - meta
 created: 2026-09-14 10:29
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 
 cssclasses:
   - page-layout
 ---
 
-# 🚀 Guia de Uso: Pipeline Unificado de Apresentações MWBR & IFF
+# Guia de Uso: Pipeline Unificado de Apresentações MWBR & IFF
 
 > [!abstract] Visão Geral da Arquitetura
 > Este documento é o manual interno do pipeline de apresentações e publicações científicas. A arquitetura conecta automaticamente as anotações do **Obsidian** ao **Roteiro/Lecture (.tex)**, aos **Slides Beamer 16:9 (.pdf)** e à apresentação **PowerPoint (.pptx)**, com espelhamento automático para a pasta `_materiais/` do artigo.
 
 ---
 
-## 🧭 O Fluxo de Trabalho (Do Paper à Apresentação)
+## O Fluxo de Trabalho (Do Paper à Apresentação)
 
 ```mermaid
 graph TD
@@ -32,7 +32,7 @@ graph TD
 
 ---
 
-## 📂 Estrutura de Diretórios dos Modelos
+## Estrutura de Diretórios dos Modelos
 
 Existem dois modelos padronizados no sistema:
 1. **`slides-mwbr/`** — Especializado para apresentações do Journal Club Milky Way Brazil (MWBR).
@@ -61,7 +61,7 @@ slides-mwbr/ (ou slides-iff/)
 
 ---
 
-## ⚡ Como Usar no Dia a Dia
+## Como Usar no Dia a Dia
 
 ### Passo 1: Fazer as anotações no Obsidian
 1. Crie a nota com o padrão: `Artigo - [PrimeiroAutor][Ano].md` (ex: `Artigo - Lu2026.md`).
@@ -86,7 +86,7 @@ python3 /home/pedro/Repositorios/latex/modelos/slides-iff/gerar_tudo.py
 
 ---
 
-## 👥 Tratamento de Múltiplos Autores no Modelo Institucional (`slides-iff`)
+## Tratamento de Múltiplos Autores no Modelo Institucional (`slides-iff`)
 
 No modelo **`slides-iff`**, quando houver mais de um apresentador ou autor, utilize a convenção de iniciais no rodapé:
 
@@ -102,7 +102,7 @@ O Beamer e o script de transcrição PPTX utilizam automaticamente a versão ent
 
 ---
 
-## 🎯 Regras de Design e Padrões Fixados
+## Regras de Design e Padrões Fixados
 
 | Elemento | Tema Branco (Light) | Tema Preto (Dark) |
 | :--- | :--- | :--- |

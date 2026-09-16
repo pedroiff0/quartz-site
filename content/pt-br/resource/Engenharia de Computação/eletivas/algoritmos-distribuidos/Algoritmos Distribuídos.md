@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Algoritmos Distribuídos"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,29 +11,29 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.86`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Sistemas de troca de mensagens. Processadores de comunicação. Roteamento e controle de fluxo. Programas reativos. Alocação de "buffers". Alocação de processadores. Modelos síncrono e assíncrono de computação. Computações em sistemas anônimos; limitações intrínsecas. Noções de conhecimento em sistemas distribuídos. Eventos, ordens e estados globais. A complexidade de computações distribuídas. Algoritmos para propagação de informação. Algoritmos simples sobre grafos: teste de conectividade e distâncias mais curtas. Eleição de um líder. Técnicas para registrar estados globais. Sincronizadores. Introdução à auto-estabilização. Detecção de terminação. Detecção de "deadlocks". Outros algoritmos sobre grafos: árvores geradoras mínimas e fluxos em redes. Algoritmos para exclusão mútua. "Dining philosophers" e "drinking philosophers". Reexecução determinística de programas. Detecção de "breakpoints". Introdução à simulação distribuída.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Familiarizar o discente com os conceitos, termos e técnicas básicas de algoritmos distribuídos.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/redes-de-computadores-i/index|CSECBJI.55 - Redes de Computadores I]]
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/index|CSECBJI.56 - Sistemas Operacionais I]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/index|CSECBJI.87 - Computação Paralela e Distribuída]]
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/redes-de-computadores-i/Redes de Computadores I|CSECBJI.55 - Redes de Computadores I]]
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/Sistemas Operacionais I|CSECBJI.56 - Sistemas Operacionais I]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/Computação Paralela e Distribuída|CSECBJI.87 - Computação Paralela e Distribuída]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Introdução à Computação Paralela e Distribuída**
 > 	- Histórico
 > 	- Paralelismo e Concorrência
@@ -59,13 +56,13 @@ cssclasses:
 > 	- Técnicas Básicas de Otimização
 > 	- Algoritmos Paralelos para Problemas de Busca, Ordenação e Grafos
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
 > 2. Porto Alegre: Bookman, 2007.
 > 3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
 > 4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
 > 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
 > 3. Pearson, 2013.
@@ -76,15 +73,5 @@ cssclasses:
 > 8. Porto Alegre: Bookman, 2018.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Anotações/Esboço/aula-01-introdução-à-computação-paralela-e-distr|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Anotações/Esboço/aula-02-histórico|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Anotações/Esboço/aula-03-paralelismo-e-concorrência|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Anotações/Esboço/aula-04-computação-paralela-e-distribuída|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Anotações/Esboço/aula-05-tendências|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Anotações/Esboço/aula-06-arquiteturas-paralelas|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

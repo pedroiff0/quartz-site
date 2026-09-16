@@ -2,7 +2,7 @@
 publish: false
 title: Modelagem de Dados
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -55,7 +55,7 @@ Casos que os livros simplificam: dados temporais (histórico de preços, vigênc
 - **Normalizar no automático, sem entender a anomalia que está evitando.** Isso leva tanto a subnormalizar (redundância escondida) quanto a hipernormalizar (JOINs infinitos para qualquer consulta trivial). A forma normal é meio, não fim.
 - **Guardar dados calculáveis sem necessidade.** Idade (calculável da data de nascimento), total do pedido (soma dos itens): armazenar cópias que podem divergir da fonte é redundância clássica. Há exceções legítimas por desempenho — mas precisam ser decisões conscientes.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 **Livros abertos (licença pública):**
 
@@ -65,7 +65,7 @@ Casos que os livros simplificam: dados temporais (histórico de preços, vigênc
 
 - HEUSER, C. A. _Projeto de Banco de Dados_. O livro brasileiro de referência em modelagem — enxuto, direto e com a notação ER mais usada nas disciplinas do país. Se for ler um só, é este.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: SQL](https://roadmap.sh/sql) — os primeiros blocos do roadmap cobrem modelo relacional e design de esquema; bom para ver como a modelagem desemboca no SQL.
 - [SQLBolt](https://sqlbolt.com/) — pratique consultas sobre esquemas prontos e observe como um bom design torna as consultas naturais — e como um design ruim as torna tortuosas.
@@ -73,5 +73,5 @@ Casos que os livros simplificam: dados temporais (histórico de preços, vigênc
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados|Modelagem de Dados]] — a disciplina que este guia acompanha diretamente: ER, mapeamento e normalização.
-- [[pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados|Banco de Dados]] — onde o modelo vira sistema: SQL, transações e a implementação de tudo que foi projetado aqui.
+- [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/Modelagem de Dados|Modelagem de Dados]] — a disciplina que este guia acompanha diretamente: ER, mapeamento e normalização.
+- [[pt-br/resource/Engenharia de Computação/6-periodo/banco-de-dados/Banco de Dados|Banco de Dados]] — onde o modelo vira sistema: SQL, transações e a implementação de tudo que foi projetado aqui.

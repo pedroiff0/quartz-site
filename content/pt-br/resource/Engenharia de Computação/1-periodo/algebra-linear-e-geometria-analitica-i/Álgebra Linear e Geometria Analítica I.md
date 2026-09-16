@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Álgebra Linear e Geometria Analítica I"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,31 +11,31 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.5`
 > - **Período:** Eletiva | **Núcleo:** Específico | **Carga Horária:** 60h
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Introduzir e desenvolver em termos teóricos um conjunto de conceitos fundamentais da álgebra linear, que serão ferramentas essenciais para apoio às unidades curriculares mais específicas da engenharia;
 > - Abordar estudo de matrizes, determinantes, sistemas de equações lineares, vetores no plano e no espaço com aplicações na geometria analítica e ainda introduz conceitos básicos sobre espaços vetoriais e subespaços.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/index|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
-> - [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/index|CSECBJI.11 - Física I]]
-> - [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/index|CSECBJI.18 - Equações Diferenciais]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/Álgebra Linear e Geometria Analítica II|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
+> - [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Física I|CSECBJI.11 - Física I]]
+> - [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Equações Diferenciais|CSECBJI.18 - Equações Diferenciais]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Matrizes:**
 > - **2. Definição e Tipos Especiais;**
 > - **3. Álgebra Matricial;**
@@ -91,12 +88,12 @@ cssclasses:
 > 	- Processo de Ortogonalização de Gram Schmidt;
 > 	- Complemento Ortogonal.
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear. 3.ª Edição. São Paulo: Harbra, 1984.
 > 2. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
 > 3. STEINBRUCH, A., WINTERLE, P. Álgebra Linear. 2.ª Edição. São Paulo: Pearson, 1995.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
 > 2. LAY, D. C., LAY, S. R.
 > 3. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC,
@@ -105,15 +102,5 @@ cssclasses:
 > 6. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Anotações/Esboço/aula-01-matrizes|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Anotações/Esboço/aula-02-definição-e-tipos-especiais|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Anotações/Esboço/aula-03-álgebra-matricial|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Anotações/Esboço/aula-04-matriz-transposta|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Anotações/Esboço/aula-05-matriz-simétrica|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Anotações/Esboço/aula-06-matriz-ortogonal|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

@@ -13,11 +13,11 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-modified: 2026-09-12 11:20
+modified: 2026-09-15 21:34
 
 ---
 
-**Navegação (grafo):** [[pt-br/resource/escolainverno/Planetaria/260721-Planetaria-Aula02|← 260721-Planetaria-Aula02]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]]
+**Navegação (grafo):** [[pt-br/resource/escolainverno/Planetaria/260721-Planetaria-Aula02|← 260721-Planetaria-Aula02]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]]
 # Notas de Aula — Ciências Planetárias (Aula 03)
 
 > [!info] Informações da aula
@@ -25,29 +25,29 @@ modified: 2026-09-12 11:20
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 *Conteúdo desta aula ainda não registrado.*
 
-### 📑 Tópicos abordados
+### Tópicos abordados
 1. *(a preencher)*
 
 ---
 
-## ⚠️ Pontos de atenção
+## Pontos de atenção
 
 > [!important] Atenção
 > *(nenhuma anotação registrada ainda)*
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - *(a preencher)*
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 3)
 > *(nenhuma pergunta registrada ainda)*

@@ -3,7 +3,7 @@ publish: false
 kanban-plugin: board
 title: "Quadro Kanban — Curso de Russo"
 created: 2026-09-14 11:54
-modified: 2026-09-14 22:05
+modified: 2026-09-15 21:33
 tags:
   - kanban
   - russo
@@ -12,31 +12,31 @@ cssclasses:
   - page-layout
 ---
 
-## 📥 Backlog de Lições
+## Backlog de Lições
 
-- [ ] [[pt-br/resource/idiomas/russo/Anotações/Esboço/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] #russo #aula
+- [ ] [[pt-br/resource/idiomas/russo/Anotações/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] #russo #aula
 - [ ] Lição 04 — Família, Adjetivos e Descrição Física #russo #aula
 - [ ] Lição 05 — Alimentos, Restaurante e Pedidos #russo #aula
 - [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária #russo #aula
 
-## 🎯 A Aprender (Esta Semana)
+## A Aprender (Esta Semana)
 
-- [ ] [[pt-br/resource/idiomas/russo/Anotações/Esboço/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] #russo #aula
+- [ ] [[pt-br/resource/idiomas/russo/Anotações/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] #russo #aula
 
-## 🔄 Em Estudo (Hoje)
+## Em Estudo (Hoje)
 
-- [ ] [[pt-br/resource/idiomas/russo/Anotações/Esboço/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] #russo #aula
+- [ ] [[pt-br/resource/idiomas/russo/Anotações/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] #russo #aula
 
-## 🃏 Flashcards & Anki
+## Flashcards & Anki
 
 - [ ] Cadastrar vocabulário da Aula 01 no baralho Anki #russo #anki
 - [ ] Revisão diária dos cartões #russo #anki
 
-## 🎧 Imersão & Escuta
+## Imersão & Escuta
 
 - [ ] Ouvir áudio nativo de 5 minutos sobre saudações #russo #escuta
 
-## ✅ Lições Dominadas
+## Lições Dominadas
 
 - [x] Configuração da estrutura do curso de Russo #russo
 

@@ -2,7 +2,7 @@
 publish: false
 title: Fundamentos da Computação
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -57,7 +57,7 @@ O que dominar: uma primeira noção de sistema operacional, de redes e de como a
 - **Confundir memória RAM com armazenamento** — "Meu computador tem 512 GB de memória" é o erro clássico. RAM é espaço de trabalho volátil; disco/SSD é armazenamento persistente. A distinção volta com força em Sistemas Operacionais e Arquitetura.
 - **Estudar passivamente (só assistir vídeo)** — Fundamentos parece "fácil de acompanhar" assistindo, mas a retenção só vem fazendo: convertendo números à mão, desenhando diagramas, explicando pra alguém. Vídeo sem exercício é entretenimento.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Livros e apostilas abertas
 
@@ -68,7 +68,7 @@ O que dominar: uma primeira noção de sistema operacional, de redes e de como a
 
 - TANENBAUM, A. S. _Organização Estruturada de Computadores_. — A referência que apresenta o computador em camadas, exatamente a visão que este tópico constrói. Vale ler os capítulos iniciais já no primeiro período.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: Computer Science](https://roadmap.sh/computer-science) — mapa visual de tudo que compõe uma formação em computação. Use como bússola: não pra estudar tudo de uma vez, mas pra saber onde cada disciplina do curso se encaixa.
 - [CS50 — Harvard](https://cs50.harvard.edu/) — o curso introdutório de computação mais famoso do mundo, gratuito, com legendas em português. As primeiras aulas (binário, algoritmos, C) são o complemento perfeito desta trilha. Use quando quiser ver os fundamentos aplicados em código de verdade.
@@ -77,4 +77,4 @@ O que dominar: uma primeira noção de sistema operacional, de redes e de como a
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/1-periodo/fundamentos-de-computacao|Fundamentos de Computação]] — a disciplina do 1º período que cobre exatamente esta trilha; este material serve de apoio direto a ela.
+- [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Fundamentos de Computação|Fundamentos de Computação]] — a disciplina do 1º período que cobre exatamente esta trilha; este material serve de apoio direto a ela.

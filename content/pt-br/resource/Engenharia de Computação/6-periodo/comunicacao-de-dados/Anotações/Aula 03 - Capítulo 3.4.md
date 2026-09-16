@@ -2,7 +2,7 @@
 publish: true
 title: "Aula 03 - Capítulo 3.4"
 created: 2026-09-09 16:58
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 encrypted: true
 password: "eng232"
 tags:
@@ -20,32 +20,32 @@ cssclasses:
   </div>
 </div>
 
-# 📝 Aula 03 - Capítulo 3.4
+# Aula 03 - Capítulo 3.4
 
-> [!info] 📌 Informações da Aula
+> [!info]  Informações da Aula
 > - **Docente:** 
 > - **Data da Aula:** 09/09/2026
 > - **Tópico Central:** 
 > - **Status das Anotações:** 
->   - [x] 🟡 Planejando 
->   - [ ] 🟠 Em Andamento 
->   - [ ] 🟢 Concluído
+>   - [x]  Planejando 
+>   - [ ]  Em Andamento 
+>   - [ ]  Concluído
 
-## 📂 Materiais & Recursos Didáticos da Aula
+## Materiais & Recursos Didáticos da Aula
 
 > [!tip] 🔗 Arquivos e Materiais da Disciplina
 > - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
 > - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
 > - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
 
-## 📋 Sumário Interativo
-- [📍 Anotações](#-anotações)
-- [🧠 Resumo](#-resumo)
-- [📝 Dúvida](#-dúvida)
+## Sumário Interativo
+- [ Anotações](#-anotações)
+- [ Resumo](#-resumo)
+- [ Dúvida](#-dúvida)
 
 ---
 
-## 📍 Anotações
+## Anotações
 
 ### 09/09
 
@@ -54,15 +54,15 @@ Anotações do conteúdo ministrado neste dia...
 
 ---
 
-## 🧠 Resumo
+## Resumo
 
 | Tópico | Princípio Central | Atenção Especial / Pegadinha |
 | :--- | :--- | :--- |
 | | | |
 
-> [!tip] 💡 Dica de Prova do Professor
+> [!tip]  Dica de Prova do Professor
 > Destaques e orientações mencionadas pelo docente durante a aula.
 
 ---
 
-## 📝 Dúvidas/Tarefas
+## Dúvidas/Tarefas

@@ -2,7 +2,7 @@
 publish: false
 title: Redes
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -54,7 +54,7 @@ Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviç
 - **Estudar só na teoria, sem nunca capturar um pacote.** Redes é disciplina de laboratório. Wireshark, simuladores e máquinas virtuais transformam abstrações em coisas observáveis — e a diferença na retenção é brutal.
 - **Tratar "internet lenta" como um problema único.** Latência, banda, perda de pacotes e jitter são coisas diferentes com causas diferentes. Aprender a medir cada uma (ping, traceroute, iperf) é o começo do diagnóstico sério.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 **Livros abertos (licença pública):**
 
@@ -67,7 +67,7 @@ Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviç
 - KUROSE, J.; ROSS, K. _Redes de Computadores e a Internet: uma abordagem top-down_. A referência moderna — começa pela aplicação e desce até o físico, o que torna a leitura muito mais motivadora.
 - FOROUZAN, B. _Comunicação de Dados e Redes de Computadores_. Mais detalhista na transmissão e nas camadas baixas; complementa o Kurose.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: DevOps](https://roadmap.sh/devops) — o módulo de redes deste roadmap mostra exatamente o que o mercado de infraestrutura/cloud espera que você saiba. Use como checklist de empregabilidade.
 - [Roadmap: Computer Science](https://roadmap.sh/computer-science) — situa redes dentro do panorama geral de fundamentos de computação; bom para decidir o que estudar antes e depois.
@@ -76,8 +76,8 @@ Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviç
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados|Comunicação de Dados]] — a base física e de enlace: como os bits realmente viajam.
-- [[pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i|Redes de Computadores I]] — o núcleo: modelos de referência, IP, TCP/UDP e os principais protocolos.
-- [[pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii|Redes de Computadores II]] — roteamento, serviços e tópicos avançados.
-- [[pt-br/resource/engenharia-de-computação/eletivas/interconexao-de-redes-de-computadores|Interconexão de Redes de Computadores]] — eletiva sobre como redes distintas se conectam: roteamento entre domínios e equipamentos de borda.
-- [[pt-br/resource/engenharia-de-computação/eletivas/dimensionamento-de-redes-de-computadores|Dimensionamento de Redes de Computadores]] — eletiva de projeto: calcular capacidade e planejar redes que aguentam a carga prometida.
+- [[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/Comunicação de Dados|Comunicação de Dados]] — a base física e de enlace: como os bits realmente viajam.
+- [[pt-br/resource/Engenharia de Computação/7-periodo/redes-de-computadores-i/Redes de Computadores I|Redes de Computadores I]] — o núcleo: modelos de referência, IP, TCP/UDP e os principais protocolos.
+- [[pt-br/resource/Engenharia de Computação/8-periodo/redes-de-computadores-ii/Redes de Computadores II|Redes de Computadores II]] — roteamento, serviços e tópicos avançados.
+- [[pt-br/resource/Engenharia de Computação/eletivas/interconexao-de-redes-de-computadores/Interconexão de Redes de Computadores|Interconexão de Redes de Computadores]] — eletiva sobre como redes distintas se conectam: roteamento entre domínios e equipamentos de borda.
+- [[pt-br/resource/Engenharia de Computação/eletivas/dimensionamento-de-redes-de-computadores/Dimensionamento de Redes de Computadores|Dimensionamento de Redes de Computadores]] — eletiva de projeto: calcular capacidade e planejar redes que aguentam a carga prometida.

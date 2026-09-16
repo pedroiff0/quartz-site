@@ -6,20 +6,20 @@ tags:
   - pipeline-guia
   - meta
 created: 2026-09-14 10:29
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 
 cssclasses:
   - page-layout
 ---
 
-# 🎓 Guia do Pipeline Institucional: Engenharia de Computação (IFF)
+# Guia do Pipeline Institucional: Engenharia de Computação (IFF)
 
 > [!abstract] Visão Geral
 > Pipeline padronizado para geração automatizada de **Roteiros Acadêmicos (.pdf)**, **Slides Beamer 16:9 (.pdf)** e **Apresentações PowerPoint (.pptx)** para as disciplinas e seminários do curso de Engenharia de Computação do IFFluminense.
 
 ---
 
-## 🔒 Segurança e Senha dos Arquivos Publicados
+## Segurança e Senha dos Arquivos Publicados
 
 > [!important] Informação de Acesso
 > Os materiais gerados para a pasta pública `_materiais/` e espelhados no Quartz Site são protegidos por criptografia PDF com a senha:
@@ -30,7 +30,7 @@ cssclasses:
 
 ---
 
-## 📂 Template de Trabalho para Disciplina (QuickAdd / Obsidian)
+## Template de Trabalho para Disciplina (QuickAdd / Obsidian)
 
 Ao criar uma nova anotação de trabalho em qualquer pasta de disciplina (ex: `7-periodo/sistemas-operacionais-i/`), utilize este cabeçalho e estrutura:
 
@@ -52,45 +52,45 @@ draft: true
 publish: false
 ---
 
-# 🎓 [Título do Trabalho / Seminário]
+# [Título do Trabalho / Seminário]
 
 > [!note] Resumo da Apresentação
 > Breve descrição do trabalho prático ou teórico apresentado na disciplina.
 
-## 📂 Recursos & Materiais da Disciplina
+## Recursos & Materiais da Disciplina
 
-> [!tip] 🔗 Links e Materiais Vinculados (Dinâmicos)
-> - 📑 **Roteiro & Notas de Aula (PDF):** *roteiro_iff_disciplina.pdf*
-> - 📊 **Slides da Apresentação (LaTeX PDF Claro):** *slides_iff_disciplina.pdf*
-> - 📊 **Slides da Apresentação (LaTeX PDF Escuro):** *slides_iff_disciplina_preto.pdf*
-> - 💻 **Slides PowerPoint (PPTX Claro):** *slides_iff_disciplina.pptx*
-> - 💻 **Slides PowerPoint (PPTX Escuro):** *slides_iff_disciplina_preto.pptx*
-> - 🌐 **Hub de Disciplinas no Site Pessoal:** [phrandrade.com/disciplinas](https://www.phrandrade.com/pt-br/resource/engenharia-de-computa%C3%A7%C3%A3o/)
-> - 🏛️ **Portal Institucional IFFluminense:** [portal1.iff.edu.br](https://portal1.iff.edu.br/)
+> [!tip]  Links e Materiais Vinculados (Dinâmicos)
+> -  **Roteiro & Notas de Aula (PDF):** *roteiro_iff_disciplina.pdf*
+> -  **Slides da Apresentação (LaTeX PDF Claro):** *slides_iff_disciplina.pdf*
+> -  **Slides da Apresentação (LaTeX PDF Escuro):** *slides_iff_disciplina_preto.pdf*
+> -  **Slides PowerPoint (PPTX Claro):** *slides_iff_disciplina.pptx*
+> -  **Slides PowerPoint (PPTX Escuro):** *slides_iff_disciplina_preto.pptx*
+> -  **Hub de Disciplinas no Site Pessoal:** [phrandrade.com/disciplinas](https://www.phrandrade.com/pt-br/resource/engenharia-de-computa%C3%A7%C3%A3o/)
+> -  **Portal Institucional IFFluminense:** [portal1.iff.edu.br](https://portal1.iff.edu.br/)
 
 ---
 
-## 🎯 1. Introdução & Contextualização
+## 1. Introdução & Contextualização
 - **Conceitos Fundamentais:** ...
 - **Problemática Abordada:** ...
 - **Objetivos:** ...
 
-## ⚙️ 2. Metodologia & Desenvolvimento
+## 2. Metodologia & Desenvolvimento
 - **Ferramentas Utilizadas:** ...
 - **Etapas Práticas:** ...
 
-## 📈 3. Resultados & Discussão
+## 3. Resultados & Discussão
 - **Análise dos Dados:** ...
 - **Validação com a Teoria:** ...
 
-## 🏁 4. Conclusões
+## 4. Conclusões
 - **Síntese:** ...
 - **Próximos Passos:** ...
 ```
 
 ---
 
-## 🚀 Como Executar o Pipeline
+## Como Executar o Pipeline
 
 Após preencher o roteiro e os slides no repositório de templates ([[file:///home/pedro/Repositorios/latex/modelos/slides-iff|`slides-iff/`]]), execute:
 

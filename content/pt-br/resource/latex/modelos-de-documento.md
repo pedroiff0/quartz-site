@@ -2,7 +2,7 @@
 publish: false
 title: "Modelos, Classes (.cls) e Pacotes (.sty) ReLaTeX — Guia e Index Oficial"
 created: 2026-08-04 13:04
-modified: 2026-09-14 11:17
+modified: 2026-09-15 21:34
 tags:
   - latex
   - relataex
@@ -22,17 +22,17 @@ cssclasses:
 
 ---
 
-## 🧭 Guia Rápido de Seleção de Modelo
+## Guia Rápido de Seleção de Modelo
 
 | Modelo / Pacote | Tipo de Documento / Finalidade | Aula Específica do Curso | Download do Pacote |
 | :--- | :--- | :--- | :--- |
-| **`ifftese.cls`** | Trabalhos Acadêmicos (TCC, Dissertações, Teses ABNT) | *(modelo de documento)* | [📥 Baixar `ifftese.cls`](/assets/biblioteca/latex-escrita/classes/ifftese.cls) |
-| **`metadados.sty`** | Isolar Dados Biográficos, Banca, Orientação e Título | *(modelo de documento)* | [📥 Baixar `metadados.sty`](/assets/biblioteca/latex-escrita/pacotes/metadados.sty) |
-| **`macros.sty`** | Comandos de Produtividade (Figuras, Quadros, Teoremas) | *(modelo de documento)* | [📥 Baixar `macros.sty`](/assets/biblioteca/latex-escrita/pacotes/macros.sty) |
-| **`slidesiffmodelo.cls`** | Apresentações Beamer Institucionais Widescreen (16:9) | *(modelo de documento)* | [📥 Baixar `slidesiffmodelo.cls`](/assets/biblioteca/latex-escrita/classes/slidesiffmodelo.cls) |
-| **`iffposter.cls`** | Pôsteres Científicos e Banners em Formatos A0 / A1 | *(modelo de documento)* | [📥 Baixar `iffposter.cls`](/assets/biblioteca/latex-escrita/classes/iffposter.cls) |
-| **`relatoriocorp.cls`** | Relatórios Corporativos, Pareceres e Propostas Técnicas | *(modelo de documento)* | [📥 Baixar `relatoriocorp.cls`](/assets/biblioteca/latex-escrita/classes/relatoriocorp.cls) |
-| **`marca.sty` / `beamerthemecorp.sty`** | Apresentações Executivas e Governança de Paleta Única | *(modelo de documento)* | [📥 Baixar Pacote Corporativo](/assets/biblioteca/latex-escrita/pacotes/corporativo.zip) |
+| **`ifftese.cls`** | Trabalhos Acadêmicos (TCC, Dissertações, Teses ABNT) | *(modelo de documento)* | [ Baixar `ifftese.cls`](/assets/biblioteca/latex-escrita/classes/ifftese.cls) |
+| **`metadados.sty`** | Isolar Dados Biográficos, Banca, Orientação e Título | *(modelo de documento)* | [ Baixar `metadados.sty`](/assets/biblioteca/latex-escrita/pacotes/metadados.sty) |
+| **`macros.sty`** | Comandos de Produtividade (Figuras, Quadros, Teoremas) | *(modelo de documento)* | [ Baixar `macros.sty`](/assets/biblioteca/latex-escrita/pacotes/macros.sty) |
+| **`slidesiffmodelo.cls`** | Apresentações Beamer Institucionais Widescreen (16:9) | *(modelo de documento)* | [ Baixar `slidesiffmodelo.cls`](/assets/biblioteca/latex-escrita/classes/slidesiffmodelo.cls) |
+| **`iffposter.cls`** | Pôsteres Científicos e Banners em Formatos A0 / A1 | *(modelo de documento)* | [ Baixar `iffposter.cls`](/assets/biblioteca/latex-escrita/classes/iffposter.cls) |
+| **`relatoriocorp.cls`** | Relatórios Corporativos, Pareceres e Propostas Técnicas | *(modelo de documento)* | [ Baixar `relatoriocorp.cls`](/assets/biblioteca/latex-escrita/classes/relatoriocorp.cls) |
+| **`marca.sty` / `beamerthemecorp.sty`** | Apresentações Executivas e Governança de Paleta Única | *(modelo de documento)* | [ Baixar Pacote Corporativo](/assets/biblioteca/latex-escrita/pacotes/corporativo.zip) |
 | **Scripts de Automação** | Compilação Contínua (`latexmkrc`), Git e Conversão PPTX | *(modelo de documento)* |  |
 
 ---

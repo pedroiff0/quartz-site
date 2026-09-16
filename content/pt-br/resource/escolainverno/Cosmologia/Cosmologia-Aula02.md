@@ -13,11 +13,11 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-modified: 2026-09-12 11:20
+modified: 2026-09-15 21:34
 
 ---
 
-**Navegação (grafo):** [[pt-br/resource/escolainverno/Cosmologia/260721-Cosmologia-Aula01|← 260721-Cosmologia-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula03|Cosmologia-Aula03 →]]
+**Navegação (grafo):** [[pt-br/resource/escolainverno/Cosmologia/260721-Cosmologia-Aula01|← 260721-Cosmologia-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula03|Cosmologia-Aula03 →]]
 # Notas de Aula — Cosmologia (Aula 02)
 
 > [!info] Informações da aula
@@ -25,29 +25,29 @@ modified: 2026-09-12 11:20
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 *Conteúdo desta aula ainda não registrado.* Ponto de partida já registrado na Aula 01 (seção "Radiação Cósmica de Fundo") — a RCF é a luz mais antiga observável, emitida na recombinação (~380 mil anos após o Big Bang), hoje a 2,725 K; seu espectro angular de potência é uma das principais ferramentas para medir os parâmetros do modelo $\Lambda$CDM. Preencher com o conteúdo detalhado desta aula.
 
-### 📑 Tópicos abordados
+### Tópicos abordados
 1. *(a preencher)*
 
 ---
 
-## ⚠️ Pontos de atenção
+## Pontos de atenção
 
 > [!important] Atenção
 > *(nenhuma anotação registrada ainda)*
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - *(a preencher)*
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 2)
 > *(nenhuma pergunta registrada ainda)*

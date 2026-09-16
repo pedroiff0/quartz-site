@@ -13,11 +13,11 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-modified: 2026-09-12 11:20
+modified: 2026-09-15 21:34
 
 ---
 
-**Navegação (grafo):** [[pt-br/resource/escolainverno/Aglomerados/260720-Aglomerados-Aula01|← 260720-Aglomerados-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno|🏠 Hub]] · [[pt-br/resource/escolainverno/Aglomerados/Aglomerados-Aula03|Aglomerados-Aula03 →]]
+**Navegação (grafo):** [[pt-br/resource/escolainverno/Aglomerados/260720-Aglomerados-Aula01|← 260720-Aglomerados-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Aglomerados/Aglomerados-Aula03|Aglomerados-Aula03 →]]
 # Notas de Aula — Aglomerados de Galáxias (Aula 02)
 
 > [!info] Informações da aula
@@ -25,29 +25,29 @@ modified: 2026-09-12 11:20
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 *Conteúdo desta aula ainda não registrado. Preencher após a aula (ou a partir do PDF, quando disponível) seguindo o mesmo padrão da [[260720-Aglomerados-Aula01|Aula 01]].*
 
-### 📑 Tópicos abordados
+### Tópicos abordados
 1. *(a preencher)*
 
 ---
 
-## ⚠️ Pontos de atenção
+## Pontos de atenção
 
 > [!important] Atenção
 > *(nenhuma anotação registrada ainda)*
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - *(a preencher)*
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 2)
 > *(nenhuma pergunta registrada ainda)*

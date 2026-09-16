@@ -59,6 +59,12 @@ LINK_REWRITES = [
     ("03 - Mídia", "pt-br/media"),
     ("04 - Mídia", "pt-br/media"),
     ("07 - Diário", "pt-br/media"),
+    ("00 - Mapa/MOC - Pesquisa e Astronomia", "pt-br/research/index"),
+    ("pt-br/mapa/MOC - Pesquisa e Astronomia", "pt-br/research/index"),
+    ("02 - Áreas/Acadêmico/Pesquisas/Anomaly_Detection/README", "pt-br/projects/anomaly-detection"),
+    ("01 - Projetos/Acadêmico/Anomaly_Detection/README", "pt-br/projects/anomaly-detection"),
+    ("pt-br/projects/Acadêmico/Anomaly_Detection/README", "pt-br/projects/anomaly-detection"),
+    ("pt-br/resource/escolainverno/Apresentacao/", "pt-br/resource/escolainverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE"),
 ]
 
 def convert_md_links_in_str(text: str) -> str:
@@ -416,6 +422,18 @@ def transform_markdown_file(file_path: str):
     # 0. Corrigir frontmatter malformado colado em delimitador (ex: ---aliases: -> ---\naliases:)
     content = re.sub(r'^---([a-zA-Z0-9_-]+:)', r'---\n\1', content)
 
+    # 0.1 Sanitizar sequências de escape LaTeX em frontmatter que quebram YAML
+    if content.startswith('---'):
+        fm_parts = content.split('---', 2)
+        if len(fm_parts) >= 3:
+            fm_text = fm_parts[1]
+            fm_text = re.sub(r"\\'\\i", "í", fm_text)
+            fm_text = re.sub(r"\\'", "", fm_text)
+            fm_text = re.sub(r"\\`", "", fm_text)
+            fm_text = re.sub(r"\\~", "~", fm_text)
+            fm_parts[1] = fm_text
+            content = '---'.join(fm_parts)
+
     # 1. Reescrever caminhos de links internos de pastas do vault para slugs do site
     for old_prefix, new_prefix in LINK_REWRITES:
         content = content.replace(old_prefix, new_prefix)
@@ -456,7 +474,69 @@ def transform_markdown_file(file_path: str):
     content = re.sub(r'>\s*\[!PDF\|note\]', '> [!note]', content, flags=re.IGNORECASE)
     content = re.sub(r'>\s*\[!PDF\|red\]', '> [!danger]', content, flags=re.IGNORECASE)
     content = re.sub(r'>\s*\[!PDF\|important\]', '> [!important]', content, flags=re.IGNORECASE)
-    content = re.sub(r'>\s*\[!PDF\|([a-zA-Z0-9#_-]+)\]', r'> [!]', content)
+    content = re.sub(r'>\s*\[!PDF\|([a-zA-Z0-9#_-]+)\]', r'> [! ]', content)
+
+    # 2.3 Corrigir links relativos a índice em Atividades e Hubs de Disciplina
+    if 'Engenharia de Computação' in file_path:
+        parts = file_path.split(os.sep)
+        if 'Engenharia de Computação' in parts:
+            eng_idx = parts.index('Engenharia de Computação')
+            if len(parts) > eng_idx + 2:
+                periodo = parts[eng_idx + 1]
+                disciplina = parts[eng_idx + 2]
+                anotacoes_slug = f"pt-br/resource/Engenharia de Computação/{periodo}/{disciplina}/Anotações/index"
+                hub_slug = f"pt-br/resource/Engenharia de Computação/{periodo}/{disciplina}/index"
+
+                if 'atividades' in file_path.lower():
+                    content = content.replace('[[../index|Anotações de Quadro & Aulas]]', f'[[{anotacoes_slug}|Anotações de Quadro & Aulas]]')
+                    content = content.replace('[[../../index|Hub Central da Disciplina]]', f'[[{hub_slug}|Hub Central da Disciplina]]')
+                elif 'anotações' not in file_path.lower() and 'anotacoes' not in file_path.lower():
+                    content = content.replace('[[Anotações/index|', f'[[{anotacoes_slug}|')
+
+    # 2.4 Tratar links e embeds de PDFs de livros/materiais didáticos (LGPD & Proteção Autoral)
+    pdf_pattern = re.compile(r'(!?)\[\[([^\]\|]+\.pdf[^\]\|]*)(?:\|([^\]]+))?\]\]', re.IGNORECASE)
+    def pdf_link_replacer(match):
+        is_embed = bool(match.group(1))
+        target = match.group(2)
+        alias = match.group(3)
+        if 'assets/banners' in target or 'assets/slides' in target:
+            return match.group(0)
+
+        if alias and alias.strip():
+            label = alias.strip()
+        else:
+            base = target.split('#')[0]
+            base = os.path.basename(base)
+            if base.lower().endswith('.pdf'):
+                base = base[:-4]
+            base = base.replace('_', ' ')
+            page_m = re.search(r'page=(\d+)', target)
+            if page_m:
+                label = f"{base}, p. {page_m.group(1)}"
+            else:
+                label = base
+
+        if label.lower().endswith('.pdf'):
+            label = label[:-4]
+
+        if is_embed:
+            return f'> 📖 *[Referência: {label}]*'
+        else:
+            return f'**{label}**'
+
+    content = pdf_pattern.sub(pdf_link_replacer, content)
+
+    # 2.5 Copiar anexos e imagens coladas (Pasted image) do cofre automaticamente
+    pasted_images = re.findall(r'!\[\[(Pasted image [^\]|]+)\]\]', content)
+    vault_attachments = '/home/pedro/hardcore-life/99 - Meta/attachments'
+    assets_dest = '/home/pedro/Repositorios/pessoal/quartz-site/content/assets'
+    for img_name in pasted_images:
+        src_img = os.path.join(vault_attachments, img_name)
+        dst_img = os.path.join(assets_dest, img_name)
+        if os.path.exists(src_img) and not os.path.exists(dst_img):
+            os.makedirs(assets_dest, exist_ok=True)
+            shutil.copy2(src_img, dst_img)
+            print(f"  🖼️ Imagem copiada do cofre para assets: {img_name}")
 
     # 3. Sanitizar permalinks, formatar criacao/modificacao e garantir cssclasses no frontmatter
     import datetime
@@ -662,7 +742,11 @@ def sync_dirs(src: str, dst: str, exclude_dir_fn=is_excluded_dir, exclude_file_f
             elif exclude_file_fn(f):
                 should_remove = True
             elif not os.path.exists(src_file):
-                should_remove = True
+                # Preservar index.md de roteamento do Quartz se não existir na origem
+                if f == 'index.md':
+                    should_remove = False
+                else:
+                    should_remove = True
 
             if should_remove:
                 os.remove(dst_file)
@@ -678,7 +762,10 @@ def sync_dirs(src: str, dst: str, exclude_dir_fn=is_excluded_dir, exclude_file_f
             elif exclude_dir_fn(d):
                 should_remove = True
             elif not os.path.exists(src_sub):
-                should_remove = True
+                if d in {'articles', 'Atividades', 'Anotações'}:
+                    should_remove = False
+                else:
+                    should_remove = True
 
             if should_remove:
                 shutil.rmtree(dst_sub, ignore_errors=True)
@@ -710,9 +797,11 @@ if __name__ == '__main__':
     sync_dirs(hl_proj, qs_proj)
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Pesquisas) PARA O QUARTZ-SITE ===')
-    hl_anom = '/home/pedro/hardcore-life/02 - Áreas/Acadêmico/Pesquisas/Anomaly_Detection'
-    qs_anom = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/research/anomaly-detection'
-    sync_dirs(hl_anom, qs_anom)
+    hl_notes = '/home/pedro/hardcore-life/01 - Projetos/Acadêmico/Anomaly_Detection/papers/Notes'
+    qs_articles = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/research/anomaly-detection/articles'
+    if os.path.exists(hl_notes):
+        sync_dirs(hl_notes, qs_articles)
+        print('✅ Artigos de Anomaly Detection sincronizados com sucesso!')
 
     hl_jc = '/home/pedro/hardcore-life/02 - Áreas/Acadêmico/Pesquisas/Journal-Clubs'
     qs_jc = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/research/journal-clubs'

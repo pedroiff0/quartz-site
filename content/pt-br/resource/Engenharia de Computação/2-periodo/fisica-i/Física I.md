@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Física I"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,30 +11,30 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.11`
 > - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Thiago Juncal (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conservação: da energia mecânica e do momento (linear e angular).
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Apresentar aos alunos os conceitos fundamentais do estudo da mecânica.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/index|CSECBJI.4 - Cálculo I]]
-> - [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/index|CSECBJI.5 - Álgebra Linear e Geometria Analítica I]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/3-periodo/fisica-ii/index|CSECBJI.19 - Física II]]
-> - [[pt-br/resource/Engenharia de Computação/3-periodo/mecanica-dos-solidos/index|CSECBJI.21 - Mecânica dos Sólidos]]
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Cálculo I|CSECBJI.4 - Cálculo I]]
+> - [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Álgebra Linear e Geometria Analítica I|CSECBJI.5 - Álgebra Linear e Geometria Analítica I]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/3-periodo/fisica-ii/Física II|CSECBJI.19 - Física II]]
+> - [[pt-br/resource/Engenharia de Computação/3-periodo/mecanica-dos-solidos/Mecânica dos Sólidos|CSECBJI.21 - Mecânica dos Sólidos]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Movimento em uma dimensão**
 > 	- Velocidade média e instantânea – modelos de análise;
 > 	- Aceleração;
@@ -86,12 +83,12 @@ cssclasses:
 > 	- Torque e o produto vetorial;
 > 	- Momento angular e sua conservação.
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
 > 2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALLIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:
 > 3. LTC, 2016. Vol.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017.
 > 2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013.
 > 3. TAVARES, A. D. Mecânica Física: Abordagem Experimental e Teórica. Rio de Janeiro: LTC, 2014.
@@ -99,15 +96,5 @@ cssclasses:
 > 5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Mecânica. São Paulo: AMGH, 2012.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Anotações/Esboço/aula-01-movimento-em-uma-dimensão|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Anotações/Esboço/aula-02-velocidade-média-e-instantânea-modelos-d|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Anotações/Esboço/aula-03-aceleração|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Anotações/Esboço/aula-04-diagramas-de-movimento|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Anotações/Esboço/aula-05-a-partícula-com-aceleração-constante|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Anotações/Esboço/aula-06-corpos-em-queda-livre|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

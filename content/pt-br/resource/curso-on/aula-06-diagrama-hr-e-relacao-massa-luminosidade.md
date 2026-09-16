@@ -2,7 +2,7 @@
 publish: false
 title: Aula 06 — Diagrama HR e Relação Massa-Luminosidade
 created: 2026-07-23 12:36
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:50
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -18,9 +18,9 @@ content: Como medir as propriedades físicas fundamentais das estrelas e como o 
 professor: Hélio Dotto Perottoni
 ---
 
-**Navegação (grafo):** [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|← Aula 05 — Avermelhamento, Extinção e IMF]] · [[pt-br/resource/curso-on/index|🏠 Hub]] · [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas →]]
+**Navegação (grafo):** [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|← Aula 05 — Avermelhamento, Extinção e IMF]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas →]]
 
-# 📊 Aula 06 — Diagrama HR e Relação Massa-Luminosidade
+# Aula 06 — Diagrama HR e Relação Massa-Luminosidade
 
 > [!note] Resumo
 > Massa, composição química e idade são as três propriedades fundamentais que controlam toda a evolução de uma estrela — e o diagrama HR é a ferramenta central para lê-las indiretamente. Esta aula fecha o ciclo iniciado na Aula 02, mostrando como medir cada propriedade física estelar e como a relação massa-luminosidade explica por que estrelas massivas vivem menos.
@@ -32,7 +32,7 @@ professor: Hélio Dotto Perottoni
 
 ---
 
-## 🧬 Propriedades intrínsecas das estrelas
+## Propriedades intrínsecas das estrelas
 
 Três propriedades fundamentais controlam a evolução de uma estrela: **massa**, **composição química** e **idade**. Delas, derivam-se as propriedades físicas observáveis: temperatura/cor, luminosidade, gravidade superficial, raio, rotação, binaridade e ventos estelares. A posição de uma estrela no diagrama HR depende de todas essas quantidades combinadas.
 
@@ -48,7 +48,7 @@ Três propriedades fundamentais controlam a evolução de uma estrela: **massa**
 | Massa | Sistemas binários + Leis de Kepler (requer distância, para converter medidas angulares em posições/velocidades) |
 | Idade | Modelos teóricos (isócronas, Aula 02) |
 
-## 📈 O diagrama Hertzsprung-Russell
+## O diagrama Hertzsprung-Russell
 
 O **Diagrama HR** organiza estrelas por temperatura/cor (eixo x, decrescente) vs. luminosidade/magnitude absoluta (eixo y) \[Russell 1914]. Foi um esforço monumental de muitos astrônomos: a luminosidade só pode ser conhecida se a distância for medida. A evolução dos dados é dramática:
 
@@ -73,7 +73,7 @@ O **Diagrama HR** organiza estrelas por temperatura/cor (eixo x, decrescente) vs
 > [!tip] Ao longo da vida na SP, uma estrela quase não se move no diagrama HR
 > A partir do momento em que a fusão de H no núcleo começa, a estrela permanece aproximadamente na mesma posição da Sequência Principal durante toda essa fase. Só depois de esgotar o H central é que ela evolui em direção ao ramo das gigantes.
 
-## ⚡ Relação massa-luminosidade
+## Relação massa-luminosidade
 
 Da relação empírica entre massa e luminosidade das estrelas \[Reid 1987]: $\uparrow$ massa $\Rightarrow$ $\uparrow$ temperatura e $\uparrow$ luminosidade. Em escala log-log, essa relação é bem descrita por uma lei de potência:
 
@@ -81,7 +81,7 @@ $L \propto M^{\,\alpha}, \qquad \alpha \approx 4$
 
 válida em um intervalo limitado de massas ($\sim0{,}1$ a $\sim10\,M_\odot$). Essa relação implica que a classificação espectral não é apenas uma sequência de temperaturas, mas também **uma sequência de massas** ao longo da Sequência Principal.
 
-## ⏳ Tempo de vida na Sequência Principal
+## Tempo de vida na Sequência Principal
 
 Combinando a Lei de Stefan-Boltzmann ($L = 4\pi R^2 \sigma T^4$) com a equivalência massa-energia da fusão nuclear ($E = mc^2$, considerando que só $\sim$10% da massa total de uma estrela é de fato consumida no núcleo), o tempo de vida $t_{SP}$ é proporcional à razão entre massa de combustível disponível e a taxa de consumo (luminosidade):
 
@@ -98,17 +98,17 @@ ou seja, **o tempo de vida na Sequência Principal decresce fortemente com a mas
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Diagrama HR:** temperatura/cor vs. luminosidade/magnitude absoluta; revela simultaneamente massa, raio e estágio evolutivo de uma estrela.
 - **Relação massa-luminosidade:** $L \propto M^4$ (aprox., para $0{,}1$–$10\,M_\odot$) — a classificação espectral é também uma sequência de massas.
 - **Tempo de vida na SP $\propto M^{-3}$:** por que estrelas massivas, apesar de terem mais combustível, evoluem muito mais rápido.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Russell (1914) — diagrama HR original
 - Reid (1987) — relação massa-luminosidade
-- [[pt-br/resource/curso-on/|Curso ON — visão geral]]
+- [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares|Curso ON — visão geral]]
 - [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]] — isócronas e turnoffs como relógios de idade
 - [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas]]
 - [[pt-br/resource/escolainverno/ArqGal/|Escola de Inverno — Arqueologia Galáctica, Aula 01]] — mesmo diagrama HR/cor-magnitude, com foco em populações estelares em vez de $t_{SP}\propto M^{-3}$

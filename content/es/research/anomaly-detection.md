@@ -1,4 +1,7 @@
 ---
+publish: false
+title: Detección de Anomalías en Datos de Gaia
+created: 2025-09-01
 cssclasses:
   - page-layout
 ---

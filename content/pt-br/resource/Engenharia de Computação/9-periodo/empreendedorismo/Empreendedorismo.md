@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Empreendedorismo"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.68`
 > - **Período:** 9º Período | **Núcleo:** Específica | **Carga Horária:** 40
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor e medidas de qualidade. Startups.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Proporcionar aos acadêmicos o conhecimento das características empreendedoras, a busca das oportunidades de negócios e o desenvolvimento do plano de negócios de empresas, bem como prepará-los para empreender e avaliar os riscos em atividades voltadas a sua atuação na área da engenharia de computação.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Empreendedor e os Fatores de Sucesso**
 > 	- Conceito de Empreendedorismo
 > 	- O que é ser Empreendedor
@@ -71,12 +68,12 @@ cssclasses:
 > 	- Aspectos e Medidas da Qualidade
 > 	- Simulação de um Plano de Negócios
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004.
 > 2. CHÉR, R. Empreendedorismo na veia: um aprendizado constante. Rio de Janeiro: Elsevier: SEBRAE,
 > 3. TAJRA, S. F. Empreendedorismo: Conceitos e Práticas Inovadoras. 1 Ed. São Paulo. Érica, 2014.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. DRUCKER, P. F. Inovação e espírito empreendedor: prática e princípios. São Paulo: Pioneira, 2005. liveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo:
 > 2. Atlas, 2011;
 > 3. KOTLER, P. Administração de marketing.
@@ -91,15 +88,5 @@ cssclasses:
 > 12. Negócios de impacto socioambiental no Brasil: como empreender, financiar e apoiar / Organizadores: Edgard Barki, Graziella Maria Comini, Haroldo da Gama Torres. - Rio de Janeiro : FGV Editora, 2019. 376 p.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/9-periodo/empreendedorismo/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/empreendedorismo/Anotações/Esboço/aula-01-empreendedor-e-os-fatores-de-sucesso|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/empreendedorismo/Anotações/Esboço/aula-02-conceito-de-empreendedorismo|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/empreendedorismo/Anotações/Esboço/aula-03-o-que-é-ser-empreendedor|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/empreendedorismo/Anotações/Esboço/aula-04-perfil-empreendedor-e-autoavaliação-de-c|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/empreendedorismo/Anotações/Esboço/aula-05-empreendedor-de-negócios-e-de-empresas|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/empreendedorismo/Anotações/Esboço/aula-06-fatores-de-sucesso|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

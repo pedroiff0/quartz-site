@@ -2,7 +2,7 @@
 publish: false
 title: Projeto e Análise de Algoritmos
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -57,7 +57,7 @@ O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topoló
 - **Pular a formulação na programação dinâmica** — Tentar escrever o código da PD antes de definir no papel o que é o estado, qual a recorrência e quais os casos base. PD se resolve primeiro em português e matemática, depois em código; invertido, vira tentativa e erro interminável.
 - **Otimizar sem medir e sem analisar** — Gastar horas otimizando micro-detalhes de uma função que contribui 1% do tempo total, enquanto o gargalo assintótico fica intocado. A ordem certa: analisar a complexidade, medir onde o tempo vai de fato, e só então otimizar — o algoritmo antes da constante.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Livros e apostilas abertas
 
@@ -67,7 +67,7 @@ O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topoló
 
 - CORMEN, T. H. et al. _Algoritmos: Teoria e Prática_ (CLRS). — **A** referência da área, adotada no mundo inteiro. Denso, mas é o livro que cobre desta trilha inteira com rigor: análise, recorrências, PD, gulosos, grafos e NP-completude. Use como consulta por capítulo, não como leitura linear.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: Data Structures & Algorithms](https://roadmap.sh/datastructures-and-algorithms) — checklist completo do que dominar em estruturas e algoritmos, na ordem certa de dependência.
 - [VisuAlgo](https://visualgo.net/) — animações passo a passo de ordenações, árvores, grafos e até recursão. Ver o mergesort dividir e mesclar visualmente vale por páginas de explicação; use antes de cada implementação.
@@ -77,4 +77,4 @@ O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topoló
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos|Projeto e Análise de Algoritmos]] — a disciplina do 5º período que cobre exatamente esta trilha; chegue nela com as estruturas de dados frescas na cabeça.
+- [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/Projeto e Análise de Algoritmos|Projeto e Análise de Algoritmos]] — a disciplina do 5º período que cobre exatamente esta trilha; chegue nela com as estruturas de dados frescas na cabeça.

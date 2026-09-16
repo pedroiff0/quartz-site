@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Processamento de Sinais"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,29 +11,29 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.83`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Introdução ao processamento digital de sinais. Fundamentos matemáticos de sinais e sistemas discretos. Análise em frequência de sinais. Transformada discreta de Fourier (DFT) e transformada rápida de Fourier (FFT). Filtros digitais: análise, estruturas, técnicas de projeto e aspectos práticos
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Apresentar os conceitos básicos de Processamento Digital de Sinais nos domínios do tempo e da frequência.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/index|CSECBJI.31 - Cálculo IV]]
-> - [[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/index|CSECBJI.47 - Comunicação de Dados]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/Cálculo IV|CSECBJI.31 - Cálculo IV]]
+> - [[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/Comunicação de Dados|CSECBJI.47 - Comunicação de Dados]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Introdução ao Processamento Digital de Sinais**
 > 	- Domínios de Tempo Contínuo e Discreto
 > 	- Aplicações de Processamento Digital
@@ -61,14 +58,14 @@ cssclasses:
 > 	- Filtros Analógicos de Referência
 > 	- Quantização de Coeficientes e Impacto
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. DINIZ, P. S. R., SILVA, E. A. B., NETTO, S. L. Processamento Digital de Sinais: Projeto e Análise de Sistemas. 2ª Edição. Porto Alegre: Bookman, 2014.
 > 2. GURJÃO, E., CARVALHO, J., VELOSO, L. R. Introdução à Análise de Sinais e Sistemas. São Paulo:
 > 3. Elsevier, 2015.
 > 4. PPENHEIM, A., SCHAFER, R. W. Processamento em Tempo Discreto de Sinais. 3ª Edição. São Paulo:
 > 5. Pearson, 2013.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. ALCAIN, A. Fundamentos de Processamento de Sinais Voz e Imagem. Rio de Janeiro: Interciência,
 > 2. COSTA, C. Processamento de Sinais para Engenheiros: Teoria e Prática. Rio de Janeiro: Bonecker,
 > 3. NALON, J. A. Introdução ao Processamento Digital de Sinais. Rio de Janeiro: LTC, 2009.
@@ -76,15 +73,5 @@ cssclasses:
 > 5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman. 2003.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Anotações/Esboço/aula-01-introdução-ao-processamento-digital-de-s|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Anotações/Esboço/aula-02-domínios-de-tempo-contínuo-e-discreto|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Anotações/Esboço/aula-03-aplicações-de-processamento-digital|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Anotações/Esboço/aula-04-discretização-temporal-e-quantização-em-|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Anotações/Esboço/aula-05-teoria-da-amostragem|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Anotações/Esboço/aula-06-fundamentos-matemáticos-de-sinais-e-sist|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

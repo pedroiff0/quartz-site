@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Física III"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,30 +11,30 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.26`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Rodrigo Lacerda (rodrigo.lacerda@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais, força magnética, momento magnético, efeito Hall, campo magnético em cargas móveis, Lei de Biot-Savart, Lei de Faraday, Lei de Ampère, indutância, circuitos RL e RLC.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - ● Dar subsídios físicos sobre os conceitos da Teoria Eletromagnética da natureza, assim como aplicá-los nas atividades profissionais do engenheiro.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
-> - [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/index|CSECBJI.17 - Cálculo III]]
-> - [[pt-br/resource/Engenharia de Computação/3-periodo/fisica-ii/index|CSECBJI.19 - Física II]]
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/5-periodo/eletricidade-aplicada/index|CSECBJI.33 - Eletricidade Aplicada]]
-> - [[pt-br/resource/Engenharia de Computação/5-periodo/eletronica-analogica/index|CSECBJI.37 - Eletrônica Analógica]]
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
+> - [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/Cálculo III|CSECBJI.17 - Cálculo III]]
+> - [[pt-br/resource/Engenharia de Computação/3-periodo/fisica-ii/Física II|CSECBJI.19 - Física II]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/5-periodo/eletricidade-aplicada/Eletricidade Aplicada|CSECBJI.33 - Eletricidade Aplicada]]
+> - [[pt-br/resource/Engenharia de Computação/5-periodo/eletronica-analogica/Eletrônica Analógica|CSECBJI.37 - Eletrônica Analógica]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Eletrostática**
 > 	- Conceitos fundamentais;
 > 	- Modelos atômicos;
@@ -72,15 +69,15 @@ cssclasses:
 > 	- Lei de Indução de Faraday;
 > 	- Circuitos RL e RLC.
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. RESNICK, R., WALKER, J.
 > 2. HALLIDAY, D. Fundamentos de Física – Volume 3 – Eletromagnetismo. 10ª Edição. Rio de Janeiro, LTC, 2016.
 > 3. SERWAY, R., JEWETT, J. Princípios de Física – Volume III – Eletromagnetismo. 2ª Edição. São Paulo:
 > 4. Cengage Learning, 2014.
 > 5. YOUNG, H. D., FREEDMAN, R.A. Física III: Eletromagnetismo. 14ª Edição. São Paulo: Pearson, 2015.
 > 6. Vol.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Eletricidade e Magnetismo. São Paulo: AMGH, 2013.
 > 2. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 3: Eletricidade e Magnetismo. 9ª Edição. São Paulo: Cengage Learning, 2017.
 > 3. CHAVES, A. Física Básica: Eletromagnetismo. Rio de Janeiro, LTC.
@@ -88,15 +85,5 @@ cssclasses:
 > 5. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Eletricidade, Magnetismo e Ótica. 6ª Edição. Rio de Janeiro: LTC, 2009.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Anotações/Esboço/aula-01-eletrostática|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Anotações/Esboço/aula-02-conceitos-fundamentais|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Anotações/Esboço/aula-03-modelos-atômicos|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Anotações/Esboço/aula-04-processos-de-eletrização|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Anotações/Esboço/aula-05-condutores-isolantes|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Anotações/Esboço/aula-06-princípios-da-eletrostática|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

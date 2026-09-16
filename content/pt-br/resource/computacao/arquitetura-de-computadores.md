@@ -2,7 +2,7 @@
 publish: false
 title: Arquitetura de Computadores
 created: 2026-07-18 13:04
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:49
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -57,7 +57,7 @@ O que dominar: superescalar, multicore, coerência de cache em alto nível; e do
 - **Confundir organização com arquitetura** — Arquitetura (ISA) é o que o programador vê: instruções e registradores. Organização é como o hardware implementa isso por dentro: pipeline, caches, unidades funcionais. Dois processadores da mesma arquitetura podem ter organizações totalmente diferentes — é por isso que o curso tem as duas disciplinas.
 - **Em embarcados, copiar sketch sem ler datasheet** — Copiar código de Arduino que "funciona" sem entender qual registrador ele configura te deixa refém de exemplos prontos. O salto de qualidade em embarcados é exatamente aprender a ler o datasheet do chip e configurar o periférico você mesmo.
 
-## 📚 Materiais recomendados
+## Materiais recomendados
 
 ### Livros e apostilas abertas
 
@@ -68,7 +68,7 @@ O que dominar: superescalar, multicore, coerência de cache em alto nível; e do
 - TANENBAUM, A. S. _Organização Estruturada de Computadores_. — A visão em camadas, do transistor à linguagem de montagem; excelente primeiro livro da área.
 - PATTERSON, D.; HENNESSY, J. _Organização e Projeto de Computadores_. — A referência definitiva de caminho de dados, pipeline e hierarquia de memória; é o livro das etapas 3 e 4.
 
-## 🔗 Referências externas
+## Referências externas
 
 - [Roadmap: Computer Science](https://roadmap.sh/computer-science) — a seção de arquitetura do roadmap situa este tópico em relação a SO, compiladores e redes.
 - [Nand2Tetris](https://www.nand2tetris.org/) — construa um computador funcional a partir de portas NAND: ULA, registradores, CPU, montador. É o curso-projeto que transforma arquitetura de matéria decorada em coisa que você **fez**. Recomendação máxima.
@@ -78,7 +78,7 @@ O que dominar: superescalar, multicore, coerência de cache em alto nível; e do
 
 ## Conexão com as disciplinas do curso
 
-- [[pt-br/resource/engenharia-de-computação/7-periodo/organizacao-de-computadores|Organização de Computadores]] — etapas 1 e 2 da trilha: componentes, ciclo de instrução, ISA.
-- [[pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores|Arquitetura de Computadores]] — etapa 3: pipeline, cache, memória e desempenho.
-- [[pt-br/resource/engenharia-de-computação/8-periodo/microcontroladores|Microcontroladores]] — a etapa 4 aplicada: programação direto no hardware.
-- [[pt-br/resource/engenharia-de-computação/9-periodo/sistemas-embarcados|Sistemas Embarcados]] — integração de tudo: hardware, firmware e restrições de tempo real.
+- [[pt-br/resource/Engenharia de Computação/7-periodo/organizacao-de-computadores/Organização de Computadores|Organização de Computadores]] — etapas 1 e 2 da trilha: componentes, ciclo de instrução, ISA.
+- [[pt-br/resource/Engenharia de Computação/8-periodo/arquitetura-de-computadores/Arquitetura de Computadores|Arquitetura de Computadores]] — etapa 3: pipeline, cache, memória e desempenho.
+- [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/Microcontroladores|Microcontroladores]] — a etapa 4 aplicada: programação direto no hardware.
+- [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/Sistemas Embarcados|Sistemas Embarcados]] — integração de tudo: hardware, firmware e restrições de tempo real.

@@ -2,7 +2,7 @@
 title: "Planejamento Letivo e Cronograma - LaTeX & Escrita Acadêmica"
 publish: true
 created: 2026-08-04 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:34
 tags:
   - latex
   - cronograma
@@ -12,7 +12,7 @@ cssclasses:
   - page-layout
 ---
 
-# 📅 Planejamento Letivo e Cronograma de Atividades
+# Planejamento Letivo e Cronograma de Atividades
 
 > **Instituição:** Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana  
 > **Professor Responsável:** Prof. Dr. Pedro Henrique Rocha de Andrade  
@@ -22,7 +22,7 @@ cssclasses:
 
 ---
 
-## 🎯 Apresentação do Planejamento e Eixos Didáticos
+## Apresentação do Planejamento e Eixos Didáticos
 
 O curso de **LaTeX & Escrita Acadêmica** está estruturado em 20 Aulas (encontros letivos semanais de 3h de duração prática) distribuídas entre **24 de agosto de 2026 e 20 de dezembro de 2026**. O planejamento articula teoria, normalização bibliográfica e programação documental em dois grandes blocos:
 
@@ -31,7 +31,7 @@ O curso de **LaTeX & Escrita Acadêmica** está estruturado em 20 Aulas (encontr
 
 ---
 
-## 📊 Forma de Avaliação em Dois Bimestres
+## Forma de Avaliação em Dois Bimestres
 
 A avaliação do curso é contínua e somativa, dividida em dois bimestres temáticos com focos avaliativos distintos. **Os pesos e datas apresentados são flexíveis**, podendo ser adaptados pelo professor conforme a dinâmica de aprendizado e evolução prática da turma em laboratório:
 
@@ -45,19 +45,19 @@ graph LR
     C --> C2[20% Teste Prático em Sala]
 ```
 
-### 🔹 1º Bimestre — Metodologia Científica, Normalização e ABNT (Aulas 01 a 10)
+### 1º Bimestre — Metodologia Científica, Normalização e ABNT (Aulas 01 a 10)
 - **60% — Trabalho Prático de Escrita:** Elaboração fundamentada de elementos pré-textuais, introdução (lacuna de pesquisa), revisão sistemática da literatura (PRISMA 2020) e metodologia científica alinhadas às normas canônicas ABNT.
 - **40% — Teste Prático em Aula:** Resolução individual em sala/laboratório de exercícios de verificação de normalização, citações ABNT NBR 10520:2023 e estruturação tabular IBGE 1993.
 
-### 🔹 2º Bimestre — Domínio TeX, Implementação e Automação ReLaTeX (Aulas 11 a 20)
+### 2º Bimestre — Domínio TeX, Implementação e Automação ReLaTeX (Aulas 11 a 20)
 - **80% — Implementação Diferenciada e Customizada em LaTeX:** Desenvolvimento de documento acadêmico ou projeto científico estendido a partir da **base do modelo institucional do professor** (`ifftese.cls` ou `slidesiffmodelo.cls`), demonstrando originalidade, criação de macros customizadas (`macros.sty`), tabelas `booktabs` e gráficos vetoriais `TikZ`.
 - **20% — Teste Prático em Aula:** Avaliação de laboratório envolvendo compilação ao vivo, resolução de conflitos bibliográficos com Biber, depuração de preâmbulo e automatização com `latexmkrc`.
 
 ---
 
-## 🏛️ Cronograma Analítico por Encontro (Terças-feiras, 14h30 às 17h30)
+## Cronograma Analítico por Encontro (Terças-feiras, 14h30 às 17h30)
 
-### 📘 Módulo I — Epistemologia, Metodologia Científica e Elementos Pré-Textuais
+### Módulo I — Epistemologia, Metodologia Científica e Elementos Pré-Textuais
 - **Aula 01 — 25/08/2026:** [[pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses|Epistemologia, Problematização e Hipóteses]]  
   *Escopo:* Ruptura epistemológica, Falsificacionismo de Popper e formulação de hipóteses científicas.
 - **Aula 02 — 01/09/2026:** [[pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa|Objetivos, Taxonomia de Bloom e Justificativa]]  
@@ -69,7 +69,7 @@ graph LR
 
 ---
 
-### 📘 Módulo II — Estrutura Textual, Introdução, PRISMA e Metodologia
+### Módulo II — Estrutura Textual, Introdução, PRISMA e Metodologia
 - **Aula 05 — 22/09/2026:** [[pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa|Introdução e Lacuna de Pesquisa (*Research Gap*)]]  
   *Escopo:* Técnica do funil argumentativo e delimitação precisa do problema científico.
 - **Aula 06 — 29/09/2026:** [[pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma|Revisão Sistemática da Literatura e Protocolo PRISMA]]  
@@ -81,7 +81,7 @@ graph LR
 
 ---
 
-### 📘 Módulo III — Resultados, Discussão, Citações NBR 10520 e Referências NBR 6023
+### Módulo III — Resultados, Discussão, Citações NBR 10520 e Referências NBR 6023
 - **Aula 09 — 20/10/2026:** [[pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt|Resultados e Apresentação de Dados (IBGE vs ABNT)]]  
   *Escopo:* Diferenciação técnica entre Tabelas (**IBGE 1993**) e Quadros (**ABNT NBR 14724**).
 - **Aula 10 — 27/10/2026:** [[pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023|Discussão, Citações NBR 10520 e Referências NBR 6023]]  
@@ -89,7 +89,7 @@ graph LR
 
 ---
 
-### 📗 Módulo IV — Arquitetura LaTeX (.tex), Motores, Sintaxe, Tabelas e Gráficos
+### Módulo IV — Arquitetura LaTeX (.tex), Motores, Sintaxe, Tabelas e Gráficos
 - **Aula 11 — 03/11/2026:** [[pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex|Arquitetura LaTeX, Motores TeX e Preâmbulo .tex]]  
   *Escopo:* Kernel LaTeX2e, motores PDFLaTeX/LuaLaTeX/XeLaTeX e preâmbulo multi-idioma.
 - **Aula 12 — 10/11/2026:** [[pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs|Sintaxe Matemática amsmath e Tabelas booktabs]]  
@@ -101,7 +101,7 @@ graph LR
 
 ---
 
-### 📗 Módulo V — Engenharia ReLaTeX (.cls e .sty), Metadados, Macros e Automação
+### Módulo V — Engenharia ReLaTeX (.cls e .sty), Metadados, Macros e Automação
 - **Aula 15 — 01/12/2026:** [[pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty|Engenharia do Arquivo de Metadados sty]]  
   *Escopo:* Estrutura de `metadados.sty`, escopo de variáveis e flexão gramatical.
 - **Aula 16 — 08/12/2026:** [[pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty|Desenvolvimento de Pacotes e Macros sty]]  

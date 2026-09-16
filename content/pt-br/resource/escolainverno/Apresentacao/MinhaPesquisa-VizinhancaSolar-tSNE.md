@@ -6,7 +6,7 @@ discipline: Apresentação de Pesquisa
 content: Mapeamento não supervisionado da vizinhança solar com GCNS + GALAH DR4 usando t-SNE (Banner SBPC e Banner Escola de Inverno)
 professor: Orientação de Maria Luiza Linhares Dantas
 created: 2026-07-22 13:34
-modified: 2026-09-14 10:29
+modified: 2026-09-15 21:34
 tags:
   - pesquisa
   - t-sne
@@ -18,44 +18,44 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# 🔭 Minha Pesquisa — Mapeando a Vizinhança Solar com t-SNE
+# Minha Pesquisa — Mapeando a Vizinhança Solar com t-SNE
 
 > [!abstract] Sobre esta nota
 > Este é um texto corrido, em linguagem tranquila, para eu (re)explicar minha própria pesquisa antes de apresentá-la — reunindo o que está nos dois banners que preparei: o **Banner SBPC 2026** e o **Banner da Escola de Inverno**. Os PDFs originais ficam anexados abaixo só como referência visual (pra eu olhar os gráficos); o conteúdo escrito já está todo explicado em texto aqui embaixo, então não preciso decorar o banner palavra por palavra.
 
 ---
 
-## 📎 Banners (anexar aqui como referência)
+## Banners (anexar aqui como referência)
 
-> [!example]- 📄 Banner SBPC 2026 — "Unveiling the Solar vicinity..." (clique para expandir)
+> [!example]-  Banner SBPC 2026 — "Unveiling the Solar vicinity..." (clique para expandir)
 > !*Banner da SBPC*
 > *Coloque aqui o PDF exportado do Overleaf (projeto `BannerSBPC`). Basta arrastar o arquivo para esta mesma pasta (`Apresentacao/`) com o nome `BannerSBPC.pdf` que o embed acima passa a funcionar sozinho no Obsidian.*
 
-> [!example]- 📄 Banner Escola de Inverno — versão em português (clique para expandir)
+> [!example]-  Banner Escola de Inverno — versão em português (clique para expandir)
 > !*Banner da Escola de Inverno*
 > *Mesma ideia: arraste o PDF exportado do projeto `BannerEscolaInverno` para esta pasta com esse nome.*
 
 ---
 
-## 🎯 Do que se trata a pesquisa, em uma frase
+## Do que se trata a pesquisa, em uma frase
 
 Estou tentando entender **quem são as estrelas perto do Sol** — de onde vieram, que idade têm, que "sotaque químico" carregam — só que, em vez de plotar diagramas prontos escolhidos à mão, deixo um algoritmo de **aprendizado não supervisionado (t-SNE)** encontrar sozinho os agrupamentos diretamente nos espectros das estrelas, e só depois eu confiro se esses agrupamentos fazem sentido físico.
 
 ---
 
-## 🧑‍🤝‍🧑 Quem fez
+## Quem fez
 
 O trabalho é assinado por mim (**Pedro Henrique Rocha de Andrade**, IFF – Campus Bom Jesus do Itabapoana), pela **Ana Cecília Soja** (também IFF) e pela minha orientadora **Maria Luiza Linhares Dantas** (Instituto de Astrofísica da Pontificia Universidad Católica de Chile). O projeto tem apoio do CNPq, do IFF e, do lado da Maria Luiza, da ANID (agência chilena de pesquisa).
 
 ---
 
-## 🌌 Por que olhar para a "vizinhança solar"?
+## Por que olhar para a "vizinhança solar"?
 
 Essa ideia de usar a composição química das estrelas como pista da história da Galáxia é exatamente a **arqueologia galáctica** que discuti na nota da Escola de Inverno (ver [[260720-Arqueologia-Galactica-Aula01]]): cada estrela "carrega" no espectro dela a assinatura química do gás de que se formou, então olhar abundâncias + movimento (cinemática) das estrelas funciona como pistas químio-dinâmicas para reconstruir de onde vieram, quais nasceram juntas (grupos coetâneos) e como o enriquecimento químico local aconteceu ao longo do tempo. O problema é que descrever uma estrela direito envolve muita coisa ao mesmo tempo — posição e movimento no espaço (astrometria/cinemática), temperatura, gravidade superficial, e até **dezenas de abundâncias químicas diferentes**. Isso é um espaço de parâmetros gigante e cheio de relações não lineares, difícil de visualizar com os diagramas tradicionais (um par de eixos de cada vez). Por isso a ideia de usar uma técnica de **redução de dimensionalidade não supervisionada**, que olha tudo de uma vez e organiza sozinha.
 
 ---
 
-## 📊 Os dados: GCNS + GALAH DR4
+## Os dados: GCNS + GALAH DR4
 
 Dois catálogos entram nessa história:
 
@@ -66,7 +66,7 @@ Cruzando esses dois catálogos por identificação segura de cada estrela, sobra
 
 ---
 
-## 🧠 A ideia central: deixar o t-SNE "descobrir" sozinho
+## A ideia central: deixar o t-SNE "descobrir" sozinho
 
 Aqui está a virada de chave dos dois banners: em vez de já entrar calculando `[Fe/H]` ou `[Mg/Fe]` e jogando num gráfico (o jeito clássico), eu alimento o algoritmo **diretamente com o fluxo espectral normalizado** — ou seja, o espectro bruto (já tratado) de cada estrela, que tem milhares de pontos (dimensões). O algoritmo usado é o **t-SNE** (*t-distributed Stochastic Neighbor Embedding*): ele pega esse espaço de altíssima dimensão e "achata" numa projeção 2D, tentando preservar ao máximo quem estava perto de quem originalmente — estrelas com espectros parecidos acabam próximas no mapa final, mesmo sem eu ter dito ao algoritmo o que procurar.
 
@@ -77,7 +77,7 @@ Só **depois** de gerar essa projeção 2D é que eu volto e coloro cada ponto p
 
 ---
 
-## ✅ Isso realmente funciona? (validação quantitativa)
+## Isso realmente funciona? (validação quantitativa)
 
 Não basta o mapa "parecer bonito" — dá pra medir objetivamente se a projeção em 2D é confiável, usando três métricas (essa parte é o coração do **Banner SBPC**, mais focado na validação técnica do método):
 
@@ -91,7 +91,7 @@ E o resultado mais interessante: em **ambas** as perplexidades (30 e 50), aparec
 
 ---
 
-## 🪐 E a astrofísica por trás disso? (o que o Banner da Escola de Inverno acrescenta)
+## E a astrofísica por trás disso? (o que o Banner da Escola de Inverno acrescenta)
 
 Enquanto o banner do SBPC fica mais no "o método funciona e é confiável", o **Banner da Escola de Inverno** dá um passo a mais e usa a amostra pra **caracterizar de fato quem são essas estrelas da vizinhança solar**, com os diagramas astrofísicos clássicos:
 
@@ -105,13 +105,13 @@ A vizinhança solar analisada é dominada por estrelas de **sequência principal
 
 ---
 
-## 🔮 Próximos passos
+## Próximos passos
 
 A ideia daqui pra frente é usar **clusterização baseada em densidade** (como o algoritmo **HDBSCAN**) em cima da projeção do t-SNE, para caracterizar de forma mais objetiva (e não só visual) aquele subgrupo destacado que apareceu tanto em perplexidade 30 quanto em 50 — e complementar com mais diagnósticos de *chemical tagging* (comparação detalhada de abundâncias químicas) pra testar se esse grupo é mesmo uma população à parte.
 
 ---
 
-## 📌 Glossário rápido (pra não esquecer na hora de apresentar)
+## Glossário rápido (pra não esquecer na hora de apresentar)
 
 - **t-SNE:** técnica de redução de dimensionalidade não linear que projeta dados de altíssima dimensão em 2D, preservando ao máximo as relações de vizinhança.
 - **Perplexidade:** hiperparâmetro do t-SNE que controla o "tamanho" da vizinhança considerada — baixa = foco local, alta = foco global.
@@ -125,6 +125,6 @@ A ideia daqui pra frente é usar **clusterização baseada em densidade** (como 
 
 ---
 
-## 🔗 Ver também
+## Ver também
 - [[260720-Arqueologia-Galactica-Aula01]] — conceitos de populações estelares, metalicidade e classificação espectral usados nesta pesquisa.
 - [[00-Resumo-Escola-de-Inverno]] — panorama geral da Escola de Inverno.

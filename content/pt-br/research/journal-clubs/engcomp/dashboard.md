@@ -2,7 +2,7 @@
 publish: true
 title: Dashboard do clube
 created: 2026-08-01 13:04
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:50
 published: 2026-08-01T16:26:58.164-03:00
 tags:
   - journal-club
@@ -13,14 +13,14 @@ cssclasses:
 ---
 
 > [!note] Resumo
-> Como o journal club de Engenharia de Computação vem andando: quantos artigos foram discutidos, com que frequência, em quais tópicos e por quem. Tudo calculado no build a partir das próprias [[pt-br/research/Journal-Clubs/engcomp/|notas de artigo]] — não há planilha por trás, e nenhum número é digitado à mão.
+> Como o journal club de Engenharia de Computação vem andando: quantos artigos foram discutidos, com que frequência, em quais tópicos e por quem. Tudo calculado no build a partir das próprias [[pt-br/research/Journal-Clubs/engcomp/Journal Club — ENGCOMP|notas de artigo]] — não há planilha por trás, e nenhum número é digitado à mão.
 
 Os números abaixo se movem sozinhos: publique uma nota de artigo com `apresentador`, `topico` e `discutido` preenchidos e ela entra na conta no próximo build.
 
 ---
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
-- [[pt-br/research/Journal-Clubs/engcomp/|ENGCOMP — artigos já discutidos]]
-- [[pt-br/research/journal-clubs/engcomp/topicos|Tópicos e onde procurar]]
-- [[pt-br/research/Journal-Clubs/|Journal Clubs — visão geral]]
+- [[pt-br/research/Journal-Clubs/engcomp/Journal Club — ENGCOMP|ENGCOMP — artigos já discutidos]]
+- [[pt-br/research/Journal-Clubs/engcomp/topicos|Tópicos e onde procurar]]
+- [[pt-br/research/Journal-Clubs/Journal Clubs — Índice|Journal Clubs — visão geral]]

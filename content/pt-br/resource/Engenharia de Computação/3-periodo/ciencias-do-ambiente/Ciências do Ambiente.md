@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Ciências do Ambiente"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.24`
 > - **Período:** 3º Período | **Núcleo:** Básico | **Carga Horária:** 40
 > - **Docente Responsável:** Carlos Dambroz (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; Desenvolvimento Sustentável.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Desenvolver a compreensão sobre os principais conceitos envolvidos e fundamentos ecológicos relacionados ao estudo da disciplina ciências do ambiente, mostrando a importância do estudo ao futuro profissional, capacitando-o de forma contextualizada com a profissão.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Conceitos Básicos**
 > 	- A crise ambiental
 > 	- Recursos Naturais
@@ -63,15 +60,15 @@ cssclasses:
 > 	- Economia e Meio ambiente
 > 	- Avaliação de impactos ambientais
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. BRAGA, B., HESPANHOL, I., CONEJO, J. G. L., MIERZWA, J. C., BARROS, M. T. L., CAPAZ, R. S., NOGUEIRA, L. H. Ciências Ambientais para Engenharia. São Paulo: Elsevier, 2014.
 > 2. FANTINATTI, P., ZUFFO, A., ARGOLLO, A. F. Indicadores de Sustentabilidade em Engenharia. São Paulo: Elsevier, 2014.
 > 3. SPENCER, M.
 > 4. NUCCI, N.
 > 5. JULIANO, N.
 > 6. ELGER, S. Introdução à engenharia ambiental: O Desafio do Desenvolvimento Sustentável. São Paulo: Pearson, 2005.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. BOTKIN, D. B., KELLER, E. A. Ciência Ambiental: Terra, um Planeta Vivo. 7ª Edição. Rio de Janeiro, LTC, 2011.
 > 2. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:
 > 3. Elsevier, 2012.
@@ -81,15 +78,5 @@ cssclasses:
 > 7. MIHELCIC, J. R., ZIMMERMAN, J. B. Engenharia Ambiental: Fundamentos, Sustentabilidade e Projeto. Rio de Janeiro: LTC, 2017.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/3-periodo/ciencias-do-ambiente/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/ciencias-do-ambiente/Anotações/Esboço/aula-01-conceitos-básicos|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/ciencias-do-ambiente/Anotações/Esboço/aula-02-a-crise-ambiental|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/ciencias-do-ambiente/Anotações/Esboço/aula-03-recursos-naturais|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/ciencias-do-ambiente/Anotações/Esboço/aula-04-poluição|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/ciencias-do-ambiente/Anotações/Esboço/aula-05-ecossistemas|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/3-periodo/ciencias-do-ambiente/Anotações/Esboço/aula-06-definição-e-estrutura|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

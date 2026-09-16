@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Fundamentos de Computação"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,29 +11,29 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.1`
 > - **Período:** 1º Período | **Núcleo:** Básica | **Carga Horária:** —
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Software; Unidades de Medida; Linguagens de Programação; Sistemas Operacionais; Redes de Computadores.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Apresentar os principais conceitos acerca da informática e da computação, possibilitando que o discente compreenda, inicialmente, a organização e o funcionamento de sistemas computação.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/organizacao-de-computadores/index|CSECBJI.52 - Organização de Computadores]]
-> - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/index|CSECBJI.56 - Sistemas Operacionais I]]
+> ### Disciplinas Trancadas (Liberadas após conclusão):
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/organizacao-de-computadores/Organização de Computadores|CSECBJI.52 - Organização de Computadores]]
+> - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/Sistemas Operacionais I|CSECBJI.56 - Sistemas Operacionais I]]
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. História da Computação:**
 > 	- Introdução;
 > 	- Origens e História da Computação.
@@ -67,12 +64,12 @@ cssclasses:
 > 	- Meios de Comunicação: Cabo Metálico; Sem Fio; Óptico.
 > - **10. Equipamentos de Rede.**
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. BROOKSHEAR, J. G. Ciência da Computação: Uma Visão Abrangente. 11ª Edição, Bookman, 2013.
 > 2. CARVALHO, C. P. L. F, LORENA, A. C. Introdução à Computação: Hardware, Software e Dados.
 > 3. LTC, WAZLAWICK, R. S. História da Computação. Elsevier, 2016.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. DALE, N., LEWIS, J. Ciência da Computação. 4ª Edição. LTC, 2010.
 > 2. FAROUZAN, B., MOSHARRAF, F. Fundamentos da Ciência da Computação. Cengage Learning, 2011.
 > 3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
@@ -81,15 +78,5 @@ cssclasses:
 > 6. \_\_\_\_\_\_. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Anotações/Esboço/aula-01-história-da-computação|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Anotações/Esboço/aula-02-introdução|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Anotações/Esboço/aula-03-origens-e-história-da-computação|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Anotações/Esboço/aula-04-sistemas-de-numeração-e-representação-de|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Anotações/Esboço/aula-05-história-dos-sistemas-de-numeração|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Anotações/Esboço/aula-06-sistemas-de-numeração-decimal-binário-oc|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

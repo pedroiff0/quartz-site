@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Interconexão de Redes de Computadores"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.80`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Eletivo | **Carga Horária:** 60
 > - **Docente Responsável:** Wesley (wesley.souza@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Projeto de Rede Hierárquico; Conexão à WAN; Conexões Point-to-Point; Frame Relay; NAT; Soluções de Banda Larga; Protegendo a Conectividade de Site para Site; Monitorando a Rede Solucionando Problemas de Rede
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Desenvolver o conhecimento e as habilidades necessários para executar operações IPsec e VPN (Virtual Private Network, Rede Virtual Privada) em uma rede complexa.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Projeto de Rede Hierárquico**
 > - **2. Conexão à WAN**
 > - **3. Conexões Point-to-Point**
@@ -46,13 +43,13 @@ cssclasses:
 > - **8. Monitorando a Rede**
 > - **9. Solucionando Problemas de Rede**
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
 > 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
 > 3. Pearson, 2013.
 > 4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
 > 2. CARISSIMI, A. S., ROCHOL, J.
 > 3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman,
@@ -61,15 +58,5 @@ cssclasses:
 > 6. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/eletivas/interconexao-de-redes-de-computadores/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/interconexao-de-redes-de-computadores/Anotações/Esboço/aula-01-projeto-de-rede-hierárquico|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/interconexao-de-redes-de-computadores/Anotações/Esboço/aula-02-conexão-à-wan|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/interconexao-de-redes-de-computadores/Anotações/Esboço/aula-03-conexões-point-to-point|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/interconexao-de-redes-de-computadores/Anotações/Esboço/aula-04-frame-relay|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/interconexao-de-redes-de-computadores/Anotações/Esboço/aula-05-soluções-de-banda-larga|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/interconexao-de-redes-de-computadores/Anotações/Esboço/aula-06-protegendo-a-conectividade-de-site-para-|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

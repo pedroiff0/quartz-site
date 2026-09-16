@@ -1,0 +1,51 @@
+---
+title: "The Gaia-ESO Public Spectroscopic Survey: Implementation, data products, open cluster survey, science, and legacy"
+first_author: Randich, S.
+year: "2022"
+tags:
+  - paper
+  - pesquisa
+status: Não lido
+pdf_link: "[Randich2022.pdf](02%20-%20Áreas/Acadêmico/Pesquisas/Detecção%20de%20Anomalias/papers/PDFs/Randich2022.pdf)"
+created: 2026-03-06 13:34
+modified: 2026-09-14 20:12
+cssclasses:
+  - page-layout
+---
+
+# Notas — The Gaia-ESO Public Spectroscopic Survey: Implementation, data products, open cluster survey, science, and legacy
+[PDF](02%20-%20Áreas/Acadêmico/Pesquisas/Detecção%20de%20Anomalias/papers/PDFs/Randich2022.pdf) | [[01%20-%20Projetos/Anomaly_Detection/papers/Notes/Randich2022|Nota]]
+
+## Perguntas / Respostas / Notas
+- Perguntas:
+  - 
+- Notas:
+  - 
+- Dados:
+  - 
+
+---
+## BibTeX
+```bibtex
+@ARTICLE{Randich2022,
+       author = {{Randich}, S. and {Gilmore}, G. and {Magrini}, L. and {Sacco}, G.~G. and {Jackson}, R.~J. and {Jeffries}, R.~D. and {Worley}, C.~C. and {Hourihane}, A. and {Gonneau}, A. and {Viscasillas Vazquez}, C. and {Franciosini}, E. and {Lewis}, J.~R. and {Alfaro}, E.~J. and {Allende Prieto}, C. and {Bensby}, T. and {Blomme}, R. and {Bragaglia}, A. and {Flaccomio}, E. and {Fran{\c{c}}ois}, P. and {Irwin}, M.~J. and {Koposov}, S.~E. and {Korn}, A.~J. and {Lanzafame}, A.~C. and {Pancino}, E. and {Recio-Blanco}, A. and {Smiljanic}, R. and {Van Eck}, S. and {Zwitter}, T. and {Asplund}, M. and {Bonifacio}, P. and {Feltzing}, S. and {Binney}, J. and {Drew}, J. and {Ferguson}, A.~M.~N. and {Micela}, G. and {Negueruela}, I. and {Prusti}, T. and {Rix}, H.-W. and {Vallenari}, A. and {Bayo}, A. and {Bergemann}, M. and {Biazzo}, K. and {Carraro}, G. and {Casey}, A.~R. and {Damiani}, F. and {Frasca}, A. and {Heiter}, U. and {Hill}, V. and {Jofr{\'e}}, P. and {de Laverny}, P. and {Lind}, K. and {Marconi}, G. and {Martayan}, C. and {Masseron}, T. and {Monaco}, L. and {Morbidelli}, L. and {Prisinzano}, L. and {Sbordone}, L. and {Sousa}, S.~G. and {Zaggia}, S. and {Adibekyan}, V. and {Bonito}, R. and {Caffau}, E. and {Daflon}, S. and {Feuillet}, D.~K. and {Gebran}, M. and {Gonzalez Hernandez}, J.~I. and {Guiglion}, G. and {Herrero}, A. and {Lobel}, A. and {Maiz Apellaniz}, J. and {Merle}, T. and {Mikolaitis}, {\v{S}}. and {Montes}, D. and {Morel}, T. and {Soubiran}, C. and {Spina}, L. and {Tabernero}, H.~M. and {Tautvai{\v{s}}iene}, G. and {Traven}, G. and {Valentini}, M. and {Van der Swaelmen}, M. and {Villanova}, S. and {Wright}, N.~J. and {Abbas}, U. and {Aguirre B{\o}rsen-Koch}, V. and {Alves}, J. and {Balaguer-Nunez}, L. and {Barklem}, P.~S. and {Barrado}, D. and {Berlanas}, S.~R. and {Binks}, A.~S. and {Bressan}, A. and {Capuzzo-Dolcetta}, R. and {Casagrande}, L. and {Casamiquela}, L. and {Collins}, R.~S. and {D'Orazi}, V. and {Dantas}, M.~L.~L. and {Debattista}, V.~P. and {Delgado-Mena}, E. and {Di Marcantonio}, P. and {Drazdauskas}, A. and {Evans}, N.~W. and {Famaey}, B. and {Franchini}, M. and {Fr{\'e}mat}, Y. and {Friel}, E.~D. and {Fu}, X. and {Geisler}, D. and {Gerhard}, O. and {Gonzalez Solares}, E.~A. and {Grebel}, E.~K. and {Gutierrez Albarran}, M.~L. and {Hatzidimitriou}, D. and {Held}, E.~V. and {Jim{\'e}nez-Esteban}, F. and {J{\"o}nsson}, H. and {Jordi}, C. and {Khachaturyants}, T. and {Kordopatis}, G. and {Kos}, J. and {Lagarde}, N. and {Mahy}, L. and {Mapelli}, M. and {Marfil}, E. and {Martell}, S.~L. and {Messina}, S. and {Miglio}, A. and {Minchev}, I. and {Moitinho}, A. and {Montalban}, J. and {Monteiro}, M.~J.~P.~F.~G. and {Morossi}, C. and {Mowlavi}, N. and {Mucciarelli}, A. and {Murphy}, D.~N.~A. and {Nardetto}, N. and {Ortolani}, S. and {Paletou}, F. and {Palou{\v{s}}}, J. and {Paunzen}, E. and {Pickering}, J.~C. and {Quirrenbach}, A. and {Re Fiorentin}, P. and {Read}, J.~I. and {Romano}, D. and {Ryde}, N. and {Sanna}, N. and {Santos}, W. and {Seabroke}, G.~M. and {Spagna}, A. and {Steinmetz}, M. and {Stonkut{\'e}}, E. and {Sutorius}, E. and {Th{\'e}venin}, F. and {Tosi}, M. and {Tsantaki}, M. and {Vink}, J.~S. and {Wright}, N. and {Wyse}, R.~F.~G. and {Zoccali}, M. and {Zorec}, J. and {Zucker}, D.~B. and {Walton}, N.~A.},
+        title = "{The Gaia-ESO Public Spectroscopic Survey: Implementation, data products, open cluster survey, science, and legacy}",
+      journal = {\aap},
+     keywords = {surveys, catalogs, techniques: spectroscopic, stars: fundamental parameters, stars: abundances, open clusters and associations: general, Astrophysics - Astrophysics of Galaxies, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2022,
+        month = oct,
+       volume = {666},
+          eid = {A121},
+        pages = {A121},
+          doi = {10.1051/0004-6361/202243141},
+archivePrefix = {arXiv},
+       eprint = {2206.02901},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022A&A...666A.121R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+
+---
+## Como citar?
+RANDICH, S. et al. The Gaia-ESO Public Spectroscopic Survey: Implementation, data products, open cluster survey, science, and legacy **Astronomy & Astrophysics**,  v. 666, p. A121,

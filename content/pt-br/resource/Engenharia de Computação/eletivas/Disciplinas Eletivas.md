@@ -1,39 +1,36 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Disciplinas Eletivas"
 created: 2026-07-21 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 cssclasses:
   - page-layout
 ---
 
 
-> [!info] 🎓 Visão Geral e Carga Horária do Período
+> [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `Variável`
 > - **Resumo Pedagógico:** Acervo de disciplinas optativas avançadas para especialização no curso.
 
 
-> [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/index|Inteligência Artificial]]** (`60h` · Núcleo Eletiva)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/eletivas/computacao-grafica/index|Computação Gráfica]]** (`60h` · Núcleo Eletiva)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/index|Processamento de Imagens]]** (`60h` · Núcleo Eletiva)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/index|Desenvolvimento Web]]** (`60h` · Núcleo Eletiva)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/index|Computação Paralela e Distribuída]]** (`60h` · Núcleo Eletiva)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/index|Algoritmos Distribuição]]** (`60h` · Núcleo Eletiva)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/eletivas/geoprocessamento/index|Geoprocessamento]]** (`60h` · Núcleo Eletiva)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/index|Processamento de Sinais]]** (`60h` · Núcleo Eletiva)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/eletivas/libras/index|Libras]]** (`60h` · Núcleo Eletiva)
-> - 📘 **[[pt-br/resource/Engenharia de Computação/eletivas/sociedade-e-tecnologia/index|Sociedade e Tecnologia]]** (`60h` · Núcleo Eletiva)
+> [!note]  Grade Curricular e Disciplinas Integrantes
+> -  **[[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/Inteligência Artificial|Inteligência Artificial]]** (`60h` · Núcleo Eletiva)
+> -  **[[pt-br/resource/Engenharia de Computação/eletivas/computacao-grafica/Computação Gráfica|Computação Gráfica]]** (`60h` · Núcleo Eletiva)
+> -  **[[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/Processamento de Imagens|Processamento de Imagens]]** (`60h` · Núcleo Eletiva)
+> -  **[[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/Desenvolvimento Web|Desenvolvimento Web]]** (`60h` · Núcleo Eletiva)
+> -  **[[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/Computação Paralela e Distribuída|Computação Paralela e Distribuída]]** (`60h` · Núcleo Eletiva)
+> -  **[[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Algoritmos Distribuídos|Algoritmos Distribuição]]** (`60h` · Núcleo Eletiva)
+> -  **[[pt-br/resource/Engenharia de Computação/eletivas/geoprocessamento/Geoprocessamento|Geoprocessamento]]** (`60h` · Núcleo Eletiva)
+> -  **[[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Processamento de Sinais|Processamento de Sinais]]** (`60h` · Núcleo Eletiva)
+> -  **[[pt-br/resource/Engenharia de Computação/eletivas/libras/Libras|Libras]]** (`60h` · Núcleo Eletiva)
+> -  **[[pt-br/resource/Engenharia de Computação/eletivas/sociedade-e-tecnologia/Sociedade e Tecnologia|Sociedade e Tecnologia]]** (`60h` · Núcleo Eletiva)
 
 
-> [!tip] 📎 Documentos e Horários Institucionais
-> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
-> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
+> [!tip]  Documentos e Horários Institucionais
+> -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
+> -  **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
 
-## 🎨 Carrossel de Disciplinas do Período
+## Carrossel de Disciplinas do Período
 
 Navegue interativamente pelas disciplinas deste bloco letivo:
 

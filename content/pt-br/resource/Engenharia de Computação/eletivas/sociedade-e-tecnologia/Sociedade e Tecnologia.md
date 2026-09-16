@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Sociedade e Tecnologia"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,28 +11,28 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.76`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Eletivo | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico e Tecnológico. Trabalho. Processos Produtivos e Relações de Trabalho na sociedade capitalista. Técnica e Tecnologia na sociedade contemporânea. Cultura e Diversidade Cultural
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Compreender as relações sociais, analisando a relação do homem com a natureza, do homem com o homem e com os grupos sociais, enfatizando as relações que se estruturam em torno do trabalho, da tecnologia e da cultura, como dimensões significativas na vida humana.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Distinção das Ciências Sociais e Ciências Naturais**
 > 	- Distinção das Ciências Sociais e Ciências Naturais
 > 	- As Especificidades das Ciências Sociais
@@ -58,12 +55,12 @@ cssclasses:
 > 	- Gênero
 > 	- Tecnologia e Sociedade da Informação: Uma Questão de Inclusão
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. CAPRA, F. O ponto de mutação. 25ª Edição. São Paulo: Cultrix, 1982.
 > 2. CUCHE, D. A noção de cultura nas ciências sociais. Bauru: EDUSC, 2002.
 > 3. LARAIA, R. B. Cultura: Um conceito antropológico. 11 ed. Rio de Janeiro: Jorge Zahar Editor, 2007
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 4. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2009.
 > 5. CATTANI, A. D. Dicionário de Trabalho e Tecnologia. 2ª edição. Porto Alegre: Zouk, 2011.
 > 6. CAVALCANTE, J. Q. P. Sociedade, tecnologia e a Luta pelo Emprego. Rio de Janeiro: LTR, 2018.
@@ -71,15 +68,5 @@ cssclasses:
 > 8. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. Porto Alegre: Arquipélago Editorial, 2018
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/eletivas/sociedade-e-tecnologia/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/sociedade-e-tecnologia/Anotações/Esboço/aula-01-distinção-das-ciências-sociais-e-ciência|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/sociedade-e-tecnologia/Anotações/Esboço/aula-02-distinção-das-ciências-sociais-e-ciência|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/sociedade-e-tecnologia/Anotações/Esboço/aula-03-as-especificidades-das-ciências-sociais|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/sociedade-e-tecnologia/Anotações/Esboço/aula-04-conhecimento-científico-e-tecnológico|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/sociedade-e-tecnologia/Anotações/Esboço/aula-05-formas-de-conhecimento|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/eletivas/sociedade-e-tecnologia/Anotações/Esboço/aula-06-conhecimento-científico|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**

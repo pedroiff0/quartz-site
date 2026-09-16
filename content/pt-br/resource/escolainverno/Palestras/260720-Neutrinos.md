@@ -6,7 +6,7 @@ discipline: Palestra — Física de Partículas e Cosmologia
 content: Neutrinos e a Cosmologia — da física de partículas ao Universo em grande escala
 professor: Gabriel Rodrigues
 created: 2026-07-20 13:34
-modified: 2026-09-07 16:47
+modified: 2026-09-15 21:34
 tags:
   - escola-de-inverno-on
   - palestra
@@ -25,11 +25,11 @@ cssclasses:
 
 ---
 
-## 🎯 Visão geral
+## Visão geral
 
 O **neutrino** é uma das partículas mais abundantes do Universo e, ao mesmo tempo, uma das mais difíceis de detectar — interage tão fracamente com a matéria que bilhões passam pelo seu corpo a cada segundo sem qualquer efeito perceptível. Esta palestra conecta duas escalas radicalmente diferentes: (1) a física de partículas do neutrino — sua descoberta, seus "sabores" e sua massa — e (2) seu papel na **cosmologia**, como parte do inventário de matéria/energia do Universo e como sonda da física fundamental. A ferramenta central que une as duas escalas é a **métrica de Friedmann** e as equações que descrevem a expansão do Universo.
 
-### 📑 Tópicos abordados
+### Tópicos abordados
 1. O que são neutrinos: história e descoberta
 2. O Modelo Padrão da física de partículas
 3. Neutrinos têm massa: hierarquia de massas
@@ -139,7 +139,7 @@ Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão nu
 
 ---
 
-## 📌 Conceitos-chave
+## Conceitos-chave
 
 - **Neutrino:** partícula leptônica neutra, de interação fraca extremamente sutil, existente em três sabores ($\nu_e, \nu_\mu, \nu_\tau$).
 - **Oscilação de neutrinos:** transformação entre sabores durante a propagação — prova de que neutrinos têm massa (descoberta em 1998).
@@ -149,7 +149,7 @@ Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão nu
 
 ---
 
-## ❓ Perguntas e discussões da palestra
+## Perguntas e discussões da palestra
 
 > [!question] Perguntas
 > *(nenhuma pergunta registrada nesta palestra)*

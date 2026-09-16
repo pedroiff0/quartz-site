@@ -1,11 +1,8 @@
 ---
-aliases:
-  - index
-
 publish: true
 title: "Direito, Ética e Cidadania"
 created: 2026-07-18 12:00
-modified: 2026-09-14 20:12
+modified: 2026-09-15 21:34
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -14,17 +11,17 @@ cssclasses:
 ---
 
 
-> [!info] 📌 Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.69`
 > - **Período:** 9º Período | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Karina (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
 
-> [!note] 📋 Ementa e Objetivos Pedagógicos
-> ### 📋 Ementa
+> [!note]  Ementa e Objetivos Pedagógicos
+> ### Ementa
 > Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação dos novos aspectos e relações jurídicas da sociedade da informação. Análise das principais manifestações do direito digital e eletrônico nos ramos do direito. Introdução aos mecanismos de governança da internet no Brasil e no mundo. Regulação do ambiente online e o Marco Civil da Internet. Direitos e deveres no ciberespaço. Responsabilidade de usuários, provedores e governo. Inovação nas tecnologias de informação e comunicação. Propriedade intelectual na era digital. Acessibilidade, inclusão digital e ciberativismo. Profissional de computação. Princípios de conduta ética e profissional do engenheiro de software. Propriedade intelectual e pirataria. Privacidade. Responsabilidade social. O que é ética; Código de ética da ACM e IEEE. Direitos autorais e estudos de casos sobre ética na computação. Ética na internet: liberdade de informação, privacidade e censura.
-> ### 🎯 Objetivos
+> ### Objetivos
 > - Correlacionar, de forma interdisciplinar, o Direito com a Engenharia de Computação, levando o estudante a compreender a presença do Direito em sua vida pessoal e profissional, assim como em questões contemporâneas que envolvem ética e cidadania;
 > - Aprofundar a reflexão sobre a ética, dedicando-se aos estudos sobre valores morais e princípios ideais do comportamento humano, abordando o caráter e a conduta humana, bem como a ética enquanto instrumento mediador das questões de relacionamento entre cidadãos;
 > - Capacitar o discente, enquanto cidadão, a reconhecer seus direitos e deveres, bem como a sua importância enquanto agente receptor mas também modificador de direitos, introduzindo-o no universo do Direito, da ética e da cidadania;
@@ -33,14 +30,14 @@ cssclasses:
 > - Realizar palestras, rodas de conversa e seminários sobre situações concretas que envolvem Direito, ética, cidadania e computação.
 
 
-> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> ### 📋 Pré-requisitos Exigidos:
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> ### Pré-requisitos Exigidos:
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> ### Disciplinas Trancadas (Liberadas após conclusão):
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
-> [!tip] 📖 Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Introdução ao Direito, Estado Democrático de Direito e Cidadania:**
 > 	- Concepções de Direito; Teoria Tridimensional do Direito; Direito Positivo e Direito Consuetudinário; Hermenêutica.
 > 	- Princípios jurídicos e cláusulas gerais do direito: dignidade da pessoa, solidariedade, razoabilidade/proporcionalidade, igualdade, legalidade, contraditório e ampla defesa, boafé, vedação ao enriquecimento ilícito, acesso à Justiça.
@@ -63,8 +60,8 @@ cssclasses:
 > 	- Breve História do Brasil: desigualdades e luta por direitos; mitigação das desigualdades sociais e políticas afirmativas; cultura e relações étnico-raciais no Brasil.
 > 	- Internet, redes sociais, globalização e cultura no viés da cidadania; inclusão digital; software livre x software proprietário; educação e ferramentas tecnológicas; conceitos de cultura, multiculturalismo, identidade, pertencimento, etnia, racismo, etnocentrismo e preconceito racial; formas de preconceito e discriminação étnico-raciais socialmente construídas, assim como busca de estratégias que permitam eliminá-las das representações sociais e coletivas.
 
-> [!info] 📚 Bibliografia Básica e Complementar (ABNT)
-> #### 📕 Bibliografia Básica
+> [!info]  Bibliografia Básica e Complementar (ABNT)
+> #### Bibliografia Básica
 > 1. DI FELICE, M. A Cidadania Digital: a crise da ideia ocidental de democracia e a participação nas redes sociais São Paulo; Paulus, 2021.
 > 2. QUARESMA, R. A. Ética, direito e cidadania: Brasil sociopolítico e jurídico atual. Curitiba:Juruá Editora, 2008.
 > 3. MASIERO, P. C. Ética em Computação. São Paulo: EDUSP, 2008.
@@ -74,7 +71,7 @@ cssclasses:
 > 7. PINHEIRO, P. P. Direito Digital.
 > 8. ª ed. São Paulo: Saraiva, 2021.
 > 9. ROVER, A. J. (org). Direito e Informática. São Paulo: Manole, 2004.
-> #### 📗 Bibliografia Complementar
+> #### Bibliografia Complementar
 > 1. BARCELLOS, A. P. A eficácia jurídica dos princípios constitucionais: o princípio da dignidade da pessoa humana. Rio de Janeiro: Renovar, 2002.
 > 2. BARROS FILHO, Clóvis de; POMPEU, Júlio. A Filosofia Explica as Grandes Questões da Humanidade.
 > 3. Rio de Janeiro/São Paulo: Casa do Saber/Casa da Palavra, 2013.
@@ -92,15 +89,5 @@ cssclasses:
 > 15. VALLS, Álvaro L. M. O que é Ética. São Paulo: Brasiliense, 2002.
 > 
 
-## 📝 Anotações e Arquivos Didáticos
-- 📁 **[[Anotações/index|Acessar Repositório Dinâmico de Anotações da Disciplina]]**
-
-## 🎓 Aulas
-
-- [[pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/Anotações/Esboço/aula-00-apresentacao-e-ementario|Aula 00]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/Anotações/Esboço/aula-01-introdução-ao-direito-estado-democrático|Aula 01]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/Anotações/Esboço/aula-02-concepções-de-direito-teoria-tridimensio|Aula 02]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/Anotações/Esboço/aula-03-princípios-jurídicos-e-cláusulas-gerais-|Aula 03]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/Anotações/Esboço/aula-04-estado-democrático-de-direito-ordenament|Aula 04]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/Anotações/Esboço/aula-05-conceito-de-cidadania-exercício-de-cidad|Aula 05]]
-- [[pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/Anotações/Esboço/aula-06-computação-internet-e-direito|Aula 06]]
+## Anotações e Arquivos Didáticos
+-  **Anotações da Disciplina**
