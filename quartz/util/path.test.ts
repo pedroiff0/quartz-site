@@ -132,6 +132,24 @@ describe("transforms", () => {
         // Folder literally named "index" is unaffected by the rewrite
         ["index/index.md", "index/index"],
         ["docs/index/index.md", "docs/index/index"],
+        // Obsidian "Folder Notes" with diacritics / prefixes (Portuguese / discipline notes)
+        [
+          "1-periodo/introducao-a-engenharia/Introdução à Engenharia.md",
+          "1-periodo/introducao-a-engenharia/index",
+        ],
+        ["1-periodo/calculo-i/Cálculo I.md", "1-periodo/calculo-i/index"],
+        ["1-periodo/1º Período.md", "1-periodo/index"],
+        [
+          "1-periodo/fundamentos-da-computacao/Hub — Fundamentos Da Computacao.md",
+          "1-periodo/fundamentos-da-computacao/index",
+        ],
+        ["eletivas/Disciplinas Eletivas.md", "eletivas/index"],
+        ["idiomas/mandarim/Mandarim.md", "idiomas/mandarim/index"],
+        ["idiomas/alemao/Alemão.md", "idiomas/alemao/index"],
+        [
+          "1-periodo/introducao-a-engenharia/Anotações/Anotações — Introducao A Engenharia.md",
+          "1-periodo/introducao-a-engenharia/anotações/index",
+        ],
       ],
       path.slugifyFilePath,
       path.isFilePath,
@@ -147,6 +165,15 @@ describe("transforms", () => {
     )
     assert.strictEqual(indexStyle, folderNameStyle)
     assert.strictEqual(indexStyle, "characters/")
+
+    const ptIndexStyle = path.simplifySlug(
+      path.slugifyFilePath("introducao-a-engenharia/index.md" as any),
+    )
+    const ptFolderNameStyle = path.simplifySlug(
+      path.slugifyFilePath("introducao-a-engenharia/Introdução à Engenharia.md" as any),
+    )
+    assert.strictEqual(ptIndexStyle, ptFolderNameStyle)
+    assert.strictEqual(ptIndexStyle, "introducao-a-engenharia/")
   })
 
   test("transformInternalLink", () => {
