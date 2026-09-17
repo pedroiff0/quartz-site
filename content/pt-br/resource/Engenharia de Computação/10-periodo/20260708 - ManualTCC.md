@@ -2,10 +2,11 @@
 publish: true
 title: 20260708 - ManualTCC
 created: 2026-07-08 13:34
-modified: 2026-09-14 20:12
+modified: 2026-09-16 15:35
 tags:
-cssclasses:
-
+  - disciplina
+  - engenharia-de-computacao
+cssclasses: None
 ---
 
 # MANUAL DE UTILIZAÇÃO — CLASSE `ifftese` (TCC do IFF)
@@ -32,7 +33,7 @@ cssclasses:
 
   
 
-## 0. O QUE É TUDO ISSO (o mínimo que você precisa saber)
+## . O QUE É TUDO ISSO (o mínimo que você precisa saber)
 
   
 	
@@ -106,7 +107,7 @@ bibliografia e os índices precisam de duas passadas para "assentar". Se aparece
 
   
 
-## 1. A ESTRUTURA GERAL DO TRABALHO
+## . A ESTRUTURA GERAL DO TRABALHO
 
   
 
@@ -218,7 +219,7 @@ No seu arquivo principal (`PedroH_TCC.tex`) a ordem correta é:
 
   
 
-## 2. METADADOS — preenchendo os seus dados (`metadados.sty` + topo do `.tex`)
+## . METADADOS — preenchendo os seus dados (`metadados.sty` + topo do `.tex`)
 
   
 
@@ -228,7 +229,7 @@ têm o formato `\comando{conteúdo}`. Se ficar vazio `{ }`, aquele campo some.
 
   
 
-### 2.1 Seus dados pessoais e do orientador
+### . Seus dados pessoais e do orientador
 
   
 
@@ -268,7 +269,7 @@ automaticamente no Resumo/Abstract.
 
   
 
-### 2.2 Orientador, coorientador e banca
+### . Orientador, coorientador e banca
 
   
 
@@ -322,7 +323,7 @@ banca** (`\banca`).
 
   
 
-### 2.3 Dados da instituição e do curso
+### . Dados da instituição e do curso
 
   
 
@@ -360,7 +361,7 @@ banca** (`\banca`).
 
   
 
-### 2.4 "Interruptores" (flags) — liga/desliga comportamentos
+### . "Interruptores" (flags) — liga/desliga comportamentos
 
   
 
@@ -440,7 +441,7 @@ Estes comandos não recebem texto, recebem `sim` (ligado) ou ficam vazios
 
   
 
-## 3. MACROS DE INSERÇÃO — figuras, tabelas, quadros, gráficos
+## . MACROS DE INSERÇÃO — figuras, tabelas, quadros, gráficos
 
   
 
@@ -458,7 +459,7 @@ a fonte e o rótulo (label) automaticamente, no padrão ABNT.
 
   
 
-### 3.1 FIGURA — `\inserirfigura`
+### . FIGURA — `\inserirfigura`
 
   
 
@@ -532,7 +533,7 @@ Como visto na \autoref{fig:minhafig}, a distribuição é assimétrica.
 
   
 
-### 3.2 TABELA — `\inserirtabela` e `\inserirtabelaL`
+### . TABELA — `\inserirtabela` e `\inserirtabelaL`
 
   
 
@@ -612,7 +613,7 @@ A & B & C \\ \hline
 
   
 
-### 3.3 QUADRO — `\inserirquadro`
+### . QUADRO — `\inserirquadro`
 
   
 
@@ -654,7 +655,7 @@ Etapa & Descrição \\
 
   
 
-### 3.4 GRÁFICO — `\inserirgrafico`
+### . GRÁFICO — `\inserirgrafico`
 
   
 
@@ -672,7 +673,7 @@ Mesmos parâmetros da figura. A diferença é que entra na **Lista de Gráficos*
 
   
 
-### 3.5 SUBFIGURAS (várias imagens numa só figura)
+### . SUBFIGURAS (várias imagens numa só figura)
 
   
 
@@ -740,11 +741,11 @@ Mesmos parâmetros da figura. A diferença é que entra na **Lista de Gráficos*
 
   
 
-## 4. MACROS DE TEXTO — resumo, citações, destaques, notas
+## . MACROS DE TEXTO — resumo, citações, destaques, notas
 
   
 
-### 4.1 RESUMO e ABSTRACT
+### . RESUMO e ABSTRACT
 
   
 
@@ -794,7 +795,7 @@ GCNS and GALAH DR4 catalogs. Results indicate...
 
   
 
-### 4.2 CITAÇÃO LONGA (mais de 3 linhas)
+### . CITAÇÃO LONGA (mais de linhas)
 
   
 
@@ -822,7 +823,7 @@ ferramenta de alta resolução para investigar a formação da Via Láctea
 
   
 
-### 4.3 DESTAQUE de número com unidade — `\destaque` e `\destaqueC`
+### . DESTAQUE de número com unidade — `\destaque` e `\destaqueC`
 
   
 
@@ -852,7 +853,7 @@ ferramenta de alta resolução para investigar a formação da Via Láctea
 
   
 
-### 4.4 NOTA DE RODAPÉ — `\notarodape`
+### . NOTA DE RODAPÉ — `\notarodape`
 
   
 
@@ -868,7 +869,7 @@ O GCNS reúne cerca de 330 mil estrelas.\notarodape{Valor obtido de Smart et al.
 
   
 
-### 4.5 COMENTÁRIO de rascunho — `\comentario`
+### . COMENTÁRIO de rascunho — `\comentario`
 
   
 
@@ -890,7 +891,7 @@ Aqui vai o parágrafo.\comentario{Verificar esse número com o orientador!}
 
   
 
-## 5. ELEMENTOS PRÉ-TEXTUAIS (capa, rosto, banca, etc.)
+## . ELEMENTOS PRÉ-TEXTUAIS (capa, rosto, banca, etc.)
 
   
 
@@ -956,7 +957,7 @@ Já vista em §2.4: basta `\capaiff{sim}` nos metadados (precisa de `img/image.p
 
   
 
-## 6. AMBIENTES (teoremas, exemplos, definições...)
+## . AMBIENTES (teoremas, exemplos, definições...)
 
   
 
@@ -1016,11 +1017,11 @@ normal.
 
   
 
-## 7. SIGLAS, SÍMBOLOS E GLOSSÁRIO
+## . SIGLAS, SÍMBOLOS E GLOSSÁRIO
 
   
 
-### 7.1 Siglas (Lista de Abreviaturas)
+### . Siglas (Lista de Abreviaturas)
 
   
 
@@ -1050,7 +1051,7 @@ normal.
 
   
 
-### 7.2 Símbolos (Lista de Símbolos)
+### . Símbolos (Lista de Símbolos)
 
   
 
@@ -1066,7 +1067,7 @@ Mesmos 3 parâmetros (o 3º pode ficar vazio `{}`).
 
   
 
-### 7.3 Glossário
+### . Glossário
 
   
 
@@ -1086,7 +1087,7 @@ Use `\imprimirglossario` (ou `\imprimirListas`) para imprimir.
 
   
 
-## 8. GLOSSÁRIO DE TERMOS (PT ⇄ EN) para quem não domina o inglês
+## . GLOSSÁRIO DE TERMOS (PT EN) para quem não domina o inglês
 
   
 
@@ -1148,7 +1149,7 @@ Use `\imprimirglossario` (ou `\imprimirListas`) para imprimir.
 
   
 
-## 9. EXEMPLO MÍNIMO DE TCC (copie e adapte)
+## . EXEMPLO MÍNIMO DE TCC (copie e adapte)
 
   
 
@@ -1242,7 +1243,7 @@ Conclui-se que...
 
   
 
-## 10. RESUMO DOS PRIMEIROS PASSOS (checklist)
+## . RESUMO DOS PRIMEIROS PASSOS (checklist)
 
   
 
@@ -1272,7 +1273,7 @@ Conclui-se que...
 
   
 
-## 11. AVISOS ESPERADOS (não são erros de verdade)
+## . AVISOS ESPERADOS (não são erros de verdade)
 
   
 
@@ -1316,7 +1317,7 @@ que esse aviso apareça na primeira passada.
 
   
 
-## 12. NOTAS DE MANUTENÇÃO DESTA CLASSE (para quem edita os `.sty`)
+## . NOTAS DE MANUTENÇÃO DESTA CLASSE (para quem edita os `.sty`)
 
   
 

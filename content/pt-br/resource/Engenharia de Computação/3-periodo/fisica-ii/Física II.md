@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Física II"
+title: Física II
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Fisica Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fisica Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,63 +24,63 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Princípios da termodinâmica: conceitos de temperatura e calor; 1.ª lei da termodinâmica; Teoria cinética dos gases; Entropia; 2.ª lei da termodinâmica.
-> ### Objetivos
+> **Objetivos**
 > - ● Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas;
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/2-periodo/calculo-ii/Cálculo II|CSECBJI.9 - Cálculo II]]
 > - [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Física I|CSECBJI.11 - Física I]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Física III|CSECBJI.26 - Física III]]
 > - [[pt-br/resource/Engenharia de Computação/4-periodo/fenomenos-de-transporte/Fenômenos de Transporte|CSECBJI.28 - Fenômenos de Transporte]]
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Oscilações**
-> 	- Equação diferencial de um MHS, método de solução;
-> 	- Equação diferencial de uma oscilação amortecida, método de solução;
-> 	- Equação diferencial de uma solução forçada, possíveis soluções;
-> 	- Conceito de impedância, reatância e ressonância;
-> 	- Osciladores acoplados;
-> 	- Batimento.
+>   - Equação diferencial de um MHS, método de solução;
+>   - Equação diferencial de uma oscilação amortecida, método de solução;
+>   - Equação diferencial de uma solução forçada, possíveis soluções;
+>   - Conceito de impedância, reatância e ressonância;
+>   - Osciladores acoplados;
+>   - Batimento.
 > - **2. Ondas em meios elásticos**
-> 	- Modelagem matemática de um movimento ondulatório f(x – vt);
-> 	- Equação diferencial relacionando o comportamento no espaço e no tempo;
-> 	- Velocidades de ondas em diferentes meios;
-> 	- Interferência / Sobreposição de ondas;
-> 	- Modos normais de vibração.
+>   - Modelagem matemática de um movimento ondulatório f(x – vt);
+>   - Equação diferencial relacionando o comportamento no espaço e no tempo;
+>   - Velocidades de ondas em diferentes meios;
+>   - Interferência / Sobreposição de ondas;
+>   - Modos normais de vibração.
 > - **3. Ondas sonoras**
-> 	- Vibrações do meio relacionadas com perturbações da pressão;
-> 	- Nível sonoro (dB);
-> 	- Efeito Doppler;
-> 	- Ressonância em tubos.
+>   - Vibrações do meio relacionadas com perturbações da pressão;
+>   - Nível sonoro (dB);
+>   - Efeito Doppler;
+>   - Ressonância em tubos.
 > - **4. Temperatura e Calor**
-> 	- Temperatura;
-> 	- Dilatação de sólidos e Líquidos;
-> 	- Trocas de calor.
+>   - Temperatura;
+>   - Dilatação de sólidos e Líquidos;
+>   - Trocas de calor.
 > - **5. Teoria Cinética dos Gases e Primeira Lei da Termodinâmica**
-> 	- As grandezas de estados de um gás;
-> 	- Conceito de energia interna dos gases monoatômicos, diatômicos, poliatômicos;
-> 	- Transformações termodinâmicas;
-> 	- Diferentes modos de se calcular o trabalho;
-> 	- Modelagem matemática da Primeira Lei.
-> 	- Aplicações
+>   - As grandezas de estados de um gás;
+>   - Conceito de energia interna dos gases monoatômicos, diatômicos, poliatômicos;
+>   - Transformações termodinâmicas;
+>   - Diferentes modos de se calcular o trabalho;
+>   - Modelagem matemática da Primeira Lei.
+>   - Aplicações
 > - **6. Entropia e Segunda Lei da Termodinâmica**
-> 	- Máquinas térmicas, ciclo de Carnot e os limites impostos pela natureza;
-> 	- Entropia e reversibilidade;
-> 	- Uma interpretação estatística para entropia.
+>   - Máquinas térmicas, ciclo de Carnot e os limites impostos pela natureza;
+>   - Entropia e reversibilidade;
+>   - Uma interpretação estatística para entropia.
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. RESNICK, R., WALKER, J.
 > 2. HALLIDAY, D. Fundamentos de Física – Volume 2 – Gravitação, Ondas e Termodinâmica. 10ª Edição. Rio de Janeiro, LTC, 2016.
 > 3. SERWAY, R., JEWETT, J. Princípios de Física – Volume II – Oscilações, Ondas e Termodinâmica. 2ª Edição. São Paulo: Cengage Learning, 2014.
 > 4. YOUNG, H. D., FREEDMAN, R.A. Física II: Termodinâmica e Ondas. 14ª Edição. São Paulo: Pearson, 2015. Vol. 2.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 2: Oscilações, Ondas e Termodinâmica. 9ª Edição. São Paulo: Cengage Learning, 2017.
 > 2. NUSSENZVEIG, H. M. Curso de Física Básica: Fluidos, Oscilações, Ondas e Calor. 5ª Edição. São Paulo: Blucher, 2014.
 > 3. CHAVES, A. Física Básica: Gravitação, Fluídos, Ondas e Termodinâmica. Rio de Janeiro, LTC.
@@ -84,4 +89,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Fisica Ii|Anotações da Disciplina]]**

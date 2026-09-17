@@ -1,13 +1,12 @@
 ---
 publish: true
-title: "Anotações — Dimensionamento De Redes De Computadores"
+title: Anotações — Dimensionamento De Redes De Computadores
 created: 2026-08-24 21:03
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
-  - disciplina
-  - anotacao
+  - aula
   - engenharia-de-computacao
 cssclasses:
   - page-layout

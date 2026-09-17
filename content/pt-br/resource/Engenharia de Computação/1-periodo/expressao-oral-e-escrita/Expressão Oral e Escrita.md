@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Expressão Oral e Escrita"
+title: Expressão Oral e Escrita
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Expressao Oral E Escrita|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Expressao Oral E Escrita|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,9 +24,9 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Noções de texto. A organização micro e macroestrutural do texto: coesão e coerência. Tipologia textual. Linguagem e argumentação. Redação científica: resumo, resenha.
-> ### Objetivos
+> **Objetivos**
 > - Capacitar o aluno a melhorar a compreensão, organização e a redação de textos narrativos, descritivos e dissertativos e elaborar textos relacionados com o curso;
 > - Instrumentar os estudantes a se expressarem tanto verbalmente quanto por escrito.
 > - rientar a leitura de textos diversos, especialmente os acadêmicos.
@@ -29,34 +34,34 @@ cssclasses:
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Noções de texto**
-> 	- Linguagem verbal e não verbal;
-> 	- Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
-> 	- Variações linguísticas.
+>   - Linguagem verbal e não verbal;
+>   - Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
+>   - Variações linguísticas.
 > - **2. Organização textual**
-> 	- Coerência e Coesão.
+>   - Coerência e Coesão.
 > - **3. Tipologia Textual**
-> 	- Estrutura e características do texto descritivo;
-> 	- Estrutura e características do texto narrativo;
-> 	- Estrutura e características do texto dissertativo.
+>   - Estrutura e características do texto descritivo;
+>   - Estrutura e características do texto narrativo;
+>   - Estrutura e características do texto dissertativo.
 > - **4. Linguagem e argumentação**
 > - **5. Redação científica**
-> 	- Elaboração de resumo, resenha e fichamento.
+>   - Elaboração de resumo, resenha e fichamento.
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. ALMEIDA, D. S. A Produção de Textos no Ensino Superior. Curitiba: Editora CRV, 2012.
 > 2. MARTINS, D. S., ZILBERKNOP, L. S. Português Instrumental: De Acordo com as Normas Atuais da ABNT.
 > 3. Ed. Rio de Janeiro: Atlas, 2019.
 > 4. MATTOSO, C. J. G. Manual de Expressão Oral e Escrita. 23. Ed. Rio de janeiro: Editora Vozes, 2012
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 5. DEMAI, F. M. Português Instrumental. São Paulo: Editora Érica, 2014.
 > 6. DINTEL, F. Como Escrever Textos Técnicos e Profissionais: Todas as Orientações para Elaborar Relatórios, Cartas e Documentos Eficazes. São Paulo: Gutenberg, 2011.
 > 7. MEDEIROS, J. B. Português Instrumental: Contém Técnicas de Elaboração de Trabalho de Conclusão de Curso.
@@ -67,4 +72,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Expressao Oral E Escrita|Anotações da Disciplina]]**

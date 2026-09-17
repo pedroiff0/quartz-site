@@ -1,8 +1,11 @@
 ---
 publish: true
-title: "10º Período"
+title: 10º Período
 created: 2026-07-21 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
+tags:
+  - disciplina
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
 ---
@@ -28,11 +31,11 @@ Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/10-periodo/projeto-final-de-curso-ii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Projeto Final de Curso II (PFC II)" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Projeto Final de Curso II (PFC II)" />
     <div class="slide-caption">Projeto Final de Curso II (PFC II)</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/10-periodo/estagio-supervisionado" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Estágio Supervisionado em Engenharia" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Estágio Supervisionado em Engenharia" />
     <div class="slide-caption">Estágio Supervisionado em Engenharia</div>
   </a>
 </div>

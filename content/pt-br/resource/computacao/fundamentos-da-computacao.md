@@ -2,7 +2,7 @@
 publish: false
 title: Fundamentos da Computação
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -22,19 +22,19 @@ Esse mapa é o que diferencia quem "usa" computação de quem "entende" computa�
 
 ## Trilha de estudo
 
-### 1. Alfabetização digital de verdade (2–4 semanas)
+### . Alfabetização digital de verdade (– semanas)
 
 O que dominar: o que é hardware vs. software, os componentes básicos de um computador (CPU, memória, armazenamento, E/S) e o ciclo básico entrada → processamento → saída. O que praticar: desenhar de memória o diagrama de blocos de um computador e explicar em voz alta o papel de cada bloco. Se você não consegue explicar, ainda não dominou.
 
-### 2. Representação da informação (3–4 semanas)
+### . Representação da informação (– semanas)
 
 O que dominar: sistemas de numeração (binário, octal, hexadecimal), conversões entre bases, representação de inteiros com e sem sinal (complemento de dois), noção de ponto flutuante e codificação de texto (ASCII/Unicode). O que praticar: conversões à mão até virarem automáticas, e verificar depois com a calculadora do sistema em modo programador.
 
-### 3. Do algoritmo à máquina (4–6 semanas)
+### . Do algoritmo à máquina (– semanas)
 
 O que dominar: o que é um algoritmo, o modelo de von Neumann, o ciclo busca-decodifica-executa e a diferença entre compilação e interpretação. O que praticar: seguir o CS50 (aulas 0 a 2) fazendo os exercícios — é a melhor ponte entre a teoria de fundamentos e a prática de programação.
 
-### 4. Visão de sistemas (contínuo)
+### . Visão de sistemas (contínuo)
 
 O que dominar: uma primeira noção de sistema operacional, de redes e de como as camadas se empilham (aplicação sobre SO sobre hardware). O que praticar: acompanhar o roadmap de Computer Science e ir marcando o que você já reconhece — essa etapa nunca "termina", ela se aprofunda nas disciplinas seguintes.
 

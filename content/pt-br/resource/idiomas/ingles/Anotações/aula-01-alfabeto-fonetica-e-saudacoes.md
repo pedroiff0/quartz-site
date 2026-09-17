@@ -8,7 +8,7 @@ tags:
   - ingles
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 01 — Fonética do Inglês (Sons do TH, Vogais Curtas/Longas) e Saudações
+# Aula — Fonética do Inglês (Sons do TH, Vogais Curtas/Longas) e Saudações
 
 > [!info] Metadados da Lição
 > - **Idioma:** Inglês | **Nível Alvo:** A1

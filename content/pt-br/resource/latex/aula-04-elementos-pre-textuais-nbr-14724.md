@@ -1,7 +1,7 @@
 ---
 title: "Aula 04: Elementos Pré-Textuais NBR 14724"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-04.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-04-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-04-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-04-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-04.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Engenharia de construção dos elementos pré-textuais da monografia: Capa, Folha de Rosto, Folha de Aprovação, Dedicatória, Agradecimentos, Epígrafe, Listas (Figuras, Tabelas, Algoritmos, Siglas) e Sumário.
 
-### 1. Elementos Obrigatórios vs. Opcionais
+### . Elementos Obrigatórios vs. Opcionais
 
 A ABNT NBR 14724 especifica rigorosamente a ordem dos elementos pré-textuais. São obrigatórios: Capa, Folha de Rosto, Folha de Aprovação, Resumo, Abstract e Sumário. Os demais elementos (Lombada, Errata, Dedicatória, Agradecimentos, Listas) são opcionais ou condicionais.
 
-### 2. Formatação da Folha de Rosto e Aprovação na `ifftese.cls`
+### . Formatação da Folha de Rosto e Aprovação na `ifftese.cls`
 
 A folha de rosto deve conter a natureza do trabalho, objetivo, nome da instituição e área de concentração alinhados a partir do meio da página à direita. A classe `ifftese.cls` automatiza essa diagramação via metadados.
 
-### 3. Geração Automática do Sumário (NBR 6027)
+### . Geração Automática do Sumário (NBR )
 
 O sumário reflete a divisão das seções primárias, secundárias e terciárias com a numeração progressiva (NBR 6024). Em LaTeX, é gerado dinamicamente com o comando `\tableofcontents`.
 

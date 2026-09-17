@@ -2,7 +2,7 @@
 publish: false
 title: Aula 06 — Diagrama HR e Relação Massa-Luminosidade
 created: 2026-07-23 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -20,7 +20,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|← Aula 05 — Avermelhamento, Extinção e IMF]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas →]]
 
-# Aula 06 — Diagrama HR e Relação Massa-Luminosidade
+# Aula — Diagrama HR e Relação Massa-Luminosidade
 
 > [!note] Resumo
 > Massa, composição química e idade são as três propriedades fundamentais que controlam toda a evolução de uma estrela — e o diagrama HR é a ferramenta central para lê-las indiretamente. Esta aula fecha o ciclo iniciado na Aula 02, mostrando como medir cada propriedade física estelar e como a relação massa-luminosidade explica por que estrelas massivas vivem menos.

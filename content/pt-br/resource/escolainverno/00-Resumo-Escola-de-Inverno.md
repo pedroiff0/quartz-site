@@ -6,7 +6,7 @@ discipline: Resumo Geral
 content: Panorama de tudo o que foi visto na Escola de Inverno do Observatório Nacional (ON) 2026
 professor:
 created: 2026-07-22 13:34
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 tags:
   - escola-de-inverno-on
   - resumo
@@ -14,7 +14,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Resumo Geral — Escola de Inverno do Observatório Nacional (2026)
+# Resumo Geral — Escola de Inverno do Observatório Nacional ()
 
 > [!info] Sobre este arquivo
 > Panorama de todas as áreas cobertas até agora na Escola de Inverno. Cada seção resume a nota detalhada correspondente — clique nos links para ver a aula completa, com explicações, fórmulas e imagens.

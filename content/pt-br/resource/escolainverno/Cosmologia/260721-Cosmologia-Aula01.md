@@ -6,7 +6,7 @@ discipline: Cosmologia
 content: O modelo cosmológico padrão (ΛCDM) e suas sondas observacionais
 professor: Carlos Bengaly
 created: 2026-07-21 13:34
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 tags:
   - escola-de-inverno-on
   - cosmologia
@@ -19,7 +19,7 @@ cssclasses:
 ---
 
 **Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula02|Cosmologia-Aula02 →]]
-# Notas de Aula — Cosmologia (Aula 01)
+# Notas de Aula — Cosmologia (Aula )
 
 > [!info] Informações da aula
 > **Título:** O modelo cosmológico padrão e suas sondas observacionais
@@ -40,7 +40,7 @@ A **cosmologia** estuda a origem, evolução, composição e estrutura do Univer
 
 ---
 
-## 1. Breve história da cosmologia moderna
+## . Breve história da cosmologia moderna
 
 | Ano | Marco |
 |---|---|
@@ -62,7 +62,7 @@ A **cosmologia** estuda a origem, evolução, composição e estrutura do Univer
 
 ---
 
-## 2. Composição do Universo
+## . Composição do Universo
 
 De acordo com as medições mais precisas da RCF (satélite Planck) e outras sondas independentes, o conteúdo total de energia/matéria do Universo hoje se divide aproximadamente em:
 
@@ -74,7 +74,7 @@ Ou seja, **cerca de 95% do conteúdo do Universo é de natureza desconhecida** �
 
 ---
 
-## 3. Radiação Cósmica de Fundo (RCF / CMB)
+## . Radiação Cósmica de Fundo (RCF / CMB)
 
 A **RCF** é a luz mais antiga que conseguimos observar: fótons liberados cerca de 380 mil anos após o Big Bang, quando o Universo esfriou o suficiente para elétrons e prótons se combinarem em átomos neutros de hidrogênio (**recombinação**), tornando-o transparente à luz pela primeira vez. Hoje, esses fótons — esticados pela expansão do Universo — chegam até nós como um sinal de micro-ondas com temperatura de **2,725 K**, praticamente uniforme em todas as direções, mas com pequeníssimas flutuações de temperatura (**anisotropias**) que carregam informação preciosa sobre a composição e geometria do Universo.
 
@@ -85,7 +85,7 @@ A **RCF** é a luz mais antiga que conseguimos observar: fótons liberados cerca
 
 ---
 
-## 4. O modelo $\Lambda$CDM
+## . O modelo $\Lambda$CDM
 
 O modelo cosmológico padrão é conhecido como **$\Lambda$CDM**:
 

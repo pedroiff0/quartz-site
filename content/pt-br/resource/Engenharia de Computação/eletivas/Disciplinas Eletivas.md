@@ -1,8 +1,11 @@
 ---
 publish: true
-title: "Disciplinas Eletivas"
+title: Disciplinas Eletivas
 created: 2026-07-21 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
+tags:
+  - disciplina
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
 ---
@@ -36,43 +39,43 @@ Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/inteligencia-artificial" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Inteligência Artificial" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Inteligência Artificial" />
     <div class="slide-caption">Inteligência Artificial</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Computação Gráfica" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Computação Gráfica" />
     <div class="slide-caption">Computação Gráfica</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Processamento de Imagens" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Processamento de Imagens" />
     <div class="slide-caption">Processamento de Imagens</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Desenvolvimento Web" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Desenvolvimento Web" />
     <div class="slide-caption">Desenvolvimento Web</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Computação Paralela e Distribuída" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Computação Paralela e Distribuída" />
     <div class="slide-caption">Computação Paralela e Distribuída</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Algoritmos Distribuição" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Algoritmos Distribuição" />
     <div class="slide-caption">Algoritmos Distribuição</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/geoprocessamento" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Geoprocessamento" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Geoprocessamento" />
     <div class="slide-caption">Geoprocessamento</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Processamento de Sinais" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Processamento de Sinais" />
     <div class="slide-caption">Processamento de Sinais</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/libras" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Libras" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Libras" />
     <div class="slide-caption">Libras</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/sociedade-e-tecnologia" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Sociedade e Tecnologia" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Sociedade e Tecnologia" />
     <div class="slide-caption">Sociedade e Tecnologia</div>
   </a>
 </div>

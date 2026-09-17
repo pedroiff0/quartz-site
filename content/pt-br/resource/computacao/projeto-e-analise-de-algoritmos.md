@@ -2,7 +2,7 @@
 publish: false
 title: Projeto e Análise de Algoritmos
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -22,19 +22,19 @@ Análise de algoritmos dá o instrumento pra prever isso **antes** de escrever o
 
 ## Trilha de estudo
 
-### 1. Análise assintótica (3–4 semanas)
+### . Análise assintótica (– semanas)
 
 O que dominar: notações O, Ω e Θ, análise de pior/melhor/caso médio, e o custo dos algoritmos que você já conhece (buscas, ordenações, operações em estruturas de dados). O que praticar: pegar código seu antigo e calcular a complexidade de cada função; comparar com medições reais de tempo pra ganhar intuição de quanto n log n e n² divergem na prática.
 
-### 2. Divisão e conquista (3–4 semanas)
+### . Divisão e conquista (– semanas)
 
 O que dominar: o padrão dividir-resolver-combinar (mergesort, quicksort, busca binária), recorrências e o Teorema Mestre pra resolvê-las. O que praticar: implementar mergesort e quicksort do zero, escrever a recorrência de cada um e resolvê-la à mão. A recorrência é a ligação entre o código recursivo e sua complexidade.
 
-### 3. Programação dinâmica e algoritmos gulosos (5–8 semanas)
+### . Programação dinâmica e algoritmos gulosos (– semanas)
 
 O que dominar: identificar subproblemas sobrepostos e subestrutura ótima, memoização vs. tabulação, e os problemas canônicos (mochila, subsequência comum mais longa, troco, escalonamento de intervalos). Saber quando guloso funciona — e provar quando não funciona. O que praticar: resolver os clássicos sem olhar solução; PD só entra na cabeça pelo sofrimento produtivo de montar a tabela sozinho.
 
-### 4. Grafos e limites da computação (4–6 semanas)
+### . Grafos e limites da computação (– semanas)
 
 O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topológica; e uma noção honesta de NP-completude — o que significa um problema não ter (até onde se sabe) solução eficiente, e o que fazer nesses casos (heurísticas, aproximações). O que praticar: modelar problemas do mundo real como grafos e escolher o algoritmo certo; é a habilidade mais transferível de toda a disciplina.
 

@@ -3,7 +3,7 @@ publish: false
 title: "Grego"
 status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:22
 tags:
   - idioma
   - grego
@@ -26,23 +26,23 @@ cssclasses:
 
 > [!tip] Módulos de Aprendizado
 > - [ ] **Módulo 1: Fundamentos, Fonética & Alfabeto (A1.1)**
-> 	- [ ] Fonemas fundamentais, vogais e consoantes diferenciais
-> 	- [ ] Saudações, apresentações formais e informais
-> 	- [ ] Números de 0 a 100, cores e noções de tempo
+>   - [ ] Fonemas fundamentais, vogais e consoantes diferenciais
+>   - [ ] Saudações, apresentações formais e informais
+>   - [ ] Números de 0 a 100, cores e noções de tempo
 > - [ ] **Módulo 2: Gramática Essencial & Estrutura da Oração (A1.2)**
-> 	- [ ] Pronomes pessoais e possessivos
-> 	- [ ] Verbos essenciais de alta frequência no presente
-> 	- [ ] Negação, perguntas e ordem das palavras na frase
+>   - [ ] Pronomes pessoais e possessivos
+>   - [ ] Verbos essenciais de alta frequência no presente
+>   - [ ] Negação, perguntas e ordem das palavras na frase
 > - [ ] **Módulo 3: Comunicação & Vida Prática (A2.1)**
-> 	- [ ] Restaurante, compras, viagens e orientações no espaço
-> 	- [ ] Rotina diária, trabalho, estudos e hobbies
+>   - [ ] Restaurante, compras, viagens e orientações no espaço
+>   - [ ] Rotina diária, trabalho, estudos e hobbies
 > - [ ] **Módulo 4: Passado, Futuro & Expressão Completa (A2.2)**
-> 	- [ ] Tempos verbais do pretérito
-> 	- [ ] Futuro e intenções
-> 	- [ ] Expressão de sentimentos e hipóteses
+>   - [ ] Tempos verbais do pretérito
+>   - [ ] Futuro e intenções
+>   - [ ] Expressão de sentimentos e hipóteses
 > - [ ] **Módulo 5: Imersão Nativa & Fluência Prática (B1+)**
-> 	- [ ] Podcasts, notícias e literatura no idioma nativo
-> 	- [ ] Conversação e produção de textos estruturados
+>   - [ ] Podcasts, notícias e literatura no idioma nativo
+>   - [ ] Conversação e produção de textos estruturados
 
 ---
 

@@ -13,12 +13,12 @@ tags:
 status: Lido
 pdf_link: "**Buder2025**"
 created: 2026-03-06 13:34
-modified: 2026-09-14 20:12
+modified: 2026-09-16 12:09
 cssclasses:
   - page-layout
 ---
 
-# 📑 Notas Metodológicas — Buder et al. (2025) & Aplicação em Machine Learning (Traven 2017, 2019, 2020)
+#  Notas Metodológicas — Buder et al. (2025) & Aplicação em Machine Learning (Traven 2017, 2019, 2020)
 
 > [!abstract] Referência Principal
 > **Artigo:** Buder, S., Kos, J., Wang, E. X., et al. (2025). *The GALAH Survey: Data Release 4*. **Publications of the Astronomical Society of Australia (PASA)**, 42, e051. arXiv:2409.19858.

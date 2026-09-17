@@ -1,7 +1,7 @@
 ---
 title: "Aula 05: Introdução e Lacuna de Pesquisa (*Research Gap*)"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-05-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Modelagem estrutural da Introdução no formato Funil (*Funnel Approach*). Articulação sintática entre Contextualização Macro, Delimitação do Tema, Problematização, Lacuna de Pesquisa, Objetivos e Organização do Trabalho.
 
-### 1. A Estrutura em Funil da Introdução
+### . A Estrutura em Funil da Introdução
 
 A introdução deve conduzir o leitor gradualmente do cenário global para a especificidade do projeto. O primeiro parágrafo estabelece o panorama geral; o segundo delimita a área de computação; o terceiro expõe a lacuna existente.
 
-### 2. Caracterização Formal da Lacuna de Pesquisa
+### . Caracterização Formal da Lacuna de Pesquisa
 
 A lacuna é fundamentada por meio de citações recentes que demonstram as limitações das abordagens atuais (ex: alto custo computacional, falta de precisão em modelos de IA, incompatibilidade de hardware).
 
-### 3. Encerramento e Apresentação da Estrutura da Monografia
+### . Encerramento e Apresentação da Estrutura da Monografia
 
 O último parágrafo da introdução apresenta resumidamente o conteúdo das seções subsequentes do trabalho (ex: *A Seção 2 apresenta a Revisão da Literatura...*).
 

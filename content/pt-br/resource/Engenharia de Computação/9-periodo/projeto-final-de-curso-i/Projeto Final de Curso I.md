@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Projeto Final de Curso I"
+title: Projeto Final de Curso I
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Projeto Final De Curso I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Projeto Final De Curso I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,16 +24,16 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de Elaboração de Documentos Técnicos; Técnicas de Criatividade; Orientação sobre Preparação e Apresentação de Palestra; Técnicas de Subdivisão de Trabalho; Estabelecimento de Cronograma; Orçamento de Projeto; Desenvolvimento do Projeto de Fim de Curso.
-> ### Objetivos
+> **Objetivos**
 > - rientar o aluno no desenvolvimento do projeto final
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/8-periodo/metodologia-cientifica-e-tecnologica/Metodologia Científica e Tecnológica|CSECBJI.64 - Metodologia Científica e Tecnológica]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/10-periodo/projeto-final-de-curso-ii/Projeto Final de Curso II|CSECBJI.74 - Projeto Final de Curso II]]
 
 
@@ -44,12 +49,12 @@ cssclasses:
 > - **9. Desenvolvimento do Projeto de Fim de Curso.**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo: Atlas, 2017.
 > 2. \_\_\_\_\_\_. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
 > 3. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo:
 > 4. Elsevier, 2014.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto. 3ª Edição. Porto Alegre: São Paulo, 2010.
 > 2. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.
 > 3. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 2017.
@@ -59,4 +64,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Projeto Final De Curso I|Anotações da Disciplina]]**

@@ -6,7 +6,7 @@ discipline: Palestra — Física de Partículas e Cosmologia
 content: Neutrinos e a Cosmologia — da física de partículas ao Universo em grande escala
 professor: Gabriel Rodrigues
 created: 2026-07-20 13:34
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 tags:
   - escola-de-inverno-on
   - palestra
@@ -38,7 +38,7 @@ O **neutrino** é uma das partículas mais abundantes do Universo e, ao mesmo te
 
 ---
 
-## 1. O que são neutrinos? Uma "partícula fantasma"
+## . O que são neutrinos? Uma "partícula fantasma"
 
 Em **1930**, **Wolfgang Pauli** propôs a existência do neutrino para resolver um problema no **decaimento beta** (um nêutron decaindo em um próton e um elétron): a energia do elétron emitido variava continuamente, o que parecia violar a conservação de energia — a menos que uma partícula adicional, neutra e quase indetectável, carregasse a energia "extra" para fora. Pauli chamou-a de "partícula fantasma", pois parecia impossível de observar diretamente.
 
@@ -60,7 +60,7 @@ Hoje sabemos que existem **três "sabores" de neutrinos**, cada um associado a u
 
 ---
 
-## 2. Neutrinos são massivos!
+## . Neutrinos são massivos!
 
 Por muito tempo, o Modelo Padrão assumia neutrinos **sem massa**. Isso mudou definitivamente em **1998**, com a descoberta da **oscilação de neutrinos** (um neutrino de um sabor se transformando espontaneamente em outro sabor ao longo de sua propagação) — fenômeno que só é possível na mecânica quântica se os neutrinos tiverem **massas diferentes de zero** (e diferentes entre si).
 
@@ -78,7 +78,7 @@ Uma quantidade-chave, especialmente relevante para a cosmologia, é a **soma das
 
 ---
 
-## 3. Do micro ao macro: entrando na cosmologia
+## . Do micro ao macro: entrando na cosmologia
 
 Para conectar neutrinos ao Universo como um todo, mudamos de escala — de partículas subatômicas para as maiores distâncias observáveis:
 
@@ -113,7 +113,7 @@ A **energia escura** é o componente com $w \approx -1$ que faz a taxa de expans
 
 ---
 
-## 4. Neutrinos cósmicos
+## . Neutrinos cósmicos
 
 Olhando a história do Universo do ponto de vista **térmico**:
 

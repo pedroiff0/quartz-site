@@ -1,13 +1,21 @@
 ---
 publish: true
-title: "Hub — Calculo Ii 2"
+title: Hub — Calculo Ii 2
 created: 2026-08-24 12:00
-modified: 2026-09-15 21:35
+modified: 2026-09-16 15:35
+tags:
+  - disciplina
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
 
-# Hub da Disciplina: Calculo Ii 2
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Calculo Ii 2|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Calculo Ii 2|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
+
+# Hub da Disciplina: Calculo Ii
 
 ## Acesso Rápido
 -  Anotações de Quadro das Aulas

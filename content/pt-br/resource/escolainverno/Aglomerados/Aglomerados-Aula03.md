@@ -13,12 +13,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 
 ---
 
 **Navegação (grafo):** [[pt-br/resource/escolainverno/Aglomerados/Aglomerados-Aula02|← Aglomerados-Aula02]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]]
-# Notas de Aula — Aglomerados de Galáxias (Aula 03)
+# Notas de Aula — Aglomerados de Galáxias (Aula )
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[Aglomerados-Aula02|Aula 02]])*

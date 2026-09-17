@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Modelagem Ambiental"
+title: Modelagem Ambiental
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Modelagem Ambiental|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Modelagem Ambiental|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,17 +24,17 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Dinâmica de sistemas lineares e não-lineares. Hierarquia de sistemas. Modelagem da dinâmica de populações. Modelagem do ciclo do carbono. Modelagem da dinâmica de ecossistemas. Modelagem do sistema hidrológico. Modelagem do sistema climático.
-> ### Objetivos
+> **Objetivos**
 > - Oferecer ao aluno o conhecimento básico sobre modelagem de sistemas ambientais.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/Álgebra Linear e Geometria Analítica II|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
 > - [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Equações Diferenciais|CSECBJI.18 - Equações Diferenciais]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
@@ -43,11 +48,11 @@ cssclasses:
 > - **7. Modelagem do sistema climático.**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008.
 > 2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012.
 > 3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher,
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 4. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017.
 > 5. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos,
 > 6. LORENZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. São Paulo: Blucher, 2015.
@@ -56,4 +61,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Modelagem Ambiental|Anotações da Disciplina]]**

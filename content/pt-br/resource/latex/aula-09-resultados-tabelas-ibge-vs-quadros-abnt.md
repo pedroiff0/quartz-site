@@ -1,7 +1,7 @@
 ---
 title: "Aula 09: Resultados: Tabelas IBGE vs. Quadros ABNT"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-09-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-09-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-09-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Apresentação e análise de dados experimentais. Diferenciação conceitual e gráfica estrita entre Tabelas (IBGE 1993 — dados numéricos estatísticos sem bordas laterais) e Quadros (ABNT — dados textuais ou qualitativos fechados).
 
-### 1. Normas de Apresentação Tabular do IBGE (1993)
+### . Normas de Apresentação Tabular do IBGE ()
 
 As tabelas estatísticas brasileiras seguem as Normas Tabulares do IBGE (1993): não possuem bordas verticais à esquerda nem à direita, possuem cabeçalho delimitado por linhas horizontais e nota de rodapé para fontes.
 
-### 2. Definição e Estrutura de Quadros (ABNT)
+### . Definição e Estrutura de Quadros (ABNT)
 
 Os quadros contêm informações predominantemente textuais ou esquemáticas e, diferentemente das tabelas, devem ter todas as suas bordas horizontais e verticais fechadas.
 
-### 3. Apresentação Gráfica e Chamada no Texto
+### . Apresentação Gráfica e Chamada no Texto
 
 Toda tabela ou quadro deve ser citado obrigatoriamente no corpo do texto antes de sua inserção (ex: *conforme apresentado na Tabela 1...*) e possuir título na parte superior e fonte na parte inferior.
 

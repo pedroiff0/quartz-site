@@ -2,7 +2,7 @@
 publish: false
 title: Sistemas Operacionais
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -22,19 +22,19 @@ Além do diagnóstico, SO é onde você finalmente entende os conceitos que usa 
 
 ## Trilha de estudo
 
-### 1. Linux e linha de comando (3–4 semanas)
+### . Linux e linha de comando (– semanas)
 
 O que dominar: navegar e manipular arquivos pelo terminal, permissões, redirecionamento e pipes, gerenciar processos (`ps`, `top`, `kill`), e o layout de diretórios do Linux. O que praticar: usar Linux como sistema do dia a dia (ou WSL) e se forçar a resolver tarefas pelo terminal. SO se estuda de dentro de um SO.
 
-### 2. Processos e threads (4–6 semanas)
+### . Processos e threads (– semanas)
 
 O que dominar: o que compõe um processo (espaço de endereçamento, descritores, estado), ciclo de vida, criação (`fork`/`exec` no Unix), threads vs. processos, troca de contexto e os algoritmos de escalonamento (FIFO, SJF, Round Robin, prioridades). O que praticar: escrever programas pequenos em C usando `fork`, observar PIDs e estados no `ps`, e simular escalonamentos à mão em exercícios.
 
-### 3. Concorrência e sincronização (4–6 semanas)
+### . Concorrência e sincronização (– semanas)
 
 O que dominar: condições de corrida, seções críticas, mutex, semáforos, deadlock (condições e tratamento) e os problemas clássicos (produtor-consumidor, jantar dos filósofos). O que praticar: provocar uma condição de corrida de propósito com duas threads incrementando um contador — ver o bug acontecer e depois consertá-lo com mutex é a aula que fica.
 
-### 4. Memória, arquivos e E/S (6–8 semanas)
+### . Memória, arquivos e E/S (– semanas)
 
 O que dominar: memória virtual e paginação (agora do lado da política: algoritmos de substituição, thrashing), sistemas de arquivos (inodes, diretórios, journaling) e gerência de E/S. O que praticar: explorar `/proc`, medir uso de memória real vs. virtual de processos, e acompanhar chamadas de sistema de um comando com `strace` pra ver o SO trabalhando ao vivo.
 

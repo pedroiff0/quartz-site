@@ -2,7 +2,7 @@
 publish: false
 title: "Modelos, Classes (.cls) e Pacotes (.sty) ReLaTeX — Guia e Index Oficial"
 created: 2026-08-04 13:04
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 tags:
   - latex
   - relataex
@@ -37,7 +37,7 @@ cssclasses:
 
 ---
 
-## 1. Classe Acadêmica Canônica: `ifftese.cls`
+## . Classe Acadêmica Canônica: `ifftese.cls`
 
 > **Estudada em detalhes na:** *(modelo de documento)*
 
@@ -85,7 +85,7 @@ erros de formatação em teses acadêmicas.
 
 ---
 
-## 2. Isolamento Biográfico: `metadados.sty`
+## . Isolamento Biográfico: `metadados.sty`
 
 > **Estudado em detalhes na:** *(modelo de documento)*
 
@@ -126,7 +126,7 @@ O pacote **`metadados.sty`** centraliza todos os dados de autoria, filiação in
 
 ---
 
-## 3. Banco de Produtividade: `macros.sty`
+## . Banco de Produtividade: `macros.sty`
 
 > **Estudado em detalhes na:** *(modelo de documento)*
 
@@ -149,7 +149,7 @@ ao seu conteúdo argumentativo.
 
 ---
 
-## 4. Slides de Defesa Institucionais: `slidesiffmodelo.cls`
+## . Slides de Defesa Institucionais: `slidesiffmodelo.cls`
 
 > **Estudada em detalhes na:** *(modelo de documento)*
 
@@ -199,7 +199,7 @@ A classe **`slidesiffmodelo.cls`** formata apresentações Beamer em proporção
 
 ---
 
-## 5. Pôster Científico Institucional: `iffposter.cls`
+## . Pôster Científico Institucional: `iffposter.cls`
 
 > **Estudada em detalhes na:** *(modelo de documento)*
 
@@ -235,7 +235,7 @@ O layout vetorial em 3 colunas reduziu o corte de texto e evitou quebras de tabe
 
 ---
 
-## 6. Documentação Executiva: `relatoriocorp.cls` e `marca.sty`
+## . Documentação Executiva: `relatoriocorp.cls` e `marca.sty`
 
 > **Estudada em detalhes na:** *(modelo de documento)*
 
@@ -269,7 +269,7 @@ com as normas de apresentação corporativa.
 
 ---
 
-## 7. Scripts de Automação, Compilação e Conversão
+## . Scripts de Automação, Compilação e Conversão
 
 > **Estudados em detalhes na:** *(modelo de documento)*
 

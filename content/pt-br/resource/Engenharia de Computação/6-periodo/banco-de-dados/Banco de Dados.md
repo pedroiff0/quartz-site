@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Banco de Dados"
+title: Banco de Dados
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Banco De Dados|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Banco De Dados|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,16 +24,16 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Recuperação de falhas. Controle de concorrência. Noções básicas de bancos de dados distribuídos. Aspectos de segurança e privacidade. Implementação de visões, stored procedures e triggers.
-> ### Objetivos
+> **Objetivos**
 > - Proporcionar aos alunos conhecimentos teóricos e práticos em Banco de Dados, envolvendo o estudo de conceitos fundamentais de Projeto de Sistemas de Banco de Dados, além da sua aplicação através do ensino de uma linguagem de programação de banco de dados e do desenvolvimento de aplicações de bancos de dados.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/Modelagem de Dados|CSECBJI.35 - Modelagem de Dados]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
@@ -36,31 +41,31 @@ cssclasses:
 > - **1. Linguagem de Definição e Manipulação de Dados**
 > - **2. Processamento e Otimização de Consultas**
 > - **3. Transações**
-> 	- Conceito
-> 	- Propriedades
-> 		- i. Atomicidade
-> 		- ii. Consistência
-> 		- iii. Isolamento
-> 		- iv. Durabilidade
-> 	- Controle e Falhas em Transações
-> 	- Concorrência
+>   - Conceito
+>   - Propriedades
+>   - i. Atomicidade
+>   - ii. Consistência
+>   - iii. Isolamento
+>   - iv. Durabilidade
+>   - Controle e Falhas em Transações
+>   - Concorrência
 > - **4. Programação em Bancos de Dados**
-> 	- PL/SQL
-> 		- i. Conceitos
-> 		- ii. Comandos
-> 	- Procedimentos Armazenados
-> 	- Gatilhos
+>   - PL/SQL
+>   - i. Conceitos
+>   - ii. Comandos
+>   - Procedimentos Armazenados
+>   - Gatilhos
 > - **5. Segurança**
-> 	- Privilégios de Acesso
-> 	- Visões
-> 	- Criptografia de Dados
+>   - Privilégios de Acesso
+>   - Visões
+>   - Criptografia de Dados
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004.
 > 2. HEUSER, C. A. Projeto de Banco de Dados. 6ª Edição. Porto Alegre: Bookman, 2008.
 > 3. SILBERSCHATZ, A, KORTH, H. F. SUDARSHAN, S. Sistema de banco de dados. 6. ed. Rio de Janeiro, RJ: Elsevier, 2012.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 4. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012.
 > 5. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015.
 > 6. MACHADO, F. N. R., ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 17ª Edição. São Paulo: Érica, 2012.
@@ -70,4 +75,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Banco De Dados|Anotações da Disciplina]]**

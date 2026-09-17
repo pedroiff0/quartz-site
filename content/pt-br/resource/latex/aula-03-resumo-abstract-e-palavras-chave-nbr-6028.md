@@ -1,7 +1,7 @@
 ---
 title: "Aula 03: Resumo, Abstract e Palavras-Chave (NBR 6028:2021)"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-03.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-03-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-03-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-03-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-03.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Estudo aprofundado das exigências formais da ABNT NBR 6028:2021 para redação de resumos acadêmicos (informativos e estruturados), tradução para o inglês (*Abstract*) e seleção vocabular de palavras-chave baseadas em vocabulários controlados.
 
-### 1. Estrutura Canônica do Resumo Informativo (ABNT NBR 6028)
+### . Estrutura Canônica do Resumo Informativo (ABNT NBR )
 
 O resumo informativo deve conter de 150 a 500 palavras em parágrafo único, sem recuo de primeira linha, utilizando voz ativa e terceira pessoa do singular. Deve contemplar obrigatoriamente: Contexto/Problema, Objetivo Geral, Metodologia Utilizada, Principais Resultados e Conclusão.
 
-### 2. Versão em Língua Estrangeira (Abstract / Resumen)
+### . Versão em Língua Estrangeira (Abstract / Resumen)
 
 O *Abstract* é a versão fiel do resumo em inglês. Discute-se a sobriedade sintática, terminologia técnica em computação e a proibição de tradutores automáticos literais sem revisão conceitual discente.
 
-### 3. Seleção de Palavras-Chave e Vocabulários Controlados
+### . Seleção de Palavras-Chave e Vocabulários Controlados
 
 As palavras-chave devem ser separadas entre si por ponto e vírgula (;) e finalizadas por ponto (ex: *LaTeX; Escrita Científica; Automação Documental.*). Recomenda-se o uso de descritores estabelecidos na área de Ciência da Computação.
 

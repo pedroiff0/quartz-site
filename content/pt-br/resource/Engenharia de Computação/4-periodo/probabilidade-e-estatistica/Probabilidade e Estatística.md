@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Probabilidade e Estatística"
+title: Probabilidade e Estatística
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Probabilidade E Estatistica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Probabilidade E Estatistica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,45 +24,45 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Distribuições de Probabilidades.
-> ### Objetivos
+> **Objetivos**
 > - Apresentar ao aluno os conceitos básicos de probabilidades e estatística descritiva que possibilitem a aplicação de métodos estatísticos na análise de problemas.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/Avaliação e Desempenho de Sistemas|CSECBJI.41 - Avaliação e Desempenho de Sistemas]]
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução à Estatística**
-> 	- Coleta de Dados em Engenharia
-> 	- Modelos Mecanicistas e Empíricos
-> 	- Planejamento de Experimentos
+>   - Coleta de Dados em Engenharia
+>   - Modelos Mecanicistas e Empíricos
+>   - Planejamento de Experimentos
 > - **2. Estatística Descritiva**
-> 	- Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
-> 	- Medidas de Posição: Médias, Mediana e Moda
-> 	- Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
+>   - Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
+>   - Medidas de Posição: Médias, Mediana e Moda
+>   - Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
 > - **3. Probabilidade**
-> 	- Definição
-> 	- Eventos Independentes
-> 	- Probabilidade condicional
-> 	- Leis da Probabilidade
-> 	- Teorema de Bayes
-> 	- Variáveis Aleatórias
+>   - Definição
+>   - Eventos Independentes
+>   - Probabilidade condicional
+>   - Leis da Probabilidade
+>   - Teorema de Bayes
+>   - Variáveis Aleatórias
 > - **4. Distribuições de Probabilidades**
-> 	- Discretas
-> 	- Contínuas
+>   - Discretas
+>   - Contínuas
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. LARSON, R., FARBER, B. Estatística Aplicada. 6ª Edição. São Paulo: Pearson, 2015.
 > 2. MONTGOMERY, D. C., RUNGE, G. C. Estatística Aplicada e Probabilidade para Engenheiros. 6.ª Edição. Rio de Janeiro: LTC, 2016.
 > 3. WALPOLE R., MYERS, R., MYERS, S., YE K., Probabilidade & Estatística para Engenharia e Ciências. 8ª Edição. São Paulo: Pearson, 2008.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. BUSSAB, W. O., MORETTIN, P. A. Estatística Básica. 9ª Edição. São Paulo: Saraiva, 2017.
 > 2. DEVORE, J. L. Probabilidade e Estatística para Engenharia e Ciências. 2ª Edição. São Paulo: Cengage,
 > 3. ROSS, S. Probabilidade: Um Curso Moderno com Aplicações. 8ª Edição. Porto Alegre: Bookman, 4.
@@ -67,4 +72,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Probabilidade E Estatistica|Anotações da Disciplina]]**

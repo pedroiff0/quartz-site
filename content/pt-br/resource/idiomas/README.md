@@ -5,7 +5,7 @@ aliases:
 publish: false
 title: " Hub Poliglota — hardcore-life"
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:47
+modified: 2026-09-16 12:20
 tags:
   - moc
   - idioma
@@ -32,7 +32,7 @@ cssclasses:
 
 ---
 
-## Mapa dos 10 Cursos Disponíveis
+## Mapa dos Cursos Disponíveis
 
 | Idioma | Família | Escrita | Nível Inicial | Atalho para o Hub | Quadro de Tarefas |
 | :--- | :--- | :--- | :--- | :--- | :--- |

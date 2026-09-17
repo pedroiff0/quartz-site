@@ -1,13 +1,13 @@
 ---
 publish: true
-title: "Anotações — Seguranca E Higiene Do Trabalho"
+title: Anotações — Seguranca E Higiene Do Trabalho
 created: 2026-08-24 21:03
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
-  - disciplina
-  - anotacao
+  - atividade
+  - trabalho
   - engenharia-de-computacao
 cssclasses:
   - page-layout

@@ -1,17 +1,15 @@
 ---
 publish: true
-title: "Atividades, Trabalhos & Provas — Computacao Paralela E Distribuida"
+title: Atividades, Trabalhos & Provas — Computacao Paralela E Distribuida
 created: 2026-08-29 11:58
-discipline: "Computacao Paralela E Distribuida"
-period: "eletivas"
+modified: 2026-09-16 15:35
 tags:
-  - disciplina
   - atividade
   - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - cards
-modified: 2026-09-15 21:34
 ---
 
 # Atividades, Trabalhos & Avaliações

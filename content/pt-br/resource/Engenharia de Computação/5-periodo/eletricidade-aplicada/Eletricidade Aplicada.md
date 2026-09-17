@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Eletricidade Aplicada"
+title: Eletricidade Aplicada
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Eletricidade Aplicada|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Eletricidade Aplicada|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,52 +24,52 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. Fornecimento de energia elétrica. Normas técnicas e órgãos reguladores. Automação e controle de processos.
-> ### Objetivos
+> **Objetivos**
 > - Proporcionar ao aluno conhecimentos básicos sobre energia elétrica objetivando melhor utilizá-las no meio industrial, bem como estudar os equipamentos elétricos e eletrônicos e iluminação na indústria.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Física III|CSECBJI.26 - Física III]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/eletivas/energia-e-eficiencia-energetica/Energia e Eficiência Energética|CSECBJI.82 - Energia e Eficiência Energética]]
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Análise de Circuitos Em Corrente Alternada**
-> 	- Padrões Elétricos e Convenções;
-> 	- Circuitos em Corrente Alternada;
-> 	- Representação Senoidal, Retangular e Polar;
-> 	- Valor Eficaz de uma Onda Senoidal;
-> 	- Triângulos de Impedâncias;
-> 	- Reatância indutiva;
-> 	- Reatância capacitiva;
-> 	- Triângulo de Potência;
-> 	- Potência Ativa;
-> 	- Potência Reativa;
-> 	- Potência Aparente;
-> 	- Fator de Potência;
-> 	- Noções de Circuitos Trifásicos;
-> 	- Transformadores;
-> 	- Relação de transformação, ligação de triângulo e estrela;
+>   - Padrões Elétricos e Convenções;
+>   - Circuitos em Corrente Alternada;
+>   - Representação Senoidal, Retangular e Polar;
+>   - Valor Eficaz de uma Onda Senoidal;
+>   - Triângulos de Impedâncias;
+>   - Reatância indutiva;
+>   - Reatância capacitiva;
+>   - Triângulo de Potência;
+>   - Potência Ativa;
+>   - Potência Reativa;
+>   - Potência Aparente;
+>   - Fator de Potência;
+>   - Noções de Circuitos Trifásicos;
+>   - Transformadores;
+>   - Relação de transformação, ligação de triângulo e estrela;
 > - **2. Fornecimento de Energia**
-> 	- Visão Geral do Sistema Elétrico;
-> 	- Modalidades de Ligações dos Consumidores;
-> 	- Monofásica;
-> 	- Bifásica;
-> 	- Trifásica;
-> 	- Instalação para Iluminação e Aparelhos Eletrodomésticos;
-> 	- Normas, Símbolos e Convenções.
+>   - Visão Geral do Sistema Elétrico;
+>   - Modalidades de Ligações dos Consumidores;
+>   - Monofásica;
+>   - Bifásica;
+>   - Trifásica;
+>   - Instalação para Iluminação e Aparelhos Eletrodomésticos;
+>   - Normas, Símbolos e Convenções.
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. ALEXANDER, C. K., SADIKU, M. Fundamentos de Circuitos Elétricos. 5ª Edição. Porto Alegre:
 > 2. Bookman, 2013.
 > 3. NILSSON, J. W., RIEDEL, S. A. Circuitos Elétricos. 10ª Edição. São Paulo: Pearson, 2015.
 > 4. NAHVI, M., EDMINISTER, J. Circuitos Elétricas. 5ª Edição. Porto Alegre: Bookman, 2014.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. GUSSOW, M. Eletricidade Básica. 2ª Edição. Porto Alegre: Bookman, 2008.
 > 2. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro:
 > 3. LTC, 2013.
@@ -75,4 +80,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Eletricidade Aplicada|Anotações da Disciplina]]**

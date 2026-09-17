@@ -2,7 +2,7 @@
 publish: true
 title: MOSTRATEC 2023
 created: 2023-10-23 13:04
-modified: 2026-09-15 21:51
+modified: 2026-09-16 12:20
 published: 2026-07-26T10:13:26.021-03:00
 photoFolder: mostratec2023
 type: blog
@@ -10,7 +10,7 @@ cssclasses:
   - page-layout
 ---
 
-# MOSTRATEC 2023
+# MOSTRATEC
 
 > [!note] Resumo
 > A maior e mais tradicional feira de ciências da América Latina, em Novo Hamburgo (RS) — apresentei "Entendendo a Matéria Escura através de choques Extragalácticos", com financiamento do CNPq.

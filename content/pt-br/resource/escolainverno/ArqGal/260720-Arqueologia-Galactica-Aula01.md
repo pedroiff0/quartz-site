@@ -6,7 +6,7 @@ discipline: Astrofísica Estelar / Via Láctea
 content: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas
 professor:
 created: 2026-07-20 13:34
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica
@@ -39,7 +39,7 @@ Assim como um arqueólogo lê a história humana em camadas de sedimento, a **ar
 
 ---
 
-## 1. Classificação espectral de estrelas
+## . Classificação espectral de estrelas
 
 Estrelas são classificadas pelo seu **tipo espectral**, na sequência mnemônica **O B A F G K M** (do bar clássico: "*Oh, Be A Fine Girl/Guy, Kiss Me*"), que corresponde, na prática, a uma sequência decrescente de **temperatura superficial** — de estrelas azuis muito quentes (O) a estrelas vermelhas frias (M).
 
@@ -62,7 +62,7 @@ Quando a luz de uma estrela é decomposta em um espectro (como um "arco-íris" c
 
 ---
 
-## 2. Evolução estelar e nucleossíntese
+## . Evolução estelar e nucleossíntese
 
 Estrelas nascem em berçários estelares — regiões densas e frias de nuvens moleculares, como a **Nebulosa de Carina** — e ao longo da vida fundem elementos cada vez mais pesados em seu núcleo, sustentadas pelo **equilíbrio hidrostático** (pressão térmica vs. gravidade, como visto na nota de Aglomerados). Esse equilíbrio se rompe quando a estrela ultrapassa certos **limites de massa/estabilidade** (ex.: limite de Chandrasekhar para anãs brancas), levando a diferentes destinos finais.
 
@@ -101,7 +101,7 @@ Elementos mais pesados que o ferro são produzidos majoritariamente por dois pro
 
 ---
 
-## 3. Populações estelares
+## . Populações estelares
 
 As estrelas da Galáxia são classificadas em **populações**, definidas principalmente por idade e conteúdo metálico (metalicidade):
 
@@ -123,7 +123,7 @@ Estudos da vizinhança solar (razão [$\alpha$/Fe] vs. [Fe/H]) — ex.: **Adibek
 
 ---
 
-## 4. Aglomerados abertos (Open Clusters)
+## . Aglomerados abertos (Open Clusters)
 
 **Aglomerados abertos** são grupos de **100 a 1000 estrelas**, com idades variadas, localizados no **disco galáctico** (plano da Galáxia) — diferente dos aglomerados globulares (ver abaixo), são estruturas mais soltas e menos numerosas em estrelas.
 

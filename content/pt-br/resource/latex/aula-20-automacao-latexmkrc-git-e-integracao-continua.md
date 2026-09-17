@@ -1,7 +1,7 @@
 ---
 title: "Aula 20: Automação LaTeX, Git e Integração Contínua CI/CD"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-20-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-20-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-20-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Consolidação da automação tipográfica. Uso do `latexmk` com configurações avançadas (`.latexmkrc`), controle de versão de projetos TeX com Git e pipelines de Integração Contínua (CI/CD) no GitHub Actions para compilação e publicação automática de PDFs.
 
-### 1. Automação de Build com `latexmk` e `.latexmkrc`
+### . Automação de Build com `latexmk` e `.latexmkrc`
 
 Configuração de rotinas de compilação em um único comando (`latexmk -pdf`), gerenciamento de limpeza de temporários (`latexmk -c`) e suporte a LuaLaTeX.
 
-### 2. Boas Práticas de Controle de Versão com Git
+### . Boas Práticas de Controle de Versão com Git
 
 Regras de `.gitignore` para ignorar arquivos temporários TeX (`.aux`, `.log`, `.out`, `.toc`, `.bbl`), resolução de conflitos em arquivos de texto e convenções de commit.
 
-### 3. Pipelines de CI/CD para Compilação Automática no GitHub
+### . Pipelines de CI/CD para Compilação Automática no GitHub
 
 Criação de workflows GitHub Actions para compilação automatizada da monografia a cada `git push` e disponibilização dos PDFs compilados nos *releases* do repositório.
 

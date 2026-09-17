@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Comunicação de Dados"
+title: Comunicação de Dados
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Comunicacao De Dados|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Comunicacao De Dados|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -18,63 +23,63 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. Controle de Enlace. Multiplexação. Espalhamento Espectral.
-> ### Objetivos
+> **Objetivos**
 > - ● Apresentar ao aluno as definições básicas e os principais problemas relacionados com comunicação de dados ponto a ponto.
 > - ● Apresentar conceitos básicos de capacidade de canal, relação entre taxa de transmissão e largura de faixa, modulação analógica e digital, controle de erros, multiplexação e espalhamento espectral devem ser dominados pelo aluno
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/7-periodo/redes-de-computadores-i/Redes de Computadores I|CSECBJI.55 - Redes de Computadores I]]
 > - [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/Processamento de Sinais|CSECBJI.83 - Processamento de Sinais]]
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Transmissão de Dados**
-> 	- Conceitos e Terminologias de Transmissão de Dados
-> 	- Transmissão de Dados Analógica
-> 	- Transmissão de Dados Digital
-> 	- Problemas de Transmissão
-> 	- Capacidade de Canal
+>   - Conceitos e Terminologias de Transmissão de Dados
+>   - Transmissão de Dados Analógica
+>   - Transmissão de Dados Digital
+>   - Problemas de Transmissão
+>   - Capacidade de Canal
 > - **2. Meios de Transmissão**
-> 	- Transmissão Guiada e Meios de Transmissão Guiada
-> 	- Transmissão Sem Fio
-> 	- Conceitos de Propagação
-> 	- Linha de Visada
+>   - Transmissão Guiada e Meios de Transmissão Guiada
+>   - Transmissão Sem Fio
+>   - Conceitos de Propagação
+>   - Linha de Visada
 > - **3. Comunicação de Dados Digitais**
-> 	- Técnicas de Codificação de Sinais
-> 	- Técnicas de Comunicação de Dados Digitais
-> 	- Transmissão Síncrona
-> 	- Transmissão Assíncrona
-> 	- Detecção e Controle de Erros
-> 	- Códigos de Linha
-> 	- Interfaceamento
+>   - Técnicas de Codificação de Sinais
+>   - Técnicas de Comunicação de Dados Digitais
+>   - Transmissão Síncrona
+>   - Transmissão Assíncrona
+>   - Detecção e Controle de Erros
+>   - Códigos de Linha
+>   - Interfaceamento
 > - **4. Comunicação de Dados Analógica**
-> 	- Modulação de Dados Digitais
-> 	- Modens Modulação de Sinais Analógicos
-> 	- AM
-> 	- FM
-> 	- PM
+>   - Modulação de Dados Digitais
+>   - Modens Modulação de Sinais Analógicos
+>   - AM
+>   - FM
+>   - PM
 > - **5. Controle de Enlace de Dados**
-> 	- Controle de Fluxo e de Erros
-> 	- Controle de Enlace Lógico
-> 	- Questões de Desempenho
+>   - Controle de Fluxo e de Erros
+>   - Controle de Enlace Lógico
+>   - Questões de Desempenho
 > - **6. Multiplexação**
-> 	- FDM
-> 	- TDM Síncrono e Estatístico
-> 	- Característica de Comunicação de Última Milha.
+>   - FDM
+>   - TDM Síncrono e Estatístico
+>   - Característica de Comunicação de Última Milha.
 > - **7. Espalhamento Espectral**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. CAMPOS, A. L. P. S. Laboratório de Princípios de Telecomunicações. Rio de Janeiro: LTC, 2015.
 > 2. FOROUZAN, B. A. Comunicação de dados e redes de computadores. 4ª. Ed. Porto Alegre: Bookman,
 > 3. ROCHOL, J. Comunicação de Dados. Porto Alegre: Bookman, 2011.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. HAYKIN, S. MOHER, M. Sistemas modernos de comunicação wireless. Porto Alegre: Bookman, 2008.
 > 2. HAYKIN, S. Sistemas de comunicação: analógicos e digitais. 5ª Edição. Porto Alegre: Bookman, 2010.
 > 3. LATHI, E., DING, Z. Sistemas de Comunicações Analógicos e Digitais Modernos. 4ª Edição. Rio de Janeiro: LTC, 2012.
@@ -83,4 +88,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Comunicacao De Dados|Anotações da Disciplina]]**

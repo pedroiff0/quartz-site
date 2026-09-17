@@ -8,7 +8,7 @@ tags:
   - espanhol
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 02 — Pronomes Pessoais e os Verbos Ser, Estar e Tener
+# Aula — Pronomes Pessoais e os Verbos Ser, Estar e Tener
 
 > [!info] Metadados da Lição
 > - **Idioma:** Espanhol | **Nível Alvo:** A1

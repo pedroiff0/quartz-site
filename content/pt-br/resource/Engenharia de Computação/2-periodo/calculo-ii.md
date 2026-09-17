@@ -1,11 +1,11 @@
 ---
 publish: false
 created: 2026-09-14 11:40
-modified: 2026-09-14 20:12
+modified: 2026-09-16 15:35
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 tags:
-  - academico
   - disciplina
-  - iff
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
 ---

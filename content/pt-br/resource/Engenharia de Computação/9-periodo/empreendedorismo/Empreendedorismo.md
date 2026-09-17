@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Empreendedorismo"
+title: Empreendedorismo
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Empreendedorismo|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Empreendedorismo|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,61 +24,61 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor e medidas de qualidade. Startups.
-> ### Objetivos
+> **Objetivos**
 > - Proporcionar aos acadêmicos o conhecimento das características empreendedoras, a busca das oportunidades de negócios e o desenvolvimento do plano de negócios de empresas, bem como prepará-los para empreender e avaliar os riscos em atividades voltadas a sua atuação na área da engenharia de computação.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Empreendedor e os Fatores de Sucesso**
-> 	- Conceito de Empreendedorismo
-> 	- O que é ser Empreendedor
-> 	- Perfil empreendedor e autoavaliação de competências
-> 	- Empreendedor de negócios e de empresas
-> 	- Fatores de sucesso
-> 	- Depoimento de um empreendedor
-> 	- Estudo de caso de empreendedores
+>   - Conceito de Empreendedorismo
+>   - O que é ser Empreendedor
+>   - Perfil empreendedor e autoavaliação de competências
+>   - Empreendedor de negócios e de empresas
+>   - Fatores de sucesso
+>   - Depoimento de um empreendedor
+>   - Estudo de caso de empreendedores
 > - **2. Marketing do Gerente Empreendedor**
-> 	- Ambiente de Estímulo ao Empreendedorismo
-> 	- Cultura Empreendedora
-> 	- Intraempreendedorismos nas empresas
-> 	- O Gerente e o Colaborador Empreendedor
+>   - Ambiente de Estímulo ao Empreendedorismo
+>   - Cultura Empreendedora
+>   - Intraempreendedorismos nas empresas
+>   - O Gerente e o Colaborador Empreendedor
 > - **3. Empreendedor e a Economia de Mercado**
-> 	- Ocaso das MPEs, seus números e importância, informalidade
-> 	- Aspectos do Mercado Brasileiro e Global
-> 	- Análise de Cenários
-> 	- Importância das Relações com o Mercado
-> 	- Formulação de redes
+>   - Ocaso das MPEs, seus números e importância, informalidade
+>   - Aspectos do Mercado Brasileiro e Global
+>   - Análise de Cenários
+>   - Importância das Relações com o Mercado
+>   - Formulação de redes
 > - **4. Mercado e as Oportunidades de Negócios**
-> 	- Oportunidades em Mercados Inovadores e Tradicionais
-> 	- Oportunidades em Negócios Inovadores e Tradicionais
-> 	- Estímulos do Governo e de Outros Orgãos ao Empreendedorismo
-> 	- Leis Voltadas às Microempresas
-> 	- Empreendedorismo Social
-> 	- Estudos de Caso de Empresas
+>   - Oportunidades em Mercados Inovadores e Tradicionais
+>   - Oportunidades em Negócios Inovadores e Tradicionais
+>   - Estímulos do Governo e de Outros Orgãos ao Empreendedorismo
+>   - Leis Voltadas às Microempresas
+>   - Empreendedorismo Social
+>   - Estudos de Caso de Empresas
 > - **5. Plano de Negócios**
-> 	- Prospecção de Oportunidades
-> 	- Etapas de um Plano de Negócios
-> 	- Aspectos de Marketing
-> 	- Aspectos de Produção
-> 	- Aspectos da gestão Financeira
-> 	- Aspectos e Medidas da Qualidade
-> 	- Simulação de um Plano de Negócios
+>   - Prospecção de Oportunidades
+>   - Etapas de um Plano de Negócios
+>   - Aspectos de Marketing
+>   - Aspectos de Produção
+>   - Aspectos da gestão Financeira
+>   - Aspectos e Medidas da Qualidade
+>   - Simulação de um Plano de Negócios
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004.
 > 2. CHÉR, R. Empreendedorismo na veia: um aprendizado constante. Rio de Janeiro: Elsevier: SEBRAE,
 > 3. TAJRA, S. F. Empreendedorismo: Conceitos e Práticas Inovadoras. 1 Ed. São Paulo. Érica, 2014.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. DRUCKER, P. F. Inovação e espírito empreendedor: prática e princípios. São Paulo: Pioneira, 2005. liveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo:
 > 2. Atlas, 2011;
 > 3. KOTLER, P. Administração de marketing.
@@ -89,4 +94,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Empreendedorismo|Anotações da Disciplina]]**

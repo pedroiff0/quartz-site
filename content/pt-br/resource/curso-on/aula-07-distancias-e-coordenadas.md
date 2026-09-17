@@ -2,7 +2,7 @@
 publish: false
 title: Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
 created: 2026-07-23 12:36
-modified: 2026-09-15 21:51
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|← Aula 06 — Diagrama HR e Relação Massa-Luminosidade]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|Aula 08 — Velocidades e Movimento Próprio →]]
 
-# Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
+# Aula — Distâncias, Escala de Distância e Sistemas de Coordenadas
 
 > [!note] Resumo
 > As distâncias estabelecem a escala absoluta de toda a Astronomia. Esta aula percorre a "escada cósmica de distâncias" — do radar no Sistema Solar às supernovas tipo Ia em galáxias distantes — e fecha com os três sistemas de coordenadas usados para localizar objetos no céu e na Galáxia.
@@ -74,7 +74,7 @@ $d\,[\text{pc}] = \frac{1}{p\,['']}$
 > [!tip] Consultando dados do Gaia
 > Para encontrar dados de uma estrela específica no catálogo Gaia: buscar por nome/coordenadas em **SIMBAD** (`simbad.u-strasbg.fr`) — obtendo posição, movimento próprio, velocidade radial, paralaxe e magnitudes em várias bandas — e então cruzar o identificador Gaia com o catálogo completo via **VizieR** (`vizier.u-strasbg.fr`).
 
-### Exemplo prático — HD 249117
+### Exemplo prático — HD
 
 Paralaxe medida: $p = 0{,}3564 \pm 0{,}1343\,$mas (incerteza alta, pois a estrela é brilhante demais, $V<9$, para medidas ideais do Gaia). Magnitude aparente $m=7{,}76$; distância calculada $\approx2{,}81\,$kpc. Para posicionar a estrela corretamente no diagrama HR, ainda é preciso corrigir por extinção/avermelhamento (Aula 05) antes de converter para magnitude absoluta.
 

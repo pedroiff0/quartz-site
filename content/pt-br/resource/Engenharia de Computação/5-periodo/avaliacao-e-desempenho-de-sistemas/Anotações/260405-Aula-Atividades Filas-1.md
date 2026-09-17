@@ -1,20 +1,20 @@
 ---
 publish: true
-title: "260405-Aula-Atividades Filas-1"
+title: 260405-Aula-Atividades Filas-1
 created: 2026-04-05 14:49
-modified: 2026-09-14 20:12
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
-  - aula
+  - atividade
+  - trabalho
   - engenharia-de-computacao
-  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---
 # Notas de Aula - Atividades Filas
 ***
-### Questão 1 - Servidor de Autenticação Acadêmica
+### Questão - Servidor de Autenticação Acadêmica
 
 Dados:
 Chegada ($\lambda$) = 8 reqs/min
@@ -36,7 +36,7 @@ c) se a chance de haver pelo menos 4 requisições no sistema é relevante
 
 Probabilidade de haver pelo menos 4 requisições: $\text{P}(N \geq 4) = \rho^4 = (0,667)^4 = 0,198$ 
 
-### Questão 6 - Balanceador com 2 servidores
+### Questão - Balanceador com servidores
 
 a) se a utilização por servidor é saudável; -> U e $\rho$
 b) se a chance de espera ainda é relevante; -> $\text{E}[n_w]$
@@ -63,14 +63,14 @@ $E[n] = E[n_w] + E[n_s] = 0,333 + 1 = 1,333$
 Tempo médio de espera na fila ($\text{E}[w]$): $\frac{\text{E}[n_w]}{\lambda} = \frac{0,333}{2} = 0,1667$ min
 Tempo médio de espera de resposta ($\text{E}[s]$): $\frac{\text{E}[n]}{\lambda} = \frac{1,333}{2} = 0,6667 \implies 40s$  min
 ***
-## Resolução Teste 2025.2
+## Resolução Teste .
 
 ### Resumo de fórmulas com perguntas:
 
 **Cuidado com as unidades de tempo! 1h = 60 min = 3600 segundos
 
 Um servidor, então modelo: M/M/1/$\infty$/FIFO; se tiver m servidores, então modelo: M/M/m/$\infty$/FIFO 
-#### Modelo 1 - M/M/1/$\infty$/FIFO
+### Modelo - M/M//$\infty$/FIFO
 Só tem UM único servidor:
 
 1. Servidor opera com folga/estável? $\rho = \frac{\lambda}{\mu}$
@@ -86,7 +86,7 @@ Aqui calcular o tempo médio no sistema $\text{E}[s]$
 4. Chance de haver X chamados? $P(N \geq X) =  \rho^X$
 Aqui calcular a probabilidade $P$
 
-#### Modelo 2 - M/M/m/$\infty$/FIFO
+### Modelo - M/M/m/$\infty$/FIFO
 Tem MAIS de UM servidor (unidade de processamento)
 1. Servidor opera com folga/estável? $\rho = \frac{\lambda}{m\mu}$; $U=\frac{\lambda}{\mu}$
 Aqui calcular a taxa de serviço de cada servidor $\rho$
@@ -102,7 +102,7 @@ A resposta será o $\text{E}[n_w]$
 Aqui calcular o tempo de espera (wait) $\text{E}[w]$
 
 ***
-### Questão 1 - Sistema Suporte Técnico
+### Questão - Sistema Suporte Técnico
 Modelo: M/M/1/$\infty$/FIFO
 Chegada ($\lambda$) = 9 requisições/min
 Taxa de serviço ($\mu$) = 15 chamados/min
@@ -124,7 +124,7 @@ c) o tempo médio total no sistema fica abaixo de 12s
 Passo 4: $P(N\geq4) = \rho^4 = 0,6^4 \approx 0,1296 \implies 12,96\%$
 d) a chance de ter pelo menos 4 chamados no sistema é baixa, acima de 10%  
 ***
-### Questão 2 - Plataforma de aulas
+### Questão - Plataforma de aulas
 Modelo: M/M/1/$\infty$/FIFO
 Chegada ($\lambda$): $42$ vídeos/hora
 Taxa de serviço ($\mu$): $60$ vídeos/hora
@@ -148,7 +148,7 @@ Passo 4: $P(N\geq5)$
 $\rho^5 = 0,1680 \implies 16,80\%$
 d) Já merece atenção.
 ***
-### Questão 3 - Sistema de monitoramento industrial
+### Questão - Sistema de monitoramento industrial
 Modelo: M/M/4/$\infty$/FIFO
 Chegada ($\lambda$) = 8 eventos/min 
 Serviço ($\mu$) = 3 eventos/min
@@ -178,7 +178,7 @@ $E[s] = \frac{E[n]}{\lambda} = \frac{3,4266}{8} = 0,4275 \implies = 25,65$ s
 d) Fica abaixo de 30 s;
 
 ***
-### Questão 4 - Central de protocolas
+### Questão - Central de protocolas
 Modelo: M/M/3/$\infty$/FIFO
 Chegada ($\lambda$): 9 solicitações/min
 Serviço ($\mu$): 4 solicitações/min
@@ -208,7 +208,7 @@ d) Fica ACIMA de 10 s;
 
 
 ***
-### Questão 5 - Sistema acadêmico
+### Questão - Sistema acadêmico
 Modelo: M/M/1/$\infty$/FIFO
 ***
 Chegada ($\lambda$): $12$ registros/min

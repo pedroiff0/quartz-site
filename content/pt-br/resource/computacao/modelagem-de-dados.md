@@ -2,7 +2,7 @@
 publish: false
 title: Modelagem de Dados
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -21,19 +21,19 @@ A modelagem é também a habilidade de tradução mais importante do curso: conv
 
 ## Trilha de estudo
 
-### 1. Modelo entidade-relacionamento (iniciante)
+### . Modelo entidade-relacionamento (iniciante)
 
 Aprenda os blocos básicos: entidade, atributo, relacionamento, e principalmente cardinalidade (1:1, 1:N, N:N). Pratique modelando domínios que você conhece de cor: a biblioteca do campus, um campeonato de futebol, um app de delivery. Compare seu diagrama com o de um colega — as diferenças geram as melhores discussões. Tempo típico: 3 a 4 semanas.
 
-### 2. Do conceitual ao lógico (intermediário)
+### . Do conceitual ao lógico (intermediário)
 
 Aprenda as regras de mapeamento: entidade vira tabela, relacionamento N:N vira tabela associativa, atributo multivalorado vira tabela própria. Entenda a diferença entre os três níveis — conceitual (ER), lógico (relacional) e físico (SQL de um SGBD específico) — e por que cada um existe. Pratique convertendo seus diagramas da etapa 1 em esquemas relacionais completos. Tempo típico: 3 a 4 semanas.
 
-### 3. Normalização (intermediário)
+### . Normalização (intermediário)
 
 Domine as três primeiras formas normais e as anomalias que cada uma elimina. O exercício clássico: pegar uma planilha "tudo numa tabela só" (uma nota fiscal, um histórico escolar) e normalizar passo a passo até a 3FN, justificando cada divisão. Entenda também quando desnormalizar deliberadamente é aceitável. Tempo típico: 3 a 4 semanas.
 
-### 4. Modelagem no mundo real (avançado)
+### . Modelagem no mundo real (avançado)
 
 Casos que os livros simplificam: dados temporais (histórico de preços, vigência de contratos), hierarquias, herança/generalização no ER, e modelagem para requisitos que mudam. Pratique fazendo engenharia reversa: pegue um sistema aberto, olhe o esquema do banco e tente reconstruir o diagrama ER — e critique as decisões que encontrar. Tempo típico: 4 a 6 semanas.
 

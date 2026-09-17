@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Filosofia da Ciência e Tecnologia"
+title: Filosofia da Ciência e Tecnologia
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Filosofia Da Ciencia E Tecnologia|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Filosofia Da Ciencia E Tecnologia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,40 +24,40 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O progresso científico. O progresso tecnológico. Civilização tecnológica. Ciência, Tecnologia e Humanismo.
-> ### Objetivos
+> **Objetivos**
 > - Problematizar e contextualizar a crise da Ciência Moderna e das concepções dominantes de tecnologia, fazendo a crítica ao paradigma científico dominante.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Teoria do conhecimento: arte, técnica, ciência e engenharia**
-> 	- Definição e contextualização sobre a condição humana
-> 	- Definições ciência, técnica e tecnologia
-> 	- O contexto do século XXI
+>   - Definição e contextualização sobre a condição humana
+>   - Definições ciência, técnica e tecnologia
+>   - O contexto do século XXI
 > - **2. O Progresso Científico e o Progresso Tecnológico**
-> 	- Paradigma científico dominante
-> 	- Definições sobre crise da Ciência, crise do paradigma científico
-> 	- Contexto do século XXI
+>   - Paradigma científico dominante
+>   - Definições sobre crise da Ciência, crise do paradigma científico
+>   - Contexto do século XXI
 > - **3. Civilização Tecnológica, Ciência, Tecnologia e Humanismo**
-> 	- O laboratório como ambiente de conflito e crise
-> 	- O questionamento do paradigma científico
-> 	- O questionamento do paradigma científico e as polêmicas emergentes
-> 	- O Contexto do século XXI
+>   - O laboratório como ambiente de conflito e crise
+>   - O questionamento do paradigma científico
+>   - O questionamento do paradigma científico e as polêmicas emergentes
+>   - O Contexto do século XXI
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. CHAUI, M. S. Convite à filosofia. 14. ed. São Paulo: Ática, 2011.
 > 2. LATOUR, Bruno. Ciência em ação: como seguir cientistas e engenheiros sociedade afora. São Paulo: Ed. UNESP, 2000.
 > 3. MORIN, E. Ciência com consciência. 11. ed. Rio de Janeiro: Bertrand Brasil, 2008.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 4. ARANHA, M. L. A.; MARTINS, M. H. P. Filosofando: introdução à filosofia. 4. ed. rev. São Paulo: Moderna, 2009.
 > 5. HARVEY, David. Condição pós-moderna: uma pesquisa sobre as origens da mudança cultural. 14. ed. São Paulo: Loyola, 2005.
 > 6. PINTO, Álvaro Vieira. O conceito de tecnologia. Rio de Janeiro: Contraponto, 2008.
@@ -61,4 +66,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Filosofia Da Ciencia E Tecnologia|Anotações da Disciplina]]**

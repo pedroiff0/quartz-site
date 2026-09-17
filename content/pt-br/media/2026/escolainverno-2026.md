@@ -2,7 +2,7 @@
 publish: true
 title: Escola de Inverno ON - 2026
 created: 2026-07-18 13:34
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T10:16:40.175-03:00
 photoFolder: escolainverno2026
 type: blog
@@ -10,7 +10,7 @@ cssclasses:
   - page-layout
 ---
 
-# Escola de Inverno ON - 2026
+# Escola de Inverno ON -
 
 > [!note] Resumo
 > Escola de Inverno em Astrofísica 2026 do Observatório Nacional, no Rio de Janeiro — apresentei uma atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4 já levado à SAB 2025.

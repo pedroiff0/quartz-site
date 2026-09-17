@@ -1,7 +1,7 @@
 ---
 title: "Aula 16: Desenvolvimento de Pacotes .sty - Programação TeX e Macros"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-16-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-16-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-16-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Programação avançada TeX/LaTeX2e para criação de pacotes `.sty` institucionais e bibliotecas de macros personalizadas (`macros.sty`). Uso dos comandos `\newcommand`, `\renewcommand`, `\DeclareOption` e `\ProcessOptions`.
 
-### 1. Estrutura Canônica de um Pacote LaTeX (`.sty`)
+### . Estrutura Canônica de um Pacote LaTeX (`.sty`)
 
 Uso das diretivas `\NeedsTeXFormat{LaTeX2e}` e `\ProvidesPackage{macros}[Data Descrição]`. Gerenciamento de dependências entre pacotes internos.
 
-### 2. Programação de Macros Customizadas e Atalhos Tipográficos
+### . Programação de Macros Customizadas e Atalhos Tipográficos
 
 Desenvolvimento de comandos com argumentos opcionais e obrigatórios para padronizar notações matemáticas, nomes de sistemas e caixas de destaque personalizadas.
 
-### 3. Passagem de Opções e Tratamento de Erros TeX
+### . Passagem de Opções e Tratamento de Erros TeX
 
 Criação de opções de pacote (ex: `\usepackage[darktheme]{macros}`) e emissão de alertas e erros institucionais com `\PackageError` e `\PackageWarning`.
 

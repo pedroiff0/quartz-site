@@ -13,12 +13,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 
 ---
 
 **Navegação (grafo):** [[pt-br/resource/escolainverno/Computação/260721-Computacao-Aula01|← 260721-Computacao-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Computação/Computacao-Aula03|Computacao-Aula03 →]]
-# Notas de Aula — Computação de Alto Desempenho (Aula 02)
+# Notas de Aula — Computação de Alto Desempenho (Aula )
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[260721-Computacao-Aula01|Aula 01]])*

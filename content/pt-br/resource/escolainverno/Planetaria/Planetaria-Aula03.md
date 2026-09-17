@@ -13,12 +13,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 
 ---
 
 **Navegação (grafo):** [[pt-br/resource/escolainverno/Planetaria/260721-Planetaria-Aula02|← 260721-Planetaria-Aula02]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]]
-# Notas de Aula — Ciências Planetárias (Aula 03)
+# Notas de Aula — Ciências Planetárias (Aula )
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[260721-Planetaria-Aula02|Aula 02]])*

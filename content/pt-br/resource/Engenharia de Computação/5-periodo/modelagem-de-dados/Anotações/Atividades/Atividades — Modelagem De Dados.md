@@ -1,17 +1,15 @@
 ---
 publish: true
-title: "Atividades, Trabalhos & Provas — Modelagem De Dados"
+title: Atividades, Trabalhos & Provas — Modelagem De Dados
 created: 2026-08-29 11:58
-discipline: "Modelagem De Dados"
-period: "5-periodo"
+modified: 2026-09-16 15:35
 tags:
-  - disciplina
   - atividade
   - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - cards
-modified: 2026-09-15 21:34
 ---
 
 # Atividades, Trabalhos & Avaliações

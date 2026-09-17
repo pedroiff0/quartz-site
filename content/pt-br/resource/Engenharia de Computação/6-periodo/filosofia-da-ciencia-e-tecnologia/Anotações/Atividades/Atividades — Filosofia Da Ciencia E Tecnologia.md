@@ -1,17 +1,15 @@
 ---
 publish: true
-title: "Atividades, Trabalhos & Provas — Filosofia Da Ciencia E Tecnologia"
+title: Atividades, Trabalhos & Provas — Filosofia Da Ciencia E Tecnologia
 created: 2026-08-29 11:58
-discipline: "Filosofia Da Ciencia E Tecnologia"
-period: "6-periodo"
+modified: 2026-09-16 15:35
 tags:
-  - disciplina
   - atividade
   - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - cards
-modified: 2026-09-15 21:34
 ---
 
 # Atividades, Trabalhos & Avaliações
@@ -26,7 +24,7 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 | :--- | :---: | :--- | :--- |
 | [[Trabalho - Espaço Cultural\|Trabalho - Espaço Cultural]] | 2026-09-10 | Pedro Henrique Rocha de Andrade, Ana Cecília Soja, Maria Luiza Dantas | — |
 | [[Trabalho 1 - Introdução à  e a Crítica dos Pressupostos\|Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos]] | 2026-09-02 | Bernardo Rainha Gomes, Pedro Henrique Rocha de Andrade | Rafael Tardin |
-| [[Trabalho 2 - Filosofia da Tecnologia\|Trabalho 2 - Filosofia da Tecnologia]] | 2026-09-07 | Pedro Henrique Rocha de Andrade | Rafael Tardin |
+| [[Trabalho 2 - Filosofia da Tecnologia\|Trabalho 2 - Filosofia da Tecnologia]] | 07/09/2026 | — | — |
 
 ---
 

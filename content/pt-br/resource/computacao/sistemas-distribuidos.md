@@ -2,7 +2,7 @@
 publish: false
 title: Sistemas Distribuídos
 created: 2026-07-26 13:04
-modified: 2026-09-15 21:51
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -22,25 +22,25 @@ Entender os limites fundamentais (o Teorema CAP, consistência eventual vs. fort
 
 ## Trilha de estudo
 
-### 1. Conceitos fundamentais e arquiteturas (2 semanas)
+### . Conceitos fundamentais e arquiteturas ( semanas)
 
 O que dominar: a motivação para distribuir um sistema (escalabilidade, disponibilidade, tolerância a falhas), o conceito de **transparência de distribuição** (o usuário não deveria perceber que o sistema é distribuído — transparência de acesso, localização, migração, concorrência, falha), e as duas arquiteturas clássicas: **cliente-servidor** (centralizada, papéis bem definidos) vs. **peer-to-peer** (descentralizada, todo nó pode ser cliente e servidor). O que praticar: para três sistemas que você usa no dia a dia (um app de mensagens, um serviço de streaming, um cliente de torrent), identificar qual arquitetura cada um usa e por quê.
 
-### 2. Comunicação e sincronização (2–3 semanas)
+### . Comunicação e sincronização (– semanas)
 
 O que dominar: modelos de interação **síncrono** (o remetente espera resposta) vs. **assíncrono** (dispara e segue em frente); por que relógios físicos de máquinas diferentes divergem e como protocolos como o NTP tentam sincronizá-los; e — mais importante — por que **relógios lógicos** (Timestamps de Lamport, Relógios Vetoriais) resolvem o problema real: não "que horas são", mas "o que aconteceu antes do quê". O que praticar: dado um diagrama de eventos em três processos trocando mensagens, atribuir timestamps de Lamport manualmente e verificar a relação de "aconteceu-antes" (_happens-before_).
 
-### 3. Middleware e transações distribuídas (2 semanas)
+### . Middleware e transações distribuídas ( semanas)
 
 O que dominar: RPC/RMI (chamar um procedimento como se fosse local, mesmo estando numa máquina remota), serviços de nomes, as propriedades **ACID** de uma transação (Atomicidade, Consistência, Isolamento, Durabilidade), e o protocolo de **Commit em Duas Fases (2PC)** para garantir que uma transação distribuída seja confirmada em todos os nós ou em nenhum. O que praticar: simular manualmente o 2PC com três participantes, incluindo o caso em que um participante falha entre a fase de votação e a de confirmação — é aí que aparece o problema real do protocolo (ele bloqueia esperando o coordenador).
 
-### 4. Tolerância a falhas e consistência (2–3 semanas)
+### . Tolerância a falhas e consistência (– semanas)
 
 O que dominar: os modelos de falha (_crash_, omissão, temporização, bizantina — cada um assumindo um comportamento diferente e pior para o que pode dar errado), replicação de dados, e o espectro entre **consistência forte** (todo nó vê os mesmos dados, sempre, ao custo de disponibilidade) e **consistência eventual** (nós podem divergir temporariamente, mas convergem). O ponto alto da unidade é o **Teorema CAP**: sob uma partição de rede (P), um sistema distribuído só pode escolher entre Consistência (C) ou Disponibilidade (A) — nunca as duas ao mesmo tempo. O que praticar: para três bancos de dados distribuídos reais (ex: um relacional com replicação síncrona, o DynamoDB, o Cassandra), identificar qual lado do CAP cada um prioriza.
 
 ![O Teorema CAP: sob partição de rede (P), um sistema distribuído só pode garantir Consistência (C) ou Disponibilidade (A), nunca as duas simultaneamente.](https://commons.wikimedia.org/wiki/Special:FilePath/CAP_Theorem.svg)
 
-### 5. Computação paralela e algoritmos distribuídos (3–4 semanas)
+### . Computação paralela e algoritmos distribuídos (– semanas)
 
 O que dominar: a Taxonomia de Flynn (SISD, SIMD, MISD, MIMD) para classificar arquiteturas paralelas; os modelos de programação paralela — **OpenMP** (memória compartilhada, laços paralelizados com diretivas) e **MPI** (memória distribuída, troca explícita de mensagens entre processos), os mesmos que aparecem no minicurso de HPC da Escola de Inverno; e os algoritmos distribuídos clássicos: **eleição de líder** (escolher um coordenador sem autoridade central prévia), **exclusão mútua distribuída** (o problema dos "dining/drinking philosophers" em versão distribuída, sem memória compartilhada para um mutex), detecção de terminação e de _deadlock_, e árvore geradora mínima distribuída. O que praticar: implementar (em pseudocódigo ou Python com `multiprocessing`) o algoritmo de eleição de líder em anel (_ring algorithm_) — é curto, mas ilustra bem como coordenação emerge sem um nó "especial" desde o início.
 

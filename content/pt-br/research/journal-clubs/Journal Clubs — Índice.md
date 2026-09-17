@@ -2,7 +2,7 @@
 publish: true
 title: Journal Clubs
 created: 2026-07-26 13:04
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:22
 published: 2026-08-01T16:28:51.169-03:00
 cssclasses:
   - page-layout
@@ -47,10 +47,10 @@ Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatt
 >
 > _Autores completos (Ano)_
 >
-> ## Resumo
+> **Resumo**
 > Síntese curta do artigo — problema, método, resultado principal.
 >
-> ## Discussão
+> **Discussão**
 > O que o grupo discutiu de fato: pontos levantados, críticas, dúvidas, conexões com outros artigos/projetos.
 >
 > [Ver no arXiv](https://arxiv.org/abs/XXXX.XXXXX)

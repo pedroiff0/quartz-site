@@ -6,7 +6,7 @@ discipline: Ciências Planetárias
 content: Continuação de Ciências Planetárias (conteúdo a ser preenchido)
 professor:
 created: 2026-07-21 13:34
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias
@@ -18,7 +18,7 @@ cssclasses:
 ---
 
 **Navegação (grafo):** [[pt-br/resource/escolainverno/Planetaria/260720-Planetaria-Aula01|← 260720-Planetaria-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Planetaria/Planetaria-Aula03|Planetaria-Aula03 →]]
-# Notas de Aula — Ciências Planetárias (Aula 02)
+# Notas de Aula — Ciências Planetárias (Aula )
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[260720-Planetaria-Aula01|Aula 01]])*

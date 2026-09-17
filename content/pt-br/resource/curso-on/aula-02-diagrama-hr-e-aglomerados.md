@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 — Diagrama HR e Aglomerados Estelares
 created: 2026-07-23 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -20,7 +20,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-01-conceito-e-historico|← Aula 01 — Conceito e Histórico]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral →]]
 
-# Aula 02 — Diagrama HR e Aglomerados Estelares
+# Aula — Diagrama HR e Aglomerados Estelares
 
 > [!note] Resumo
 > Estrelas de diferentes massas evoluem de formas diferentes, e essa diferença é o que torna os aglomerados estelares laboratórios ideais para testar modelos de evolução estelar: todas as suas estrelas nasceram (quase) ao mesmo tempo. Esta aula compara aglomerados abertos e globulares, introduz a função de massa inicial (IMF) e as isócronas, e fecha com a nomenclatura de populações I, II e III.

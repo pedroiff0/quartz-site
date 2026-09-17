@@ -1,17 +1,15 @@
 ---
 publish: true
-title: "Atividades, Trabalhos & Provas — Banco De Dados"
+title: Atividades, Trabalhos & Provas — Banco De Dados
 created: 2026-08-29 11:58
-discipline: "Banco De Dados"
-period: "6-periodo"
+modified: 2026-09-16 15:35
 tags:
-  - disciplina
   - atividade
   - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - cards
-modified: 2026-09-15 21:34
 ---
 
 # Atividades, Trabalhos & Avaliações
@@ -22,9 +20,9 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 ## Relação de Trabalhos & Atividades
 
-| Atividade / Trabalho | Data | Autoria | Docente |
-| :--- | :---: | :--- | :--- |
-| [[Trabalho - Normalização e Dependências Funcionais\|Trabalho - Normalização e Dependências Funcionais]] | 2026-08-29 | Arthur de Oliveira Lima Potente, Breno Luiz Silva do Carmo, Isaac Salles Gonçalves, Pedro Henrique Rocha de Andrade | Pablo Manhães |
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[Trabalho - Normalização e Dependências Funcionais\|Trabalho - Normalização e Dependências Funcionais]] | 07/09/2026 |
 
 ---
 

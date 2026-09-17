@@ -1,14 +1,14 @@
 ---
 publish: true
-title: "260423-Atividades"
+title: 260423-Atividades
 created: 2026-04-23 14:49
-modified: 2026-09-14 20:12
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
-  - aula
+  - atividade
+  - trabalho
   - engenharia-de-computacao
-  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---

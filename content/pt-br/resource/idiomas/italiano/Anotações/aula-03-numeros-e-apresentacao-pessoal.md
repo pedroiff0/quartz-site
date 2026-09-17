@@ -8,7 +8,7 @@ tags:
   - italiano
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 03 — Números de 1 a 100, Artigos e Autoapresentação
+# Aula — Números de a , Artigos e Autoapresentação
 
 > [!info] Metadados da Lição
 > - **Idioma:** Italiano | **Nível Alvo:** A1

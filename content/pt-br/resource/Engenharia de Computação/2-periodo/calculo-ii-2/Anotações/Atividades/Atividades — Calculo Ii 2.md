@@ -1,17 +1,15 @@
 ---
 publish: true
-title: "Atividades, Trabalhos & Provas — Calculo Ii 2"
+title: Atividades, Trabalhos & Provas — Calculo Ii 2
 created: 2026-08-29 11:58
-discipline: "Calculo Ii 2"
-period: "2-periodo"
+modified: 2026-09-16 15:35
 tags:
-  - disciplina
   - atividade
   - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - cards
-modified: 2026-09-15 21:34
 ---
 
 # Atividades, Trabalhos & Avaliações

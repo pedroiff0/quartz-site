@@ -1,14 +1,14 @@
 ---
 publish: true
-title: "260413-Aula-AtividadesAbril-1"
+title: 260413-Aula-AtividadesAbril-1
 created: 2026-04-13 14:49
-modified: 2026-09-14 20:12
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
-  - aula
+  - atividade
+  - trabalho
   - engenharia-de-computacao
-  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---
@@ -25,7 +25,7 @@ Código em anexo :)
 ***
 # Resolução de Exercícios: Ordenação Externa
 ---
-## Questão 1 - Intercalação de $n$ caminhos
+## Questão - Intercalação de $n$ caminhos
 
 ### a) Intercalação
 O processo utiliza ponteiros para os elementos iniciais de cada arquivo ordenado disponível:
@@ -59,7 +59,7 @@ Entrada Fita 4 - {2, 6, 18, 40}
 ### c) Por que "intercalação de n caminhos"?
 O método tem esse nome porque processa simultaneamente $n$ arquivos (caminhos) de entrada ordenados.
 
-### d) Análise de escala (8 arquivos / 4 caminhos)
+### d) Análise de escala ( arquivos / caminhos)
 Fases necessárias: 2 fases de intercalação.
 Agrupamento: Na primeira fase, os 8 arquivos seriam divididos em dois grupos de 4 arquivos cada.
 Processamento:
@@ -85,7 +85,7 @@ Resultado: Fita 11 ordenada com os 80 registros.
 
 ---
 
-## Questão 2 - Intercalação Balanceada Bloco Variado
+## Questão - Intercalação Balanceada Bloco Variado
 
 Parâmetros: 6 arquivos, 4 valores.
 Entrada: 22, 5, 18, 30, 9, 14, 27, 3, 35, 11, 40, 6, 16, 28, 1, 33, 12, 25, 4, 31, 8, 20, 2, 26
@@ -97,7 +97,7 @@ Entrada Fita 3 - {6, 11, 35, 40}, {2, 8, 20, 26}
 Saida Fita 4 - {}
 Saida Fita 5 - {}
 Saida Fita 6 - {}
-### b) Intercalações 
+### b) Intercalações
 Entrada Fita 1 - {5, 18, 22, 30}, {1, 16, 28, 33}
 Entrada Fita 2 - {3, 9, 14, 27}, {4, 12, 25, 31}
 Entrada Fita 3 - {6, 11, 35, 40}, {2, 8, 20, 26}
@@ -180,22 +180,22 @@ A memória não precisa armazenar o bloco inteiro, apenas os registros que estã
 
 ---
 
-## Questão 3 - Intercalação Polifásica
+## Questão - Intercalação Polifásica
 
 Parâmetros: 4 arquivos, 5 valores.
 Entrada: 34, 7, 25, 18, 2, 41, 13, 29, 5, 37, 11, 23, 1, 32, 16, 40, 8, 27, 4, 35
 
 ### a) Distribuição
 
-Fita 1 - {2-0, 7-0, 13-0, 18-0, 25-0, 29-0, 34-0, 37-0, 41-0, 4-2, 8-2}
-Fita 2 - {1-1, 5-1, 11-1, 16-1, 23-1, 27-1, 32-1, 35-1, 40-1} 
-Fita 3 - vazia
+Fita 1 - {2-0, 7-0, 13-0, 18-0, 25-0, 29-0, 34-0, 37-0, 41-0, 4-2, 8-2}
+Fita 2 - {1-1, 5-1, 11-1, 16-1, 23-1, 27-1, 32-1, 35-1, 40-1} 
+Fita 3 - vazia
 Fita 4 - vazia
 
 ### b) Intercalação
-Fita 1 - {2-0, 7-0, 13-0, 18-0, 25-0, 29-0, 34-0, 37-0, 41-0}
-Fita 2 - {1-1, 5-1, 11-1, 16-1, 23-1, 27-1, 32-1, 35-1, 40-1} 
-Fita 3 - {1-1, 2-0, 5-1, 7-0, 11-1, 13-0, 16-1, 18-0, 23-1, 25-0, 27-1, 29-0, 32-1, 34-0, 35-1, 37-0, 40-1, 41-0}
+Fita 1 - {2-0, 7-0, 13-0, 18-0, 25-0, 29-0, 34-0, 37-0, 41-0}
+Fita 2 - {1-1, 5-1, 11-1, 16-1, 23-1, 27-1, 32-1, 35-1, 40-1} 
+Fita 3 - {1-1, 2-0, 5-1, 7-0, 11-1, 13-0, 16-1, 18-0, 23-1, 25-0, 27-1, 29-0, 32-1, 34-0, 35-1, 37-0, 40-1, 41-0}
 Fita 4 - {4-2,8-2}
 Fita 1 - {1-1, 2-0, 4-2, 5-1, 7-0, 8-2, 11-1, 13-0, 16-1, 18-0, 23-1, 25-0, 27-1, 29-0, 32-1, 34-0, 35-1, 37-0, 40-1, 41-0}
 
@@ -205,16 +205,16 @@ Fita 1 - {1-1, 2-0, 4-2, 5-1, 7-0, 8-2, 11-1, 13-0, 16-1, 18-0, 23-1, 25-0, 27-1
 ***
 # Tabela Hash
 ***
-## Questão 1 - Conceitos Fundamentais
+## Questão - Conceitos Fundamentais
 Uma tabela hash é uma estrutura de dados que utiliza uma função específica para mapear chaves a índices em um vetor, permitindo o armazenamento e a recuperação de informações de forma eficiente. Ela resolve o problema da lentidão na busca em grandes conjuntos de dados, eliminando a necessidade de percorrer toda a estrutura linearmente (como em listas) ou realizar múltiplas divisões (como em árvores). O custo médio de busca é $O(1)$ porque a função hash permite acessar diretamente a posição de memória onde o elemento está, tornando o tempo de resposta constante e independente do volume total de dados.
 
-## Questão 2 - Função de Hashing
+## Questão - Função de Hashing
 Uma função de hashing é um algoritmo que codifica uma chave de entrada em um valor numérico que serve como índice para o vetor da tabela. Uma boa função deve ser rápida para calcular, distribuir as chaves de maneira uniforme para evitar acúmulos em poucos índices e minimizar a ocorrência de colisões. O método da divisão é uma técnica onde o índice é definido pelo resto da divisão da chave pelo tamanho da tabela ($m$), seguindo a fórmula $h(k) = k \mod m$.
 
-## Questão 3 - Colisões
+## Questão - Colisões
 Uma colisão ocorre quando duas ou mais chaves diferentes resultam no mesmo índice após o cálculo da função de hashing. Elas são consideradas inevitáveis  pois como a quantidade de chaves possíveis é geralmente muito superior ao tamanho físico da tabela, o mapeamento eventualmente sobrepõe elementos. O impacto direto das colisões é a perda de desempenho, pois o sistema precisa executar passos adicionais para organizar e encontrar elementos que "disputam" o mesmo espaço.
 
-## Questão 4
+## Questão
 ### a) Encadeamento (Lista Ligada)
 Como funciona: Cada posição da tabela armazena o endereço de uma lista ligada. Quando uma colisão ocorre, o novo elemento é inserido no nó dessa lista correspondente ao índice.
 Vantagens: A tabela pode armazenar mais elementos que o seu tamanho nominal e a exclusão de itens é tecnicamente mais simples.
@@ -226,7 +226,7 @@ Exemplos: Pode ser linear que vai procurar na próxima posição consecutiva, qu
 
 ---
 
-## Questão 5
+## Questão
 Parâmetros: Tamanho 11, Função $h(k) = k \mod 11$.
 Chaves: 22, 1, 13, 11, 24, 33, 35, 44, 21, 10.
 
@@ -270,7 +270,7 @@ Tabela final:
 | 10      | `[21 -> 10]`             |
 
 ---
-## Questão 6
+## Questão
 
 Usando a divisão novamente, as posições indicam onde deveriam cair e as tentativas mostram aonde conseguiu a próxima vazia. 
 
@@ -304,7 +304,7 @@ Tabela final
 
 ---
 
-## Questão 7 - Análise Comparativa
+## Questão - Análise Comparativa
 a) Endereçamento Aberto.
 b) Endereçamento Aberto em termos de memória, só utilizou os 11 espaços disponiveis, Encadeamento utilizou MENOS espaços na lista, mas usou mais memória pra encadear no tratamento das colisões. 
 c) Encadeamento foi melhor.

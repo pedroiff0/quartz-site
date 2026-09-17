@@ -1,20 +1,20 @@
 ---
 publish: true
-title: "260423-Aula-Atividades-1"
+title: 260423-Aula-Atividades-1
 created: 2026-04-23 13:34
-modified: 2026-09-14 20:12
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
-  - aula
+  - atividade
+  - trabalho
   - engenharia-de-computacao
-  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---
 # Notas de Aula - Atividades
 ***
-# Exercícios Fila M/M/1/$\infty$/FIFO
+# Exercícios Fila M/M//$\infty$/FIFO
 ## Fórmulas Referência:
 $$\rho=\frac{\lambda}{\mu}$$
 $$P_0 = 1 -\rho$$
@@ -24,7 +24,7 @@ $$E[n] = \frac{\rho}{(1-\rho)}$$
 $$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
 $$E[s] = \frac{1}{(\mu-\lambda)}$$
 $$E[w] = E[s] - \frac{1}{\mu}$$
-## Questão 1: API de autenticação do portal acadêmico
+## Questão : API de autenticação do portal acadêmico
 Dados:
 $\lambda = 18$  reqs/s
 $\mu = 24$ reqs/s
@@ -78,7 +78,7 @@ A latência excede a meta permitida.
 d) emita um parecer técnico e proponha uma solução.
 O servidor está estável mas precisa de atenção para a taxa de chegada, um pouco mais e já estoura o tempo. 
 ***
-## Questão 2: Servidor de arquivos do laboratório
+## Questão : Servidor de arquivos do laboratório
 Dados:
 $\lambda = 18$  reqs/s
 $\mu = 24$ reqs/s
@@ -129,7 +129,7 @@ d) emita um parecer técnico e proponha uma solução.
 
 
 ***
-## Questão 3: Central de tickets de TI
+## Questão : Central de tickets de TI
 Dados:
 $\lambda = 18$  reqs/s
 $\mu = 24$ reqs/s
@@ -179,7 +179,7 @@ $$E[w] = E[s] - \frac{1}{\mu}$$
 d) emita um parecer técnico e proponha uma solução.
 
 ***
-## Questão 4: Impressora compartilhada da secretaria
+## Questão : Impressora compartilhada da secretaria
 Dados:
 $\lambda = 18$  reqs/s
 $\mu = 24$ reqs/s
@@ -231,7 +231,7 @@ d) emita um parecer técnico e proponha uma solução.
 
 
 ***
-## Questão 5: Gateway de telemetria IoT
+## Questão : Gateway de telemetria IoT
 Dados:
 $\lambda = 18$  reqs/s
 $\mu = 24$ reqs/s
@@ -281,58 +281,7 @@ $$E[w] = E[s] - \frac{1}{\mu}$$
 d) emita um parecer técnico e proponha uma solução.
 
 ***
-## Questão 6: Fila de renderização de mapas
-Dados:
-$\lambda = 18$  reqs/s
-$\mu = 24$ reqs/s
-Meta: Tempo médio resposta inferior a 200ms
-
-a) calcule a, $\rho$, $P_0$, $E[n]$, $E[nw]$, $E[s]$, $E[w]$ e $P(N \geq 4)$; 
-$$\rho=\frac{\lambda}{\mu}$$
-$$P_0 = 1 -\rho$$
-$$P_n = (1-\rho)\,\rho^{n}$$
-$$P(N \geq n) = \rho^{n}$$
-$$E[n] = \frac{\rho}{(1-\rho)}$$
-$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
-$$E[s] = \frac{1}{(\mu-\lambda)}$$
-$$E[w] = E[s] - \frac{1}{\mu}$$
-b) verifique se a meta de desempenho é atendida; 
-
-c) faça análise de sensibilidade para: 
-
-Cenário A: aumento da taxa de chegada para 21 req/s;
-Dados:
-$\lambda = 21$  reqs/s
-$\mu = 24$ reqs/s
-Meta: Tempo médio resposta inferior a 200ms
-$$\rho=\frac{\lambda}{\mu}$$
-$$P_0 = 1 -\rho$$
-$$P_n = (1-\rho)\,\rho^{n}$$
-$$P(N \geq n) = \rho^{n}$$
-$$E[n] = \frac{\rho}{(1-\rho)}$$
-$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
-$$E[s] = \frac{1}{(\mu-\lambda)}$$
-$$E[w] = E[s] - \frac{1}{\mu}$$
-
-Cenário B: otimização do serviço para 30 req/s; 
-Dados:
-$\lambda = 18$  reqs/s
-$\mu = 30$ reqs/s
-Meta: Tempo médio resposta inferior a 200ms
-Cálculos
-$$\rho=\frac{\lambda}{\mu}$$
-$$P_0 = 1 -\rho$$
-$$P_n = (1-\rho)\,\rho^{n}$$
-$$P(N \geq n) = \rho^{n}$$
-$$E[n] = \frac{\rho}{(1-\rho)}$$
-$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
-$$E[s] = \frac{1}{(\mu-\lambda)}$$
-$$E[w] = E[s] - \frac{1}{\mu}$$
-d) emita um parecer técnico e proponha uma solução.
-
-
-***
-## Questão 7: Servidor de integração contínua
+## Questão : Fila de renderização de mapas
 Dados:
 $\lambda = 18$  reqs/s
 $\mu = 24$ reqs/s
@@ -383,57 +332,7 @@ d) emita um parecer técnico e proponha uma solução.
 
 
 ***
-## Questão 8: Validador de notas fiscais eletrônicas
-Dados:
-$\lambda = 18$  reqs/s
-$\mu = 24$ reqs/s
-Meta: Tempo médio resposta inferior a 200ms
-
-a) calcule a, $\rho$, $P_0$, $E[n]$, $E[nw]$, $E[s]$, $E[w]$ e $P(N \geq 4)$; 
-$$\rho=\frac{\lambda}{\mu}$$
-$$P_0 = 1 -\rho$$
-$$P_n = (1-\rho)\,\rho^{n}$$
-$$P(N \geq n) = \rho^{n}$$
-$$E[n] = \frac{\rho}{(1-\rho)}$$
-$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
-$$E[s] = \frac{1}{(\mu-\lambda)}$$
-$$E[w] = E[s] - \frac{1}{\mu}$$
-b) verifique se a meta de desempenho é atendida; 
-
-c) faça análise de sensibilidade para: 
-
-Cenário A: aumento da taxa de chegada para 21 req/s;
-Dados:
-$\lambda = 21$  reqs/s
-$\mu = 24$ reqs/s
-Meta: Tempo médio resposta inferior a 200ms
-$$\rho=\frac{\lambda}{\mu}$$
-$$P_0 = 1 -\rho$$
-$$P_n = (1-\rho)\,\rho^{n}$$
-$$P(N \geq n) = \rho^{n}$$
-$$E[n] = \frac{\rho}{(1-\rho)}$$
-$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
-$$E[s] = \frac{1}{(\mu-\lambda)}$$
-$$E[w] = E[s] - \frac{1}{\mu}$$
-
-Cenário B: otimização do serviço para 30 req/s; 
-Dados:
-$\lambda = 18$  reqs/s
-$\mu = 30$ reqs/s
-Meta: Tempo médio resposta inferior a 200ms
-Cálculos
-$$\rho=\frac{\lambda}{\mu}$$
-$$P_0 = 1 -\rho$$
-$$P_n = (1-\rho)\,\rho^{n}$$
-$$P(N \geq n) = \rho^{n}$$
-$$E[n] = \frac{\rho}{(1-\rho)}$$
-$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
-$$E[s] = \frac{1}{(\mu-\lambda)}$$
-$$E[w] = E[s] - \frac{1}{\mu}$$
-d) emita um parecer técnico e proponha uma solução.
-
-***
-## Questão 9: Transcodificador de videoaulas
+## Questão : Servidor de integração contínua
 Dados:
 $\lambda = 18$  reqs/s
 $\mu = 24$ reqs/s
@@ -484,7 +383,108 @@ d) emita um parecer técnico e proponha uma solução.
 
 
 ***
-## Questão 10:  Servidor de consultas ao acervo acadêmico
+## Questão : Validador de notas fiscais eletrônicas
+Dados:
+$\lambda = 18$  reqs/s
+$\mu = 24$ reqs/s
+Meta: Tempo médio resposta inferior a 200ms
+
+a) calcule a, $\rho$, $P_0$, $E[n]$, $E[nw]$, $E[s]$, $E[w]$ e $P(N \geq 4)$; 
+$$\rho=\frac{\lambda}{\mu}$$
+$$P_0 = 1 -\rho$$
+$$P_n = (1-\rho)\,\rho^{n}$$
+$$P(N \geq n) = \rho^{n}$$
+$$E[n] = \frac{\rho}{(1-\rho)}$$
+$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
+$$E[s] = \frac{1}{(\mu-\lambda)}$$
+$$E[w] = E[s] - \frac{1}{\mu}$$
+b) verifique se a meta de desempenho é atendida; 
+
+c) faça análise de sensibilidade para: 
+
+Cenário A: aumento da taxa de chegada para 21 req/s;
+Dados:
+$\lambda = 21$  reqs/s
+$\mu = 24$ reqs/s
+Meta: Tempo médio resposta inferior a 200ms
+$$\rho=\frac{\lambda}{\mu}$$
+$$P_0 = 1 -\rho$$
+$$P_n = (1-\rho)\,\rho^{n}$$
+$$P(N \geq n) = \rho^{n}$$
+$$E[n] = \frac{\rho}{(1-\rho)}$$
+$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
+$$E[s] = \frac{1}{(\mu-\lambda)}$$
+$$E[w] = E[s] - \frac{1}{\mu}$$
+
+Cenário B: otimização do serviço para 30 req/s; 
+Dados:
+$\lambda = 18$  reqs/s
+$\mu = 30$ reqs/s
+Meta: Tempo médio resposta inferior a 200ms
+Cálculos
+$$\rho=\frac{\lambda}{\mu}$$
+$$P_0 = 1 -\rho$$
+$$P_n = (1-\rho)\,\rho^{n}$$
+$$P(N \geq n) = \rho^{n}$$
+$$E[n] = \frac{\rho}{(1-\rho)}$$
+$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
+$$E[s] = \frac{1}{(\mu-\lambda)}$$
+$$E[w] = E[s] - \frac{1}{\mu}$$
+d) emita um parecer técnico e proponha uma solução.
+
+***
+## Questão : Transcodificador de videoaulas
+Dados:
+$\lambda = 18$  reqs/s
+$\mu = 24$ reqs/s
+Meta: Tempo médio resposta inferior a 200ms
+
+a) calcule a, $\rho$, $P_0$, $E[n]$, $E[nw]$, $E[s]$, $E[w]$ e $P(N \geq 4)$; 
+$$\rho=\frac{\lambda}{\mu}$$
+$$P_0 = 1 -\rho$$
+$$P_n = (1-\rho)\,\rho^{n}$$
+$$P(N \geq n) = \rho^{n}$$
+$$E[n] = \frac{\rho}{(1-\rho)}$$
+$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
+$$E[s] = \frac{1}{(\mu-\lambda)}$$
+$$E[w] = E[s] - \frac{1}{\mu}$$
+b) verifique se a meta de desempenho é atendida; 
+
+c) faça análise de sensibilidade para: 
+
+Cenário A: aumento da taxa de chegada para 21 req/s;
+Dados:
+$\lambda = 21$  reqs/s
+$\mu = 24$ reqs/s
+Meta: Tempo médio resposta inferior a 200ms
+$$\rho=\frac{\lambda}{\mu}$$
+$$P_0 = 1 -\rho$$
+$$P_n = (1-\rho)\,\rho^{n}$$
+$$P(N \geq n) = \rho^{n}$$
+$$E[n] = \frac{\rho}{(1-\rho)}$$
+$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
+$$E[s] = \frac{1}{(\mu-\lambda)}$$
+$$E[w] = E[s] - \frac{1}{\mu}$$
+
+Cenário B: otimização do serviço para 30 req/s; 
+Dados:
+$\lambda = 18$  reqs/s
+$\mu = 30$ reqs/s
+Meta: Tempo médio resposta inferior a 200ms
+Cálculos
+$$\rho=\frac{\lambda}{\mu}$$
+$$P_0 = 1 -\rho$$
+$$P_n = (1-\rho)\,\rho^{n}$$
+$$P(N \geq n) = \rho^{n}$$
+$$E[n] = \frac{\rho}{(1-\rho)}$$
+$$E[n_w] = \frac{\rho^2}{(1-\rho)}$$
+$$E[s] = \frac{1}{(\mu-\lambda)}$$
+$$E[w] = E[s] - \frac{1}{\mu}$$
+d) emita um parecer técnico e proponha uma solução.
+
+
+***
+## Questão : Servidor de consultas ao acervo acadêmico
 Dados:
 $\lambda = 18$  reqs/s
 $\mu = 24$ reqs/s
@@ -548,7 +548,7 @@ $$\text{E}[n_s] = m\rho$$
 $$\text{E}[n] = \text{E}[n_w] + \text{E}[n_s]$$
 $$\text{E}[s] = \frac{\text{E}[n]}{\lambda}$$
 $$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
-## Questão 1:  Cluster de autenticação do portal
+## Questão : Cluster de autenticação do portal
 Dados:
 $m = 4$
 $\lambda = 18$
@@ -613,73 +613,7 @@ $$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
 
 d) Emita parecer técnico.
 ***
-## Questão 2:  Servidor de imagens de máquinas virtuais
-Dados:
-$m = 4$
-$\lambda = 18$
-$\mu = 6$
-Meta: Tempo médio na fila inferior a 100ms
-
-a) calcule a, ρ, P0, C(m,ρ), E[nw], E[ns], E[n], E[s] e E[w]
-
-$$\rho = \frac{\lambda}{m\mu}$$
-$$U=\frac{\lambda}{\mu}$$
-$$P_n = \begin{cases} \frac{1}{n!}U^n \cdot P_0 \quad\text{se}\quad 1\leq n \lt m \\ \frac{1}{m!m^{n-m}}U^n \cdot P_0 \quad\text{se}\quad n \geq m\end{cases}$$
-$$P_0 = \left(\frac{U^m}{m!(1-\rho)} + \sum_{n=0}^{m-1}\frac{U^n}{n!}\right)^{-1}$$
-$$C(m,\rho) = \text{P}_0 \cdot \frac{U^m}{m!(1-\rho)}$$
-$$\text{E}[n_w] = \frac{\rho}{1-\rho} \cdot C(m,\rho)$$
-$$\text{E}[n_s] = m\rho$$
-$$\text{E}[n] = \text{E}[n_w] + \text{E}[n_s]$$
-$$\text{E}[s] = \frac{\text{E}[n]}{\lambda}$$
-$$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
-
-b) verifique se a meta é atendida
-
-
-
-c) faça análise de sensibilidade para:
-
-Cenário A: aumento da carga para 22 reqs/s
-Dados:
-$m = 4$ servidores
-$\lambda = 22$ reqs/s
-$\mu = 6$ reqs/s
-Meta: Tempo médio na fila inferior a 100ms
-
-$$\rho = \frac{\lambda}{m\mu}$$
-$$U=\frac{\lambda}{\mu}$$
-$$P_n = \begin{cases} \frac{1}{n!}U^n \cdot P_0 \quad\text{se}\quad 1\leq n \lt m \\ \frac{1}{m!m^{n-m}}U^n \cdot P_0 \quad\text{se}\quad n \geq m\end{cases}$$
-$$P_0 = \left(\frac{U^m}{m!(1-\rho)} + \sum_{n=0}^{m-1}\frac{U^n}{n!}\right)^{-1}$$
-$$C(m,\rho) = \text{P}_0 \cdot \frac{U^m}{m!(1-\rho)}$$
-$$\text{E}[n_w] = \frac{\rho}{1-\rho} \cdot C(m,\rho)$$
-$$\text{E}[n_s] = m\rho$$
-$$\text{E}[n] = \text{E}[n_w] + \text{E}[n_s]$$
-$$\text{E}[s] = \frac{\text{E}[n]}{\lambda}$$
-$$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
-
-
-Cenário B: adição de mais um servidor ($m = 5$)
-Dados:
-$m = 5$ servidores
-$\lambda = 18$ reqs/s
-$\mu = 6$ reqs/s
-Meta: Tempo médio na fila inferior a 100ms
-
-$$\rho = \frac{\lambda}{m\mu}$$
-$$U=\frac{\lambda}{\mu}$$
-$$P_n = \begin{cases} \frac{1}{n!}U^n \cdot P_0 \quad\text{se}\quad 1\leq n \lt m \\ \frac{1}{m!m^{n-m}}U^n \cdot P_0 \quad\text{se}\quad n \geq m\end{cases}$$
-$$P_0 = \left(\frac{U^m}{m!(1-\rho)} + \sum_{n=0}^{m-1}\frac{U^n}{n!}\right)^{-1}$$
-$$C(m,\rho) = \text{P}_0 \cdot \frac{U^m}{m!(1-\rho)}$$
-$$\text{E}[n_w] = \frac{\rho}{1-\rho} \cdot C(m,\rho)$$
-$$\text{E}[n_s] = m\rho$$
-$$\text{E}[n] = \text{E}[n_w] + \text{E}[n_s]$$
-$$\text{E}[s] = \frac{\text{E}[n]}{\lambda}$$
-$$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
-
-d) Emita parecer técnico.
-
-***
-## Questão 3:  Triagem automática de chamados
+## Questão : Servidor de imagens de máquinas virtuais
 Dados:
 $m = 4$
 $\lambda = 18$
@@ -745,7 +679,7 @@ $$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
 d) Emita parecer técnico.
 
 ***
-## Questão 4:  Serviço de renderização de mapas
+## Questão : Triagem automática de chamados
 Dados:
 $m = 4$
 $\lambda = 18$
@@ -811,7 +745,7 @@ $$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
 d) Emita parecer técnico.
 
 ***
-## Questão 5: Cluster de consultas SQL
+## Questão : Serviço de renderização de mapas
 Dados:
 $m = 4$
 $\lambda = 18$
@@ -877,7 +811,7 @@ $$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
 d) Emita parecer técnico.
 
 ***
-## Questão 6:  Sistema de moderação de mensagens
+## Questão : Cluster de consultas SQL
 Dados:
 $m = 4$
 $\lambda = 18$
@@ -943,7 +877,7 @@ $$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
 d) Emita parecer técnico.
 
 ***
-## Questão 7:  Runners de integração contínua
+## Questão : Sistema de moderação de mensagens
 Dados:
 $m = 4$
 $\lambda = 18$
@@ -1009,7 +943,7 @@ $$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
 d) Emita parecer técnico.
 
 ***
-## Questão 8:  Transcodificação de videoaulas
+## Questão : Runners de integração contínua
 Dados:
 $m = 4$
 $\lambda = 18$
@@ -1075,7 +1009,7 @@ $$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
 d) Emita parecer técnico.
 
 ***
-## Questão 9: Validador de documentos fiscais:
+## Questão : Transcodificação de videoaulas
 Dados:
 $m = 4$
 $\lambda = 18$
@@ -1141,7 +1075,7 @@ $$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
 d) Emita parecer técnico.
 
 ***
-## Questão 10:  Serviço de busca do acervo
+## Questão : Validador de documentos fiscais:
 Dados:
 $m = 4$
 $\lambda = 18$
@@ -1207,7 +1141,73 @@ $$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
 d) Emita parecer técnico.
 
 ***
-# Exercícios Fila M/M/1/B/FIFO
+## Questão : Serviço de busca do acervo
+Dados:
+$m = 4$
+$\lambda = 18$
+$\mu = 6$
+Meta: Tempo médio na fila inferior a 100ms
+
+a) calcule a, ρ, P0, C(m,ρ), E[nw], E[ns], E[n], E[s] e E[w]
+
+$$\rho = \frac{\lambda}{m\mu}$$
+$$U=\frac{\lambda}{\mu}$$
+$$P_n = \begin{cases} \frac{1}{n!}U^n \cdot P_0 \quad\text{se}\quad 1\leq n \lt m \\ \frac{1}{m!m^{n-m}}U^n \cdot P_0 \quad\text{se}\quad n \geq m\end{cases}$$
+$$P_0 = \left(\frac{U^m}{m!(1-\rho)} + \sum_{n=0}^{m-1}\frac{U^n}{n!}\right)^{-1}$$
+$$C(m,\rho) = \text{P}_0 \cdot \frac{U^m}{m!(1-\rho)}$$
+$$\text{E}[n_w] = \frac{\rho}{1-\rho} \cdot C(m,\rho)$$
+$$\text{E}[n_s] = m\rho$$
+$$\text{E}[n] = \text{E}[n_w] + \text{E}[n_s]$$
+$$\text{E}[s] = \frac{\text{E}[n]}{\lambda}$$
+$$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
+
+b) verifique se a meta é atendida
+
+
+
+c) faça análise de sensibilidade para:
+
+Cenário A: aumento da carga para 22 reqs/s
+Dados:
+$m = 4$ servidores
+$\lambda = 22$ reqs/s
+$\mu = 6$ reqs/s
+Meta: Tempo médio na fila inferior a 100ms
+
+$$\rho = \frac{\lambda}{m\mu}$$
+$$U=\frac{\lambda}{\mu}$$
+$$P_n = \begin{cases} \frac{1}{n!}U^n \cdot P_0 \quad\text{se}\quad 1\leq n \lt m \\ \frac{1}{m!m^{n-m}}U^n \cdot P_0 \quad\text{se}\quad n \geq m\end{cases}$$
+$$P_0 = \left(\frac{U^m}{m!(1-\rho)} + \sum_{n=0}^{m-1}\frac{U^n}{n!}\right)^{-1}$$
+$$C(m,\rho) = \text{P}_0 \cdot \frac{U^m}{m!(1-\rho)}$$
+$$\text{E}[n_w] = \frac{\rho}{1-\rho} \cdot C(m,\rho)$$
+$$\text{E}[n_s] = m\rho$$
+$$\text{E}[n] = \text{E}[n_w] + \text{E}[n_s]$$
+$$\text{E}[s] = \frac{\text{E}[n]}{\lambda}$$
+$$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
+
+
+Cenário B: adição de mais um servidor ($m = 5$)
+Dados:
+$m = 5$ servidores
+$\lambda = 18$ reqs/s
+$\mu = 6$ reqs/s
+Meta: Tempo médio na fila inferior a 100ms
+
+$$\rho = \frac{\lambda}{m\mu}$$
+$$U=\frac{\lambda}{\mu}$$
+$$P_n = \begin{cases} \frac{1}{n!}U^n \cdot P_0 \quad\text{se}\quad 1\leq n \lt m \\ \frac{1}{m!m^{n-m}}U^n \cdot P_0 \quad\text{se}\quad n \geq m\end{cases}$$
+$$P_0 = \left(\frac{U^m}{m!(1-\rho)} + \sum_{n=0}^{m-1}\frac{U^n}{n!}\right)^{-1}$$
+$$C(m,\rho) = \text{P}_0 \cdot \frac{U^m}{m!(1-\rho)}$$
+$$\text{E}[n_w] = \frac{\rho}{1-\rho} \cdot C(m,\rho)$$
+$$\text{E}[n_s] = m\rho$$
+$$\text{E}[n] = \text{E}[n_w] + \text{E}[n_s]$$
+$$\text{E}[s] = \frac{\text{E}[n]}{\lambda}$$
+$$\text{E}[w] = \frac{\text{E}[n_w]}{\lambda}$$
+
+d) Emita parecer técnico.
+
+***
+# Exercícios Fila M/M//B/FIFO
 
 ## Fórmulas de referência
 $$
@@ -1237,7 +1237,7 @@ $$\text{E}[n_w] = \frac{\rho}{1-\rho} - \rho\frac{1+B\rho^{B}}{1-\rho^{B+1}}$$
 
 $$\text{E}[s] = \frac{E[n]}{\lambda(1-P_B)}$$
 $$\text{E}[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
-## Questão 1:  Gateway de pagamentos instantâneos
+## Questão : Gateway de pagamentos instantâneos
 Dados:
 $\lambda = 15$
 $\mu = 20$
@@ -1354,7 +1354,7 @@ $$\text{E}[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 d) emita parecer técnico.
 
 ***
-## Questão 2:  Spooler de impressão do laboratório
+## Questão : Spooler de impressão do laboratório
 Dados:
 $\lambda = 12$/min
 $\mu = 16$/min
@@ -1471,7 +1471,7 @@ $$\text{E}[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 d) emita parecer técnico.
 
 ***
-## Questão 3:  Coletor de mensagens de sensores
+## Questão : Coletor de mensagens de sensores
 Dados:
 $\lambda = 15$
 $\mu = 20$
@@ -1588,7 +1588,7 @@ $$\text{E}[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 d) emita parecer técnico.
 
 ***
-## Questão 4:  Proxy reverso do portal institucional
+## Questão : Proxy reverso do portal institucional
 Dados:
 $\lambda = 15$
 $\mu = 20$
@@ -1705,7 +1705,7 @@ $$\text{E}[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 d) emita parecer técnico.
 
 ***
-## Questão 5:  Triagem automática de chamados
+## Questão : Triagem automática de chamados
 Dados:
 $\lambda = 15$
 $\mu = 20$
@@ -1822,7 +1822,7 @@ $$\text{E}[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 d) emita parecer técnico.
 
 ***
-## Questão 6: Exercício 6 — Controlador de consultas SQL
+## Questão : Exercício — Controlador de consultas SQL
 Dados:
 $\lambda = 15$
 $\mu = 20$
@@ -1939,7 +1939,7 @@ $$\text{E}[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 d) emita parecer técnico.
 
 ***
-## Questão 7:  Servidor de integração contínua com buffer finito
+## Questão : Servidor de integração contínua com buffer finito
 Dados:
 $\lambda = 15$
 $\mu = 20$
@@ -2056,7 +2056,7 @@ $$\text{E}[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 d) emita parecer técnico.
 
 ***
-## Questão 8:  Validador de notas fiscais eletrônicas
+## Questão : Validador de notas fiscais eletrônicas
 Dados:
 $\lambda = 15$
 $\mu = 20$
@@ -2173,7 +2173,7 @@ $$\text{E}[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 d) emita parecer técnico.
 
 ***
-## Questão 9:  Transcodificador de videoaulas com fila limitada
+## Questão : Transcodificador de videoaulas com fila limitada
 Dados:
 $\lambda = 15$
 $\mu = 20$
@@ -2290,7 +2290,7 @@ $$\text{E}[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 d) emita parecer técnico.
 
 ***
-## Questão 10:  Terminal de autoatendimento da biblioteca
+## Questão : Terminal de autoatendimento da biblioteca
 Dados:
 $\lambda = 15$
 $\mu = 20$
@@ -2447,7 +2447,7 @@ $$E[s] = \frac{E[n]}{\lambda(1-P_B)}$$
 $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 
-## Questão 1:  Cluster de autenticação com capacidade finita
+## Questão : Cluster de autenticação com capacidade finita
 Dados:
 $m = 3$ servidores
 $B=6$ reqs
@@ -2590,7 +2590,7 @@ $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
 ***
-## Questão 2: Gateway SQL com fila limitada
+## Questão : Gateway SQL com fila limitada
 Dados:
 $m = 3$ servidores
 $B=6$ reqs
@@ -2734,7 +2734,7 @@ $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 d) emita parecer técnico.
 
 ***
-## Questão 3:  Sistema de triagem de chamados
+## Questão : Sistema de triagem de chamados
 Dados:
 $m = 3$ servidores
 $B=6$ reqs
@@ -2876,7 +2876,7 @@ $$E[s] = \frac{E[n]}{\lambda(1-P_B)}$$
 $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
-## Questão 4:  Renderização de mapas com buffer limitado
+## Questão : Renderização de mapas com buffer limitado
 Dados:
 $m = 3$ servidores
 $B=6$ reqs
@@ -3018,7 +3018,7 @@ $$E[s] = \frac{E[n]}{\lambda(1-P_B)}$$
 $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
-## Questão 5:  Moderação automática de mensagens
+## Questão : Moderação automática de mensagens
 Dados:
 $m = 3$ servidores
 $B=6$ reqs
@@ -3160,7 +3160,7 @@ $$E[s] = \frac{E[n]}{\lambda(1-P_B)}$$
 $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
-## Questão 6:  Runners de integração contínua com capacidade finita
+## Questão : Runners de integração contínua com capacidade finita
 Dados:
 $m = 3$ servidores
 $B=6$ reqs
@@ -3302,7 +3302,7 @@ $$E[s] = \frac{E[n]}{\lambda(1-P_B)}$$
 $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
-## Questão 7: Transcodificação de videoaulas
+## Questão : Transcodificação de videoaulas
 Dados:
 $m = 3$ servidores
 $B=6$ reqs
@@ -3444,7 +3444,7 @@ $$E[s] = \frac{E[n]}{\lambda(1-P_B)}$$
 $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
-## Questão 8: Validação fiscal com cluster finito
+## Questão : Validação fiscal com cluster finito
 Dados:
 $m = 3$ servidores
 $B=6$ reqs
@@ -3587,7 +3587,7 @@ $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
 ***
-## Questão 9:  Busca do acervo com fila limitada
+## Questão : Busca do acervo com fila limitada
 Dados:
 $m = 3$ servidores
 $B=6$ reqs
@@ -3729,7 +3729,7 @@ $$E[s] = \frac{E[n]}{\lambda(1-P_B)}$$
 $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
-## Questão 10:  Processamento de eventos IoT
+## Questão : Processamento de eventos IoT
 Dados:
 $m = 3$ servidores
 $B=6$ reqs

@@ -2,7 +2,7 @@
 publish: false
 title: Banco de Dados
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -21,19 +21,19 @@ Do ponto de vista de carreira, SQL é possivelmente o conhecimento com melhor re
 
 ## Trilha de estudo
 
-### 1. SQL básico e o modelo relacional (iniciante)
+### . SQL básico e o modelo relacional (iniciante)
 
 Aprenda o que é tabela, linha, coluna, chave primária e chave estrangeira, e domine o SQL de consulta: `SELECT`, `WHERE`, `ORDER BY`, `JOIN`, `GROUP BY` e funções de agregação. Pratique todos os dias um pouco — o [SQLBolt](https://sqlbolt.com/) tem exercícios interativos que dão fluência rápida. Tempo típico: 4 a 6 semanas.
 
-### 2. Modelagem e normalização (intermediário)
+### . Modelagem e normalização (intermediário)
 
 Aprenda a projetar o banco antes de criá-lo: modelo entidade-relacionamento, mapeamento para tabelas e formas normais (1FN, 2FN, 3FN). Pratique modelando sistemas que você conhece: a biblioteca do campus, um sistema de matrículas, um delivery. Este passo tem trilha própria em [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/Modelagem de Dados|Modelagem de Dados]]. Tempo típico: 4 a 6 semanas.
 
-### 3. Transações, índices e desempenho (intermediário-avançado)
+### . Transações, índices e desempenho (intermediário-avançado)
 
 Entenda as propriedades ACID, níveis de isolamento e o que acontece quando duas transações concorrem pelos mesmos dados. Aprenda como índices funcionam (árvores B) e a ler um plano de execução com `EXPLAIN` para descobrir por que uma consulta está lenta. Instale o [PostgreSQL](https://www.postgresql.org/) e pratique em uma base com milhões de linhas geradas — desempenho só se aprende com volume. Tempo típico: 6 a 8 semanas.
 
-### 4. Administração e além do relacional (avançado)
+### . Administração e além do relacional (avançado)
 
 Backup e recuperação, controle de acesso, replicação e noções de bancos não relacionais (documentos, chave-valor) — e principalmente _quando_ cada modelo faz sentido. O [roadmap de PostgreSQL DBA](https://roadmap.sh/postgresql-dba) organiza bem esse universo. Tempo típico: 8+ semanas, melhor com um projeto real rodando.
 

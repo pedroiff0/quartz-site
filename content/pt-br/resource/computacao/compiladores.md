@@ -2,7 +2,7 @@
 publish: false
 title: Compiladores
 created: 2026-07-26 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -22,25 +22,25 @@ Além disso, o conhecimento de compiladores se generaliza pra qualquer ferrament
 
 ## Trilha de estudo
 
-### 1. Visão geral e análise léxica (2 semanas)
+### . Visão geral e análise léxica ( semanas)
 
 O que dominar: a diferença entre compilador (traduz tudo antes de executar) e interpretador (traduz e executa linha a linha); as fases clássicas de um compilador (léxica → sintática → semântica → geração de código intermediário → otimização → geração de código final); o que é um **token** (a menor unidade com significado — palavra-chave, identificador, operador) versus um lexema (o texto bruto que originou o token); como expressões regulares (de [[pt-br/resource/computacao/linguagens-formais-e-automatos|Linguagens Formais e Autômatos]]) viram, na prática, o analisador léxico via geradores como o _lex_/_flex_. O que praticar: escrever à mão o analisador léxico de uma calculadora simples (números, `+`, `-`, `*`, `/`, parênteses) — reconhecer tokens é mais mecânico e mais rápido de dominar do que parece.
 
-### 2. Análise sintática (3–4 semanas)
+### . Análise sintática (– semanas)
 
 O que dominar: como uma gramática livre de contexto (de [[pt-br/resource/computacao/linguagens-formais-e-automatos|Linguagens Formais e Autômatos]]) descreve a estrutura válida de um programa; a Árvore de Sintaxe Abstrata (AST) como representação intermediária que o resto do compilador consome; ambiguidade gramatical e como reescrever gramáticas para eliminá-la; a diferença entre parsing **descendente** (top-down: LL, recursivo, mais fácil de escrever à mão) e **ascendente** (bottom-up: LR, SLR, LALR — mais poderoso, usado por geradores como _yacc_/_bison_); recuperação de erros sintáticos (não parar no primeiro erro, e sim reportar o máximo de problemas possível). O que praticar: desenhar a AST de expressões aritméticas com precedência de operadores (`2 + 3 * 4` não é o mesmo que `(2+3)*4`) — é o exercício mais didático da disciplina inteira.
 
 ![Árvore de sintaxe abstrata (AST) para o algoritmo de Euclides — cada nó interno é uma operação/estrutura de controle, e as folhas são variáveis ou valores.](https://commons.wikimedia.org/wiki/Special:FilePath/Abstract_syntax_tree_for_Euclidean_algorithm.svg)
 
-### 3. Tabela de símbolos e análise semântica (2 semanas)
+### . Tabela de símbolos e análise semântica ( semanas)
 
 O que dominar: como a tabela de símbolos guarda, para cada identificador, seu tipo, escopo e demais atributos; verificação de tipos (garantir que `"texto" + 5` seja rejeitado ou tratado de forma bem definida); como o analisador semântico percorre a AST anotando e validando essas informações — a fase em que erros como "variável não declarada" ou "tipos incompatíveis" são detectados. O que praticar: para um trecho de código com escopos aninhados (função dentro de função, bloco dentro de bloco), simular manualmente como a tabela de símbolos entra e sai de escopo.
 
-### 4. Geração e otimização de código (3 semanas)
+### . Geração e otimização de código ( semanas)
 
 O que dominar: código intermediário (código de três endereços — uma representação mais próxima de assembly, mas ainda independente de máquina), como a AST é convertida para essa forma, e as otimizações clássicas: eliminação de subexpressões comuns, propagação de constantes, eliminação de código morto, análise de fluxo de dados. O que praticar: pegar um trecho de código com redundância óbvia (`x = a + b; y = a + b;`) e otimizá-lo manualmente, depois comparar com o que um compilador real faz usando o [Compiler Explorer](https://godbolt.org/).
 
-### 5. Ambiente de tempo de execução (1–2 semanas)
+### . Ambiente de tempo de execução (– semanas)
 
 O que dominar: organização de memória de um programa em execução (pilha, heap, área de código, área estática), a pilha de ativação (_stack frame_) — como cada chamada de função aloca seu próprio espaço para variáveis locais e endereço de retorno — e uma visão geral de coleta de lixo (_garbage collection_) em linguagens que gerenciam memória automaticamente. O que praticar: desenhar a pilha de chamadas de uma função recursiva simples (fatorial, Fibonacci) quadro a quadro — é a melhor forma de entender por que recursão profunda demais causa _stack overflow_.
 

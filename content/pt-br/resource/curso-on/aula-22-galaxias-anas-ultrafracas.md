@@ -2,7 +2,7 @@
 publish: false
 title: Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|← Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]]
 
-# Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica
+# Aula — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica
 
 > [!note] Resumo
 > Aula de encerramento do curso: as galáxias anãs **ultrafracas** (UFDs) representam o extremo mais radical da formação de galáxias — os menores halos de matéria escura, as metalicidades mais baixas, as idades mais antigas e os históricos de formação mais simples já conhecidos. Justamente por sofrerem tão poucas supernovas ao longo de sua história, suas estrelas preservam assinaturas químicas de eventos de nucleossíntese quase individuais — uma janela direta para as condições do Universo primitivo.

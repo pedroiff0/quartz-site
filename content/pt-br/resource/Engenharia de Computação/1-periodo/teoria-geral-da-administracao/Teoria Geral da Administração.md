@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Teoria Geral da Administração"
+title: Teoria Geral da Administração
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Teoria Geral Da Administracao|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Teoria Geral Da Administracao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,51 +24,51 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Campo da Administração; Estruturas Administrativas; Importância das Estruturas; Técnicas de Estruturação; Áreas Administrativas; Planejamento da Ação Empresarial; Ambiente Organizacional.
-> ### Objetivos
+> **Objetivos**
 > - Capacitar o aluno a conhecer o contexto organizacional definindo as funções e estruturas administrativas bem como as ações que envolvem um planejamento empresarial.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. O Campo da Administração**
-> 	- Administração: Conceito, Importância e Campos de Atuação.
-> 	- Funções Administrativas;
-> 	- Características das Funções Administrativas.
+>   - Administração: Conceito, Importância e Campos de Atuação.
+>   - Funções Administrativas;
+>   - Características das Funções Administrativas.
 > - **2. Estruturas Administrativas**
-> 	- Tipos de Estruturas Formal e Informal;
-> 	- Importâncias das Estruturas;
-> 	- Técnicas de Estruturação – Departamentalização;
-> 	- Organograma.
+>   - Tipos de Estruturas Formal e Informal;
+>   - Importâncias das Estruturas;
+>   - Técnicas de Estruturação – Departamentalização;
+>   - Organograma.
 > - **3. Áreas Administrativas**
-> 	- Administração de Recursos Humanos;
-> 	- Administração de Produção, Material e Patrimônio;
-> 	- Administração de Marketing;
-> 	- Administração Financeira e Orçamentária.
+>   - Administração de Recursos Humanos;
+>   - Administração de Produção, Material e Patrimônio;
+>   - Administração de Marketing;
+>   - Administração Financeira e Orçamentária.
 > - **4. Planejamento da Ação Empresarial**
-> 	- Planejamento Estratégico, Tático e Operacional;
-> 	- Ambiente Organizacional Interno e Externo.
+>   - Planejamento Estratégico, Tático e Operacional;
+>   - Ambiente Organizacional Interno e Externo.
 > - **5. O Ambiente Organizacional**
-> 	- Focalizando a Oportunidade;
-> 	- Novos Mercados;
-> 	- Técnicas de Decidir;
-> 	- Desenvolvimento Organizacional;
-> 	- Gestão do Conhecimento.
+>   - Focalizando a Oportunidade;
+>   - Novos Mercados;
+>   - Técnicas de Decidir;
+>   - Desenvolvimento Organizacional;
+>   - Gestão do Conhecimento.
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. MOTTA, F. C. P.; VASCONCELOS, I. F. G. Teoria Geral da Administração. 3ª Edição. São Paulo:
 > 2. Cengage Learning, 2006.
 > 3. MAXIMIANO, A. C. A. Teoria Geral da Administração – Da revolução Urbana à Revolução Digital. 8ª Edição. São Paulo: Atlas, 2017.
 > 4. CHIAVENATO, I. Introdução à Teoria Geral da Administração. 9ª Edição. São Paulo: Editora Manole,
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. CHIAVENATO, I., SAPIRO, A. Planejamento Estratégico: Fundamentos e Aplicações. 3ª Edição. Rio de Janeiro: Elsevier, 2015.
 > 2. MÜLLER, C. J. Planejamento Estratégico, Indicadores e Processos: Uma Integração Necessária. Rio de Janeiro: Atlas, 2013.
 > 3. TAKEUCHI, H., NONAKA, I. Gestão do Conhecimento. Porto Alegre: Bookman, 2008.
@@ -72,4 +77,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Teoria Geral Da Administracao|Anotações da Disciplina]]**

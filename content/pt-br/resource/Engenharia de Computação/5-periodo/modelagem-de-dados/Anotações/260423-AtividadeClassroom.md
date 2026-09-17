@@ -1,20 +1,20 @@
 ---
 publish: true
-title: "260423-AtividadeClassrooom"
+title: 260423-AtividadeClassrooom
 created: 2026-04-23 14:49
-modified: 2026-09-14 20:12
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
-  - aula
+  - atividade
+  - trabalho
   - engenharia-de-computacao
-  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---
 # Notas de Aula - AtividadeClassrooom
 ***
-## Questão 1:  Plataforma de cursos corporativos
+## Questão : Plataforma de cursos corporativos
 ### ENTIDADES E ATRIBUTOS
 - EMPRESA_CLIENTE: cnpj, razao_social, nome_fantasia, email_contato, telefone_principal
 - CURSO: codigo_curso, titulo, carga_horaria, modalidade, nivel
@@ -36,7 +36,7 @@ cssclasses:
 - PARTICIPANTE recebe NOTA (1:N)
 - TURMA possui PARCELA (1:N)
 ***
-## Questão 2: Sistema de manutenção de equipamentos hospitalares
+## Questão : Sistema de manutenção de equipamentos hospitalares
 
 ### ENTIDADES E ATRIBUTOS
 - EQUIPAMENTO: num_patrimonio, descricao, fabricante, modelo, data_aquisicao, status_operacional
@@ -55,7 +55,7 @@ cssclasses:
 - MANUTENCAO utiliza PECA_REPOSICAO (N:N) -> Atributo: quantidade_utilizada
 - MANUTENCAO gera LAUDO (1:N)
 ***
-## Questão 3: Sistema de gestão de eventos acadêmicos
+## Questão : Sistema de gestão de eventos acadêmicos
 ### ENTIDADES E ATRIBUTOS
 - EVENTO: codigo_evento, nome, tema_central, data_inicio, data_termino, cidade_sede
 - DEPARTAMENTO: codigo_depto, nome, sigla
@@ -80,7 +80,7 @@ cssclasses:
 - INSCRITO recebe CERTIFICADO (1:N)
 
 ***
-## Questão 4:  Locadora de veículos para uso industrial
+## Questão : Locadora de veículos para uso industrial
 
 ### ENTIDADES E ATRIBUTOS
 - CLIENTE_CORPORATIVO: cnpj, razao_social, nome_fantasia, email_comercial, telefone
@@ -101,7 +101,7 @@ cssclasses:
 - TECNICO_CAMPO executa ORDEM_SERVICO (1:N)
 - ORDEM_SERVICO possui ITEM_VERIFICACAO (1:N)
 ***
-## Questão 5:  Sistema de biblioteca de laboratório universitário
+## Questão : Sistema de biblioteca de laboratório universitário
 ### ENTIDADES E ATRIBUTOS
 - ITEM_ACERVO: tombo_patrimonial, nome_item, descricao, fabricante, estado_conservacao, tipo_item
 - CATEGORIA_ACERVO: codigo_categoria, nome, prazo_emprestimo_dias

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -22,7 +22,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|← Aula 16 — Métodos de Determinação de Idades Estelares]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash|Aula 18 — Proto-Disco, Spin-Up e o Disco Splash →]]
 
-# Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade
+# Aula — Gradientes de Metalicidade e a Relação Idade-Metalicidade
 
 > [!note] Resumo
 > A metalicidade da Via Láctea não é uniforme: existe um gradiente radial negativo no disco (mais rico por dentro, mais pobre por fora), gradientes verticais e no bojo/halo, e mecanismos de migração estelar (_blurring_ e _churning_) que embaralham essa estrutura ao longo do tempo. A aula fecha com um problema histórico e ainda debatido: por que a relação idade-metalicidade (AMR) observada é muito mais dispersa do que a teoria simples de evolução química prevê.

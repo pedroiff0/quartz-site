@@ -1,7 +1,7 @@
 ---
 title: "Aula 11: Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-11.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-11-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-11-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-11-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-11.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Introdução à Engenharia TeX. Arquitetura do sistema LaTeX, diferença entre motores de compilação (PDFLaTeX vs. LuaLaTeX vs. XeLaTeX), encoding de fontes e estruturação canônica do preâmbulo `.tex`.
 
-### 1. Anatomia dos Motores TeX (PDFLaTeX vs. LuaLaTeX vs. XeLaTeX)
+### . Anatomia dos Motores TeX (PDFLaTeX vs. LuaLaTeX vs. XeLaTeX)
 
 PDFLaTeX compila diretamente para PDF utilizando codificação de 8 bits (T1/utf8). LuaLaTeX e XeLaTeX oferecem suporte nativo a Unicode e fontes do sistema (OTF/TTF) com motor de script Lua incorporado.
 
-### 2. Estrutura do Preâmbulo e Classes de Documento
+### . Estrutura do Preâmbulo e Classes de Documento
 
 O preâmbulo define os pacotes (`\usepackage{...}`) e parâmetros globais. Declaração da classe com `\documentclass[12pt,openright,oneside,a4paper]{ifftese}`.
 
-### 3. Ciclo de Compilação e Arquivos Auxiliares (`.aux`, `.log`, `.toc`)
+### . Ciclo de Compilação e Arquivos Auxiliares (`.aux`, `.log`, `.toc`)
 
 Entendimento dos passos de compilação e gerenciamento de arquivos temporários de índices e referências gerados pelo motor TeX.
 

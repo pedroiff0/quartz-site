@@ -2,7 +2,7 @@
 publish: false
 title: Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -22,7 +22,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-20-bojo-barra-e-estrutura-do-disco|← Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-22-galaxias-anas-ultrafracas|Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica →]]
 
-# Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites
+# Aula — Funções de Distribuição de Metalicidade em Galáxias Satélites
 
 > [!note] Resumo
 > A função de distribuição de metalicidade (MDF) de uma galáxia — quantas estrelas existem em cada faixa de $[\text{Fe/H}]$ — é um registro fóssil comprimido de toda a sua história de formação estelar, enriquecimento químico e acréscimo. Esta aula usa as galáxias satélites do Grupo Local como laboratório para entender o que molda uma MDF, como modelá-la com equações simples de evolução química, e por que medi-la na prática é mais difícil do que parece.

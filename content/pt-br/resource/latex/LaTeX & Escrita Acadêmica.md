@@ -2,7 +2,7 @@
 publish: true
 title: "LaTeX & Escrita Acadêmica"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:22
 tags:
   - latex
   - escrita-academica
@@ -404,7 +404,7 @@ views:
 ## Material de Referência Externa e Normalização Mundial
 
 > [!important] Fontes Canônicas e Portais Oficiais
-> ### Normalização, Repositórios TeX e Comunidade Científica
+> **Normalização, Repositórios TeX e Comunidade Científica**
 > - **[ABNT — Associação Brasileira de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de consulta às normas ABNT NBR 14724, NBR 10520 e NBR 6023.*
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *O repositório mundial canônico de pacotes, documentações e classes LaTeX2e/LaTeX3.*
 > - **[Overleaf Documentation & TeX Live Guide](https://www.overleaf.com/learn)** — *Guias interativos, documentação de pacotes e tutoriais da linguagem LaTeX.*

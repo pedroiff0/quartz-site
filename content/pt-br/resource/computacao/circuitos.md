@@ -2,7 +2,7 @@
 publish: false
 title: Circuitos
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -22,19 +22,19 @@ E há a ponte conceitual, que é ainda mais valiosa: eletrônica digital é onde
 
 ## Trilha de estudo
 
-### 1. Eletricidade básica e análise de circuitos (6–8 semanas)
+### . Eletricidade básica e análise de circuitos (– semanas)
 
 O que dominar: tensão, corrente, resistência e potência; Lei de Ohm; leis de Kirchhoff; associações série/paralelo; divisores de tensão; e o comportamento de capacitores e indutores. O que praticar: resolver circuitos no papel e conferir no simulador Falstad — a checagem imediata acelera muito o aprendizado. Multímetro na mão desde o primeiro dia, se houver laboratório.
 
-### 2. Eletrônica analógica (6–8 semanas)
+### . Eletrônica analógica (– semanas)
 
 O que dominar: diodos (retificação, LED, zener), transistor como chave (o uso que mais importa pra computação) e como amplificador em nível introdutório, e amplificadores operacionais básicos. O que praticar: montar no simulador (ou protoboard) um retificador e um transistor chaveando uma carga — o circuito que liga o mundo dos sinais ao mundo do controle digital.
 
-### 3. Eletrônica digital combinacional (4–6 semanas)
+### . Eletrônica digital combinacional (– semanas)
 
 O que dominar: álgebra booleana aplicada a portas lógicas (AND, OR, NOT, NAND, NOR, XOR), simplificação por mapas de Karnaugh, e os blocos combinacionais — multiplexadores, decodificadores, somadores. O que praticar: projetar um circuito a partir de uma tabela-verdade, simplificar e montar no simulador. Aqui a lógica de computação que você estudou vira fio e componente.
 
-### 4. Eletrônica digital sequencial e sistemas digitais (6–8 semanas)
+### . Eletrônica digital sequencial e sistemas digitais (– semanas)
 
 O que dominar: latches e flip-flops (a célula de memória de 1 bit), registradores, contadores, máquinas de estados finitos e a noção de clock e sincronismo. O que praticar: projetar uma máquina de estados pequena (um semáforo, uma fechadura eletrônica) do diagrama ao circuito. É o projeto que costura a trilha inteira — e o trampolim direto pra arquitetura.
 

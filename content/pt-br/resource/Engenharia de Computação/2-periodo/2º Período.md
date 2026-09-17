@@ -1,8 +1,11 @@
 ---
 publish: true
-title: "2º Período"
+title: 2º Período
 created: 2026-07-21 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
+tags:
+  - disciplina
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
 ---
@@ -33,31 +36,31 @@ Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-programacao-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Algoritmos e Programação I" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Algoritmos e Programação I" />
     <div class="slide-caption">Algoritmos e Programação I</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/2-periodo/calculo-ii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Cálculo II" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Cálculo II" />
     <div class="slide-caption">Cálculo II</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Álgebra Linear e Geometria Analítica II" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Álgebra Linear e Geometria Analítica II" />
     <div class="slide-caption">Álgebra Linear e Geometria Analítica II</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Matemática Discreta" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Matemática Discreta" />
     <div class="slide-caption">Matemática Discreta</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/2-periodo/fisica-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Física I" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Física I" />
     <div class="slide-caption">Física I</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/2-periodo/quimica-tecnologica" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Química Tecnológica" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Química Tecnológica" />
     <div class="slide-caption">Química Tecnológica</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/2-periodo/fisica-experimental-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Física Experimental I" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Física Experimental I" />
     <div class="slide-caption">Física Experimental I</div>
   </a>
 </div>

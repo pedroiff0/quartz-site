@@ -2,7 +2,7 @@
 publish: false
 title: Computação
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 cssclasses:
   - page-layout
@@ -10,95 +10,95 @@ cssclasses:
 
 <div class="media-carousel">
   <a href="/pt-br/resource/computacao/analise-e-desempenho-de-sistemas" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Análise e Desempenho de Sistemas" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Análise e Desempenho de Sistemas" />
     <div class="slide-caption">Análise e Desempenho de Sistemas</div>
   </a>
   <a href="/pt-br/resource/computacao/arquitetura-de-computadores" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Arquitetura de Computadores" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Arquitetura de Computadores" />
     <div class="slide-caption">Arquitetura de Computadores</div>
   </a>
   <a href="/pt-br/resource/computacao/banco-de-dados" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Banco de Dados" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Banco de Dados" />
     <div class="slide-caption">Banco de Dados</div>
   </a>
   <a href="/pt-br/resource/computacao/circuitos" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Circuitos" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Circuitos" />
     <div class="slide-caption">Circuitos</div>
   </a>
   <a href="/pt-br/resource/computacao/compiladores" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Compiladores" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Compiladores" />
     <div class="slide-caption">Compiladores</div>
   </a>
   <a href="/pt-br/resource/computacao/computacao-grafica" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Computação Gráfica" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Computação Gráfica" />
     <div class="slide-caption">Computação Gráfica</div>
   </a>
   <a href="/pt-br/resource/computacao/comunicacao-de-dados" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Comunicação de Dados" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Comunicação de Dados" />
     <div class="slide-caption">Comunicação de Dados</div>
   </a>
   <a href="/pt-br/resource/computacao/desenvolvimento-web" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Desenvolvimento Web" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Desenvolvimento Web" />
     <div class="slide-caption">Desenvolvimento Web</div>
   </a>
   <a href="/pt-br/resource/computacao/engenharia-de-software" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Engenharia de Software" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Engenharia de Software" />
     <div class="slide-caption">Engenharia de Software</div>
   </a>
   <a href="/pt-br/resource/computacao/fundamentos-da-computacao" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Fundamentos da Computação" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Fundamentos da Computação" />
     <div class="slide-caption">Fundamentos da Computação</div>
   </a>
   <a href="/pt-br/resource/computacao/informatica-basica" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Informática Básica" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Informática Básica" />
     <div class="slide-caption">Informática Básica</div>
   </a>
   <a href="/pt-br/resource/computacao/linguagens-formais-e-automatos" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Linguagens Formais e Autômatos" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Linguagens Formais e Autômatos" />
     <div class="slide-caption">Linguagens Formais e Autômatos</div>
   </a>
   <a href="/pt-br/resource/computacao/logica-de-computacao" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Lógica de Computação" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Lógica de Computação" />
     <div class="slide-caption">Lógica de Computação</div>
   </a>
   <a href="/pt-br/resource/computacao/machine-learning" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Machine Learning" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Machine Learning" />
     <div class="slide-caption">Machine Learning</div>
   </a>
   <a href="/pt-br/resource/computacao/modelagem-de-dados" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Modelagem de Dados" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Modelagem de Dados" />
     <div class="slide-caption">Modelagem de Dados</div>
   </a>
   <a href="/pt-br/resource/computacao/pratica-profissional" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Prática Profissional" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Prática Profissional" />
     <div class="slide-caption">Prática Profissional</div>
   </a>
   <a href="/pt-br/resource/computacao/processamento-de-imagens" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Processamento de Imagens" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Processamento de Imagens" />
     <div class="slide-caption">Processamento de Imagens</div>
   </a>
   <a href="/pt-br/resource/computacao/programacao" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Programação" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Programação" />
     <div class="slide-caption">Programação</div>
   </a>
   <a href="/pt-br/resource/computacao/projeto-e-analise-de-algoritmos" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Projeto e Análise de Algoritmos" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Projeto e Análise de Algoritmos" />
     <div class="slide-caption">Projeto e Análise de Algoritmos</div>
   </a>
   <a href="/pt-br/resource/computacao/redes" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Redes" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Redes" />
     <div class="slide-caption">Redes</div>
   </a>
   <a href="/pt-br/resource/computacao/seguranca-da-informacao" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Segurança da Informação" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Segurança da Informação" />
     <div class="slide-caption">Segurança da Informação</div>
   </a>
   <a href="/pt-br/resource/computacao/sistemas-distribuidos" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Sistemas Distribuídos" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Sistemas Distribuídos" />
     <div class="slide-caption">Sistemas Distribuídos</div>
   </a>
   <a href="/pt-br/resource/computacao/sistemas-operacionais" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Sistemas Operacionais" />
+    <img src="/99 - Meta/attachments/assets/illustrations/computacao.svg" alt="Sistemas Operacionais" />
     <div class="slide-caption">Sistemas Operacionais</div>
   </a>
 </div>

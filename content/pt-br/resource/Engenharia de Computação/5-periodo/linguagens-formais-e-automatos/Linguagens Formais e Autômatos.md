@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Linguagens Formais e Autômatos"
+title: Linguagens Formais e Autômatos
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Linguagens Formais E Automatos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Linguagens Formais E Automatos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,18 +24,18 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. Máquina de turing. Problema da parada. Noções de cálculo lambda e funções recursivas.
-> ### Objetivos
+> **Objetivos**
 > - Aprender a formalizar problemas computacionais através de linguagens formais, autômatos e máquina de Turing;
 > - Compreender o funcionamento de tais sistemas e modelos formais;
 > - Estudar e compreender conceitos de teoria da computação.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/2-periodo/matematica-discreta/Matemática Discreta|CSECBJI.14 - Matemática Discreta]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/6-periodo/compiladores/Compiladores|CSECBJI.48 - Compiladores]]
 
 
@@ -39,25 +44,25 @@ cssclasses:
 > - **2. Linguagens Livres de Contexto**
 > - **3. Linguagens Sensíveis ao Contexto**
 > - **4. Autômatos**
-> 	- Autômato Finito
-> 	- Autômato Determinístico
-> 	- Autômato Não-Determinístico
-> 	- Autômato de Pilha
+>   - Autômato Finito
+>   - Autômato Determinístico
+>   - Autômato Não-Determinístico
+>   - Autômato de Pilha
 > - **5. Máquina de Turing**
-> 	- Definição do Modelo Computacional de Máquina de Estados e da Máquina de Turing
-> 	- Variações e Extensões da Máquina de Turing
-> 	- Aplicações da Máquina de Turing
+>   - Definição do Modelo Computacional de Máquina de Estados e da Máquina de Turing
+>   - Variações e Extensões da Máquina de Turing
+>   - Aplicações da Máquina de Turing
 > - **6. Computabilidade**
 > - **7. Noções de Cálculo-Lambda**
 > - **8. Funções Recursivas**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. DIVERIO, T. A., MENEZES, Paulo. B. Teoria da Computação: máquinas universais e computabilidade. 3ª Edição. Porto Alegre: Bookman. 2011.
 > 2. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição.
 > 3. LTC, 2016.
 > 4. ROSEN, Kenneth H. Matemática Discreta e suas Aplicações. 6ª Edição. São Paulo: McGraw-Hill Brasil.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. HOPCROFT, J. E., ULLMAN, J. D., MOTWANI, R. Introdução à teoria de autômatos, linguagens e computação. 2ª Edição. Rio de Janeiro: Campus. 2003.
 > 2. MENEZES, P. B. Linguagens Formais e Autômatos. 6ª Edição. Porto Alegre: Bookman. 2011.
 > 3. PAPADIMITRIOU, C. H., LEWIS, H. R. Elementos da Teoria da Computação. 2ª Edição. Porto Alegre:
@@ -67,4 +72,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Linguagens Formais E Automatos|Anotações da Disciplina]]**

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 16 — Métodos de Determinação de Idades Estelares
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos|← Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade →]]
 
-# Aula 16 — Métodos de Determinação de Idades Estelares
+# Aula — Métodos de Determinação de Idades Estelares
 
 > [!note] Resumo
 > Idade estelar é o parâmetro mais difícil de medir diretamente — não existe "régua" observável para ela. Esta aula organiza os métodos disponíveis em três famílias: **empíricos** (girocronologia, atividade cromosférica, depleção de lítio), **dependentes de modelo** (isócronas de aglomerados, astrossismologia) e **semi-fundamentais** (nucleocosmocronologia via decaimento radioativo de Th/U).

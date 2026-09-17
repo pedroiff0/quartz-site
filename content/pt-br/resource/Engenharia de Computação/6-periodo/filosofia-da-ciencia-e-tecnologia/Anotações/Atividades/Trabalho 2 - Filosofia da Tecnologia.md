@@ -1,27 +1,18 @@
 ---
 publish: true
 title: Trabalho 2 - Filosofia da Tecnologia
-subtitle: "Análise Crítica: Tecnologia como Realidade Complexa (Alberto Cupani)"
-discipline: Filosofia da Ciência e Tecnologia
-period: 6-periodo
-professor: Rafael Tardin
-date: 2026-09-07
-status: concluído
-authors:
-  - Pedro Henrique Rocha de Andrade
-corresponding_author: Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>
-presenter: Pedro Henrique Rocha de Andrade
-short_title: Filosofia da Tecnologia - Cupani
-draft: false
+created: 2026-09-07 21:05
+modified: 2026-09-16 21:30
+tags:
+  - atividade
+  - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - center-titles
-created: 2026-09-07 21:05
-modified: 2026-09-15 21:34
-
 ---
 
-# Trabalho 2 - Dossiê de Debate: Filosofia da Tecnologia (Alberto Cupani)
+# Trabalho - Dossiê de Debate: Filosofia da Tecnologia (Alberto Cupani)
 
 > [!abstract] Resumo Executivo e Síntese para Debate (150 Minutos)
 > Este volumoso dossiê constitui a base argumentativa e analítica do Capítulo 1 da obra *Filosofia da Tecnologia: um introdução*, de Alberto Cupani. Projetado para sustentar uma longa arguição filosófica, o material explora a taxonomia de Carl Mitcham, o abismo ontológico entre "Fazer" e "Agir", a falácia da neutralidade moral na engenharia e o embate entre as tradições "humanista" e "tecnológica". O ápice da tese, a ser levada a debate, é a **correlação contundente com Miguel Reale (Trabalho 1)**: a afirmação de que a tecnologia, despida de crítica volitiva, opera como uma reificação da "Ciência Positiva", alienando o engenheiro e subjugando a sociedade à "razão instrumental".
@@ -54,7 +45,7 @@ modified: 2026-09-15 21:34
 
 ---
 
-## 1. A Falsa Neutralidade e a "Mentalidade" Polifacetada
+## . A Falsa Neutralidade e a "Mentalidade" Polifacetada
 
 *Tópico para debate (20 min): "A tecnologia é apenas ferramenta?"*
 
@@ -72,7 +63,7 @@ Essa "mentalidade tecnológica irrefletida" é o ponto de partida do debate. Nó
 
 ---
 
-## 2. As Quatro Dimensões de Mitcham sob Crivo Crítico
+## . As Quatro Dimensões de Mitcham sob Crivo Crítico
 
 *Tópico para debate (30 min): "Até que ponto o conhecimento e a vontade dominam a matéria?"*
 
@@ -100,7 +91,7 @@ Para Cupani, a classificação de Carl Mitcham desvenda as engrenagens internas 
 
 ---
 
-## 3. Ontologia da Engenharia: Produzir vs. Agir
+## . Ontologia da Engenharia: Produzir vs. Agir
 
 *Tópico para debate (20 min): "A Engenharia e o encolhimento da Ação Humana."*
 
@@ -114,13 +105,44 @@ A tecnologia e a engenharia baseiam-se na exacerbação do *Produzir* (*homo fab
 > [!warning|#ffb74d] **Filosofia da Tecnologia, p.20**
 > "A engenharia (enquanto epítome da tecnologia) pode assim ser definida como “um esforço sistemático para economizar esforço”..."
 
+O que se ganha em: uma realidade complexa eficiência, velocidade, produtividade, novidade, não se perde acaso em espontaneidade, serenidade, qualidade, tradição?
+
 A engenharia, sob a ótica de Mitcham, é obcecada pela eficiência. Porém, a "economia de esforço" na era das IAs traz à tona um dilema ontológico severo:
 > [!important|#ff5252] **Filosofia da Tecnologia, p.23**
 > "Como se diferenciam o natural e o artificial? Existe hoje em dia algo puramente natural?"
 
+> [!PDF|187, 97, 229] **Filosofia da Tecnologia de Alberto Cupani - Capítulo 1, p.3**
+> > De modo evidente, tudo ou quase tudo a que nos referimos ao falarmos da tecnologia tem alguma vinculação com o que denominamos técnica.
+
+> [!danger] **Filosofia da Tecnologia de Alberto Cupani - Capítulo 1, p.5**
+> > Quero dizer que, embora possamos pensar na produção técnica como obra do ser humano enquanto indivíduo (ao imaginarmos alguém fabricando
+
+
+> [!PDF|187, 97, 229] **Filosofia da Tecnologia de Alberto Cupani - Capítulo 1, p.5**
+> > Quero dizer que, embora possamos pensar na produção técnica como obra do ser humano enquanto indivíduo (ao imaginarmos alguém fabricando ou
+
+
+
+
+
+
+
+Tarefa dia 30/09:
+O que seria o “Filosofar Sobre a Tecnologia”?
+* min 8 linhas
+* trecho de citação do texto pra enfatizar; 
+
+
+Ontologia e Metafísica
+Dialética
+Trabalho - Ontológico, ou  Mercado/Empregado
+
+
+
+
 ---
 
-## 4. O Choque das Tradições: Engenheiros vs. Humanistas
+## . O Choque das Tradições: Engenheiros vs. Humanistas
 
 *Tópico para debate (20 min): "Pode um engenheiro criticar seu próprio paradigma?"*
 
@@ -136,7 +158,7 @@ Cupani aborda a cisão fundamental dentro da própria filosofia:
 
 ---
 
-## 5. A Axiologia e a Falácia da Irresponsabilidade Moral
+## . A Axiologia e a Falácia da Irresponsabilidade Moral
 
 *Tópico para debate (30 min): "A Neutralidade Axiológica é Morte Sociológica."*
 
@@ -150,11 +172,16 @@ O argumento mais combativo da obra é a exposição das premissas morais ocultas
 > [!summary|#ba68c8] **Filosofia da Tecnologia, p.25**
 > "Os tecnólogos e técnicos não são moralmente responsáveis: seu dever é desenvolver suas tarefas sem se deixar influenciar por escrúpulos estéticos ou éticos."
 
+> [!important] **Filosofia da Tecnologia de Alberto Cupani - Capítulo 1, p.4**
+> Apesar de que a habilidade técnica parece acompanhar a existência humana desde seus primórdios (o que levou alguns estudiosos a definir o homem antes como homo faber do que como homo sapiens), 3 a intervenção da ciência na produção de artefatos é vista geralmente como geradora de uma diferença importante entre a técnica tradicional, baseada no conhecimento empírico do mundo, e a tecnologia, resultante da aplicação do saber teórico
+
+
+
 **Arguição:** A quem serve essa premissa? A falácia da "terceirização da culpa" — a ideia de que quem cria o algoritmo ou a bomba não é responsável se os governos ou empresas a utilizarem para vigiar e matar — é o álibi perfeito para o genocídio digital. A técnica não redime a ética.
 
 ---
 
-## 6. O Confronto Definitivo: Cupani vs. Miguel Reale (Trabalho 1)
+## . O Confronto Definitivo: Cupani vs. Miguel Reale (Trabalho )
 
 *Tópico de Fechamento (30 min): A Epistemologia da Interrupção Tecnológica.*
 
@@ -171,7 +198,7 @@ O clímax do debate repousa em sobrepor as teses de **Alberto Cupani (Tecnologia
 
 ---
 
-## 7. Referências Bibliográficas
+## . Referências Bibliográficas
 
 1. **CUPANI, Alberto.** *Filosofia da Tecnologia: um introdução*. Capítulo 1: "Tecnologia: uma realidade complexa", p. 11-29.
 2. **REALE, Miguel.** *Introdução à Filosofia*. 3. ed. São Paulo: Saraiva, 1994. Cap. 1: "O Problema dos Pressupostos". *(Referência comparativa do Trabalho 1).*

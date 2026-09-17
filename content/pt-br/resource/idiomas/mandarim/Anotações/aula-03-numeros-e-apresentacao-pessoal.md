@@ -8,7 +8,7 @@ tags:
   - mandarim
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 03 — Números de 0 a 99, Países e Autoapresentação
+# Aula — Números de a , Países e Autoapresentação
 
 > [!info] Metadados da Lição
 > - **Idioma:** Mandarim | **Nível Alvo:** A1

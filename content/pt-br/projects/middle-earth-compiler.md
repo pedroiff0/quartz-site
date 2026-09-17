@@ -3,7 +3,7 @@ publish: true
 published: "2026-09-16T11:23:00-03:00"
 title: "Middle-earth Compiler"
 created: 2026-09-16 11:23
-modified: 2026-09-16 11:24
+modified: 2026-09-16 12:09
 tags:
   - projeto
   - publico
@@ -20,13 +20,13 @@ cssclasses:
 
 ---
 
-## 🛠️ Stack Principal
+##  Stack Principal
 - **Python / C++**
 - **Flex & Bison / Lark / ANTLR**
 - **LLVM IR / AST Interpreter**
 
 ---
 
-## 🔗 Links Públicos
+##  Links Públicos
 - **Repositório GitHub:** [pedroiff0/middle-earth-compiler](https://github.com/pedroiff0/middle-earth-compiler)
 - **Status:** 🟢 Em Desenvolvimento (6º Período - IFF)

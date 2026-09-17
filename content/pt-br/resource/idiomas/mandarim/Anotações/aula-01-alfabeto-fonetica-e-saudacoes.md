@@ -8,7 +8,7 @@ tags:
   - mandarim
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 01 — Pinyin, os 4 Tons do Mandarim e Saudações Iniciais
+# Aula — Pinyin, os Tons do Mandarim e Saudações Iniciais
 
 > [!info] Metadados da Lição
 > - **Idioma:** Mandarim | **Nível Alvo:** A1

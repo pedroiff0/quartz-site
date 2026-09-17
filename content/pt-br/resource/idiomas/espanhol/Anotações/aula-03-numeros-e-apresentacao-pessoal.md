@@ -8,7 +8,7 @@ tags:
   - espanhol
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 03 — Números de 0 a 100, Falsos Cognatos e Autoapresentação
+# Aula — Números de a , Falsos Cognatos e Autoapresentação
 
 > [!info] Metadados da Lição
 > - **Idioma:** Espanhol | **Nível Alvo:** A1

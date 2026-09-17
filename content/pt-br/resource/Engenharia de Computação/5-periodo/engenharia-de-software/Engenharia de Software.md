@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Engenharia de Software"
+title: Engenharia de Software
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Engenharia De Software|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Engenharia De Software|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,9 +24,9 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto de software. Arquitetura de software. Testes. Visão geral sobre manutenção de software.
-> ### Objetivos
+> **Objetivos**
 > - Desenvolver a visão de software como um sistema e parte de um sistema;
 > - Conhecer processos de desenvolvimento de software
 > - Compreender os papéis dos participantes do processo de desenvolvimento de software;
@@ -33,57 +38,57 @@ cssclasses:
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/Análise de Software Orientada a Objetos|CSECBJI.42 - Análise de Software Orientada a Objetos]]
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Teoria dos Sistemas**
-> 	- Sistemas naturais e sistemas automatizados
-> 	- Software x Sistemas
-> 	- Categorias de Software
+>   - Sistemas naturais e sistemas automatizados
+>   - Software x Sistemas
+>   - Categorias de Software
 > - **2. Processo de Desenvolvimento de Software**
-> 	- Histórico da Evolução do Software
-> 	- Etapas do Processo de Desenvolvimento de Software: Análise, Projeto, Implementação, Testes, Implantação e Manutenção.
-> 	- Modelo Clássico
-> 	- Modelo em Espiral
-> 	- Processo Unificado
-> 	- Métodos Ágeis
-> 	- Papeis no desenvolvimento de software (stakeholders).
+>   - Histórico da Evolução do Software
+>   - Etapas do Processo de Desenvolvimento de Software: Análise, Projeto, Implementação, Testes, Implantação e Manutenção.
+>   - Modelo Clássico
+>   - Modelo em Espiral
+>   - Processo Unificado
+>   - Métodos Ágeis
+>   - Papeis no desenvolvimento de software (stakeholders).
 > - **3. Análise e Projeto de Software**
-> 	- Técnicas de Coleta e Especificação de Requisitos
-> 	- Métodos de Análise: Estruturada, Essencial e Orientada a Objetos
-> 	- Paralelo entre as diferentes metodologias
-> 	- A Etapa de Projeto
-> 	- Princípios de Qualidade em Projeto: Coesão e Acoplamento
-> 	- Métodos de Projeto
+>   - Técnicas de Coleta e Especificação de Requisitos
+>   - Métodos de Análise: Estruturada, Essencial e Orientada a Objetos
+>   - Paralelo entre as diferentes metodologias
+>   - A Etapa de Projeto
+>   - Princípios de Qualidade em Projeto: Coesão e Acoplamento
+>   - Métodos de Projeto
 > - **4. Arquitetura de Software**
-> 	- Arquitetura em camadas
-> 	- Arquitetura MVC
-> 	- Microserviços
-> 	- Arquitetura Orientada a Mensagens
-> 	- Arquitetura Publish/Subscribe
+>   - Arquitetura em camadas
+>   - Arquitetura MVC
+>   - Microserviços
+>   - Arquitetura Orientada a Mensagens
+>   - Arquitetura Publish/Subscribe
 > - **5. Testes**
-> 	- Teste de unidade
-> 	- Testabilidade
-> 	- Teste de integração
-> 	- Testes de sistema
+>   - Teste de unidade
+>   - Testabilidade
+>   - Teste de integração
+>   - Testes de sistema
 > - **6. Visão Geral sobre Manutenção de Software**
-> 	- Conceito, motivações e dificuldades
-> 	- Tipos de Manutenção
-> 	- Processo de Manutenção de Software
-> 	- Gerência de Configuração
-> 	- Reengenharia
+>   - Conceito, motivações e dificuldades
+>   - Tipos de Manutenção
+>   - Processo de Manutenção de Software
+>   - Gerência de Configuração
+>   - Reengenharia
 > - **7. Ferramentas e Ambientes de Suporte ao Desenvolvimento de Software**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. PRESSMAN, R. S., MAXIM, B. R. Engenharia de Software: Uma Abordagem Profissional. 8ª Edição. Porto Alegre: Bookman, 2016.
 > 2. SOMMERVILLE, I. Engenharia de Software. 9ª Edição. São Paulo: Pearson, 2011.
 > 3. WAZLAWICK, R. S. Engenharia de Software: Conceitos e Práticas. São Paulo: Elsevier, 2013.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. DELAMARO, M. E., MALDONADO, J. C., JINO, M. Introdução ao Teste de Software. 2ª Edição. São Paulo: Elsevier, 2016.
 > 2. FERNANDES, J. M., MACHADO, R. J. Requisitos em Projetos de Software e de Sistemas de Informação.
 > 3. São Paulo: Novatec, 2017.
@@ -93,4 +98,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Engenharia De Software|Anotações da Disciplina]]**

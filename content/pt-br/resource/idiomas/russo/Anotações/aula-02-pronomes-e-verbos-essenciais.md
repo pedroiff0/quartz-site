@@ -8,7 +8,7 @@ tags:
   - russo
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 02 — Pronomes Pessoais, Ausência do Verbo Ser no Presente e Ter (У меня есть)
+# Aula — Pronomes Pessoais, Ausência do Verbo Ser no Presente e Ter (У меня есть)
 
 > [!info] Metadados da Lição
 > - **Idioma:** Russo | **Nível Alvo:** A1

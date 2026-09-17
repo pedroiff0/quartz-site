@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Pesquisa Operacional I"
+title: Pesquisa Operacional I
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Pesquisa Operacional I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Pesquisa Operacional I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,54 +24,54 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema do Transporte; Otimização de Redes; Modelos determinísticos de estoque; Tópicos em PL.
-> ### Objetivos
+> **Objetivos**
 > - Desenvolver habilidades de modelagem e análise de problemas decisórios relacionados à produção, transporte e estocagem de materiais; com o apoio de recursos de informática.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/Álgebra Linear e Geometria Analítica II|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/eletivas/pesquisa-operacional-ii/Pesquisa Operacional II|CSECBJI.89 - Pesquisa Operacional II]]
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução à Pesquisa Operacional**
-> 	- Definição de Pesquisa Operacional
-> 	- Metodologia da Pesquisa Operacional
-> 	- Programação Matemática
-> 	- Classificação dos Problemas de Programação Matemática
+>   - Definição de Pesquisa Operacional
+>   - Metodologia da Pesquisa Operacional
+>   - Programação Matemática
+>   - Classificação dos Problemas de Programação Matemática
 > - **2. Programação Linear (PL)**
-> 	- Modelagem em PL
-> 	- Manipulação de Problemas de PL
-> 	- Formulação Canônica e Padrão
-> 	- Representação Geométrica de um Problema de PL
+>   - Modelagem em PL
+>   - Manipulação de Problemas de PL
+>   - Formulação Canônica e Padrão
+>   - Representação Geométrica de um Problema de PL
 > - **3. Método Simplex**
-> 	- Fundamentos Teóricos do Método Simplex
-> 	- O Algoritmo Simplex
-> 	- Casos Especiais para o Simplex
-> 	- Adaptação de Outras Formas de Modelo
-> 	- Dificuldades Computacionais
+>   - Fundamentos Teóricos do Método Simplex
+>   - O Algoritmo Simplex
+>   - Casos Especiais para o Simplex
+>   - Adaptação de Outras Formas de Modelo
+>   - Dificuldades Computacionais
 > - **4. Dualidade e Análise de Sensibilidade**
-> 	- Forma Simétrica
-> 	- Interpretação Econômica
-> 	- Teoria de Folgas Complementares
-> 	- Aplicações Computacionais
+>   - Forma Simétrica
+>   - Interpretação Econômica
+>   - Teoria de Folgas Complementares
+>   - Aplicações Computacionais
 > - **5. Otimização de Redes**
-> 	- Modelos de Redes
-> 	- Problemas de Transporte
-> 	- O Problema da Designação
-> 	- O Problema do Transbordo
-> 	- Modelos Determinístico de Estoque
+>   - Modelos de Redes
+>   - Problemas de Transporte
+>   - O Problema da Designação
+>   - O Problema do Transbordo
+>   - Modelos Determinístico de Estoque
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015.
 > 2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. ed. São Paulo, SP: Atlas, 2004.
 > 3. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman,
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 5. ANDRADE, E. L. Introdução à Pesquisa Operacional: Métodos e Modelos para Análise de Decisões.
 > 6. 5ª Edição. Rio de Janeiro: Atlas, 2014.
 > 7. GOLDBARG, M., LUNA, H. Otimização Combinatória e Programação Linear: Modelos e Algoritmos.
@@ -76,4 +81,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Pesquisa Operacional I|Anotações da Disciplina]]**

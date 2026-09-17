@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Química Experimental"
+title: Química Experimental
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Quimica Experimental|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Quimica Experimental|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,16 +24,16 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais. Ferramentas profissionais na área de química experimental. Teste de chama. Medidas de massa e de volume. Soluções. Reações químicas. Estequiometria. Titulação ácido-base. Termoquímica. Equilíbrio Químico. Cinética Química. Eletroquímica. Grupos funcionais orgânicos.
-> ### Objetivos
+> **Objetivos**
 > - Relacionar as práticas envolvidas nesta disciplina com a teoria abordada na disciplina de Química, de tal forma a contribuir para a aquisição do aprendizado teórico. Somado a isso, adquirir o conhecimento básico sobre as principais ferramentas profissionais utilizadas em um laboratório de química e compreender como a metodologia científica está envolvida desde o planejamento do experimento até a interpretação dos resultados.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
@@ -50,11 +55,11 @@ cssclasses:
 > - **15. Identificação de grupos funcionais orgânicos. Reatividade de álcoois, aldeídos, cetonas, ácidos carboxílicos e aminas.**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. BACCAN, N.; ANDRADE, J. C.; GODINHO, O. E. S.; BARONE, J. S. Química Analítica Quantitativa e Elementar. São Paulo: Edgard Blüche, 1998.
 > 2. MENDHAM, J.; DENNEY, R. C.; BARNES, J. D.; THOMAS, M. J. K. Vogel - Análise Química Quantitativa. 6 ed. Rio de Janeiro: LTC, 2002.
 > 3. VOGEL, A. I. Química Analítica Qualitativa. ed., São Paulo: Editora Mestre Jou, 1981.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. ATKINS, P. Princípios de Química: questionando a vida moderna e o meio ambiente, 5ª ed. Porto Alegre: Bookman, 2012.
 > 2. FIOROTTO, N. R. Técnicas Experimentais em Química – Normas e Procedimentos. 1 ed. São Paulo:
 > 3. Erica, 2014.
@@ -64,4 +69,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Quimica Experimental|Anotações da Disciplina]]**

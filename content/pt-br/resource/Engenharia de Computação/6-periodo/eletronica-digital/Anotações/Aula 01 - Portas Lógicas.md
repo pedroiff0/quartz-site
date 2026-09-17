@@ -1,15 +1,13 @@
 ---
 publish: true
-title: "Aula 01 - Portas Lógicas"
+title: Aula 01 - Portas Lógicas
 created: 2026-08-24 14:50
-modified: 2026-09-15 21:34
+modified: 2026-09-16 18:49
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
   - aula
-  - aula-01
   - engenharia-de-computacao
-  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---
@@ -21,7 +19,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 01 - Portas Lógicas
+# Aula - Portas Lógicas
 
 > [!info]  Informações da Aula
 > - **Docente:** Fabrício Barros Gonçalves
@@ -34,10 +32,12 @@ cssclasses:
 
 ## Materiais & Recursos Didáticos da Aula
 
-> [!tip] 🔗 Arquivos e Materiais da Disciplina
-> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
-> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
-> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
+<div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
+  <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
+  <div style="background: var(--lightgray, #e2e8f0); border-radius: 4px; overflow: hidden; height: 8px;">
+    <div style="background: var(--secondary, #6d28d9); width: 10%; height: 100%;"></div>
+  </div>
+</div>
 
 ## Sumário Interativo
 - [ Anotações](#-anotações)
@@ -54,7 +54,7 @@ Nesta aula de **Eletrônica Digital**, estudamos a transição da lógica matem�
 
 ---
 
-### 1. NÃO (NOT - Inversor)
+### . NÃO (NOT - Inversor)
 
 A porta **NOT** realiza a operação lógica de inversão ou complemento.
 
@@ -75,7 +75,7 @@ $$S = \bar{A}$$
 
 ---
 
-### 2. E (AND - Conjunção)
+### . E (AND - Conjunção)
 
 A porta **AND** gera saída alta ($1$) se e somente se todas as suas entradas forem altas ($1$).
 
@@ -98,7 +98,7 @@ $$S = A \cdot B$$
 
 ---
 
-### 3. OU (OR - Disjunção)
+### . OU (OR - Disjunção)
 
 A porta **OR** gera saída alta ($1$) quando pelo menos uma das suas entradas for alta ($1$).
 
@@ -121,7 +121,7 @@ $$S = A + B$$
 
 ---
 
-### 4. OU EXCLUSIVO (XOR)
+### . OU EXCLUSIVO (XOR)
 
 A porta **XOR** (Ou-Exclusivo) produz saída alta ($1$) se e somente se as entradas forem **diferentes**.
 
@@ -144,7 +144,7 @@ $$S = A \oplus B = \bar{A}B + A\bar{B}$$
 
 ---
 
-### 5. NÃO E (NAND - Porta Universal)
+### . NÃO E (NAND - Porta Universal)
 
 A porta **NAND** é a negação da saída da porta AND. É uma porta **universal**, pois qualquer circuito combinacional pode ser construído apenas com portas NAND.
 
@@ -167,7 +167,7 @@ $$S = \overline{A \cdot B}$$
 
 ---
 
-### 6. NÃO OU (NOR - Porta Universal)
+### . NÃO OU (NOR - Porta Universal)
 
 A porta **NOR** é a negação da porta OR. Também possui caráter de **universalidade**.
 
@@ -190,7 +190,7 @@ $$S = \overline{A + B}$$
 
 ---
 
-### 7. NÃO OU EXCLUSIVO (XNOR - Coincidência)
+### . NÃO OU EXCLUSIVO (XNOR - Coincidência)
 
 A porta **XNOR** gera saída alta ($1$) quando as entradas forem **iguais** (coincidência).
 
@@ -231,7 +231,7 @@ $$S = \overline{A \oplus B} = A B + \bar{A}\bar{B}$$
 
 Abaixo está o circuito completo com barramento/trilhos de sinal ($A, B, C$) e seus respectivos inversores (NOT), alimentando os mintermos e maxtermos e conectando à porta principal de saída ao final da expressão:
 
-#### 1. Circuito Mintermo (SOP): $S = \bar{A} B C + A \bar{B} C + A B \bar{C}$
+### . Circuito Mintermo (SOP): $S = \bar{A} B C + A \bar{B} C + A B \bar{C}$
 
 ```mermaid
 flowchart LR
@@ -267,7 +267,7 @@ flowchart LR
 
 ---
 
-#### 2. Circuito Maxtermo (POS): $S = (A + B + C) \cdot (\bar{A} + B + \bar{C}) \cdot (A + \bar{B} + C)$
+### . Circuito Maxtermo (POS): $S = (A + B + C) \cdot (\bar{A} + B + \bar{C}) \cdot (A + \bar{B} + C)$
 
 ```mermaid
 flowchart LR
@@ -303,7 +303,7 @@ flowchart LR
 
 ---
 
-#### 3. Leitura e Síntese de Expressão Complexa do Quadro
+### . Leitura e Síntese de Expressão Complexa do Quadro
 
 $$S = (A + B + C) \cdot \left\{ B \left[ (A + C) + \overline{B \cdot C} \right] \cdot (\bar{A} \cdot B \cdot \bar{C}) \right\}$$
 

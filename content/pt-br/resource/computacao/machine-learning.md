@@ -2,7 +2,7 @@
 publish: false
 title: Machine Learning
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -21,22 +21,22 @@ Aqui tem também uma conexão direta com a pesquisa deste site: trabalho com [[p
 
 ## Trilha de estudo
 
-### 1. Base matemática e Python científico (iniciante)
+### . Base matemática e Python científico (iniciante)
 
 Não dá para pular: álgebra linear (vetores, matrizes), estatística e probabilidade (distribuições, média/variância, teorema de Bayes) e noções de cálculo (derivada como taxa de variação — o gradiente vem daí). Em paralelo, o stack Python: NumPy, pandas e matplotlib. Pratique explorando datasets do [Kaggle](https://www.kaggle.com/) só com pandas, sem modelo nenhum ainda. Tempo típico: 6 a 8 semanas.
 
-### 2. Aprendizado supervisionado clássico (intermediário)
+### . Aprendizado supervisionado clássico (intermediário)
 
 O núcleo: regressão linear e logística, árvores de decisão, florestas aleatórias, k-vizinhos. Mais importante que os algoritmos, a metodologia — divisão treino/validação/teste, validação cruzada, métricas (e por que acurácia engana em dados desbalanceados). O [scikit-learn](https://scikit-learn.org/) é a ferramenta; o guia oficial dele é um curso disfarçado. Tempo típico: 8 a 10 semanas.
 
-### 3. Não supervisionado e engenharia de atributos (intermediário-avançado)
+### . Não supervisionado e engenharia de atributos (intermediário-avançado)
 
 Clustering (k-means, DBSCAN), redução de dimensionalidade (PCA) e detecção de anomalias — aprender estrutura sem rótulos. Junto, a habilidade que mais separa iniciantes de praticantes: engenharia de atributos, limpeza e preparação de dados, que consomem 80% do tempo de qualquer projeto real. Pratique em competições encerradas do Kaggle, estudando as soluções vencedoras depois. Tempo típico: 6 a 8 semanas.
 
 > [!example] Caso real: t-SNE em meio milhão de espectros estelares
 > Em [[pt-br/research/anomaly-detection/articles/traven2019|Traven et al. (2019)]], os autores tentam primeiro reduzir a dimensionalidade de ~587 mil espectros do levantamento GALAH com um autoencoder — o mapa 2D resultante não separa as classes de forma útil. Trocam para t-SNE, e o mapa revela, sem nenhum rótulo prévio, aglomerados que correspondem a estrelas binárias, gigantes pobres em metais e estrelas quentes de rotação rápida; o algoritmo DBSCAN então isola cada grupo automaticamente. É clustering e redução de dimensionalidade — os temas desta etapa — resolvendo um problema real de descoberta em astronomia, e ilustra também por que a escolha do algoritmo importa: nem toda técnica de redução de dimensionalidade produz um mapa útil para o mesmo dado.
 
-### 4. Redes neurais e especialização (avançado)
+### . Redes neurais e especialização (avançado)
 
 Do perceptron ao deep learning: backpropagation, redes convolucionais (imagens), arquiteturas para sequências e a família dos transformers. A partir daqui, escolha uma especialização — visão computacional, NLP, dados científicos — e acompanhe a literatura no [arXiv](https://arxiv.org/). Tempo típico: 10+ semanas, e a rigor não termina nunca.
 

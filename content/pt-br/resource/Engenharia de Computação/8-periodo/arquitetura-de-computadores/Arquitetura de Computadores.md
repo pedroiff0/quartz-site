@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Arquitetura de Computadores"
+title: Arquitetura de Computadores
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Arquitetura De Computadores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Arquitetura De Computadores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,48 +24,48 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; Barramentos de computadores pessoais; Interfaceamento via rede; Práticas de laboratório.
-> ### Objetivos
+> **Objetivos**
 > - Capacitar o aluno, através do conhecimento básico da arquitetura IA-32/IA-64, a interfacear e integrar novos projetos e produtos dentro dessa arquitetura que é a base da maioria dos computadores pessoais modernos.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/7-periodo/organizacao-de-computadores/Organização de Computadores|CSECBJI.52 - Organização de Computadores]]
 > - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-digitais/Sistemas Digitais|CSECBJI.53 - Sistemas Digitais]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Arquitetura IA-32 / IA-64**
-> 	- Operação em Modelo Real
-> 	- Operação em Modo Protegido
-> 	- Paginação de Memória
-> 	- Comutação de Tarefas em Ambiente Multitarefa
-> 	- Mecanismos de Interrupção
+>   - Operação em Modelo Real
+>   - Operação em Modo Protegido
+>   - Paginação de Memória
+>   - Comutação de Tarefas em Ambiente Multitarefa
+>   - Mecanismos de Interrupção
 > - **2. Memórias Dinâmicas e Subsistemas Cache**
-> 	- Memórias Dinâmicas
-> 	- Subsistemas Cache
+>   - Memórias Dinâmicas
+>   - Subsistemas Cache
 > - **3. Processamento Numérico e de Sinais**
-> 	- Processamento de Números Inteiros
-> 	- Processamento de Números Reais
-> 	- Processamento de Sinais em Computador com SIMD
+>   - Processamento de Números Inteiros
+>   - Processamento de Números Reais
+>   - Processamento de Sinais em Computador com SIMD
 > - **4. Barramentos Utilizados nos Computadores Pessoais**
-> 	- Barramento PCI e PCI-Express
-> 	- Barramento USB
-> 	- Outros Barramentos
+>   - Barramento PCI e PCI-Express
+>   - Barramento USB
+>   - Outros Barramentos
 > - **5. Interfaceamento Via Rede:**
-> 	- Protocolo TCP/IP
-> 	- Acesso à rede por software
+>   - Protocolo TCP/IP
+>   - Acesso à rede por software
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
 > 2. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
 > 3. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003.
 > 2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007.
 > 3. HENNESSY, J. Organização e Projeto de Computadores. 5ª Edição. São Paulo: Elsevier, 2017.
@@ -69,4 +74,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Arquitetura De Computadores|Anotações da Disciplina]]**

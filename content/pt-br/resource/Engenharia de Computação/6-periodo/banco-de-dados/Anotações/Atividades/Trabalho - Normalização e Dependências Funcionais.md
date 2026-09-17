@@ -1,44 +1,18 @@
 ---
 publish: true
 title: Trabalho - Normalização e Dependências Funcionais
-subtitle: Fundamentação Matemática das Dependências Funcionais e Decomposição em 1FN, 2FN e 3FN
-discipline: Banco de Dados
-period: 6-periodo
-professor: Pablo Manhães
-date: 2026-08-29
-status: concluido
-authors:
-  - Arthur de Oliveira Lima Potente
-  - Breno Luiz Silva do Carmo
-  - Isaac Salles Gonçalves
-  - Pedro Henrique Rocha de Andrade
-corresponding_author: Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>
-presenter: Pedro Henrique Rocha de Andrade
-short_title: Normalização & FN
+created: 2026-09-07 16:53
+modified: 2026-09-16 15:35
 encrypted: true
 password: eng232
-disciplina_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/banco-de-dados/
-trabalho_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/banco-de-dados/anotacoes/atividades/trabalho---normalizacao-e-dependencias-funcionais/
-roteiro_pdf: roteiro_iff_disciplina.pdf
-slides_latex_claro: slides_iff_disciplina.pdf
-slides_latex_escuro: slides_iff_disciplina_preto.pdf
-portal_institucional: https://portal1.iff.edu.br/
 tags:
-  - disciplina
-  - engenharia-de-computacao
-  - trabalho
-  - apresentacao
   - atividade
-  - banco-de-dados
-  - normalizacao
-  - dependencias-funcionais
-draft: false
+  - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - center-images
   - center-titles
-created: 2026-09-07 16:53
-modified: 2026-09-15 21:34
 ---
 
 # Trabalho - Normalização e Dependências Funcionais em Banco de Dados
@@ -54,17 +28,19 @@ modified: 2026-09-15 21:34
 > - [x]  Apresentar Trabalho: Normalização e Dependências Funcionais
 
 > [!important]  Acesso e Senha dos Arquivos
-> Os materiais gerados na pasta `_materiais/` e espelhados no Quartz Site são protegidos pela senha canônica:
+> Os materiais gerados na pasta `04 - Recursos/Livros e Apostilas/Engenharia/` e espelhados no Quartz Site são protegidos pela senha canônica:
 > **`eng232`**
 
 ---
 
 ## Recursos & Materiais da Disciplina
 
-> [!tip] 🔗 Arquivos e Materiais da Disciplina
-> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
-> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
-> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
+<div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
+  <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
+  <div style="background: var(--lightgray, #e2e8f0); border-radius: 4px; overflow: hidden; height: 8px;">
+    <div style="background: var(--secondary, #6d28d9); width: 10%; height: 100%;"></div>
+  </div>
+</div>
 
 ---
 ## Sumário Interativo
@@ -74,9 +50,9 @@ modified: 2026-09-15 21:34
 - [ 4. Comparativo de Esquemas, Garantias Formais & Conclusões](#-4-comparativo-de-esquemas-garantias-formais--conclusões)
 - [ 5. Referências Bibliográficas](#-5-referências-bibliográficas)
 ---
-## 1. Fundamentos & Motivação Teórica
+## . Fundamentos & Motivação Teórica
 
-### 1.1 O Papel da Teoria Relacional
+### . O Papel da Teoria Relacional
 O modelo relacional clássico proposto por **Edgar F. Codd (1970)** fundamenta o armazenamento e a recuperação de dados em conceitos matemáticos de conjuntos e lógica de predicados de primeira ordem. Em um ambiente operacional, esquemas relacionais mal projetados sofrem de três patologias graves decorrentes da **redundância de dados**:
 
 ```
@@ -98,7 +74,7 @@ O modelo relacional clássico proposto por **Edgar F. Codd (1970)** fundamenta o
                   └───────────────────────────────────────────┘
 ```
 
-### 1.2 O Conceito Central: Dependência Funcional (DF)
+### . O Conceito Central: Dependência Funcional (DF)
 Uma **Dependência Funcional** é uma restrição formal entre dois conjuntos de atributos $X$ e $Y$ pertencentes a uma relação $R$, denotada por:
 
 $$X \to Y \quad \text{("X determina funcionalmente Y")}$$
@@ -116,11 +92,11 @@ $$t_1[X] = t_2[X] \implies t_1[Y] = t_2[Y]$$
 
 ---
 
-## 2. O Cenário Não-Normalizado: Um Caso Prático de Engenharia
+## . O Cenário Não-Normalizado: Um Caso Prático de Engenharia
 
 Para ilustrar o processo completo de forma direta e compreensível em uma apresentação de 10 minutos, examinamos o sistema de alocação de projetos de um laboratório de engenharia:
 
-### 2.1 A Relação Universal Não-Normalizada (0FN)
+### . A Relação Universal Não-Normalizada (FN)
 Suponha uma tabela única `PROJETOS_ALOCACAO_UNIFICADA` que registra projetos de engenharia, funcionários alocados, seus departamentos e as linguagens/ferramentas utilizadas:
 
 $$\text{Tabela}( \underline{\text{Num\_Proj}}, \underline{\text{Num\_Emp}}, \text{Nome\_Emp}, \text{Cargo}, \text{Num\_Depto}, \text{Nome\_Depto}, \text{Cod\_Gerente}, \text{Habilidades}, \text{Nome\_Proj}, \text{Orcamento}, \text{Horas\_Semana} )$$
@@ -132,14 +108,14 @@ $$\text{Tabela}( \underline{\text{Num\_Proj}}, \underline{\text{Num\_Emp}}, \tex
 | **P102** | Visão Térmica | R$ 85.000 | **E01** | Pedro Andrade | Eng. Software | **D01** | Automação | G09 | Python, C++, SQL | 10 |
 | **P103** | Robô AGV | R$ 200.000 | **E03** | Breno Luiz | Eng. Controle | **D01** | Automação | G09 | C++, ROS, VHDL | 30 |
 
-### 2.2 Diagnóstico das Anomalias Práticas
+### . Diagnóstico das Anomalias Práticas
 1. **Anomalia de Inserção:** Não é possível cadastrar um novo departamento (ex: `D03 - Robótica`) sem alocar pelo menos um projeto e um empregado ativo.
 2. **Anomalia de Exclusão:** Se o projeto `P102` for cancelado e a linha for apagada, não perdemos o empregado porque ele está em `P101`. Porém, se `P103` for cancelado e sua linha excluída, **perdemos o registro de que Breno Luiz trabalha no D01**, pois ele só estava alocado naquele projeto!
 3. **Anomalia de Atualização:** O gerente do departamento `D01` está replicado em 3 linhas. Se o gerente mudar, todas as linhas devem ser atualizadas; se uma linha falhar, o banco entra em estado inconsistente.
 
 ---
 
-## 3. Dependências Funcionais & O Processo de Normalização Passo a Passo
+## . Dependências Funcionais & O Processo de Normalização Passo a Passo
 
 ```
        [ 0FN: Tabela Universal com Listas ]
@@ -154,7 +130,7 @@ $$\text{Tabela}( \underline{\text{Num\_Proj}}, \underline{\text{Num\_Emp}}, \tex
        [ 3ª Forma Normal (3FN): Sem Dependências Transitivas ]
 ```
 
-### 3.1 Mapeamento Formal das Dependências Funcionais
+### . Mapeamento Formal das Dependências Funcionais
 Analisando as regras de negócio do cenário:
 
 1. **$\text{DF}_1$ (Chave Composta $\to$ Atributo da Alocação):**
@@ -170,15 +146,15 @@ Analisando as regras de negócio do cenário:
 
 ---
 
-### 3.2 Passo 1: Transição para a 1ª Forma Normal (1FN)
+### . Passo : Transição para a ª Forma Normal (FN)
 
 > [!tip] Regra da 1FN
 > Uma relação $R$ está na **1FN** se e somente se todos os domínios subjacentes de seus atributos contêm apenas **valores atômicos (indivisíveis)** e não existem atributos multivalorados ou grupos repetitivos.
 
-#### Problema Identificado:
+### Problema Identificado:
 O atributo `Habilidades` contém múltiplos valores em uma mesma célula (e.g. `"Python, C++, SQL"`).
 
-#### Solução:
+### Solução:
 Isolar o atributo multivalorado em uma tabela associativa atômica `EMPREGADO_HABILIDADE`:
 
 $$\text{EMPREGADO\_HABILIDADE}( \underline{\text{Num\_Emp}}, \underline{\text{Habilidade}} )$$
@@ -189,19 +165,19 @@ $$\text{R\_1FN}( \underline{\text{Num\_Proj}}, \underline{\text{Num\_Emp}}, \tex
 
 ---
 
-### 3.3 Passo 2: Transição para a 2ª Forma Normal (2FN)
+### . Passo : Transição para a ª Forma Normal (FN)
 
 > [!tip] Regra da 2FN
 > Uma relação $R$ está na **2FN** se e somente se:
 > 1. Está na **1FN**;
 > 2. **Nenhum atributo não-primo é dependente parcial de qualquer chave candidata composta de $R$**. Todo atributo não-primo deve depender da totalidade de cada chave primária.
 
-#### Problema Identificado:
+### Problema Identificado:
 A chave primária de `R_1FN` é composta: $\{ \text{Num\_Proj}, \text{Num\_Emp} \}$.
 - $\text{DF}_2: \text{Num\_Proj} \to \{ \text{Nome\_Proj}, \text{Orcamento} \}$ $\implies$ Dependência Parcial!
 - $\text{DF}_3: \text{Num\_Emp} \to \{ \text{Nome\_Emp}, \text{Cargo}, \text{Num\_Depto}, \text{Nome\_Depto}, \text{Cod\_Gerente} \}$ $\implies$ Dependência Parcial!
 
-#### Solução (Decomposição em 2FN):
+### Solução (Decomposição em FN):
 Criamos relações separadas para cada determinante parcial:
 
 1. **`PROJETO`** (elimina a dependência parcial de `Num_Proj`):
@@ -216,7 +192,7 @@ Criamos relações separadas para cada determinante parcial:
 
 ---
 
-### 3.4 Passo 3: Transição para a 3ª Forma Normal (3FN)
+### . Passo : Transição para a ª Forma Normal (FN)
 
 > [!tip] Regra da 3FN
 > Uma relação $R$ está na **3FN** se e somente se:
@@ -227,7 +203,7 @@ Criamos relações separadas para cada determinante parcial:
 > - $X$ é uma superchave de $R$; **OU**
 > - $A$ é um atributo primo (membro de uma chave candidata).
 
-#### Problema Identificado:
+### Problema Identificado:
 Na tabela `EMPREGADO_TEMP`, a chave primária é $\text{Num\_Emp}$.
 Temos a cadeia transitiva:
 
@@ -235,7 +211,7 @@ $$\text{Num\_Emp} \xrightarrow{\text{DF}_3} \text{Num\_Depto} \xrightarrow{\text
 
 Como $\text{Num\_Depto}$ **não é uma superchave** de `EMPREGADO_TEMP` e $\{\text{Nome\_Depto}, \text{Cod\_Gerente}\}$ não são atributos primos, temos uma violação explícita da 3FN.
 
-#### Solução (Decomposição em 3FN):
+### Solução (Decomposição em FN):
 Extraímos a relação de departamento para sua própria tabela:
 
 1. **`DEPARTAMENTO`:**
@@ -247,9 +223,9 @@ Extraímos a relação de departamento para sua própria tabela:
 
 ---
 
-## 4. Comparativo de Esquemas, Garantias Formais & Conclusões
+## . Comparativo de Esquemas, Garantias Formais & Conclusões
 
-### 4.1 O Esquema Relacional Final Normalizado (3FN / BCNF)
+### . O Esquema Relacional Final Normalizado (FN / BCNF)
 
 O banco de dados final é composto por **5 relações especializadas e desacopladas**:
 
@@ -280,7 +256,7 @@ O banco de dados final é composto por **5 relações especializadas e desacopla
                                         └────────────────────────┘
 ```
 
-### 4.2 Garantias Matemáticas da Decomposição
+### . Garantias Matemáticas da Decomposição
 A normalização não é meramente uma escolha estética de design; ela possui provas formais:
 
 1. **Decomposição sem Perdas (*Lossless-Join Decomposition*):**
@@ -290,7 +266,7 @@ A normalização não é meramente uma escolha estética de design; ela possui p
 2. **Preservação de Dependências (*Dependency Preservation*):**
    Todas as dependências funcionais originais do conjunto $F$ podem ser verificadas dentro de tabelas individuais, sem necessidade de realizar `JOINs` computacionalmente caros em restrições de integridade (*CHECK constraints* / *Triggers*).
 
-### 4.3 Tabela Comparativa de Avaliação
+### . Tabela Comparativa de Avaliação
 
 | Métrica / Critério                 |          Esquema 0FN (Tabela Única)           |                 Esquema 3FN (Normalizado)                 |
 | :--------------------------------- | :-------------------------------------------: | :-------------------------------------------------------: |
@@ -302,7 +278,7 @@ A normalização não é meramente uma escolha estética de design; ela possui p
 
 ---
 
-## 5. Referências Bibliográficas
+## . Referências Bibliográficas
 - 1. ELMASRI, Ramez; NAVATHE, Shamkant B. *Sistemas de Banco de Dados*. 7. ed. São Paulo: Pearson, 2018. (Capítulo 14: Teoria de Projeto de Bancos de Dados Relacionais e Dependências Funcionais; Capítulo 15: Algoritmos de Projeto de Bancos de Dados Relacionais).
 - 2. SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. *Sistema de Banco de Dados*. 6. ed. Rio de Janeiro: Elsevier, 2012. (Capítulo 8: Projeto de Banco de Dados Relacional).
 - 3. CODD, Edgar F. *A Relational Model of Data for Large Shared Data Banks*. Communications of the ACM, v. 13, n. 6, p. 377-387, 1970.

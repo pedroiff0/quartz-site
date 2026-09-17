@@ -2,7 +2,7 @@
 publish: false
 title: Arquitetura de Computadores
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -22,19 +22,19 @@ Pra Engenharia de Computação, esse conhecimento é ainda menos opcional: nas d
 
 ## Trilha de estudo
 
-### 1. Organização básica (4–6 semanas)
+### . Organização básica (– semanas)
 
 O que dominar: o modelo de von Neumann de perto — CPU (UC, ULA, registradores), barramentos, memória e E/S; o ciclo de instrução em detalhe; medidas de desempenho (clock, CPI, MIPS). O que praticar: desenhar o caminho de dados de uma instrução simples (um `add` entre registradores) do fetch ao write-back, nomeando cada componente que ela atravessa.
 
-### 2. Conjunto de instruções e assembly (4–6 semanas)
+### . Conjunto de instruções e assembly (– semanas)
 
 O que dominar: o que é uma ISA, modos de endereçamento, RISC vs. CISC, e ler/escrever assembly básico (MIPS ou RISC-V são os didáticos; x86 e ARM são os que você encontra na vida). O que praticar: compilar funções C simples e comparar com o assembly gerado no Compiler Explorer — é a forma mais rápida de "ver" a ISA funcionando.
 
-### 3. Hierarquia de memória e pipeline (6–8 semanas)
+### . Hierarquia de memória e pipeline (– semanas)
 
 O que dominar: caches (mapeamento, localidade temporal e espacial, políticas de substituição), memória virtual do ponto de vista do hardware (TLB), e pipeline com seus hazards (estruturais, de dados, de controle) e soluções (forwarding, previsão de desvio). O que praticar: exercícios numéricos de taxa de acerto de cache e de ciclos perdidos por hazard — este é o coração quantitativo da disciplina.
 
-### 4. Paralelismo e embarcados (6–8 semanas)
+### . Paralelismo e embarcados (– semanas)
 
 O que dominar: superescalar, multicore, coerência de cache em alto nível; e do lado embarcado, a anatomia de um microcontrolador — GPIO, interrupções, timers, conversores AD, memória flash vs. RAM. O que praticar: um projeto real com Arduino ou similar (o Tinkercad simula de graça), fazendo questão de ler o datasheet em vez de só copiar sketch pronto.
 

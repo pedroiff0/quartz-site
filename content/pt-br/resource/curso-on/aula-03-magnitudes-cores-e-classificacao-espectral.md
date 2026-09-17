@@ -2,7 +2,7 @@
 publish: false
 title: Aula 03 — Magnitudes, Cores e Classificação Espectral
 created: 2026-07-23 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -20,7 +20,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|← Aula 02 — Diagrama HR e Aglomerados Estelares]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|Aula 04 — Espectroscopia e Metalicidade →]]
 
-# Aula 03 — Magnitudes, Cores e Classificação Espectral
+# Aula — Magnitudes, Cores e Classificação Espectral
 
 > [!note] Resumo
 > Como quantificar o brilho das estrelas — da escala de Hiparco à magnitude absoluta — e como os índices de cor, derivados dessa escala, permitem inferir a temperatura de milhares de estrelas sem precisar de um espectro individual para cada uma.

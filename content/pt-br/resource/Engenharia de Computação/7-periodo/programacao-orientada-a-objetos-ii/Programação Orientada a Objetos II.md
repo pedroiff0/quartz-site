@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Programação Orientada a Objetos II"
+title: Programação Orientada a Objetos II
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Programacao Orientada A Objetos Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Programacao Orientada A Objetos Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,16 +24,16 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.
-> ### Objetivos
+> **Objetivos**
 > - Aprofundar os conhecimentos acerca de programação orientado à objetos;
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/Programação Orientada a Objetos I|CSECBJI.45 - Programação Orientada a Objetos I]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/eletivas/desenvolvimento-web/Desenvolvimento Web|CSECBJI.79 - Desenvolvimento Web]]
 
 
@@ -36,11 +41,11 @@ cssclasses:
 > - **1. -**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. FREEMAN, E.; FREEMAN, E. Use a cabeça! Padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books, 5.
 > 2. GAMMA, E., HELM, R., JHONSON, R., VLISSIDES, J. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. Porto Alegre: Bookman, 2000.
 > 3. SILVEIRA, P., SILVEIRA, G., LOPES, S., MOREIRA, G., STEPPAT, N., KUNG, F. Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java. São Paulo: Elsevier, 2011.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017.
 > 2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier,
 > 3. DENNIS, A., WIXOM, B. H., ROTH, R. H. Análise e Projeto de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 9. ENGHOLM JR., H. Análise e Design Orientados a Objetos. São Paulo: Novatec, 2013.
@@ -48,4 +53,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Programacao Orientada A Objetos Ii|Anotações da Disciplina]]**

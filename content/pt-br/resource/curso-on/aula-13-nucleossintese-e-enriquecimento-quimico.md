@@ -2,7 +2,7 @@
 publish: false
 title: Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|← Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos →]]
 
-# Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
+# Aula — Nucleossíntese Estelar e Enriquecimento Químico
 
 > [!note] Resumo
 > De onde vêm os elementos químicos que a arqueologia galáctica usa como "fósseis"? Esta aula percorre a nucleossíntese primordial (Big Bang) e todos os processos nucleossintéticos estelares identificados por Burbidge, Burbidge, Fowler & Hoyle (1957) — queima de H e He, dragagens, processos alfa/e/s/i/r/p/x/neutrino — fechando com o efeito da metalicidade na massa típica das estrelas que se formam.

@@ -2,7 +2,7 @@
 publish: false
 title: Lógica de Computação
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -22,19 +22,19 @@ E vai além do `if`: consultas SQL são lógica de predicados disfarçada, expre
 
 ## Trilha de estudo
 
-### 1. Lógica proposicional (3–4 semanas)
+### . Lógica proposicional (– semanas)
 
 O que dominar: proposições, conectivos (E, OU, NÃO, implicação, bicondicional), tabelas-verdade, tautologias e equivalências (De Morgan, contrapositiva, distributividade). O que praticar: construir tabelas-verdade à mão para expressões com 3+ variáveis e simplificar expressões booleanas até o mínimo. Meta: olhar `!(a || !b)` e reescrever como `!a && b` sem hesitar.
 
-### 2. Lógica de predicados e demonstrações (4–6 semanas)
+### . Lógica de predicados e demonstrações (– semanas)
 
 O que dominar: quantificadores (∀, ∃), negação de sentenças quantificadas, e as técnicas de demonstração — direta, por contrapositiva, por contradição e por indução. O que praticar: provar afirmações simples ("a soma de dois pares é par", "√2 é irracional") escrevendo cada passo. Indução merece atenção dobrada: é ela que justifica recursão e invariantes de laço.
 
-### 3. Estruturas discretas (6–8 semanas)
+### . Estruturas discretas (– semanas)
 
 O que dominar: teoria de conjuntos, relações (equivalência, ordem), funções (injetora, sobrejetora, bijetora), princípios de contagem e uma introdução a grafos. O que praticar: exercícios de contagem (permutações, combinações) e modelar problemas reais como grafos — mapa de amizades, dependências entre disciplinas, malha de rotas.
 
-### 4. Aplicações computacionais (contínuo)
+### . Aplicações computacionais (contínuo)
 
 O que dominar: a ponte entre a teoria e o código — álgebra booleana em circuitos, predicados em SQL, indução em análise de algoritmos, grafos em estruturas de dados. O que praticar: sempre que encontrar um conceito em outra disciplina, voltar aqui e identificar de qual pedaço da lógica ele veio. Essa costura é o que consolida o aprendizado.
 

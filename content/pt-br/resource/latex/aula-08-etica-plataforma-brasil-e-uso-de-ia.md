@@ -1,7 +1,7 @@
 ---
 title: "Aula 08: Ética na Pesquisa (Plataforma Brasil) e IA"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-08-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-08-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-08-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Aspectos éticos da investigação científica em seres humanos e processamento de dados discentes/usuarios. Tramitação na Plataforma Brasil (CEP/CONEP) e regimento institucional de uso transparente de Inteligência Artificial Generativa.
 
-### 1. Comitê de Ética em Pesquisa (CEP/CONEP) e Termo TCLE
+### . Comitê de Ética em Pesquisa (CEP/CONEP) e Termo TCLE
 
 Regulamentação das pesquisas envolvendo seres humanos (testes de usabilidade, questionários, testes de interface de software). Confecção do Termo de Consentimento Livre e Esclarecido (TCLE).
 
-### 2. Integridade Acadêmica: Prevenção ao Plágio e Autoplágio
+### . Integridade Acadêmica: Prevenção ao Plágio e Autoplágio
 
 Análise jurídica e acadêmica sobre violação de direitos autorais. Ferramentas automatizadas de detecção de similaridade e técnicas de paráfrase com citação compulsória.
 
-### 3. Diretrizes Institucionais para Uso de IA (LLMs)
+### . Diretrizes Institucionais para Uso de IA (LLMs)
 
 Regramento do uso de modelos de linguagem (ChatGPT, Claude, Gemini) na escrita acadêmica: proibição de autoria por IA, obrigatoriedade de declaração de uso na metodologia e atribuição dos resultados gerados.
 

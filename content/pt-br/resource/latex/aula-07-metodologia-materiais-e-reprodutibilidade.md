@@ -1,7 +1,7 @@
 ---
 title: "Aula 07: Metodologia, Materiais e Reprodutibilidade na ABNT"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-07-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-07-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-07-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Redação da Seção de Metodologia/Materiais e Métodos. Princípios de reprodutibilidade científica, detalhamento de bancadas de teste, conjuntos de dados (*datasets*), métricas de avaliação e arquitetura de hardware e software.
 
-### 1. Caracterização da Pesquisa e Tipologia Metodológica
+### . Caracterização da Pesquisa e Tipologia Metodológica
 
 Classificação quanto à natureza (básica/aplicada), abordagem (qualitativa/quantitativa), objetivos (exploratória/descritiva/explicativa) e procedimentos (experimental, estudo de caso, pesquisa-ação).
 
-### 2. Descrição de Materiais, Equipamentos e Datasets
+### . Descrição de Materiais, Equipamentos e Datasets
 
 Detalhamento de especificações técnicas de hardware (processadores, memória, placas gráficas GPU), software (versões de sistemas operacionais, linguagens de programação, bibliotecas) e conjuntos de dados abertos.
 
-### 3. Métricas de Desempenho e Validação Reprodutível
+### . Métricas de Desempenho e Validação Reprodutível
 
 Definição formal das métricas matemáticas de avaliação (Acurácia, Precisão, Pontuação F1, Tempo de Execução, Consumo de Memória, Throughput) e protocolo de replicação experimental.
 

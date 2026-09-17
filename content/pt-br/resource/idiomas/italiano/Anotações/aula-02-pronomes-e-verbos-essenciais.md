@@ -8,7 +8,7 @@ tags:
   - italiano
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 02 — Pronomes Pessoais e os Verbos Essere e Avere
+# Aula — Pronomes Pessoais e os Verbos Essere e Avere
 
 > [!info] Metadados da Lição
 > - **Idioma:** Italiano | **Nível Alvo:** A1

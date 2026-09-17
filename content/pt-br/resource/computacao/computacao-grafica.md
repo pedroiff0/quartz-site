@@ -2,7 +2,7 @@
 publish: false
 title: Computação Gráfica
 created: 2026-07-26 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -22,25 +22,25 @@ Todo jogo, toda simulação, toda ferramenta de visualização científica passa
 
 ## Trilha de estudo
 
-### 1. Dispositivos gráficos e o pipeline gráfico (2 semanas)
+### . Dispositivos gráficos e o pipeline gráfico ( semanas)
 
 O que dominar: como imagens são apresentadas em monitores (varredura de pixels), espaços de cor (RGB para exibição, HSV para manipulação intuitiva de matiz/saturação/brilho), e uma visão geral do **pipeline gráfico**: a sequência de estágios que transforma vértices 3D em pixels coloridos na tela (transformação de vértices → rasterização → sombreamento de fragmentos → saída). O que praticar: identificar, num jogo ou render qualquer, em que estágio do pipeline aconteceria cada efeito visual que você observa (iluminação, textura, sombra).
 
 ![O pipeline de renderização do Direct3D 11: cada estágio processa a geometria e produz a entrada do próximo, do vértice bruto ao pixel final na tela.](https://commons.wikimedia.org/wiki/Special:FilePath/Direct3D_11_Render_Pipeline.svg)
 
-### 2. Primitivas gráficas e modelagem geométrica (2–3 semanas)
+### . Primitivas gráficas e modelagem geométrica (– semanas)
 
 O que dominar: como primitivas simples (ponto, reta, circunferência, polígono) são rasterizadas — o algoritmo de Bresenham para retas é o exemplo clássico de "como desenhar uma linha reta usando só aritmética inteira"; e como objetos mais complexos são modelados via triangulação de polígonos, vetores normais (essenciais pra iluminação) e operações de conjuntos (união, interseção, diferença entre sólidos — CSG). O que praticar: triangular manualmente um polígono não convexo simples e calcular o vetor normal de cada triângulo resultante.
 
-### 3. Sistemas de coordenadas e transformações 2D/3D (2–3 semanas)
+### . Sistemas de coordenadas e transformações D/D (– semanas)
 
 O que dominar: coordenadas homogêneas (adicionar uma dimensão extra pra representar translação como multiplicação de matriz, não soma), as matrizes de escala, translação e rotação, e como compor várias transformações numa única matriz; a cadeia de sistemas de coordenadas que todo objeto atravessa — espaço do objeto → espaço do mundo → espaço da câmera → espaço da tela. O que praticar: compor manualmente a matriz de "rotacionar 90° e depois transladar" e verificar que a ordem das multiplicações importa (transformações não comutam).
 
-### 4. Algoritmos de projeção, recorte e visibilidade (3 semanas)
+### . Algoritmos de projeção, recorte e visibilidade ( semanas)
 
 O que dominar: projeção paralela vs. projeção em perspectiva (a diferença entre "sem distorção de distância" e "objetos distantes parecem menores", como o olho humano vê); o algoritmo de **Z-buffer** para decidir qual objeto está na frente quando vários se sobrepõem; uma visão geral de **ray tracing** (traçar raios de luz da câmera até os objetos, ao invés de rasterizar triângulos) — mais realista, mais caro computacionalmente, e por isso historicamente reservado a renderização offline (cinema) até GPUs recentes viabilizarem ray tracing em tempo real. O que praticar: para uma cena com dois objetos sobrepostos, simular manualmente o teste de Z-buffer pixel a pixel.
 
-### 5. Iluminação e shading (2 semanas)
+### . Iluminação e shading ( semanas)
 
 O que dominar: o modelo de iluminação de Phong (componentes ambiente, difusa e especular — a soma que faz uma esfera 3D parecer ter volume e brilho), mapeamento de textura (colar uma imagem 2D sobre uma superfície 3D), e uma introdução a sombras e reflexão. O que praticar: para uma esfera iluminada por uma única fonte de luz, esboçar como cada componente do modelo de Phong contribui separadamente para o resultado final.
 
