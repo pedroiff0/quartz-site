@@ -22,4 +22,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[Anotações — Sistemas Operacionais I\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
-| [[Aula 01 - Apresentação SO\|Aula 01 - Apresentação SO]] | 03/09/2026 |
+| [[Aula 01 - Apresentação SO\|Aula - Apresentação SO]] | 03/09/2026 |

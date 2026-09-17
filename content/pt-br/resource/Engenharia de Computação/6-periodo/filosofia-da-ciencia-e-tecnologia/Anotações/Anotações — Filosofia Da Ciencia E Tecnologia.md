@@ -22,3 +22,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[Anotações — Filosofia Da Ciencia E Tecnologia\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
+| [[Aula 01 - Introdução à Filosofia\|Aula 01 - Introdução à Filosofia (Miguel Reale)]] | 01/09/2026 |
+| [[Aula 02 - Filosofia da Tecnologia\|Aula 02 - Filosofia da Tecnologia (Alberto Cupani)]] | 08/09/2026 |

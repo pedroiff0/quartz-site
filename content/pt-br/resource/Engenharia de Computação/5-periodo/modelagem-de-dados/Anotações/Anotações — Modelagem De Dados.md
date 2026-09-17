@@ -26,5 +26,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | [[260423-AtividadeClassroom\|260423-AtividadeClassrooom]] | 23/04/2026 |
 | [[260508-Atributos\|Aula: Atributos]] | 08/05/2026 |
 | [[260515-Aula 1505\|260515-Aula05]] | 15/05/2026 |
-| [[260630-3006\|Aula: 3006]] | 30/06/2026 |
+| [[260630-3006\|Notas de Aula -]] | 30/06/2026 |
 | [[Anotações — Modelagem De Dados\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
