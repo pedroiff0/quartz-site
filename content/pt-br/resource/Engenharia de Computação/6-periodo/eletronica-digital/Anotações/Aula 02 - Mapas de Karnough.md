@@ -1,15 +1,13 @@
 ---
 publish: true
-title: "Aula 02 - Mapas de Karnough"
+title: Aula 02 - Mapas de Karnough
 created: 2026-08-31 17:02
-modified: 2026-09-15 21:34
+modified: 2026-09-16 18:49
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
   - aula
-  - aula-02
   - engenharia-de-computacao
-  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---
@@ -21,7 +19,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 02 - Mapas de Karnough
+# Aula - Mapas de Karnough
 
 > [!info]  Informações da Aula
 > - **Docente:** 
@@ -34,10 +32,12 @@ cssclasses:
 
 ## Materiais & Recursos Didáticos da Aula
 
-> [!tip] 🔗 Arquivos e Materiais da Disciplina
-> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
-> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
-> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
+<div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
+  <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
+  <div style="background: var(--lightgray, #e2e8f0); border-radius: 4px; overflow: hidden; height: 8px;">
+    <div style="background: var(--secondary, #6d28d9); width: 10%; height: 100%;"></div>
+  </div>
+</div>
 
 ## Sumário Interativo
 - [ Anotações](#-anotações)
@@ -46,14 +46,14 @@ cssclasses:
 ---
 ## Anotações
 
-### 31/08
+### /
 
-##### Mapas de Karnough
+### Mapas de Karnough
 
 > Simplificação de Expressões Boleanas
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.122]*
 
-##### 2 Variáveis
+### Variáveis
 
 | Casos     | $\bar{B}$ | ${B}$ |
 | --------- | --------- | ----- |
@@ -72,7 +72,7 @@ $$S= \bar{A}\bar{B} + \bar{A}B + A\bar{B} + AB$$
 |  0  |  1  |
 |  1  |  0  |
 |  1  |  1  |
-###### Caso 1: Quádrupla 
+### Caso : Quádrupla
 
 | Casos     | $\bar{B}$ | ${B}$ |
 | --------- | --------- | ----- |
@@ -82,7 +82,7 @@ $$S' = 1$$
 
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.125]*
 
-###### Caso 2: Dupla
+### Caso : Dupla
 
 $$S= A\bar{B} + AB$$
 
@@ -92,7 +92,7 @@ $$S= A\bar{B} + AB$$
 | ${A}$     | ==1==     | ==1== |
 $$S'= A$$ Sempre deixar oq é comum entre si, nesse caso A; B variou. 
 
-###### Caso 3: Dupla Inverso
+### Caso : Dupla Inverso
 
 $$S= \bar{A}\bar{B} + \bar{A}B$$
 
@@ -103,7 +103,7 @@ $$S= \bar{A}\bar{B} + \bar{A}B$$
 $$S'= \bar{A}$$
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.126]*
 
-###### Caso 4: Dupla Lateral
+### Caso : Dupla Lateral
 $$S= \bar{A}{B} + {A}B$$
 
 | Casos     | $\bar{B}$ | ${B}$ |
@@ -112,7 +112,7 @@ $$S= \bar{A}{B} + {A}B$$
 | ${A}$     | 0         | ==1== |
 $$S'= {B}$$
 
-###### Caso 5: Dupla Inversa
+### Caso : Dupla Inversa
 
 $$S= \bar{A}\bar{B} + {A}\bar{B}$$
 
@@ -122,11 +122,11 @@ $$S= \bar{A}\bar{B} + {A}\bar{B}$$
 | ${A}$     | ==1==     | 0     |
 $$S'= \bar{B}$$
 
-###### Caso 6: Termos Isolados
+### Caso : Termos Isolados
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.126]*
 
 
-###### Caso 7: Se todas forem 0, então $S=0$
+### Caso : Se todas forem , então $S=$
 
 |  A  |  B  | S   |
 | :-: | :-: | --- |
@@ -135,7 +135,7 @@ $$S'= \bar{B}$$
 |  1  |  0  | 1   |
 |  1  |  1  | 1   |
 
-##### 3 Variáveis
+### Variáveis
 $$S= \bar{A}B + A\bar{B} + AB$$
 
 | Caso |  A  |  B  | C   |
@@ -157,7 +157,7 @@ $$S= \bar{A}B + A\bar{B} + AB$$
 
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.130]*
 
-###### Caso 1: Oitava
+### Caso : Oitava
 | Casos     | $\bar{B}$ | $\bar{B}$ | ${B}$ | ${B}$     |
 | --------- | --------- | --------- | ----- | --------- |
 | $\bar{A}$ | 1         | 1         | 1     | 1         |
@@ -167,7 +167,7 @@ $$S=\bar{A}\bar{B}\bar{C}+\bar{A}\bar{B}{C}+{A}\bar{B}\bar{C}+{A}\bar{B}{C} + \b
 $$S'= 1$$
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.131]*
 
-###### Caso 2: Quadra Superior
+### Caso : Quadra Superior
 
 | Casos     | $\bar{B}$ | $\bar{B}$ | ${B}$ | ${B}$     |
 | --------- | --------- | --------- | ----- | --------- |
@@ -178,7 +178,7 @@ $$S=\bar{A}\bar{B}\bar{C}+\bar{A}\bar{B}{C}+\bar{A}{B}{C}+\bar{A}{B}\bar{C}$$
 $$S'= \bar{A}$$
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.132]*
 
-###### Caso 3: Quadra Lateral
+### Caso : Quadra Lateral
 
 | Casos     | $\bar{B}$ | $\bar{B}$ | ${B}$ | ${B}$     |
 | --------- | --------- | --------- | ----- | --------- |
@@ -187,7 +187,7 @@ $$S'= \bar{A}$$
 | Casos     | $\bar{C}$ | C         | C     | $\bar{C}$ |
 $$S=\bar{A}\bar{B}\bar{C}+\bar{A}\bar{B}{C}+{A}\bar{B}\bar{C}+{A}\bar{B}{C}$$
 $$S'= \bar{B}$$
-###### Caso 4: 2 Quadras
+### Caso : Quadras
 
 | Casos     | $\bar{B}$ | $\bar{B}$ | ${B}$ | ${B}$     |
 | --------- | --------- | --------- | ----- | --------- |
@@ -196,7 +196,7 @@ $$S'= \bar{B}$$
 | Casos     | $\bar{C}$ | C         | C     | $\bar{C}$ |
 $$S=\bar{A}\bar{B}\bar{C}+\bar{A}\bar{B}{C}+{A}\bar{B}\bar{C}+{A}\bar{B}{C} + \bar{A}{B}{C} + {A}{B}{C}$$
 $$S'= \bar{B} + C$$
-###### Caso 5: Pares
+### Caso : Pares
 
 | Casos     | $\bar{B}$ | $\bar{B}$ | ${B}$ | ${B}$     |
 | --------- | --------- | --------- | ----- | --------- |
@@ -205,7 +205,7 @@ $$S'= \bar{B} + C$$
 | Casos     | $\bar{C}$ | C         | C     | $\bar{C}$ |
 $$S=$$
 $$S'=$$
-###### Caso 6: Isolados
+### Caso : Isolados
 
 | Casos     | $\bar{B}$ | $\bar{B}$ | ${B}$ | ${B}$     |
 | --------- | --------- | --------- | ----- | --------- |
@@ -214,7 +214,7 @@ $$S'=$$
 | Casos     | $\bar{C}$ | C         | C     | $\bar{C}$ |
 $$S=$$
 $$S'=$$
-##### Exemplo do livro
+### Exemplo do livro
 | Caso |  A  |  B  | C   | S   | Min termos |
 | :--: | :-: | :-: | --- | --- | ---------- |
 |  0   |  0  |  0  | 0   | 0   |            |
@@ -251,7 +251,7 @@ $$S'=\bar{A}C + A\bar{B} + A\bar{C}$$
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.133]*
 
 
-##### 4 Variáveis
+### Variáveis
 
 | Caso |  A  |  B  | C   | D   |
 | :--: | :-: | :-: | --- | --- |
@@ -282,19 +282,19 @@ $$S'=\bar{A}C + A\bar{B} + A\bar{C}$$
 
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.136]*
 
-###### Caso 1: Hexas
+### Caso : Hexas
 
 Tudo é 1, logo S = 1
 
 
-###### Caso 2: Oitavas
+### Caso : Oitavas
 
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.139]*
 
-###### Caso 3: Quadras
+### Caso : Quadras
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.139]*
 
-###### Caso 4: Pares
+### Caso : Pares
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.138]*
 
 

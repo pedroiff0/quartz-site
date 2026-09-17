@@ -1,41 +1,16 @@
 ---
 publish: true
-title: "Trabalho - Espaço Cultural"
-subtitle:
-discipline:
-period:
-professor:
-date: 2026-09-10
-status: planejando
-authors:
-  - Pedro Henrique Rocha de Andrade
-  - Ana Cecília Soja
-  - Maria Luiza Dantas
-corresponding_author: "Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>"
-presenter: "Pedro Henrique Rocha de Andrade"
-short_title: "Tópico 1"
+title: Trabalho - Espaço Cultural
+created: 2026-09-10 14:04
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
-
-# Links e Materiais do Trabalho & Slides (LaTeX / Quartz)
-disciplina_url: ""
-trabalho_url: ""
-roteiro_pdf: "roteiro_iff_disciplina.pdf"
-slides_latex_claro: "slides_iff_disciplina.pdf"
-slides_latex_escuro: "slides_iff_disciplina_preto.pdf"
-portal_institucional: "https://portal1.iff.edu.br/"
-
+password: eng232
 tags:
-  - disciplina
-  - engenharia-de-computacao
-  - trabalho
-  - apresentacao
   - atividade
-draft: false
+  - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
-created: 2026-09-10 14:04
-modified: 2026-09-15 21:34
 ---
 
 # Trabalho - Espaço Cultural
@@ -51,17 +26,19 @@ modified: 2026-09-15 21:34
 > - [ ]  Apresentar Trabalho: Trabalho - Espaço Cultural
 
 > [!important]  Acesso e Senha dos Arquivos
-> Os materiais gerados na pasta `_materiais/` e espelhados no Quartz Site são protegidos pela senha canônica:
+> Os materiais gerados na pasta `04 - Recursos/Livros e Apostilas/Engenharia/` e espelhados no Quartz Site são protegidos pela senha canônica:
 > **`eng232`**
 
 ---
 
 ## Recursos & Materiais da Disciplina
 
-> [!tip] 🔗 Arquivos e Materiais da Disciplina
-> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
-> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
-> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
+<div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
+  <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
+  <div style="background: var(--lightgray, #e2e8f0); border-radius: 4px; overflow: hidden; height: 8px;">
+    <div style="background: var(--secondary, #6d28d9); width: 10%; height: 100%;"></div>
+  </div>
+</div>
 
 > [!info]  Guia das Propriedades de Links e Apresentação
 > - **`disciplina_url`**: URL aberta ao clicar no **Nome da Disciplina** no cabeçalho superior dos slides. *(Deixe vazio para cálculo automático)*.
@@ -88,26 +65,26 @@ modified: 2026-09-15 21:34
 
 ---
 
-## 1. Introdução & Contextualização
+## . Introdução & Contextualização
 - **Conceitos Fundamentais:** ...
 - **Problemática Abordada:** ...
 - **Objetivos:** ...
 
 ---
 
-## 2. Metodologia & Desenvolvimento
+## . Metodologia & Desenvolvimento
 - **Ferramentas Utilizadas:** ...
 - **Etapas Práticas:** ...
 
 ---
 
-## 3. Resultados & Discussão
+## . Resultados & Discussão
 - **Análise dos Dados:** ...
 - **Validação com a Teoria:** ...
 
 ---
 
-## 4. Conclusões
+## . Conclusões
 - **Síntese:** ...
 - **Próximos Passos:** ...
 

@@ -1,14 +1,13 @@
 ---
 publish: true
-title: "260405-Aula-Diodos-1"
+title: 260405-Aula-Diodos-1
 created: 2026-04-05 14:49
-modified: 2026-09-14 20:12
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
   - aula
   - engenharia-de-computacao
-  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---
@@ -17,9 +16,9 @@ cssclasses:
 ## Anotações
 ***
 > [!NOTE] Atenção: Leitura do capítulo de Diodo do Livro do Malvino
-### 2 Semicondutores
+### Semicondutores
 
-### 3 Diodos
+### Diodos
 
 Fichamento:
 
@@ -48,20 +47,20 @@ Fichamento:
 > [!important] **Eletronica Vol 1 - 8Ed Malvino, p.95**
 > > Já os circuitos digitais geralmente operam com apenas dois níveis de tensões distintas, nível alto e nível baixo, representados por estados lógicos “1” e “0”, respectivamente.
 
-#### Básico
+### Básico
 > [!note] **Eletronica Vol 1 - 8Ed Malvino, p.96**
 > > Um diodo é um dispositivo não linear. A tensão de joelho, aproximadamente de 0,7 V para um diodo de silício é onde a curva direta vira para cima. A resistência de corpo é a resistência ôhmica das regiões p e n. Os diodos têm valores de corrente direta máxima e faixas de potência.
 
-#### Diodo Ideal
+### Diodo Ideal
 > [!note] **Eletronica Vol 1 - 8Ed Malvino, p.96**
 > > O circuito equivalente é uma chave que fecha quando a polarização é direta e abre quando a polarização é reversa.
 
-#### Segunda Aproximação
+### Segunda Aproximação
 > [!note] **Eletronica Vol 1 - 8Ed Malvino, p.96**
 > > diodo de silício como uma chave em série com uma tensão de joelho de 0,7 V. Se a tensão equivalente de Thevenin que chega ao diodo for maior que 0,7 V, a chave fecha.
 
 
-#### Terceira aproximação
+### Terceira aproximação
 > [!note] **Eletronica Vol 1 - 8Ed Malvino, p.96**
 > > a resistência de corpo é geralmente baixa o suficiente para ser desprezada. Nesta aproximação visualizamos o diodo como uma chave em série com uma tensão de joelho e uma resistência de corpo.
 

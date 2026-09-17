@@ -1,7 +1,7 @@
 ---
 title: "Aula 14: Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-14-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Programação de elementos gráficos vetoriais diretamente no código TeX. Construção de esquemas de rede, arquiteturas de sistemas, circuitos lógicos e plotagem gráfica de dados experimentais em alta resolução sem perda de qualidade.
 
-### 1. Sintaxe Fundamental do `tikz` e Noção de Nós (*Nodes*)
+### . Sintaxe Fundamental do `tikz` e Noção de Nós (*Nodes*)
 
 Desenho de formas primitivas, linhas, setas e nós com coordenadas relativas e absolutas. Uso de estilos customizados para criação de diagramas em blocos de arquitetura de software.
 
-### 2. Plotagem Científica de Dados com `pgfplots`
+### . Plotagem Científica de Dados com `pgfplots`
 
 Plotagem direta de arquivos CSV de resultados experimentais (`\addplot table[x=tempo, y=acuracia] {dados.csv};`) com eixos calibrados, legendas e linhas de grade.
 
-### 3. Otimização de Compilação com a Biblioteca `external`
+### . Otimização de Compilação com a Biblioteca `external`
 
 Uso da funcionalidade TikZ Externalize para pré-compilar imagens vetoriais pesadas em arquivos PDF individuais, acelerando drasticamente o tempo de build do documento.
 

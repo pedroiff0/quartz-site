@@ -2,7 +2,7 @@
 publish: true
 title: FEBRACE 2023
 created: 2023-03-20 13:04
-modified: 2026-09-15 21:51
+modified: 2026-09-16 12:20
 published: 2026-07-26T10:13:20.769-03:00
 photoFolder: febrace2023
 type: blog
@@ -10,7 +10,7 @@ cssclasses:
   - page-layout
 ---
 
-# FEBRACE 2023
+# FEBRACE
 
 > [!note] Resumo
 > Primeira participação do campus Bom Jesus do Itabapoana na FEBRACE, a maior feira de ciências e engenharia do Brasil — projeto sobre matéria escura selecionado entre 200 finalistas de mais de 3.200 inscritos.

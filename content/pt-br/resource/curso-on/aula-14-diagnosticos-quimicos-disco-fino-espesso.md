@@ -2,7 +2,7 @@
 publish: false
 title: "Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos"
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|← Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos|Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos →]]
 
-# Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos
+# Aula — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos
 
 > [!note] Resumo
 > Continuação direta da Aula 13: como usar razões de abundância química — sobretudo \[α/Fe] vs. \[Fe/H] — para separar quimicamente disco fino e disco espesso, entender por que essa separação reflete diferentes histórias de formação estelar (não apenas idade), e como identificar estrelas de halo que foram capturadas de galáxias satélites comparando seus padrões de abundância.

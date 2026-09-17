@@ -1,15 +1,12 @@
 ---
 publish: true
-title: "Atividades, Trabalhos & Provas — Análise de Software Orientada a Objetos"
+title: Atividades, Trabalhos & Provas — Análise de Software Orientada a Objetos
 created: 2026-08-29 11:15
-modified: 2026-09-15 21:36
-discipline: "Análise de Software Orientada a Objetos"
-period: "6-periodo"
+modified: 2026-09-16 15:35
 tags:
-  - disciplina
   - atividade
   - trabalho
-  - analise-de-software
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - cards
@@ -27,9 +24,9 @@ Este repositório centraliza todos os **trabalhos práticos, seminários, listas
 
 ## Relação de Trabalhos & Atividades
 
-| Atividade / Trabalho | Data | Autoria | Docente |
-| :--- | :---: | :--- | :--- |
-| [[Trabalho - Coesão e Acoplamento - ASOO\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 2026-09-02 | Amanda do Carmo de Moraes, Pedro Henrique Rocha de Andrade | Pablo Manhães |
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[Trabalho - Coesão e Acoplamento - ASOO\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 07/09/2026 |
 
 ---
 

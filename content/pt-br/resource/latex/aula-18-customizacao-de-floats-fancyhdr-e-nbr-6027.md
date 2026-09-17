@@ -1,7 +1,7 @@
 ---
 title: "Aula 18: Controle Avançado de Floats e NBR 6027"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Gestão e posicionamento de elementos flutuantes (*floats*: figuras, tabelas, quadros, algoritmos) e controle preciso de cabeçalhos e rodapés com `fancyhdr` conforme a ABNT NBR 6027.
 
-### 1. Mecanismo de Flutuantes do TeX (`[htbp]`)
+### . Mecanismo de Flutuantes do TeX (`[htbp]`)
 
 Parâmetros de posicionamento de figuras e tabelas, controle do parâmetro `\clearpage` e prevenção do problema de acúmulo de flutuantes no final dos capítulos com o pacote `placeins` (`\FloatBarrier`).
 
-### 2. Customização de Cabeçalhos e Rodapés com `fancyhdr`
+### . Customização de Cabeçalhos e Rodapés com `fancyhdr`
 
 Formatação das páginas pré-textuais (sem cabeçalho visível, com contagem oculta) e textuais (cabeçalho com número de página alinhado à margem externa direita).
 
-### 3. Criação de Novos Tipos de Flutuantes (`\newfloat`)
+### . Criação de Novos Tipos de Flutuantes (`\newfloat`)
 
 Criação de ambientes de flutuantes personalizados para Listas de Algoritmos, Listas de Códigos Fonte (*Listings*) e Listas de Equações.
 

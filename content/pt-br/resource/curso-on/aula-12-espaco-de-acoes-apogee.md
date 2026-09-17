@@ -2,7 +2,7 @@
 publish: false
 title: Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -22,7 +22,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|← Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico →]]
 
-# Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica
+# Aula — Espaço de Ações e Diagramas de Arqueologia Galáctica
 
 > [!note] Resumo
 > Aula prática que aplica os conceitos de integrais de movimento (Aula 09) a mais de um milhão de estrelas reais do catálogo **APOGEE DR19**, com parâmetros orbitais já pré-calculados: excentricidade, pericentro/apocentro, $Z_{max}$, o diagrama de Toomre, e o espaço $(E, L_z)$ — a ferramenta mais usada da arqueologia galáctica moderna para separar populações estelares e caçar evidências de fusões antigas.

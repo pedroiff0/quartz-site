@@ -2,7 +2,7 @@
 publish: false
 title: Segurança da Informação
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -23,19 +23,19 @@ Para quem gosta da área, a carreira é das mais aquecidas da computação, com 
 
 ## Trilha de estudo
 
-### 1. Fundamentos e mentalidade (iniciante)
+### . Fundamentos e mentalidade (iniciante)
 
 Comece pela tríade CIA (confidencialidade, integridade, disponibilidade), os tipos de ameaça e o vocabulário: vulnerabilidade, exploit, vetor de ataque, superfície de ataque. Pré-requisito real: redes (TCP/IP, portas, DNS) e um mínimo de Linux e linha de comando. As trilhas iniciais do [TryHackMe](https://tryhackme.com/) ensinam exatamente essa base de forma guiada e legal. Tempo típico: 4 a 6 semanas.
 
-### 2. Segurança de aplicações web (intermediário)
+### . Segurança de aplicações web (intermediário)
 
 O terreno mais prático e empregável: estude o OWASP Top 10 — injeção de SQL, XSS, quebra de autenticação, configurações inseguras — entendendo o mecanismo de cada ataque e a defesa correspondente. Pratique nos laboratórios deliberadamente vulneráveis (o projeto Juice Shop, da própria [OWASP](https://owasp.org/), é o padrão). Nunca em sistemas de terceiros sem autorização. Tempo típico: 6 a 8 semanas.
 
-### 3. Criptografia aplicada e segurança de redes (intermediário-avançado)
+### . Criptografia aplicada e segurança de redes (intermediário-avançado)
 
 Entenda o que cada primitiva garante: criptografia simétrica vs. assimétrica, hashes, assinaturas digitais, certificados e TLS — o suficiente para _usar_ criptografia corretamente, que é o que 99% dos profissionais precisa. Do lado de redes: firewalls, segmentação, VPNs, e análise de tráfego com [Wireshark](https://www.wireshark.org/). Tempo típico: 6 a 8 semanas.
 
-### 4. Prática ofensiva e CTFs (avançado)
+### . Prática ofensiva e CTFs (avançado)
 
 Consolide atacando (legalmente): capture-the-flag no [picoCTF](https://picoctf.org/) e máquinas do [TryHackMe](https://tryhackme.com/), cobrindo reconhecimento, exploração e escalada de privilégios. CTF é o equivalente da maratona de programação para segurança: viciante, formativo e ótimo no currículo. Tempo típico: contínuo — a área exige atualização permanente.
 

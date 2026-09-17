@@ -1,7 +1,7 @@
 ---
 title: "Aula 06: Revisão Sistemática da Literatura e Protocolo PRISMA 2020"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-06.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-06-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-06-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-06-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-06.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Metodologia para condução de Revisões Sistemáticas da Literatura (RSL) e Mapeamentos Sistemáticos. Implementação dos fluxogramas e *checklists* do protocolo internacional PRISMA 2020.
 
-### 1. Formulação da Questão de Pesquisa (PICO / PICOC / Kitchenham)
+### . Formulação da Questão de Pesquisa (PICO / PICOC / Kitchenham)
 
 Definição dos critérios PICO (População, Intervenção, Comparação, Desfecho) adaptados para Engenharia de Computação para elaboração das *Search Strings* (expressões de busca com operadores booleanos AND/OR).
 
-### 2. Protocolo de Filtragem e Seleção em Bases Científicas
+### . Protocolo de Filtragem e Seleção em Bases Científicas
 
 Definição dos critérios de inclusão e exclusão. Consulta a bases mundiais como IEEE Xplore, ACM Digital Library, Scopus, Web of Science e Google Scholar.
 
-### 3. Diagrama de Fluxo PRISMA 2020 em LaTeX
+### . Diagrama de Fluxo PRISMA em LaTeX
 
 Construção do fluxograma PRISMA indicando quantitativamente os estudos identificados, triados, elegíveis e incluídos na síntese qualitativa e quantitativa.
 

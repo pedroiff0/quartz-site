@@ -13,12 +13,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 
 ---
 
 **Navegação (grafo):** [[pt-br/resource/escolainverno/Cosmologia/260721-Cosmologia-Aula01|← 260721-Cosmologia-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula03|Cosmologia-Aula03 →]]
-# Notas de Aula — Cosmologia (Aula 02)
+# Notas de Aula — Cosmologia (Aula )
 
 > [!info] Informações da aula
 > **Tema esperado:** Radiação Cósmica de Fundo (RCF), segunda sonda observacional do cronograma anunciado na [[260721-Cosmologia-Aula01|Aula 01]] (Supernovas Ia → **RCF** → EGE).

@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Desenvolvimento Web"
+title: Desenvolvimento Web
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Desenvolvimento Web|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Desenvolvimento Web|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,36 +24,36 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web. Engenharia Web
-> ### Objetivos
+> **Objetivos**
 > - Apresentar diferentes maneiras de desenvolver sistemas e ferramentas web com tecnologias mais relevantes para o mercado.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/7-periodo/programacao-orientada-a-objetos-ii/Programação Orientada a Objetos II|CSECBJI.51 - Programação Orientada a Objetos II]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Programação para Web**
-> 	- História da Internet e da World Wide Web.
-> 	- Desenvolvimento Front-End
-> 	- Desenvolvimento Back-End
+>   - História da Internet e da World Wide Web.
+>   - Desenvolvimento Front-End
+>   - Desenvolvimento Back-End
 > - **2. Frameworks Web**
-> 	- Introdução à frameworks para desenvolvimento web
+>   - Introdução à frameworks para desenvolvimento web
 > - **3. Acesso a banco de dados em sistemas Web**
-> 	- Conexão com Sistema de Gerenciamento de Banco de Dados
-> 	- Engenharia Web
+>   - Conexão com Sistema de Gerenciamento de Banco de Dados
+>   - Engenharia Web
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. DALL’OGLIO, P. PHP: Programando com Orientação a Objetos. 4ª Edição. São Paulo: Novatec, 2018.
 > 2. DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books, 2016.
 > 3. KRUG, S. Não me Faça Pensar: Uma Abordagem de Bom Senso à Usabilidade Mobile e na Web. Rio de Janeiro: Alta Books, 2014.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. BASSET, L. Introdução ao JSON: Um Guia para JSON que vai Direto ao Ponto. São Paulo: Novatec,
 > 2. DUCKETT, J. Javascript e JQuery: Desenvolvimento de Interfaces Web Interativas. Rio de Janeiro:
 > 3. Alta Books, 2016.
@@ -58,4 +63,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Desenvolvimento Web|Anotações da Disciplina]]**

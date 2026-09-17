@@ -1,39 +1,17 @@
 ---
 publish: true
 title: Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
-subtitle: "Análise Crítica da Epistemologia de Miguel Reale: Saber Filosófico, Ciência Positiva e os Fundamentos da Engenharia"
-discipline: Filosofia da Ciência e Tecnologia
-period: 6-periodo
-professor: Rafael Tardin
-date: 2026-09-02
-status: concluído
-authors:
-  - Bernardo Rainha Gomes
-  - Pedro Henrique Rocha de Andrade
-corresponding_author: Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>
-presenter: Pedro Henrique Rocha de Andrade
-short_title: Filosofia & Pressupostos
+created: 2026-09-09 19:59
+modified: 2026-09-16 15:35
 encrypted: true
 password: eng232
-disciplina_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/
-trabalho_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotações/atividades/trabalho---introdução-à-filosofia-e-a-crítica-dos-pressupostos/
-roteiro_pdf: roteiro_iff_disciplina.pdf
-portal_institucional: https://portal1.iff.edu.br/
 tags:
-  - disciplina
-  - engenharia-de-computacao
-  - trabalho
   - atividade
-  - filosofia-da-ciencia-e-tecnologia
-  - epistemologia
-  - miguel-reale
-  - pressupostos
-draft: false
+  - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - center-titles
-created: 2026-09-09 19:59
-modified: 2026-09-15 21:34
 ---
 
 # Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
@@ -73,7 +51,7 @@ modified: 2026-09-15 21:34
 
 ---
 
-## 1. A Natureza do Saber Filosófico
+## . A Natureza do Saber Filosófico
 
 A Filosofia é definida etimologicamente como o "amor à sabedoria" (*philos* + *sophia*). Ela não representa a posse definitiva da verdade, mas sim uma busca constante pelas causas e razões últimas da realidade.
 
@@ -84,7 +62,7 @@ Em linguagem simples, o filósofo é movido pela insatisfação metódica. Enqua
 
 ---
 
-## 2. A Divergência entre os Filósofos
+## . A Divergência entre os Filósofos
 
 Frequentemente se questiona a utilidade da Filosofia frente à constante discordância entre seus teóricos. Reale esclarece que a ausência de respostas unânimes não é uma fraqueza, mas sim o motor da disciplina.
 
@@ -95,7 +73,7 @@ Os problemas filosóficos — sobre a ética, a existência e o conhecimento —
 
 ---
 
-## 3. O Problema dos Pressupostos: Ciência vs Filosofia
+## . O Problema dos Pressupostos: Ciência vs Filosofia
 
 O núcleo da argumentação de Reale estabelece uma fronteira clara entre a Ciência Positiva e a Filosofia baseada em como ambas tratam seus **pressupostos** (as premissas basilares de qualquer teoria).
 
@@ -107,7 +85,7 @@ O núcleo da argumentação de Reale estabelece uma fronteira clara entre a Ciê
 
 ---
 
-## 4. Sentido Lato vs Sentido Estrito de Ciência
+## . Sentido Lato vs Sentido Estrito de Ciência
 
 Para garantir clareza epistemológica, o texto distingue a palavra "Ciência" em duas vertentes:
 
@@ -119,7 +97,7 @@ Para garantir clareza epistemológica, o texto distingue a palavra "Ciência" em
 
 ---
 
-## 5. A Filosofia na Engenharia de Computação
+## . A Filosofia na Engenharia de Computação
 
 Para profissionais de tecnologia, a visão de Miguel Reale é fundamental para evitar a submissão a um "tecnicismo cego". 
 
@@ -130,7 +108,7 @@ A Engenharia de Computação baseia-se em fortes pressupostos: a abstração alg
 
 ---
 
-## 6. Conclusão
+## . Conclusão
 
 A Filosofia não compete com as ciências exatas, mas atua como sua consciência epistemológica. Ela investiga a validade dos pressupostos que sustentam a prática científica. O profissional de engenharia munido de criticidade (impulsionado pelo "thauma" — o espanto filosófico diante do mundo) transcende a operação de ferramentas, alcançando a capacidade de projetar soluções que de fato compreendam e beneficiem o ser humano.
 
@@ -141,7 +119,7 @@ Aponte 1 semelhança e 1 diferença entre ciência e filosofia, justifique a per
 
 ---
 
-## 7. Referências Bibliográficas
+## . Referências Bibliográficas
 
 1. **REALE, Miguel.** *Introdução à Filosofia*. 3. ed. São Paulo: Saraiva, 1994. Cap. 1: "O Problema dos Pressupostos".
 2. **CHAUI, Marilena.** *Convite à Filosofia*. 14. ed. São Paulo: Ática, 2011.

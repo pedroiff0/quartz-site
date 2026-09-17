@@ -2,7 +2,7 @@
 publish: false
 title: Redes
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -21,19 +21,19 @@ Na prática profissional, redes aparece em todo lugar: o desenvolvedor backend q
 
 ## Trilha de estudo
 
-### 1. Fundamentos e modelos de referência (iniciante)
+### . Fundamentos e modelos de referência (iniciante)
 
 Domine o vocabulário: o que é protocolo, encapsulamento, comutação de pacotes vs. circuitos, e os modelos OSI e TCP/IP como mapas mentais das camadas. Pratique identificando em qual camada cada tecnologia vive (Ethernet? IP? TCP? HTTP?). Instale o [Wireshark](https://www.wireshark.org/) e capture o tráfego da sua própria máquina — ver os pacotes de verdade vale mais que dez diagramas. Tempo típico: 4 a 6 semanas.
 
-### 2. Endereçamento e camada de rede (intermediário)
+### . Endereçamento e camada de rede (intermediário)
 
 Aqui mora o IP: endereçamento IPv4 e IPv6, máscaras de sub-rede, CIDR, NAT e o funcionamento de roteadores. Pratique cálculo de sub-redes até virar automático (é presença garantida em provas e entrevistas) e monte topologias em simuladores de rede. Tempo típico: 6 a 8 semanas.
 
-### 3. Transporte, aplicação e serviços (intermediário-avançado)
+### . Transporte, aplicação e serviços (intermediário-avançado)
 
 Entenda TCP a fundo — handshake, controle de congestionamento, retransmissão — e quando UDP é a escolha certa. Estude os protocolos de aplicação que você usa todo dia: DNS, HTTP/HTTPS, DHCP, SMTP. Pratique subindo seus próprios serviços em máquinas virtuais: um servidor web, um DNS local, um DHCP. Tempo típico: 6 a 8 semanas.
 
-### 4. Roteamento dinâmico e projeto de redes (avançado)
+### . Roteamento dinâmico e projeto de redes (avançado)
 
 Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviço e dimensionamento — quanta banda, quantos equipamentos, qual topologia. É o conteúdo das eletivas e o que separa quem "sabe redes" de quem projeta redes. Tempo típico: 8+ semanas, idealmente com laboratório.
 

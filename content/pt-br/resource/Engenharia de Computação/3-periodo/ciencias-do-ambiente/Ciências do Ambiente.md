@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Ciências do Ambiente"
+title: Ciências do Ambiente
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Ciencias Do Ambiente|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Ciencias Do Ambiente|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,56 +24,56 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; Desenvolvimento Sustentável.
-> ### Objetivos
+> **Objetivos**
 > - Desenvolver a compreensão sobre os principais conceitos envolvidos e fundamentos ecológicos relacionados ao estudo da disciplina ciências do ambiente, mostrando a importância do estudo ao futuro profissional, capacitando-o de forma contextualizada com a profissão.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Conceitos Básicos**
-> 	- A crise ambiental
-> 	- Recursos Naturais
-> 	- Poluição
+>   - A crise ambiental
+>   - Recursos Naturais
+>   - Poluição
 > - **2. Ecossistemas**
-> 	- Definição e estrutura
-> 	- Reciclagem de matéria e fluxo de energia
-> 	- Cadeias alimentares
-> 	- Produtividade primária
-> 	- Sucessão ecológica
-> 	- Amplificação biológica
-> 	- Biomas
+>   - Definição e estrutura
+>   - Reciclagem de matéria e fluxo de energia
+>   - Cadeias alimentares
+>   - Produtividade primária
+>   - Sucessão ecológica
+>   - Amplificação biológica
+>   - Biomas
 > - **3. Ciclos Biogeoquímicos**
-> 	- O ciclo do carbono
-> 	- O ciclo do nitrogênio
-> 	- O ciclo do fósforo
-> 	- O ciclo do enxofre
-> 	- O ciclo hidrológico
+>   - O ciclo do carbono
+>   - O ciclo do nitrogênio
+>   - O ciclo do fósforo
+>   - O ciclo do enxofre
+>   - O ciclo hidrológico
 > - **4. Poluição Ambiental**
-> 	- A energia e o meio ambiente
-> 	- O meio aquático
-> 	- O meio terrestre
-> 	- O meio atmosférico
+>   - A energia e o meio ambiente
+>   - O meio aquático
+>   - O meio terrestre
+>   - O meio atmosférico
 > - **5. Desenvolvimento Sustentável**
-> 	- Economia e Meio ambiente
-> 	- Avaliação de impactos ambientais
+>   - Economia e Meio ambiente
+>   - Avaliação de impactos ambientais
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. BRAGA, B., HESPANHOL, I., CONEJO, J. G. L., MIERZWA, J. C., BARROS, M. T. L., CAPAZ, R. S., NOGUEIRA, L. H. Ciências Ambientais para Engenharia. São Paulo: Elsevier, 2014.
 > 2. FANTINATTI, P., ZUFFO, A., ARGOLLO, A. F. Indicadores de Sustentabilidade em Engenharia. São Paulo: Elsevier, 2014.
 > 3. SPENCER, M.
 > 4. NUCCI, N.
 > 5. JULIANO, N.
 > 6. ELGER, S. Introdução à engenharia ambiental: O Desafio do Desenvolvimento Sustentável. São Paulo: Pearson, 2005.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. BOTKIN, D. B., KELLER, E. A. Ciência Ambiental: Terra, um Planeta Vivo. 7ª Edição. Rio de Janeiro, LTC, 2011.
 > 2. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:
 > 3. Elsevier, 2012.
@@ -79,4 +84,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Ciencias Do Ambiente|Anotações da Disciplina]]**

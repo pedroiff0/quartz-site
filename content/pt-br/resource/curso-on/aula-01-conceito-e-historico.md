@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 — Conceito e Histórico
 created: 2026-07-23 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -20,7 +20,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares →]]
 
-# Aula 01 — Conceito e Histórico
+# Aula — Conceito e Histórico
 
 > [!note] Resumo
 > Arqueologia galáctica é o uso da composição química, cinemática, posição e idade das estrelas como "fósseis" para reconstruir a história de formação da Via Láctea. Esta aula percorre o conceito de população estelar simples e o histórico — de Herschel a Searle & Zinn — que levou à identificação das populações I e II.

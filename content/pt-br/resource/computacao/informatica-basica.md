@@ -2,7 +2,7 @@
 publish: false
 title: Informática Básica
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -22,19 +22,19 @@ A boa notícia: é o tópico de retorno mais rápido de toda esta seção. Algum
 
 ## Trilha de estudo
 
-### 1. O computador como ferramenta (2–3 semanas)
+### . O computador como ferramenta (– semanas)
 
 O que dominar: componentes básicos e periféricos (o que é cada porta, o que dá pra ligar onde), sistema de arquivos na prática — pastas, caminhos, extensões (exiba-as!), atalhos vs. arquivos —, instalação e remoção de programas. O que praticar: reorganizar seus próprios arquivos numa estrutura consistente de pastas; é exercício e benefício permanente ao mesmo tempo.
 
-### 2. Produtividade acadêmica (2–4 semanas)
+### . Produtividade acadêmica (– semanas)
 
 O que dominar: editor de texto e planilha com competência real (estilos e sumário automático no editor; fórmulas e referências absolutas/relativas na planilha), PDF, compactação de arquivos e e-mail com anexos e etiqueta básica. O que praticar: formatar um trabalho acadêmico usando estilos (não espaço e Enter) e montar uma planilha de notas com médias calculadas por fórmula.
 
-### 3. Internet, segurança e backup (2–3 semanas)
+### . Internet, segurança e backup (– semanas)
 
 O que dominar: pesquisar bem (operadores de busca, avaliar fontes), senhas fortes e gerenciador de senhas, autenticação em duas etapas, reconhecer phishing, e a regra de ouro do backup (o arquivo importante existe em pelo menos dois lugares). O que praticar: ativar 2FA nas suas contas principais e configurar um backup automático da pasta de estudos — hoje, não depois da primeira perda.
 
-### 4. Primeiro contato com o terminal (2–4 semanas)
+### . Primeiro contato com o terminal (– semanas)
 
 O que dominar: abrir o terminal sem medo, navegar (`cd`, `ls`/`dir`), criar e mover arquivos por comando, e entender que tudo que a interface gráfica faz o terminal também faz. O que praticar: repetir pelo terminal tarefas que você já faz pelo mouse. Esta etapa é a rampa de acesso pra programação e Linux — quem a percorre chega nas disciplinas técnicas com meio caminho andado.
 

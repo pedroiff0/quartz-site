@@ -1,15 +1,12 @@
 ---
-
 publish: false
-kanban-plugin: board
 title: Quadro Kanban — 6º Período EngComp
 created: 2026-09-14 11:53
-modified: 2026-09-16 11:54
+modified: 2026-09-16 12:14
 tags:
   - kanban
   - academico
   - 6-periodo
-
 cssclasses:
   - page-layout
 ---

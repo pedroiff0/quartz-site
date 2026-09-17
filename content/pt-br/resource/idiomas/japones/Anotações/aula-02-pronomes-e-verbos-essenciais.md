@@ -8,7 +8,7 @@ tags:
   - japones
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 02 — Pronomes, Partículas Fundamentais (Wa, Ga, Ka) e a Cópula Desu
+# Aula — Pronomes, Partículas Fundamentais (Wa, Ga, Ka) e a Cópula Desu
 
 > [!info] Metadados da Lição
 > - **Idioma:** Japonês | **Nível Alvo:** A1

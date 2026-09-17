@@ -1,14 +1,13 @@
 ---
 publish: true
-title: "260618-RevisaoProva"
+title: 260618-RevisaoProva
 created: 2026-06-18 14:49
-modified: 2026-09-14 20:12
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
   - aula
   - engenharia-de-computacao
-  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---
@@ -30,7 +29,7 @@ for (i=0; i<=n-1;i++) {
 }
 ```
 
-### Linha 1
+### Linha
 ```cpp
 for (i=0; i<=n-1;i++) 
 ```
@@ -52,7 +51,7 @@ Total: $2n+3$
 
 Total linha 1: $2n+3$
 
-### Linha 2
+### Linha
 Entra $n$ vezes:
 
 ```cpp
@@ -83,16 +82,16 @@ Total Geral Linha 1:
 
 
 Melhor caso = ordenado, não entra na condicional, portanto 
-### Linha 3
+### Linha
 
 
-### Linha 4
+### Linha
 
 
-### Linha 5
+### Linha
 
 
-### Linha 6
+### Linha
 
 
 ### Insertion Sort

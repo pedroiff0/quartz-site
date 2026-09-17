@@ -2,7 +2,7 @@
 publish: true
 title: MCTIA 2025
 created: 2025-12-01 13:04
-modified: 2026-09-15 21:51
+modified: 2026-09-16 12:20
 published: 2026-07-26T10:13:50.721-03:00
 photoFolder: mctia2025
 type: blog
@@ -10,7 +10,7 @@ cssclasses:
   - page-layout
 ---
 
-# MCTIA 2025
+# MCTIA
 
 > [!note] Resumo
 > Mostra de Ciência e Tecnologia do Instituto Açaí, em Belém (PA) — 1º lugar em Ciências Exatas com um algoritmo de IA que recupera 99,7% da informação perdida por rastros de satélite, classificando a equipe para o Ciência Jovem 2026.

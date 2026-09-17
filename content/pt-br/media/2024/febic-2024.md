@@ -2,7 +2,7 @@
 publish: true
 title: IX FEBIC 2024
 created: 2024-09-15 13:04
-modified: 2026-09-15 21:51
+modified: 2026-09-16 12:20
 published: 2026-07-26T10:13:40.051-03:00
 photoFolder: febic2024
 type: blog
@@ -10,7 +10,7 @@ cssclasses:
   - page-layout
 ---
 
-# IX FEBIC 2024
+# IX FEBIC
 
 > [!note] Resumo
 > Feira Brasileira de Iniciação Científica, em Pomerode (SC) — 3º lugar na categoria Graduação com o projeto de remoção de rastros de satélite, ainda incompleto na época.

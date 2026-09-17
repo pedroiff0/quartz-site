@@ -1,7 +1,7 @@
 ---
 title: "Aula 12: Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-12.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-12-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-12-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-12-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-12.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Tipografia matemática de alta precisão. Ambientes `amsmath` (`equation`, `align`, `gather`, `bmatrix`), comandos `mathtools` e construção de tabelas tipograficamente elegantes com o pacote `booktabs` (`\toprule`, `\midrule`, `\bottomrule`).
 
-### 1. Ambientes Matemáticos com `amsmath` e `mathtools`
+### . Ambientes Matemáticos com `amsmath` e `mathtools`
 
 Formatação de equações numeradas, alinhamento de sistemas com `align` e matrizes com `bmatrix`. Uso de subequações e operadores personalizados com `\DeclareMathOperator`.
 
-### 2. Tabelas Tipográficas Profissionais com `booktabs`
+### . Tabelas Tipográficas Profissionais com `booktabs`
 
 Substituição das bordas verticais pesadas por linhas horizontais com espessura calibrada (`\toprule`, `\midrule`, `\bottomrule`), atendendo rigorosamente às Normas Tabulares do IBGE.
 
-### 3. Alinhamento Numérico com `siunitx`
+### . Alinhamento Numérico com `siunitx`
 
 Formatação de unidades de medida no Sistema Internacional (SI) e alinhamento de decimais em colunas numéricas complexas.
 

@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Gestão Ambiental"
+title: Gestão Ambiental
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Gestao Ambiental|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Gestao Ambiental|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,52 +24,52 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo, reciclagem e reaproveitamento. Definição de lixo e poluição. Externalidades negativas. Responsabilidade ambiental. Noções de engenharia de materiais. Gestão de recursos hídricos. Gestão da energia. Certificado ISO 14001. Licenciamento ambiental. Estratégias ambientais para os negócios.
-> ### Objetivos
+> **Objetivos**
 > - Introduzir conceitos de gestão ambiental com intuito de levar o aluno a pensar sistemicamente e considerar os fatores externos ambientais que influenciam o ambiente interno e os reflexos no meio ambiente em função da ação do homem nas atividades produtivas;
 > - Capacitar o aluno para avaliar os empreendimentos do ponto de vista ambiental e compreender a importância da consciência ambiental como estratégia de negócios.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Conceito de Meio Ambiente**
 > - **2. Fundamentos de Teoria Geral dos Sistemas**
-> 	- O pensamento sistêmico
-> 	- O todo e a soma das partes
-> 	- O relacionamento interpartes
-> 	- Escopo sistêmico
-> 	- Dependência
-> 	- Sinergia
-> 	- A finitude da natureza
+>   - O pensamento sistêmico
+>   - O todo e a soma das partes
+>   - O relacionamento interpartes
+>   - Escopo sistêmico
+>   - Dependência
+>   - Sinergia
+>   - A finitude da natureza
 > - **3. Noções de engenharia de materiais**
-> 	- Extração
-> 	- Produção
-> 	- Distribuição
-> 	- Varejo
-> 	- Descarte
+>   - Extração
+>   - Produção
+>   - Distribuição
+>   - Varejo
+>   - Descarte
 > - **4. Reciclagem ou reaproveitamento**
-> 	- Definição de lixo e poluição
-> 	- O lixo industrial
-> 	- O lixo residencial
-> 	- O desperdício
-> 	- Poluição industrial
+>   - Definição de lixo e poluição
+>   - O lixo industrial
+>   - O lixo residencial
+>   - O desperdício
+>   - Poluição industrial
 > - **5. Consumismo, reciclagem e reaproveitamento**
-> 	- A cultura consumista
-> 	- A extração de materiais
-> 	- Reciclagem
-> 	- Reaproveitamento
-> 	- Inovação na gestão de materiais
+>   - A cultura consumista
+>   - A extração de materiais
+>   - Reciclagem
+>   - Reaproveitamento
+>   - Inovação na gestão de materiais
 > - **6. Externalidades negativas**
-> 	- Custos não contabilizados
-> 	- Desoneração do trabalho
-> 	- Extração não licenciada
+>   - Custos não contabilizados
+>   - Desoneração do trabalho
+>   - Extração não licenciada
 > - **7. Responsabilidade ambiental**
 > - **8. Gestão de recursos hídricos**
 > - **9. Gestão da energia**
@@ -73,12 +78,12 @@ cssclasses:
 > - **12. Estratégias ambientais para os negócios**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. BARBIERI, J.C. Gestão Ambiental Empresarial.
 > 2. Conceitos, Modelos e Instrumentos. 4ª Edição. São Paulo: Saraiva. 2015.
 > 3. DIAS, R. Gestão Ambiental: Responsabilidade Social e Sustentabilidade. 3ª Edição. São Paulo: Atlas, 6.
 > 4. DONAIRE, D., OLIVEIRA, E. C. Gestão Ambiental na Empresa. 3ª Edição. São Paulo: Atlas, 2018.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:
 > 2. Elsevier, 2012.
 > 3. CECH, T. V. Recursos Hídricos: História, Desenvolvimento, Política e Gestão. 3ª Edição. Rio de Janeiro:
@@ -91,4 +96,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Gestao Ambiental|Anotações da Disciplina]]**

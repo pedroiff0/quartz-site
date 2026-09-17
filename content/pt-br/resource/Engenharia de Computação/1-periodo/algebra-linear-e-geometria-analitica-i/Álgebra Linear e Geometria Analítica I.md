@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Álgebra Linear e Geometria Analítica I"
+title: Álgebra Linear e Geometria Analítica I
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Algebra Linear E Geometria Analitica I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Algebra Linear E Geometria Analitica I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,17 +24,17 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
-> ### Objetivos
+> **Objetivos**
 > - Introduzir e desenvolver em termos teóricos um conjunto de conceitos fundamentais da álgebra linear, que serão ferramentas essenciais para apoio às unidades curriculares mais específicas da engenharia;
 > - Abordar estudo de matrizes, determinantes, sistemas de equações lineares, vetores no plano e no espaço com aplicações na geometria analítica e ainda introduz conceitos básicos sobre espaços vetoriais e subespaços.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/Álgebra Linear e Geometria Analítica II|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
 > - [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/Física I|CSECBJI.11 - Física I]]
 > - [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/Equações Diferenciais|CSECBJI.18 - Equações Diferenciais]]
@@ -43,57 +48,57 @@ cssclasses:
 > - **5. Matriz Simétrica;**
 > - **6. Matriz Ortogonal;**
 > - **7. Determinantes**
-> 	- Determinante de uma Matriz;
-> 	- Ordem e Representação;
-> 	- Propriedades;
-> 	- Cálculo do Determinante por uma Linha;
-> 	- Cálculo do Determinante por Laplace;
-> 	- Operações Elementares;
-> 	- Cálculo do Determinante por Triangularização;
+>   - Determinante de uma Matriz;
+>   - Ordem e Representação;
+>   - Propriedades;
+>   - Cálculo do Determinante por uma Linha;
+>   - Cálculo do Determinante por Laplace;
+>   - Operações Elementares;
+>   - Cálculo do Determinante por Triangularização;
 > - **8. Inversão de Matrizes:**
-> 	- Matriz Inversa;
-> 	- Propriedades;
-> 	- Inversão de Matrizes por Matriz Adjunta;
-> 	- Inversão de Matrizes por Meio de Operações Elementares;
+>   - Matriz Inversa;
+>   - Propriedades;
+>   - Inversão de Matrizes por Matriz Adjunta;
+>   - Inversão de Matrizes por Meio de Operações Elementares;
 > - **9. Sistemas de Equações Lineares:**
-> 	- Sistema Compatível;
-> 	- Sistemas Equivalentes;
-> 	- Operações Elementares e Sistemas Equivalentes;
-> 	- Sistema Linear Homogêneo;
-> 	- Classificação e Solução dos Sistemas de Equações Lineares;
-> 	- Discussão de Sistemas em Função de Parâmetros Reais.
+>   - Sistema Compatível;
+>   - Sistemas Equivalentes;
+>   - Operações Elementares e Sistemas Equivalentes;
+>   - Sistema Linear Homogêneo;
+>   - Classificação e Solução dos Sistemas de Equações Lineares;
+>   - Discussão de Sistemas em Função de Parâmetros Reais.
 > - **10. Vetores:**
-> 	- Vetores no R² e no R³, operações;
-> 	- Vetor Definido por Dois Pontos;
-> 	- Produto Escalar;
-> 	- Módulo de um Vetor;
-> 	- Ângulo entre Dois Vetores;
-> 	- Paralelismo e Ortogonalidade de Dois Vetores;
-> 	- Produto Vetorial;
-> 	- Produto Misto;
-> 	- Equação de Planos;
-> 	- Área de Triângulos e Paralelogramos;
-> 	- Volumes de Paralelepípedos.
+>   - Vetores no R² e no R³, operações;
+>   - Vetor Definido por Dois Pontos;
+>   - Produto Escalar;
+>   - Módulo de um Vetor;
+>   - Ângulo entre Dois Vetores;
+>   - Paralelismo e Ortogonalidade de Dois Vetores;
+>   - Produto Vetorial;
+>   - Produto Misto;
+>   - Equação de Planos;
+>   - Área de Triângulos e Paralelogramos;
+>   - Volumes de Paralelepípedos.
 > - **11. Espaços Vetoriais:**
-> 	- Propriedades;
-> 	- Subespaços Vetoriais;
-> 	- Combinação Linear;
-> 	- Dependência e Independência Linear;
-> 	- Base e Dimensão.
+>   - Propriedades;
+>   - Subespaços Vetoriais;
+>   - Combinação Linear;
+>   - Dependência e Independência Linear;
+>   - Base e Dimensão.
 > - **12. Espaços Vetoriais Euclidianos:**
-> 	- Produto Interno Não Usual;
-> 	- Módulo de um Vetor e Normalização de Vetores;
-> 	- Vetores Ortogonais;
-> 	- Bases Ortogonais e Ortonormais;
-> 	- Processo de Ortogonalização de Gram Schmidt;
-> 	- Complemento Ortogonal.
+>   - Produto Interno Não Usual;
+>   - Módulo de um Vetor e Normalização de Vetores;
+>   - Vetores Ortogonais;
+>   - Bases Ortogonais e Ortonormais;
+>   - Processo de Ortogonalização de Gram Schmidt;
+>   - Complemento Ortogonal.
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear. 3.ª Edição. São Paulo: Harbra, 1984.
 > 2. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
 > 3. STEINBRUCH, A., WINTERLE, P. Álgebra Linear. 2.ª Edição. São Paulo: Pearson, 1995.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
 > 2. LAY, D. C., LAY, S. R.
 > 3. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC,
@@ -103,4 +108,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Algebra Linear E Geometria Analitica I|Anotações da Disciplina]]**

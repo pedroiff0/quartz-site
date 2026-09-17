@@ -6,7 +6,7 @@ discipline: Astrofísica Extragaláctica
 content: Aglomerados de Galáxias — as maiores estruturas gravitacionalmente ligadas do Universo
 professor: Rogério Monteiro-Oliveira
 created: 2026-07-20 13:34
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 tags:
   - escola-de-inverno-on
   - astrofisica-extragalactica
@@ -39,7 +39,7 @@ Um **aglomerado de galáxias** é a maior estrutura do cosmos que já colapsou g
 
 ---
 
-## 1. Escalas do cosmos
+## . Escalas do cosmos
 
 Para descrever distâncias astronômicas usamos unidades muito maiores que o metro:
 
@@ -65,7 +65,7 @@ A existência dessa teia — incluindo sua componente invisível de matéria esc
 
 ---
 
-## 2. O que é um aglomerado (a "receita")
+## . O que é um aglomerado (a "receita")
 
 Aglomerados são **sistemas que já colapsaram e estão virializados**, ou seja, atingiram um equilíbrio dinâmico entre gravidade e movimento interno.
 
@@ -145,7 +145,7 @@ Esse enorme excesso de massa invisível é uma das primeiras evidências histór
 
 Entre as galáxias existe um gás muito rarefeito (densidade $\sim 10^{-3}$ partículas/cm³) mas extremamente quente (**1–10 keV**, ou seja, dezenas de milhões de graus). Gás tão quente emite fortemente em **raio-X** — essa é uma das principais formas de detectar aglomerados (ver seção 4).
 
-#### Equilíbrio hidrostático do gás
+### Equilíbrio hidrostático do gás
 
 Esse gás não colapsa para o centro porque sua **pressão térmica** sustenta o peso do próprio gás contra a gravidade do aglomerado — o mesmo princípio físico que mantém o interior de uma estrela estável (equilíbrio hidrostático):
 
@@ -155,7 +155,7 @@ Do lado esquerdo, o gradiente de pressão; do lado direito, a força gravitacion
 
 ---
 
-## 3. Galáxias dentro do aglomerado
+## . Galáxias dentro do aglomerado
 
 O ambiente de um aglomerado (alta densidade de galáxias, gás quente, interações gravitacionais frequentes) influencia fortemente a **forma e o destino evolutivo** das galáxias membro — algo visível principalmente no óptico.
 
@@ -170,7 +170,7 @@ Essa correlação (mais elípticas em regiões densas, mais espirais em regiões
 
 ---
 
-## 4. Como detectar um aglomerado
+## . Como detectar um aglomerado
 
 Existem múltiplas "janelas" observacionais, cada uma sensível a um componente diferente do aglomerado:
 

@@ -2,7 +2,7 @@
 publish: false
 title: Comunicação de Dados
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -21,19 +21,19 @@ Um exemplo concreto: o teorema de Shannon diz que a capacidade máxima de um can
 
 ## Trilha de estudo
 
-### 1. Sinais e fundamentos (iniciante)
+### . Sinais e fundamentos (iniciante)
 
 Comece pela diferença entre sinal analógico e digital, os conceitos de frequência, amplitude, fase e espectro, e as unidades que todo mundo confunde: bit vs. baud, largura de banda em Hz vs. taxa de dados em bps. Pratique convertendo unidades e lendo gráficos no domínio do tempo e da frequência. Tempo típico: 3 a 4 semanas.
 
-### 2. Transmissão e meios físicos (intermediário)
+### . Transmissão e meios físicos (intermediário)
 
 Estude os meios guiados (par trançado, coaxial, fibra óptica) e não guiados (rádio, micro-ondas), com suas limitações reais: atenuação, ruído, interferência, distorção. Entenda os teoremas de Nyquist e Shannon e o que eles impõem de limite a qualquer tecnologia. Pratique resolvendo problemas numéricos de capacidade de canal — é o coração das provas. Tempo típico: 4 a 6 semanas.
 
-### 3. Codificação e modulação (intermediário-avançado)
+### . Codificação e modulação (intermediário-avançado)
 
 Como bits viram sinais: codificação de linha (NRZ, Manchester), modulação digital (ASK, FSK, PSK, QAM) e conversão analógico-digital (amostragem, quantização, PCM). Multiplexação (FDM, TDM, WDM) entra aqui: como vários fluxos compartilham um mesmo meio. Pratique desenhando as formas de onda à mão para sequências de bits — parece arcaico, mas fixa o conceito como nada mais. Tempo típico: 4 a 6 semanas.
 
-### 4. Enlace e controle de erros (avançado)
+### . Enlace e controle de erros (avançado)
 
 Detecção e correção de erros (paridade, CRC, Hamming), controle de fluxo, protocolos de janela deslizante e acesso ao meio (CSMA/CD, CSMA/CA). É o ponto de encontro entre comunicação de dados e a disciplina de redes propriamente dita. Tempo típico: 4 semanas, emendando na sequência de redes.
 

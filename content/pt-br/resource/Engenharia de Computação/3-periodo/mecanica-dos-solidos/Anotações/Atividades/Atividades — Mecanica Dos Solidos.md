@@ -1,17 +1,15 @@
 ---
 publish: true
-title: "Atividades, Trabalhos & Provas — Mecanica Dos Solidos"
+title: Atividades, Trabalhos & Provas — Mecanica Dos Solidos
 created: 2026-08-29 11:58
-discipline: "Mecanica Dos Solidos"
-period: "3-periodo"
+modified: 2026-09-16 15:35
 tags:
-  - disciplina
   - atividade
   - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - cards
-modified: 2026-09-15 21:34
 ---
 
 # Atividades, Trabalhos & Avaliações

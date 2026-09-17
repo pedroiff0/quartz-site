@@ -6,7 +6,7 @@ tags:
   - pipeline-guia
   - meta
 created: 2026-09-14 10:29
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 
 cssclasses:
   - page-layout
@@ -15,7 +15,7 @@ cssclasses:
 # Guia de Uso: Pipeline Unificado de Apresentações MWBR & IFF
 
 > [!abstract] Visão Geral da Arquitetura
-> Este documento é o manual interno do pipeline de apresentações e publicações científicas. A arquitetura conecta automaticamente as anotações do **Obsidian** ao **Roteiro/Lecture (.tex)**, aos **Slides Beamer 16:9 (.pdf)** e à apresentação **PowerPoint (.pptx)**, com espelhamento automático para a pasta `_materiais/` do artigo.
+> Este documento é o manual interno do pipeline de apresentações e publicações científicas. A arquitetura conecta automaticamente as anotações do **Obsidian** ao **Roteiro/Lecture (.tex)**, aos **Slides Beamer 16:9 (.pdf)** e à apresentação **PowerPoint (.pptx)**, com espelhamento automático para a pasta `04 - Recursos/Livros e Apostilas/Engenharia/` do artigo.
 
 ---
 
@@ -63,16 +63,16 @@ slides-mwbr/ (ou slides-iff/)
 
 ## Como Usar no Dia a Dia
 
-### Passo 1: Fazer as anotações no Obsidian
+### Passo : Fazer as anotações no Obsidian
 1. Crie a nota com o padrão: `Artigo - [PrimeiroAutor][Ano].md` (ex: `Artigo - Lu2026.md`).
 2. Salve o PDF grifado em: `_materiais/[arXiv_ID]/Artigo - [PrimeiroAutor][Ano].pdf`.
 3. Preencha os **3 Passes** na nota.
 
-### Passo 2: Ajustar o Roteiro e os Slides
+### Passo : Ajustar o Roteiro e os Slides
 1. Abra o arquivo `lecture/roteiro_Lu2026.tex` e coloque os tópicos de discussão estendidos.
 2. Abra `latex/slides_mwbr_artigo.tex` e ajuste os itens de cada slide.
 
-### Passo 3: Executar o Pipeline Mestre
+### Passo : Executar o Pipeline Mestre
 Para compilar a Lecture, os dois PDFs LaTeX, os dois PPTXs e sincronizar tudo automaticamente com o Obsidian, basta abrir o terminal e rodar:
 
 ```bash

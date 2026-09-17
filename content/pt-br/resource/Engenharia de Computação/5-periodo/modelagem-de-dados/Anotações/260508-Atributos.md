@@ -1,14 +1,13 @@
 ---
 publish: true
-title: "260508-Atributos"
+title: 260508-Atributos
 created: 2026-05-08 14:49
-modified: 2026-09-14 20:12
+modified: 2026-09-16 15:35
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
   - aula
   - engenharia-de-computacao
-  - anotacoes-de-quadro
 cssclasses:
   - page-layout
 ---

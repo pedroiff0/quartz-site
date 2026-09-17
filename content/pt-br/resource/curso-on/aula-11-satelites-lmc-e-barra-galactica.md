@@ -2,7 +2,7 @@
 publish: false
 title: Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -22,7 +22,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|← Aula 10 — Integração de Órbitas com galpy]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica →]]
 
-# Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
+# Aula — Órbitas de Satélites, a LMC e a Barra Galáctica
 
 > [!note] Resumo
 > Continuação prática da Aula 10: como calcular pericentro/apocentro de uma galáxia satélite e comparar potenciais diferentes, como incluir a Grande Nuvem de Magalhães (LMC) como um perturbador massivo que também puxa a própria Via Láctea (exigindo um referencial não inercial), e como a barra galáctica introduz ressonâncias orbitais — corrotação e a Ressonância Externa de Lindblad (OLR) — que moldam a cinemática estelar local.

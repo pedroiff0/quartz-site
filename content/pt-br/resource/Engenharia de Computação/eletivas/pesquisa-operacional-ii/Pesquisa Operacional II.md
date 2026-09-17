@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Pesquisa Operacional II"
+title: Pesquisa Operacional II
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Pesquisa Operacional Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Pesquisa Operacional Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,56 +24,56 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. Teoria Clássica da Otimização. Programação Não-linear.
-> ### Objetivos
+> **Objetivos**
 > - Desenvolver a capacidade de formular, modelar, solucionar e analisar modelos matemáticos para tomada de decisão em gestão e planejamento de processos produtivos.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/eletivas/pesquisa-operacional-i/Pesquisa Operacional I|CSECBJI.88 - Pesquisa Operacional I]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Programação Linear Inteira (PLI)**
-> 	- Conceitos Fundamentais da PLI
-> 	- Modelagem Matemática por PLI
-> 	- Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
-> 	- Programação Linear Inteira Binária (PLIB)
-> 	- Modelos de PLIB
-> 	- Problema do Caixeiro Viajante
+>   - Conceitos Fundamentais da PLI
+>   - Modelagem Matemática por PLI
+>   - Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
+>   - Programação Linear Inteira Binária (PLIB)
+>   - Modelos de PLIB
+>   - Problema do Caixeiro Viajante
 > - **2. Programação por Metas (PM)**
-> 	- Conceitos Fundamentais da PM
-> 	- Metas, desvios e funções objetivo para PM
-> 	- PM por Priorização
-> 	- Modelagem Matemática por PM
+>   - Conceitos Fundamentais da PM
+>   - Metas, desvios e funções objetivo para PM
+>   - PM por Priorização
+>   - Modelagem Matemática por PM
 > - **3. Programação Linear Multiobjetivo (PLMO)**
-> 	- Conceitos Fundamentais da PLMO
-> 	- Variáveis MINMAX
-> 	- Fronteira de Eficiência
-> 	- Modelagem Matemática por PLMO
+>   - Conceitos Fundamentais da PLMO
+>   - Variáveis MINMAX
+>   - Fronteira de Eficiência
+>   - Modelagem Matemática por PLMO
 > - **4. Programação Dinâmica (PD)**
-> 	- Conceitos Fundamentais de PD
-> 	- Aplicações da PD
+>   - Conceitos Fundamentais de PD
+>   - Aplicações da PD
 > - **5. Teoria Clássica da Otimização**
-> 	- Conceitos Fundamentais
-> 	- Problemas Irrestritos
-> 	- Problemas Restritos
+>   - Conceitos Fundamentais
+>   - Problemas Irrestritos
+>   - Problemas Restritos
 > - **6. Programação Não-Linear (PNL)**
-> 	- Tipos de Problemas de PNL
-> 	- Programação Quadrática
-> 	- Programação Separável
-> 	- Programação Convexa
+>   - Tipos de Problemas de PNL
+>   - Programação Quadrática
+>   - Programação Separável
+>   - Programação Convexa
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015.
 > 2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. ed. São Paulo, SP: Atlas, 2004.
 > 3. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman,
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 5. ANDRADE, E. L. Introdução à Pesquisa Operacional: Métodos e Modelos para Análise de Decisões.
 > 6. 5ª Edição. Rio de Janeiro: Atlas, 2014.
 > 7. GOLDBARG, M., LUNA, H. Otimização Combinatória e Programação Linear: Modelos e Algoritmos.
@@ -78,4 +83,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Pesquisa Operacional Ii|Anotações da Disciplina]]**

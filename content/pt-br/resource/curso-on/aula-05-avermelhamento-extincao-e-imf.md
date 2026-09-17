@@ -2,7 +2,7 @@
 publish: false
 title: Aula 05 — Avermelhamento, Extinção e IMF
 created: 2026-07-23 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|← Aula 04 — Espectroscopia e Metalicidade]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|Aula 06 — Diagrama HR e Relação Massa-Luminosidade →]]
 
-# Aula 05 — Avermelhamento, Extinção e IMF
+# Aula — Avermelhamento, Extinção e IMF
 
 > [!note] Resumo
 > Antes de qualquer estimativa de distância na Galáxia ser confiável, é preciso corrigir a luz estelar do efeito do meio interestelar: gás e poeira absorvem e espalham fótons de forma dependente do comprimento de onda, atenuando (extinção) e avermelhando a luz observada.

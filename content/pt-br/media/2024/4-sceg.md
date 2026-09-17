@@ -2,7 +2,7 @@
 publish: true
 title: 4ª SCEG 2024
 created: 2024-10-22 13:04
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 published: 2026-07-26T10:13:34.504-03:00
 photoFolder: 4sceg2024
 type: blog
@@ -10,7 +10,7 @@ cssclasses:
   - page-layout
 ---
 
-# 4ª SCEG 2024
+# ª SCEG
 
 > [!note] Resumo
 > Organizei a 4ª Semana de Computação, Engenharia e Gestão no IFF Bom Jesus do Itabapoana — um evento de protagonismo estudantil, com minicursos, e-sports e um hackathon.

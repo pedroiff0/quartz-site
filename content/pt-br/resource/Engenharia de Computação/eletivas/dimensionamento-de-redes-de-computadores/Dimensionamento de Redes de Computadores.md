@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Dimensionamento de Redes de Computadores"
+title: Dimensionamento de Redes de Computadores
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Dimensionamento De Redes De Computadores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Dimensionamento De Redes De Computadores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,16 +24,16 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fio; Solução Problemas de OSPF de Área Única; OSPF Multiárea; EIGRP; Solução de Problemas de EIGRP
-> ### Objetivos
+> **Objetivos**
 > - Desenvolver o conhecimento e as habilidades necessárias para implementar operações de redes complexas.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
@@ -43,12 +48,12 @@ cssclasses:
 > - **8. Solução de Problemas de EIGRP**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
 > 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
 > 3. Pearson, 2013.
 > 4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
 > 2. CARISSIMI, A. S., ROCHOL, J.
 > 3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman,
@@ -58,4 +63,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Dimensionamento De Redes De Computadores|Anotações da Disciplina]]**

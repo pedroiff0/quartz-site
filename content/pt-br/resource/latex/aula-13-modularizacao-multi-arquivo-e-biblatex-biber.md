@@ -1,7 +1,7 @@
 ---
 title: "Aula 13: Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-13.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-13-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-13-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-13-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-13.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Arquitetura modular de grandes documentos acadêmicos via `\input` e `\include`. Gerenciamento profissional de base de dados bibliográfica em formato `.bib` utilizando a engine moderna `biblatex-biber` com conformidade ABNT NBR 6023.
 
-### 1. Modularização do Projeto (`\input` vs. `\include`)
+### . Modularização do Projeto (`\input` vs. `\include`)
 
 Organização de monografias em capítulos independentes (`cap1-introducao.tex`, `cap2-revisao.tex`). O comando `\include` gerencia quebras de página automáticas e suporte a `\includeonly` para compilação parcial rápida.
 
-### 2. Estrutura do Arquivo de Referências `.bib`
+### . Estrutura do Arquivo de Referências `.bib`
 
 Sintaxe das entradas BibTeX/BibLaTeX: `@article`, `@book`, `@inproceedings`, `@mastersthesis`, `@online`. Preenchimento correto dos campos de metadados.
 
-### 3. Execução da Engine `biber` e Estilo `biblatex-abnt`
+### . Execução da Engine `biber` e Estilo `biblatex-abnt`
 
 Configuração das opções do `biblatex`: `style=abnt`, `citecolor`, `backref=true`. Ciclo de compilação `pdflatex` -> `biber` -> `pdflatex` -> `pdflatex`.
 

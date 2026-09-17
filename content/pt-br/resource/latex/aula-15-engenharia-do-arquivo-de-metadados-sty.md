@@ -1,7 +1,7 @@
 ---
 title: "Aula 15: Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-15.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-15-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-15-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-15-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-15.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Engenharia e desenvolvimento do arquivo de metadados centralizado (`metadados.sty`). Abordagem de desativação de dados sensíveis, flexão dinâmica de gênero para cargos (Orientador/Orientadora, Coordenador/Coordenadora) e padronização institucional IFF.
 
-### 1. Conceito de Fonte Única da Verdade (*Single Source of Truth*)
+### . Conceito de Fonte Única da Verdade (*Single Source of Truth*)
 
 Centralização de todos os metadados da pesquisa (Título, Autor, Orientador, Banca, Data, Campus) em um único arquivo de configuração `.sty` desacoplado da estrutura da monografia.
 
-### 2. Lógica Condicional e Flexão Dinâmica de Gênero
+### . Lógica Condicional e Flexão Dinâmica de Gênero
 
 Implementação de macros TeX condicionais (`\ifdefined`, `\equal`) para alternância automática de rótulos institucionais de acordo com o gênero dos docentes (ex: *Orientadora*, *Examinadora*).
 
-### 3. Higienização de Dados Sensíveis e Versão Pública
+### . Higienização de Dados Sensíveis e Versão Pública
 
 Criação de chaves de controle no metadados para anonimização de dados discentes na versão de submissão para bancas cegas (*blind review*).
 

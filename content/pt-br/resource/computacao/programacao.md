@@ -2,7 +2,7 @@
 publish: false
 title: Programação
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -22,19 +22,19 @@ E há um detalhe que iniciantes subestimam: programação é habilidade motora t
 
 ## Trilha de estudo
 
-### 1. Lógica de programação e primeiros passos (1–2 meses)
+### . Lógica de programação e primeiros passos (– meses)
 
 O que dominar: variáveis, tipos, condicionais, laços, funções e leitura/escrita básica — em pseudocódigo e depois numa linguagem real (C ou Python). O que praticar: os problemas iniciantes do beecrowd, pelo menos 30–50 deles. A meta desta fase é uma só: destravar a tradução de "problema em português" pra "passos em código".
 
-### 2. C, ponteiros e memória (3–4 meses)
+### . C, ponteiros e memória (– meses)
 
 O que dominar: a linguagem C de verdade — ponteiros, arrays, strings, structs, alocação dinâmica (`malloc`/`free`) e passagem por referência. O que praticar: implementar você mesmo funções que a biblioteca já dá (strlen, cópia de vetor, lista ligada). C dói exatamente onde ensina: é o único momento do curso em que você vê a memória de frente.
 
-### 3. Estruturas de dados e recursão (4–6 meses)
+### . Estruturas de dados e recursão (– meses)
 
 O que dominar: listas ligadas, pilhas, filas, árvores binárias de busca, tabelas hash e os algoritmos clássicos de ordenação e busca — implementando cada um do zero pelo menos uma vez. O que praticar: exercícios do beecrowd de nível intermediário e trilhas do Exercism; use o VisuAlgo pra ver as estruturas se movendo antes de codificar.
 
-### 4. Orientação a objetos e paradigmas (6+ meses, contínuo)
+### . Orientação a objetos e paradigmas (+ meses, contínuo)
 
 O que dominar: classes, encapsulamento, herança, polimorfismo e interfaces (em Java), e a consciência de que OO é um paradigma entre vários — funcional, procedural, lógico. O que praticar: projetos pequenos porém completos (um sistema de cadastro, um jogo simples), refatorando quando o design ranger. É aqui que você deixa de escrever programas e começa a projetar software.
 

@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Paradigmas de Linguagem de Programação"
+title: Paradigmas de Linguagem de Programação
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Paradigmas De Linguagem De Programacao|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Paradigmas De Linguagem De Programacao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,65 +24,65 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Visão geral de linguagens de programação: valores e tipos; variáveis e comandos; associações e escopo; abstração e mecanismos de passagens de parâmetros; encapsulamento; sistema de tipos; sequenciadores; concorrência. Paradigmas: imperativo, funcional, lógico, orientado a objetos e paradigmas híbridos.
-> ### Objetivos
+> **Objetivos**
 > - Compreender os principais conceitos e paradigmas das linguagens de programação permitindo a seleção de uma linguagem mais adequada para solução de um dado problema.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/Algoritmos e Técnicas de Programação|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/6-periodo/programacao-orientada-a-objetos-i/Programação Orientada a Objetos I|CSECBJI.45 - Programação Orientada a Objetos I]]
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Visão Geral de Linguagens de Programação**
-> 	- Conceito e Paradigmas
-> 	- Sintaxe Semântica
-> 	- Compiladores e Interpretadores
+>   - Conceito e Paradigmas
+>   - Sintaxe Semântica
+>   - Compiladores e Interpretadores
 > - **2. Valores e Tipos**
-> 	- Valores e Tipos
-> 	- Tipos Primitivos
-> 	- Tipos Compostos
-> 	- Tipos Recursivos
-> 	- Sistemas de Tipos
-> 	- Expressões
+>   - Valores e Tipos
+>   - Tipos Primitivos
+>   - Tipos Compostos
+>   - Tipos Recursivos
+>   - Sistemas de Tipos
+>   - Expressões
 > - **3. Armazenamento**
-> 	- Variáveis e Constantes
-> 	- Variáveis Compostas
-> 	- Tempo de Vida de Variáveis
-> 	- Ponteiros
-> 	- Comandos
-> 	- Expressões com Efeitos Colaterais
+>   - Variáveis e Constantes
+>   - Variáveis Compostas
+>   - Tempo de Vida de Variáveis
+>   - Ponteiros
+>   - Comandos
+>   - Expressões com Efeitos Colaterais
 > - **4. Abstração Procedural**
-> 	- Tipos de Abstração
-> 	- Parâmetros e Argumentos
-> 	- Ordem de Avaliação
+>   - Tipos de Abstração
+>   - Parâmetros e Argumentos
+>   - Ordem de Avaliação
 > - **5. Abstração de Dados**
-> 	- Pacotes
-> 	- Encapsulamento
-> 	- Tipo Abstrato de Dados
-> 	- Objetos e Classes
+>   - Pacotes
+>   - Encapsulamento
+>   - Tipo Abstrato de Dados
+>   - Objetos e Classes
 > - **6. Fluxo de Controle**
-> 	- Sequenciadores
-> 	- Jumps
-> 	- Scapes
-> 	- Exceções
+>   - Sequenciadores
+>   - Jumps
+>   - Scapes
+>   - Exceções
 > - **7. Paradigmas de Programação**
-> 	- Programação Imperativa
-> 	- Programação Orientada a Objetos
-> 	- Programação Funcional
-> 	- Programação Lógico
-> 	- Paradigmas híbridos
+>   - Programação Imperativa
+>   - Programação Orientada a Objetos
+>   - Programação Funcional
+>   - Programação Lógico
+>   - Paradigmas híbridos
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. SEBESTA, R. W. Conceitos de Linguagens de Programação. 11ª Edição. Porto Alegre: Bookman, 2018.
 > 2. TUCKER, A. B., NOOMAN, R. Linguagens de Programação: Princípios e Paradigmas. 2ª Edição. São Paulo: McGraw Hill, 2009.
 > 3. WAMPLER, D. Programação Funcional para Desenvolvedores Java. São Paulo: Novatec, 2012.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. DONOVAN, A. A. A., KERNIGHAN, B. W. A Linguagem de Programação GO. São Paulo: Novatec, 2017.
 > 2. DOSXEY, C. Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis. São Paulo:
 > 3. Novatec: 2016.
@@ -87,4 +92,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Paradigmas De Linguagem De Programacao|Anotações da Disciplina]]**

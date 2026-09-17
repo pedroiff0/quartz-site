@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Física Experimental I"
+title: Física Experimental I
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Fisica Experimental I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fisica Experimental I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,16 +24,16 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Conservação da Energia Mecânica.
-> ### Objetivos
+> **Objetivos**
 > - Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
@@ -44,11 +49,11 @@ cssclasses:
 > - **9. Conservação de momento.**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
 > 2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:
 > 3. LTC, 2016. Vol.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017.
 > 2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013.
 > 3. TAVARES, A. D. Mecânica Física: Abordagem Experimental e Teórica. Rio de Janeiro: LTC, 2014.
@@ -57,4 +62,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Fisica Experimental I|Anotações da Disciplina]]**

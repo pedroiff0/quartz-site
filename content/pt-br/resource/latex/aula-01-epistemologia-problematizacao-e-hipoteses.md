@@ -1,7 +1,7 @@
 ---
 title: "Aula 01: Epistemologia, Problematização e Hipóteses"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-01-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-01-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-01-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Esta aula inaugura a formação estabelecendo os fundamentos epistemológicos da pesquisa científica. Aborda-se a transição do senso comum para o conhecimento científico, a formulação rigorosa da problematização e a construção de hipóteses testáveis.
 
-### 1. Fundamentos Epistemológicos e Método Científico
+### . Fundamentos Epistemológicos e Método Científico
 
 A ciência caracteriza-se pela busca sistemática da verdade por meio de métodos verificáveis e reprodutíveis. Investigam-se as correntes epistemológicas (empirismo, racionalismo, positivismo e falseacionismo de Karl Popper) e a estrutura lógica do raciocínio dedutivo e indutivo aplicado à Engenharia de Computação.
 
-### 2. Problematização e Explicitação da Lacuna de Pesquisa (*Research Gap*)
+### . Problematização e Explicitação da Lacuna de Pesquisa (*Research Gap*)
 
 Um problema de pesquisa científico não se confunde com uma dificuldade operacional. Deve ser formulado sob a forma de pergunta clara, delimitada no tempo e no espaço, e fundamentada na literatura existente. A lacuna de pesquisa representa a fronteira do conhecimento que o trabalho busca expandir.
 
-### 3. Formulação e Testabilidade de Hipóteses
+### . Formulação e Testabilidade de Hipóteses
 
 As hipóteses são respostas provisórias ao problema formulado. Em projetos tecnológicos, as hipóteses definem as premissas de desempenho, acurácia ou eficiência de um algoritmo ou arquitetura de hardware/software, devendo obrigatoriamente ser empiricamente testáveis.
 

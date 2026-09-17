@@ -6,7 +6,7 @@ discipline: Apresentação de Pesquisa
 content: Mapeamento não supervisionado da vizinhança solar com GCNS + GALAH DR4 usando t-SNE (Banner SBPC e Banner Escola de Inverno)
 professor: Orientação de Maria Luiza Linhares Dantas
 created: 2026-07-22 13:34
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 tags:
   - pesquisa
   - t-sne
@@ -55,7 +55,7 @@ Essa ideia de usar a composição química das estrelas como pista da história 
 
 ---
 
-## Os dados: GCNS + GALAH DR4
+## Os dados: GCNS + GALAH DR
 
 Dois catálogos entram nessa história:
 

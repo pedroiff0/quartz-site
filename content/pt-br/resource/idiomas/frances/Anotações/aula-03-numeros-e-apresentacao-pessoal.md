@@ -8,7 +8,7 @@ tags:
   - frances
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 03 — Números, Nacionalidades e Apresentação Pessoal
+# Aula — Números, Nacionalidades e Apresentação Pessoal
 
 > [!info] Metadados da Lição
 > - **Idioma:** Francês | **Nível Alvo:** A1

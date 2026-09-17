@@ -1,13 +1,13 @@
 ---
 publish: false
-title: "Aula Aula 01"
+title: "Aula 01 - Revisão"
+created: 2026-09-15 13:47
+modified: 2026-09-16 18:03
 encrypted: true
-password: "eng232"
+password: eng232
 tags:
   - aula
   - engenharia-de-computacao
-created: 2026-09-15 13:47
-modified: 2026-09-16 11:01
 cssclasses:
   - page-layout
 ---
@@ -19,9 +19,9 @@ cssclasses:
   </div>
 </div>
 
-# Aula Aula 01
+# Aula 01 - Revisão
 
-> [!info]  Informações & Checklist da Aula
+> [!info]- Informações & Checklist da Aula
 > - **Data da Aula:** 15/09/2026
 > - **Status de Revisão:**
 >   - [ ] Anotações em sala de aula
@@ -33,7 +33,7 @@ cssclasses:
 
 ## Anotações do Quadro & Conteúdo
 
-### Tópico 1: 
+### Tópico :
 - Trabalho 30% Indiv. + 20% Banco e Consultas + 20%  de Apresentação (Organização);
 
 1. Criar Banco
@@ -98,7 +98,7 @@ Chave Estrangeira (FK):
 ---
 
 ## Flashcards de Fixação (Spaced Repetition)
-#flashcard
+# flashcard
 <!-- Sintaxe: Pergunta::Resposta ou Pergunta:::Resposta invertida -->
 - 
 

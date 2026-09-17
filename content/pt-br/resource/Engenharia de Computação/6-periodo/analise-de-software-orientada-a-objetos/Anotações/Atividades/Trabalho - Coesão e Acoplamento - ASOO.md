@@ -1,42 +1,18 @@
 ---
 publish: true
 title: Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos
-subtitle: Estudo dos Níveis de Coesão, Princípios GRASP, Paradigmas e Métricas CK
-discipline: Análise de Software Orientada a Objetos
-period: 6-periodo
-professor: Pablo Manhães
-date: 2026-09-02
-status: concluído
-authors:
-  - Amanda do Carmo de Moraes
-  - Pedro Henrique Rocha de Andrade
-corresponding_author: Pedro Henrique Rocha de Andrade <pedroiff0@gmail.com>
-presenter: Pedro Henrique Rocha de Andrade
-short_title: Coesão & Acoplamento
+created: 2026-09-07 16:53
+modified: 2026-09-16 15:35
 encrypted: true
 password: eng232
-disciplina_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/analise-de-software-orientada-a-objetos/
-trabalho_url: https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/atividades/trabalho---coesao-e-acoplamento-asoo/
-roteiro_pdf: roteiro_iff_asoo.pdf
-slides_latex_claro: slides_iff_asoo.pdf
-slides_latex_escuro: slides_iff_asoo_preto.pdf
-portal_institucional: https://portal1.iff.edu.br/
 tags:
-  - disciplina
-  - engenharia-de-computacao
-  - trabalho
-  - apresentacao
   - atividade
-  - analise-de-software
-  - coesao
-  - acoplamento
-draft: false
+  - trabalho
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
   - center-titles
   - center-images
-created: 2026-09-07 16:53
-modified: 2026-09-15 21:34
 ---
 
 # Trabalho - Coesão e Acoplamento em Análise de Software (ASOO)
@@ -51,17 +27,19 @@ modified: 2026-09-15 21:34
 > - [x]  Apresentar Trabalho: Coesão e Acoplamento
 
 > [!important]  Acesso e Senha dos Arquivos
-> Os materiais gerados na pasta `_materiais/` e espelhados no Quartz Site são protegidos pela senha:
+> Os materiais gerados na pasta `04 - Recursos/Livros e Apostilas/Engenharia/` e espelhados no Quartz Site são protegidos pela senha:
 > **`eng232`**
 
 ---
 
 ## Recursos & Materiais da Disciplina
 
-> [!tip] 🔗 Arquivos e Materiais da Disciplina
-> - 📄 **Slides do Docente:** *Consulte os anexos vinculados*
-> - 📑 **Roteiro / Texto de Apoio:** *Consulte os materiais de aula*
-> - 📦 **Exercícios / Anexos:** *Disponíveis no repositório*
+<div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
+  <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
+  <div style="background: var(--lightgray, #e2e8f0); border-radius: 4px; overflow: hidden; height: 8px;">
+    <div style="background: var(--secondary, #6d28d9); width: 10%; height: 100%;"></div>
+  </div>
+</div>
 
 ---
 
@@ -73,7 +51,7 @@ modified: 2026-09-15 21:34
 - [ 5. Conclusões](#-5-conclusões)
 - [ Referências Bibliográficas](#-referências-bibliográficas)
 ---
-## 1. O que são Coesão e Acoplamento?
+## . O que são Coesão e Acoplamento?
 
 * **Coesão:** Mede a afinidade e o foco interno de um módulo (classe ou função). Um componente coeso faz **apenas uma coisa** de forma dedicada, sem misturar assuntos.
 * **Acoplamento:** Mede a dependência externa de um módulo em relação a outros. Quanto mais conexões, chamadas ou dados compartilhados um módulo possui com o mundo exterior, mais acoplado ele está.
@@ -83,7 +61,7 @@ modified: 2026-09-15 21:34
 
 ---
 
-## 2. A Relação Oposta e o Equilíbrio de Design
+## . A Relação Oposta e o Equilíbrio de Design
 Coesão e acoplamento atuam em direções opostas e complementares de complexidade:
 - **O Extremo do Zero Acoplamento:** Se tentarmos zerar o acoplamento colocando todo o código em uma única classe gigantesca (para que ela não dependa de mais ninguém), a coesão cai a zero, pois a classe passa a fazer tudo (*God Class*).
 - **O Extremo da Alta Coesão Sem Controle:** Se criarmos classes minúsculas contendo apenas um método cada para maximizar a coesão, teremos que conectá-las extensivamente para resolver regras de negócio simples, fazendo o acoplamento explodir.
@@ -91,7 +69,7 @@ Coesão e acoplamento atuam em direções opostas e complementares de complexida
 
 ---
 
-## 3. Paradigmas de Linguagens de Programação
+## . Paradigmas de Linguagens de Programação
 A forma como lidamos com a coesão e o acoplamento varia de acordo com o paradigma adotado:
 
 1. **Paradigma Estruturado (Procedural):**
@@ -109,7 +87,7 @@ A forma como lidamos com a coesão e o acoplamento varia de acordo com o paradig
 
 ---
 
-## 4. Coesão e Acoplamento como Métricas (LCOM e CBO)
+## . Coesão e Acoplamento como Métricas (LCOM e CBO)
 A qualidade do design não é apenas subjetiva; ela é medida por métricas estatísticas formais da suite CK (*Chidamber & Kemerer*):
 
 ### A. Métrica de Coesão: LCOM (*Lack of Cohesion in Methods*)
@@ -126,7 +104,7 @@ Mede a quantidade de outras classes que estão acopladas a uma determinada class
 
 ---
 
-## 5. Conclusões
+## . Conclusões
 - Coesão e acoplamento andam de mãos dadas: a busca por alta coesão e baixo acoplamento é o objetivo que guia refatorações e padrões de projeto (GRASP e GoF).
 - Entender como esses atributos se comportam nos diferentes paradigmas nos permite escolher a melhor abordagem arquitetural dependendo da linguagem e do domínio do problema.
 

@@ -6,7 +6,7 @@ discipline: Computação Científica de Alto Desempenho
 content: Introdução à Computação de Alto Desempenho (HPC) — paralelismo com OpenMP e MPI
 professor: Fernando Roig
 created: 2026-07-21 13:34
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 tags:
   - escola-de-inverno-on
   - hpc
@@ -19,7 +19,7 @@ cssclasses:
 ---
 
 **Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Computação/Computacao-Aula02|Computacao-Aula02 →]]
-# Notas de Aula — Computação de Alto Desempenho (Aula 01)
+# Notas de Aula — Computação de Alto Desempenho (Aula )
 
 > [!info] Informações da aula
 > **Título:** Computação de Alto Desempenho (HPC)
@@ -41,7 +41,7 @@ Muitos problemas de astrofísica (simulações de N corpos, hidrodinâmica, apre
 
 ---
 
-## 1. O que é HPC?
+## . O que é HPC?
 
 - Uso de **supercomputadores** (clusters de muitos computadores conectados, chamados **nós**) para rodar **computação paralela** — muitas operações acontecendo ao mesmo tempo, em vez de sequencialmente.
 - Aplicado a problemas de ciência de dados e engenharia de software que são grandes demais (em volume de dados ou custo computacional) para um único processador.
@@ -52,7 +52,7 @@ Processadores individuais praticamente pararam de ficar mais rápidos (limites f
 
 ---
 
-## 2. Processos, threads e os dois modelos de memória
+## . Processos, threads e os dois modelos de memória
 
 - **Thread:** uma linha de execução — a menor unidade de trabalho que a CPU processa. Múltiplas threads podem rodar em paralelo em núcleos diferentes.
 - **Processo:** um programa em execução, com **memória própria** isolada de outros processos.
@@ -84,7 +84,7 @@ Existem dois paradigmas principais para organizar o paralelismo:
 
 ---
 
-## 3. OpenMP — paralelismo de memória compartilhada
+## . OpenMP — paralelismo de memória compartilhada
 
 **OpenMP** é uma API (conjunto de diretivas de compilador) para programação paralela em memória compartilhada, mais usada em C/C++/Fortran. Seu uso mais comum é a **paralelização de laços (loops)** — o caso ideal, já que iterações independentes de um `for` podem ser distribuídas entre threads sem conflito.
 
@@ -122,7 +122,7 @@ Nem sempre as iterações de um laço custam o mesmo tempo de processamento — 
 
 ---
 
-## 4. MPI — paralelismo de memória distribuída
+## . MPI — paralelismo de memória distribuída
 
 Quando o problema é grande demais para caber (ou processar) em um único nó com memória compartilhada, passamos para o **MPI (Message Passing Interface)** — o padrão para programação em **memória distribuída**, com muitos processos rodando potencialmente em **muitos nós físicos diferentes**.
 

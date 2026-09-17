@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Processamento de Imagens"
+title: Processamento de Imagens
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Processamento De Imagens|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Processamento De Imagens|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,55 +24,55 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração de imagens. Fundamentos para um sistema de análise de imagens. Segmentação de imagens.
-> ### Objetivos
+> **Objetivos**
 > - Apresentar os fundamentos gerais sobre processamento de imagens e vídeos digitais. Desenvolver rotinas de processamento de imagens para diversas aplicações.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/eletivas/computacao-grafica/Computação Gráfica|CSECBJI.77 - Computação Gráfica]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Fundamentação, aplicações, representação e modelagem de imagens digitais**
-> 	- Conceitos básicos das áreas de processamento e análise de imagens
-> 	- Principais áreas de aplicação envolvendo o tratamento de imagens
-> 	- Componentes fundamentais de um sistema de processamento e análise de imagens
+>   - Conceitos básicos das áreas de processamento e análise de imagens
+>   - Principais áreas de aplicação envolvendo o tratamento de imagens
+>   - Componentes fundamentais de um sistema de processamento e análise de imagens
 > - **2. Aquisição de Imagens e Técnicas de Realce e Melhoria de Imagens**
-> 	- Aquisição e digitalização de imagens
-> 	- Propriedades de uma imagem digital
-> 	- Conversão para o formato digital
-> 	- Etapas do processamento e análise de imagens
-> 	- Captura e reprodução
-> 	- Armazenamento e Representação
+>   - Aquisição e digitalização de imagens
+>   - Propriedades de uma imagem digital
+>   - Conversão para o formato digital
+>   - Etapas do processamento e análise de imagens
+>   - Captura e reprodução
+>   - Armazenamento e Representação
 > - **3. Restauração de Imagens**
-> 	- Etapas do Processamento de uma Imagem
-> 	- Operações Matemáticas para Alterar os Valores dos Pixels de uma ou mais Imagens
-> 	- Realce de Contraste
-> 	- Correção e Iluminação Irregular
-> 	- Redução de Ruídos
-> 	- Redução de Borrado devido Movimento g. Correção de Foco
+>   - Etapas do Processamento de uma Imagem
+>   - Operações Matemáticas para Alterar os Valores dos Pixels de uma ou mais Imagens
+>   - Realce de Contraste
+>   - Correção e Iluminação Irregular
+>   - Redução de Ruídos
+>   - Redução de Borrado devido Movimento g. Correção de Foco
 > - **4. Fundamentos para um sistema de análise de imagens**
-> 	- Concepção de um Sistema de Visão Artificial
-> 	- Arquitetura de um Sistema de Visão Artificial
-> 	- Bibliotecas de Programação
+>   - Concepção de um Sistema de Visão Artificial
+>   - Arquitetura de um Sistema de Visão Artificial
+>   - Bibliotecas de Programação
 > - **5. Segmentação de Imagens**
-> 	- A Segmentação como Operação Pontual
-> 	- Segmentação por Região, Textura e Contorno
-> 	- Limiarização Local e Global
-> 	- Morfologia para Correção da Segmentação
-> 	- Erosão, Dilatação, Abertura e Fechamento
+>   - A Segmentação como Operação Pontual
+>   - Segmentação por Região, Textura e Contorno
+>   - Limiarização Local e Global
+>   - Morfologia para Correção da Segmentação
+>   - Erosão, Dilatação, Abertura e Fechamento
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018.
 > 2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003
 > 3. CONCI, A., AZEVEDO, E. Computação Gráfica: Teoria e Prática – Volume 2. São Paulo: Elsevier, 2007.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
 > 2. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
 > 3. GONZALEZ, R. C., WOODS, R. E. Processamento Digital de Imagens. 3ª Edição. São Paulo: Pearson, 4.
@@ -76,4 +81,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Processamento De Imagens|Anotações da Disciplina]]**

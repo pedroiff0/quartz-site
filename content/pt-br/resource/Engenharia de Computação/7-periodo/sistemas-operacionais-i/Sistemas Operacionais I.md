@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Sistemas Operacionais I"
+title: Sistemas Operacionais I
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Sistemas Operacionais I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sistemas Operacionais I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,16 +24,16 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Memória.
-> ### Objetivos
+> **Objetivos**
 > - Compreender o funcionamento dos mecanismos internos de Sistemas Operacionais.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Fundamentos de Computação|CSECBJI.1 - Fundamentos de Computação]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/Sistemas Operacionais II|CSECBJI.63 - Sistemas Operacionais II]]
 > - [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Algoritmos Distribuídos|CSECBJI.86 - Algoritmos Distribuídos]]
 > - [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Sistemas Distribuídos|CSECBJI.71 - Sistemas Distribuídos]]
@@ -36,50 +41,50 @@ cssclasses:
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução**
-> 	- O que é um Sistema Operacional?
-> 	- Revisão sobre Hardware de Computadores
-> 	- Tipos de Sistemas Operacionais
-> 	- Conceitos sobre Sistemas Operacionais
-> 		- i. Processos
-> 		- ii. Espaços de Endereçamento
-> 		- iii. Arquivos
-> 		- iv. Entrada e Saída
-> 		- v. Segurança
-> 		- vi. Interpretador de Comandos
-> 	- Chamadas de Sistemas
-> 		- i. Chamadas de Gerenciamento de Processos
-> 		- ii. Chamadas de Gerenciamento de Gerenciamento de Arquivos
-> 		- iii. Chamadas de Gerenciamento de Diretórios
-> 		- iv. Outras Chamadas de Sistema
-> 	- Estrutura de Sistemas Operacionais
-> 		- i. Sistemas Monolíticos
-> 		- ii. Sistemas em Camadas
-> 		- iii. Micronúcleo
-> 		- iv. Modelo Cliente-Servidor
-> 		- v. Máquinas Virtuais
-> 		- vi. Exonúcleo
+>   - O que é um Sistema Operacional?
+>   - Revisão sobre Hardware de Computadores
+>   - Tipos de Sistemas Operacionais
+>   - Conceitos sobre Sistemas Operacionais
+>   - i. Processos
+>   - ii. Espaços de Endereçamento
+>   - iii. Arquivos
+>   - iv. Entrada e Saída
+>   - v. Segurança
+>   - vi. Interpretador de Comandos
+>   - Chamadas de Sistemas
+>   - i. Chamadas de Gerenciamento de Processos
+>   - ii. Chamadas de Gerenciamento de Gerenciamento de Arquivos
+>   - iii. Chamadas de Gerenciamento de Diretórios
+>   - iv. Outras Chamadas de Sistema
+>   - Estrutura de Sistemas Operacionais
+>   - i. Sistemas Monolíticos
+>   - ii. Sistemas em Camadas
+>   - iii. Micronúcleo
+>   - iv. Modelo Cliente-Servidor
+>   - v. Máquinas Virtuais
+>   - vi. Exonúcleo
 > - **2. Processos e Threads**
-> 	- Processos
-> 	- Threads
-> 	- Comunicação entre Processos
-> 	- Escalonamento
-> 	- Problemas Básicos de IPC
+>   - Processos
+>   - Threads
+>   - Comunicação entre Processos
+>   - Escalonamento
+>   - Problemas Básicos de IPC
 > - **3. Gerenciamento de Memória**
-> 	- Sem Abstração de Memória
-> 	- Abstração de Memória: Espaços de Endereçamento
-> 	- Memória Virtual
-> 	- Algoritmos de Substituição de Páginas
-> 	- Questões de Projeto para Sistemas de Paginação
-> 	- Questões de Implementação
-> 	- Segmentação
+>   - Sem Abstração de Memória
+>   - Abstração de Memória: Espaços de Endereçamento
+>   - Memória Virtual
+>   - Algoritmos de Substituição de Páginas
+>   - Questões de Projeto para Sistemas de Paginação
+>   - Questões de Implementação
+>   - Segmentação
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
 > 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
 > 3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
 > 4. Porto Alegre: Bookman, 2018.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
 > 2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.
 > 3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição. Rio de Janeiro: LTC, 2015.
@@ -89,4 +94,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Sistemas Operacionais I|Anotações da Disciplina]]**

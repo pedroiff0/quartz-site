@@ -1,7 +1,7 @@
 ---
 title: "Aula 17: Engenharia de Classes .cls - Anatomia da ifftese e abntex2"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-17.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-17-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-17-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-17-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-17.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Análise técnica detalhada da engenharia de classes `.cls`. Herança da classe base `abntex2`, sobrescrita de comandos de folha de rosto, personalização de elementos pré-textuais e alinhamento às diretrizes do IFF.
 
-### 1. Arquitetura de Herança de Classe (`\LoadClass`)
+### . Arquitetura de Herança de Classe (`\LoadClass`)
 
 Entendimento de como a classe `ifftese.cls` herda as funcionalidades da classe nacional `abntex2` estendendo-a com a identidade visual e regras próprias do IFF Campus Bom Jesus.
 
-### 2. Customização dos Elementos Pré-Textuais Institucionais
+### . Customização dos Elementos Pré-Textuais Institucionais
 
 Sobrescrita dos métodos `\imprimircapa`, `\imprimirfolhaderosto` e `\imprimirfolhadeaprovacao` com posicionamento preciso de brasões institucionais e caixas de texto.
 
-### 3. Distribuição e Manutenibilidade da Classe
+### . Distribuição e Manutenibilidade da Classe
 
 Boas práticas de versionamento da classe institucional no ecossistema ReLaTeX para garantir compatibilidade retroativa entre turmas de graduação.
 

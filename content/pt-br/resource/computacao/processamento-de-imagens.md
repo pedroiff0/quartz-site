@@ -2,7 +2,7 @@
 publish: false
 title: Processamento de Imagens
 created: 2026-07-26 13:04
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -22,25 +22,25 @@ Além da aplicação óbvia em visão computacional (carros autônomos, reconhec
 
 ## Trilha de estudo
 
-### 1. Fundamentos e aquisição de imagens (2 semanas)
+### . Fundamentos e aquisição de imagens ( semanas)
 
 O que dominar: uma imagem digital como matriz de pixels, profundidade de cor (quantos bits representam cada pixel — 8 bits por canal é o padrão comum, mas imagens científicas frequentemente usam mais), o processo de aquisição/digitalização (como um sensor físico vira uma matriz de números), e os principais tipos de ruído que aparecem nesse processo (ruído gaussiano, ruído sal-e-pimenta). O que praticar: abrir uma imagem qualquer num notebook Python (com `numpy`/`PIL`) e inspecionar diretamente os valores numéricos de alguns pixels — a melhor forma de internalizar "imagem é matriz" é ver os números com os próprios olhos.
 
-### 2. Técnicas de realce e melhoria de imagens (2–3 semanas)
+### . Técnicas de realce e melhoria de imagens (– semanas)
 
 O que dominar: operações pontuais (ajuste de brilho e contraste — somar/multiplicar cada pixel por uma constante — e equalização de histograma, que redistribui os valores de intensidade para usar melhor toda a faixa disponível), e filtros espaciais baseados em **convolução**: cada pixel de saída é uma combinação ponderada (definida por um _kernel_) dos pixels vizinhos na entrada. Filtros de suavização (blur, média, gaussiano) reduzem ruído borrando a imagem; filtros de realce de borda (Sobel, Laplaciano) fazem o oposto, destacando onde a intensidade muda bruscamente. O que praticar: aplicar manualmente um kernel Sobel 3×3 sobre uma pequena região de pixels feita à mão (5×5, por exemplo) — fazer a convolução no papel uma vez é o que torna a operação intuitiva depois.
 
 ![Detecção de bordas com o operador de Sobel aplicado a uma fotografia real: a cor de cada pixel de saída representa o ângulo do gradiente de intensidade detectado naquele ponto.](https://commons.wikimedia.org/wiki/Special:FilePath/Valve_sobel_with_angle_colour_\(4\).PNG)
 
-### 3. Restauração de imagens (2 semanas)
+### . Restauração de imagens ( semanas)
 
 O que dominar: a diferença entre **realce** (melhorar a percepção subjetiva, sem modelo do que causou o problema) e **restauração** (reverter uma degradação **conhecida** — como borrado por movimento de câmera ou desfoque óptico — usando um modelo matemático dessa degradação); técnicas de correção de iluminação irregular e redução de ruído mantendo detalhes. O que praticar: comparar visualmente o resultado de um filtro de suavização simples (média) com o de um filtro que preserva bordas (bilateral ou mediana) sobre a mesma imagem ruidosa — a diferença mostra por que a escolha do filtro importa tanto quanto aplicá-lo.
 
-### 4. Fundamentos para um sistema de análise de imagens (2 semanas)
+### . Fundamentos para um sistema de análise de imagens ( semanas)
 
 O que dominar: a arquitetura geral de um sistema de visão artificial (aquisição → pré-processamento → segmentação → extração de características → reconhecimento/decisão), e uma introdução às bibliotecas de programação que implementam esse pipeline na prática (OpenCV é a referência da indústria, com bindings em Python e C++). O que praticar: instalar o OpenCV e rodar, com poucas linhas de código, um dos filtros já estudados (Sobel, equalização de histograma) sobre uma imagem real — comparar o resultado com sua implementação manual da etapa 2.
 
-### 5. Segmentação de imagens (2–3 semanas)
+### . Segmentação de imagens (– semanas)
 
 O que dominar: **limiarização** (_thresholding_) — separar pixels em duas classes (ex: objeto vs. fundo) comparando com um valor de corte, seja global (um único limiar pra imagem toda) ou local/adaptativo (o limiar varia conforme a região, essencial sob iluminação desigual); segmentação por região, textura e contorno; e **morfologia matemática** (erosão, dilatação, abertura, fechamento) — operações que ajustam a forma de regiões já segmentadas, removendo ruído pequeno ou fechando buracos. O que praticar: aplicar limiarização global numa imagem com iluminação desigual e observar como ela falha em parte da imagem — depois repetir com limiarização adaptativa e comparar o resultado.
 

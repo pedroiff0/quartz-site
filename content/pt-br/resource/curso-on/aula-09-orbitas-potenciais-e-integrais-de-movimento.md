@@ -2,7 +2,7 @@
 publish: false
 title: Aula 09 — Órbitas, Potenciais e Integrais de Movimento
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:51
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|← Aula 08 — Velocidades e Movimento Próprio]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Aula 10 — Integração de Órbitas com galpy →]]
 
-# Aula 09 — Órbitas, Potenciais e Integrais de Movimento
+# Aula — Órbitas, Potenciais e Integrais de Movimento
 
 > [!note] Resumo
 > Esta aula abre a unidade de Dinâmica do curso: como ir da distribuição de massa de uma galáxia ao potencial gravitacional que a governa (equação de Poisson), como descrever órbitas estelares nesse potencial (sistemas esféricos e axissimétricos, coordenadas ação-ângulo), por que galáxias podem ser tratadas como sistemas não colisionais, e como a equação de Boltzmann sem colisões e suas equações de Jeans conectam a dinâmica teórica a quantidades observáveis — fechando com o teorema do virial.

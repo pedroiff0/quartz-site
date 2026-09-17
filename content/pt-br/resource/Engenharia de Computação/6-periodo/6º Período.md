@@ -1,8 +1,11 @@
 ---
 publish: true
-title: "6º Período"
+title: 6º Período
 created: 2026-07-21 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
+tags:
+  - disciplina
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
 ---
@@ -27,7 +30,7 @@ cssclasses:
 
 ---
 
-## Quadro de Horários Semanal (2026-2)
+## Quadro de Horários Semanal (-)
 
 <div style="display: flex; gap: 12px; margin-bottom: 1.5rem; flex-wrap: wrap;" class="schedule-actions-bar">
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/cronograma-6-periodo.json" download="cronograma-6-periodo.json" class="btn-action" style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; background: #2563eb; color: #ffffff; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 0.9rem; box-shadow: 0 2px 4px rgba(37,99,235,0.2);">
@@ -88,35 +91,35 @@ Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Análise de Software Orientada a Objetos" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Análise de Software Orientada a Objetos" />
     <div class="slide-caption">Análise de Software OO</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Filosofia da Ciência e Tecnologia" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Filosofia da Ciência e Tecnologia" />
     <div class="slide-caption">Filosofia da Ciência e Tecnologia</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Banco de Dados" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Banco de Dados" />
     <div class="slide-caption">Banco de Dados</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Programação Orientada a Objetos I" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Programação Orientada a Objetos I" />
     <div class="slide-caption">POO I</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Eletrônica Digital" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Eletrônica Digital" />
     <div class="slide-caption">Eletrônica Digital</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Comunicação de Dados" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Comunicação de Dados" />
     <div class="slide-caption">Comunicação de Dados</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/compiladores" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Compiladores" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Compiladores" />
     <div class="slide-caption">Compiladores</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/gestao-de-projetos" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Gestão de Projetos" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Gestão de Projetos" />
     <div class="slide-caption">Gestão de Projetos</div>
   </a>
 </div>

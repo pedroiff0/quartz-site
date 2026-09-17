@@ -1,10 +1,13 @@
 ---
 publish: true
-title: "teste36"
+title: teste36
+created: 2026-09-07 16:46
+modified: 2026-09-16 15:35
+tags:
+  - aula
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
-created: 2026-09-07 16:46
-modified: 2026-09-14 20:12
 ---
 
 b

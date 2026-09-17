@@ -2,7 +2,7 @@
 publish: false
 title: Desenvolvimento Web
 created: 2026-07-26 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.975-03:00
 tags:
   - recursos
@@ -22,25 +22,25 @@ Além do valor prático, web é onde os conceitos de Redes (HTTP, cliente-servid
 
 ## Trilha de estudo
 
-### 1. Fundamentos da Web (1–2 semanas)
+### . Fundamentos da Web (– semanas)
 
 O que dominar: uma breve história da Internet e da World Wide Web (a diferença entre as duas: Internet é a infraestrutura de rede, Web é um dos serviços que roda sobre ela), o modelo **cliente-servidor** — o navegador (cliente) envia uma requisição HTTP, o servidor processa e devolve uma resposta —, os principais métodos HTTP (`GET`, `POST`, `PUT`, `DELETE`) e códigos de status (`200 OK`, `404 Not Found`, `500 Internal Server Error`). O que praticar: abrir as ferramentas de desenvolvedor do navegador (aba Network) e observar as requisições reais que um site qualquer faz ao carregar.
 
 ![O modelo cliente-servidor: o cliente envia requisições, o servidor processa e responde — a base de toda comunicação na Web.](https://commons.wikimedia.org/wiki/Special:FilePath/Client-server-model.svg)
 
-### 2. Desenvolvimento Front-End (3–4 semanas)
+### . Desenvolvimento Front-End (– semanas)
 
 O que dominar: HTML semântico (estruturar conteúdo com as tags certas, não só `<div>` pra tudo), CSS (o modelo de caixa — _box model_ —, e os dois sistemas de layout modernos, Flexbox e Grid), e JavaScript no navegador (manipulação do DOM, tratamento de eventos, requisições assíncronas com `fetch`). O que praticar: construir uma página estática simples (um formulário com validação em JavaScript) sem usar nenhum framework — entender a plataforma antes de abstraí-la é o que evita depender de "mágica" que você não sabe depurar.
 
-### 3. Desenvolvimento Back-End (3–4 semanas)
+### . Desenvolvimento Back-End (– semanas)
 
 O que dominar: como um servidor HTTP roteia requisições para código que as processa, o estilo arquitetural **REST** (recursos identificados por URL, verbos HTTP com significado semântico), e os dois mecanismos mais comuns de autenticação/sessão — sessão baseada em cookie (o servidor guarda estado) vs. token (ex: JWT — o próprio token carrega a informação, sem estado no servidor). O que praticar: construir uma API REST simples (um CRUD de "tarefas", por exemplo) usando qualquer framework (Express, Django, Flask) e testá-la com uma ferramenta como Postman ou `curl`.
 
-### 4. Banco de dados em sistemas Web (2 semanas)
+### . Banco de dados em sistemas Web ( semanas)
 
 O que dominar: como uma aplicação web se conecta a um Sistema de Gerenciamento de Banco de Dados (SGBD), o papel de um ORM (mapear objetos do código para tabelas do banco, evitando escrever SQL manual toda vez), e por que **nunca** confiar em entrada de usuário sem tratamento — a porta de entrada clássica pra SQL Injection. O que praticar: escrever a mesma consulta de duas formas — concatenando strings diretamente (vulnerável) e usando _prepared statements_/parâmetros (seguro) — e entender exatamente por que a primeira forma é perigosa.
 
-### 5. Engenharia Web (1–2 semanas)
+### . Engenharia Web (– semanas)
 
 O que dominar: uma visão geral de performance web (tempo de carregamento, cache), acessibilidade (o site funciona com leitor de tela? com teclado apenas?), segurança básica (XSS — injetar script malicioso via entrada não sanitizada —, e CSRF — forjar uma requisição em nome de um usuário autenticado), e o processo de deploy (colocar a aplicação no ar). O que praticar: rodar uma ferramenta de auditoria automática (como o Lighthouse, já embutido no Chrome) num site real e interpretar os resultados de performance/acessibilidade.
 

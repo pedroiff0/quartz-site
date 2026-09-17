@@ -2,7 +2,7 @@
 publish: false
 title: Aula 08 — Velocidades e Movimento Próprio
 created: 2026-07-23 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -20,7 +20,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|← Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento →]]
 
-# Aula 08 — Velocidades e Movimento Próprio
+# Aula — Velocidades e Movimento Próprio
 
 > [!note] Resumo
 > A última peça do quebra-cabeça (posição, química, idade e agora cinemática): como decompor a velocidade espacial de uma estrela em componentes radial e tangencial, e como referenciá-las ao Padrão Local de Repouso da Galáxia — a base observacional para qualquer estudo de dinâmica estelar (Unidade 3 da ementa).

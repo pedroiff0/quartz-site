@@ -6,7 +6,7 @@ discipline: Ciências Planetárias
 content: Sistema Solar — inventário, arquitetura e dinâmica orbital
 professor:
 created: 2026-07-20 13:34
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:22
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias
@@ -18,7 +18,7 @@ cssclasses:
 ---
 
 **Navegação (grafo):** [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/Planetaria/260721-Planetaria-Aula02|260721-Planetaria-Aula02 →]]
-# Notas de Aula — Ciências Planetárias (Aula 01)
+# Notas de Aula — Ciências Planetárias (Aula )
 
 > [!info] Informações da aula
 > **Tema:** O Sistema Solar — inventário, arquitetura e dinâmica orbital
@@ -40,7 +40,7 @@ Esta aula apresenta o Sistema Solar como um sistema físico: quais objetos o com
 
 ---
 
-## 1. O Sol e o inventário do Sistema Solar
+## . O Sol e o inventário do Sistema Solar
 
 O **Sol** é uma **anã amarela** (*yellow dwarf*, tipo espectral G — ver nota de Arqueologia Galáctica) que concentra **99,8% da massa** total do Sistema Solar, mas apenas **0,6% do momento angular total** — quase todo o momento angular do sistema está, na verdade, nas órbitas dos planetas (principalmente os gigantes gasosos), não na rotação do Sol. Essa distribuição é uma pista importante sobre como o sistema se formou (ver seção 5).
 
@@ -56,7 +56,7 @@ Composição do Sol (em massa): **~74% Hidrogênio, ~24% Hélio, ~2% elementos m
 
 ---
 
-## 2. Arquitetura do Sistema Solar
+## . Arquitetura do Sistema Solar
 
 Do centro para fora: os planetas terrestres, o **cinturão de asteroides**, os planetas gigantes, o **cinturão de Kuiper** e, muito mais distante, a **Nuvem de Oort**.
 
@@ -85,7 +85,7 @@ Reservatório esférico de cometas, muito além do cinturão de Kuiper, consider
 
 ---
 
-## 3. Dinâmica orbital
+## . Dinâmica orbital
 
 ### Gravitação Universal
 A força que rege todo o Sistema Solar é a **gravitação de Newton**:
@@ -120,7 +120,7 @@ Uma órbita fechada completa é definida por **6 parâmetros** (os *elementos or
 
 ---
 
-## 4. Ferramentas de estudo em dinâmica planetária
+## . Ferramentas de estudo em dinâmica planetária
 
 | | Analíticas | Numéricas |
 |---|---|---|
@@ -131,7 +131,7 @@ Uma órbita fechada completa é definida por **6 parâmetros** (os *elementos or
 
 ---
 
-## 5. Como o Sistema Solar se formou
+## . Como o Sistema Solar se formou
 
 1. Uma **nuvem molecular interestelar** (fria e densa) começa o processo.
 2. **Colapso gravitacional** da nuvem, iniciado por alguma perturbação (ex.: onda de choque de uma supernova próxima).
@@ -149,10 +149,10 @@ Uma órbita fechada completa é definida por **6 parâmetros** (os *elementos or
 > 1. **Baixa massa de Marte:** os modelos clássicos de formação planetária previam um Marte muito mais massivo do que o observado — um dos problemas centrais que motivou modelos mais recentes.
 > 2. **Mistura radial (modelo "Grand Tack"):** propõe que Júpiter migrou para dentro e depois voltou para fora nos primeiros milhões de anos do Sistema Solar, "misturando" material de diferentes regiões e explicando, entre outras coisas, a baixa massa de Marte.
 > 3. **Modelo de Nice:** modelo dinâmico que explica a arquitetura atual dos planetas gigantes através de:
->    1. Uma configuração orbital inicial mais compacta.
->    2. A dispersão gradual do disco primordial de planetesimais.
->    3. A captura dos asteroides **Troianos** de Júpiter.
->    4. O **Bombardeio Intenso Tardio** (*Late Heavy Bombardment*) da Lua — um período de impactos muito mais intensos que hoje, atribuído à reorganização orbital dos planetas gigantes.
+>   1. Uma configuração orbital inicial mais compacta.
+>   2. A dispersão gradual do disco primordial de planetesimais.
+>   3. A captura dos asteroides **Troianos** de Júpiter.
+>   4. O **Bombardeio Intenso Tardio** (*Late Heavy Bombardment*) da Lua — um período de impactos muito mais intensos que hoje, atribuído à reorganização orbital dos planetas gigantes.
 
 ---
 

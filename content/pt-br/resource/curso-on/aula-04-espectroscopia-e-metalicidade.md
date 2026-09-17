@@ -2,7 +2,7 @@
 publish: false
 title: Aula 04 — Espectroscopia e Metalicidade
 created: 2026-07-23 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|← Aula 03 — Magnitudes, Cores e Classificação Espectral]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Aula 05 — Avermelhamento, Extinção e IMF →]]
 
-# Aula 04 — Espectroscopia e Metalicidade
+# Aula — Espectroscopia e Metalicidade
 
 > [!note] Resumo
 > A espectroscopia é o fundamento indispensável da astrofísica moderna: revela composição química, movimento e distância a partir de como a matéria emite e absorve radiação. Esta aula percorre a física da formação de linhas espectrais e chega à notação \[Fe/H], usada em toda a arqueologia galáctica para medir metalicidade.

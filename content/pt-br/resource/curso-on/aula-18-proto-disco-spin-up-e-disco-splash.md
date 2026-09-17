@@ -2,7 +2,7 @@
 publish: false
 title: Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|← Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo →]]
 
-# Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
+# Aula — Proto-Disco, Spin-Up e o Disco Splash
 
 > [!note] Resumo
 > Primeira metade da aula de síntese do curso: como ir de observações brutas (astrometria, fotometria, espectroscopia) a parâmetros orbitais completos, e como isso reconstrói a cronologia mais antiga da Via Láctea — desde as candidatas a "proto-galáxia" (Kraken, Heracles, Aurora, entre outras), passando pela evidência de um disco já presente em $z\sim3$, o "spin-up" do disco em rotação, até o disco "splash" — estrelas do disco primordial aquecidas e lançadas para órbitas quase-halo pela fusão Gaia-Sausage-Enceladus.

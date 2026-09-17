@@ -2,7 +2,7 @@
 publish: false
 title: Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -22,7 +22,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|← Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites →]]
 
-# Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
+# Aula — O Bojo, a Barra e a Estrutura do Disco Galáctico
 
 > [!note] Resumo
 > Uma visão de conjunto da Via Láctea como galáxia: onde ela se encaixa na classificação morfológica de Hubble, como o bojo e a barra galáctica foram revelados por contagens estelares em infravermelho, como a decomposição orbital do bojo mostra que a barra é feita de estrelas "capturadas" do disco (não formadas ali), a estrutura de larga escala do disco (_warp_, _cutoff_, _flare_), e o catálogo atual de eventos de fusão confirmados no halo galáctico.

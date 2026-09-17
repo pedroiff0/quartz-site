@@ -1,8 +1,11 @@
 ---
 publish: true
-title: "4º Período"
+title: 4º Período
 created: 2026-07-21 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
+tags:
+  - disciplina
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
 ---
@@ -32,27 +35,27 @@ Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/4-periodo/estruturas-de-dados-ii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Estruturas de Dados II" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Estruturas de Dados II" />
     <div class="slide-caption">Estruturas de Dados II</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/4-periodo/calculo-numerico" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Cálculo Numérico" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Cálculo Numérico" />
     <div class="slide-caption">Cálculo Numérico</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/4-periodo/probabilidade-e-estatistica" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Probabilidade e Estatística" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Probabilidade e Estatística" />
     <div class="slide-caption">Probabilidade e Estatística</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/4-periodo/fisica-iii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Física III" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Física III" />
     <div class="slide-caption">Física III</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/4-periodo/fisica-experimental-iii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Física Experimental III" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Física Experimental III" />
     <div class="slide-caption">Física Experimental III</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/4-periodo/economia-para-engenharia" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Economia para Engenharia" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Economia para Engenharia" />
     <div class="slide-caption">Economia para Engenharia</div>
   </a>
 </div>

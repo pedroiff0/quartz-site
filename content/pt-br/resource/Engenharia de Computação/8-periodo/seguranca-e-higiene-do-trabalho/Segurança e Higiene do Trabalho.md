@@ -1,14 +1,20 @@
 ---
 publish: true
-title: "Segurança e Higiene do Trabalho"
+title: Segurança e Higiene do Trabalho
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
-  - disciplina
+  - atividade
+  - trabalho
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Seguranca E Higiene Do Trabalho|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Seguranca E Higiene Do Trabalho|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,17 +25,17 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (NR-5), Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho – Sesmt (NR-4), Equipamento de Proteção Individual (NR-6), Programa de Controle Médico de Saúde Ocupacional – Pcmso (NR-7), Programa de Prevenção de Riscos Ambientais – Ppra (NR-9), Segurança em Instalações e Serviços em Eletricidade (NR-10), Atividades e Operações Insalubres (NR-15), Atividades e Operações Perigosas (NR-16), Proteção Contra Incêndio (NR23).
-> ### Objetivos
+> **Objetivos**
 > - Identificar os conceitos básicos de Higiene e Segurança do Trabalho, bem como sua aplicação tanto em estudo de casos como em situações cotidianas;
 > - Demonstrar a importância das Normas e Legislações pertinentes à HST.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
@@ -39,41 +45,41 @@ cssclasses:
 > - **3. Equipamento de Proteção Individual (NR-6)**
 > - **4. Programa de Controle Médico de Saúde Ocupacional – PCMSO (NR-7)**
 > - **5. Programa de Prevenção de Riscos Ambientais – PPRA (NR-9)**
-> 	- Definição
-> 	- Do objeto e campo de aplicação
-> 	- Agentes
+>   - Definição
+>   - Do objeto e campo de aplicação
+>   - Agentes
 > - **6. Segurança em Instalações e Serviços em Eletricidade (NR-10)**
-> 	- Objetivo
-> 	- Tipos e características de trabalhos em instalações elétricas
-> 	- Campo de Aplicação
-> 	- Riscos Elétricos
-> 	- Medidas de Controle
-> 	- Medidas de Proteção Coletiva (continuação)
-> 	- Prontuário de Instalações Elétricas
-> 	- Critérios mínimos a serem atendidos por profissionais que, direta ou indiretamente, atuem em instalações elétricas.
-> 	- Treinamento
+>   - Objetivo
+>   - Tipos e características de trabalhos em instalações elétricas
+>   - Campo de Aplicação
+>   - Riscos Elétricos
+>   - Medidas de Controle
+>   - Medidas de Proteção Coletiva (continuação)
+>   - Prontuário de Instalações Elétricas
+>   - Critérios mínimos a serem atendidos por profissionais que, direta ou indiretamente, atuem em instalações elétricas.
+>   - Treinamento
 > - **7. Atividades e operações insalubres (NR-15)**
-> 	- Definição
-> 	- Agentes Qualitativos e Quantitativos
-> 	- Limites de Tolerância
-> 	- Adicional de Insalubridade
-> 	- Anexos da NR 15
-> 	- Graus de Insalubridade
+>   - Definição
+>   - Agentes Qualitativos e Quantitativos
+>   - Limites de Tolerância
+>   - Adicional de Insalubridade
+>   - Anexos da NR 15
+>   - Graus de Insalubridade
 > - **8. Atividades e Operações Perigosas (NR-16)**
-> 	- Definição
-> 	- Adicional de Periculosidade
-> 	- Anexos da NR 16
+>   - Definição
+>   - Adicional de Periculosidade
+>   - Anexos da NR 16
 > - **9. Proteção Contra Incêndio (NR23)**
-> 	- Conceitos Básicos de Incêndio
-> 	- Classe de Incêndio
-> 	- Agentes e tipos de Extintores
+>   - Conceitos Básicos de Incêndio
+>   - Classe de Incêndio
+>   - Agentes e tipos de Extintores
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. BARSANO, P. R., BARBOSA, R. P. Higiene e Segurança do Trabalho. 2ª Edição. São Paulo: Erica, 2018.
 > 2. \_\_\_\_\_\_. Segurança do Trabalho: Guia Prático e Didático. 2ª Edição. São Paulo: Erica, 2018.
 > 3. CAMISASSA, M. Q. Segurança e Saúde no Trabalho: NRs 1 a 36 Comentadas e Descomplicadas. 5ª Edição. São Paulo: Método, 2018.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. BARBOSA, R. P. Avaliação de Risco e Impacto Ambiental. São Paulo: Erica, 2014.
 > 2. CARDELLA, B. Segurança no Trabalho e Prevenção de Acidentes: Uma Abordagem Holística. 2ª Edição. Rio de Janeiro: LTC, 2016.
 > 3. MATTOS, U. Higiene e Segurança do Trabalho. São Paulo: Elsevier, 2011.
@@ -82,4 +88,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Seguranca E Higiene Do Trabalho|Anotações da Disciplina]]**

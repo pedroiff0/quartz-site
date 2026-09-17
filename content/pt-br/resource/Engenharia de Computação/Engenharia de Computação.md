@@ -2,14 +2,13 @@
 publish: true
 title: Engenharia de Computação
 created: 2026-07-22 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:22
 tags:
   - matriz-curricular
   - engenharia-de-computacao
   - trancas
   - pre-requisitos
   - iff
-order: 1
 cssclasses:
   - page-layout
 ---
@@ -26,7 +25,7 @@ Bem-vindo ao portal completo da matriz curricular, ementário, fluxo de período
 >   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcHoxOWp2cG93OHM0OTlyN2t3ZXN2eTVydW8wYmZzbnh3eTZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Top 5 Ranking Animation" style="max-width: 100%; height: 180px; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" />
 > </div>
 
-> ### TOP 5 MELHORES DISCIPLINAS
+> **TOP 5 MELHORES DISCIPLINAS**
 > -  **1. Equações Diferenciais** — *Cálculo diferencial avançado e modelagem matemática.*
 > -  **2. Cálculo 1** — *Limites, derivadas, integrais e fundamentação em análise.*
 > -  **3. Cálculo 4 \*** — *Séries numéricas, equações diferenciais parciais e transformadas.*
@@ -37,7 +36,7 @@ Bem-vindo ao portal completo da matriz curricular, ementário, fluxo de período
 
 
 > [!info]  Sistema Acadêmico IFF & Recursos Centrais
-> ### Plataforma Integrada de Gestão Curricular
+> **Plataforma Integrada de Gestão Curricular**
 > -  **[Mapeamento de Trancas Diretas & Recursivas](#-mapeamento-completo-de-trancas-e-dependências-curriculares)** — *Fluxogramas visuais em Mermaid, cadeias críticas e fecho transitivo.*
 > -  **[Matriz Curricular dos 10 Períodos](#-matriz-curricular-geral-90-disciplinas)** — *Grade completa com cargas horárias e componentes obrigatórios/eletivos.*
 > -  **[Documentos Oficiais & Ementário Completo](#-fontes-documentos-oficiais--materiais-de-apoio)** — *PPC Completo, relatórios e ementas originais arquivados em materiais.*
@@ -52,54 +51,54 @@ Navegue interativamente por cada um dos 10 períodos e disciplinas eletivas da g
 
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/1-periodo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="1º Período" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="1º Período" />
     <div class="slide-caption">1º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/2-periodo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="2º Período" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="2º Período" />
     <div class="slide-caption">2º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/3-periodo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="3º Período" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="3º Período" />
     <div class="slide-caption">3º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/4-periodo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="4º Período" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="4º Período" />
     <div class="slide-caption">4º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/5-periodo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="5º Período" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="5º Período" />
     <div class="slide-caption">5º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="6º Período" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="6º Período" />
     <div class="slide-caption">6º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/7-periodo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="7º Período" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="7º Período" />
     <div class="slide-caption">7º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/8-periodo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="8º Período" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="8º Período" />
     <div class="slide-caption">8º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/9-periodo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="9º Período" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="9º Período" />
     <div class="slide-caption">9º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/10-periodo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="10º Período" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="10º Período" />
     <div class="slide-caption">10º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Eletivas (optativas)" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Eletivas (optativas)" />
     <div class="slide-caption">Eletivas (optativas)</div>
   </a>
 </div>
 
 ---
 
-# Matriz Curricular Geral (90 Disciplinas)
+# Matriz Curricular Geral ( Disciplinas)
 
 Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenharia de Computação** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**.
 
@@ -112,22 +111,22 @@ Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenhari
 
 ---
 
-## 1º Período Letivo (520 horas)
+## º Período Letivo ( horas)
 
-| Código | Componente Curricular | CH | Pré-Requisitos | Observações |
-| :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.1` | [Fundamentos de Computação](<pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Fundamentos de Computação>) | 40h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.2` | [Introdução à Engenharia](<pt-br/resource/Engenharia de Computação/1-periodo/introducao-a-engenharia/Introdução à Engenharia>) | 40h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.3` | [Lógica para Computação](<pt-br/resource/Engenharia de Computação/1-periodo/logica-para-computacao/Lógica para Computação>) | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.4` | [Cálculo I](<pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Cálculo I>) | 120h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.5` | [Álgebra Linear e Geometria Analítica I](<pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Álgebra Linear e Geometria Analítica I>) | 80h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.6` | [Teoria Geral da Administração](<pt-br/resource/Engenharia de Computação/1-periodo/teoria-geral-da-administracao/Teoria Geral da Administração>) | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.7` | [Desenho Técnico para Engenharia](<pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/Desenho Técnico para Engenharia>) | 80h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.8` | [Expressão Oral e Escrita](<pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/Expressão Oral e Escrita>) | 40h | *Sem pré-requisito* | Obrigatória |
+| Código      | Componente Curricular                                                                                                                         |                    CH                    | Pré-Requisitos | Observações         |             |
+| :---------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------: | :------------- | :------------------ | ----------- |
+| `CSECBJI.1` | [Fundamentos de Computação](<pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/Fundamentos de Computação>)        | 40h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.2` | [Introdução à Engenharia](<pt-br/resource/Engenharia de Computação/1-periodo/introducao-a-engenharia/Introdução à Engenharia>)         | 40h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.3` | [Lógica para Computação](<pt-br/resource/Engenharia de Computação/1-periodo/logica-para-computacao/Lógica para Computação>)         | 60h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.4` | [Cálculo I](<pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/Cálculo I>)                | 120h           | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.5` | [Álgebra Linear e Geometria Analítica I](<pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/Álgebra Linear e Geometria Analítica I>) | 80h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.6` | [Teoria Geral da Administração](<pt-br/resource/Engenharia de Computação/1-periodo/teoria-geral-da-administracao/Teoria Geral da Administração>)      | 60h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.7` | [Desenho Técnico para Engenharia](<pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/Desenho Técnico para Engenharia>)     | 80h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.8` | [Expressão Oral e Escrita](<pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/Expressão Oral e Escrita>)        | 40h            | *Sem pré-requisito* | Obrigatória |
 
 ---
 
-## 2º Período Letivo (500 horas)
+## º Período Letivo ( horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
@@ -142,7 +141,7 @@ Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenhari
 
 ---
 
-## 3º Período Letivo (520 horas)
+## º Período Letivo ( horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
@@ -157,7 +156,7 @@ Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenhari
 
 ---
 
-## 4º Período Letivo (520 horas)
+## º Período Letivo ( horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
@@ -172,7 +171,7 @@ Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenhari
 
 ---
 
-## 5º Período Letivo (520 horas)
+## º Período Letivo ( horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
@@ -188,7 +187,7 @@ Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenhari
 
 ---
 
-## 6º Período Letivo (500 horas)
+## º Período Letivo ( horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
@@ -203,7 +202,7 @@ Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenhari
 
 ---
 
-## 7º Período Letivo (540 horas)
+## º Período Letivo ( horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
@@ -219,7 +218,7 @@ Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenhari
 
 ---
 
-## 8º Período Letivo (480 horas)
+## º Período Letivo ( horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
@@ -234,7 +233,7 @@ Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenhari
 
 ---
 
-## 9º Período Letivo (420 horas)
+## º Período Letivo ( horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
@@ -248,7 +247,7 @@ Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenhari
 
 ---
 
-## 10º Período Letivo (80 horas)
+## º Período Letivo ( horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
@@ -354,7 +353,7 @@ flowchart TD
 
 ---
 
-### Linha do Tempo Cronológica: Encadeamento de Trancas Período a Período (1ºP ao 10ºP)
+### Linha do Tempo Cronológica: Encadeamento de Trancas Período a Período (ºP ao ºP)
 
 
 > [!warning]  Efeito Cascata de Reprovações (Propagação Temporal)

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash|← Aula 18 — Proto-Disco, Spin-Up e o Disco Splash]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-20-bojo-barra-e-estrutura-do-disco|Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico →]]
 
-# Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo
+# Aula — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo
 
 > [!note] Resumo
 > Segunda metade da aula de síntese: o mecanismo detalhado da fusão Gaia-Sausage-Enceladus (antes, durante e depois do impacto), sua assinatura cinemática característica (a "Sausage"), a hipótese de que a mesma galáxia progenitora hospedou ω Centauri, sobredensidades do halo interno indistinguíveis da GSE, e um levantamento de correntes estelares e sobredensidades próximas ao plano galáctico (Sagitário, Monoceros, Triangulum-Andromeda) — boa parte deles, resultado da pesquisa do próprio professor.

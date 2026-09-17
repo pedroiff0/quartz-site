@@ -13,12 +13,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 
 ---
 
 **Navegação (grafo):** [[pt-br/resource/escolainverno/Cosmologia/Cosmologia-Aula02|← Cosmologia-Aula02]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]]
-# Notas de Aula — Cosmologia (Aula 03)
+# Notas de Aula — Cosmologia (Aula )
 
 > [!info] Informações da aula
 > **Tema esperado:** Estrutura em Grande Escala (EGE), terceira sonda observacional do cronograma anunciado na [[260721-Cosmologia-Aula01|Aula 01]].

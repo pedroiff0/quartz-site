@@ -19,7 +19,7 @@ cssclasses:
   - page-layout
   - paper-notes
 created: 2026-09-14 10:29
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 ---
 
 <div class="paper-banner">
@@ -47,7 +47,7 @@ modified: 2026-09-15 21:50
 
 ***
 
-## 1. Motivação e Isolamento Atual de Prompts
+## . Motivação e Isolamento Atual de Prompts
 
 > [!warning|#ffd000] *Artigo - Martins2026, p.1*
 > > *"Currently, prompts sent to LLMs reside entirely within application business logic, rendering them opaque to database optimization engines."*
@@ -56,7 +56,7 @@ modified: 2026-09-15 21:50
 
 ***
 
-## 2. Arquitetura do PromptDB & O Tipo de Dado `PROMPT`
+## . Arquitetura do PromptDB & O Tipo de Dado `PROMPT`
 
 > [!tip] *Artigo - Martins2026, p.3*
 > > *"By defining PROMPT as a composite SQL domain, database engines can perform algebraic rewrites, syntactic validation, and version branching natively."*

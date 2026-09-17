@@ -2,7 +2,7 @@
 publish: false
 title: Aula 10 — Integração de Órbitas com galpy
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
@@ -22,7 +22,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|← Aula 09 — Órbitas, Potenciais e Integrais de Movimento]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica →]]
 
-# Aula 10 — Integração de Órbitas com galpy
+# Aula — Integração de Órbitas com galpy
 
 > [!note] Resumo
 > Aula prática que aplica a teoria da Aula 09 (potenciais, integrais de movimento) em código real: construir e comparar potenciais da Via Láctea com [galpy](https://docs.galpy.org/), obter dados astrométricos do Gaia via consultas SQL/TAP, integrar a órbita 6D de uma estrela (posição + velocidade) propagando corretamente as incertezas observacionais, e simular como a galáxia anã de Sagitário, ao cair no disco por fricção dinâmica, perturba as órbitas de estrelas do disco.

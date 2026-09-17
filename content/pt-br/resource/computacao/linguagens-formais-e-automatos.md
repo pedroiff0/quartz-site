@@ -2,7 +2,7 @@
 publish: false
 title: Linguagens Formais e Autômatos
 created: 2026-07-26 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -22,27 +22,27 @@ Essa disciplina é o divisor de águas entre "programar por tentativa e erro" e 
 
 ## Trilha de estudo
 
-### 1. Linguagens regulares e autômatos finitos (2–3 semanas)
+### . Linguagens regulares e autômatos finitos (– semanas)
 
 O que dominar: alfabetos, cadeias e linguagens como conjuntos; expressões regulares e sua equivalência com Autômatos Finitos Determinísticos (AFD) e Não Determinísticos (AFN); construção de Thompson (regex → AFN); determinização (AFN → AFD, construção de subconjuntos); minimização de AFD; o Lema do Bombeamento para provar que uma linguagem **não** é regular. O que praticar: desenhar o AFD de linguagens simples ("cadeias que terminam em 01", "número par de zeros") à mão antes de confiar em ferramentas, e depois validar num simulador como o JFLAP.
 
 ![Autômato finito determinístico: círculos são estados, setas são transições rotuladas pelo símbolo de entrada, e o estado de aceitação aparece com contorno duplo.](https://commons.wikimedia.org/wiki/Special:FilePath/Deterministic_Finite-state_Automaton.svg)
 
-### 2. Linguagens livres de contexto e autômatos de pilha (2–3 semanas)
+### . Linguagens livres de contexto e autômatos de pilha (– semanas)
 
 O que dominar: gramáticas livres de contexto (regras de produção, símbolos terminais/não-terminais), árvores de derivação, ambiguidade gramatical, Forma Normal de Chomsky, e o Autômato de Pilha (pushdown automaton) — um AFD com memória extra em forma de pilha, exatamente o poder computacional a mais que permite reconhecer parênteses balanceados e estruturas aninhadas (coisa que autômato finito puro não consegue). O que praticar: escrever a gramática de uma linguagem de expressões aritméticas com parênteses e desenhar sua árvore de derivação.
 
-### 3. Linguagens sensíveis ao contexto e a hierarquia de Chomsky (1–2 semanas)
+### . Linguagens sensíveis ao contexto e a hierarquia de Chomsky (– semanas)
 
 O que dominar: gramáticas irrestritas e sensíveis ao contexto, máquinas limitadas linearmente, e como as quatro classes (regular ⊂ livre de contexto ⊂ sensível ao contexto ⊂ recursivamente enumerável) se encaixam — cada nível ganha mais poder computacional trocando por mais custo de reconhecimento. O que praticar: para cada linguagem que você já viu, identificar em qual nível da hierarquia ela se encaixa e por quê.
 
 ![A hierarquia de Chomsky: quatro classes de linguagens formais encaixadas uma dentro da outra, da mais restrita (regular) à mais geral (recursivamente enumerável).](https://commons.wikimedia.org/wiki/Special:FilePath/Chomsky-hierarchy.svg)
 
-### 4. Máquina de Turing, computabilidade e o Problema da Parada (3–4 semanas)
+### . Máquina de Turing, computabilidade e o Problema da Parada (– semanas)
 
 O que dominar: a definição formal da Máquina de Turing (fita infinita, cabeçote de leitura/escrita, tabela de transição), suas variações (multi-fita, não determinística — e por que são equivalentes em poder computacional, mesmo que não em eficiência), a Tese de Church-Turing (tudo que é "efetivamente computável" pode ser computado por uma Máquina de Turing), e o resultado mais famoso da área: o **Problema da Parada é indecidível** — não existe (e nunca vai existir) um algoritmo geral que decida se um programa arbitrário vai terminar ou rodar para sempre. O que praticar: entender a prova por diagonalização/redução do Problema da Parada — é curta, mas densa; vale reescrevê-la com suas próprias palavras até fazer sentido.
 
-### 5. Cálculo lambda e funções recursivas (1 semana)
+### . Cálculo lambda e funções recursivas ( semana)
 
 O que dominar: uma visão panorâmica de dois modelos alternativos de computação — o cálculo lambda (funções como valores, aplicação e abstração) e as funções recursivas (primitivas vs. parciais) — e por que ambos são **equivalentes** à Máquina de Turing em poder computacional. O que praticar: nenhuma prática pesada é esperada aqui — o objetivo é reconhecer que "computável" tem várias definições formais equivalentes, o que reforça a força da Tese de Church-Turing.
 

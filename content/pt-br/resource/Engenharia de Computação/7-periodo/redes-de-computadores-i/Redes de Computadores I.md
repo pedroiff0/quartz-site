@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Redes de Computadores I"
+title: Redes de Computadores I
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Redes De Computadores I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Redes De Computadores I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,9 +24,9 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Redes; Qualidade de Serviço; Segurança; Protocolo IP.
-> ### Objetivos
+> **Objetivos**
 > - Apresentar os princípios básicos de redes de computadores.
 > - Estudar os fundamentos de redes para que o acadêmico consiga estruturar, planejar, e configurar uma estrutura básica de redes;
 > - Compreender as camadas de referência das estruturas de redes;
@@ -29,9 +34,9 @@ cssclasses:
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/Comunicação de Dados|CSECBJI.47 - Comunicação de Dados]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/8-periodo/redes-de-computadores-ii/Redes de Computadores II|CSECBJI.59 - Redes de Computadores II]]
 > - [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Algoritmos Distribuídos|CSECBJI.86 - Algoritmos Distribuídos]]
 > - [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/Sistemas Distribuídos|CSECBJI.71 - Sistemas Distribuídos]]
@@ -39,46 +44,46 @@ cssclasses:
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução as Redes de Computadores**
-> 	- Conceituação
-> 	- Tipos
-> 	- Topologias
-> 	- Evolução e Histórico das Redes de Computadores
-> 	- Equipamentos Utilizados
+>   - Conceituação
+>   - Tipos
+>   - Topologias
+>   - Evolução e Histórico das Redes de Computadores
+>   - Equipamentos Utilizados
 > - **2. Modelos OSI e TCP/IP**
-> 	- Modelo OSI e Modelo TCP/IP
-> 	- Camadas do Modelo OSI
-> 		- i. Física
-> 		- ii. Enlace
-> 		- iii. Rede
-> 		- iv. Transporte
-> 		- v. Sessão
-> 		- vi. Apresentação
-> 		- vii. Aplicação
-> 	- Camadas do Modelo TCP/IP
-> 		- i. Rede
-> 		- ii. Internet
-> 		- iii. Transporte
-> 		- iv. Aplicação
-> 	- Modelo OSI x Modelo TCP/IP
+>   - Modelo OSI e Modelo TCP/IP
+>   - Camadas do Modelo OSI
+>   - i. Física
+>   - ii. Enlace
+>   - iii. Rede
+>   - iv. Transporte
+>   - v. Sessão
+>   - vi. Apresentação
+>   - vii. Aplicação
+>   - Camadas do Modelo TCP/IP
+>   - i. Rede
+>   - ii. Internet
+>   - iii. Transporte
+>   - iv. Aplicação
+>   - Modelo OSI x Modelo TCP/IP
 > - **3. Arquitetura das Redes**
-> 	- Escalabilidade
-> 	- Tolerância à Falhas Qualidade de Serviço
+>   - Escalabilidade
+>   - Tolerância à Falhas Qualidade de Serviço
 > - **4. Segurança**
 > - **5. Meio de Comunicação**
-> 	- Fio de Cobre
-> 	- Sem Fio
-> 	- Óptico
+>   - Fio de Cobre
+>   - Sem Fio
+>   - Óptico
 > - **6. Protocolo IP**
-> 	- Conceituação do Protocolo IP
-> 	- Endereçamento IP
+>   - Conceituação do Protocolo IP
+>   - Endereçamento IP
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre:
 > 2. Bookman, 2015.
 > 3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem TopDown. 6ª Edição. Pearson, 2013.
 > 4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books, 2009.
 > 2. CARISSIMI, A. S., ROCHOL, J.
 > 3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman, 2017.
@@ -89,4 +94,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Redes De Computadores I|Anotações da Disciplina]]**

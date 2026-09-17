@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Cálculo III"
+title: Cálculo III
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Calculo Iii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Calculo Iii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,9 +24,9 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss;
-> ### Objetivos
+> **Objetivos**
 > - Compreender os conceitos, procedimentos e técnicas do Cálculo III, desenvolvendo a capacidade de formular hipóteses e selecionar estratégias de ação;
 > - Utilizar os conhecimentos e técnicas do Cálculo III na resolução de problemas em outras áreas do currículo e principalmente em sua vida profissional quando esses conhecimentos e técnicas se fizerem necessários;
 > - Desenvolver a capacidade de interpretar e criticar resultados obtidos;
@@ -29,50 +34,50 @@ cssclasses:
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/2-periodo/calculo-ii/Cálculo II|CSECBJI.9 - Cálculo II]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/Física III|CSECBJI.26 - Física III]]
 > - [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/Cálculo IV|CSECBJI.31 - Cálculo IV]]
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Funções a valores vetoriais**
-> 	- Definições, limite e continuidade
-> 	- Curvas no plano e no espaço: forma vetorial
-> 	- Limites de funções a valores vetoriais
-> 	- Continuidade de funções a valores vetoriais
-> 	- Diferenciação e integração
-> 	- Derivadas de funções a valores vetoriais
-> 	- Integrais de funções a valores vetoriais
-> 	- Velocidade vetorial e escalar, aceleração vetorial
-> 	- Comprimento de arco
-> 	- Cálculo do comprimento de arco
-> 	- A função comprimento de arco
-> 	- O parâmetro comprimento de arco Análise vetorial
+>   - Definições, limite e continuidade
+>   - Curvas no plano e no espaço: forma vetorial
+>   - Limites de funções a valores vetoriais
+>   - Continuidade de funções a valores vetoriais
+>   - Diferenciação e integração
+>   - Derivadas de funções a valores vetoriais
+>   - Integrais de funções a valores vetoriais
+>   - Velocidade vetorial e escalar, aceleração vetorial
+>   - Comprimento de arco
+>   - Cálculo do comprimento de arco
+>   - A função comprimento de arco
+>   - O parâmetro comprimento de arco Análise vetorial
 > - **2. Campos vetoriais**
-> 	- Definição
-> 	- Campos conservativos
-> 	- Função potencial
-> 	- Condição para campos conservativos no plano
-> 	- Rotacional de campos tridimensionais
-> 	- Condição para campos conservativos tridimensionais
-> 	- Divergência - Integrais de linha
-> 	- Integrais de linha de campos escalares
-> 	- Integrais de linha de campos vetoriais
-> 	- Campos conservativos e independência de caminhos
+>   - Definição
+>   - Campos conservativos
+>   - Função potencial
+>   - Condição para campos conservativos no plano
+>   - Rotacional de campos tridimensionais
+>   - Condição para campos conservativos tridimensionais
+>   - Divergência - Integrais de linha
+>   - Integrais de linha de campos escalares
+>   - Integrais de linha de campos vetoriais
+>   - Campos conservativos e independência de caminhos
 > - **3. Teorema de Green**
 > - **4. Teorema de Stokes**
 > - **5. Teorema da Divergência**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.
 > 2. \_\_\_\_\_\_. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.
 > 3. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 3. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
 > 4. \_\_\_\_\_\_. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
 > 5. STEWART, J. Cálculo: Volume 1. 8ª Edição. São Paulo: Cengage Learning, 2017.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. FERREIRA, P. C. P. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 1. Rio de Janeiro:
 > 2. Ciência Moderna, 2013.
 > 3. \_\_\_\_\_\_. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 2. Rio de Janeiro: Ciência Moderna, 2013.
@@ -83,4 +88,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Calculo Iii|Anotações da Disciplina]]**

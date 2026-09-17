@@ -2,7 +2,7 @@
 title: "Planejamento Letivo e Cronograma - LaTeX & Escrita Acadêmica"
 publish: true
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 tags:
   - latex
   - cronograma
@@ -45,17 +45,17 @@ graph LR
     C --> C2[20% Teste Prático em Sala]
 ```
 
-### 1º Bimestre — Metodologia Científica, Normalização e ABNT (Aulas 01 a 10)
+### º Bimestre — Metodologia Científica, Normalização e ABNT (Aulas a )
 - **60% — Trabalho Prático de Escrita:** Elaboração fundamentada de elementos pré-textuais, introdução (lacuna de pesquisa), revisão sistemática da literatura (PRISMA 2020) e metodologia científica alinhadas às normas canônicas ABNT.
 - **40% — Teste Prático em Aula:** Resolução individual em sala/laboratório de exercícios de verificação de normalização, citações ABNT NBR 10520:2023 e estruturação tabular IBGE 1993.
 
-### 2º Bimestre — Domínio TeX, Implementação e Automação ReLaTeX (Aulas 11 a 20)
+### º Bimestre — Domínio TeX, Implementação e Automação ReLaTeX (Aulas a )
 - **80% — Implementação Diferenciada e Customizada em LaTeX:** Desenvolvimento de documento acadêmico ou projeto científico estendido a partir da **base do modelo institucional do professor** (`ifftese.cls` ou `slidesiffmodelo.cls`), demonstrando originalidade, criação de macros customizadas (`macros.sty`), tabelas `booktabs` e gráficos vetoriais `TikZ`.
 - **20% — Teste Prático em Aula:** Avaliação de laboratório envolvendo compilação ao vivo, resolução de conflitos bibliográficos com Biber, depuração de preâmbulo e automatização com `latexmkrc`.
 
 ---
 
-## Cronograma Analítico por Encontro (Terças-feiras, 14h30 às 17h30)
+## Cronograma Analítico por Encontro (Terças-feiras, h às h)
 
 ### Módulo I — Epistemologia, Metodologia Científica e Elementos Pré-Textuais
 - **Aula 01 — 25/08/2026:** [[pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses|Epistemologia, Problematização e Hipóteses]]  
@@ -81,7 +81,7 @@ graph LR
 
 ---
 
-### Módulo III — Resultados, Discussão, Citações NBR 10520 e Referências NBR 6023
+### Módulo III — Resultados, Discussão, Citações NBR e Referências NBR
 - **Aula 09 — 20/10/2026:** [[pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt|Resultados e Apresentação de Dados (IBGE vs ABNT)]]  
   *Escopo:* Diferenciação técnica entre Tabelas (**IBGE 1993**) e Quadros (**ABNT NBR 14724**).
 - **Aula 10 — 27/10/2026:** [[pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023|Discussão, Citações NBR 10520 e Referências NBR 6023]]  

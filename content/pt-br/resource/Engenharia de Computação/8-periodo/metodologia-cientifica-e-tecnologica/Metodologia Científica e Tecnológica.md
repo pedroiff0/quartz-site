@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Metodologia Científica e Tecnológica"
+title: Metodologia Científica e Tecnológica
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Metodologia Cientifica E Tecnologica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Metodologia Cientifica E Tecnologica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,18 +24,18 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.
-> ### Objetivos
+> **Objetivos**
 > - Desenvolver conhecimentos teórico-práticos necessários para estudo e pesquisa, na perspectiva de subsidiar a realização de trabalhos acadêmicos e de educação continuada;
 > - 2. Construir um referencial teórico capaz de fundamentar a elaboração de trabalhos monográficos;
 > - Redigir um projeto de pesquisa, de acordo com as normas técnicas de apresentação de trabalhos científicos.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/9-periodo/projeto-final-de-curso-i/Projeto Final de Curso I|CSECBJI.67 - Projeto Final de Curso I]]
 
 
@@ -45,12 +50,12 @@ cssclasses:
 > - **8. Normas Técnicas**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo:
 > 2. Atlas, 2017.
 > 3. \_\_\_\_\_\_. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
 > 4. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier, 2014.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto.
 > 2. 3ª Edição. Porto Alegre: São Paulo, 2010.
 > 3. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.
@@ -60,4 +65,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Metodologia Cientifica E Tecnologica|Anotações da Disciplina]]**

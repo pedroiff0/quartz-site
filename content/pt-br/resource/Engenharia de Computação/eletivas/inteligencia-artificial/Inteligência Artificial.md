@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Inteligência Artificial"
+title: Inteligência Artificial
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Inteligencia Artificial|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Inteligencia Artificial|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,57 +24,57 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos de busca. Heurísticas. Conhecimento e raciocínio. Tópicos avançados.Aplicações de IA-Inteligência Artificial.
-> ### Objetivos
+> **Objetivos**
 > - Compreender os diferentes paradigmas que embasam as aplicações da IA. Entender os principais
 > - bjetivos e as limitações da Inteligência Artificial (IA). Aplicar os conceitos e técnicas da Inteligência Artificial.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/Projeto e Análise de Algoritmos|CSECBJI.34 - Projeto e Análise de Algoritmos]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
 > [!tip]  Conteúdo Programático
 > - **1. Histórico e Princípios de Inteligência Artificial (IA)**
-> 	- Definições de IA
-> 	- Histórico da IA
-> 	- Paradigmas da IA
+>   - Definições de IA
+>   - Histórico da IA
+>   - Paradigmas da IA
 > - **2. Resolução de Problemas**
-> 	- Agentes
-> 	- Exemplos de Problemas
+>   - Agentes
+>   - Exemplos de Problemas
 > - **3. Métodos de Busca**
-> 	- Estratégias de Busca
-> 	- Tipos de Busca
+>   - Estratégias de Busca
+>   - Tipos de Busca
 > - **4. Heurísticas**
-> 	- Busca Heurística
-> 	- Aplicações
+>   - Busca Heurística
+>   - Aplicações
 > - **5. Conhecimento e Raciocínio**
-> 	- Sistemas Baseados em Conhecimento
-> 	- Aquisição de Conhecimento
-> 	- Técnicas de Representação de Conhecimento
+>   - Sistemas Baseados em Conhecimento
+>   - Aquisição de Conhecimento
+>   - Técnicas de Representação de Conhecimento
 > - **6. Tópicos Avançados**
-> 	- Aprendizagem de Máquina
-> 	- Redes Neurais
-> 	- Algoritmos Genéticos
-> 	- Sistemas Especialistas
-> 	- Sistemas Fuzzy
-> 	- Indução de Regras
-> 	- Árvores de Decisão
-> 	- Mineração de Dados
+>   - Aprendizagem de Máquina
+>   - Redes Neurais
+>   - Algoritmos Genéticos
+>   - Sistemas Especialistas
+>   - Sistemas Fuzzy
+>   - Indução de Regras
+>   - Árvores de Decisão
+>   - Mineração de Dados
 > - **7. Aplicações de Inteligência Artificial**
-> 	- Exemplos de Aplicações
-> 	- Implementação
+>   - Exemplos de Aplicações
+>   - Implementação
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. COPPIN, B. Inteligência Artificial. Rio de Janeiro: LTC, 2010.
 > 2. LUGER, G. Inteligência Artificial. 6ª Edição. São Paulo: Pearson, 2013.
 > 3. LIMA, I., PINHEIRO, C., SANTOS, F. O. Inteligência Artificial. São Paulo: Elsevier, 2014.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. BRAGA, A. P., CARVALHO, A. P. L., LUDEMIR, T. B. Redes Neurais Artificiais: Teoria e Aplicações. 2ª Edição. Rio de Janeiro: LTC, 2007.
 > 2. FACELLI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina. Rio de Janeiro: LTC, 2011.
 > 3. LINDEN, R. Algoritmos Genéticos. 3ª Edição. Rio de Janeiro: Ciência Moderna, 2012.
@@ -78,4 +83,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Inteligencia Artificial|Anotações da Disciplina]]**

@@ -1,8 +1,11 @@
 ---
 publish: true
-title: "3º Período"
+title: 3º Período
 created: 2026-07-21 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
+tags:
+  - disciplina
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
 ---
@@ -32,27 +35,27 @@ Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-programacao-ii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Algoritmos e Programação II" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Algoritmos e Programação II" />
     <div class="slide-caption">Algoritmos e Programação II</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/3-periodo/estruturas-de-dados-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Estruturas de Dados I" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Estruturas de Dados I" />
     <div class="slide-caption">Estruturas de Dados I</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/3-periodo/calculo-iii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Cálculo III" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Cálculo III" />
     <div class="slide-caption">Cálculo III</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/3-periodo/equacoes-diferenciais" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Equações Diferenciais" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Equações Diferenciais" />
     <div class="slide-caption">Equações Diferenciais</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/3-periodo/fisica-ii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Física II" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Física II" />
     <div class="slide-caption">Física II</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/3-periodo/fisica-experimental-ii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Física Experimental II" />
+    <img src="/99 - Meta/attachments/assets/illustrations/classes.svg" alt="Física Experimental II" />
     <div class="slide-caption">Física Experimental II</div>
   </a>
 </div>

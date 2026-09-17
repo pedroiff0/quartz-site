@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Computação Paralela e Distribuída"
+title: Computação Paralela e Distribuída
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Computacao Paralela E Distribuida|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Computacao Paralela E Distribuida|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,16 +24,16 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralela e distribuída. Tópicos emergentes em computação paralela e distribuída.
-> ### Objetivos
+> **Objetivos**
 > - Prover conhecimento e experiência em programação paralela para o desenvolvimento de software que tenha como requisito a sua execução em um ambiente paralelo e distribuído.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/eletivas/algoritmos-distribuidos/Algoritmos Distribuídos|CSECBJI.86 - Algoritmos Distribuídos]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
@@ -38,38 +43,38 @@ cssclasses:
 > - **3. Alocação de Processadores**
 > - **4. Modelos Síncrono e Assíncrono de Computação**
 > - **5. Computações em Sistemas Anônimos**
-> 	- Limitações Intrínsecas
-> 	- Noções de conhecimento em sistemas distribuídos
+>   - Limitações Intrínsecas
+>   - Noções de conhecimento em sistemas distribuídos
 > - **6. Modelos de Computação**
-> 	- Eventos, ordem e estados globais
-> 	- A complexidade de computações distribuídas
+>   - Eventos, ordem e estados globais
+>   - A complexidade de computações distribuídas
 > - **7. Algoritmos Básicos**
-> 	- Propagação de Informação
-> 	- Algoritmos simples sobre grafos
-> 		- i. Teste de conectividade
-> 		- ii. Distâncias mais curtas
+>   - Propagação de Informação
+>   - Algoritmos simples sobre grafos
+>   - i. Teste de conectividade
+>   - ii. Distâncias mais curtas
 > - **8. Técnicas Básicas**
-> 	- Eleição de líder
-> 	- Gravação de estados globais
-> 	- Sincronização de redes
+>   - Eleição de líder
+>   - Gravação de estados globais
+>   - Sincronização de redes
 > - **9. Introdução à Alto-Estabilização**
-> 	- Detecção de Terminação
-> 	- Detecção de Deadlocks
+>   - Detecção de Terminação
+>   - Detecção de Deadlocks
 > - **10. Outros Algoritmos sobre Grafos**
-> 	- Árvores geradoras mínimas
-> 	- Fluxos em redes
+>   - Árvores geradoras mínimas
+>   - Fluxos em redes
 > - **11. Compartilhamento de Recursos**
-> 	- Algoritmos de exclusão mútua
-> 	- Dinning Philosopers
-> 	- Drinking Philosopers
+>   - Algoritmos de exclusão mútua
+>   - Dinning Philosopers
+>   - Drinking Philosopers
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
 > 2. Porto Alegre: Bookman, 2007.
 > 3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
 > 4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
 > 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
 > 3. Pearson, 2013.
@@ -81,4 +86,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Computacao Paralela E Distribuida|Anotações da Disciplina]]**

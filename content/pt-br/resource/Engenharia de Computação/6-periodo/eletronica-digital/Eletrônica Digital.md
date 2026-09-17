@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Eletrônica Digital"
+title: Eletrônica Digital
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Eletronica Digital|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Eletronica Digital|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,56 +24,56 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise de circuitos digitais combinacionais; formas padrão de funções lógicas; minimização de funções lógicas; mapas de Karnaugh; codificadores e decodificadores multiplexadores e demultiplexadores; flip-flops.
-> ### Objetivos
+> **Objetivos**
 > - ● Fundamentar conceitos relacionados a sistemas numéricos, códigos binários, funções lógicas e Álgebra de Boole;
 > - ● Analisar e sintetizar circuitos lógicos combinacionais;
 > - ● Introduzir o funcionamento dos Flip-Flop.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - [[pt-br/resource/Engenharia de Computação/1-periodo/logica-para-computacao/Lógica para Computação|CSECBJI.3 - Lógica para Computação]]
 > - [[pt-br/resource/Engenharia de Computação/5-periodo/eletronica-analogica/Eletrônica Analógica|CSECBJI.37 - Eletrônica Analógica]]
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-digitais/Sistemas Digitais|CSECBJI.53 - Sistemas Digitais]]
 
 
 > [!tip]  Conteúdo Programático
 > - [x] **1. Sistema de Numeração**
-> 	- [x] Notação Posicional
-> 	- [x] Sistemas Numéricos
-> 		- [x] i. Decimal
-> 		- [x] ii. Octal
-> 		- [x] iii. Binário
-> 		- [x] iv. Hexadecimal
-> 	- [x] Conversão entre Bases
+>   - [x] Notação Posicional
+>   - [x] Sistemas Numéricos
+>   - [x] i. Decimal
+>   - [x] ii. Octal
+>   - [x] iii. Binário
+>   - [x] iv. Hexadecimal
+>   - [x] Conversão entre Bases
 > - [x] **2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]**
-> 	- [x] Funções Lógicas [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [x] Tabelas Verdade [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [x] Álgebra Booleana [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [x] Teoremas de De Morgan [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [x] Teorema da Dualidade [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [x] Mintermos e Maxtermos [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
-> 	- [x] Simplificação de Equações e Circuitos Lógicos [[Aula 02 - Mapas de Karnough]]
-> 	- [x] Mapas de Karnaugh [[Aula 02 - Mapas de Karnough]]
+>   - [x] Funções Lógicas [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+>   - [x] Tabelas Verdade [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+>   - [x] Álgebra Booleana [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+>   - [x] Teoremas de De Morgan [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+>   - [x] Teorema da Dualidade [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+>   - [x] Mintermos e Maxtermos [[Anotações/Aula 01 - Portas Lógicas|Portas Lógicas]]
+>   - [x] Simplificação de Equações e Circuitos Lógicos [[Aula 02 - Mapas de Karnough]]
+>   - [x] Mapas de Karnaugh [[Aula 02 - Mapas de Karnough]]
 > - **3. Circuitos Combinacionais**
-> 	- Multiplexadores
-> 	- Demultiplexadores
-> 	- Codificadores
-> 	- Decodificadores
-> 	- Conversores de Código
-> 	- Circuitos Aritméticos
-> 	- Latches
-> 	- Flip-Flops
+>   - Multiplexadores
+>   - Demultiplexadores
+>   - Codificadores
+>   - Decodificadores
+>   - Conversores de Código
+>   - Circuitos Aritméticos
+>   - Latches
+>   - Flip-Flops
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. BIGNELL, J., DONOVAN, J. Eletrônica Digital. São Paulo: Cengage, 2009.
 > 2. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
 > 3. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 1: Sistemas Combinacionais. Porto Alegre: Bookman, 2013.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 4. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
 > 5. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
 > 6. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
@@ -77,4 +82,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Eletronica Digital|Anotações da Disciplina]]**

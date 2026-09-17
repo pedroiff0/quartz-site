@@ -1,7 +1,7 @@
 ---
 title: "Aula 19: Classes Especializadas (Beamer, Poster e Relatório)"
 created: 2026-08-04 13:34
-modified: 2026-09-15 21:35
+modified: 2026-09-16 12:22
 publish: true
 notes: "[ Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-19.pdf)"
 slide: "[ Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-19-branco.pdf)"
@@ -23,12 +23,12 @@ cssclasses:
 </div>
 
 > [!note]  Material Didático e Recursos da Aula
-> ### Material da Aula
+> **Material da Aula**
 > -  **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-19-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > -  **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-19-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > -  **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-19.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
-> ### Links Externos de Apoio
+> **Links Externos de Apoio**
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
 > - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
 > - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
@@ -44,15 +44,15 @@ cssclasses:
 
 Estudo e aplicação das classes institucionais especializadas ReLaTeX: apresentações em slides Beamer 16:9 (`slidesiffmodelo.cls`), pôsteres científicos A0 (`iffposter.cls`) e relatórios técnicos corporativos (`relatoriocorp.cls`).
 
-### 1. Design de Apresentações de TCC com Beamer 16:9
+### . Design de Apresentações de TCC com Beamer :
 
 Construção de slides institucionais nos temas Claro (White) e Escuro (Black), organização em blocos (`block`, `alertblock`, `exampleblock`) e automação do slide de título.
 
-### 2. Diagramação de Pôsteres Acadêmicos A0 com `iffposter.cls`
+### . Diagramação de Pôsteres Acadêmicos A com `iffposter.cls`
 
 Estruturação de banners de congressos em colunas responsivas, caixas de conteúdo com cantos arredondados e inserção de QR Codes cósmicos de acervo.
 
-### 3. Relatórios Técnicos Corporativos (`relatoriocorp.cls`)
+### . Relatórios Técnicos Corporativos (`relatoriocorp.cls`)
 
 Diagramação de relatórios industriais e laudos de engenharia com capa executiva, cabeçalhos institucionais e sumário executivo.
 

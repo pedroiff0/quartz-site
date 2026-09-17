@@ -8,7 +8,7 @@ tags:
   - portugues
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 02 — Sintaxe de Regência Verbal, Nominal e Concordância
+# Aula — Sintaxe de Regência Verbal, Nominal e Concordância
 
 > [!info] Metadados da Lição
 > - **Idioma:** Português | **Nível Alvo:** A1

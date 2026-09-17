@@ -2,7 +2,7 @@
 publish: true
 title: e-JINIFF 2024
 created: 2024-08-23 13:04
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 published: 2026-07-26T10:13:37.621-03:00
 photoFolder: ejiniff2024
 type: blog
@@ -10,7 +10,7 @@ cssclasses:
   - page-layout
 ---
 
-# e-JINIFF 2024
+# e-JINIFF
 
 > [!note] Resumo
 > Organizei a equipe de e-sports do campus Bom Jesus do Itabapoana na etapa institucional dos Jogos Eletrônicos da Rede Federal — 1º lugar em Valorant, 3º em Free Fire.

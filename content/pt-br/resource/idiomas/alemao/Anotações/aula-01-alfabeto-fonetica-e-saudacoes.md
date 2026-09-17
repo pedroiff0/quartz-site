@@ -8,7 +8,7 @@ tags:
   - alemao
   - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-15 21:33
+modified: 2026-09-16 12:20
 cssclasses:
   - page-layout
 ---
@@ -20,7 +20,7 @@ cssclasses:
   </div>
 </div>
 
-# Aula 01 — Alfabeto, Umlauts (Ä, Ö, Ü), Eszett (ß) e Saudações
+# Aula — Alfabeto, Umlauts (Ä, Ö, Ü), Eszett (ß) e Saudações
 
 > [!info] Metadados da Lição
 > - **Idioma:** Alemão | **Nível Alvo:** A1

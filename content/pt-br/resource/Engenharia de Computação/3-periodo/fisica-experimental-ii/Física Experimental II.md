@@ -1,14 +1,19 @@
 ---
 publish: true
-title: "Física Experimental II"
+title: Física Experimental II
 created: 2026-07-18 12:00
-modified: 2026-09-15 21:34
+modified: 2026-09-16 15:35
 tags:
   - disciplina
   - engenharia-de-computacao
 cssclasses:
   - page-layout
+cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 ---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[Anotações/Anotações — Fisica Experimental Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fisica Experimental Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/resource/Engenharia de Computação/Engenharia de Computação|Voltar para Engenharia]]**
+
 
 
 > [!info]  Informações Gerais da Disciplina
@@ -19,17 +24,17 @@ cssclasses:
 
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> ### Ementa
+> **Ementa**
 > Estudo das ondas num meio material. Ondas estacionárias. Ondas numa corda. O Pêndulo simples. Os princípios da Termodinâmica: características de substâncias simples e sua relação com as mudanças de temperatura. Dilatação linear. Calor Específico. Entropia e os processos reversíveis.
-> ### Objetivos
+> **Objetivos**
 > - ● Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas;
 > - ● Reconhecer ondas mecânicas.
 
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> ### Pré-requisitos Exigidos:
+> **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
-> ### Disciplinas Trancadas (Liberadas após conclusão):
+> **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 
@@ -42,12 +47,12 @@ cssclasses:
 > - **6. Entropia e os processos irreversíveis.**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> #### Bibliografia Básica
+> **Bibliografia Básica**
 > 1. RESNICK, R., WALKER, J.
 > 2. HALLIDAY, D. Fundamentos de Física – Volume 2 – Gravitação, Ondas e Termodinâmica. 10ª Edição. Rio de Janeiro, LTC, 2016.
 > 3. SERWAY, R., JEWETT, J. Princípios de Física – Volume II – Oscilações, Ondas e Termodinâmica. 2ª Edição. São Paulo: Cengage Learning, 2014.
 > 4. YOUNG, H. D., FREEDMAN, R.A. Física II: Termodinâmica e Ondas. 14ª Edição. São Paulo: Pearson, 2015. Vol. 2.
-> #### Bibliografia Complementar
+> **Bibliografia Complementar**
 > 1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 2: Oscilações, Ondas e Termodinâmica. 9ª Edição. São Paulo: Cengage Learning, 2017.
 > 2. NUSSENZVEIG, H. M. Curso de Física Básica: Fluidos, Oscilações, Ondas e Calor. 5ª Edição. São Paulo: Blucher, 2014.
 > 3. CHAVES, A. Física Básica: Gravitação, Fluídos, Ondas e Termodinâmica. Rio de Janeiro, LTC. 2007.
@@ -56,4 +61,4 @@ cssclasses:
 > 
 
 ## Anotações e Arquivos Didáticos
--  **Anotações da Disciplina**
+- **[[Anotações/Anotações — Fisica Experimental Ii|Anotações da Disciplina]]**

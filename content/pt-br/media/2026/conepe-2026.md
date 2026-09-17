@@ -2,7 +2,7 @@
 publish: false
 title: CONEPE - 2026
 created: 2026-07-18 13:34
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T10:40:03.400-03:00
 photoFolder: conepe2026
 type: blog
@@ -10,7 +10,7 @@ cssclasses:
   - page-layout
 ---
 
-# CONEPE - 2026
+# CONEPE -
 
 > [!note] Resumo
 > O Congresso de Ensino Pesquisa e Extensão (CONEPE) ocorre todos os anos, geralmente em Setembro, e promove a ciência feita dentro do contexto do interior do estado do Rio de Janeiro, com os vários campus do IFF, e da UENF.

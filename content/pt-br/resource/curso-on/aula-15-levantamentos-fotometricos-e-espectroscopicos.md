@@ -2,7 +2,7 @@
 publish: false
 title: Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
 created: 2026-07-25 12:36
-modified: 2026-09-15 21:50
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
@@ -21,7 +21,7 @@ professor: Hélio Dotto Perottoni
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|← Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|Aula 16 — Métodos de Determinação de Idades Estelares →]]
 
-# Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
+# Aula — Espectroscopia e Fotometria em Grandes Levantamentos
 
 > [!note] Resumo
 > Um panorama de como a astronomia observacional foi da contagem manual de objetos difusos (Messier, séc. XVIII) aos levantamentos digitais que hoje sustentam a arqueologia galáctica — fotografia (Carte du Ciel, POSS), a virada digital (SDSS), surveys all-sky (2MASS, WISE, DES, Euclid, LSST) e, por fim, um comparativo direto dos principais levantamentos espectroscópicos (Gaia, APOGEE, GALAH, LAMOST, DESI e outros) usados para reconstruir a história química e dinâmica da Via Láctea.

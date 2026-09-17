@@ -2,7 +2,7 @@
 publish: false
 title: Análise e Desempenho de Sistemas
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -21,19 +21,19 @@ Essas mesmas ferramentas alimentam o que o mercado chama de _system design_ e pl
 
 ## Trilha de estudo
 
-### 1. Métricas e fundamentos (iniciante)
+### . Métricas e fundamentos (iniciante)
 
 Domine o vocabulário quantitativo: latência vs. vazão (throughput), utilização, tempo de resposta, disponibilidade, percentis (por que p99 importa mais que a média). Revise probabilidade básica — variáveis aleatórias, distribuição exponencial e de Poisson — porque tudo adiante se apoia nela. Pratique medindo coisas reais: o tempo de resposta de um site, o uso de CPU da sua máquina sob carga. Tempo típico: 3 a 4 semanas.
 
-### 2. Teoria das filas (intermediário)
+### . Teoria das filas (intermediário)
 
 O coração da disciplina: o modelo M/M/1 e suas variações, a notação de Kendall, e a Lei de Little — a relação mais elegante e útil da área. Pratique resolvendo problemas numéricos: dado λ (taxa de chegada) e μ (taxa de serviço), calcule utilização, tamanho médio da fila e tempo de espera; depois varie os parâmetros e observe a explosão perto da saturação. Tempo típico: 6 a 8 semanas.
 
-### 3. Medição e benchmarking (intermediário-avançado)
+### . Medição e benchmarking (intermediário-avançado)
 
 Teoria sem medição é chute sofisticado. Aprenda a projetar experimentos de desempenho: geradores de carga, aquecimento, repetições, intervalos de confiança, e as armadilhas clássicas (medir com cache quente, ambiente compartilhado, média escondendo cauda). Pratique fazendo teste de carga numa aplicação sua e comparando o resultado com a previsão do modelo de filas. Tempo típico: 4 a 6 semanas.
 
-### 4. Simulação e planejamento de capacidade (avançado)
+### . Simulação e planejamento de capacidade (avançado)
 
 Quando o sistema é complexo demais para fórmula fechada, entra a simulação de eventos discretos: modelar chegadas, filas e servidores em código e rodar milhares de cenários. Feche com planejamento de capacidade: projetar crescimento, dimensionar recursos e analisar gargalos em redes de filas. Um simulador M/M/1 em Python cabe em 100 linhas — escreva o seu. Tempo típico: 6 a 8 semanas.
 

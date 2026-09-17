@@ -13,12 +13,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-modified: 2026-09-15 21:34
+modified: 2026-09-16 12:20
 
 ---
 
 **Navegação (grafo):** [[pt-br/resource/escolainverno/ArqGal/260720-Arqueologia-Galactica-Aula01|← 260720-Arqueologia-Galactica-Aula01]] · [[pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno| Hub]] · [[pt-br/resource/escolainverno/ArqGal/ArqueologiaGalactica-Aula03|ArqueologiaGalactica-Aula03 →]]
-# Notas de Aula — Arqueologia Galáctica (Aula 02)
+# Notas de Aula — Arqueologia Galáctica (Aula )
 
 > [!info] Informações da aula
 > **Tema esperado:** Aglomerados Globulares — sistemas com $10^5$ a $10^6$ estrelas, conforme anunciado ao final da [[260720-Arqueologia-Galactica-Aula01|Aula 01]].

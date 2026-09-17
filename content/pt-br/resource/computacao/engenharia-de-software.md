@@ -2,7 +2,7 @@
 publish: false
 title: Engenharia de Software
 created: 2026-07-18 13:04
-modified: 2026-09-15 21:49
+modified: 2026-09-16 12:20
 published: 2026-07-26T11:33:09.979-03:00
 tags:
   - recursos
@@ -21,19 +21,19 @@ Há também um motivo egoísta: as perguntas difíceis de entrevistas para vagas
 
 ## Trilha de estudo
 
-### 1. Processos e ciclo de vida (iniciante)
+### . Processos e ciclo de vida (iniciante)
 
 Entenda o problema que a área resolve: por que software atrasa, estoura orçamento e falha. Estude os modelos de processo (cascata, iterativo, ágil) menos como receitas e mais como respostas a contextos diferentes. Aprenda o ciclo completo: requisitos, projeto, implementação, testes, manutenção. Pratique escrevendo requisitos e casos de uso para um sistema pequeno. Tempo típico: 4 a 6 semanas.
 
-### 2. Orientação a objetos e UML (intermediário)
+### . Orientação a objetos e UML (intermediário)
 
 Domine os pilares de OO de verdade — encapsulamento, herança, polimorfismo, abstração — não como definições de prova, mas como ferramentas de gerenciamento de dependências. Aprenda os diagramas UML que o mercado realmente usa: classes, sequência e casos de uso. Pratique modelando um sistema completo antes de implementá-lo. Tempo típico: 6 a 8 semanas.
 
-### 3. Princípios de design e padrões (intermediário-avançado)
+### . Princípios de design e padrões (intermediário-avançado)
 
 Estude os princípios SOLID e o vocabulário de padrões de projeto (Strategy, Observer, Factory, Adapter...) — o [Refactoring Guru](https://refactoring.guru/) é excelente e gratuito para isso. A prática essencial: pegar código seu de seis meses atrás e refatorá-lo aplicando os princípios, sentindo na pele o que acoplamento alto custa. Tempo típico: 6 a 8 semanas.
 
-### 4. Arquitetura, testes e entrega (avançado)
+### . Arquitetura, testes e entrega (avançado)
 
 Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços, e os artigos do [Martin Fowler](https://martinfowler.com/) como guia. Em paralelo, leve testes a sério: pirâmide de testes, TDD, integração contínua. Pratique num projeto de verdade com equipe — o material de [[pt-br/resource/computacao/pratica-profissional|Prática Profissional]] complementa. Tempo típico: 8+ semanas, contínuo pela carreira.
 
