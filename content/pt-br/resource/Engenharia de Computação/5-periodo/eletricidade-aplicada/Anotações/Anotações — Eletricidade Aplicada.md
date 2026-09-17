@@ -22,6 +22,6 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[260325-Aula-Introducao-1\|Aula: Introducao]] | 25/03/2026 |
-| [[260405-Aula-Atividades1-1\|Aula: Atividades1]] | 05/04/2026 |
-| [[260413-Aula-ProvaCap9-1\|Aula: ProvaCap9]] | 13/04/2026 |
+| [[260405-Aula-Atividades1-1\|Aula: Atividades]] | 05/04/2026 |
+| [[260413-Aula-ProvaCap9-1\|Aula: ProvaCap]] | 13/04/2026 |
 | [[Anotações — Eletricidade Aplicada\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |

@@ -20,11 +20,11 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 ## Relação de Trabalhos & Atividades
 
-| Atividade / Trabalho | Data | Autoria | Docente |
-| :--- | :---: | :--- | :--- |
-| [[Trabalho - Espaço Cultural\|Trabalho - Espaço Cultural]] | 2026-09-10 | Pedro Henrique Rocha de Andrade, Ana Cecília Soja, Maria Luiza Dantas | — |
-| [[Trabalho 1 - Introdução à  e a Crítica dos Pressupostos\|Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos]] | 2026-09-02 | Bernardo Rainha Gomes, Pedro Henrique Rocha de Andrade | Rafael Tardin |
-| [[Trabalho 2 - Filosofia da Tecnologia\|Trabalho 2 - Filosofia da Tecnologia]] | 07/09/2026 | — | — |
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[Trabalho - Espaço Cultural\|Trabalho - Espaço Cultural]] | 10/09/2026 |
+| [[Trabalho 1 - Introdução à  e a Crítica dos Pressupostos\|Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos]] | 09/09/2026 |
+| [[Trabalho 2 - Filosofia da Tecnologia\|Trabalho 2 - Filosofia da Tecnologia]] | 07/09/2026 |
 
 ---
 
