@@ -4,7 +4,6 @@ title: Aula 01 - Apresentação SO
 created: 2026-09-03 13:28
 modified: 2026-09-16 18:50
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

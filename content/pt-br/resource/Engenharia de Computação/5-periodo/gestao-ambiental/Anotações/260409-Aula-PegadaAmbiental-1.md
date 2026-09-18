@@ -4,7 +4,6 @@ title: 260409-Aula-PegadaAmbiental-1
 created: 2026-04-09 14:49
 modified: 2026-09-16 15:35
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

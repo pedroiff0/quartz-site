@@ -4,7 +4,6 @@ title: Aula Sinais
 created: 2026-09-01 17:18
 modified: 2026-09-16 18:48
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

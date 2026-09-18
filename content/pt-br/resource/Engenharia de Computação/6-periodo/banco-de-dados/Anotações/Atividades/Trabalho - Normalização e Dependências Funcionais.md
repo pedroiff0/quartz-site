@@ -4,7 +4,6 @@ title: Trabalho - Normalização e Dependências Funcionais
 created: 2026-09-07 16:53
 modified: 2026-09-16 15:35
 encrypted: true
-password: eng232
 tags:
   - atividade
   - trabalho

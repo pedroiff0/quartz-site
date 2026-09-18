@@ -4,7 +4,6 @@ title: Aula 02 - Capítulo 3.3
 created: 2026-09-08 15:33
 modified: 2026-09-16 18:49
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

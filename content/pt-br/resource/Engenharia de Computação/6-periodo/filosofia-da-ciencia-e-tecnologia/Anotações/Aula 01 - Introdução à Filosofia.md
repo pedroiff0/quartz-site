@@ -4,7 +4,6 @@ title: "Aula 01 - Introdução à Filosofia (Miguel Reale)"
 created: 2026-09-01 17:00
 modified: 2026-09-16 19:21
 encrypted: true
-password: "eng232"
 tags:
   - aula
   - engenharia-de-computacao
