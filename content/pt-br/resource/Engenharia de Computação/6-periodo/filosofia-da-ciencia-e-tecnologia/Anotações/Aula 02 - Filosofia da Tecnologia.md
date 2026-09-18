@@ -4,7 +4,6 @@ title: "Aula 02 - Filosofia da Tecnologia (Alberto Cupani)"
 created: 2026-09-08 17:00
 modified: 2026-09-16 20:40
 encrypted: true
-password: "eng232"
 tags:
   - aula
   - engenharia-de-computacao

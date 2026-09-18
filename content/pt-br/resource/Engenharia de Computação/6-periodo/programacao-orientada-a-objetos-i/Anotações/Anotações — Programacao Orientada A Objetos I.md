@@ -4,7 +4,6 @@ title: Anotações — Programacao Orientada A Objetos I
 created: 2026-08-24 21:03
 modified: 2026-09-16 15:35
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

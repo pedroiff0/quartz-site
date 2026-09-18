@@ -4,7 +4,6 @@ title: Aula 01 - Introdução
 created: 2026-08-26 14:49
 modified: 2026-09-16 18:50
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

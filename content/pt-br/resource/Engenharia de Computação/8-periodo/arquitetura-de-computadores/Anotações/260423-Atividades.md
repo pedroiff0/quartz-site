@@ -4,7 +4,6 @@ title: 260423-Atividades
 created: 2026-04-23 14:49
 modified: 2026-09-16 15:35
 encrypted: true
-password: eng232
 tags:
   - atividade
   - trabalho

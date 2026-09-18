@@ -4,7 +4,6 @@ title: Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
 created: 2026-09-09 19:59
 modified: 2026-09-16 15:35
 encrypted: true
-password: eng232
 tags:
   - atividade
   - trabalho

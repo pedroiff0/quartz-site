@@ -4,7 +4,6 @@ title: Aula 03 - Capítulo 3.4
 created: 2026-09-09 16:58
 modified: 2026-09-16 18:49
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

@@ -1,7 +1,20 @@
 
+// Fallback aleatório por build: nunca um literal comitado no repo público.
+// Se a env var da secret não estiver setada, a página continua sendo
+// cifrada (nunca vaza em texto puro) mas com uma chave que ninguém tem —
+// falha de forma visível (ninguém decifra, nem o dono) em vez de
+// silenciosamente reusar uma senha antiga já exposta no histórico do git.
+let _buildFallbackPassword = null;
+function getBuildFallbackPassword() {
+  if (!_buildFallbackPassword) {
+    _buildFallbackPassword = crypto.randomBytes(24).toString("hex");
+  }
+  return _buildFallbackPassword;
+}
+
 function resolvePassword(frontmatter, passwordField, filePath) {
   if (!frontmatter) return null;
-  
+
   let pw = frontmatter[passwordField];
   let enc = frontmatter.encrypted;
   let scope = frontmatter.scope || frontmatter.password_scope;
@@ -34,15 +47,15 @@ function resolvePassword(frontmatter, passwordField, filePath) {
   if (isProtected) {
     const p = (filePath || "").toLowerCase();
     if (p.includes("latex") || p.includes("escrita") || p.includes("relatex") || p.includes("modeloslatex")) {
-      return process.env.PASSWORD_LATEX || "escritaiff2026";
+      return process.env.PASSWORD_LATEX || getBuildFallbackPassword();
     }
     if (p.includes("curso-on") || p.includes("cursoon") || p.includes("astronomia") || p.includes("arqueologia") || p.includes("escolainverno") || p.includes("escola-de-inverno") || p.includes("escola")) {
-      return process.env.PASSWORD_CURSO_ON || "409182ph";
+      return process.env.PASSWORD_CURSO_ON || getBuildFallbackPassword();
     }
     if (p.includes("engenharia") || p.includes("engcomp") || p.includes("periodo") || p.includes("disciplina")) {
-      return process.env.PASSWORD_ENGENHARIA || process.env.QUARTZ_ENCRYPT_PASSWORD || "eng232";
+      return process.env.PASSWORD_ENGENHARIA || process.env.QUARTZ_ENCRYPT_PASSWORD || getBuildFallbackPassword();
     }
-    return process.env.PASSWORD_DEFAULT || process.env.QUARTZ_ENCRYPT_PASSWORD || "eng232";
+    return process.env.PASSWORD_DEFAULT || process.env.QUARTZ_ENCRYPT_PASSWORD || getBuildFallbackPassword();
   }
 
   return null;

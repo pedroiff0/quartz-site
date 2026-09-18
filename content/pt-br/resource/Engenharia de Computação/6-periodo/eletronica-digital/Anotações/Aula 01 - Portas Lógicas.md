@@ -4,7 +4,6 @@ title: Aula 01 - Portas Lógicas
 created: 2026-08-24 14:50
 modified: 2026-09-16 18:49
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

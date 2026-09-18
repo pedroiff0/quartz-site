@@ -4,7 +4,6 @@ title: Aula 03 -  Correção
 created: 2026-09-11 23:15
 modified: 2026-09-16 18:49
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

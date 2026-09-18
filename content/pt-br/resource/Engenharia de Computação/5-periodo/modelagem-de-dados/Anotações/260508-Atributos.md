@@ -4,7 +4,6 @@ title: 260508-Atributos
 created: 2026-05-08 14:49
 modified: 2026-09-16 15:35
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

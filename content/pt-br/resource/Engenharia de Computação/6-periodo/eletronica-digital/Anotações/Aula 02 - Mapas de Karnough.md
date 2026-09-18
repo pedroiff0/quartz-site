@@ -4,7 +4,6 @@ title: Aula 02 - Mapas de Karnough
 created: 2026-08-31 17:02
 modified: 2026-09-16 18:49
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

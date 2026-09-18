@@ -4,7 +4,6 @@ title: Aula 02 - Construtores e Encapsulamento
 created: 2026-09-09 17:03
 modified: 2026-09-16 18:50
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

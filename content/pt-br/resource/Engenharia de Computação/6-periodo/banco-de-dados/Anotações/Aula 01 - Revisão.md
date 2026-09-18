@@ -4,7 +4,6 @@ title: "Aula 01 - Revisão"
 created: 2026-09-15 13:47
 modified: 2026-09-16 18:03
 encrypted: true
-password: eng232
 tags:
   - aula
   - engenharia-de-computacao

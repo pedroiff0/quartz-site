@@ -4,7 +4,6 @@ title: 260411-Aula-AtividadeModelagem-1
 created: 2026-04-11 14:49
 modified: 2026-09-16 15:35
 encrypted: true
-password: eng232
 tags:
   - atividade
   - trabalho
