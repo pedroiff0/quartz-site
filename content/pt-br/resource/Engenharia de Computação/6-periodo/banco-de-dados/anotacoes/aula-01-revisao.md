@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Revisão
 created: 2026-09-15 13:47
-modified: 2026-09-19 13:18
+modified: 2026-09-21 10:12
 encrypted: true
 tags:
 - aula
@@ -79,10 +79,7 @@ Chave Estrangeira (FK):
 * Generalização PESSOA(cpf,nome);
 
 * ItemDePedido(quantidade,preco,pedido:id(FK),produto:id(FK));
-
-
-
-
+* 
 ---
 
 ## Resumo Conceitual
@@ -91,18 +88,10 @@ Chave Estrangeira (FK):
 - **Pegadinhas / Atenção em Provas:**
 
 ---
-
 ## Esquemas & Anotações Visuais (excalidraw)
-<!-- No iPad: insira desenhos com 'excalidraw: Create and embed new drawing' para desenhar com Apple Pencil -->
 
 ---
-
-## Flashcards de Fixação (Spaced Repetition)
-# flashcard
-<!-- Sintaxe: Pergunta::Resposta ou Pergunta:::Resposta invertida -->
-- 
 
 ---
 
 ## Dúvidas & Exercícios Recomendados
-- [ ] 
