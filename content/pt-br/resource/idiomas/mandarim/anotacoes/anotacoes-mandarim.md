@@ -23,6 +23,9 @@ icon: lucide-book-open
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[anotacoes-mandarim\|Anotações — Mandarim]] | 14/09/2026 |
+| [[aula-01-alfabeto-fonetica-e-saudacoes\|Aula 01 — Pinyin, os 4 Tons do Mandarim e Saudações Iniciais]] | 14/09/2026 |
+| [[aula-02-pronomes-e-verbos-essenciais\|Aula 02 — Pronomes Pessoais e Verbos Fundamentais (Shì, Yǒu, Zài)]] | 14/09/2026 |
+| [[aula-03-numeros-e-apresentacao-pessoal\|Aula 03 — Números de 0 a 99, Países e Autoapresentação]] | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
 -  [[Atividades/Atividades — Mandarim|Acessar Caderno de Atividades de Mandarim]]
