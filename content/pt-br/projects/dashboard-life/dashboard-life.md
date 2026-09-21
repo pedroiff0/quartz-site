@@ -2,15 +2,16 @@
 publish: true
 title: dashboard-life
 tags:
-  - life-os
-  - habito
-  - metricas
+- life-os
+- habito
+- metricas
 repo: https://github.com/pedroiff0/dashboard-life
 status: privado
 cssclasses:
-  - page-layout
+- page-layout
 created: 2026-09-14 11:17
-modified: 2026-09-14 20:12
+modified: 2026-09-19 13:20
+icon: lucide-notebookpen
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

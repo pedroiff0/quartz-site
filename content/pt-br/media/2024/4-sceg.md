@@ -2,12 +2,13 @@
 publish: true
 title: 4ª SCEG 2024
 created: 2024-10-22 13:04
-modified: 2026-09-16 12:20
-published: 2026-07-26T10:13:34.504-03:00
+modified: 2026-09-19 13:20
+published: 2026-07-26 10:13:34.504000-03:00
 photoFolder: 4sceg2024
 type: blog
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-newspaper
 ---
 
 # ª SCEG
@@ -27,4 +28,4 @@ Fui organizador do evento, que priorizou protagonismo estudantil: minicursos de 
 ## Referências e correlatos
 
 - Fonte: [IFF — Tecnologia, inovação e-sports e capacitação marcam programação da 4ª SCEG](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/tecnologia-inovacao-e-sports-e-capacitacao-marcam-programacao-da-4-sceg)
-- [[pt-br/media/2024/e-jiniff-2024|e-JINIFF 2024]] — outra frente de e-sports estudantis no campus
+- [[03-midia/2024/e-jiniff-2024|e-JINIFF 2024]] — outra frente de e-sports estudantis no campus

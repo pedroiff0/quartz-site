@@ -2,14 +2,15 @@
 publish: true
 title: research
 tags:
-  - literatura
-  - arxiv
+- literatura
+- arxiv
 repo: https://github.com/pedroiff0/research
 status: privado
 cssclasses:
-  - page-layout
+- page-layout
 created: 2026-09-14 11:17
-modified: 2026-09-14 20:13
+modified: 2026-09-19 13:20
+icon: lucide-notebookpen
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

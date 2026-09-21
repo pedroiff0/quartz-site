@@ -2,18 +2,19 @@
 publish: false
 title: Mostra do Conhecimento - 2026
 created: 2026-07-18 13:34
-modified: 2026-09-16 12:20
-published: 2026-07-26T10:40:28.909-03:00
+modified: 2026-09-19 13:20
+published: 2026-07-26 10:40:28.909000-03:00
 photoFolder: mostra2026
 type: blog
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-newspaper
 ---
 
-# Mostra do Conhecimento -
+# Mostra do Conhecimento - 2026
 
 > [!note] Resumo
-> 
+> Revisão do conteúdo da Mostra do Conhecimento alinhada e concluída para o Miguel (17/09/2026).
 
 ## Sobre o evento
 
@@ -21,6 +22,7 @@ Página dedicada à participação na **[Mostra do Conhecimento](https://eventos
 
 ## Minha participação
 
+- **17/09/2026:** Conteúdo da Mostra revisado e validado junto com o Miguel (pôster e estrutura de apresentação).
 
 ## Palestras e minicursos assistidos
 
@@ -38,5 +40,5 @@ _(seção opcional — apague esta seção inteira se o evento não teve program
 
 ## Referências e correlatos
 
-- [[pt-br/projects/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — pesquisa completa por trás do pôster
-- [[pt-br/media/2025/sab-2025|SAB 2025]] — versão anterior do mesmo pôster
+- [[01-projetos/academico/anomaly-detection/README|Detecção de Anomalias em Dados do Gaia]] — pesquisa completa por trás do pôster
+- [[03-midia/2025/sab-2025|SAB 2025]] — versão anterior do mesmo pôster

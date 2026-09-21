@@ -2,17 +2,18 @@
 publish: true
 title: awesome-skills
 created: 2026-08-08 13:04
-modified: 2026-09-15 21:34
+modified: 2026-09-19 13:20
 tags:
-  - ia
-  - agente
-  - automacao
-  - open-source
-  - memoria-procedural
+- ia
+- agente
+- automacao
+- open-source
+- memoria-procedural
 repo: https://github.com/pedroiff0/awesome-skills
 status: público
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-notebookpen
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

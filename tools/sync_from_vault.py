@@ -4,12 +4,12 @@ import shutil
 import re
 import datetime
 
-hl_eng = '/home/pedro/hardcore-life/02 - Áreas/Acadêmico/IFF - Engenharia de Computação'
+hl_eng = '/home/pedro/hardcore-life/02-areas/academico/iff-engenharia-de-computacao'
 hl_materiais = os.path.join(hl_eng, '_materiais')
 qs_eng = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/Engenharia de Computação'
 qs_disciplinas = '/home/pedro/Repositorios/pessoal/quartz-site/content/assets/disciplinas'
 
-hl_escola = '/home/pedro/hardcore-life/04 - Recursos/Cursos/Escola de Inverno - ON'
+hl_escola = '/home/pedro/hardcore-life/04-recursos/cursos/escola-de-inverno-on'
 qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/escolainverno'
 
 EXCLUDED_DIR_NAMES = {
@@ -781,35 +781,36 @@ if __name__ == '__main__':
     print('✅ Notas acadêmicas sincronizadas com sucesso!')
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Escola de Inverno) PARA O QUARTZ-SITE ===')
-    hl_escola = '/home/pedro/hardcore-life/04 - Recursos/Cursos/Escola de Inverno - ON'
+    hl_escola = '/home/pedro/hardcore-life/04-recursos/cursos/escola-de-inverno-on'
     qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/escolainverno'
     sync_dirs(hl_escola, qs_escola)
     print('✅ Notas da Escola de Inverno sincronizadas com sucesso!')
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Mídia) PARA O QUARTZ-SITE ===')
-    hl_media = '/home/pedro/hardcore-life/03 - Mídia'
+    hl_media = '/home/pedro/hardcore-life/03-midia'
     qs_media = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/media'
     sync_dirs(hl_media, qs_media)
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Projetos) PARA O QUARTZ-SITE ===')
-    hl_proj = '/home/pedro/hardcore-life/01 - Projetos/Site-Publico'
+    hl_proj = '/home/pedro/hardcore-life/01-projetos/site-publico'
     qs_proj = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/projects'
     sync_dirs(hl_proj, qs_proj)
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Pesquisas) PARA O QUARTZ-SITE ===')
-    hl_notes = '/home/pedro/hardcore-life/01 - Projetos/Acadêmico/Anomaly_Detection/papers/Notes'
+    hl_notes = '/home/pedro/hardcore-life/04-recursos/01-projetos-recursos/academico/anomaly-detection/papers/notes'
     qs_articles = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/research/anomaly-detection/articles'
     if os.path.exists(hl_notes):
         sync_dirs(hl_notes, qs_articles)
         print('✅ Artigos de Anomaly Detection sincronizados com sucesso!')
 
-    hl_jc = '/home/pedro/hardcore-life/02 - Áreas/Acadêmico/Pesquisas/Journal-Clubs'
+    hl_jc = '/home/pedro/hardcore-life/02-areas/academico/pesquisas/journal-clubs'
     qs_jc = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/research/journal-clubs'
-    sync_dirs(hl_jc, qs_jc)
+    if os.path.exists(hl_jc):
+        sync_dirs(hl_jc, qs_jc)
 
     print('\n=== 🔄 SINCRONIZANDO MATERIAIS DE JOURNAL CLUBS PARA ASSETS ===')
     for club in ['mwbr', 'engcomp']:
-        hl_mat = f'/home/pedro/hardcore-life/02 - Áreas/Acadêmico/Pesquisas/Journal-Clubs/{club}/_materiais'
+        hl_mat = f'/home/pedro/hardcore-life/04-recursos/02-areas-recursos/academico/pesquisas/journal-clubs/{club}/_materiais'
         qs_mat = f'/home/pedro/Repositorios/pessoal/quartz-site/content/assets/journal-clubs/{club}'
         if os.path.exists(hl_mat):
             os.makedirs(qs_mat, exist_ok=True)
@@ -825,24 +826,28 @@ if __name__ == '__main__':
             print(f'✅ Materiais de {club} sincronizados para assets com sucesso!')
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Cursos & Recursos) PARA O QUARTZ-SITE ===')
-    hl_curso_on = '/home/pedro/hardcore-life/04 - Recursos/Cursos/Curso ON'
+    hl_curso_on = '/home/pedro/hardcore-life/04-recursos/cursos/curso-on'
     qs_curso_on = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/curso-on'
-    sync_dirs(hl_curso_on, qs_curso_on)
+    if os.path.exists(hl_curso_on):
+        sync_dirs(hl_curso_on, qs_curso_on)
 
-    hl_latex = '/home/pedro/hardcore-life/04 - Recursos/Cursos/LaTeX e Escrita Cientifica'
+    hl_latex = '/home/pedro/hardcore-life/04-recursos/cursos/latex-e-escrita-cientifica'
     qs_latex = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/latex'
-    sync_dirs(hl_latex, qs_latex)
+    if os.path.exists(hl_latex):
+        sync_dirs(hl_latex, qs_latex)
 
-    hl_comp = '/home/pedro/hardcore-life/04 - Recursos/Computação'
+    hl_comp = '/home/pedro/hardcore-life/04-recursos/computacao'
     qs_comp = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/computacao'
-    sync_dirs(hl_comp, qs_comp)
+    if os.path.exists(hl_comp):
+        sync_dirs(hl_comp, qs_comp)
 
-    hl_idiomas = '/home/pedro/hardcore-life/02 - Áreas/Acadêmico/Idiomas'
+    hl_idiomas = '/home/pedro/hardcore-life/02-areas/academico/idiomas'
     qs_idiomas = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/idiomas'
-    sync_dirs(hl_idiomas, qs_idiomas)
+    if os.path.exists(hl_idiomas):
+        sync_dirs(hl_idiomas, qs_idiomas)
 
     print('\n=== 🔄 SINCRONIZANDO PASTA SOBRE MIM PARA O QUARTZ-SITE ===')
-    hl_sobre_dir = '/home/pedro/hardcore-life/00 - Mapa/Sobre Mim'
+    hl_sobre_dir = '/home/pedro/hardcore-life/02-areas/pessoal/sobre-mim'
     qs_sobre_dir = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/sobre-mim'
     if os.path.exists(hl_sobre_dir):
         sync_dirs(hl_sobre_dir, qs_sobre_dir)

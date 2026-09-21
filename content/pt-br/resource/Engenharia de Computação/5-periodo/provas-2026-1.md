@@ -1,0 +1,127 @@
+---
+publish: false
+title: 20260320 - provas 2026-1
+created: 2026-03-20 13:34
+modified: 2026-09-19 13:18
+tags:
+- disciplina
+- engenharia-de-computacao
+cssclasses: None
+icon: lucide-book-open
+---
+# Calendário de Provas -
+***
+## Eletricidade Aplicada
+****
+Prova A1: Cap 9 - 15/04;  5pts
+Prova A1: Cap 11,12 - ; 5pts
+A1:
+***
+Prova A2: Cap 13; 
+Trabalho A2:
+Trabalho A2:
+Trabalho A2:
+Trabalho A2:
+Trabalho A2:
+Trabalho A2:
+A2:
+***
+A3:
+***
+## Projeto e Análise de Algoritmos
+****
+Trabalho A1:
+Prova A1:
+A1:
+***
+Trabalho A2:
+Prova A2:
+A2:
+***
+A3:
+***
+## Modelagem de Dados
+****
+Trabalho A1:
+Prova A1:
+A1:
+***
+Trabalho A2:
+Prova A2:
+A2:
+***
+A3:
+***
+## Engenharia de Software
+****
+Trabalho A1:
+Prova A1:
+A1:
+***
+Trabalho A2:
+Prova A2:
+A2:
+***
+A3:
+***
+## Eletrônica Analógica
+****
+Trabalho A1:
+Prova A1:
+A1:
+***
+Trabalho A2:
+Prova A2:
+A2:
+***
+A3:
+***
+## Gestão Ambiental
+****
+Trabalho 1 A1 (1 ponto): Pesquisa sobre o quê é e exemplos 12/04
+Prova A1 (Valor: 6 pts):
+A1:
+***
+Trabalho A2:
+Prova A2:
+A2:
+***
+A3:
+***
+## Avaliação e Desempenho de Sistemas
+****
+Trabalho A1:
+Prova A1:
+A1:
+***
+Trabalho A2:
+Prova A2:
+A2:
+***
+A3:
+***
+## Metodologia Científica
+****
+Trabalho A1:
+Prova A1:
+A1:
+***
+Trabalho A2:
+Prova A2:
+A2:
+***
+A3:
+***
+
+## Gestão de Projetos
+****
+Trabalho A1:
+Prova A1:
+A1:
+***
+Trabalho A2:
+Prova A2:
+A2:
+***
+A3:
+***

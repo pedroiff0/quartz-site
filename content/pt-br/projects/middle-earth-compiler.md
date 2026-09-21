@@ -1,14 +1,15 @@
 ---
 publish: true
-published: "2026-09-16T11:23:00-03:00"
-title: "Middle-earth Compiler"
+published: '2026-09-16T11:23:00-03:00'
+title: Middle-earth Compiler
 created: 2026-09-16 11:23
-modified: 2026-09-16 12:09
+modified: 2026-09-19 13:20
 tags:
-  - projeto
-  - publico
-  - academico
-  - compiladores
+- projeto
+- publico
+- academico
+- compiladores
+icon: lucide-notebookpen
 cssclasses:
   - page-layout
 ---

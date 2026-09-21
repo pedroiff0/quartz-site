@@ -2,12 +2,13 @@
 publish: true
 title: MCTIA 2025
 created: 2025-12-01 13:04
-modified: 2026-09-16 12:20
-published: 2026-07-26T10:13:50.721-03:00
+modified: 2026-09-19 13:20
+published: 2026-07-26 10:13:50.721000-03:00
 photoFolder: mctia2025
 type: blog
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-newspaper
 ---
 
 # MCTIA
@@ -33,4 +34,4 @@ Com o [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) e o A
 
 - Fonte: [IFF — Projeto do IFF Bom Jesus conquista mais uma premiação em evento científico no Pará](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-conquista-mais-uma-premiacao-em-evento-cientifico-no-para)
 - **Simulando o Impacto de Satélites em Observações Astronômicas** — página de pesquisa completa deste projeto
-- [[pt-br/media/2024/febic-2024|FEBIC 2024]] — mesmo projeto, um ano antes, ainda incompleto
+- [[03-midia/2024/febic-2024|FEBIC 2024]] — mesmo projeto, um ano antes, ainda incompleto
