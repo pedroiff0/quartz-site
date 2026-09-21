@@ -1,19 +1,20 @@
 ---
-publish: true
+publish: false
 title: Dashboard do clube
 created: 2026-08-01 13:04
-modified: 2026-09-15 21:50
-published: 2026-08-01T16:26:58.164-03:00
+modified: 2026-09-19 13:18
+published: 2026-08-01 16:26:58.164000-03:00
 tags:
-  - journal-club
-  - engcomp
+- journal-club
+- engcomp
 jcDashboard: engcomp
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-book-open
 ---
 
 > [!note] Resumo
-> Como o journal club de Engenharia de Computação vem andando: quantos artigos foram discutidos, com que frequência, em quais tópicos e por quem. Tudo calculado no build a partir das próprias [[pt-br/research/Journal-Clubs/engcomp/Journal Club — ENGCOMP|notas de artigo]] — não há planilha por trás, e nenhum número é digitado à mão.
+> Como o journal club de Engenharia de Computação vem andando: quantos artigos foram discutidos, com que frequência, em quais tópicos e por quem. Tudo calculado no build a partir das próprias [[02-areas/academico/pesquisas/journal-clubs/engcomp/journal-club-engcomp|notas de artigo]] — não há planilha por trás, e nenhum número é digitado à mão.
 
 Os números abaixo se movem sozinhos: publique uma nota de artigo com `apresentador`, `topico` e `discutido` preenchidos e ela entra na conta no próximo build.
 
@@ -21,6 +22,6 @@ Os números abaixo se movem sozinhos: publique uma nota de artigo com `apresenta
 
 ## Referências e correlatos
 
-- [[pt-br/research/Journal-Clubs/engcomp/Journal Club — ENGCOMP|ENGCOMP — artigos já discutidos]]
-- [[pt-br/research/Journal-Clubs/engcomp/topicos|Tópicos e onde procurar]]
-- [[pt-br/research/Journal-Clubs/Journal Clubs — Índice|Journal Clubs — visão geral]]
+- [[02-areas/academico/pesquisas/journal-clubs/engcomp/journal-club-engcomp|ENGCOMP — artigos já discutidos]]
+- [[02-areas/academico/pesquisas/journal-clubs/engcomp/topicos|Tópicos e onde procurar]]
+- [[02-areas/academico/pesquisas/journal-clubs/journal-clubs-indice|Journal Clubs — visão geral]]

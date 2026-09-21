@@ -2,17 +2,18 @@
 publish: true
 title: meu-setup
 created: 2026-08-08 13:04
-modified: 2026-09-14 20:13
+modified: 2026-09-19 13:20
 tags:
-  - dotfiles
-  - provisionamento
-  - multi-distro
-  - open-source
-  - idempotente
+- dotfiles
+- provisionamento
+- multi-distro
+- open-source
+- idempotente
 repo: https://github.com/pedroiff0/meu-setup
 status: público
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-notebookpen
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

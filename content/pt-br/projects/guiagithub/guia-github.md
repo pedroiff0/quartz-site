@@ -2,16 +2,17 @@
 publish: true
 title: guia-github
 created: 2026-03-13 13:04
-modified: 2026-09-14 20:13
-published: 2026-07-26T10:03:00.381-03:00
+modified: 2026-09-19 13:20
+published: 2026-07-26 10:03:00.381000-03:00
 tags:
-  - boas-praticas
-  - template
-  - versionamento
+- boas-praticas
+- template
+- versionamento
 repo: https://github.com/pedroiff0/guia-github
 status: público
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-notebookpen
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

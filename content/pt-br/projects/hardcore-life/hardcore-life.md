@@ -2,15 +2,16 @@
 publish: true
 title: hardcore-life
 tags:
-  - produtividade
-  - second-brain
-  - para
+- produtividade
+- second-brain
+- para
 repo: https://github.com/pedroiff0/hardcore-life
 status: privado
 cssclasses:
-  - page-layout
+- page-layout
 created: 2026-09-14 11:17
-modified: 2026-09-14 20:13
+modified: 2026-09-19 13:20
+icon: lucide-notebookpen
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

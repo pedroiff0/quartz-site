@@ -1,0 +1,25 @@
+---
+publish: true
+title: Caixas
+tags:
+- controle-de-caixa
+- relatorio
+repo: https://github.com/pedroiff0/caixas
+status: privado
+cssclasses:
+- page-layout
+created: 2026-09-14 11:17
+modified: 2026-09-19 13:20
+icon: lucide-notebookpen
+---
+
+<!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->
+
+> [!note] Em uma frase
+> Aplicação web para registrar fechamentos diários de caixa (vendas, depósitos, vales, total contado na gaveta), gerar relatórios e manter histórico imprimível. Flask + SQLAlchemy + Alembic, com endpoints REST auxiliares e migrations versionadas em CI.
+
+**Stack:** Python, Flask, SQLAlchemy, Alembic, Jinja2, AdminLTE
+
+**Repositório:** [https://github.com/pedroiff0/caixas](https://github.com/pedroiff0/caixas) · privado
+
+<!-- fim do bloco gerado -->

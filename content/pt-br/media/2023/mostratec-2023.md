@@ -2,12 +2,13 @@
 publish: true
 title: MOSTRATEC 2023
 created: 2023-10-23 13:04
-modified: 2026-09-16 12:20
-published: 2026-07-26T10:13:26.021-03:00
+modified: 2026-09-19 13:20
+published: 2026-07-26 10:13:26.021000-03:00
 photoFolder: mostratec2023
 type: blog
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-newspaper
 ---
 
 # MOSTRATEC
@@ -34,4 +35,4 @@ Apresentei o projeto **"Entendendo a Matéria Escura através de choques Extraga
 
 - Fonte: [IFF — Alunos do IFF Bom Jesus participam da maior e mais tradicional feira de ciências da América Latina](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/alunos-do-iff-bom-jesus-participam-da-maior-e-mais-tradicional-feira-de-ciencias-da-america-latina)
 - **Entendendo a Matéria Escura a partir de Choques Extragalácticos** — página de pesquisa completa deste projeto
-- [[pt-br/media/2023/febrace-2023|FEBRACE 2023]] — mesmo projeto, apresentado meses antes
+- [[03-midia/2023/febrace-2023|FEBRACE 2023]] — mesmo projeto, apresentado meses antes

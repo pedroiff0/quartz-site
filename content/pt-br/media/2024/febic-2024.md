@@ -2,12 +2,13 @@
 publish: true
 title: IX FEBIC 2024
 created: 2024-09-15 13:04
-modified: 2026-09-16 12:20
-published: 2026-07-26T10:13:40.051-03:00
+modified: 2026-09-19 13:20
+published: 2026-07-26 10:13:40.051000-03:00
 photoFolder: febic2024
 type: blog
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-newspaper
 ---
 
 # IX FEBIC
@@ -33,4 +34,4 @@ Eu e o [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) repr
 
 - Fonte: [IFF — Projeto do IFF Bom Jesus é premiado em evento nacional](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-premiado-em-evento-nacional)
 - **Simulando o Impacto de Satélites em Observações Astronômicas** — página de pesquisa completa deste projeto
-- [[pt-br/media/2025/mctia-2025|MCTIA 2025]] — mesmo projeto, um ano depois, já com 1º lugar
+- [[03-midia/2025/mctia-2025|MCTIA 2025]] — mesmo projeto, um ano depois, já com 1º lugar
