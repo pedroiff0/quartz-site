@@ -12,18 +12,18 @@ cssclasses:
   - page-layout
 ---
 
-# 🔬 {{value}}
+# {{value}}
 
 > [!note] Resumo
 
-## 🎯 Objetivo
+## Objetivo
 
-## 🔧 Metodologia
+## Metodologia
 
-## 📊 Resultados
+## Resultados
 
-## 🧾 Conclusão
+## Conclusão
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 -

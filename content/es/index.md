@@ -9,14 +9,12 @@ cssclasses:
 ---
 
 > [!info] ¡Bienvenido(a)!
-> Esta es tu página de inicio. Aquí encontrarás todo lo que necesitas saber sobre mi trayectoria, mis investigaciones y mi trabajo. Lee en el orden sugerido para tener la mejor experiencia posible. 😊
-
-> [!abstract] También visita mi portafolio
+> Esta es tu página de inicio. Aquí encontrarás todo lo que necesitas saber sobre mi trayectoria, mis investigaciones y mi trabajo. Lee en el orden sugerido para tener la mejor experiencia posible. > [!abstract] También visita mi portafolio
 > Si llegaste desde mi **[portafolio de proyectos](https://pedroiff0.github.io/webpage/)** (o quieres una vista rápida de todo lo que he construido), allí están todos mis repositorios de GitHub — públicos y privados — con un *short brief* de cada uno, además de las becas de investigación y los contactos en una sola página. Este sitio es el contenido completo (investigación, asignaturas, medios y blog).
 
-## 📚 ¿Por dónde empezar?
+## ¿Por dónde empezar?
 
-### 1️⃣ Primer paso: Sobre mí
+### 1⃣ Primer paso: Sobre mí
 
 <img src="..[Profilepic.Jpe](/assets/profilepic.jpe)g" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
@@ -24,18 +22,18 @@ Soy Pedro Henrique, estudiante de Ingeniería Informática en el [Instituto Fede
 
 Mi pasión está en la intersección entre **métodos computacionales** y **problemas astrofísicos**. Creo que las herramientas de código abierto y los flujos de trabajo reproducibles son esenciales para avanzar la ciencia y hacerla más accesible para todos.
 
-### 🌐 Redes Sociales
+### Redes Sociales
 
 Si quieres ponerte en contacto, ¡envíame un correo!
 
-- 🎓 [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
-- 💻 [GitHub](https://github.com/pedroiff0)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
-- 📸 [Instagram](https://instagram.com/ra.pedroh)
-- 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
-- ✉️ [Correo](mailto:pedroiff0@gmail.com)
+- [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
+- [GitHub](https://github.com/pedroiff0)
+- [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
+- [Instagram](https://instagram.com/ra.pedroh)
+- [ORCID](https://orcid.org/0009-0003-6724-4640)
+- [Correo](mailto:pedroiff0@gmail.com)
 
-### 📄 Currículum Vitae
+### Currículum Vitae
 
 A continuación mi CV en el idioma de esta página y el repositorio (LaTeX multilingüe) que lo genera:
 
@@ -44,7 +42,7 @@ A continuación mi CV en el idioma de esta página y el repositorio (LaTeX multi
   <a href="/assets/curriculo/spanishCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
-        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;">🇪🇸</div>
+        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;"></div>
         <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV en Español</div>
         <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Versión en PDF de dos columnas</div>
       </div>
@@ -57,7 +55,7 @@ A continuación mi CV en el idioma de esta página y el repositorio (LaTeX multi
   <a href="https://github.com/pedroiff0/curriculo" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
-        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;">📄</div>
+        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;"></div>
         <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">Repositorio del CV</div>
         <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Código fuente LaTeX (PT/EN/ES/FR)</div>
       </div>
@@ -69,7 +67,7 @@ A continuación mi CV en el idioma de esta página y el repositorio (LaTeX multi
 
 </div>
 
-### 📬 Contáctame
+### Contáctame
 
 ¿Prefieres no abrir tu cliente de correo? Completa los campos de abajo y el mensaje llega directo a mi bandeja de entrada.
 
@@ -121,13 +119,13 @@ A continuación mi CV en el idioma de esta página y el repositorio (LaTeX multi
 })();
 </script>
 
-### 2️⃣ Segundo paso: Áreas de interés
+### 2⃣ Segundo paso: Áreas de interés
 
 - **Astrofísica**: Arqueología galáctica, poblaciones estelares, estructura y evolución química de la Vía Láctea, análisis de grandes volúmenes de datos astronómicos.
 - **Ciencia de la Computación**: Computación científica, pipelines de datos, aprendizaje automático en astronomía, desarrollo de código abierto.
 - **Psicoanálisis**:
 
-### 3️⃣ Tercer paso: Explorar el contenido
+### 3⃣ Tercer paso: Explorar el contenido
 
 > [!warning] Versión en español todavía en preparación
 > El resto del contenido de este sitio aún no está traducido al español — está disponible en [[pt-br/|portugués]] (idioma original) y, parcialmente, en [[en/|inglés]].

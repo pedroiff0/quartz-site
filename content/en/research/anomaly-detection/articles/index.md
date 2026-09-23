@@ -43,7 +43,7 @@ cssclasses:
 
  Reading notes on scientific articles relevant to my research in detecting anomalies in stellar populations — own syntheses, not complete articles (editors/arXiv copyrights remain with the original authors). Grouped by role in the project: the surveys and data I use, the machine learning methods I apply, the stellar models that calibrate my ages/isochrons, and the context of galactic dynamics/chemistry that interprets the results.
 
-## 🛰️ Surveys and catalogues (data)
+## Surveys and catalogues (data)
 
 - [[en/research/anomaly-detection/articles/collaboration2016|The Gaia Mission]]— astrometry of billions of stars; source of the project's kinematic coordinates.
 - [[en/research/anomaly-detection/articles/collaboration2021|Gaia EDR3 — Gaia Catalog of Nearby Stars]]— clear catalogue at 100 ch of the Sun, basis of sample GCNS.
@@ -54,7 +54,7 @@ cssclasses:
 - [[en/research/anomaly-detection/articles/xiang2019|LAMOST DR5 — Abundances of 16 Elements]]— another large-volume spectroscopic survey, date-driving approach (DD-Payne).
 - [[en/research/anomaly-detection/articles/quispehuaynasi2025|S-PLUS DR4 — SED Outliers]]— detection of photometric anomalies in different survey, methodological parallel.
 
-## 🤖 Machine learning and anomaly detection
+## Machine learning and anomaly detection
 
 - [[en/research/anomaly-detection/articles/traven2017|GALAH — Classification via t-SNE]]— Stage 2 basic methodology (t-SNE on crude spectra).
 - [[en/research/anomaly-detection/articles/dasilva2023|da Silva & Smiljanic (2023) — t-SNE Chemodynamics]]— the basis of the comparison between catalogue columns and spectrum pixels.
@@ -65,7 +65,7 @@ cssclasses:
 - [[en/research/anomaly-detection/articles/hughes2022|GALAH — Extremely Poor Stars in Metals]]— LM supervised to find 54 EMP candidates at GALAH.
 - [[en/research/anomaly-detection/articles/vogrini2023|GALAH — Diffuse Interstellar Bands]]— another example of GALAH  big data  spectroscopic mining.
 
-## ⭐ Star models and ages
+## Star models and ages
 
 - [[en/research/anomaly-detection/articles/bressan2012|PARSEC — Star Isochrons]]— stellar evolution code generating isochrons used in the Kiel diagram.
 - [[en/research/anomaly-detection/articles/marigo2017|PARSEC-COLIBRI — TP-AGB Phase Isochrons]]— the latest generation of isochrons, with a detailed TP-AGB phase.
@@ -73,7 +73,7 @@ cssclasses:
 - [[en/research/anomaly-detection/articles/traven2020|GALAH — FGK Binaries]]— sample of spectroscopic binaries, relevant for cleaning contaminants from the sample.
 - [[en/research/anomaly-detection/articles/thomas2024|SpectroTranslator]]— neural network to convert parameters between different surveys.
 
-## 🌌 Dynamics and galactic chemistry (interpretation)
+## Dynamics and galactic chemistry (interpretation)
 
 - [[en/research/anomaly-detection/articles/bovy2015|galpy]]— package used to calculate orbits and actions, base of the project kinematics.
 - [[en/research/anomaly-detection/articles/mcmillan2017|Milky Way Mass and Potential Distribution]]— the galactic potential used in galpy to integrate orbits.

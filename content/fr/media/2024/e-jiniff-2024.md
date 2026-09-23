@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 🎮 e-JINIFF 2024
+# e-JINIFF 2024
 
 > [!note] Résumé
 > Organisez l'équipe e-sports du campus Bom Jesus do Itabapoana au stade institutionnel des Jeux électroniques du Réseau fédéral - 1ère place à Valorant, 3ème en Feu Libre.
 
-## 🗓️ A propos de l'événement
+## A propos de l'événement
 
  Page dédiée à la phase institutionnelle de l'e- JINIFF 2024 (Jogues Électroniques du Réseau Fédéral) * *, organisée par le Campus Cape Frio avec la participation de plusieurs unités IFF, en août 2024.
 
@@ -24,7 +24,7 @@ cssclasses:
 > [!note] Avis
 > Malgré le chaos des jeux, il était intéressant de voir que la communauté s'intéresse aussi aux jeux vidéo ! Malheureusement, faute de soutien, nous n'avons pas pris la participation avant nous, mais c'était une bonne expérience!
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - Source:[IFF - Les étudiants du campus de Bom Jesus se distinguent dans les sports électroniques](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/estudantes-do-campus-bom-jesus-se-destacam-em-e-sports)
 - [[fr/media/2024/4-sceg|4a SCEG 2024]]- événement où les e-sports du campus se sont poursuivis, avec leurs propres compétitions

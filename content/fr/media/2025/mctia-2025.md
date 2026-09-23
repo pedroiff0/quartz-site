@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 🛰️ MCTIA 2025
+# MCTIA 2025
 
 > [!note] Résumé
 > Exemple de science et technologie de l'Institut Açai de Bethléem (PA) - 1ère place dans Exata Sciences avec un algorithme IA qui récupère 99,7 % des informations perdues par les pistes satellites, classant l'équipement pour la Young Science 2026.
 
-## 🗓️ A propos de l'événement
+## A propos de l'événement
 
  Page dédiée à la participation au **XVIe échantillon de science et de technologie de l'Institut Açai (MCTIA)**, à Bethléem (PA) - la plus grande foire scientifique du nord du pays.
 
@@ -24,12 +24,12 @@ cssclasses:
 > [!note] Avis
 > Aller au spectacle de Pará était une chose sensationnelle. Pour connaître une région aussi éloignée, la culture extrêmement riche et intéressante, tout l'amour de l'organisation de la foire pour les participants, tout était très légal ! Voir les projets qui sont développés pour la région par les habitants eux-mêmes luttant pour améliorer, il est très manero!
 
-## 📎 Bannière
+## Bannière
 
 > [!note] Bannière présentée:
-> ![[assets/banners/BannerMCTIA25.pdf]]
+> *Banner MCTIA 2025*
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - Source:[IFF - Le projet IFF Bon Jésus remporte plus d'un prix en événement scientifique au Pará](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-conquista-mais-uma-premiacao-em-evento-cientifico-no-para)
 - [[fr/research/satellite-trail-removal|Simulation de l'impact des satellites sur les observations astronomiques]]- page de recherche complète de ce projet

@@ -22,7 +22,7 @@ cssclasses:
 - [[pt-br/blog/bem-vindo|Bem-vindo ao blog]] — Por que abri esse espaço e o que esperar por aqui.
 
 
-## 📝 Publicações do Blog
+## Publicações do Blog
 
 ```base
 filters:

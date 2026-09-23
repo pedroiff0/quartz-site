@@ -20,7 +20,7 @@ cssclasses:
 
  It combines astrometric data from Gaia, abundances of APOGEE and LAMOST, and StarHorse ages to map the evolution of the Milky Way and the dilemma between thick and thin disk (possible origin in gas-rich fusion such as Gaia-Sausage-Enceladus, cosmic filaments or radial migration). Relevant to your project: context of disk formation and migration that the GAM do Dantasuse it.
 
- [See original article](https://doi.org/10.3847/1538-4357/ae0c96)·[📄 Baixar PDF](/assets/articles/Borbolato2025.pdf)
+ [See original article](https://doi.org/10.3847/1538-4357/ae0c96)·[Baixar PDF](/assets/articles/Borbolato2025.pdf)
 
 ## Quotation
 

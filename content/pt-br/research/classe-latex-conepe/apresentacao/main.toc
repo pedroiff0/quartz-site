@@ -1,1 +1,7 @@
 \babel@toc {brazil}{}\relax 
+\beamer@sectionintoc {1}{Contextualização \& O Paradoxo do Pesquisador}{3}{0}{1}
+\beamer@sectionintoc {2}{O Labirinto Normativo: ABNT \& IBGE}{5}{0}{2}
+\beamer@sectionintoc {3}{Princípio dos Paradigmas: WYSIWYG vs. WYSIWYM}{8}{0}{3}
+\beamer@sectionintoc {4}{A Solução Proposta: \texttt {ifftese.cls} e \texttt {macros.sty}}{10}{0}{4}
+\beamer@sectionintoc {5}{Resultados Práticos e Validação}{11}{0}{5}
+\beamer@sectionintoc {6}{Conclusões e Desdobramentos Futuros}{15}{0}{6}

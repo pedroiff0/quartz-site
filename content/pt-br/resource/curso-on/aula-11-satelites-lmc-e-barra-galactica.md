@@ -59,7 +59,7 @@ O mesmo procedimento é repetido tanto para `MWPotential2014` quanto para `McMil
 > [!warning] Múltiplas órbitas de uma vez, sem laço `for`
 > O galpy aceita um array de condições iniciais (ex.: 100 amostras de incerteza gaussianas em torno de Bootes III) e integra todas simultaneamente — mas o notebook faz questão de avisar: nesse exemplo específico, as incertezas de movimento próprio foram amostradas **sem** covariância (diferente do procedimento cuidadoso da Aula 10). O objetivo ali é só ilustrar a mecânica de integrar um ensemble de órbitas de uma vez, não produzir uma incerteza estatisticamente correta.
 
-## 〰 A barra galáctica e suas ressonâncias
+## A barra galáctica e suas ressonâncias
 
 A Via Láctea tem uma **barra** no seu centro, modelada aqui com o `DehnenBarPotential` — um potencial parametrizado por velocidade angular de padrão ($\Omega_b$), comprimento, intensidade, e um período de "aquecimento" gradual ($t_{form}$, $t_{steady}$) para evitar choques numéricos ao ligar a barra.
 

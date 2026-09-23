@@ -10,29 +10,29 @@ cssclasses:
   - page-layout
 ---
 
-# 🔬 CONFIT − 2026
+# CONFIT − 2026
 
 > [!note] Résumé
 > Le Congrès Fluminense a lieu chaque année, généralement en mai, et promeut la science faite dans le contexte de l'état de Rio de Janeiro, avec les différents campus IFF et UENF.
 
-## 🗓️ A propos de l'événement
+## A propos de l'événement
 
  Page dédiée à la participation à **[Congrès d'initiation scientifique et technologique](https://www.even3.com.br/confict-conpg-2026/) de l'IFF et de l'UENF* *, à Campos de los Goytacazes - RJ, tenue du 25 au 29 mai 2026.
 
-## 👋 Ma participation
+## Ma participation
 
  J'ai présenté mes travaux de recherche à une séance de présentation orale, et j'ai vu d'autres présentations orales et bannières.
 
 > [!note] Avis
 > Il était légal de présenter oralement le travail que j'avais l'habitude de présenter au format Banner!
 
-## 📎 Diapositives
+## Diapositives
 
 > [!note] Diapo présenté:
-> ![[assets/slides/slides_confict.pdf]]
+> *Apresentação oral / Slides CONFICT 2026*
 > Concernant:![[assets/banners/BannerSBPC26.pdf]]
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - [[fr/research/anomaly-detection|Détection d'anomalies dans les données de Gaia]]- enquête complète derrière l'affiche
 - [[fr/media/2025/sab-2025|SAB 2025]]- version précédente de la même affiche

@@ -20,7 +20,7 @@ cssclasses:
 
  It uses >872,000 GALAH spectra to isolate Interstellar Diffuse Bands (DIBs), generating a catalog of 183 features. Less central to its theme, but shows the use of large spectroscopic data of GALAH.
 
- [See original article](https://doi.org/10.1093/mnras/stad678)·[📄 Baixar PDF](/assets/articles/Vogrini2023.pdf)
+ [See original article](https://doi.org/10.1093/mnras/stad678)·[Baixar PDF](/assets/articles/Vogrini2023.pdf)
 
 ## Quotation
 

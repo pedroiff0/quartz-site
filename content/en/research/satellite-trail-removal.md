@@ -13,7 +13,7 @@ cssclasses:
   - page-layout
 ---
 
-# 🛰️ Simulating the Impact of Satellites on Astronomical Observations
+# Simulating the Impact of Satellites on Astronomical Observations
 
 > [!note] Summary
 > Research project (IFF Bom Jesus do Itabapoana, advised by [Prof. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)) on how the proliferation of artificial satellites contaminates astronomical images with light trails — and how to computationally treat that contamination. Working with [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) and Arthur Miguelito Lopes, the project evolved from 3rd place at FEBIC 2024 to an algorithm recovering 99.7% of the lost information, winning 1st place at MCTIA 2025.
@@ -25,23 +25,23 @@ cssclasses:
   </a>
 </div>
 
-## 🌠 The problem
+## The problem
 
 The 2020s–2030s bring a new generation of telescopes (Vera Rubin, GMT, Euclid) that will multiply the volume and quality of available astronomical data more than a thousandfold. At the same time, however, the rise of **commercial satellite constellations** is populating Earth orbit with thousands of bright objects that get between telescopes and starlight — contaminating images with light trails and threatening to degrade precisely the new generation of large-volume astronomical surveys.
 
 Unlike the two historical barriers to astronomical observation (weather and instrumental limitations), this is an **artificial** contamination, still poorly quantified: each satellite's brightness depends on position, altitude, and wavelength in complex ways, and the international community (astronomers, engineers, dark-sky advocates) has been mobilizing to develop open-source image-treatment tools.
 
-## 🎯 Objectives
+## Objectives
 
 - Develop an image-treatment method capable of **identifying satellite contamination** in astronomical observations.
 - Test that method on **simulated astronomical objects**, with controlled contamination, evaluating applicability and efficiency.
 - Contribute to the international movement toward open-source solutions for the orbital light-pollution problem.
 
-## 🔧 Methodology
+## Methodology
 
 The project was planned in 5 phases: (1) systematic review of the problem and existing codes; (2) building a simulated astronomical object (preferably a galaxy); (3) building an image analysis/treatment code; (4) applying the code to the simulated object, with controlled light pollution (simulated satellite trails); (5) analyzing the results.
 
-## 📈 Evolution and results
+## Evolution and results
 
 | Stage | Event | Result |
 |---|---|---|
@@ -52,7 +52,7 @@ The project was planned in 5 phases: (1) systematic review of the problem and ex
 > [!note] Note on this text
 > This page combines the formal research proposal (submitted to IFF in 2023, with full introduction, rationale, and methodology) with the results publicly announced at the FEBIC 2024 and MCTIA 2025 awards. Technical details of the 99.7%-recovery algorithm haven't been documented on this page yet — to be updated as the work moves toward publication.
 
-## 🔗 References and related
+## References and related
 
 - Milazzo et al. (2021) — _The Growing Digital Divide and its Negative Impacts on NASA's Future Workforce_, BAAS 53, 436
 - Rawls et al. (2020) — _Satellite Constellation Internet Affordability and Need_, RNAAS 4, 189

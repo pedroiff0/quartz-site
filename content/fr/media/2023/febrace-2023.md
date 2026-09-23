@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 🔬 FECURE 2023
+# FECURE 2023
 
 > [!note] Résumé
 > Première participation du campus Bom Jesus do Itabapoana à la FECRACE, le plus grand salon des sciences et de l'ingénierie du Brésil - projet sur la matière noire sélectionné parmi 200 finalistes de plus de 3 200 inscrits.
 
-## 🗓️ A propos de l'événement
+## A propos de l'événement
 
  Une page dédiée à la participation à la **21e Foire brésilienne des sciences et de l'ingénierie (FECRACE)**, à São Paulo le 20 mars 2023 - la plus grande foire brésilienne des sciences et de l'ingénierie.
 
@@ -24,12 +24,12 @@ cssclasses:
 > [!note] Avis
 > Participer à cette foire était magique. Ma première fois de présenter un emploi loin, et aussi ma première fois de voyage loin. J'étais un peu perdu, dans un mélange d'émotions que je ne savais même pas comment commencer à expliquer, mais je suis allé là, j'ai présenté 1, 10, 100 fois pour tous ceux qui passaient, et il était très intéressant de voir comment c'était différent pour chaque personne, que ce soit dans la compréhension du travail, ou dans ma propre explication. Je ne savais pas encore, mais ce serait quelque chose de très intéressant dans les années suivantes, participant à d'autres foires, et congrès. Cette foire particulière a ouvert mes portes, a fait quelques amis (Mariana et Gabriel), et m'a fait améliorer ma façon de visualiser les emplois. Je n'ai pas besoin de dire qu'il m'a aussi convaincu, de manière très facile, de continuer dans le domaine académique. C'est devenu impressionnant de faire de la recherche, et un monde viable où je m'intègre!
 
-## 📎 Bannière
+## Bannière
 
 > [!note] Bannière présentée:
 > ![[assets/banners/BannerFEBRACE23.pdf]]
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - Source:[IFF - IFF Le projet Bon Jésus est finaliste au plus grand salon des sciences et de l'ingénierie au Brésil](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-finalista-na-maior-feira-de-ciencias-e-engenharia-do-brasil)
 - [[fr/research/dark-matter-shocks|Comprendre la matière noire des chocs extragalactiques]]- page de recherche complète de ce projet

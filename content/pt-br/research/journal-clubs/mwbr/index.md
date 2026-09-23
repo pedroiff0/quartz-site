@@ -8,18 +8,18 @@ cssclasses:
   - page-layout
 ---
 
-> [!note] 🌌 Milky Way Brazil (MWBR)
+> [!note] Milky Way Brazil (MWBR)
 > Artigos científicos e discussões do **MWBR**, grupo de pesquisa voltado ao estudo da **Via Láctea, Arqueologia Galáctica, Populações Estelares e Astrofísica Observacional**.
 
 ---
 
-> [!info] 🌐 Curadoria & Histórico Geral do Grupo
+> [!info] Curadoria & Histórico Geral do Grupo
 > O histórico completo das reuniões e discussões de todos os membros do grupo pode ser consultado na curadoria oficial mantida por João Amarante:
-> 🔗 **[Acessar Curadoria Oficial do MWBR (jasamarante.github.io/jc/mwbr/)](https://jasamarante.github.io/jc/mwbr/)**
+> **[Acessar Curadoria Oficial do MWBR (jasamarante.github.io/jc/mwbr/)](https://jasamarante.github.io/jc/mwbr/)**
 
 ---
 
-## 🎙️ Artigos Apresentados por Mim
+## Artigos Apresentados por Mim
 
 Artigos e tópicos que selecionei e apresentei nas sessões do Journal Club:
 
@@ -29,7 +29,7 @@ Artigos e tópicos que selecionei e apresentei nas sessões do Journal Club:
 
 ---
 
-## ⭐ Artigos Recomendados & Favoritos (Apresentados por Colegas)
+## Artigos Recomendados & Favoritos (Apresentados por Colegas)
 
 Artigos de destaque apresentados por outros pesquisadores do grupo com discussões e metodologias que considerei fundamentais:
 
@@ -37,7 +37,7 @@ Artigos de destaque apresentados por outros pesquisadores do grupo com discussõ
 
 ---
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - [[pt-br/research/Journal-Clubs/|Journal Clubs — Visão Geral]]
 - [[pt-br/research/Journal-Clubs/engcomp/|ENGCOMP Journal Club]]

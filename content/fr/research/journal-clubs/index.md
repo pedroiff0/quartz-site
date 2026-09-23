@@ -58,7 +58,7 @@ cssclasses:
 
  ---
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - [[fr/research|Recherche - aperçu]]
 

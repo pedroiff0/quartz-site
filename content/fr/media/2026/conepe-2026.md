@@ -10,28 +10,28 @@ cssclasses:
   - page-layout
 ---
 
-# 🔬 CONNEPE - 2026
+# CONNEPE - 2026
 
 > [!note] Résumé
 > Le Congrès de la recherche et de l'enseignement complémentaire (CONEPE) a lieu chaque année, généralement en septembre, et promeut la science faite dans le contexte de l'intérieur de l'État de Rio de Janeiro, avec les différents campus IFF et UFENF.
 
-## 🗓️ A propos de l'événement
+## A propos de l'événement
 
  Page dédiée à la participation à **[Congrès de recherche et de vulgarisation](https://conepe.guarus.iff.edu.br) IFF*Campus*Guarus* *, à Campos Guarus - RJ, fait du 21 au 23 septembre 2026.
 
-## 👋 Ma participation
+## Ma participation
 
  J'ai présenté mes travaux de recherche à une séance de présentation orale, et j'ai vu d'autres présentations orales et bannières.
 
 > [!note] Avis
 > Il était légal de présenter oralement le travail qu'il développe pour l'Institut, comme une forme d'incitation à la recherche utilisant des outils professionnels, comme la LaTeX.
 
-## 📎 Diapositives
+## Diapositives
 
 > [!note] Diapositives / Bannière :
 > ReLaTEX: La classe LaTeX de l'Institut fédéral flamand
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - [[fr/research/relatex|ReLaTeX]]- enquête complète derrière l'affiche
 

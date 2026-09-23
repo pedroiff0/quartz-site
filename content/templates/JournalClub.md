@@ -20,20 +20,20 @@ cssclasses:
 
 _Autores (Ano)_
 
-🔗 **Links:** [Ver no arXiv]({{arxiv}}) | [PDF Online]({{pdf}})
+**Links:** [Ver no arXiv]({{arxiv}}) | [PDF Online]({{pdf}})
 
 ---
 
-## 🎨 Código de Cores para Grifos e Leitura
+## Código de Cores para Grifos e Leitura
 
-- 🟡 **Amarelo (Problema & Hipótese):** Contexto, motivação, gap na literatura e pergunta central.
-- 🟢 **Verde (Dados & Amostra):** Levantamentos astronômicos/dados observacionais, cortes de seleção, catálogos.
-- 🔵 **Azul (Método & Resultados):** Metodologia, gráficos-chave (CMD, diagramas), testes de robustez.
-- 🔴 **Vermelho / Laranja (Discussão & Implicações):** Interpretação física, limitações, hipóteses alternativas e dúvidas.
+- **Amarelo (Problema & Hipótese):** Contexto, motivação, gap na literatura e pergunta central.
+- **Verde (Dados & Amostra):** Levantamentos astronômicos/dados observacionais, cortes de seleção, catálogos.
+- **Azul (Método & Resultados):** Metodologia, gráficos-chave (CMD, diagramas), testes de robustez.
+- **Vermelho / Laranja (Discussão & Implicações):** Interpretação física, limitações, hipóteses alternativas e dúvidas.
 
 ---
 
-## 📖 Leitura Estruturada (Três Passes)
+## Leitura Estruturada (Três Passes)
 
 ### 1º Passe — Panorama & Hipótese (Big Picture)
 - **Problema investigado:** 
@@ -53,7 +53,7 @@ _Autores (Ano)_
 
 ---
 
-## 💬 Discussão no Journal Club
+## Discussão no Journal Club
 
 - **Pontos levantados pelo grupo:** 
 - **Conexões com nossos projetos:** 
@@ -61,7 +61,7 @@ _Autores (Ano)_
 
 ---
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - [[pt-br/research/journal-clubs|Journal Clubs — Visão Geral]]
 - [[pt-br/research/journal-clubs/mwbr|MWBR — Journal Club]]

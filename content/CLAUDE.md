@@ -37,7 +37,7 @@ Plugin QuickAdd instalado neste vault com 4 comandos, cada um usando um template
 Convenções de frontmatter válidas para todo o vault (já embutidas nos templates):
 
 - `publish: true` — obrigatório pra a nota ser considerada pelo Quartz Syncer/build. Sem isso a nota fica só local.
-- `title` no frontmatter **nunca leva emoji decorativo** — emoji só entra no H1 do corpo da nota (`# 🔭 Título da Nota`), nunca no frontmatter. Páginas sem H1 manual (ex: notas de `projects/`, que usam só o título do frontmatter como cabeçalho da página) simplesmente não têm emoji nenhum — não é uma exceção, é a mesma regra.
+- `title` no frontmatter **nunca leva emoji decorativo** — emoji só entra no H1 do corpo da nota (`# Título da Nota`), nunca no frontmatter. Páginas sem H1 manual (ex: notas de `projects/`, que usam só o título do frontmatter como cabeçalho da página) simplesmente não têm emoji nenhum — não é uma exceção, é a mesma regra.
 - `type: blog` — habilita o widget de comentários (Giscus), controlado pela condição `is-blog` no layout do plugin `comments` (`quartz.config.yaml`, raiz do repo). Usado em `blog/` e em todas as notas de `media/` (participações em eventos).
 - `password` (comentado por padrão no template de Aula) — só para notas em `Para Alunos/` que precisam de proteção por senha (plugin `encrypted-pages`, AES-256-GCM + PBKDF2). Deixar comentado para conteúdo de aula público.
 
@@ -72,11 +72,11 @@ Cada evento é uma nota em `pt-br/media/<ano>/<slug-evento>.md`, seguindo sempre
 
 1. Frontmatter com `photoFolder: <slug>` (ver seção de fotos/banners no `CLAUDE.md` da raiz do repo) e `type: blog`.
 2. `> [!note] Resumo` — 1-2 frases.
-3. `## 🗓️ Sobre o evento` — dados factuais (o quê, onde, quando).
-4. `## 👋 Minha participação` — o que foi apresentado, com quem, resultado.
+3. `## Sobre o evento` — dados factuais (o quê, onde, quando).
+4. `## Minha participação` — o que foi apresentado, com quem, resultado.
 5. `> [!note] Opinião` — reflexão pessoal sobre a experiência. **Sempre `[!note]` minúsculo** — já apareceu como `[!NOTE]`/`[!INFO]` maiúsculo por edição direta no Obsidian, e isso é inconsistente com o resto do vault.
-6. `## 📎 Banner` (pôster) ou `## 📎 Slides` (apresentação oral) — o embed do PDF em si (`![[assets/banners/Banner....pdf]]`, caminho completo, ver `CLAUDE.md` da raiz).
-7. `## 🔗 Referências e correlatos` — sempre linkar a página de pesquisa por trás do trabalho (`pt-br/research/...`) quando houver, e o evento anterior/seguinte que apresentou o mesmo trabalho.
+6. `## Banner` (pôster) ou `## Slides` (apresentação oral) — o embed do PDF em si (`![[assets/banners/Banner....pdf]]`, caminho completo, ver `CLAUDE.md` da raiz).
+7. `## Referências e correlatos` — sempre linkar a página de pesquisa por trás do trabalho (`pt-br/research/...`) quando houver, e o evento anterior/seguinte que apresentou o mesmo trabalho.
 
 Os índices (`pt-br/media/index.md` e `pt-br/media/<ano>/index.md`) **não têm mais carrossel manual** — ele é gerado automaticamente pelo plugin `photo-carousel` (ver `CLAUDE.md` da raiz). Só precisam de uma lista em markdown (`- [[caminho|Nome do Evento]] — descrição curta`) pra quem prefere navegar por texto; ao adicionar um evento novo, adicionar essa linha também (isso não é automático).
 

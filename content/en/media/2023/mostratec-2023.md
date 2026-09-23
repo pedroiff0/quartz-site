@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 🌎 MOSTERTEC 2023
+# MOSTERTEC 2023
 
 > [!note] Summary
 > The largest and most traditional science fair in Latin America in New Hamburg (RS) — I presented "Understanding Dark Matter through Extragalactic Shocks", with funding from CNPq.
 
-## 🗓️ About the event
+## About the event
 
  Page dedicated to the participation in the **International Science and Technology Show (MOSTRATEC)**, in New Hamburg (RS), from 23 to 27 October 2023 – the largest and most traditional science fair in Latin America, with more than 800 projects from 15 countries.
 
@@ -24,13 +24,13 @@ cssclasses:
 > [!note] Opinion
 > That was my second big science fair in less than a year! After FEBACE it took me a while to fully absorb the teachings and change of perspectives that I obtained, and then (some 7 months later) came to MOSTRATEC. This time I was accompanied with friends, and the experience even better! I met people from other countries, which was very interesting to see what science is like outside Brazil too, cultural exchange was extremely important. In addition, we also know Gramado, which is a very beautiful and cozy city, thanks to the organization of the Fair! Although we did not win any awards, the experience was certainly worth much!
 
-## 📎 Banner
+## Banner
 
 > [!note] Shown banners:
 > Lateral:![[assets/banners/BannerMostratecL23.pdf]]
 > Centre:![[assets/banners/BannerMostratecC23.pdf]]
 
-## 🔗 References and correlations
+## References and correlations
 
 - Source:[IFF — IFF students Good Jesus participate in the largest and most traditional Latin American science fair](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/alunos-do-iff-bom-jesus-participam-da-maior-e-mais-tradicional-feira-de-ciencias-da-america-latina)
 - [[en/research/dark-matter-shocks|Understanding Matter Dark from Extragalactic Shocks]]— full search page of this project

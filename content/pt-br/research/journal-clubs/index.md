@@ -58,6 +58,6 @@ Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatt
 
 ---
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - [[pt-br/research/index|Pesquisa — visão geral]]

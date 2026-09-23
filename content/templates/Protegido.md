@@ -11,6 +11,6 @@ cssclasses:
   - page-layout
 ---
 
-# 🔒 [NOME DA PÁGINA PROTEGIDA]
+# [NOME DA PÁGINA PROTEGIDA]
 
 Este conteúdo é criptografado nativamente no build via PBKDF2 / AES-GCM-256 e liberado no navegador mediante inserção da senha correta.

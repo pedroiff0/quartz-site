@@ -8,57 +8,98 @@
 
 % --- Pacotes Gráficos e Diagramação ---
 \usepackage{graphicx}
+\graphicspath{{./}{/home/pedro/hardcore-life/04-recursos/02-areas-recursos/academico/pesquisas/classe-latex-conepe/}{/home/pedro/hardcore-life/04-recursos/99-meta-assets/imagens/}}
 \usepackage{booktabs}
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows,positioning,calc}
 \usepackage{listings}
 \usepackage{tcolorbox}
 \tcbuselibrary{skins,breakable}
-\usepackage{qrcode}
+\usepackage{hyperref}
 
 % --- Cores Institucionais do IFF e do CONEPE ---
-\definecolor{iffgreen}{RGB}{0, 102, 51}         % Verde IFF
-\definecolor{iffgreenlight}{RGB}{235, 247, 238}
-\definecolor{iffdark}{RGB}{15, 60, 30}
-\definecolor{iffred}{RGB}{204, 0, 0}            % Vermelho IFF
-\definecolor{codebg}{RGB}{245, 247, 248}
-\definecolor{conepeteal}{RGB}{43, 114, 131}     % Tom azul-petróleo do CONEPE 2026
+\definecolor{iffprimary}{RGB}{30, 130, 60}      % Verde Institucional IFF (#1E823C)
+\definecolor{iffdark}{RGB}{15, 60, 30}          % Verde Escuro (#0F3C1E)
+\definecolor{ifftext}{RGB}{20, 20, 20}          % Texto Principal (#141414)
+\definecolor{iffsubtext}{RGB}{90, 90, 90}       % Texto Secundário (#5A5A5A)
+\definecolor{iffred}{RGB}{180, 30, 30}          % Vermelho Alerta (#B41E1E)
+\definecolor{iffalertbg}{RGB}{255, 238, 238}    % Fundo Alerta Claro
+\definecolor{iffgreenlight}{RGB}{238, 252, 240} % Fundo Sucesso Claro
+\definecolor{iffblockbg}{RGB}{245, 247, 248}    % Fundo Bloco Neutro
+\definecolor{conepeteal}{RGB}{43, 114, 131}     % Tom Teal CONEPE 2026 (#2B7283)
+\definecolor{codebg}{RGB}{245, 247, 250}
+
+% --- Configuração de Geometria e Margens do Beamer ---
+\setbeamersize{text margin left=0.6cm, text margin right=0.6cm}
+\geometry{headheight=2.362cm}
 
 % --- Tema do Beamer ---
 \usetheme{Madrid}
 \useinnertheme{rectangles}
-
-% --- DIRETRIZ 1: SEM RODAPÉ ---
 \setbeamertemplate{navigation symbols}{}
-\setbeamertemplate{footline}{} % Remove completamente o rodapé
 
-% --- DIRETRIZ 2: CABEÇALHO COM O BANNER DO CONEPE 2026 ---
-\setbeamertemplate{frametitle}{%
-  \vspace{-1pt}%
-  \begin{beamercolorbox}[wd=\paperwidth,ht=1.15cm,dp=0ex]{empty}%
-    \includegraphics[width=\paperwidth,height=1.15cm]{cabecalho_conepe2026.jpg}%
-  \end{beamercolorbox}%
-  \vspace{0.15cm}%
-  \begin{beamercolorbox}[wd=\paperwidth,leftskip=0.8cm,rightskip=0.8cm]{frametitle}%
-    \usebeamerfont{frametitle}\color{iffdark}\textbf{\insertframetitle}%
-    \ifx\insertframesubtitle\@empty%
-    \else%
-      \vskip0.1em{\usebeamerfont{framesubtitle}\color{gray}\insertframesubtitle}%
-    \fi%
-  \end{beamercolorbox}%
+% --- CABEÇALHO INSTITUCIONAL OFICIAL (FOTO INTEIRA DO CONEPE 2026) ---
+% Proporção oficial de alta resolução (2046x302 -> 16.0cm x 2.3617cm), estritamente a foto original
+\setbeamertemplate{headline}{%
+  \ifnum\insertframenumber<16%
+    \nointerlineskip%
+    \includegraphics[width=\paperwidth,height=2.3617cm,keepaspectratio]{cabecalho-conepe2026.jpg}%
+  \fi%
 }
 
-% --- Customização de Cores dos Blocos ---
-\setbeamercolor{structure}{fg=iffgreen}
-\setbeamercolor{block title}{bg=iffgreen,fg=white}
-\setbeamercolor{block body}{bg=iffgreenlight,fg=black}
-\setbeamercolor{block title alerted}{bg=iffred,fg=white}
-\setbeamercolor{block body alerted}{bg=iffred!10,fg=black}
+% --- TÍTULO DO SLIDE (FRAMETITLE) ---
+\setbeamerfont{frametitle}{size=\normalsize, series=\bfseries}
+\setbeamerfont{framesubtitle}{size=\tiny, series=\normalfont}
+\setbeamertemplate{frametitle}{%
+  \vspace*{0.08cm}%
+  \noindent{\usebeamerfont{frametitle}\color{iffprimary}\insertframetitle}%
+  \ifx\insertframesubtitle\@empty%
+  \else%
+    \par\vspace{0.02cm}{\usebeamerfont{framesubtitle}\color{iffsubtext}\insertframesubtitle}%
+  \fi%
+  \par\vspace*{-0.15cm}%
+}
 
-% --- Configurações de Código TeX ---
+% --- RODAPÉ INSTITUCIONAL COM LINK DE E-MAIL CLICÁVEL ---
+\setbeamertemplate{footline}{%
+  \ifnum\insertframenumber>1%
+    \ifnum\insertframenumber<16%
+      {\color{iffprimary}\hrule height 0.8pt width \paperwidth}%
+      \nointerlineskip%
+      \begin{beamercolorbox}[wd=\paperwidth,ht=2.6ex,dp=1.1ex,leftskip=0.60cm,rightskip=0.60cm]{empty}%
+        {\fontsize{7.5}{9}\selectfont\bfseries\href{mailto:pedroiff0@gmail.com}{\color{ifftext}de Andrade, P. H. R., et al.}}%
+        \hfill%
+        {\fontsize{7.5}{9}\selectfont\bfseries\href{https://phrandrade.com}{\color{ifftext}Classe \LaTeX\ --- CONEPE 2026}}%
+        \hfill%
+        {\fontsize{7.5}{9}\selectfont\bfseries\color{ifftext}\insertframenumber{} / \inserttotalframenumber}%
+      \end{beamercolorbox}%
+      \vspace*{1pt}%
+    \fi%
+  \fi%
+}
+
+% --- Cores dos Blocos e Sumário ---
+\setbeamercolor{structure}{fg=iffprimary}
+\setbeamercolor{section in toc}{fg=iffprimary}
+\setbeamercolor{section number projected}{bg=iffprimary,fg=white}
+\setbeamercolor{block title}{bg=iffprimary,fg=white}
+\setbeamercolor{block body}{bg=iffblockbg,fg=ifftext}
+\setbeamercolor{block title alerted}{bg=iffred,fg=white}
+\setbeamercolor{block body alerted}{bg=iffalertbg,fg=ifftext}
+
+% --- Configurações de Caixas (tcolorbox) compactas ---
+\tcbset{
+  top=1.0mm,
+  bottom=1.0mm,
+  left=2.0mm,
+  right=2.0mm,
+  boxsep=1.0mm
+}
+
+% --- Configurações de Código ---
 \lstset{
   basicstyle=\ttfamily\scriptsize,
-  keywordstyle=\color{iffgreen}\bfseries,
+  keywordstyle=\color{iffprimary}\bfseries,
   commentstyle=\color{gray}\itshape,
   stringstyle=\color{iffred},
   backgroundcolor=\color{codebg},
@@ -66,29 +107,33 @@
   rulecolor=\color{gray!30},
   breaklines=true,
   showstringspaces=false,
-  tabsize=2
+  tabsize=2,
+  aboveskip=2pt,
+  belowskip=2pt
 }
 
 % --- Metadados do Trabalho ---
 \hypersetup{
   pdftitle={Classe LaTeX: Otimizacao da Formatacao de Trabalhos Academicos - CONEPE 2026},
-  pdfauthor={P. H. R. De Andrade, A. C. Soja, M. L. L. Dantas, A. M. O. Figueiredo}
+  pdfauthor={de Andrade, P. H. R., et al.},
+  colorlinks=true,
+  linkcolor=iffprimary,
+  urlcolor=iffprimary,
+  citecolor=iffprimary
 }
 
 \title[\texttt{ifftese.cls} --- CONEPE 2026]{Classe \LaTeX: Otimização da Formatação de Trabalhos Acadêmicos}
 \subtitle{Automação Normativa da ABNT e Abstração Estrutural com \texttt{ifftese.cls} e \texttt{macros.sty}}
 
-\author[P. H. R. De Andrade \textit{et al.}]{
-  \textbf{P. H. R. De Andrade}\textsuperscript{1*}, A. C. Soja\textsuperscript{1}, M. L. L. Dantas\textsuperscript{2}, A. M. O. Figueiredo\textsuperscript{1}
+\author[de Andrade, P. H. R., et al.]{
+  \textbf{Pedro Henrique Rocha de Andrade}\textsuperscript{1*}, Ana Cecília Soja\textsuperscript{1},\\
+  Maria Luiza Linhares Dantas\textsuperscript{2}, Antônio Manoel de Oliveira Figueiredo\textsuperscript{1}
 }
 
 \institute[IFF / PUC-Chile]{
-  \textsuperscript{1}Instituto Federal Fluminense (IFF) --- \textit{Campus} Bom Jesus do Itabapoana\\
-  \textsuperscript{2}Pontifícia Universidade Católica de Chile (PUC-Chile)\\[1ex]
-  \texttt{*pedroiff0@gmail.com}\\[1.5ex]
-  \footnotesize \textbf{Apoio Institucional e Financeiro:}\\
-  \textbf{CNPq} (Conselho Nacional de Desenvolvimento Científico e Tecnológico) --- Projeto nº 129985/2025-2\\
-  \textbf{Instituto Federal Fluminense} --- \textit{Campus} Bom Jesus do Itabapoana
+  \textsuperscript{1}Instituto Federal Fluminense (IFF) \quad$\vert$\quad \textsuperscript{2}PUC-Chile\\[0.1ex]
+  \texttt{*pedroiff0@gmail.com}\\[0.3ex]
+  \tiny \textbf{Apoio Institucional:} CNPq (Projeto 129985/2025-2) $\vert$ IFF Bom Jesus $\vert$ FAPERJ
 }
 
 \date{CONEPE 2026 --- 22 a 24 de Setembro de 2026}
@@ -100,251 +145,283 @@
 
 % --- Slide 1: Capa Oficial ---
 {
-\setbeamertemplate{frametitle}{}
-\begin{frame}[plain]
-  \begin{beamercolorbox}[wd=\paperwidth,ht=1.3cm,dp=0ex]{empty}
-    \includegraphics[width=\paperwidth,height=1.3cm]{cabecalho_conepe2026.jpg}
-  \end{beamercolorbox}
-  \vspace{-0.2cm}
+\setbeamertemplate{footline}{}
+\begin{frame}
+  \vspace*{-0.50cm}
   \titlepage
 \end{frame}
 }
 
-% --- Slide 2: Storytelling - O Pesadelo no Word ---
-\begin{frame}{O Pesadelo da Madrugada: A Odisseia da Formatação no Word}
+% --- Slide 2: Sumário da Apresentação ---
+\begin{frame}{Estrutura da Apresentação}
+  \vspace{0.10cm}
+  \tableofcontents
+\end{frame}
+
+% =============================================================================
+% SEÇÃO 1: CONTEXTUALIZAÇÃO
+% =============================================================================
+\section{Contextualização \& O Paradoxo do Pesquisador}
+
+% --- Slide 3: O Pesadelo da Madrugada ---
+\begin{frame}{O Pesadelo da Madrugada: A Odisseia no Word}
   \begin{columns}[T]
-    \begin{column}{0.55\textwidth}
-      \textbf{Cenário:} Véspera da entrega final, 23h59.
-      \begin{itemize}
-        \item O orientador solicita a inclusão de um parágrafo de 3 linhas na Introdução.
-        \item Você insere o texto e pressiona \textit{Enter}...
+    \begin{column}{0.49\textwidth}
+      \textbf{Cenário das 23h59 (Véspera de Entrega):}
+      \begin{itemize}\setlength{\itemsep}{1.5pt}
+        \item O orientador pede um acréscimo de 3 linhas na Introdução;
+        \item O autor insere o texto e aperta \textit{Enter}...
       \end{itemize}
-      \vspace{0.2cm}
+      \vspace{0.10cm}
       \begin{alertblock}{O Efeito Dominó Catastrófico}
-        \begin{itemize}
-          \item A \textbf{Figura 4} na pág. 8 salta misteriosamente para a pág. 11, deixando um enorme vazio branco.
-          \item A legenda da figura se desprende e fica órfã no topo da folha seguinte.
-          \item Ocorre o temido: \texttt{"Erro! Indicador não definido."}
-          \item As referências numéricas ficam fora de ordem: \texttt{[14, 2, 8, 1]}.
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
+          \item Figuras saltam páginas adiante, gerando vazios;
+          \item Legendas se desprendem e ficam órfãs;
+          \item Ocorre o clássico: \texttt{"Erro! Indicador..."};
+          \item As referências numéricas perdem ordenação.
         \end{itemize}
       \end{alertblock}
     \end{column}
 
-    \begin{column}{0.42\textwidth}
-      \begin{tcolorbox}[colback=red!5,colframe=iffred,title=\textbf{Sintomas do WYSIWYG}]
-        \small
-        \begin{itemize}
-          \item Quebras de seção corrompem a paginação pré-textual.
-          \item Margens que mudam sozinhas.
-          \item Sumário desalinha os números de página dos pontilhados (\texttt{.....}).
-          \item \textbf{Custo real:} 70\% do tempo gasto brigando contra a ferramenta, não produzindo ciência.
+    \begin{column}{0.49\textwidth}
+      \begin{tcolorbox}[colback=iffblockbg,colframe=iffprimary,arc=1.5mm,title=\textbf{O Custo Operacional Comprovado}]
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{2.5pt}
+          \item Quebras de seção corrompem a paginação;
+          \item Margens oscilam sem intervenção;
+          \item Sumário desalinha os números de página;
+          \item \textbf{Diagnóstico:} Até \textbf{70\% do tempo de escrita} é consumido combatendo a ferramenta, não produzindo ciência.
         \end{itemize}
       \end{tcolorbox}
     \end{column}
   \end{columns}
 \end{frame}
 
-% --- Slide 3: O Paradoxo do Pesquisador ---
+% --- Slide 4: O Paradoxo do Pesquisador ---
 \begin{frame}{O Paradoxo do Pesquisador Acadêmico}
-  \begin{columns}[c]
-    \begin{column}{0.5\textwidth}
-      \begin{tcolorbox}[colback=codebg,colframe=conepeteal,title=\textbf{O Objetivo Central}]
-        \begin{itemize}
-          \item Formulação de hipóteses científicas;
-          \item Coleta e análise rigorosa de dados;
-          \item Redação clara e impacto na sociedade;
-          \item Contribuição para o avanço do conhecimento.
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{tcolorbox}[colback=iffgreenlight,colframe=iffprimary,arc=1.5mm,title=\textbf{O Objetivo Científico Central}]
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
+          \item Formulação e teste de hipóteses científicas;
+          \item Coleta e análise rigorosa de dados empíricos;
+          \item Redação concisa e impacto científico;
+          \item Contribuição para o avanço da sociedade.
         \end{itemize}
       \end{tcolorbox}
     \end{column}
 
-    \begin{column}{0.5\textwidth}
-      \begin{tcolorbox}[colback=orange!10,colframe=orange!80!black,title=\textbf{A Realidade Operacional}]
-        \begin{itemize}
-          \item Ajustar espaçamento de 1,5 cm vs 1,0 cm;
-          \item Medir margem de 3 cm e 2 cm na régua visual;
-          \item Contar páginas sem imprimir na folha de rosto;
-          \item Repadronizar títulos após o Word perder estilos.
+    \begin{column}{0.48\textwidth}
+      \begin{tcolorbox}[colback=iffalertbg,colframe=iffred,arc=1.5mm,title=\textbf{A Realidade Burocrática}]
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
+          \item Medir margem de 3 cm e 2 cm na régua da tela;
+          \item Batalhar para ocultar número na capa e resumo;
+          \item Repadronizar títulos após perda de estilo;
+          \item Reformatar espaçamentos manuais a cada revisão.
         \end{itemize}
       \end{tcolorbox}
     \end{column}
   \end{columns}
-  \vspace{0.4cm}
-  \centering \textbf{Pergunta norteadora:} \textit{Como blindar o pesquisador contra essas falhas sem exigir dele conhecimento avançado em programação?}
+  \vspace{0.12cm}
+  \centering \scriptsize \textbf{Pergunta norteadora:} \textit{Como blindar o pesquisador sem exigir dele conhecimento avançado em programação?}
 \end{frame}
 
-% --- Slide 4: Normas Regentes I (NBR 14724) ---
-\begin{frame}{As Normas Regentes I: ABNT NBR 14724 (Trabalhos Acadêmicos)}
+% =============================================================================
+% SEÇÃO 2: O APARATO NORMATIVO
+% =============================================================================
+\section{O Labirinto Normativo: ABNT \& IBGE}
+
+% --- Slide 5: NBR 14724 ---
+\begin{frame}{As Normas Regentes I: ABNT NBR 14724}
   \begin{columns}[T]
     \begin{column}{0.48\textwidth}
       \begin{block}{\textbf{Geometria e Margens Estritas}}
-        \begin{itemize}
-          \item \textbf{Anverso:} Esquerda e Superior: \textbf{3 cm}; Direita e Inferior: \textbf{2 cm}.
-          \item \textbf{Verso:} Margens espelhadas.
-          \item \textbf{Fonte:} Tamanho 12 no corpo; tamanho menor (10) para citações longas, notas e fontes.
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
+          \item \textbf{Anverso:} Esquerda e Topo: \textbf{3 cm}; Direita e Base: \textbf{2 cm}.
+          \item \textbf{Verso:} Margens espelhadas para encadernação.
+          \item \textbf{Corpo:} Fonte 12; tamanho 10 para citações longas e notas.
         \end{itemize}
       \end{block}
+      \vspace{0.08cm}
+      \begin{tcolorbox}[colback=iffblockbg,colframe=gray!50,arc=1.5mm]
+        \tiny \textbf{Citações Longas (> 3 linhas):} Recuo obrigatório de 4 cm, fonte 10 e entrelinhas simples.
+      \end{tcolorbox}
     \end{column}
 
     \begin{column}{0.48\textwidth}
       \begin{alertblock}{\textbf{A Pegadinha da Paginação}}
-        \begin{itemize}
-          \item As folhas pré-textuais são \textbf{contadas} a partir da Folha de Rosto;
-          \item Porém, a numeração só pode ser \textbf{impressa a partir da Introdução};
-          \item No Word: exige quebras de seção delicadas e desvinculação de cabeçalho;
-          \item Na \texttt{ifftese.cls}: gerido automaticamente na transição textual.
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
+          \item Folhas pré-textuais são \textbf{contadas} desde a Folha de Rosto;
+          \item Numeração física só é \textbf{impressa a partir da Introdução};
+          \item No Word: quebras de seção complexas e propensas a corrupção;
+          \item Na \texttt{ifftese.cls}: gerido automaticamente na transição.
         \end{itemize}
       \end{alertblock}
     \end{column}
   \end{columns}
-  \vspace{0.2cm}
-  \begin{tcolorbox}[colback=codebg,colframe=gray!50]
-    \centering \footnotesize \textbf{Citações Diretas Longas (> 3 linhas):} Recuo obrigatório de 4 cm da margem esquerda, fonte reduzida e espaçamento simples.
-  \end{tcolorbox}
 \end{frame}
 
-% --- Slide 5: Normas Regentes II (NBR 6023 e 6027) ---
-\begin{frame}{As Normas Regentes II: NBR 6023 (Referências) e NBR 6027 (Sumário)}
+% --- Slide 6: NBR 6023 e 6027 ---
+\begin{frame}{As Normas Regentes II: NBR 6023 e NBR 6027}
   \begin{columns}[T]
     \begin{column}{0.48\textwidth}
-      \begin{block}{\textbf{ABNT NBR 6023 (Referências)}}
-        \begin{itemize}
+      \begin{block}{\textbf{NBR 6023 (Referências)}}
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
           \item \textbf{Alinhamento:} À margem esquerda (nunca justificado!).
-          \item \textbf{Espaçamento:} Entrelinhas simples; separadas entre si por 1 espaço simples em branco.
-          \item \textbf{Destaque Tipográfico:} Uniforme em todo o documento (negrito ou itálico) estritamente no título da obra.
-          \item \textbf{Sistema:} Autor-data ou numérico consistente.
+          \item \textbf{Espaçamento:} Simples entre linhas; 1 linha em branco entre referências.
+          \item \textbf{Destaque:} Uniforme apenas no título.
+          \item \textbf{Chamada:} Autor-data ou numérico estrito.
         \end{itemize}
       \end{block}
     \end{column}
 
     \begin{column}{0.48\textwidth}
-      \begin{block}{\textbf{ABNT NBR 6027 (Sumário)}}
-        \begin{itemize}
-          \item \textbf{Identidade Tipográfica:} As seções devem ter no sumário a exata grafia do texto:
-            \begin{itemize}
+      \begin{block}{\textbf{NBR 6027 (Sumário)}}
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
+          \item \textbf{Identidade Tipográfica:} O sumário espelha com precisão a grafia do texto:
+            \begin{itemize}\setlength{\itemsep}{1pt}
               \item 1 SEÇÃO PRIMÁRIA (CAIXA ALTA NEGRITO)
               \item 1.1 Seção Secundária (Caixa Baixa Normal)
             \end{itemize}
-          \item \textbf{Alinhamento:} Números de página ligados por linhas contínuas pontilhadas (\texttt{.....}).
+          \item \textbf{Alinhamento:} Números ligados por pontilhados contínuos (\texttt{.....}).
         \end{itemize}
       \end{block}
     \end{column}
   \end{columns}
 \end{frame}
 
-% --- Slide 6: Padrão IBGE (Tabelas vs. Quadros) ---
+% --- Slide 7: Tabelas vs Quadros ---
 \begin{frame}{Diferenciação Normativa: Tabelas (IBGE) vs. Quadros (ABNT)}
   \begin{columns}[T]
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=iffgreenlight,colframe=iffgreen,title=\textbf{Tabelas (Normas do IBGE)}]
-        \begin{itemize}
-          \item Finalidade: Predominância de \textbf{dados numéricos}.
-          \item Estrutura: \textbf{Laterais abertas} (sem traços verticais externos de fechamento).
-          \item Delimitação: Linha horizontal no topo, no cabeçalho e na base.
-          \item Pré-texto: Conduz à \textbf{Lista de Tabelas}.
+      \begin{tcolorbox}[colback=iffgreenlight,colframe=iffprimary,arc=1.5mm,title=\textbf{Tabelas (Normas do IBGE)}]
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
+          \item Dados predominantemente \textbf{numéricos};
+          \item \textbf{Laterais abertas} (sem bordas verticais externas);
+          \item Linhas horizontais no topo, cabeçalho e base;
+          \item Alimenta a \textbf{Lista de Tabelas} pré-textual.
         \end{itemize}
       \end{tcolorbox}
     \end{column}
 
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=iffred!10,colframe=iffred,title=\textbf{Quadros (Norma ABNT)}]
-        \begin{itemize}
-          \item Finalidade: Dados \textbf{qualitativos, esquemáticos ou textuais}.
-          \item Estrutura: \textbf{Totalmente fechado} nos quatro lados, com divisórias de células.
-          \item Pré-texto: Exige obrigatoriamente a criação da \textbf{Lista de Quadros}.
+      \begin{tcolorbox}[colback=iffalertbg,colframe=iffred,arc=1.5mm,title=\textbf{Quadros (Norma ABNT)}]
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
+          \item Dados \textbf{qualitativos, conceituais ou texto};
+          \item \textbf{Totalmente fechado} nos 4 lados com grades;
+          \item Divisórias internas completas de células;
+          \item Exige obrigatoriamente a \textbf{Lista de Quadros}.
         \end{itemize}
       \end{tcolorbox}
     \end{column}
   \end{columns}
-  \vspace{0.2cm}
+  \vspace{0.08cm}
   \begin{alertblock}{O Erro Típico na Academia}
-    Estudantes tratam quadros e tabelas como sinônimos. A \texttt{ifftese.cls} automatiza a separação através das macros dedicadas \texttt{\textbackslash inserirtabela} e \texttt{\textbackslash inserirquadro}.
+    \tiny Tratar quadro e tabela como sinônimos gera reprovação formal. A \texttt{ifftese.cls} automatiza a separação através das macros \texttt{\textbackslash inserirtabela} e \texttt{\textbackslash inserirquadro}.
   \end{alertblock}
 \end{frame}
 
-% --- Slide 7: Princípio dos Paradigmas ---
+% =============================================================================
+% SEÇÃO 3: PARADIGMAS DE PROCESSAMENTO
+% =============================================================================
+\section{Princípio dos Paradigmas: WYSIWYG vs. WYSIWYM}
+
+% --- Slide 8: WYSIWYG vs WYSIWYM ---
 \begin{frame}{O Princípio dos Paradigmas: WYSIWYG vs. WYSIWYM}
   \begin{columns}[T]
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=red!5,colframe=iffred,title=\textbf{WYSIWYG: Microsoft Word}]
-        \textit{"What You See Is What You Get"}
-        \begin{itemize}
-          \item Mistura conteúdo, apresentação e geometria simultaneamente.
-          \item Algoritmo de renderização local ("guloso"): a edição de uma linha propaga efeitos colaterais por todo o arquivo.
-          \item Instável para teses longas (> 50 páginas) com muitas ilustrações e equações.
+      \begin{tcolorbox}[colback=iffalertbg,colframe=iffred,arc=1.5mm,title=\textbf{WYSIWYG: Microsoft Word}]
+        \scriptsize \textit{"What You See Is What You Get"}
+        \begin{itemize}\setlength{\itemsep}{2pt}
+          \item Mistura texto, renderização gráfica e geometria;
+          \item Algoritmo local 'guloso': editar uma linha no topo quebra páginas seguintes em cascata;
+          \item Instabilidade severa em documentos longos.
         \end{itemize}
       \end{tcolorbox}
     \end{column}
 
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=iffgreenlight,colframe=iffgreen,title=\textbf{WYSIWYM: O Sistema \LaTeX}]
-        \textit{"What You See Is What You Mean"}
-        \begin{itemize}
-          \item \textbf{Donald Knuth (1977)} e \textbf{Leslie Lamport (1984)}.
-          \item Separação ontológica: o autor declara a semântica (\texttt{\textbackslash section}, \texttt{\textbackslash caption}); o compilador calcula o layout ótimo.
-          \item Algoritmo de Knuth-Plass: microtipografia globalmente calculada.
+      \begin{tcolorbox}[colback=iffgreenlight,colframe=iffprimary,arc=1.5mm,title=\textbf{WYSIWYM: O Sistema \LaTeX}]
+        \scriptsize \textit{"What You See Is What You Mean"}
+        \begin{itemize}\setlength{\itemsep}{2pt}
+          \item Fundamentado por Knuth (1977) e Lamport (1984);
+          \item O autor declara semântica; o compilador calcula o leiaute global ótimo;
+          \item Algoritmo Knuth-Plass: microtipografia estável via programação dinâmica.
         \end{itemize}
       \end{tcolorbox}
     \end{column}
   \end{columns}
 \end{frame}
 
-% --- Slide 8: O Dilema do LaTeX Puro ---
-\begin{frame}{Por Que o \LaTeX\ é a Resposta (e por que ainda causa receio?)}
-  \begin{columns}[c]
-    \begin{column}{0.5\textwidth}
+% --- Slide 9: Por Que o LaTeX ---
+\begin{frame}{Por Que o \LaTeX\ é a Resposta (e o dilema da curva inicial)}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
       \textbf{As Vantagens Inquestionáveis:}
-      \begin{itemize}
-        \item Padrão ouro nos repositórios arXiv e NASA/ADS;
-        \item Tipografia matemática perfeita e estável;
-        \item Referências cruzadas confiáveis via arquivos \texttt{.aux};
-        \item Documento imune a quebras bruscas de layout.
+      \begin{itemize}\setlength{\itemsep}{2pt}
+        \item Padrão mundial na física e computação;
+        \item Tipografia de equações com rigor estético;
+        \item Referências cruzadas confiáveis via \texttt{.aux};
+        \item Separação total entre conteúdo e arte-final.
       \end{itemize}
     \end{column}
 
-    \begin{column}{0.5\textwidth}
+    \begin{column}{0.48\textwidth}
       \begin{alertblock}{\textbf{A Barreira de Entrada}}
-        \begin{itemize}
-          \item Curva de aprendizado íngreme;
-          \item Sintaxe densa com dezenas de pacotes gráficos;
-          \item Erros de compilação assustadores para o discente iniciante;
-          \item Dificuldade em adequar classes genéricas às normas da ABNT.
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{2pt}
+          \item Curva de aprendizado inicial íngreme;
+          \item Dezenas de pacotes gráficos para configurar;
+          \item Mensagens de erro de compilação intimidadoras;
+          \item Necessidade de adequar classes genéricas à ABNT.
         \end{itemize}
       \end{alertblock}
     \end{column}
   \end{columns}
-  \vspace{0.4cm}
-  \centering \textbf{A Solução Necessária:} Uma camada de abstração projetada sob medida para a nossa instituição.
+  \vspace{0.10cm}
+  \centering \scriptsize \textbf{A Solução Necessária:} Uma camada de abstração institucional desenvolvida sob medida.
 \end{frame}
 
-% --- Slide 9: A Solução IFF ---
+% =============================================================================
+% SEÇÃO 4: A SOLUÇÃO PROPOSTA
+% =============================================================================
+\section{A Solução Proposta: \texttt{ifftese.cls} e \texttt{macros.sty}}
+
+% --- Slide 10: A Solução IFF ---
 \begin{frame}{A Solução Proposta: \texttt{ifftese.cls} e \texttt{macros.sty}}
   \begin{block}{\textbf{Objetivo do Projeto}}
-    Desenvolver uma classe tipográfica oficial e um pacote de extensão encapsulado para atender a comunidade do Instituto Federal Fluminense, assegurando conformidade estrita à ABNT e preservando a identidade visual local.
+    \tiny Desenvolver uma classe tipográfica oficial e um pacote de extensão para atender a comunidade do Instituto Federal Fluminense, assegurando conformidade estrita à ABNT e preservando a identidade visual local.
   \end{block}
-
-  \vspace{0.3cm}
-
+  \vspace{0.06cm}
   \begin{columns}[T]
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=white,colframe=iffgreen,title=\textbf{Classe \texttt{ifftese.cls}}]
-        \small
-        \begin{itemize}
-          \item Gerenciamento de margens e geometria da folha;
-          \item Geração automática de capas e folhas de aprovação;
-          \item Cabeçalhos institucionais e metadados formais;
-          \item Base sólida construída sobre o \texttt{abntex2}.
+      \begin{tcolorbox}[colback=white,colframe=iffprimary,arc=1.5mm,title=\textbf{Classe \texttt{ifftese.cls}}]
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
+          \item Gerenciamento de margens e geometria milimétrica;
+          \item Geração automática de capas e aprovações;
+          \item Cabeçalhos e paginação inteligente;
+          \item Base construída sobre o ecossistema \texttt{abntex2}.
         \end{itemize}
       \end{tcolorbox}
     \end{column}
 
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=white,colframe=conepeteal,title=\textbf{Extensão \texttt{macros.sty}}]
-        \small
-        \begin{itemize}
+      \begin{tcolorbox}[colback=white,colframe=conepeteal,arc=1.5mm,title=\textbf{Extensão \texttt{macros.sty}}]
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{1.5pt}
           \item Abstração de comandos complexos em linha única;
           \item Diferenciação nativa de tabelas e quadros;
-          \item Blindagem contra falhas em listas dinâmicas;
+          \item Alimentação automática de listas pré-textuais;
           \item Manipulação segura de contadores pós-textuais.
         \end{itemize}
       \end{tcolorbox}
@@ -352,66 +429,71 @@
   \end{columns}
 \end{frame}
 
-% --- Slide 10: Metodologia de Desenvolvimento ---
+% =============================================================================
+% SEÇÃO 5: METODOLOGIA E RESULTADOS
+% =============================================================================
+\section{Resultados Práticos e Validação}
+
+% --- Slide 11: Metodologia ---
 \begin{frame}{Metodologia de Desenvolvimento em Três Etapas}
   \centering
-  \begin{tikzpicture}[node distance=2.4cm, auto, >=latex]
-    \tikzstyle{block} = [rectangle, draw=iffgreen, fill=iffgreenlight, text width=3.8cm, text centered, rounded corners, minimum height=1.3cm, font=\small\bfseries]
-    \tikzstyle{line} = [draw, -latex', thick, iffgreen]
+  \begin{tikzpicture}[node distance=2.2cm, auto, >=latex]
+    \tikzstyle{block} = [rectangle, draw=iffprimary, fill=iffgreenlight, text width=3.6cm, text centered, rounded corners, minimum height=0.95cm, font=\scriptsize\bfseries]
+    \tikzstyle{line} = [draw, -latex', thick, iffprimary]
 
-    \node [block] (step1) {1. Mapeamento Normativo\\{\footnotesize NBR 14724, 6023, 6027 e IBGE}};
-    \node [block, right of=step1, xshift=2.2cm] (step2) {2. Construção das Macros\\{\footnotesize Encapsulamento de ambientes}};
-    \node [block, right of=step2, xshift=2.2cm] (step3) {3. Template Unificado\\{\footnotesize Modelo \texttt{main.tex} pronto para uso}};
+    \node [block] (step1) {1. Mapeamento Normativo\\{\tiny NBR 14724, 6023, 6027 e IBGE}};
+    \node [block, right of=step1, xshift=2.0cm] (step2) {2. Construção das Macros\\{\tiny Encapsulamento de ambientes}};
+    \node [block, right of=step2, xshift=2.0cm] (step3) {3. Template Unificado\\{\tiny Modelo \texttt{main.tex} institucional}};
 
     \path [line] (step1) -- (step2);
     \path [line] (step2) -- (step3);
   \end{tikzpicture}
 
-  \vspace{0.6cm}
+  \vspace{0.25cm}
   \begin{columns}[T]
     \begin{column}{0.32\textwidth}
-      \footnotesize \textbf{Ambientes de Teste:} TeX Live com motores \texttt{pdflatex} e \texttt{bibtex}.
+      \scriptsize \textbf{Ambientes de Teste:}\\TeX Live com motores \texttt{pdflatex} e \texttt{bibtex}.
     \end{column}
     \begin{column}{0.32\textwidth}
-      \footnotesize \textbf{Acessibilidade:} Compatível com Overleaf, TeXPage e repositórios locais.
+      \scriptsize \textbf{Acessibilidade:}\\Compatível com Overleaf, TeXPage e repositórios locais.
     \end{column}
     \begin{column}{0.32\textwidth}
-      \footnotesize \textbf{Engenharia de Software:} Foco centrado no usuário final e experiência do autor.
+      \scriptsize \textbf{Engenharia de Software:}\\Foco centrado na experiência do usuário final.
     \end{column}
   \end{columns}
 \end{frame}
 
-% --- Slide 11: Resultados - Variáveis e Pré-Texto ---
-\begin{frame}[fragile]{Resultados: Variáveis Semânticas e Automação Pré-Textual}
+% --- Slide 12: Variáveis e Pré-Texto ---
+\begin{frame}[fragile]{Resultados: Variáveis Semânticas e Pré-Texto}
   \begin{columns}[T]
     \begin{column}{0.48\textwidth}
-      \textbf{Switches de Configuração (Flags Booleanas):}
-      \begin{itemize}
-        \item \verb|\frenteVerso|: Alterna margens simples ou espelhadas.
-        \item \verb|\capaiff|: Aplica leiaute institucional oficial.
-        \item \verb|\corlink|: Controle de contraste para impressão ou tela.
-        \item \verb|\sumarioEscada|: Formatação hierárquica automática.
+      \textbf{Switches de Configuração (Flags):}
+      \begin{itemize}\setlength{\itemsep}{1.5pt}
+        \item \verb|\frenteVerso|: Margens simples ou espelhadas;
+        \item \verb|\capaiff|: Leiaute institucional oficial;
+        \item \verb|\corlink|: Contraste para tela ou impressão;
+        \item \verb|\sumarioEscada|: Formatação hierárquica.
       \end{itemize}
-      \vspace{0.2cm}
-      \textbf{Metadados Simples no Preâmbulo:}
-      \begin{itemize}
-        \item \verb|\autor|, \verb|\titulo|, \verb|\orientador|, \verb|\local|, \verb|\data|.
+      \vspace{0.08cm}
+      \textbf{Metadados no Preâmbulo:}
+      \begin{itemize}\setlength{\itemsep}{1pt}
+        \item \verb|\autor|, \verb|\titulo|, \verb|\orientador|, \verb|\data|.
       \end{itemize}
     \end{column}
 
-    \begin{column}{0.5\textwidth}
-      \begin{tcolorbox}[colback=codebg,colframe=iffdark,title=\textbf{Geração com Comandos Únicos}]
-        \small
-        O usuário não formata a capa manualmente:
+    \begin{column}{0.50\textwidth}
+      \begin{tcolorbox}[colback=codebg,colframe=iffdark,arc=1.5mm,title=\textbf{Geração com Comandos Únicos}]
+        \scriptsize
+        O autor não formata a capa manualmente:
         \begin{lstlisting}[language=TeX]
 \capa
 \contracapa
 \folhadeaprovacao
         \end{lstlisting}
-        \vspace{0.2cm}
+        \vspace{0.05cm}
         \textbf{Garantias do Compilador:}
-        \begin{itemize}
-          \item Espaçamentos milimétricos exatos da NBR 14724;
+        \begin{itemize}\setlength{\itemsep}{1pt}
+          \item Espaçamentos milimétricos da NBR 14724;
           \item Contagem oculta de páginas ativada;
           \item Zero intervenção em arquivos auxiliares.
         \end{itemize}
@@ -420,133 +502,143 @@
   \end{columns}
 \end{frame}
 
-% --- Slide 12: Resultados - Elementos Textuais: Inserção de Figuras ---
+% --- Slide 13: Inserção de Figuras ---
 \begin{frame}[fragile]{Resultados: Elementos Textuais (\texttt{\textbackslash inserirfigura})}
   \begin{columns}[T]
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=red!5,colframe=iffred,title=\textbf{\LaTeX\ Convencional (8--10 linhas)}]
+      \begin{tcolorbox}[colback=iffalertbg,colframe=iffred,arc=1.5mm,title=\textbf{\LaTeX\ Convencional (8--10 linhas)}]
 \begin{lstlisting}[language=TeX]
 \begin{figure}[htbp]
   \centering
   \caption{Diagrama de Fases}
-  \includegraphics[width=0.7\textwidth]{fases.png}
-  \vspace{0.1cm}
+  \includegraphics[width=0.7\textwidth]{fig.png}
   {\footnotesize Fonte: Autor (2026).}
   \label{fig:fases}
 \end{figure}
 \end{lstlisting}
-        \scriptsize \textbf{Riscos:} Esquecimento de centralização, inversão de legenda/fonte, esquecimento do \texttt{\textbackslash label}.
+        \tiny \textbf{Riscos:} Esquecimento de centralização, inversão de posições, rótulos desacoplados.
       \end{tcolorbox}
     \end{column}
 
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=iffgreenlight,colframe=iffgreen,title=\textbf{Com o \texttt{macros.sty} (1 linha!)}]
+      \begin{tcolorbox}[colback=iffgreenlight,colframe=iffprimary,arc=1.5mm,title=\textbf{Com o \texttt{macros.sty} (1 linha!)}]
 \begin{lstlisting}[language=TeX]
-\inserirfigura[0.7]{fases.png}
+\inserirfigura[0.7]{fig.png}
   {Diagrama de Fases}
   {Autor (2026)}{fig:fases}
 \end{lstlisting}
-        \vspace{0.4cm}
-        \footnotesize \textbf{Garantias Automáticas:}
-        \begin{itemize}
-          \item Legenda rigorosamente no topo (norma ABNT);
-          \item Fonte em tamanho menor no rodapé;
+        \vspace{0.05cm}
+        \scriptsize \textbf{Garantias Automáticas:}
+        \begin{itemize}\setlength{\itemsep}{1pt}
+          \item Legenda rigorosamente no topo (ABNT);
+          \item Fonte tipográfica reduzida no rodapé;
           \item Centralização horizontal padronizada;
-          \item Geração dinâmica do rótulo e envio à lista.
+          \item Rótulo dinâmico enviado à lista de figuras.
         \end{itemize}
       \end{tcolorbox}
     \end{column}
   \end{columns}
 \end{frame}
 
-% --- Slide 13: Resultados - Automação IBGE e Pós-Texto ---
+% --- Slide 14: Tabelas e Quadros ---
 \begin{frame}{Resultados: Automação IBGE e Blindagem do Pós-Texto}
   \begin{columns}[T]
     \begin{column}{0.48\textwidth}
       \begin{block}{\textbf{Tabelas e Quadros Parametrizados}}
-        \begin{itemize}
-          \item \texttt{\textbackslash inserirtabela\{arq\}\{legenda\}\{fonte\}\{lbl\}}
-            \begin{itemize}
-              \item Gera laterais abertas conforme o IBGE;
-              \item Alimenta a Lista de Tabelas.
-            \end{itemize}
-          \item \texttt{\textbackslash inserirquadro\{arq\}\{legenda\}\{fonte\}\{lbl\}}
-            \begin{itemize}
-              \item Gera moldura fechada conforme ABNT;
-              \item Cria e alimenta a Lista de Quadros.
-            \end{itemize}
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{2.5pt}
+          \item \textbf{Tabela (IBGE):}\\
+            \texttt{\textbackslash inserirtabela[esc]\{arq\}\{leg\}\{fonte\}\{lbl\}}\\
+            $\to$ Laterais abertas; alimenta Lista de Tabelas.
+          \item \textbf{Quadro (ABNT):}\\
+            \texttt{\textbackslash inserirquadro[esc]\{arq\}\{leg\}\{fonte\}\{lbl\}}\\
+            $\to$ Moldura fechada; alimenta Lista de Quadros.
         \end{itemize}
       \end{block}
     \end{column}
 
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=white,colframe=conepeteal,title=\textbf{Robustez Pós-Textual}]
-        \begin{itemize}
-          \item \textbf{Apêndices e Anexos:} Transição automática da contagem numérica para alfabética ($1, 2 \to A, B$);
-          \item Não corrompe a hierarquia do sumário geral;
-          \item Suporte nativo a erratas e listagens dinâmicas de equações;
-          \item Compatibilização total com o pacote bibliográfico \texttt{abntex2cite}.
+      \begin{tcolorbox}[colback=white,colframe=conepeteal,arc=1.5mm,title=\textbf{Robustez Pós-Textual}]
+        \scriptsize
+        \begin{itemize}\setlength{\itemsep}{2.5pt}
+          \item \textbf{Apêndices e Anexos:} Transição automática da contagem ($1, 2 \to A, B$);
+          \item Preservação da hierarquia do sumário geral;
+          \item Suporte a erratas e listagens de equações;
+          \item Compatibilização total com o \texttt{abntex2cite}.
         \end{itemize}
       \end{tcolorbox}
     \end{column}
   \end{columns}
 \end{frame}
 
-% --- Slide 14: Conclusões e Futuro ---
+% =============================================================================
+% SEÇÃO 6: CONCLUSÕES E FUTURO
+% =============================================================================
+\section{Conclusões e Desdobramentos Futuros}
+
+% --- Slide 15: Conclusões e Futuro ---
 \begin{frame}{Conclusões e Desdobramentos Futuros}
   \begin{block}{\textbf{Conclusões}}
-    \begin{itemize}
-      \item A criação da classe \texttt{ifftese.cls} e do pacote \texttt{macros.sty} cumpriu com pleno êxito a abstração das normas ABNT e IBGE;
-      \item Observou-se uma redução drástica no tempo operacional de formatação e na incidência de erros de compilação entre usuários;
+    \scriptsize
+    \begin{itemize}\setlength{\itemsep}{1.5pt}
+      \item A classe \texttt{ifftese.cls} e o pacote \texttt{macros.sty} cumpriram com pleno êxito a abstração da ABNT e IBGE;
+      \item Redução drástica no tempo operacional de formatação e eliminação de falhas formais;
       \item A solução democratiza o rigor do \LaTeX\ no Instituto Federal Fluminense.
     \end{itemize}
   \end{block}
 
-  \vspace{0.2cm}
+  \vspace{0.08cm}
 
-  \begin{tcolorbox}[colback=conepeteal!10,colframe=conepeteal,title=\textbf{Trabalho em Andamento: Interface Web por Formulários}]
-    \begin{itemize}
-      \item Desenvolvimento de uma plataforma online simplificada (focada exclusivamente na \texttt{ifftese.cls});
-      \item O autor preenche apenas formulários com metadados e textos das seções;
-      \item O servidor compila e entrega o PDF diagramado com perfeição, sem necessidade de contato direto com código-fonte TeX.
+  \begin{tcolorbox}[colback=conepeteal!10,colframe=conepeteal,arc=1.5mm,title=\textbf{Trabalho em Andamento: Interface Web por Formulários}]
+    \scriptsize
+    \begin{itemize}\setlength{\itemsep}{1.5pt}
+      \item Desenvolvimento de uma plataforma online institucional focada na \texttt{ifftese.cls};
+      \item O autor preenche apenas formulários web com metadados e textos das seções;
+      \item O servidor compila e entrega o PDF diagramado com perfeição nos bastidores.
     \end{itemize}
   \end{tcolorbox}
 \end{frame}
 
-% --- Slide 15: Encerramento com Fundo da Via Láctea e QR Code ---
-{
-\usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{vialactea_blur.jpg}%
-}
-\begin{frame}[plain]
-  \vspace{0.6cm}
-  \centering
-  \begin{tcolorbox}[colback=black!75,colframe=iffgreen,width=0.88\textwidth,arc=3mm,center]
-    \centering \color{white}
-    {\Large \textbf{Muito Obrigado pela Atenção!}}\\[0.2cm]
-    \small \textbf{CONEPE 2026} --- XIII Congresso de Ensino, Pesquisa e Extensão\\[0.3cm]
-    
-    \begin{columns}[c]
-      \begin{column}{0.58\textwidth}
-        \raggedright \small
-        \textbf{Agradecimentos Institucionais:}\\
-        $\bullet$ \textbf{CNPq} --- Projeto nº 129985/2025-2\\
-        $\bullet$ \textbf{Instituto Federal Fluminense} --- \textit{Campus} Bom Jesus\\
-        $\bullet$ \textbf{PUC-Chile} e \textbf{FAPERJ}\\[0.3cm]
-        \textbf{Contato:} \texttt{pedroiff0@gmail.com}\\[0.1cm]
-        \textbf{Página do projeto:} \url{https://phrandrade.com}
-      \end{column}
+% =============================================================================
+% SLIDES FINAIS (PADRÃO ENGENHARIA)
+% =============================================================================
 
-      \begin{column}{0.35\textwidth}
-        \centering
-        \begin{tcolorbox}[colback=white,colframe=white,arc=2mm,width=2.6cm,center]
-          \includegraphics[width=2.2cm,height=2.2cm]{qr_code_phrandrade-1.png}
-        \end{tcolorbox}
-        \vspace{0.1cm}
-        {\scriptsize \textbf{Acesse: phrandrade.com}}
-      \end{column}
-    \end{columns}
+% --- Slide 16: Slide Unificado de Agradecimento (Via Láctea Blur) ---
+{
+\setbeamertemplate{headline}{}
+\setbeamertemplate{footline}{}
+\usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{vialactea-blur.jpg}}%
+\begin{frame}[plain]
+  \vspace*{0.20cm}%
+  \centering
+  \begin{tcolorbox}[
+    colback=black!80,
+    colframe=iffprimary,
+    arc=3.0mm,
+    boxrule=1.2pt,
+    width=11.2cm,
+    halign=center,
+    center
+  ]
+    \color{white}
+    {\Large \textbf{Muito Obrigado!}}\quad---\quad{\normalsize \textbf{Perguntas \& Discussão}}\par\vspace{0.08cm}
+    {\scriptsize \color{white!90} \textbf{CONEPE 2026 --- XIII Congresso de Ensino, Pesquisa e Extensão}}\par\vspace{0.10cm}
+    {\scriptsize \textbf{Contatos:}\quad \href{mailto:pedroiff0@gmail.com}{\color{iffprimary}\textbf{pedroiff0@gmail.com}} \quad$\vert$\quad \href{mailto:ana.soja@iff.edu.br}{\color{iffprimary}\textbf{ana.soja@iff.edu.br}}}\par\vspace{0.12cm}
+    \tcbox[colback=white,colframe=white,arc=2.0mm,boxrule=0pt,top=1mm,bottom=1mm,left=1mm,right=1mm]{%
+      \includegraphics[width=2.5cm,height=2.5cm,keepaspectratio]{qr-code-phrandrade.png}%
+    }\par\vspace{0.08cm}
+    {\footnotesize \bfseries \href{https://phrandrade.com}{\color{white}https://phrandrade.com}}\par\vspace{0.10cm}
+    {\tiny \color{white!75} Apoio Institucional: CNPq (Projeto 129985/2025-2), IFF Bom Jesus, PUC-Chile e FAPERJ}
   \end{tcolorbox}
+\end{frame}
+}
+
+% --- Slide 17: Slide Final Wallpaper (Via Láctea Sem Blur) ---
+{
+\setbeamertemplate{headline}{}
+\setbeamertemplate{footline}{}
+\usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{via-lactea.jpg}}%
+\begin{frame}[plain]
 \end{frame}
 }
 

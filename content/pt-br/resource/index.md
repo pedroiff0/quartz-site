@@ -23,23 +23,23 @@ cssclasses:
   </a>
 </div>
 
-## 📚 Arquivos Públicos
+## Arquivos Públicos
 
 Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao longo da minha jornada acadêmica — uma base de conhecimento pessoal, aberta para qualquer um explorar e usar.
 
 > [!info] Em curadoria
 > Computação, LaTeX e Escrita Acadêmica e Arqueologia Galáctica e Populações Estelares (ON) estão temporariamente despublicados enquanto reviso o conteúdo — voltam ao ar em breve.
 
-### 📖 Materiais de Cursos
+### Materiais de Cursos
 
 - [[pt-br/resource/engenharia-de-computação|Engenharia de Computação]] — Grade curricular completa, organizada por período.
 - [[pt-br/resource/escolainverno|Escola de Inverno (ON 2026)]] — Notas de aula por minicurso.
 
-### 💻 Projetos Open-Source
+### Projetos Open-Source
 
 Veja a página dedicada de [[pt-br/projects|Projetos]] — ferramentas e aplicações que desenvolvo fora da pesquisa acadêmica.
 
-### 🎵 Recomendações Pessoais
+### Recomendações Pessoais
 
 Além da academia! Músicas, livros e outras coisas que me inspiram.
 

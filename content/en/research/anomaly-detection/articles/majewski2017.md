@@ -20,7 +20,7 @@ cssclasses:
 
  Describes the survey APOGEE (SDSS-III): 146,000 stars with high resolution (R~22,500) and high S/N infrared spectra. It features design, selection of targets, reduction and products. It is another source of chemical abundances used to characterize stellar populations.
 
- [See original article](https://doi.org/10.3847/1538-3881/aa784d)·[📄 Baixar PDF](/assets/articles/Majewski2017.pdf)
+ [See original article](https://doi.org/10.3847/1538-3881/aa784d)·[Baixar PDF](/assets/articles/Majewski2017.pdf)
 
 ## Quotation
 

@@ -19,7 +19,7 @@ cssclasses:
 
  ---
 
-## 🔗 References and correlations
+## References and correlations
 
 - [[pt-br/research/journal-clubs/engcomp|ENGCOMP — Articles discussed]]
 - [[pt-br/research/journal-clubs/engcomp/topicos|Topics and where to look]]

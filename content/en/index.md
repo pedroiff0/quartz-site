@@ -9,14 +9,12 @@ cssclasses:
 ---
 
 > [!info] Welcome!
-> This is your starting page! Here you will find everything you need to know about my journey, research, and work. Read in the suggested order to have the best possible experience. 😊
-
-> [!abstract] Also check out my portfolio
+> This is your starting page! Here you will find everything you need to know about my journey, research, and work. Read in the suggested order to have the best possible experience. > [!abstract] Also check out my portfolio
 > If you came from my **[projects portfolio](https://pedroiff0.github.io/webpage/)** (or just want a quick overview of everything I've built), it lists all my GitHub repositories — public and private — each with a *short brief*, plus my research grants and all contacts on a single page. This site here is the full content (research, classes, media and blog).
 
-## 📚 Where to start?
+## Where to start?
 
-### 1️⃣ First step: About me
+### 1⃣ First step: About me
 
 <img src="..[Profilepic.Jpe](/assets/profilepic.jpe)g" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
@@ -24,18 +22,18 @@ I am Pedro Henrique, an undergraduate Computer Engineering student at the [Flumi
 
 My passion lies at the intersection of **computational methods** and **astrophysical problems**. I believe that open-source tools and reproducible workflows are essential to advancing science and making it more accessible to everyone.
 
-### 🌐 Social Media
+### Social Media
 
 If you'd like to get in touch, send an email!
 
-- 🎓 [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
-- 💻 [GitHub](https://github.com/pedroiff0)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
-- 📸 [Instagram](https://instagram.com/ra.pedroh)
-- 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
-- ✉️ [Email](mailto:pedroiff0@gmail.com)
+- [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
+- [GitHub](https://github.com/pedroiff0)
+- [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
+- [Instagram](https://instagram.com/ra.pedroh)
+- [ORCID](https://orcid.org/0009-0003-6724-4640)
+- [Email](mailto:pedroiff0@gmail.com)
 
-### 📄 Curriculum Vitae
+### Curriculum Vitae
 
 Below my CV in this page's language and the (multilingual LaTeX) repository that generates it:
 
@@ -44,7 +42,7 @@ Below my CV in this page's language and the (multilingual LaTeX) repository that
   <a href="/assets/curriculo/englishCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
-        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;">🇬🇧</div>
+        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;"></div>
         <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV in English</div>
         <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Two-column PDF version</div>
       </div>
@@ -57,7 +55,7 @@ Below my CV in this page's language and the (multilingual LaTeX) repository that
   <a href="https://github.com/pedroiff0/curriculo" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
-        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;">📄</div>
+        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;"></div>
         <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV Repository</div>
         <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">LaTeX source (PT/EN/ES/FR)</div>
       </div>
@@ -69,7 +67,7 @@ Below my CV in this page's language and the (multilingual LaTeX) repository that
 
 </div>
 
-### 📬 Get in touch
+### Get in touch
 
 Prefer not to open your email client? Fill in the fields below and the message lands straight in my inbox.
 
@@ -121,13 +119,13 @@ Prefer not to open your email client? Fill in the fields below and the message l
 })();
 </script>
 
-### 2️⃣ Second step: Areas of Interest
+### 2⃣ Second step: Areas of Interest
 
 - **Astrophysics**: Galactic archaeology, stellar populations, Milky Way structure and chemical evolution, large-scale astronomical data analysis.
 - **Computer Science**: Scientific computing, data pipelines, machine learning applications in astronomy, open-source development.
 - **Psychoanalysis**:
 
-### 3️⃣ Third step: Explore the content
+### 3⃣ Third step: Explore the content
 
 To navigate my work, explore the sections of this site:
 

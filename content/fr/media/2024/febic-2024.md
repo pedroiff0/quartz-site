@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 🛰️ IX FÉBIC 2024
+# IX FÉBIC 2024
 
 > [!note] Résumé
 > Foire brésilienne de l'initiation scientifique, à Pomerode (SC) - 3ème place dans la catégorie Graduation avec le projet d'enlèvement des traces satellite, toujours incomplète à l'époque.
 
-## 🗓️ A propos de l'événement
+## A propos de l'événement
 
  Page dédiée à la participation à la foire d'initiation scientifique brésilienne (FEBIC) * *, à Pomerode (SC).
 
@@ -24,12 +24,12 @@ cssclasses:
 > [!note] Avis
 > C'était une nouvelle foire ! Aucun de nous ne savait et c'était intéressant. Du voyage initial, nous sommes allés en bus / voiture à Pomerode (SC) à côté de notre guide [Dr. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja), jusqu'au retour, arrêt au Musée Ipiranga de São Paulo (SP) ! Nous étions trois étudiants de l'IFF, et le Mark, un autre orient d'Ana, nous nous y sommes rencontrés, et une amitié très légale a émergé, divisant un airbnb et recueillant des moments historiques, que nous maintenons maintenant avec affection. Au cours de la foire, nous avons eu l'occasion de rencontrer de nombreuses personnes, de différents domaines de connaissances, et à différents moments académiques, l'échange culturel était très légal, et l'organisation de la foire nous a permis de mieux connaître l'environnement de la ville. Le dernier jour du prix a été très magique parce que pour la première fois j'ai été sur scène, et Maycon, à sa première foire scientifique a également augmenté, nous avons gagné la troisième dans la catégorie de l'enseignement supérieur.
 
-## 📎 Bannière
+## Bannière
 
 > [!note] Bannière présentée:
 > ![[assets/banners/BannerFEBIC24.pdf]]
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - Source:[IFF - Projet de Bon Jésus IFF est décerné à l'événement national](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-premiado-em-evento-nacional)
 - [[fr/research/satellite-trail-removal|Simulation de l'impact des satellites sur les observations astronomiques]]- page de recherche complète de ce projet

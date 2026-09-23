@@ -58,7 +58,7 @@ cssclasses:
 
  ---
 
-## 🔗 Referencias y correcciones
+## Referencias y correcciones
 
 - [[es/research|Investigación — visión general]]
 

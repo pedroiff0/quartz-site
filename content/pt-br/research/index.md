@@ -1,12 +1,12 @@
 ---
 publish: true
-title: Pesquisa
+title: Pesquisas
 created: 2026-07-18
-modified: 2026-07-26T10:31:15.908-03:00
-published: 2026-07-26T10:31:15.908-03:00
-order: 1
+modified: 2026-07-26 10:31:15.908000-03:00
+published: 2026-07-26 10:31:15.908000-03:00
+order: 3
 cssclasses:
-  - page-layout
+- page-layout
 ---
 
 > [!note] Resumo

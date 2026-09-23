@@ -3,13 +3,13 @@ cssclasses:
   - page-layout
 ---
 
-# 🏛️ Template Oficial de Cursos para o Quartz
+# Template Oficial de Cursos para o Quartz
 
 Este diretório contém o **modelo padrão oficial** para criação e estruturação de novos cursos no site Quartz do **Prof. Pedro Henrique Rocha de Andrade (IFF — Campus Bom Jesus do Itabapoana)**.
 
 ---
 
-## 🚀 Como Utilizar para Criar um Novo Curso
+## Como Utilizar para Criar um Novo Curso
 
 1. **Copiar esta pasta**:
    Copie a pasta `content/templates/ModeloCurso` para a localização desejada dentro de `content[[pt-br/resource|Resource]]/` (exemplo: `content[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/programacao-orientada-a-objeto|Programacao Orientada A Objeto]]s`).

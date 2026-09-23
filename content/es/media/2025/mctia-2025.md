@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 🛰️ MCTIA 2025
+# MCTIA 2025
 
 > [!note] Resumen
 > Muestra Ciencia y Tecnología del Instituto Açaí en Belén (PA) — 1o lugar en Ciencias Exatas con un algoritmo de IA que recupera 99,7% de la información perdida por rastros de satélite, clasificando el equipo para la Ciencia Joven 2026.
 
-## 🗓️ Acerca del evento
+## Acerca del evento
 
  Página dedicada a la participación en la **XVI Muestra de Ciencia y Tecnología del Instituto Açaí (MCTIA)**, en Belén (PA) — la mayor feria científica del norte del país.
 
@@ -24,12 +24,12 @@ cssclasses:
 > [!note] Opinión
 > Ir a la muestra de Pará fue algo sensacional. Conocer una región tan remota y distante de nosotros, la cultura extremadamente rica e interesante, todo el cariño de la organización de la feria para con los participantes, todo fue muy legal! Ver los proyectos que son desarrollados para la región por los propios habitantes batallando para mejorar, es muy manero!
 
-## 📎 Banner
+## Banner
 
 > [!note] Banner presentado:
-> ![[assets/banners/BannerMCTIA25.pdf]]
+> *Banner MCTIA 2025*
 
-## 🔗 Referencias y correcciones
+## Referencias y correcciones
 
 - Fuente:[IFF — Proyecto IFF Buen Jesús conquista más una premiación en evento científico en el Pará](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-conquista-mais-uma-premiacao-em-evento-cientifico-no-para)
 - [[es/research/satellite-trail-removal|Simulando el Impacto de Satélites en Observaciones Astronómicas]]— página de búsqueda completa de este proyecto

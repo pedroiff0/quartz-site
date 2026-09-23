@@ -1,12 +1,12 @@
 ---
 publish: true
-title: Mídia
+title: Mídias
 created: 2026-07-18 13:34
 modified: 2026-09-14 20:13
-published: 2026-07-26T12:36:37.263-03:00
-order: 4
+published: 2026-07-26 12:36:37.263000-03:00
+order: 2
 cssclasses:
-  - page-layout
+- page-layout
 ---
 
 > [!note] Resumo

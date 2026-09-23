@@ -56,7 +56,7 @@ cssclasses:
 
  ---
 
-## 🔗 Referencias y correcciones
+## Referencias y correcciones
 
 - [[es/research/journal-clubs|Journal Clubs — visión general]]
 - [[es/research/journal-clubs/engcomp|ENGCOMP]]

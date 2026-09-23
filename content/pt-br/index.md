@@ -9,15 +9,13 @@ cssclasses:
 ---
 
 > [!info] Bem-vindo(a)!
-> Esta é sua página de partida! Aqui você encontra tudo que precisa saber para conhecer minha jornada, pesquisas e trabalhos. Leia na ordem sugerida para ter a melhor experiência possível. 😊
-
-> [!abstract] Conheça também o meu portfólio
+> Esta é sua página de partida! Aqui você encontra tudo que precisa saber para conhecer minha jornada, pesquisas e trabalhos. Leia na ordem sugerida para ter a melhor experiência possível. > [!abstract] Conheça também o meu portfólio
 > Se você veio do meu **[portfólio de projetos](https://pedroiff0.github.io/webpage/)** (ou quer uma visão rápida de tudo que construí), lá estão todos os meus repositórios do GitHub — públicos e privados — com um *short brief* de cada um, além das bolsas de pesquisa e dos contatos reunidos numa página só. Este site aqui é o conteúdo mais completo (pesquisa, disciplinas, mídia e blog).
 
 
-## 📚 Por onde começar?
+## Por onde começar?
 
-### 1️⃣ Primeiro passo: Sobre mim
+### 1⃣ Primeiro passo: Sobre mim
 
 <img src="/assets/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
@@ -25,16 +23,16 @@ Sou Pedro Henrique, estudante de Engenharia de Computação no [Instituto Federa
 
 Minha paixão está na interseção entre **métodos computacionais** e **problemas astrofísicos**. Acredito que ferramentas de código aberto e fluxos de trabalho reprodutíveis são essenciais para avançar a ciência e torná-la mais acessível a todos.
 
-### 🌐 Redes Sociais & Identificadores
+### Redes Sociais & Identificadores
 
-- 🎓 [**Currículo Lattes (Oficial CNPq)**](http://lattes.cnpq.br/6818168089966785)
-- 🔬 [**ORCID (0009-0003-6724-4640)**](https://orcid.org/0009-0003-6724-4640)
-- 💻 [GitHub (`pedroiff0`)](https://github.com/pedroiff0)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
-- 📸 [Instagram (`@ra.pedroh`)](https://instagram.com/ra.pedroh)
-- ✉️ [E-mail](mailto:pedroiff0@gmail.com)
+- [**Currículo Lattes (Oficial CNPq)**](http://lattes.cnpq.br/6818168089966785)
+- [**ORCID (0009-0003-6724-4640)**](https://orcid.org/0009-0003-6724-4640)
+- [GitHub (`pedroiff0`)](https://github.com/pedroiff0)
+- [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
+- [Instagram (`@ra.pedroh`)](https://instagram.com/ra.pedroh)
+- [E-mail](mailto:pedroiff0@gmail.com)
 
-### 📸 Publicações no Instagram ([@ra.pedroh](https://instagram.com/ra.pedroh))
+### Publicações no Instagram ([@ra.pedroh](https://instagram.com/ra.pedroh))
 
 <div class="media-carousel instagram-embed-carousel" style="display: flex; gap: 1.25rem; overflow-x: auto; padding: 1rem 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
   <div class="carousel-slide" style="flex: 0 0 min(380px, 85vw); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: #ffffff; border: 1px solid var(--lightgray);">
@@ -73,12 +71,12 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 </div>
 
 <p style="text-align: center; margin-top: 0.5rem; margin-bottom: 2rem;">
-  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="jc-button" style="text-decoration: none;">📸 Acessar perfil completo @ra.pedroh no Instagram ↗</a>
+  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="jc-button" style="text-decoration: none;">Acessar perfil completo @ra.pedroh no Instagram ↗</a>
 </p>
 
 ---
 
-### 🎓 Currículo & Repositório
+### Currículo & Repositório
 
 Abaixo o meu CV no idioma desta página e o repositório (LaTeX, multilíngue) que o gera:
 
@@ -87,7 +85,7 @@ Abaixo o meu CV no idioma desta página e o repositório (LaTeX, multilíngue) q
   <a href="/assets/curriculo/portugueseCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
-        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;">🇧🇷</div>
+        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;"></div>
         <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV em Português</div>
         <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Versão em PDF de duas colunas</div>
       </div>
@@ -100,7 +98,7 @@ Abaixo o meu CV no idioma desta página e o repositório (LaTeX, multilíngue) q
   <a href="https://github.com/pedroiff0/curriculo" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
-        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;">📄</div>
+        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;"></div>
         <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">Repositório do CV</div>
         <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Código-fonte LaTeX (PT/EN/ES/FR)</div>
       </div>
@@ -114,7 +112,7 @@ Abaixo o meu CV no idioma desta página e o repositório (LaTeX, multilíngue) q
 
 ---
 
-### 📬 Fale comigo
+### Fale comigo
 
 Prefere não abrir o seu programa de e-mail? Preencha os campos abaixo e a mensagem cai direto na minha caixa de entrada.
 
@@ -161,23 +159,23 @@ Prefere não abrir o seu programa de e-mail? Preencha os campos abaixo e a mensa
 
 ---
 
-### 2️⃣ Segundo passo: Áreas de Interesse
+### 2⃣ Segundo passo: Áreas de Interesse
 
 - **Astrofísica**: Arqueologia galáctica, populações estelares, estrutura e evolução química da Via Láctea, análise de grandes volumes de dados astronômicos.
 - **Engenharia de Computação**: Computação científica, pipelines de dados, aprendizado de máquina em astronomia, desenvolvimento open-source.
 
 ---
 
-### 3️⃣ Terceiro passo: Páginas & Detalhes Pessoais
+### 3⃣ Terceiro passo: Páginas & Detalhes Pessoais
 
 Explore também as sub-páginas do meu perfil:
-- 📖 [**Recomendações**](/pt-br/sobre-mim/recomendacoes/) — Leituras, livros e ferramentas que recomendo.
-- 💻 [**Setup**](/pt-br/sobre-mim/setup/) — Hardware, sistema operacional, terminal e ambiente de desenvolvimento.
-- 🎨 [**Minhas Coisas**](/pt-br/sobre-mim/minhas-coisas/) — Projetos pessoais, hobbies e coleções.
+- [**Recomendações**](/pt-br/about-me/recomendacoes/) — Leituras, livros e ferramentas que recomendo.
+- [**Setup**](/pt-br/about-me/setup/) — Hardware, sistema operacional, terminal e ambiente de desenvolvimento.
+- [**Minhas Coisas**](/pt-br/about-me/minhas-coisas/) — Projetos pessoais, hobbies e coleções.
 
 ---
 
-### 4️⃣ Quarto passo: Visão Geral do Cofre (Canvas Diagram)
+### 4⃣ Quarto passo: Visão Geral do Cofre (Canvas Diagram)
 
 > [!abstract] Mapa Interativo do Cofre
 > Diagrama vetorial (suporta tema claro e escuro) gerado a partir do **`Mapa Geral.canvas`**.
@@ -198,49 +196,49 @@ Explore também as sub-páginas do meu perfil:
   <g class="canvas-node">
     <rect x="510" y="410" width="320" height="170" rx="12" ry="12" fill="var(--light)" stroke="#8b5cf6" stroke-width="2.5"/>
     <rect x="510" y="410" width="320" height="7" rx="3" ry="3" fill="#8b5cf6"/>
-    <text x="526" y="438" font-family="sans-serif" font-size="15" font-weight="700" fill="#8b5cf6">🌌 HARDCORE LIFE</text><text x="530" y="462" font-family="sans-serif" font-size="13" fill="var(--dark)">• Cofre Central de Conhecimento</text><text x="526" y="482" font-family="sans-serif" font-size="13" font-weight="600" fill="var(--dark)">🏠 Abrir Dashboard</text><text x="526" y="502" font-family="sans-serif" font-size="13" font-weight="600" fill="var(--dark)">📖 Guia de Pipeline</text>
+    <text x="526" y="438" font-family="sans-serif" font-size="15" font-weight="700" fill="#8b5cf6">HARDCORE LIFE</text><text x="530" y="462" font-family="sans-serif" font-size="13" fill="var(--dark)">• Cofre Central de Conhecimento</text><text x="526" y="482" font-family="sans-serif" font-size="13" font-weight="600" fill="var(--dark)">Abrir Dashboard</text><text x="526" y="502" font-family="sans-serif" font-size="13" font-weight="600" fill="var(--dark)">Guia de Pipeline</text>
   </g>
 
   <g class="canvas-node">
     <rect x="50" y="130" width="340" height="220" rx="12" ry="12" fill="var(--light)" stroke="#10b981" stroke-width="2.5"/>
     <rect x="50" y="130" width="340" height="7" rx="3" ry="3" fill="#10b981"/>
-    <text x="66" y="158" font-family="sans-serif" font-size="15" font-weight="700" fill="#10b981">🎓 Acadêmico</text><text x="70" y="182" font-family="sans-serif" font-size="13" fill="var(--dark)">• Engenharia de Computação (IFF)</text><text x="70" y="202" font-family="sans-serif" font-size="13" fill="var(--dark)">• MOC EngComp</text><text x="70" y="222" font-family="sans-serif" font-size="13" fill="var(--dark)">• PPC & Ementário</text><text x="70" y="242" font-family="sans-serif" font-size="13" fill="var(--dark)">• Mapa de Trancas</text>
+    <text x="66" y="158" font-family="sans-serif" font-size="15" font-weight="700" fill="#10b981">Acadêmico</text><text x="70" y="182" font-family="sans-serif" font-size="13" fill="var(--dark)">• Engenharia de Computação (IFF)</text><text x="70" y="202" font-family="sans-serif" font-size="13" fill="var(--dark)">• MOC EngComp</text><text x="70" y="222" font-family="sans-serif" font-size="13" fill="var(--dark)">• PPC & Ementário</text><text x="70" y="242" font-family="sans-serif" font-size="13" fill="var(--dark)">• Mapa de Trancas</text>
   </g>
 
   <g class="canvas-node">
     <rect x="920" y="130" width="340" height="220" rx="12" ry="12" fill="var(--light)" stroke="#06b6d4" stroke-width="2.5"/>
     <rect x="920" y="130" width="340" height="7" rx="3" ry="3" fill="#06b6d4"/>
-    <text x="936" y="158" font-family="sans-serif" font-size="15" font-weight="700" fill="#06b6d4">🔭 Pesquisa & Astronomia</text><text x="940" y="182" font-family="sans-serif" font-size="13" fill="var(--dark)">• PIBIC / CNPq / PUC Chile</text><text x="940" y="202" font-family="sans-serif" font-size="13" fill="var(--dark)">• Anomaly Detection (GALAH DR4)</text><text x="940" y="222" font-family="sans-serif" font-size="13" fill="var(--dark)">• MOC Pesquisa</text><text x="940" y="242" font-family="sans-serif" font-size="13" fill="var(--dark)">• Papers & Artigos</text>
+    <text x="936" y="158" font-family="sans-serif" font-size="15" font-weight="700" fill="#06b6d4">Pesquisa & Astronomia</text><text x="940" y="182" font-family="sans-serif" font-size="13" fill="var(--dark)">• PIBIC / CNPq / PUC Chile</text><text x="940" y="202" font-family="sans-serif" font-size="13" fill="var(--dark)">• Anomaly Detection (GALAH DR4)</text><text x="940" y="222" font-family="sans-serif" font-size="13" fill="var(--dark)">• MOC Pesquisa</text><text x="940" y="242" font-family="sans-serif" font-size="13" fill="var(--dark)">• Papers & Artigos</text>
   </g>
 
   <g class="canvas-node">
     <rect x="920" y="610" width="340" height="220" rx="12" ry="12" fill="var(--light)" stroke="#f97316" stroke-width="2.5"/>
     <rect x="920" y="610" width="340" height="7" rx="3" ry="3" fill="#f97316"/>
-    <text x="936" y="638" font-family="sans-serif" font-size="15" font-weight="700" fill="#f97316">💼 Profissional & DevOps</text><text x="940" y="662" font-family="sans-serif" font-size="13" fill="var(--dark)">• Portfólio & Finanças App</text><text x="940" y="682" font-family="sans-serif" font-size="13" fill="var(--dark)">• MOC Carreira</text><text x="940" y="702" font-family="sans-serif" font-size="13" fill="var(--dark)">• Cockpit & Tunnels</text><text x="940" y="722" font-family="sans-serif" font-size="13" fill="var(--dark)">• Lattes & Vínculos</text>
+    <text x="936" y="638" font-family="sans-serif" font-size="15" font-weight="700" fill="#f97316">Profissional & DevOps</text><text x="940" y="662" font-family="sans-serif" font-size="13" fill="var(--dark)">• Portfólio & Finanças App</text><text x="940" y="682" font-family="sans-serif" font-size="13" fill="var(--dark)">• MOC Carreira</text><text x="940" y="702" font-family="sans-serif" font-size="13" fill="var(--dark)">• Cockpit & Tunnels</text><text x="940" y="722" font-family="sans-serif" font-size="13" fill="var(--dark)">• Lattes & Vínculos</text>
   </g>
 
   <g class="canvas-node">
     <rect x="50" y="610" width="340" height="220" rx="12" ry="12" fill="var(--light)" stroke="#eab308" stroke-width="2.5"/>
     <rect x="50" y="610" width="340" height="7" rx="3" ry="3" fill="#eab308"/>
-    <text x="66" y="638" font-family="sans-serif" font-size="15" font-weight="700" fill="#eab308">👤 Pessoal & Família</text><text x="70" y="662" font-family="sans-serif" font-size="13" fill="var(--dark)">• Documentos, Saúde e Controle</text><text x="70" y="682" font-family="sans-serif" font-size="13" fill="var(--dark)">• MOC Pessoal & Saúde</text><text x="70" y="702" font-family="sans-serif" font-size="13" fill="var(--dark)">• Saúde & Vacinas</text><text x="70" y="722" font-family="sans-serif" font-size="13" fill="var(--dark)">• Família</text><text x="70" y="742" font-family="sans-serif" font-size="13" fill="var(--dark)">• Investimentos</text>
+    <text x="66" y="638" font-family="sans-serif" font-size="15" font-weight="700" fill="#eab308">Pessoal & Família</text><text x="70" y="662" font-family="sans-serif" font-size="13" fill="var(--dark)">• Documentos, Saúde e Controle</text><text x="70" y="682" font-family="sans-serif" font-size="13" fill="var(--dark)">• MOC Pessoal & Saúde</text><text x="70" y="702" font-family="sans-serif" font-size="13" fill="var(--dark)">• Saúde & Vacinas</text><text x="70" y="722" font-family="sans-serif" font-size="13" fill="var(--dark)">• Família</text><text x="70" y="742" font-family="sans-serif" font-size="13" fill="var(--dark)">• Investimentos</text>
   </g>
 
   <g class="canvas-node">
     <rect x="510" y="50" width="300" height="180" rx="12" ry="12" fill="var(--light)" stroke="#f43f5e" stroke-width="2.5"/>
     <rect x="510" y="50" width="300" height="7" rx="3" ry="3" fill="#f43f5e"/>
-    <text x="526" y="78" font-family="sans-serif" font-size="15" font-weight="700" fill="#f43f5e">📚 Recursos & Biblioteca</text><text x="530" y="102" font-family="sans-serif" font-size="13" fill="var(--dark)">• Livros & Apostilas</text><text x="530" y="122" font-family="sans-serif" font-size="13" fill="var(--dark)">• Artigos</text><text x="530" y="142" font-family="sans-serif" font-size="13" fill="var(--dark)">• Cursos</text><text x="530" y="162" font-family="sans-serif" font-size="13" fill="var(--dark)">• Notas Atômicas</text>
+    <text x="526" y="78" font-family="sans-serif" font-size="15" font-weight="700" fill="#f43f5e">Recursos & Biblioteca</text><text x="530" y="102" font-family="sans-serif" font-size="13" fill="var(--dark)">• Livros & Apostilas</text><text x="530" y="122" font-family="sans-serif" font-size="13" fill="var(--dark)">• Artigos</text><text x="530" y="142" font-family="sans-serif" font-size="13" fill="var(--dark)">• Cursos</text><text x="530" y="162" font-family="sans-serif" font-size="13" fill="var(--dark)">• Notas Atômicas</text>
   </g>
 
   <g class="canvas-node">
     <rect x="510" y="710" width="300" height="180" rx="12" ry="12" fill="var(--light)" stroke="#f43f5e" stroke-width="2.5"/>
     <rect x="510" y="710" width="300" height="7" rx="3" ry="3" fill="#f43f5e"/>
-    <text x="526" y="738" font-family="sans-serif" font-size="15" font-weight="700" fill="#f43f5e">📥 Inbox & Permanente</text><text x="530" y="762" font-family="sans-serif" font-size="13" fill="var(--dark)">• 📥 Inbox de Captura</text><text x="530" y="782" font-family="sans-serif" font-size="13" fill="var(--dark)">• 🧠 Zettelkasten / Permanente</text><text x="530" y="802" font-family="sans-serif" font-size="13" fill="var(--dark)">• 📦 Arquivados</text>
+    <text x="526" y="738" font-family="sans-serif" font-size="15" font-weight="700" fill="#f43f5e">Inbox & Permanente</text><text x="530" y="762" font-family="sans-serif" font-size="13" fill="var(--dark)">• Inbox de Captura</text><text x="530" y="782" font-family="sans-serif" font-size="13" fill="var(--dark)">• Zettelkasten / Permanente</text><text x="530" y="802" font-family="sans-serif" font-size="13" fill="var(--dark)">• Arquivados</text>
   </g>
 </svg>
 
 ---
 
-### 5️⃣ Quinto passo: Explorar o conteúdo
+### 5⃣ Quinto passo: Explorar o conteúdo
 
 Para navegar pelo meu trabalho, explore as seções deste site:
 

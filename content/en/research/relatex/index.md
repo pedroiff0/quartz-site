@@ -12,7 +12,7 @@ cssclasses:
   - page-layout
 ---
 
-# 📄 ReLaTeX: LaTeX Class for Academic IFF Works
+# ReLaTeX: LaTeX Class for Academic IFF Works
 
 > [!note] Summary
 > Development of the typographic class `iffthesis. cls` and the 'macros.sty' extension package for LaTeX, with the aim of automating compliance with ABNT standards (NBR 14724, NBR 6027) in academic works of the Fluminense Federal Institute — drastically reducing the time spent manually formatting covers, tables, figures and pre/post-textual elements. To be presented at CONEPE 2026 (Campos Guarus, RJ, 21-23 September), in co-authorship with [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja),[Maria Luiza Linhares Dantas](https://www.mlldantas.com) and [Ana Mara Figueiredo de Oliveira](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora)
@@ -26,15 +26,15 @@ cssclasses:
 </div>
 
 
-## 🌌 The Problem
+## The Problem
 
  The writing of academic documents under ABNT guidelines (NBR 14724 for academic works, NBR 6023 for references, NBR 6027 for summaries) imposes a rigid structure, but LaTeX — the most technically suitable tool for this, for its typographical control and equations environment superior to visual processors like Word — has a high learning curve. The paradigm difference explains why: WYSIWYG processors ("what you see is what you have") are easy to get but difficult to diagram without breaking the layout; LaTeX is WYSIWYM ("what you see is what you mean") — the beginner misses a lot and depends on constant query, but, after the learning curve, wins a much more reliable writing process and aligned to standards.
 
-## 🎯 Objective
+## Objective
 
  Develop a typographic class for LaTeX focused on the typical user of the IFF, which respects ABNT guidelines and local particularities (logs and institutional symbols), attenuating the learning curve of those who have never used LaTeX and accelerating the work of those who already use it.
 
-## 🔧 Methodology
+## Methodology
 
  The project used the classes `abntex2` and `article' as a basis, with the bibliographic package `abntex2cite` (ABNT compatibility), compiled via TeX Live (`pdflatex`/`bibtex`), with TeXPage, CTAN and Overleaf support as online environments. The work was divided into three stages:
 
@@ -42,7 +42,7 @@ cssclasses:
 2. **Auxiliary Commands** — the 'macros.sty' package, created to avoid the primitive syntax of LaTeX and reduce build errors.
 3. **Main archive** —consolidation into a single 'main.tex', with all NBR 14724 environments already filled as ready commands.
 
-## 📊 Results
+## Results
 
  The architecture follows the normative structure of ABNT (pretextual, textual and posttextual elements), eliminating the need for the user to manipulate graphics packages or complex formatting directly:
 
@@ -51,15 +51,15 @@ cssclasses:
 - * Textual elements** — the macro `\insertfigura` encapsulates, in a single line, the sizing, alignment, caption, font and label (`label`) for cross reference of a figure. `\insertabela` and `\insertabela` automate the normative distinction of IBGE between tables and tables, sending the metadata directly to the pretext lists.
 - * Posttextual elements ** — own macros convert the numbering of appendages/appendices from numerical to alphabetical without corrupting the numbering of chapters, and standardize the call of glossaries and remissive indexes.
 
-## 🧾 Conclusion
+## Conclusion
 
  The encapsulation of these routines in parameterized macros met the objective: to reduce the operational time of formatting and democratize the typographic rigor of LaTeX in the technical-scientific production of the IFF, shielding the user against syntax errors and cross-references. As a deployment, an optional Overleaf-style web interface is in the testing phase, focused exclusively on this class — designed for those who prefer to fill out forms rather than edit source code directly.
 
-## 🏆 Presentations
+## Presentations
 
  This project will be presented at **CONEPE 2026** (Congress on Education, Research and Extension of the IFF  Campus Guarus), from 21 to 23 September 2026.
 
-## 🔗 References and correlations
+## References and correlations
 
 - BRAZILIAN ASSOCIATION OF TECHNICAL STANDARDS. NBR 14724: Information and documentation — Academic work — Presentation. Rio de Janeiro, 2011.
 - BRAZILIAN ASSOCIATION OF TECHNICAL STANDARDS. NBR 6027: Information and documentation — Summary — Presentation. Rio de Janeiro, 2012.

@@ -20,7 +20,7 @@ cssclasses:
 
  GALAH: High resolution survey to uncover the formation of the Milky Way. It has a semi-automatic scheme (t-SNE) to classify peculiar spectral morphologies and catch problematic spectra, preserving the integrity of the survey. Spectral 'peculiarity' detection example — connection to anomalies.
 
- [See original article](https://doi.org/10.3847/1538-4365/228/2/24)·[📄 Baixar PDF](/assets/articles/Traven2017.pdf)
+ [See original article](https://doi.org/10.3847/1538-4365/228/2/24)·[Baixar PDF](/assets/articles/Traven2017.pdf)
 
 ## Quotation
 

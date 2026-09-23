@@ -4,12 +4,12 @@ created: 2026-07-23
 modified: 2026-07-26T12:09:20.533-03:00
 published: 2026-07-26T12:09:20.533-03:00
 type: blog
-title: "✍️ Bem-vindo ao blog"
+title: "Bem-vindo ao blog"
 cssclasses:
   - page-layout
 ---
 
-# ✍️ Bem-vindo ao blog
+# Bem-vindo ao blog
 
 > [!note] Resumo
 > Um espaço para pensamentos soltos, tutoriais e reflexões sobre pesquisa, computação e o resto — separado das notas mais formais do site.
@@ -20,7 +20,7 @@ Sem calendário fixo de publicação — só apareço aqui quando tenho algo que
 
 Se quiser comentar algum post, dá pra usar a caixa de comentários no fim da página (via GitHub Discussions).
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - [[pt-br/blog|Blog — todos os posts]]
 - [[pt-br/research|Pesquisa]] — as notas mais formais que este blog complementa

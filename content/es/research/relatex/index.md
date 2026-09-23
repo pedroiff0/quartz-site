@@ -12,7 +12,7 @@ cssclasses:
   - page-layout
 ---
 
-# 📄 ReLaTeX: Clase LaTeX para Trabajos Académicos de IFF
+# ReLaTeX: Clase LaTeX para Trabajos Académicos de IFF
 
 > [!note] Resumen
 > Desarrollo de la clase tipográfica `ifftese. cls` y el paquete de extensión `macros.sty` para LaTeX, con el objetivo de automatizar el cumplimiento de las normas ABNT (NBR 14724, NBR 6027) en trabajos académicos del Instituto Federal Fluminense — reduciendo drásticamente el tiempo gastado formando manualmente capas, tablas, figuras y elementos pre/posituales. A ser presentado en el CONEPE 2026 (Campos Guarus, RJ, 21 al 23 de septiembre), en coautoría con [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja),[Maria Luiza Linhares Dantas](https://www.mlldantas.com) y [Ana Mara Figueiredo de Oliveira](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora)
@@ -26,15 +26,15 @@ cssclasses:
 </div>
 
 
-## 🌌 El problema
+## El problema
 
  La redacción de documentos académicos bajo las directrices de la ABNT (NBR 14724 para trabajos académicos, NBR 6023 para referencias, NBR 6027 para resúmenes) impone una estructura rígida, pero LaTeX — la herramienta más indicada técnicamente para eso, por su control tipográfico y ambiente de ecuaciones superior a procesadores visuales como Word— tiene una curva de aprendizaje alta. La diferencia de paradigma explica por qué: procesadores WYSIWYG ("lo que ves es lo que tienes") son fáciles de empezar pero difíciles de diagramar sin romper el diseño; LaTeX es WYSIWYM ("lo que ves es lo que quieres decir") — el iniciante erra bastante y depende de consulta constante, pero, superada la curva de aprendizaje, gana un proceso de escritura mucho más confiable y alineado a las normas.
 
-## 🎯 Objetivo
+## Objetivo
 
  Desarrollar una clase tipográfica para LaTeX dirigida al usuario típico del IFF, que respete las directrices de la ABNT y las particularidades locales (logos y símbolos institucionales), atenuando la curva de aprendizaje de quien nunca usó LaTeX y agilizando el trabajo de quien ya usa.
 
-## 🔧 Metodología
+## Metodología
 
  El proyecto utilizó como base las clases `abntex2` y `article`, con el paquete bibliográfico `abntex2cite` (compatibilidad ABNT), compilado vía TeX Live (`pdflatex`/`bibtex`), con apoyo de TeXPage, CTAN y Overleaf como ambientes online. El trabajo fue dividido en tres etapas:
 
@@ -42,7 +42,7 @@ cssclasses:
 2. **Comandos auxiliares** — el paquete `macros.sty`, creado para evitar la sintaxis primitiva de LaTeX y reducir errores de compilación.
 3. **Archivo principal** — consolidación en un único `main.tex`, con todos los ambientes de la NBR 14724 ya llenados como comandos listos.
 
-## 📊 Resultados
+## Resultados
 
  La arquitectura sigue la estructura normativa de ABNT (elementos pretextuales, textuales y posttextuales), eliminando la necesidad de que el usuario manipule paquetes gráficos o formateo complejo directamente:
 
@@ -51,15 +51,15 @@ cssclasses:
 - *Elementos textuales** — la macro `\inserirfigura` encapsula, en una sola línea, el dimensionamiento, alineación, subtítulos, fuente y etiqueta (`label`) para referencia cruzada de una figura. `\inserirtabela` y `\inserir marco` automatización la distinción normativa del IBGE entre tablas y cuadros, enviando los metadatos directamente a las listas de pretexto.
 - *Elementos posttextuales ** — macros propias convierten la numeración de apéndices/anexos de numérica para alfabético sin corromper la numeración de los capítulos, y estandarizaron la llamada de glosarios e índices remisivos.
 
-## 🧾 Conclusión
+## Conclusión
 
  El encapsulamiento de esas rutinas en macros parametrizadas cumplió el objetivo: reducir el tiempo operativo de formatación y democratizar el rigor tipográfico de LaTeX en la producción técnico-científica del IFF, blindando al usuario contra errores de sintaxis y referencias cruzadas. Como desdoblamiento, está en fase de pruebas una interfaz web opcional, en el estilo de Overleaf, centrada exclusivamente en esta clase, pensada para quien prefiere rellenar formularios a editar código fuente directamente.
 
-## 🏆 Mostrar
+## Mostrar
 
  Este proyecto será presentado en el **CONEPE 2026** (Congreso de Enseñanza, Investigación y Extensión del IFF  Campus  Guarus), del 21 al 23 de septiembre de 2026.
 
-## 🔗 Referencias y correcciones
+## Referencias y correcciones
 
 - ASOCIACIÓN BRASILERA DE NORMAS TÉCNICAS. NBR 14724: Información y documentación — Trabajos académicos — Presentación. Río de Janeiro, 2011.
 - ASOCIACIÓN BRASILERA DE NORMAS TÉCNICAS. NBR 6027: Información y documentación — Resumen — Presentación. Río de Janeiro, 2012.

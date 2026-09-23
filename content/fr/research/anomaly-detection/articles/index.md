@@ -43,7 +43,7 @@ cssclasses:
 
  Lire l'annotation d'articles scientifiques pertinents à ma recherche dans la détection d'anomalies dans les populations stellaires - sa synthèse, pas les articles complets (le droit d'auteur des éditoriaux / arXiv restent avec les auteurs originaux). Groupe par papier dans le projet: les soulèvements et les données que j'utilise, les méthodes d'apprentissage automatique que j'applique, les modèles stellaires qui étalonnent mes âges / isocrates, et le contexte de la chimie dynamique / galactique qui interprète les résultats.
 
-## 🛰️ Revenus et catalogues ( dés)
+## Revenus et catalogues ( dés)
 
 - [[fr/research/anomaly-detection/articles/collaboration2016|La mission Gaia]]- 1 milliard d'étoiles d'astrométrie; source des coordonnées cinématiques du projet.
 - [[fr/research/anomaly-detection/articles/collaboration2021|Gaia EDR3 - Gaia Catalogue des étoiles à proximité]]- catalogue propre à 100 cc du Soleil, base de l'échantillon GCNS.
@@ -54,7 +54,7 @@ cssclasses:
 - [[fr/research/anomaly-detection/articles/xiang2019|LAMOST DR5 - Abondances de 16 éléments]]- une autre enquête spectroscopique de grande envergure, fondée sur des données (DD-Payne).
 - [[fr/research/anomaly-detection/articles/quispehuaynasi2025|S-PLUS DR4 - Amortisseurs SED]]- détection d'anomalies photométriques dans différentes enquêtes, parallèle méthodologique.
 
-## 🤖 Apprentis machine et détection d'anomalies
+## Apprentis machine et détection d'anomalies
 
 - [[fr/research/anomaly-detection/articles/traven2017|GALAH - Classement par t-SNE]]- méthodologie de base de l'étape 2 (t-SNE sur les spectres bruts).
 - [[fr/research/anomaly-detection/articles/dasilva2023|silva & Smiljanic (2023) - T-SNE Chimiodynamique]]- base de comparaison entre les colonnes de catalogue et les pixels de spectre.
@@ -65,7 +65,7 @@ cssclasses:
 - [[fr/research/anomaly-detection/articles/hughes2022|GALAH - Des étoiles extrêmement pauvres à Metais]]- ML supervisé pour trouver 54 candidats EMP dans GALAH.
 - [[fr/research/anomaly-detection/articles/vogrini2023|GALAH - Différents groupes interstellaires]]- un autre exemple d'exploitation spectroscopique de mégadonnées GALAH.
 
-## ⭐ Modèles et âges Stellar
+## Modèles et âges Stellar
 
 - [[fr/research/anomaly-detection/articles/bressan2012|PARSEC - Stellar Isocrates]]- code d'évolution des étoiles généré par les isocrons utilisés dans le diagramme de Kiel.
 - [[fr/research/anomaly-detection/articles/marigo2017|PARSEC-COLIBRI - Isocrates avec la phase TP- AGB]]- plus récente génération d'isocrates, avec la phase détaillée TP- AGB.
@@ -73,7 +73,7 @@ cssclasses:
 - [[fr/research/anomaly-detection/articles/traven2020|GALAH - binaire FGK]]- échantillon de binaire spectroscopique, utile pour le nettoyage des polluants de l'échantillon.
 - [[fr/research/anomaly-detection/articles/thomas2024|SpectroTraducteur]]- réseau neuronal pour convertir les paramètres entre différentes enquêtes.
 
-## 🌌 Dynamique galactique et chimie (interprétation)
+## Dynamique galactique et chimie (interprétation)
 
 - [[fr/research/anomaly-detection/articles/bovy2015|- oui]]- paquet utilisé pour calculer les orbites et les actions, base de la cinétique du projet.
 - [[fr/research/anomaly-detection/articles/mcmillan2017|Masse et distribution potentielle de la Voie lactée]]- le potentiel galactique utilisé dans la galpie pour intégrer les orbites.

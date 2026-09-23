@@ -8,12 +8,12 @@ cssclasses:
   - page-layout
 ---
 
-# 🔭 Anomaly Detection in Gaia Data
+# Anomaly Detection in Gaia Data
 
 > [!note] Summary
 > Undergraduate research project cross-matching high-precision Gaia astrometry (GCNS) with high-resolution spectroscopy (GALAH DR4) to find and characterize anomalous stars in the solar neighborhood — via t-SNE over physico-chemical parameters (Stage 1, published) and directly over raw spectra (Stage 2, ongoing).
 
-## 🌌 Overview
+## Overview
 
 My undergraduate research project looks for and characterizes **anomalous stars in the solar neighborhood**, cross-matching high-precision astrometry from the**Gaia Catalogue of Nearby Stars (GCNS)**with high-resolution spectroscopy from**GALAH DR4**. The project is advised by Prof. Dr. [Maria Luiza Linhares Dantas](https://www.mlldantas.com) (Instituto de Astrofísica, Pontificia Universidad Católica de Chile), with support from CNPq and IFF.
 
@@ -27,7 +27,7 @@ The work is split into two stages, one already published and one ongoing:
 
 ---
 
-## 📊 The data
+## The data
 
 | Catalog | What it provides | Size |
 |---|---|---|
@@ -45,7 +45,7 @@ To inspect individual spectra during the analysis, I developed a **public web vi
 
 ---
 
-## 1️⃣ Stage 1 — t-SNE mapping over physico-chemical parameters (published)
+## 1⃣ Stage 1 — t-SNE mapping over physico-chemical parameters (published)
 
 Instead of plotting pre-chosen, hand-picked diagrams, I fed **t-SNE**directly with each star's physico-chemical and kinematic parameters (Teff, log g, \[Fe/H], \[Mg/Fe], and velocity components), letting the algorithm find clusters on its own, only coloring by known parameters afterward as an honesty check on the method.**Quantitative validation** — I tested a perplexity grid from 15 to 90 and measured:
 
@@ -63,7 +63,7 @@ And presented as a poster at **SAB 2025**, at the**78th Annual SBPC Meeting (202
 
 ---
 
-## 2️⃣ Stage 2 — Anomalies straight from the spectra (ongoing)
+## 2⃣ Stage 2 — Anomalies straight from the spectra (ongoing)
 
 The standout subgroup from Stage 1 raised a question: does that anomaly still show up if I skip the parameters already derived by GALAH's pipeline — i.e., if I let the algorithm see the **raw spectrum**directly? That's the question driving Stage 2, replicating**Traven et al.'s (2017)** methodology, who used t-SNE over GALAH DR3 spectra to identify 10 morphological categories of peculiar stars.
 
@@ -100,7 +100,7 @@ I also tested two anomaly detectors directly on the embedding: **Isolation Fores
 
 ---
 
-## 🗓️ Discussions and decisions (timeline)
+## Discussions and decisions (timeline)
 
 Summary of the main methodological decisions made throughout the project, from meeting notes:
 
@@ -111,7 +111,7 @@ Summary of the main methodological decisions made throughout the project, from m
 
 ---
 
-## 🚧 Next steps
+## Next steps
 
 - Validate the clusters found in Stage 2 with **HDBSCAN over the t-SNE projection**, comparing directly against Traven et al.'s (2017) 10 morphological categories.
 - Cross-match Stage 2's spectral outliers with the kinematic/chemical subgroup found in Stage 1, to check whether they're the same population.
@@ -120,7 +120,7 @@ Summary of the main methodological decisions made throughout the project, from m
 
 ---
 
-## 📚 Main bibliography
+## Main bibliography
 
 - Traven et al. (2017) — _The GALAH survey: classification and diagnostics with t-SNE reduction of spectral information_ — base methodology for Stage 2.
 - Buder et al. (2025) — GALAH DR4.
@@ -132,7 +132,7 @@ Summary of the main methodological decisions made throughout the project, from m
 
 ---
 
-## 🔗 References and related
+## References and related
 
 - [[pt-br/resource/escolainverno/apresentacao|Apresentação de Pesquisa]] — preparation text for presenting Stage 1 (Portuguese; SBPC 2026 Banner and this Winter School's Banner).
 - [[en/research/dark-matter-shocks|Understanding Dark Matter from Extragalactic Shocks]] — another astronomy research project, also grounded in the dynamics/kinematics of gravitational systems

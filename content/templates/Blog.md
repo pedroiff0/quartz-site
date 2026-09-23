@@ -12,10 +12,10 @@ cssclasses:
   - page-layout
 ---
 
-# ✍️ {{value}}
+# {{value}}
 
 > [!note] Resumo
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 -

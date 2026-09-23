@@ -1,35 +1,34 @@
 \frametitle{Resultados: Elementos Textuais (\texttt {\textbackslash inserirfigura})}
 \begin{columns}[T]
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=red!5,colframe=iffred,title=\textbf{\LaTeX\ Convencional (8--10 linhas)}]
+      \begin{tcolorbox}[colback=iffalertbg,colframe=iffred,arc=1.5mm,title=\textbf{\LaTeX\ Convencional (8--10 linhas)}]
 \begin{lstlisting}[language=TeX]
 \begin{figure}[htbp]
   \centering
   \caption{Diagrama de Fases}
-  \includegraphics[width=0.7\textwidth]{fases.png}
-  \vspace{0.1cm}
+  \includegraphics[width=0.7\textwidth]{fig.png}
   {\footnotesize Fonte: Autor (2026).}
   \label{fig:fases}
 \end{figure}
 \end{lstlisting}
-        \scriptsize \textbf{Riscos:} Esquecimento de centralização, inversão de legenda/fonte, esquecimento do \texttt{\textbackslash label}.
+        \tiny \textbf{Riscos:} Esquecimento de centralização, inversão de posições, rótulos desacoplados.
       \end{tcolorbox}
     \end{column}
 
     \begin{column}{0.48\textwidth}
-      \begin{tcolorbox}[colback=iffgreenlight,colframe=iffgreen,title=\textbf{Com o \texttt{macros.sty} (1 linha!)}]
+      \begin{tcolorbox}[colback=iffgreenlight,colframe=iffprimary,arc=1.5mm,title=\textbf{Com o \texttt{macros.sty} (1 linha!)}]
 \begin{lstlisting}[language=TeX]
-\inserirfigura[0.7]{fases.png}
+\inserirfigura[0.7]{fig.png}
   {Diagrama de Fases}
   {Autor (2026)}{fig:fases}
 \end{lstlisting}
-        \vspace{0.4cm}
-        \footnotesize \textbf{Garantias Automáticas:}
-        \begin{itemize}
-          \item Legenda rigorosamente no topo (norma ABNT);
-          \item Fonte em tamanho menor no rodapé;
+        \vspace{0.05cm}
+        \scriptsize \textbf{Garantias Automáticas:}
+        \begin{itemize}\setlength{\itemsep}{1pt}
+          \item Legenda rigorosamente no topo (ABNT);
+          \item Fonte tipográfica reduzida no rodapé;
           \item Centralização horizontal padronizada;
-          \item Geração dinâmica do rótulo e envio à lista.
+          \item Rótulo dinâmico enviado à lista de figuras.
         \end{itemize}
       \end{tcolorbox}
     \end{column}

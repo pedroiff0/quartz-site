@@ -15,9 +15,9 @@ cssclasses:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
+  <div>⬅<b><a href="#">Aula Anterior</a></b></div>
+  <div><b><a href="../">Hub da Disciplina</a></b></div>
+  <div><b><a href="#">Próxima Aula</a></b></div>
 </div>
 
 ```dataviewjs
@@ -46,7 +46,7 @@ dv.container.innerHTML = `
 <div style="margin: 1.5rem 0; padding: 1.2rem; background: var(--background-secondary, #f4f4f5); border-radius: 8px; border: 1px solid var(--border-color, #e4e4e7); box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.6rem;">
     <span style="font-weight: 700; font-size: 0.95rem; color: var(--text-normal, #18181b); display: inline-flex; align-items: center; gap: 6px;">
-      📖 Progresso da Disciplina
+      Progresso da Disciplina
     </span>
     <span style="font-size: 0.85rem; font-weight: 700; color: var(--text-muted, #71717a);">
       ${completedCount} / ${totalAulas} Aulas (${percentage}%)
@@ -58,46 +58,46 @@ dv.container.innerHTML = `
 </div>`;
 ```
 
-> [!info] 📌 Informações da Aula & Contexto do Quadro
+> [!info] Informações da Aula & Contexto do Quadro
 > - **Disciplina:** 
 > - **Docente Responsável:** 
 > - **Tópico Central:** 
-> - **Status das Anotações:** 🟡 Planejando | 🟠 Em Andamento | 🟢 Concluído
+> - **Status das Anotações:** Planejando | Em Andamento | Concluído
 
-> [!note] 📦 Material Didático & Recursos da Aula
-> - 📄 **[[assets/disciplinas/|Slides da Aula (PDF)]]**
-> - 📖 **[[../short-lecture|Short Lecture da Disciplina]]**
+> [!note] Material Didático & Recursos da Aula
+> - **[[assets/disciplinas/|Slides da Aula (PDF)]]**
+> - **[[../short-lecture|Short Lecture da Disciplina]]**
 
-## 📋 Sumário Interativo
-- [📍 Anotações](#-anotações)
-- [🧠 Resumo](#-resumo)
-- [📝 Dúvida](#-dúvida)
+## Sumário Interativo
+- [Anotações](#-anotações)
+- [Resumo](#-resumo)
+- [Dúvida](#-dúvida)
 
 ---
 
-## 📍 Anotações
+## Anotações
 
 ### 
 
 ---
 
-## 🧠 Resumo
+## Resumo
 
 | Tópico | Princípio Central | Atenção Especial / Pegadinha |
 | :--- | :--- | :--- |
 | | | |
 
-> [!tip] 💡 Dica de Prova do Professor
+> [!tip] Dica de Prova do Professor
 > 
 
 ---
 
-## 📝 Dúvida
+## Dúvida
 
 - [ ] 
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="#">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../">Hub da Disciplina</a></b></div>
-  <div>➡️ <b><a href="#">Próxima Aula</a></b></div>
+  <div>⬅<b><a href="#">Aula Anterior</a></b></div>
+  <div><b><a href="../">Hub da Disciplina</a></b></div>
+  <div><b><a href="#">Próxima Aula</a></b></div>
 </div>
