@@ -32,6 +32,6 @@ opcional, é herdada do sistema base.
 
 **Stack:** Node + Express · MongoDB · LaTeX.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Tronco: [[pt-br/projects/avaliacoes|Sistema de Avaliações]].

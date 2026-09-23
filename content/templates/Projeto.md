@@ -14,6 +14,6 @@ cssclasses:
 
 **Status:**
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 -

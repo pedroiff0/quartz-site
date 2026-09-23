@@ -20,7 +20,7 @@ cssclasses:
 
  Presents new generation of isochrons PARSEC-COLIBRI including detailed TP-AGB phase and wide range of metallicity. Useful to estimate stellar ages/parameters that enter your project analysis.
 
- [See original article](https://doi.org/10.3847/1538-4357/835/1/77)·[📄 Baixar PDF](/assets/articles/Marigo2017.pdf)
+ [See original article](https://doi.org/10.3847/1538-4357/835/1/77)·[Baixar PDF](/assets/articles/Marigo2017.pdf)
 
 ## Quotation
 

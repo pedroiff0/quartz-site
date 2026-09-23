@@ -182,6 +182,7 @@ plugins:
         (node) => {
           const name = node.slugSegment;
           if (name === "tags") return false;
+          if (name === "resource" || name === "recursos") return false;
           const path = window.location.pathname;
           const languages = ["en", "pt-br", "es", "fr"];
           const currentLang = languages.find((l) => path.includes(`/${l}/`)) ?? "pt-br";
@@ -190,19 +191,77 @@ plugins:
         }
       sortFn: |
         (a, b) => {
-          let orderA = a.data?.frontmatter?.order ?? 100
-          let orderB = b.data?.frontmatter?.order ?? 100
-          if (orderA !== orderB) return orderA - orderB
-          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+          const orderMap = {
+            "about-me": 1,
+            "sobre-mim": 1,
+            "media": 2,
+            "midia": 2,
+            "research": 3,
+            "pesquisas": 3,
+            "projects": 4,
+            "projetos": 4,
+            "academic": 5,
+            "academico": 5
+          };
+          const segA = (a.slugSegment || "").toLowerCase();
+          const segB = (b.slugSegment || "").toLowerCase();
+          const posA = orderMap[segA];
+          const posB = orderMap[segB];
+          if (posA !== undefined && posB !== undefined) return posA - posB;
+          if (posA !== undefined) return -1;
+          if (posB !== undefined) return 1;
+          let orderA = a.data?.frontmatter?.order ?? 100;
+          let orderB = b.data?.frontmatter?.order ?? 100;
+          if (orderA !== orderB) return orderA - orderB;
+          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" });
         }
       mapFn: |
         (node) => {
           const seg = (node.slugSegment || "").toLowerCase();
-          if (seg === "anotações" || seg === "anotacoes") {
-            node.displayName = "Anotações";
-          }
-          if (seg === "atividades") {
-            node.displayName = "Atividades";
+          const path = (typeof window !== "undefined" && window.location) ? window.location.pathname : "";
+          if (path.includes("/en/")) {
+            const enMap = {
+              "about-me": "About Me",
+              "media": "Media",
+              "research": "Research",
+              "projects": "Projects",
+              "academic": "Academic"
+            };
+            if (enMap[seg]) node.displayName = enMap[seg];
+          } else if (path.includes("/es/")) {
+            const esMap = {
+              "about-me": "Sobre Mí",
+              "media": "Medios",
+              "research": "Investigaciones",
+              "projects": "Proyectos",
+              "academic": "Académico"
+            };
+            if (esMap[seg]) node.displayName = esMap[seg];
+          } else if (path.includes("/fr/")) {
+            const frMap = {
+              "about-me": "À propos de moi",
+              "media": "Médias",
+              "research": "Recherches",
+              "projects": "Projets",
+              "academic": "Académique"
+            };
+            if (frMap[seg]) node.displayName = frMap[seg];
+          } else {
+            const ptMap = {
+              "about-me": "Sobre Mim",
+              "sobre-mim": "Sobre Mim",
+              "media": "Mídias",
+              "midia": "Mídias",
+              "research": "Pesquisas",
+              "pesquisas": "Pesquisas",
+              "projects": "Projetos",
+              "projetos": "Projetos",
+              "academic": "Acadêmico",
+              "academico": "Acadêmico",
+              "anotacoes": "Anotações",
+              "atividades": "Atividades"
+            };
+            if (ptMap[seg]) node.displayName = ptMap[seg];
           }
           return node;
         }

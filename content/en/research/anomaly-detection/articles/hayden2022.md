@@ -20,7 +20,7 @@ cssclasses:
 
  It derives ages of almost 250,000 stars from GALAH DR3 via XGBoost using only metalicity and abundances (precision 1-2 Gyr). Relevant: age is a key variable in the MAG of Dantas2025 to infer the birth ray.
 
- [See original article](https://doi.org/10.1093/mnras/stac2787)·[📄 Baixar PDF](/assets/articles/Hayden2022.pdf)
+ [See original article](https://doi.org/10.1093/mnras/stac2787)·[Baixar PDF](/assets/articles/Hayden2022.pdf)
 
 ## Quotation
 

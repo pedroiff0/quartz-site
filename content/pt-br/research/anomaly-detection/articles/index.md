@@ -39,7 +39,7 @@ order: 1
 
 Anotações de leitura sobre artigos científicos relevantes para minha pesquisa em detecção de anomalias em populações estelares — sínteses próprias, não os artigos completos (direitos autorais das editoras/arXiv permanecem com os autores originais). Agrupadas por papel no projeto: os levantamentos e dados que uso, os métodos de aprendizado de máquina que aplico, os modelos estelares que calibram minhas idades/isócronas, e o contexto de dinâmica/química galáctica que interpreta os resultados.
 
-## 🛰️ Levantamentos e catálogos (dados)
+## Levantamentos e catálogos (dados)
 
 - [A Missão Gaia](pt-br/research/anomaly-detection/articles/collaboration2016) — astrometria de bilhões de estrelas; fonte das coordenadas cinemáticas do projeto.
 - [Gaia EDR3 — Gaia Catalogue of Nearby Stars](pt-br/research/anomaly-detection/articles/collaboration2021) — catálogo limpo a 100 pc do Sol, base da amostra GCNS.
@@ -50,7 +50,7 @@ Anotações de leitura sobre artigos científicos relevantes para minha pesquisa
 - [LAMOST DR5 — Abundâncias de 16 Elementos](pt-br/research/anomaly-detection/articles/xiang2019) — outro survey espectroscópico de grande volume, abordagem _data-driven_ (DD-Payne).
 - [S-PLUS DR4 — Outliers de SED](pt-br/research/anomaly-detection/articles/quispehuaynasi2025) — detecção de anomalias fotométricas em survey diferente, paralelo metodológico.
 
-## 🤖 Aprendizado de máquina e detecção de anomalias
+## Aprendizado de máquina e detecção de anomalias
 
 - [GALAH — Classificação via t-SNE](pt-br/research/anomaly-detection/articles/traven2017) — metodologia-base da Etapa 2 (t-SNE sobre espectros brutos).
 - [da Silva & Smiljanic (2023) — t-SNE Quimiodinâmico](pt-br/research/anomaly-detection/articles/dasilva2023) — base da comparação entre colunas de catálogo e pixels do espectro.
@@ -61,7 +61,7 @@ Anotações de leitura sobre artigos científicos relevantes para minha pesquisa
 - [GALAH — Estrelas Extremamente Pobres em Metais](pt-br/research/anomaly-detection/articles/hughes2022) — ML supervisionado para achar 54 candidatas EMP no GALAH.
 - [GALAH — Bandas Interestelares Difusas](pt-br/research/anomaly-detection/articles/vogrini2023) — outro exemplo de mineração de _big data_ espectroscópico do GALAH.
 
-## ⭐ Modelos estelares e idades
+## Modelos estelares e idades
 
 - [PARSEC — Isócronas Estelares](pt-br/research/anomaly-detection/articles/bressan2012) — código de evolução estelar que gera as isócronas usadas no diagrama de Kiel.
 - [PARSEC-COLIBRI — Isócronas com Fase TP-AGB](pt-br/research/anomaly-detection/articles/marigo2017) — geração mais recente das isócronas, com fase TP-AGB detalhada.
@@ -69,7 +69,7 @@ Anotações de leitura sobre artigos científicos relevantes para minha pesquisa
 - [GALAH — Binárias FGK](pt-br/research/anomaly-detection/articles/traven2020) — amostra de binárias espectroscópicas, relevante para limpar contaminantes da amostra.
 - [SpectroTranslator](pt-br/research/anomaly-detection/articles/thomas2024) — rede neural para converter parâmetros entre surveys diferentes.
 
-## 🌌 Dinâmica e química galáctica (interpretação)
+## Dinâmica e química galáctica (interpretação)
 
 - [galpy](pt-br/research/anomaly-detection/articles/bovy2015) — pacote usado para calcular órbitas e ações, base da cinemática do projeto.
 - [Distribuição de Massa e Potencial da Via Láctea](pt-br/research/anomaly-detection/articles/mcmillan2017) — o potencial galáctico usado no galpy para integrar órbitas.

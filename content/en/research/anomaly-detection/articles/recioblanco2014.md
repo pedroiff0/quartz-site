@@ -20,7 +20,7 @@ cssclasses:
 
  Debates the nature of the thick disk and its relationship with the fine disk (structure, kinematics, chemistry). Relevant to the context of star populations and migration of your project.
 
- [See original article](https://doi.org/10.1051/0004-6361/201322944)·[📄 Baixar PDF](/assets/articles/RecioBlanco2014.pdf)
+ [See original article](https://doi.org/10.1051/0004-6361/201322944)·[Baixar PDF](/assets/articles/RecioBlanco2014.pdf)
 
 ## Quotation
 

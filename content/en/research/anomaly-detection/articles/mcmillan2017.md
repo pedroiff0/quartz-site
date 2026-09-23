@@ -20,7 +20,7 @@ cssclasses:
 
  It has Milky Way mass models adjusted to observational restrictions. It finds R0 = 8.2±0.09 kpc, circular velocity in the Sun v0 = 232.8±3.0 km/s, total stellar mass (54.3±5.7) ×10^9 Msol and virial mass (1.30±0.30) ×10^12 Msol. It's the reference to the potential parameters you use in galpy.
 
- [See original article](https://doi.org/10.1093/mnras/stw2759)·[📄 Baixar PDF](/assets/articles/McMillan2017.pdf)
+ [See original article](https://doi.org/10.1093/mnras/stw2759)·[Baixar PDF](/assets/articles/McMillan2017.pdf)
 
 ## Quotation
 

@@ -38,7 +38,7 @@ Prefere links em texto? [[pt-br/index|Sobre mim]] · [[en/index|About me]] · [[
 <div class="astronomy-qrcode-card" style="margin: 2.2rem auto; text-align: center; max-width: 420px; padding: 1.5rem; background: linear-gradient(135deg, rgba(15, 23, 42, 0.03), rgba(56, 189, 248, 0.08)); border: 1px solid var(--lightgray); border-radius: 20px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);">
   <img src="/assets/qrcode-cosmico-home.png" alt="QR Code Pedro Henrique - www.phrandrade.com" width="340" style="width: 340px; max-width: 82vw; height: auto; border-radius: 14px; box-shadow: 0 6px 20px rgba(0,0,0,0.12); padding: 10px; background: #ffffff; display: block; margin: 0 auto;" />
   <p style="margin-top: 1rem; margin-bottom: 0; font-size: 0.95rem; color: var(--dark); font-weight: 600;">
-    🌌 <b>www.phrandrade.com</b>
+    <b>www.phrandrade.com</b>
   </p>
   <p style="margin-top: 0.25rem; margin-bottom: 0; font-size: 0.82rem; color: var(--gray);">
     Aponte a câmera do smartphone para acessar o jardim digital
@@ -46,15 +46,15 @@ Prefere links em texto? [[pt-br/index|Sobre mim]] · [[en/index|About me]] · [[
 </div>
 
 > [!tip] Dá para trocar de idioma a qualquer momento
-> O seletor **PT / EN / ES / FR** fica no topo da barra lateral (no celular, dentro do menu ☰) e mantém você na mesma página, só que no outro idioma. Se a tradução ainda não existir, você cai num aviso amigável em vez de um erro.
+> O seletor **PT / EN / ES / FR** fica no topo da barra lateral (no celular, dentro do menu ) e mantém você na mesma página, só que no outro idioma. Se a tradução ainda não existir, você cai num aviso amigável em vez de um erro.
 >
 > _You can switch language at any time using the **PT / EN / ES / FR** selector at the top of the sidebar — it keeps you on the same page. Pages not translated yet show a friendly notice instead of an error._
 
 > [!abstract] Portfólio de projetos · Projects portfolio · Portafolio de proyectos · Portfolio de projets
 > Resumo rápido de tudo que construí no GitHub — repositórios, bolsas e contatos numa página só.
-> - 🇧🇷 Se veio do meu [portfólio de projetos](https://pedroiff0.github.io/webpage/), lá estão todos os meus repositórios com um *short brief* e os contatos reunidos.
-> - 🇬🇧 Came from my [projects portfolio](https://pedroiff0.github.io/webpage/)? It lists all my GitHub repos with a short brief and all contacts in one page.
-> - 🇪🇸 Si vienes de mi [portafolio de proyectos](https://pedroiff0.github.io/webpage/), allí están todos mis repos con un *short brief* y los contactos.
-> - 🇫🇷 Depuis mon [portfolio de projets](https://pedroiff0.github.io/webpage/)? Il liste tous mes dépôts avec un *short brief* et les contacts réunis.
+> - Se veio do meu [portfólio de projetos](https://pedroiff0.github.io/webpage/), lá estão todos os meus repositórios com um *short brief* e os contatos reunidos.
+> - Came from my [projects portfolio](https://pedroiff0.github.io/webpage/)? It lists all my GitHub repos with a short brief and all contacts in one page.
+> - Si vienes de mi [portafolio de proyectos](https://pedroiff0.github.io/webpage/), allí están todos mis repos con un *short brief* y los contactos.
+> - Depuis mon [portfolio de projets](https://pedroiff0.github.io/webpage/)? Il liste tous mes dépôts avec un *short brief* et les contacts réunis.
 
 ---

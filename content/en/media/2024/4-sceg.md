@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 💻 4a SCEG 2024
+# 4a SCEG 2024
 
 > [!note] Summary
 > I organized the 4th Week of Computer, Engineering and Management at the IFF Good Jesus of Itabapoana — a student star event, with mini courses, e-sports and a hackathon.
 
-## 🗓️ About the event
+## About the event
 
  Page dedicated to **4th Computer, Engineering and Management Week (SCEG)**, at IFF Good Jesus of Itabapoana, in October 2024, within the programming of the XII Show of Knowledge.
 
@@ -24,7 +24,7 @@ cssclasses:
 > [!note] Opinion
 > I had never organized such an event, and it was interesting to have this experience! Nowadays I know how I can start organizing an event and how to make it happen, and I wouldn't know if I hadn't had this opportunity alongside Prof. Dr. Fabrício Barros Gonçalves.
 
-## 🔗 References and correlations
+## References and correlations
 
 - Source:[IFF — Technology, innovation e-sports and training mark 4th SCEG programming](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/tecnologia-inovacao-e-sports-e-capacitacao-marcam-programacao-da-4-sceg)
 - [[en/media/2024/e-jiniff-2024|e-JINIFF 2024]]— another front of student e-sports on campus

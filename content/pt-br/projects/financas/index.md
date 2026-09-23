@@ -49,6 +49,6 @@ framework de frontend.
 
 **Status:** em desenvolvimento ativo, com ambiente de demonstração próprio.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Construído sobre o [[pt-br/projects/projeto-profissional|Projeto Profissional (template)]].

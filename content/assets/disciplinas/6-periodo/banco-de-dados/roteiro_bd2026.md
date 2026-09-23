@@ -34,11 +34,11 @@ draft: false
 
 ---
 
-## ⏱️ Tempo Estimado: ~10 minutos
+## Tempo Estimado: ~10 minutos
 
 ---
 
-## 📋 Roteiro por Slide
+## Roteiro por Slide
 
 ### Slide 1 — Capa (15s)
 - Título: Normalização & Dependências Funcionais
@@ -120,14 +120,14 @@ draft: false
 
 ---
 
-## 🎯 Pontos-chave para Enfatizar
+## Pontos-chave para Enfatizar
 
 1. **Centro de Memória** é o caso concreto (não abstrair demais)
 2. **Cada anomalia** tem exemplo real no domínio
 3. **Decomposição** resolve problema específico (não é "mágica")
 4. **Garantias formais** (Lossless Join + Preservação de DFs) dão rigor
 
-## ⚠️ Possíveis Perguntas
+## Possíveis Perguntas
 
 - "Por que não BCNF?" → BCNF pode não preservar DFs; 3FN é suficiente
 - "E a performance?" → JOINs são custosos, mas compensam pela integridade

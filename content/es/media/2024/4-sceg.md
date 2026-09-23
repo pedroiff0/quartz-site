@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 💻 4a SCEG 2024
+# 4a SCEG 2024
 
 > [!note] Resumen
 > Organizei a 4a Semana de Computación, Ingeniería y Gestión en IFF Buen Jesús del Itabapoana — un evento de protagonismo estudiantil, con minicursos, e-sports y un hackathon.
 
-## 🗓️ Acerca del evento
+## Acerca del evento
 
  Página dedicada a la **4a Semana de Computación, Ingeniería y Gestión (SCEG)**, en IFF Bueno Jesús del Itabapoana, en octubre de 2024, dentro de la programación de la XII Muestra del Conocimiento.
 
@@ -24,7 +24,7 @@ cssclasses:
 > [!note] Opinión
 > Nunca había organizado un evento así, y fue interesante tener esa experiencia! Hoy ya sé cómo puedo iniciar la organización de un evento y cómo hacerlo, y no sabría si no hubiese tenido esa oportunidad al lado del Prof. Dr. Fabrício Barros Gonçalves.
 
-## 🔗 Referencias y correcciones
+## Referencias y correcciones
 
 - Fuente:[IFF — Tecnología, innovación e-sports y capacitación marcan programación de la 4a SCEG](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/tecnologia-inovacao-e-sports-e-capacitacao-marcam-programacao-da-4-sceg)
 - [[es/media/2024/e-jiniff-2024|e-JINIFF 2024]]— otro frente de estudiantes en el campus

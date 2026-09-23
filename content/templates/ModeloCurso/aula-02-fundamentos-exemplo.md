@@ -65,11 +65,11 @@ graph LR
 - ABNT. **NBR 10520**: Informação e documentação — Citações em documentos — Apresentação. Rio de Janeiro: ABNT, 2023.
 
 
-## 🛠️ Recursos Adicionais e Material Suplementar
+## Recursos Adicionais e Material Suplementar
 
-- **[[pt-br/resource/latex/modelos-de-documento|🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX]]** — Exemplos canônicos de código, classes (`ifftese.cls`, `slidesiffmodelo.cls`) e documentação interna.
-- **[[pt-br/resource/latex/planejamento-e-cronograma|📅 Planejamento Letivo e Cronograma de Atividades]]** — Matriz analítica de 80h (Terças, 14h30-17h30) e avaliação em 2 bimestres.
-- **[[pt-br/resource/latex/codigo-de-conduta-e-diretrizes|📜 Código de Conduta e Diretrizes Acadêmicas]]** — Regimento ético, normas CEP/CONEP e uso transparente de IA.
+- **[[pt-br/resource/latex/modelos-de-documento|Guia Oficial de Modelos, Classes e Pacotes ReLaTeX]]** — Exemplos canônicos de código, classes (`ifftese.cls`, `slidesiffmodelo.cls`) e documentação interna.
+- **[[pt-br/resource/latex/planejamento-e-cronograma|Planejamento Letivo e Cronograma de Atividades]]** — Matriz analítica de 80h (Terças, 14h30-17h30) e avaliação em 2 bimestres.
+- **[[pt-br/resource/latex/codigo-de-conduta-e-diretrizes|Código de Conduta e Diretrizes Acadêmicas]]** — Regimento ético, normas CEP/CONEP e uso transparente de IA.
 - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — Portal oficial mundial de pacotes LaTeX2e.
 - **[ABNT Catálogo de Normas](https://www.abnt.org.br/)** — Acesso e consulta às normas técnicas vigentes.
 - **[Overleaf Documentation](https://www.overleaf.com/learn)** — Base de conhecimento e guias práticos sobre compilação TeX.

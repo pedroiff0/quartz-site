@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 🛰️ MCTIA 2025
+# MCTIA 2025
 
 > [!note] Summary
 > Açaí Institute’s Science and Technology Show in Belém (PA) — 1st place in Exact Sciences with an AI algorithm that recovers 99.7% of the information lost by satellite tracks, classifying the team for Young Science 2026.
 
-## 🗓️ About the event
+## About the event
 
  Page dedicated to participation in the XVI Exhibition of Science and Technology of the Açaí Institute (MCTIA)**, in Belém (PA) — the largest scientific fair in the North.
 
@@ -24,12 +24,12 @@ cssclasses:
 > [!note] Opinion
 > Going to the Para Show was sensational. To know a region so remote and distant from us, the extremely rich and interesting culture, all the affection of the organization of the fair to the participants, everything was very cool! See the projects that are developed for the region by the residents themselves battling to improve, it is very cool!
 
-## 📎 Banner
+## Banner
 
 > [!note] Banner presented:
-> ![[assets/banners/BannerMCTIA25.pdf]]
+> *Banner MCTIA 2025*
 
-## 🔗 References and correlations
+## References and correlations
 
 - Source:[IFF — IFF project Good Jesus wins another award in scientific event in Pará](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-conquista-mais-uma-premiacao-em-evento-cientifico-no-para)
 - [[en/research/satellite-trail-removal|Simulating Satellite Impact on Astronomical Observations]]— full search page of this project

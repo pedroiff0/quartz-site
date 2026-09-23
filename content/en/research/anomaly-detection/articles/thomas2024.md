@@ -20,7 +20,7 @@ cssclasses:
 
  It features SpectroTranslator, data-driven neural network that converts spectroscopic parameters from one survey (base A) to another (base B), with estimation of the importance of parameters. Useful for homogenizing catalogs (GALAH↔APOGEE↔LAMOST) in your project.
 
- [See original article](https://doi.org/10.1051/0004-6361/202450198)·[📄 Baixar PDF](/assets/articles/Thomas2024.pdf)
+ [See original article](https://doi.org/10.1051/0004-6361/202450198)·[Baixar PDF](/assets/articles/Thomas2024.pdf)
 
 ## Quotation
 

@@ -39,7 +39,7 @@ desktop e geração de conteúdo criativo.
 
 **Status:** público, atualizado continuamente.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Usa e documenta o agente [Hermes](https://hermes-agent.nousresearch.com/docs).
 - Inclui a skill de manutenção deste próprio site.

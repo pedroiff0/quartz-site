@@ -17,7 +17,7 @@ cssclasses:
  filtres:
  et:
  'file.folder.startsWith ("pt-br / research / journal-clubs / mwbr")'
- ♪ Seules les notes d'article ont 'arxiv' ; c'est ce qui sépare une entrée des pages
+ Seules les notes d'article ont 'arxiv' ; c'est ce qui sépare une entrée des pages
  prise en charge du dossier (index et autre chose).
  note.arxiv
  formulations:
@@ -56,7 +56,7 @@ cssclasses:
 
  ---
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - [[fr/research/journal-clubs|Clubs de Journal - aperçu]]
 - [[fr/research/journal-clubs/engcomp|ENGCOMP]]

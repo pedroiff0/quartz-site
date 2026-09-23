@@ -1,16 +1,16 @@
 ---
 publish: true
-title: "🔭 Detecção de Anomalias em Dados do Gaia"
+title: "Detecção de Anomalias em Dados do Gaia"
 created: 2025-09-01
 cssclasses:
   - page-layout
 ---
-# 🔭 Detecção de Anomalias em Dados do Gaia
+# Detecção de Anomalias em Dados do Gaia
 
 > [!note] Resumo
 > Pesquisa de iniciação científica que cruza astrometria de altíssima precisão do Gaia (GCNS) com espectroscopia de alta resolução (GALAH DR4) para encontrar e caracterizar estrelas anômalas na vizinhança solar — via t-SNE sobre parâmetros físico-químicos (Etapa 1, publicada) e diretamente sobre espectros brutos (Etapa 2, em andamento).
 
-## 🌌 Visão geral
+## Visão geral
 
 Minha pesquisa de iniciação científica busca **encontrar e caracterizar estrelas anômalas na vizinhança solar**, cruzando astrometria de altíssima precisão do **Gaia Catalogue of Nearby Stars (GCNS)** com espectroscopia de alta resolução do **GALAH DR4**. O projeto é orientado pela Prof.ª Dr.ª Maria Luiza Linhares Dantas (Instituto de Astrofísica da Pontificia Universidad Católica de Chile) e conta com apoio do CNPq e do IFF.
 
@@ -24,7 +24,7 @@ O trabalho está dividido em duas etapas, uma já publicada e outra em andamento
 
 ---
 
-## 📊 Os dados
+## Os dados
 
 | Catálogo | O que fornece | Tamanho |
 |---|---|---|
@@ -42,7 +42,7 @@ Para inspecionar espectros individuais durante a análise, desenvolvi um **visua
 
 ---
 
-## 1️⃣ Etapa 1 — Mapeamento t-SNE em parâmetros físico-químicos (publicado)
+## 1⃣ Etapa 1 — Mapeamento t-SNE em parâmetros físico-químicos (publicado)
 
 Em vez de plotar diagramas prontos escolhidos à mão, alimentei o **t-SNE** diretamente com os parâmetros físico-químicos e cinemáticos de cada estrela (Teff, log g, [Fe/H], [Mg/Fe] e componentes de velocidade), deixando o algoritmo encontrar sozinho os agrupamentos, e só depois coloração pelos parâmetros conhecidos como teste de honestidade do método.
 
@@ -63,7 +63,7 @@ E apresentado como pôster na **SAB 2025**, na **78ª Reunião Anual da SBPC (20
 
 ---
 
-## 2️⃣ Etapa 2 — Anomalias direto nos espectros (em andamento)
+## 2⃣ Etapa 2 — Anomalias direto nos espectros (em andamento)
 
 O subgrupo destacado na Etapa 1 levantou uma pergunta: será que essa anomalia também aparece se eu não passar pelos parâmetros já derivados pelo pipeline do GALAH — ou seja, se eu deixar o algoritmo ver o **espectro bruto** diretamente? Essa é a pergunta que motiva a Etapa 2, replicando a metodologia de **Traven et al. (2017)**, que usou t-SNE sobre espectros do GALAH DR3 para identificar 10 categorias morfológicas de estrelas peculiares.
 
@@ -100,7 +100,7 @@ Também testei dois detectores de anomalia diretamente sobre o embedding: **Isol
 
 ---
 
-## 🗓️ Discussões e decisões (linha do tempo)
+## Discussões e decisões (linha do tempo)
 
 Resumo das principais decisões metodológicas tomadas ao longo do projeto, a partir das notas de reunião:
 
@@ -111,7 +111,7 @@ Resumo das principais decisões metodológicas tomadas ao longo do projeto, a pa
 
 ---
 
-## 🚧 Próximos passos
+## Próximos passos
 
 - Validar os clusters encontrados na Etapa 2 com **HDBSCAN sobre a projeção t-SNE**, comparando diretamente com as 10 categorias morfológicas de Traven et al. (2017).
 - Cruzar os *outliers* espectrais da Etapa 2 com o subgrupo cinemático/químico destacado na Etapa 1, para verificar se são a mesma população.
@@ -120,7 +120,7 @@ Resumo das principais decisões metodológicas tomadas ao longo do projeto, a pa
 
 ---
 
-## 📚 Bibliografia principal
+## Bibliografia principal
 
 - Traven et al. (2017) — *The GALAH survey: classification and diagnostics with t-SNE reduction of spectral information* — metodologia-base da Etapa 2.
 - Buder et al. (2025) — GALAH DR4.
@@ -132,6 +132,6 @@ Resumo das principais decisões metodológicas tomadas ao longo do projeto, a pa
 
 ---
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - [[pt-br/resource/escolainverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] — texto de preparação para apresentar a Etapa 1 (Banner SBPC 2026 e Banner desta Escola de Inverno).

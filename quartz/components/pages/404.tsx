@@ -16,7 +16,9 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
           if (em) em.style.display = "block"
         }}
       />
-      <div id="nf-emoji" class="notfound-emoji" style="display:none">👻</div>
+      <div id="nf-emoji" class="notfound-emoji" style="display:none">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" x2="12" y1="8" y2="12"/><line x1="12" x2="12.01" y1="16" y2="16"/></svg>
+      </div>
       <h1 id="nf-title">404</h1>
       <p id="nf-msg" />
       <a id="nf-home" class="notfound-btn" href={baseDir} />

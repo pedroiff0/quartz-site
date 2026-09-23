@@ -13,7 +13,7 @@ cssclasses:
   - page-layout
 ---
 
-# 🛰️ Simulando el Impacto de Satélites en Observaciones Astronómicas
+# Simulando el Impacto de Satélites en Observaciones Astronómicas
 
 > [!note] Resumen
 > Proyecto de investigación (IFF Bom Jesus do Itabapoana, orientación de [Prof.a Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)) sobre cómo la proliferación de satélites artificiales contamina imágenes astronómicas con rastros luminosos — y cómo tratar esa contaminación computacionalmente. En equipo con [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) y Arthur Miguelito Lopes, el proyecto evolucionó de un 3o lugar en [[es/media/2024/febic-2024|FEBIC 2024]] incluso un algoritmo capaz de recuperar el 99,7% de la información perdida, galardonado en 1o lugar en [[es/media/2025/mctia-2025|MCTIA 2025]].
@@ -27,23 +27,23 @@ cssclasses:
 </div>
 
 
-## 🌠 El problema
+## El problema
 
  La década de 2020-2030 trae una nueva generación de telescopios (Vera Rubin, GMT, Euclid) que multiplicará por más de mil el volumen y la calidad de los datos astronómicos disponibles. En paralelo, sin embargo, la popularización de **constelaciones de satélites comerciales** está pobladando la órbita terrestre de miles de objetos brillantes, que se interponen entre los telescopios y la luz de las estrellas — contaminando imágenes con rastros luminosos y amenazando degradando justamente la nueva generación de levantamientos astronómicos de gran volumen.
 
  A diferencia de las dos barreras históricas de la observación astronómica (clima y limitación instrumental), esta es una contaminación **artificial**, aún mal cuantificada: el brillo de cada satélite depende de posición, altitud y longitud de onda de forma compleja, y la comunidad internacional (astrónomos, ingenieros, defensores del cielo oscuro) se ha movilizado para desarrollar herramientas open source de tratamiento de imagen.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Desarrollar un método de tratamiento de imagen capaz de **identificar contaminación por satélite** en observaciones astronómicas.
 - Prueba ese método en **objetos astronómicos simulados**, con contaminación controlada, evaluando aplicabilidad y eficiencia.
 - Sumando esfuerzos al movimiento internacional por soluciones open source para el problema de la contaminación luminosa orbital.
 
-## 🔧 Metodología
+## Metodología
 
  El proyecto fue planificado en 5 fases: (1) revisión sistemática del problema y de códigos ya existentes; (2) elaboración de un objeto astronómico simulado (preferencialmente una galaxia); (3) construcción de un código de análisis/tratamiento de imagen; (4) aplicación del código al objeto simulado, con contaminación luminosa controlada (simulación de rastros de satélite); (5) análisis de los resultados.
 
-## 📈 Evolución y resultados
+## Evolución y resultados
 
 | Paso | Evento | Salida |
 |---|---|---|
@@ -54,7 +54,7 @@ cssclasses:
 > [!note] Nota sobre este texto
 > Esta página combina la propuesta formal de investigación (submetida al IFF en 2023, con introducción, justificación y metodología completas) con los resultados divulgados públicamente en las premiaciones de la FEBIC 2024 y del MCTIA 2025. Detalles técnicos del algoritmo de recuperación del 99,7% todavía no han sido documentados en esta página — actualizar según el trabajo avanza para publicación.
 
-## 🔗 Referencias y correcciones
+## Referencias y correcciones
 
 - Milazzo et al. (2021) —  The Growing Digital Divide and its Negative Impacts on NASA's Future Workforce , BAAS 53, 436
 - Rawls et al. (2020) —  Satellite Constellation Internet Affordability and Need , RNAAS 4, 189

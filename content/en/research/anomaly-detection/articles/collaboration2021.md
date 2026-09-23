@@ -20,7 +20,7 @@ cssclasses:
 
  It features Gaia Early Data Release 3 (EDR3) and a clean catalog of objects at 100 ch from the Sun. Useful for local calibration and validation of samples near the Sun.
 
- [See original article](https://doi.org/10.1051/0004-6361/202039498)·[📄 Baixar PDF](/assets/articles/GaiaCollaboration2021.pdf)
+ [See original article](https://doi.org/10.1051/0004-6361/202039498)·[Baixar PDF](/assets/articles/GaiaCollaboration2021.pdf)
 
 ## Quotation
 

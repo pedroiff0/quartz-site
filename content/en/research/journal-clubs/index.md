@@ -58,7 +58,7 @@ cssclasses:
 
  ---
 
-## 🔗 References and correlations
+## References and correlations
 
 - [[en/research|Research — Overview]]
 

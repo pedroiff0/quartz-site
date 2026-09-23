@@ -46,6 +46,6 @@ interface guiada por tokens de um `DESIGN.md` versionado.
 
 **Status:** público e estável; é a base de projetos derivados.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Derivado: [[pt-br/projects/financas|Finanças App]].

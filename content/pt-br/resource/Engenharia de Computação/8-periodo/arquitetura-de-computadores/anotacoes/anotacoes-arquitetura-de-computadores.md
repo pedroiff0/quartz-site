@@ -21,5 +21,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[260423-atividades\|260423-Atividades]] | 23/04/2026 |
 | [[anotacoes-arquitetura-de-computadores\|Anotações — Arquitetura De Computadores]] | 24/08/2026 |

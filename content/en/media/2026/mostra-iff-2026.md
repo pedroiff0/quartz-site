@@ -10,19 +10,19 @@ cssclasses:
   - page-layout
 ---
 
-# 🏫 Knowledge Show - 2026
+# Knowledge Show - 2026
 
 > [!note] Summary
 > 
 
-## 🗓️ About the event
+## About the event
 
  Page dedicated to participation in **[Knowledge Show](https://eventos.iff.edu.br/mostradoconhecimento2026) iFF campus Bom Jesus do Itabapoana**, in Bom Jesus do Itabapoana - RJ, held from 21 to 26 September 2026.
 
-## 👋 My participation
+## My participation
 
 
-## 🎤 Lectures and mini-courses assisted
+## Lectures and mini-courses assisted
 
  (optional section — delete this entire section if the event did not have lecture/minicourse schedule, or if you did not attend any) 
 
@@ -31,12 +31,12 @@ cssclasses:
 > [!note] Opinion
 > Standing by!
 
-## 📎 Banner
+## Banner
 
 > [!note] Banner presented:
 > It's not done yet!
 
-## 🔗 References and correlations
+## References and correlations
 
 - [[en/research/anomaly-detection|Gaia Data Anomalies Detection]]— full search behind the poster
 - [[en/media/2025/sab-2025|SAB 2025]]— previous version of the same poster

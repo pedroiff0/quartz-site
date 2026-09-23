@@ -20,7 +20,7 @@ cssclasses:
 
  It obtains a large sample of double-line spectroscopic binary (SB2) from the GALAH combining spectra, photometry and astrometry. Important for your project: binary can appear as fake 'anomalies' and need to be treated/removed.
 
- [See original article](https://doi.org/10.1051/0004-6361/202037484)·[📄 Baixar PDF](/assets/articles/Traven2020.pdf)
+ [See original article](https://doi.org/10.1051/0004-6361/202037484)·[Baixar PDF](/assets/articles/Traven2020.pdf)
 
 ## Quotation
 

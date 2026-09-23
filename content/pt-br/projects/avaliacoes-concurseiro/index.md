@@ -35,6 +35,6 @@ Tem também aplicativo **mobile em Expo** com paridade de funcionalidades.
 
 **Stack:** Node + Express · MongoDB · Expo · LaTeX.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Tronco: [[pt-br/projects/avaliacoes|Sistema de Avaliações]].

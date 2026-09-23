@@ -11,7 +11,7 @@ cssclasses:
 > [!note] Resumen
 > Journal club de **Engenharia de Computación** del IFF Campus Bom Jesus do Itabapoana: nosotras elegimos un artículo reciente del arXiv, alguien presenta, y el resto de la conversación es discutir lo que fue leído. Esta página guarda lo que ya se ha discutido; los [[es/research/journal-clubs/engcomp/topicos|tópicos acompañados]] muestran dónde buscar el próximo.
 
-## 👥 Participe
+## Participe
 
  La organización sucede en el grupo de correo electrónico **[engcompbji](https://groups.google.com/g/engcompbji)** es por ahí que sale la llamada de cada encuentro, el artículo de la semana y quien presenta.
 
@@ -20,10 +20,10 @@ cssclasses:
 - **Mostrar** — 20 minutos bastan. El objetivo es la discusión después, no la clase.
 
 
-<a class="jc-button" href="mailto:engcompbji@googlegroups.com?subject=Sugest%C3%A3o%20de%20artigo%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulo%3A%0A%0ALink%20do%20arXiv%3A%0A%0AT%C3%B3pico%20%28ex.%3A%20cs.SE%29%3A%0A%0APor%20que%20vale%20discutir%20%28duas%20ou%20tr%C3%AAs%20linhas%29%3A%0A">✉️ Sugerir um artigo para o grupo</a>
+<a class="jc-button" href="mailto:engcompbji@googlegroups.com?subject=Sugest%C3%A3o%20de%20artigo%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulo%3A%0A%0ALink%20do%20arXiv%3A%0A%0AT%C3%B3pico%20%28ex.%3A%20cs.SE%29%3A%0A%0APor%20que%20vale%20discutir%20%28duas%20ou%20tr%C3%AAs%20linhas%29%3A%0A">Sugerir um artigo para o grupo</a>
 
 
-## 📚 Artículos ya discutidos
+## Artículos ya discutidos
 
  La tabla se genera a partir del frontmatter de las propias notas de esta carpeta — una nota nueva aparece sola en el siguiente build, sin editar esta página. Ver el [[pt-br/research/journal-clubs#padrão-de-cada-entrada|patrón de cada entrada]].
 
@@ -68,7 +68,7 @@ cssclasses:
  direction: DESC
  ````
 
-## 📣 Llamada al grupo
+## Llamada al grupo
 
  Texto listo para anunciar el próximo encuentro. Copie, rellene las dos lagunas y envíe en el grupo.
 
@@ -76,8 +76,8 @@ cssclasses:
 <div class="jc-digest">
   <pre id="jc-digest-texto">Pessoal, próximo encontro do Journal Club de Engenharia de Computação.
 
-📅 Quando: \[DIA E HORA]
-📄 Artigo: \[TÍTULO + LINK DO ARXIV]
+Quando: \[DIA E HORA]
+Artigo: \[TÍTULO + LINK DO ARXIV]
 
 Quem quiser sugerir leitura para as próximas semanas, os tópicos que acompanhamos estão aqui:
 https://www.phrandrade.com[[pt-br/research/journal-clubs/engcomp/topicos|Topicos]]
@@ -85,7 +85,7 @@ https://www.phrandrade.com[[pt-br/research/journal-clubs/engcomp/topicos|Topicos
 O histórico do que já discutimos fica em:
 https://www.phrandrade.com[[pt-br/research/journal-clubs/engcomp|Engcomp]]
 
-Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">📋 Copiar texto</button>
+Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">Copiar texto</button>
 
 </div>
 
@@ -99,8 +99,8 @@ Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">�
   btn.addEventListener("click", function () {
     navigator.clipboard.writeText(pre.textContent).then(
       function () {
-        btn.textContent = "✅ Copiado!";
-        setTimeout(function () { btn.textContent = "📋 Copiar texto"; }, 2000);
+        btn.textContent = "Copiado!";
+        setTimeout(function () { btn.textContent = "Copiar texto"; }, 2000);
       },
       function () {
         btn.textContent = "Não deu — copie manualmente";
@@ -113,7 +113,7 @@ Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">�
 
  ---
 
-## 🔗 Referencias y correcciones
+## Referencias y correcciones
 
 - [[es/research/journal-clubs/engcomp/topicos|Temas y dónde buscar]]— las categorías del arXiv que el club acompaña.
 - [[es/research/journal-clubs/engcomp/dashboard|Dashboard del club]]— actividad por mes, tópico y presentador.

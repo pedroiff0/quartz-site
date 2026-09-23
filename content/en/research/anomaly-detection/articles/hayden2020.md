@@ -20,7 +20,7 @@ cssclasses:
 
  It presents the chemodynamic structure of the solar vicinity with 62,814 stars (GALAH + Gaia DR2). It shows that the velocity dispersion varies smoothly with \[Fe/H] and \[α/Fe], and discusses migration (churning vs bluffing) — connecting directly to the theme of stellar origin/movement of your project.
 
- [See original article](https://doi.org/10.1093/mnras/staa335)·[📄 Baixar PDF](/assets/articles/Hayden2020.pdf)
+ [See original article](https://doi.org/10.1093/mnras/staa335)·[Baixar PDF](/assets/articles/Hayden2020.pdf)
 
 ## Quotation
 

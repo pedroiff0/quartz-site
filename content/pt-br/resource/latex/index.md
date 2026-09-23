@@ -19,19 +19,19 @@ Esta plataforma centraliza o referencial teórico-metodológico e a arquitetura 
 
 ---
 
-## 🎓 Articulação Curricular na Engenharia de Computação
+## Articulação Curricular na Engenharia de Computação
 
 A formação em **LaTeX & Escrita Acadêmica** integra-se transversalmente à matriz curricular do curso de **Bacharelado em Engenharia de Computação** do IFF — Campus Bom Jesus do Itabapoana, fornecendo a instrumentação técnica, a automação tipográfica e a fundamentação epistêmica indispensáveis para a elaboração de trabalhos acadêmicos de alta complexidade:
 
-- ✍️ **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/expressao-oral-e-escrita|Expressão Oral e Escrita (1º Período)]]** — *Desenvolvimento da comunicação científica, sobriedade vocabular, coesão textual e estrutura argumentativa.*
-- 📊 **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/engenharia-de-software|Gestão de Projetos e Engenharia de Software (5º Período)]]** — *Planejamento, matrizes de análise, gerenciamento de requisitos e especificação formal de sistemas.*
-- 🔬 **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/metodologia-cientifica-e-tecnologica|Metodologia Científica e Tecnológica (8º Período)]]** — *Problematização, formulação de hipóteses, revisão sistemática da literatura (PRISMA 2020) e conformidade ABNT NBR 14724.*
-- 🚀 **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/projeto-final-de-curso-i|Projeto Final de Curso I — PFC 1 (9º Período)]]** — *Elaboração da proposta de monografia, elementos pré-textuais, referencial teórico e projeto de pesquisa na classe `ifftese.cls`.*
-- 🏆 **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/10-periodo/projeto-final-de-curso-ii|Projeto Final de Curso II — PFC 2 (10º Período)]]** — *Defesa final, consolidação do trabalho de conclusão de curso (TCC), apresentações com `slidesiffmodelo.cls` e depósito na biblioteca.*
+- **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/expressao-oral-e-escrita|Expressão Oral e Escrita (1º Período)]]** — *Desenvolvimento da comunicação científica, sobriedade vocabular, coesão textual e estrutura argumentativa.*
+- **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/engenharia-de-software|Gestão de Projetos e Engenharia de Software (5º Período)]]** — *Planejamento, matrizes de análise, gerenciamento de requisitos e especificação formal de sistemas.*
+- **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/metodologia-cientifica-e-tecnologica|Metodologia Científica e Tecnológica (8º Período)]]** — *Problematização, formulação de hipóteses, revisão sistemática da literatura (PRISMA 2020) e conformidade ABNT NBR 14724.*
+- **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/projeto-final-de-curso-i|Projeto Final de Curso I — PFC 1 (9º Período)]]** — *Elaboração da proposta de monografia, elementos pré-textuais, referencial teórico e projeto de pesquisa na classe `ifftese.cls`.*
+- **[[pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/10-periodo/projeto-final-de-curso-ii|Projeto Final de Curso II — PFC 2 (10º Período)]]** — *Defesa final, consolidação do trabalho de conclusão de curso (TCC), apresentações com `slidesiffmodelo.cls` e depósito na biblioteca.*
 
 ---
 
-## 🎨 Carrossel de Aulas (Acesso Rápido Interativo)
+## Carrossel de Aulas (Acesso Rápido Interativo)
 
 Navegue diretamente pelas notas de aula e apresentações através do carrossel interativo:
 
@@ -325,50 +325,50 @@ Navegue diretamente pelas notas de aula e apresentações através do carrossel 
 
 ---
 
-## 📚 Material Suplementar e Documentos Oficiais
+## Material Suplementar e Documentos Oficiais
 
 > [!note] Guia Rápido e Documentos Institucionais
-> - **[[pt-br/resource/latex/planejamento-e-cronograma|📅 Planejamento Letivo e Cronograma de Atividades]]** — *Planejamento analítico das 20 aulas, divisão em 5 módulos didáticos, matriz de competências e referencial normativo ABNT.*
-> - **[[pt-br/resource/latex/codigo-de-conduta-e-diretrizes|📜 Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas]]** — *Código de ética científica, política institucional de integridade contra plágio/autoplágio, regimento de uso de IA (LLMs) e boas práticas de laboratório.*
-> - **[[pt-br/resource/latex/modelos-de-documento|🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX]]** — *Referência técnica unificada com documentação canônica das classes `ifftese.cls`, `iffposter.cls`, `relatoriocorp.cls` e pacotes `metadados.sty` e `macros.sty`.*
+> - **[[pt-br/resource/latex/planejamento-e-cronograma|Planejamento Letivo e Cronograma de Atividades]]** — *Planejamento analítico das 20 aulas, divisão em 5 módulos didáticos, matriz de competências e referencial normativo ABNT.*
+> - **[[pt-br/resource/latex/codigo-de-conduta-e-diretrizes|Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas]]** — *Código de ética científica, política institucional de integridade contra plágio/autoplágio, regimento de uso de IA (LLMs) e boas práticas de laboratório.*
+> - **[[pt-br/resource/latex/modelos-de-documento|Guia Oficial de Modelos, Classes e Pacotes ReLaTeX]]** — *Referência técnica unificada com documentação canônica das classes `ifftese.cls`, `iffposter.cls`, `relatoriocorp.cls` e pacotes `metadados.sty` e `macros.sty`.*
 
 ---
 
-## 📖 Biblioteca Digital de Manuais, Apostilas e Modelos (.pdf & .zip)
+## Biblioteca Digital de Manuais, Apostilas e Modelos (.pdf & .zip)
 
-> [!note] 📅 Documentos Oficiais da Disciplina
-> - 📅 **[Cronograma e Ementa Analítica da Formação (PDF)](/assets/biblioteca/latex-escrita/documentos/cronograma-e-ementa.pdf)** — *Documento em PDF com o detalhamento das 80h de curso.*
-> - 📜 **[Guia Institucional de Diretrizes e Integridade (PDF)](/assets/biblioteca/latex-escrita/documentos/guia-e-diretrizes.pdf)** — *Normativo ético e conduta discente em laboratório.*
+> [!note] Documentos Oficiais da Disciplina
+> - **[Cronograma e Ementa Analítica da Formação (PDF)](/assets/biblioteca/latex-escrita/documentos/cronograma-e-ementa.pdf)** — *Documento em PDF com o detalhamento das 80h de curso.*
+> - **[Guia Institucional de Diretrizes e Integridade (PDF)](/assets/biblioteca/latex-escrita/documentos/guia-e-diretrizes.pdf)** — *Normativo ético e conduta discente em laboratório.*
 
-> [!info] 📑 Manuais, Apostilas e Guias de Normalização (PDF)
-> - 📘 **[Apostila Completa de LaTeX — UFES (PDF)](/assets/biblioteca/latex-escrita/apostila-latex-ufes.pdf)** — *Guia prático e abrangente de introdução, ambientes e tópicos avançados em LaTeX.*
-> - 📕 **[Manual Oficial do Pacote biblatex-abnt (PDF)](/assets/biblioteca/latex-escrita/biblatex-abnt-manual.pdf)** — *Documentação canônica para gestão de citações e referências bibliográficas ABNT no Biber.*
-> - 📄 **[Guia Rápido / Cheatsheet BibLaTeX (PDF)](/assets/biblioteca/latex-escrita/biblatex-cheatsheet.pdf)** — *Folha de consulta rápida para tipos de entrada e comandos de citação.*
-> - 🎨 **[Figuras e Diagramas Vetoriais em TikZ — UFPB (PDF)](/assets/biblioteca/latex-escrita/figuras-diagramas-tikz-ufpb.pdf)** — *Manual de construção gráfica de esquemas, circuitos e diagramas vetoriais programáveis.*
-> - 📑 **[Guia Ilustrado de Normalização ABNT — PUC Minas (PDF)](/assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf)** — *Manual prático e exemplificado de formatação de trabalhos acadêmicos.*
-> - 📙 **[Manual Complementar de Normalização — UNIP (PDF)](/assets/biblioteca/latex-escrita/guia-abnt-unip.pdf)** — *Diretrizes complementares de elementos pré-textuais, citações e referências.*
+> [!info] Manuais, Apostilas e Guias de Normalização (PDF)
+> - **[Apostila Completa de LaTeX — UFES (PDF)](/assets/biblioteca/latex-escrita/apostila-latex-ufes.pdf)** — *Guia prático e abrangente de introdução, ambientes e tópicos avançados em LaTeX.*
+> - **[Manual Oficial do Pacote biblatex-abnt (PDF)](/assets/biblioteca/latex-escrita/biblatex-abnt-manual.pdf)** — *Documentação canônica para gestão de citações e referências bibliográficas ABNT no Biber.*
+> - **[Guia Rápido / Cheatsheet BibLaTeX (PDF)](/assets/biblioteca/latex-escrita/biblatex-cheatsheet.pdf)** — *Folha de consulta rápida para tipos de entrada e comandos de citação.*
+> - **[Figuras e Diagramas Vetoriais em TikZ — UFPB (PDF)](/assets/biblioteca/latex-escrita/figuras-diagramas-tikz-ufpb.pdf)** — *Manual de construção gráfica de esquemas, circuitos e diagramas vetoriais programáveis.*
+> - **[Guia Ilustrado de Normalização ABNT — PUC Minas (PDF)](/assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf)** — *Manual prático e exemplificado de formatação de trabalhos acadêmicos.*
+> - **[Manual Complementar de Normalização — UNIP (PDF)](/assets/biblioteca/latex-escrita/guia-abnt-unip.pdf)** — *Diretrizes complementares de elementos pré-textuais, citações e referências.*
 
-> [!tip] 📦 Modelos de Código-Fonte e Templates Institucionais (.zip)
-> - 📦 **[Modelo de TCC e Monografia — ifftese.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — *Pacote zip com classe, preâmbulo, metadados e estrutura completa para TCC.*
-> - 📦 **[Modelo de Pôster / Banner A0 — iffposter.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-iffposter-banner.zip)** — *Pacote zip para confecção de banners e pôsteres acadêmicos.*
-> - 📦 **[Modelo de Slides Institucionais — slidesiffmodelo.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-slide-iffbji.zip)** — *Template zip 16:9 em Branco e Preto para apresentações de TCC.*
+> [!tip] Modelos de Código-Fonte e Templates Institucionais (.zip)
+> - **[Modelo de TCC e Monografia — ifftese.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — *Pacote zip com classe, preâmbulo, metadados e estrutura completa para TCC.*
+> - **[Modelo de Pôster / Banner A0 — iffposter.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-iffposter-banner.zip)** — *Pacote zip para confecção de banners e pôsteres acadêmicos.*
+> - **[Modelo de Slides Institucionais — slidesiffmodelo.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-slide-iffbji.zip)** — *Template zip 16:9 em Branco e Preto para apresentações de TCC.*
 
 ---
 
-## 📊 Sistema Resumido de Avaliação e Cronograma
+## Sistema Resumido de Avaliação e Cronograma
 
 > [!tip] Distribuição de Pesos nos Bimestres
-> - **📅 Período Letivo:** 24/08/2026 a 20/12/2026 | **⏰ Terças-feiras, 14h30 - 17h30** (IFF — Campus Bom Jesus do Itabapoana)
-> - **🔹 1º Bimestre (Metodologia e Normalização ABNT — Aulas 01 a 10):**  
+> - **Período Letivo:** 24/08/2026 a 20/12/2026 | **Terças-feiras, 14h30 - 17h30** (IFF — Campus Bom Jesus do Itabapoana)
+> - **1º Bimestre (Metodologia e Normalização ABNT — Aulas 01 a 10):**  
 >   - **60%** — Trabalho Prático de Escrita (Lacuna de Pesquisa, PRISMA 2020 e Estrutura ABNT NBR 14724).  
 >   - **40%** — Avaliação Prática em Laboratório (Citações NBR 10520:2023, Referências NBR 6023 e Tabelas IBGE 1993).
-> - **🔹 2º Bimestre (Engenharia TeX e Automação ReLaTeX — Aulas 11 a 20):**  
+> - **2º Bimestre (Engenharia TeX e Automação ReLaTeX — Aulas 11 a 20):**  
 >   - **80%** — Projeto Customizado em LaTeX (Monografia/Projeto em `ifftese.cls`, macros `.sty`, `booktabs` e `TikZ`).  
 >   - **20%** — Avaliação Prática em Laboratório (Resolução de erros de compilação e gestão bibliográfica com Biber).
 
 ---
 
-## 🗺️ Tabela de Aulas
+## Tabela de Aulas
 
 
 
@@ -401,10 +401,10 @@ views:
 
 ---
 
-## 🏛️ Material de Referência Externa e Normalização Mundial
+## Material de Referência Externa e Normalização Mundial
 
 > [!important] Fontes Canônicas e Portais Oficiais
-> ### 🌐 Normalização, Repositórios TeX e Comunidade Científica
+> ### Normalização, Repositórios TeX e Comunidade Científica
 > - **[ABNT — Associação Brasileira de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de consulta às normas ABNT NBR 14724, NBR 10520 e NBR 6023.*
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *O repositório mundial canônico de pacotes, documentações e classes LaTeX2e/LaTeX3.*
 > - **[Overleaf Documentation & TeX Live Guide](https://www.overleaf.com/learn)** — *Guias interativos, documentação de pacotes e tutoriais da linguagem LaTeX.*
@@ -414,7 +414,7 @@ views:
 > - **[PRISMA 2020 Statement](http://www.prisma-statement.org/)** — *Diretrizes internacionais e fluxogramas recomendados para revisões sistemáticas da literatura.*
 > - **[IBGE — Normas de Apresentação Tabular (1993)](https://biblioteca.ibge.gov.br/)** — *Manual técnico oficial para elaboração e padronização de tabelas estatísticas brasileiras.*
 
-## 🎓 Aulas — LaTeX e Escrita Cientifica
+## Aulas — LaTeX e Escrita Cientifica
 
 - [[pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses|Aula 01: Epistemologia, Problematização e Hipóteses]]
 - [[pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa|Aula 02: Objetivos, Taxonomia de Bloom e Justificativa]]

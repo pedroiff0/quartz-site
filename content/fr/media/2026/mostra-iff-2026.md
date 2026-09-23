@@ -10,19 +10,19 @@ cssclasses:
   - page-layout
 ---
 
-# 🏫 Montre les connaissances - 2026
+# Montre les connaissances - 2026
 
 > [!note] Résumé
 > 
 
-## 🗓️ A propos de l'événement
+## A propos de l'événement
 
  Page dédiée à la participation à **[Échantillon de connaissances](https://eventos.iff.edu.br/mostradoconhecimento2026) de l'IFM, campus Bom Jesus do Itabapoana* *, à Bom Jesus do Itabapoana - RJ, tenue du 21 au 26 septembre 2026.
 
-## 👋 Ma participation
+## Ma participation
 
 
-## 🎤 Conférences et participation
+## Conférences et participation
 
  (section optionnelle - éteignez toute cette section si l'événement n'a pas eu de programmation de conférence ou de mini-conférence, ou si vous n'en avez pas vu)
 
@@ -31,12 +31,12 @@ cssclasses:
 > [!note] Avis
 > Attendez !
 
-## 📎 Bannière
+## Bannière
 
 > [!note] Bannière présentée:
 > Ça n'a pas encore été fait !
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - [[fr/research/anomaly-detection|Détection d'anomalies dans les données de Gaia]]- enquête complète derrière l'affiche
 - [[fr/media/2025/sab-2025|SAB 2025]]- version précédente de la même affiche

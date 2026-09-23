@@ -20,7 +20,7 @@ cssclasses:
 
  GALAH fourth release (DR4): 917.588 stars with up to 32 elements (including nitrogen and rare earth elements), using neural networks to adjust parameters and abundances. It is the most recent and vast source of chemical data for your project.
 
- [See original article](https://doi.org/10.1017/pasa.2025.26)·[📄 Baixar PDF](/assets/articles/Buder2025.pdf)
+ [See original article](https://doi.org/10.1017/pasa.2025.26)·[Baixar PDF](/assets/articles/Buder2025.pdf)
 
 ## Quotation
 

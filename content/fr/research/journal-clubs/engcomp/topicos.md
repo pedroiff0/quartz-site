@@ -17,35 +17,35 @@ cssclasses:
  Chaque catégorie ci-dessous conduit à la "/ récente 'liste des articles arXiv - soumis dans les derniers jours, toujours mis à jour dans la source. Il n'y a pas de copie de cette liste ici: l'arXiv est la source, et elle change toute journée utile (la semaine ivoire n'a pas de nouvelle soumission).
 
 
-<a class="jc-button" href="mailto:engcompbji@googlegroups.com?subject=Sugest%C3%A3o%20de%20artigo%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulo%3A%0A%0ALink%20do%20arXiv%3A%0A%0AT%C3%B3pico%20%28ex.%3A%20cs.SE%29%3A%0A%0APor%20que%20vale%20discutir%20%28duas%20ou%20tr%C3%AAs%20linhas%29%3A%0A">✉️ Sugerir um artigo para o grupo</a>
+<a class="jc-button" href="mailto:engcompbji@googlegroups.com?subject=Sugest%C3%A3o%20de%20artigo%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulo%3A%0A%0ALink%20do%20arXiv%3A%0A%0AT%C3%B3pico%20%28ex.%3A%20cs.SE%29%3A%0A%0APor%20que%20vale%20discutir%20%28duas%20ou%20tr%C3%AAs%20linhas%29%3A%0A">Sugerir um artigo para o grupo</a>
 
 
-## 🔒 Sécurité
+## Sécurité
 
 - [cs.CR - Cryptographie et sécurité](https://arxiv.org/list/cs.CR/recent)- cryptographie, protocoles, vulnérabilités, confidentialité, sécurité des systèmes et des réseaux. C'est la catégorie la plus proche de ce que l'on voit dans les disciplines de la sécurité de l'information.
 
-## 🧱 Logiciels et génie de Linguagens
+## Logiciels et génie de Linguagens
 
 - [cs.SE - Génie logiciel](https://arxiv.org/list/cs.SE/recent)- essais, maintenance, dette technique, exploitation minière de dépôt, études empiriques avec les développeurs. Très article ici est lisible sans mathématiques lourdes, bon point de départ pour ceux qui n'ont jamais lu le papier.
 - [cs.PL - Langues de programmation](https://arxiv.org/list/cs.PL/recent)- sémantique, systèmes de type, compilateurs, vérification. Plus formel que cs.SE, et le complément naturel de la discipline Compilateurs.
 
-## 🧮 Algorithmes et théorie
+## Algorithmes et théorie
 
 - [cs.DS - Structures de données et algorithmes](https://arxiv.org/list/cs.DS/recent)- projet et analyse d'algorithmes, structures de données, complexité appliquée. Maison directe avec structure de données et analyse de projets et d'algorithmes.
 
-## 🤖 Intelligence artificielle
+## Intelligence artificielle
 
 - [cs.AI - Intelligence artificielle](https://arxiv.org/list/cs.AI/recent)- catégorie parapluie: agents, planification, raisonnement, applications.
 - [cs.LG - Apprentissage automatique](https://arxiv.org/list/cs.LG/recent)- la majeure partie du volume d'apprentissage automatique. Volume quotidien élevé; il vaut la peine de filtrer par titre avant d'ouvrir.
 - [cs.CL - Calcul et langage](https://arxiv.org/list/cs.CL/recent)- traitement du langage naturel et des modèles de langage.
 
-## 🖧 Systèmes et réseaux
+## Systèmes et réseaux
 
 - [cs.DC - Informatique distribuée, parallèle et en grappe](https://arxiv.org/list/cs.DC/recent)- calcul distribué et parallèle, consensus, tolérance à la défaillance, HPC.
 - [cs.OS - Systèmes d'exploitation](https://arxiv.org/list/cs.OS/recent)- Scalage, mémoire, noyau, virtualisation. Petite catégorie, elle donne pour balayer toute la liste.
 - [cs.NI - Réseautage et architecture Internet](https://arxiv.org/list/cs.NI/recent)- protocoles, architecture réseau, mesure du trafic.
 
-## 🔌 Matériel et signes
+## Matériel et signes
 
 - [cs.AR - Architecture matérielle](https://arxiv.org/list/cs.AR/recent)- architecture de traitement, accélérateurs, matériel de co-projet / logiciel.
 - [eess.SP - Traitement des signaux](https://arxiv.org/list/eess.SP/recent)- le traitement des signaux, le côté électrique du cours.
@@ -65,7 +65,7 @@ cssclasses:
 
  ---
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - [[fr/research/journal-clubs/engcomp|ENGCOMP - articles déjà discutés]]
 - [[fr/research/journal-clubs/engcomp/dashboard|Tableau de bord du club]]

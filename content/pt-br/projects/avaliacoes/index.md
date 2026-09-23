@@ -36,7 +36,7 @@ nos forks.
 
 **Stack:** Node + Express · MongoDB · EJS · LaTeX.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Fork colaborativo: [[pt-br/projects/avaliacoes-professores|Avaliações Professores]].
 - Fork para concursos: [[pt-br/projects/avaliacoes-concurseiro|Avaliações Concurseiro]].

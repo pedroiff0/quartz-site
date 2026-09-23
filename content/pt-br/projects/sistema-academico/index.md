@@ -41,6 +41,6 @@ Docker Compose + systemd.
 
 **Status:** em uso, com CI no repositório.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Sucede o [[pt-br/projects/academicoweb|AcademicoWeb (arquivado)]].

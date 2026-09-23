@@ -20,7 +20,7 @@ cssclasses:
 
  Uses unsupervised machine learning approach (self-encoder for anomaly detection + t-SNE) in S-PLUS photometric data to select ~19,000 candidates whose SED is not well reconstructed, identifying rare stellar populations (69 carbon-rich stars). Practical example of self-encoding for anomalies — straight to your method.
 
- [See original article](https://doi.org/10.3847/1538-3881/adcf26)·[📄 Baixar PDF](/assets/articles/QuispeHuaynasi2025.pdf)
+ [See original article](https://doi.org/10.3847/1538-3881/adcf26)·[Baixar PDF](/assets/articles/QuispeHuaynasi2025.pdf)
 
 ## Quotation
 

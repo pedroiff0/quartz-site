@@ -19,7 +19,7 @@ cssclasses:
 
  ---
 
-## 🔗 Referencias y correcciones
+## Referencias y correcciones
 
 - [[es/research/journal-clubs/engcomp|ENGCOMP — artículos ya discutidos]]
 - [[es/research/journal-clubs/engcomp/topicos|Temas y dónde buscar]]

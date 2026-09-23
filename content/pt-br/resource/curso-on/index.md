@@ -104,7 +104,7 @@ cssclasses:
   </a>
 </div>
 
-## 📚 Sobre a disciplina
+## Sobre a disciplina
 
 Curso de pós-graduação do Observatório Nacional (ON), com pré-requisito de Evolução Estelar. Percorre, ao longo de um semestre, desde o conceito de população estelar simples até a dinâmica e evolução química completa da Via Láctea (ementa em 8 unidades). As Aulas 01-08 cobrem a Unidade 1 (Estrutura da Galáxia) e a Unidade 2 (Parâmetros Observacionais) por completo — a base observacional (magnitudes, distâncias, cinemática, extinção) sobre a qual o restante do curso se apoia. As Aulas 09-22 cobrem a Unidade 3 em diante — dinâmica estelar/orbital, nucleossíntese e evolução química, a cronologia completa de formação da Via Láctea (proto-disco, spin-up, o merger Gaia-Sausage-Enceladus, o bojo/barra) e, por fim, evolução química em galáxias satélites, até o limite extremo das anãs ultrafracas.
 
@@ -152,7 +152,7 @@ Curso de pós-graduação do Observatório Nacional (ON), com pré-requisito de 
 > **Professor:** Hélio Dotto Perottoni (Observatório Nacional). Agradecimentos do próprio material do curso a Prof. Dr. Helio Jacques Rocha-Pinto, Dr. Guilherme Limberg e notas do Prof. Dr. Steve Majewski.
 
 
-## 🗺️ Aulas do Curso
+## Aulas do Curso
 
 ```base
 filters:
@@ -177,7 +177,7 @@ views:
         direction: ASC
 ```
 
-## 🎓 Aulas — Curso ON
+## Aulas — Curso ON
 
 - [[pt-br/resource/curso-on/aula-01-conceito-e-historico|Aula 01 — Conceito e Histórico]]
 - [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares]]

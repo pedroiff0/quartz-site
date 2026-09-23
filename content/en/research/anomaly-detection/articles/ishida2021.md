@@ -20,7 +20,7 @@ cssclasses:
 
  It presents the first evidence that adaptive learning techniques (active learning) increase the discovery of unusual objects in astronomy. It is RIGHT to the theme of your project: detect atypical stars (anomalies) efficiently.
 
- [See original article](https://doi.org/10.1051/0004-6361/202037709)·[📄 Baixar PDF](/assets/articles/Ishida2021.pdf)
+ [See original article](https://doi.org/10.1051/0004-6361/202037709)·[Baixar PDF](/assets/articles/Ishida2021.pdf)
 
 ## Quotation
 

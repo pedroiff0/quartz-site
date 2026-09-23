@@ -37,6 +37,6 @@ pré-commit garante que o gerado nunca fique defasado em relação à fonte.
 
 **Status:** público, publicado no GitHub Pages.
 
-## 🔗 Referências e correlatos
+## Referências e correlatos
 
 - Contraparte completa: este site.

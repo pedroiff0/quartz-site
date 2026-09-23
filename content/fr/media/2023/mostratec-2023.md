@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 🌎 MOSTRATEC 2023
+# MOSTRATEC 2023
 
 > [!note] Résumé
 > La plus grande et la plus traditionnelle foire scientifique en Amérique latine, à New Hamburg (RS) - J'ai présenté « Comprendre la matière noire par les chocs extragalactiques », avec le financement de CNPq.
 
-## 🗓️ A propos de l'événement
+## A propos de l'événement
 
  Une page dédiée à la participation au **MOSTRATEC International Science and Technology Show (MOSTRATEC)**, à New Hamburg (RS), du 23 au 27 octobre 2023, la plus grande et la plus traditionnelle foire scientifique en Amérique latine, avec plus de 800 projets de 15 pays.
 
@@ -24,13 +24,13 @@ cssclasses:
 > [!note] Avis
 > C'était ma deuxième grande foire scientifique en moins d'un an ! Après que FEDACE I a pris un certain temps pour absorber pleinement les enseignements et le changement de perspectives que j'ai obtenu, et puis (uns 7 mois plus tard) est venu à MOSTRATEC. Cette fois j'étais accompagné d'amis, et l'expérience encore mieux! J'ai rencontré des gens d'autres pays, ce qui était très intéressant de voir ce que la science est aussi en dehors du Brésil, les échanges culturels étaient extrêmement importants. En outre, nous connaissons également Gramado, qui est une ville très agréable et accueillante, grâce à l'organisation de la Foire! Bien que nous n'ayons gagné aucun prix, l'expérience valait certainement beaucoup!
 
-## 📎 Bannière
+## Bannière
 
 > [!note] Bannières soumises:
 > Laterais:![[assets/banners/BannerMostratecL23.pdf]]
 > Centre:![[assets/banners/BannerMostratecC23.pdf]]
 
-## 🔗 Références et corrections
+## Références et corrections
 
 - Source:[IFF - Etudiants IFF Eh bien Jésus participe à la plus grande et plus traditionnelle foire scientifique en Amérique latine](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/alunos-do-iff-bom-jesus-participam-da-maior-e-mais-tradicional-feira-de-ciencias-da-america-latina)
 - [[fr/research/dark-matter-shocks|Comprendre la matière noire des chocs extragalactiques]]- page de recherche complète de ce projet

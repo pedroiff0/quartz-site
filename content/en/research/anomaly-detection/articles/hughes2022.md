@@ -20,7 +20,7 @@ cssclasses:
 
  It uses ~600,000 GALAH high-resolution spectra + machine learning algorithm to find 54 candidates for extremely poor metal stars (EMP, \[Fe/H]<-3.0). It shows that ML in large spectroscopic surveys is powerful for discovery — straight to the theme of rare anomalies/detection.
 
- [See original article](https://doi.org/10.3847/1538-4357/ac5fa7)·[📄 Baixar PDF](/assets/articles/Hughes2022.pdf)
+ [See original article](https://doi.org/10.3847/1538-4357/ac5fa7)·[Baixar PDF](/assets/articles/Hughes2022.pdf)
 
 ## Quotation
 

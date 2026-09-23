@@ -10,12 +10,12 @@ cssclasses:
   - page-layout
 ---
 
-# 🔬 FEBRACE 2023
+# FEBRACE 2023
 
 > [!note] Summary
 > First participation of Bom Jesus do Itabapoana campus in FEBrace, Brazil's largest science and engineering fair — a project on dark matter selected from 200 finalists of more than 3,200 subscribers.
 
-## 🗓️ About the event
+## About the event
 
  Page dedicated to participation in the 21st Brazilian Science and Engineering Fair (FEBRACE)**, in São Paulo, on March 20, 2023 – Brazil's largest science and engineering fair.
 
@@ -24,12 +24,12 @@ cssclasses:
 > [!note] Opinion
 > Participating in this fair was magical. My first time presenting a job away, and also my first time traveling away. I was slightly lost, in a mix of emotions that I didn't even know how to begin to explain, but I went there, introduced 1, 10, 100 times to everyone who passed, and it was very interesting to see how different it was to each person, whether in understanding the work, or in my own explanation. I didn’t know yet, but this would be something very interesting in the following years, attending other fairs, and conventions. This particular fair opened doors to me, made some friends (Mariana and Gabriel), and made me improve and much my way of viewing works. Needless to say, you also convinced me, in a very easy way, to stay in the academic field. It became impressive to do research, and a viable world where I fit in!
 
-## 📎 Banner
+## Banner
 
 > [!note] Banner presented:
 > ![[assets/banners/BannerFEBRACE23.pdf]]
 
-## 🔗 References and correlations
+## References and correlations
 
 - Source:[IFF — IFF project Good Jesus is finalist at Brazil’s largest science and engineering fair](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-finalista-na-maior-feira-de-ciencias-e-engenharia-do-brasil)
 - [[en/research/dark-matter-shocks|Understanding Matter Dark from Extragalactic Shocks]]— full search page of this project

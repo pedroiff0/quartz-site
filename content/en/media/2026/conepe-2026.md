@@ -10,28 +10,28 @@ cssclasses:
   - page-layout
 ---
 
-# 🔬 CONEPE - 2026
+# CONEPE - 2026
 
 > [!note] Summary
 > The Congress of Education Research and Extension (CONEPE) takes place every year, usually in September, and promotes science within the context of the interior of the state of Rio de Janeiro, with the various campuses of the IFF, and UENF.
 
-## 🗓️ About the event
+## About the event
 
  Page dedicated to participation in **[Teaching Congress Research and Extension](https://conepe.guarus.iff.edu.br) IFF *Campus* Guarus**, in Campos Guarus - RJ, held from 21 to 23 September 2026.
 
-## 👋 My participation
+## My participation
 
  I presented my research work in an oral presentation session, and watched other oral presentations and banners.
 
 > [!note] Opinion
 > It was legal to present orally the work I developed for the Institute, as a way of encouraging research using professional tools, such as LaTeX.
 
-## 📎 Slides
+## Slides
 
 > [!note] Slides/Banner:
 > ReLaTEX: The LaTeX class of the Fluminense Federal Institute
 
-## 🔗 References and correlations
+## References and correlations
 
 - [[en/research/relatex|ReLaTeX]]— full search behind the poster
 

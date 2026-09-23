@@ -106,8 +106,8 @@ export default (() => {
             return resource
           }
         })}
-        <script src="./static/three.module.js"></script>
-        <script type="module" src="./static/three-init.js" defer></script>
+        <script src={joinSegments(baseDir, "static/three.module.js")}></script>
+        <script type="module" src={joinSegments(baseDir, "static/three-init.js")} defer></script>
       </head>
     )
   }

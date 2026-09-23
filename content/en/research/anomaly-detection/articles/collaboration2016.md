@@ -20,7 +20,7 @@ cssclasses:
 
  It describes the Gaia mission (ESA): astrometry of billions of stars with position, parallax and self-movement. It is the source of the kinematic coordinates (guide, vertical action) used in your project.
 
- [See original article](https://doi.org/10.1051/0004-6361/201629272)·[📄 Baixar PDF](/assets/articles/Collaboration2016.pdf)
+ [See original article](https://doi.org/10.1051/0004-6361/201629272)·[Baixar PDF](/assets/articles/Collaboration2016.pdf)
 
 ## Quotation
 
