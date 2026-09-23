@@ -2,7 +2,7 @@
 publish: false
 title: Cálculo II
 created: 2026-08-24 12:00
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 tags:
 - disciplina
 - engenharia-de-computacao

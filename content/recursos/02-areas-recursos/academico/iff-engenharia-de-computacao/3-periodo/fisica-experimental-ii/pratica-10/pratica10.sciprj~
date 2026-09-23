@@ -1,0 +1,281 @@
+SciDAVis 2.2.7 project file
+<scripting-lang>	muParser
+<windows>	6
+<table>
+5999
+<table creation_time="2025-15-07 08:50:46:000" caption_spec="%n%C{ - }%c" name="Table1" columns="4" rows="11"><comment><![CDATA[]]></comment><column creation_time="2025-15-07 08:50:46:241" caption_spec="%n%C{ - }%c" name="Tempo (s)" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 08:50:46:242" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 08:50:46:242" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">4.0000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">6.0000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">8.0000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">1.0000000000000000e+02</row><row type="TypeDouble" index="6" invalid="no">1.2000000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">1.4000000000000000e+02</row><row type="TypeDouble" index="8" invalid="no">1.6000000000000000e+02</row><row type="TypeDouble" index="9" invalid="no">1.8000000000000000e+02</row></column><column creation_time="2025-15-07 11:18:47:204" caption_spec="%n%C{ - }%c" name="Alongamento Inicial (mm)" type="TypeDouble" mode="Numeric" plot_designation="noDesignation"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:18:47:204" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:18:47:204" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.1300000000000000e+02</row><row type="TypeDouble" index="1" invalid="no">2.1300000000000000e+02</row><row type="TypeDouble" index="2" invalid="no">2.1300000000000000e+02</row><row type="TypeDouble" index="3" invalid="no">2.1300000000000000e+02</row><row type="TypeDouble" index="4" invalid="no">2.1300000000000000e+02</row><row type="TypeDouble" index="5" invalid="no">2.1300000000000000e+02</row><row type="TypeDouble" index="6" invalid="no">2.1300000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">2.1300000000000000e+02</row><row type="TypeDouble" index="8" invalid="no">2.1300000000000000e+02</row><row type="TypeDouble" index="9" invalid="no">2.1300000000000000e+02</row></column><column creation_time="2025-15-07 11:20:25:633" caption_spec="%n%C{ - }%c" name="Alongamento Final (mm)" type="TypeDouble" mode="Numeric" plot_designation="noDesignation"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:20:25:633" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:20:25:633" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.1300000000000000e+02</row><row type="TypeDouble" index="1" invalid="no">2.1400000000000000e+02</row><row type="TypeDouble" index="2" invalid="no">2.1600000000000000e+02</row><row type="TypeDouble" index="3" invalid="no">2.1800000000000000e+02</row><row type="TypeDouble" index="4" invalid="no">2.1900000000000000e+02</row><row type="TypeDouble" index="5" invalid="no">2.1950000000000000e+02</row><row type="TypeDouble" index="6" invalid="no">2.1980000000000001e+02</row><row type="TypeDouble" index="7" invalid="no">2.2000000000000000e+02</row><row type="TypeDouble" index="8" invalid="no">2.2000000000000000e+02</row><row type="TypeDouble" index="9" invalid="no">2.2000000000000000e+02</row></column><column creation_time="2025-15-07 08:50:46:243" caption_spec="%n%C{ - }%c" name="Alongamento (m)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 08:50:46:243" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 08:50:46:243" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="9">(col(&quot;Alongamento Final (mm)&quot;)-col(&quot;Alongamento Inicial (mm)&quot;))</formula><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">6.5000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">6.8000000000000114e+00</row><row type="TypeDouble" index="7" invalid="no">7.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">7.0000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">7.0000000000000000e+00</row></column><column_width column="0">103</column_width><column_width column="1">151</column_width><column_width column="2">151</column_width><column_width column="3">634</column_width></table>
+geometry	0	0	812	369	
+
+</table>
+<table>
+12387
+<table creation_time="2025-15-07 11:19:14:000" caption_spec="%n%C{ - }%c" name="Table2" columns="7" rows="23"><comment><![CDATA[]]></comment><column creation_time="2025-15-07 11:19:14:219" caption_spec="%n%C{ - }%c" name="Massa (g)" type="TypeDouble" mode="Numeric" plot_designation="noDesignation"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:19:14:219" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:19:14:219" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">6.1000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">1.1340000000000001e+02</row><row type="TypeDouble" index="3" invalid="no">1.6569999999999999e+02</row><row type="TypeDouble" index="4" invalid="no">2.2750000000000000e+02</row><row type="TypeDouble" index="5" invalid="no">2.7880000000000001e+02</row><row type="TypeDouble" index="6" invalid="no">3.3019999999999999e+02</row><row type="TypeDouble" index="7" invalid="no">3.9160000000000002e+02</row><row type="TypeDouble" index="8" invalid="no">4.4280000000000001e+02</row><row type="TypeDouble" index="9" invalid="no">4.9450000000000000e+02</row><row type="TypeDouble" index="10" invalid="no">5.5470000000000005e+02</row><row type="TypeDouble" index="11" invalid="no">6.0820000000000005e+02</row><row type="TypeDouble" index="12" invalid="no">5.5470000000000005e+02</row><row type="TypeDouble" index="13" invalid="no">4.9450000000000000e+02</row><row type="TypeDouble" index="14" invalid="no">4.4280000000000001e+02</row><row type="TypeDouble" index="15" invalid="no">3.9160000000000002e+02</row><row type="TypeDouble" index="16" invalid="no">3.3019999999999999e+02</row><row type="TypeDouble" index="17" invalid="no">2.7880000000000001e+02</row><row type="TypeDouble" index="18" invalid="no">2.2750000000000000e+02</row><row type="TypeDouble" index="19" invalid="no">1.6569999999999999e+02</row><row type="TypeDouble" index="20" invalid="no">1.1340000000000001e+02</row><row type="TypeDouble" index="21" invalid="no">6.1000000000000000e+01</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2025-15-07 11:19:14:220" caption_spec="%n%C{ - }%c" name="Força (N)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:19:14:220" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:19:14:220" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="22">(col(&quot;Massa (g)&quot;)*10^-3)*9.81</formula><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">5.9841000000000011e-01</row><row type="TypeDouble" index="2" invalid="no">1.1124540000000003e+00</row><row type="TypeDouble" index="3" invalid="no">1.6255170000000005e+00</row><row type="TypeDouble" index="4" invalid="no">2.2317750000000007e+00</row><row type="TypeDouble" index="5" invalid="no">2.7350280000000011e+00</row><row type="TypeDouble" index="6" invalid="no">3.2392620000000005e+00</row><row type="TypeDouble" index="7" invalid="no">3.8415960000000013e+00</row><row type="TypeDouble" index="8" invalid="no">4.3438680000000014e+00</row><row type="TypeDouble" index="9" invalid="no">4.8510450000000009e+00</row><row type="TypeDouble" index="10" invalid="no">5.4416070000000021e+00</row><row type="TypeDouble" index="11" invalid="no">5.9664420000000025e+00</row><row type="TypeDouble" index="12" invalid="no">5.4416070000000021e+00</row><row type="TypeDouble" index="13" invalid="no">4.8510450000000009e+00</row><row type="TypeDouble" index="14" invalid="no">4.3438680000000014e+00</row><row type="TypeDouble" index="15" invalid="no">3.8415960000000013e+00</row><row type="TypeDouble" index="16" invalid="no">3.2392620000000005e+00</row><row type="TypeDouble" index="17" invalid="no">2.7350280000000011e+00</row><row type="TypeDouble" index="18" invalid="no">2.2317750000000007e+00</row><row type="TypeDouble" index="19" invalid="no">1.6255170000000005e+00</row><row type="TypeDouble" index="20" invalid="no">1.1124540000000003e+00</row><row type="TypeDouble" index="21" invalid="no">5.9841000000000011e-01</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2025-15-07 11:19:15:705" caption_spec="%n%C{ - }%c" name="Alongamento final (m)" type="TypeDouble" mode="Numeric" plot_designation="noDesignation"><comment><![CDATA[Quando descarregar medir]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:19:15:705" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:19:15:705" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="22">col(&quot;Alongamento Inicial (mm)&quot;)*10^-3</formula><row type="TypeDouble" index="0" invalid="no">4.1000000000000009e-02</row><row type="TypeDouble" index="1" invalid="no">4.5000000000000012e-02</row><row type="TypeDouble" index="2" invalid="no">5.2000000000000011e-02</row><row type="TypeDouble" index="3" invalid="no">6.1000000000000013e-02</row><row type="TypeDouble" index="4" invalid="no">7.4000000000000024e-02</row><row type="TypeDouble" index="5" invalid="no">9.0000000000000024e-02</row><row type="TypeDouble" index="6" invalid="no">1.0600000000000002e-01</row><row type="TypeDouble" index="7" invalid="no">1.2600000000000003e-01</row><row type="TypeDouble" index="8" invalid="no">1.4600000000000005e-01</row><row type="TypeDouble" index="9" invalid="no">1.6400000000000003e-01</row><row type="TypeDouble" index="10" invalid="no">1.8300000000000005e-01</row><row type="TypeDouble" index="11" invalid="no">2.0000000000000004e-01</row><row type="TypeDouble" index="12" invalid="no">1.9600000000000004e-01</row><row type="TypeDouble" index="13" invalid="no">1.8900000000000006e-01</row><row type="TypeDouble" index="14" invalid="no">1.8600000000000005e-01</row><row type="TypeDouble" index="15" invalid="no">1.7900000000000005e-01</row><row type="TypeDouble" index="16" invalid="no">1.6700000000000004e-01</row><row type="TypeDouble" index="17" invalid="no">1.4300000000000004e-01</row><row type="TypeDouble" index="18" invalid="no">1.1100000000000003e-01</row><row type="TypeDouble" index="19" invalid="no">8.3000000000000018e-02</row><row type="TypeDouble" index="20" invalid="no">6.5000000000000016e-02</row><row type="TypeDouble" index="21" invalid="no">5.4000000000000013e-02</row><row type="TypeDouble" index="22" invalid="no">4.6000000000000013e-02</row></column><column creation_time="2025-15-07 16:13:10:224" caption_spec="%n%C{ - }%c" name="Delta Y (m)" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 16:13:10:224" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 16:13:10:224" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="7" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="22">col(&quot;Alongamento final (m)&quot;)-(41*10^-3)</formula><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">4.0000000000000036e-03</row><row type="TypeDouble" index="2" invalid="no">1.1000000000000003e-02</row><row type="TypeDouble" index="3" invalid="no">2.0000000000000004e-02</row><row type="TypeDouble" index="4" invalid="no">3.3000000000000015e-02</row><row type="TypeDouble" index="5" invalid="no">4.9000000000000016e-02</row><row type="TypeDouble" index="6" invalid="no">6.5000000000000016e-02</row><row type="TypeDouble" index="7" invalid="no">8.5000000000000020e-02</row><row type="TypeDouble" index="8" invalid="no">1.0500000000000004e-01</row><row type="TypeDouble" index="9" invalid="no">1.2300000000000003e-01</row><row type="TypeDouble" index="10" invalid="no">1.4200000000000004e-01</row><row type="TypeDouble" index="11" invalid="no">1.5900000000000003e-01</row><row type="TypeDouble" index="12" invalid="no">1.5500000000000003e-01</row><row type="TypeDouble" index="13" invalid="no">1.4800000000000005e-01</row><row type="TypeDouble" index="14" invalid="no">1.4500000000000005e-01</row><row type="TypeDouble" index="15" invalid="no">1.3800000000000004e-01</row><row type="TypeDouble" index="16" invalid="no">1.2600000000000003e-01</row><row type="TypeDouble" index="17" invalid="no">1.0200000000000004e-01</row><row type="TypeDouble" index="18" invalid="no">7.0000000000000021e-02</row><row type="TypeDouble" index="19" invalid="no">4.2000000000000010e-02</row><row type="TypeDouble" index="20" invalid="no">2.4000000000000007e-02</row><row type="TypeDouble" index="21" invalid="no">1.3000000000000005e-02</row><row type="TypeDouble" index="22" invalid="no">5.0000000000000044e-03</row></column><column creation_time="2025-15-07 12:11:14:856" caption_spec="%n%C{ - }%c" name="E_cF (J)" type="TypeDouble" mode="Numeric" plot_designation="noDesignation"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 12:11:14:856" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 12:11:14:856" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="0">(1.38*10^-23)*400*0.5</formula><row type="TypeDouble" index="0" invalid="no">2.7600000000000065e-21</row></column><column creation_time="2025-15-07 12:11:28:526" caption_spec="%n%C{ - }%c" name="N_lig (J)" type="TypeDouble" mode="Numeric" plot_designation="noDesignation"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 12:11:28:526" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 12:11:28:526" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="0">0.176898385/col(&quot;E_cF (J)&quot;)</formula><row type="TypeDouble" index="0" invalid="no">6.4093617753623036e+19</row></column><column creation_time="2025-15-07 16:32:34:962" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 16:32:34:962" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 16:32:34:963" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">138</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width><column_width column="5">120</column_width><column_width column="6">120</column_width></table>
+geometry	maximized	active
+
+</table>
+<table>
+8142
+<table creation_time="2025-15-07 11:55:00:000" caption_spec="%n%C{ - }%c" name="Table3" columns="6" rows="9"><comment><![CDATA[]]></comment><column creation_time="2025-15-07 11:55:00:548" caption_spec="%n%C{ - }%c" name="Massa (g)" type="TypeDouble" mode="Numeric" plot_designation="noDesignation"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:55:00:548" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:55:00:548" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">7.0000000000000000e+02</row><row type="TypeDouble" index="1" invalid="no">6.0000000000000000e+02</row><row type="TypeDouble" index="2" invalid="no">5.0000000000000000e+02</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000000e+02</row><row type="TypeDouble" index="4" invalid="no">3.0000000000000000e+02</row><row type="TypeDouble" index="5" invalid="no">2.0000000000000000e+02</row><row type="TypeDouble" index="6" invalid="no">1.0000000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2025-15-07 11:55:00:549" caption_spec="%n%C{ - }%c" name="Força (N)" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:55:00:549" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:55:00:549" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="7">(col(&quot;Massa (g)&quot;)*10^-3)*9.81</formula><row type="TypeDouble" index="0" invalid="no">6.8670000000000018e+00</row><row type="TypeDouble" index="1" invalid="no">5.8860000000000010e+00</row><row type="TypeDouble" index="2" invalid="no">4.9050000000000011e+00</row><row type="TypeDouble" index="3" invalid="no">3.9240000000000008e+00</row><row type="TypeDouble" index="4" invalid="no">2.9430000000000005e+00</row><row type="TypeDouble" index="5" invalid="no">1.9620000000000004e+00</row><row type="TypeDouble" index="6" invalid="no">9.8100000000000021e-01</row><row type="TypeDouble" index="7" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2025-15-07 11:55:00:550" caption_spec="%n%C{ - }%c" name="Alongamento Inicial" type="TypeDouble" mode="Numeric" plot_designation="noDesignation"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:55:00:550" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:55:00:550" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.6199999999999999e+01</row><row type="TypeDouble" index="1" invalid="no">1.2699999999999999e+01</row><row type="TypeDouble" index="2" invalid="no">9.5999999999999996e+00</row><row type="TypeDouble" index="3" invalid="no">6.9000000000000004e+00</row><row type="TypeDouble" index="4" invalid="no">4.5999999999999996e+00</row><row type="TypeDouble" index="5" invalid="no">2.7000000000000002e+00</row><row type="TypeDouble" index="6" invalid="no">1.2000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2025-15-07 11:55:00:550" caption_spec="%n%C{ - }%c" name="Alongamento final" type="TypeDouble" mode="Numeric" plot_designation="noDesignation"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:55:00:550" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:55:00:550" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.6199999999999999e+01</row><row type="TypeDouble" index="1" invalid="no">1.3600000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">1.0900000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">8.5000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">6.2000000000000002e+00</row><row type="TypeDouble" index="5" invalid="no">3.8999999999999999e+00</row><row type="TypeDouble" index="6" invalid="no">1.7000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">2.9999999999999999e-01</row></column><column creation_time="2025-15-07 11:55:00:551" caption_spec="%n%C{ - }%c" name="Alongamento (cm)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:55:00:551" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:55:00:551" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="7">(col(&quot;Alongamento final&quot;)-col(&quot;Alongamento Inicial&quot;))</formula><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">9.0000000000000036e-01</row><row type="TypeDouble" index="2" invalid="no">1.3000000000000007e+00</row><row type="TypeDouble" index="3" invalid="no">1.5999999999999996e+00</row><row type="TypeDouble" index="4" invalid="no">1.6000000000000005e+00</row><row type="TypeDouble" index="5" invalid="no">1.1999999999999997e+00</row><row type="TypeDouble" index="6" invalid="no">5.0000000000000000e-01</row><row type="TypeDouble" index="7" invalid="no">2.9999999999999999e-01</row></column><column creation_time="2025-15-07 11:55:00:552" caption_spec="%n%C{ - }%c" name="Trabalho (N*cm)" type="TypeDouble" mode="Numeric" plot_designation="noDesignation"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-15-07 11:55:00:552" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-15-07 11:55:00:552" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="7">col(&quot;Força (N)&quot;)*col(&quot;Alongamento (cm)&quot;)</formula><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">5.2974000000000032e+00</row><row type="TypeDouble" index="2" invalid="no">6.3765000000000054e+00</row><row type="TypeDouble" index="3" invalid="no">6.2783999999999995e+00</row><row type="TypeDouble" index="4" invalid="no">4.7088000000000028e+00</row><row type="TypeDouble" index="5" invalid="no">2.3544000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">4.9050000000000010e-01</row><row type="TypeDouble" index="7" invalid="no">0.0000000000000000e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">122</column_width><column_width column="5">122</column_width></table>
+geometry	90	548	400	300	
+
+</table>
+<multiLayer>
+Graph1	1	1	terça-feira, 15 de julho de 2025 15:28:22 Hora oficial do Brasil
+geometry	0	548	400	300	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1316	489
+Alignement	0	0
+<graph>
+ggeometry	2	2	376	234
+PlotTitle	Tempo X Alongamento	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	T (s)	Alongamento (mm)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	6	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	5	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	5	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	5	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	5	75	0	0	0
+AxisFont0	MS Shell Dlg 2	5	50	0	0	0
+AxisFont1	MS Shell Dlg 2	5	50	0	0	0
+AxisFont2	MS Shell Dlg 2	5	50	0	0	0
+AxisFont3	MS Shell Dlg 2	5	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_Tempo (s)	Table1_Alongamento (m)	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	10	1
+scale	0	-1	8	0	8	5	0	0
+scale	1	-1	8	0	8	5	0	0
+scale	2	-50	200	0	8	5	0	0
+scale	3	-50	200	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	-44.4690265486726	7.73214285714286	MS Shell Dlg 2	5	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_Alongamento (m)</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph2	1	1	terça-feira, 15 de julho de 2025 16:11:37 Hora oficial do Brasil
+geometry	259	12	500	400	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1316	489
+Alignement	0	0
+<graph>
+ggeometry	2	3	474	331
+PlotTitle	Title	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	X Axis Title	Y Axis Title			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	MS Shell Dlg 2	6	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	5	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	5	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	5	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	5	75	0	0	0
+AxisFont0	MS Shell Dlg 2	5	50	0	0	0
+AxisFont1	MS Shell Dlg 2	5	50	0	0	0
+AxisFont2	MS Shell Dlg 2	5	50	0	0	0
+AxisFont3	MS Shell Dlg 2	5	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table2_Alongamento final (m)	Table2_Força (N)	2	1	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	22	1
+scale	0	-1	7	0	8	5	0	0
+scale	1	-1	7	0	8	5	0	0
+scale	2	0	0.25	0	8	5	0	0
+scale	3	0	0.25	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.00555555555555556	6.76190476190476	MS Shell Dlg 2	5	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table2_Força (N)</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph3	1	1	terça-feira, 15 de julho de 2025 16:15:25 Hora oficial do Brasil
+geometry	160	548	400	300	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1316	489
+Alignement	0	0
+<graph>
+ggeometry	1	2	381	237
+PlotTitle	Title	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	X Axis Title	Y Axis Title			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table2_Delta Y (m)	Table2_Força (N)	2	1	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	22	1
+scale	0	-1	7	0	8	5	0	0
+scale	1	-1	7	0	8	5	0	0
+scale	2	-0.05	0.2	0	8	5	0	0
+scale	3	-0.05	0.2	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	-0.0444812362030905	6.76190476190476	MS Shell Dlg 2	8	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table2_Força (N)</legend>
+</graph>
+</multiLayer>
+<log>
+[terça-feira, 15 de julho de 2025 11:47:39 Hora oficial do Brasil	Plot: ''Graph3'']
+
+Numerical integration of: Table2_Alongamento (cm) using LinearInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 2,943	y = 1,6
+Area=7,11225
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 11:48:26 Hora oficial do Brasil	Plot: ''Graph3'']
+
+Numerical integration of: Table2_Alongamento (cm) using CubicInterpolation
+Points: 7 from x = 0 to x = 5,886
+Peak at x = 2,943	y = 1,6
+Area=6,70853
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 11:50:40 Hora oficial do Brasil	Plot: ''Graph4'']
+
+Numerical integration of: Table2_Alongamento (cm) using LinearInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 2,943	y = 1,6
+Area=7,11225
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 11:50:49 Hora oficial do Brasil	Plot: ''Graph4'']
+
+Numerical integration of: Table2_Alongamento (cm) using CubicInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 2,943	y = 1,6
+Area=7,20068
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 11:50:52 Hora oficial do Brasil	Plot: ''Graph4'']
+
+Numerical integration of: Table2_Alongamento (cm) using AkimaInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 2,943	y = 1,6
+Area=7,20218
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 11:56:56 Hora oficial do Brasil	Plot: ''Graph3'']
+
+Numerical integration of: Table3_Alongamento (cm) using CubicInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 2,943	y = 1,6
+Area=7,20068
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 11:57:33 Hora oficial do Brasil	Plot: ''Graph3'']
+
+Numerical integration of: Table3_Alongamento (cm) using CubicInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 2,943	y = 1,6
+Area=7,20068
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 11:57:37 Hora oficial do Brasil	Plot: ''Graph3'']
+
+Numerical integration of: Table3_Alongamento (cm) using LinearInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 2,943	y = 1,6
+Area=7,11225
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 11:58:23 Hora oficial do Brasil	Plot: ''Graph3'']
+
+Numerical integration of: Table3_Alongamento (cm) using AkimaInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 2,943	y = 1,6
+Area=7,20218
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 12:20:55 Hora oficial do Brasil	Plot: ''Graph1'']
+
+Numerical integration of: Table2_Alongamento Inicial (cm) using LinearInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 6,867	y = 16,2
+Area=44,9298
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 12:20:57 Hora oficial do Brasil	Plot: ''Graph1'']
+
+Numerical integration of: Table2_Alongamento Inicial (cm) using CubicInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 6,867	y = 16,2
+Area=44,7301
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 12:21:00 Hora oficial do Brasil	Plot: ''Graph1'']
+
+Numerical integration of: Table2_Alongamento Inicial (cm) using AkimaInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 6,867	y = 16,2
+Area=44,7132
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 12:22:00 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table2_Alongamento Inicial (cm), using function: A*x+B
+Y standard errors: Unknown
+From x = 0 to x = 6,867
+B (y-intercept) = -1,34166666666666 +/- 0,669049560806084
+A (slope) = 2,353041114509 +/- 0,163031024696849
+--------------------------------------------------------------------------------------
+Chi^2 = 6,44583333333333
+R^2 = 0,989137273406472
+---------------------------------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 12:23:28 Hora oficial do Brasil	Plot: ''Graph1'']
+
+Numerical integration of: Table2_Alongamento Inicial (cm) using LinearInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 6,867	y = 16,2
+Area=44,9298
+-------------------------------------------------------------
+[terça-feira, 15 de julho de 2025 12:23:34 Hora oficial do Brasil	Plot: ''Graph1'']
+
+Numerical integration of: Table2_Alongamento final (cm) using LinearInterpolation
+Points: 8 from x = 0 to x = 6,867
+Peak at x = 6,867	y = 16,2
+Area=52,0421
+-------------------------------------------------------------
+</log>

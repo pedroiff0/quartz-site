@@ -2,7 +2,7 @@
 publish: false
 title: Programação Orientada a Objetos I
 created: 2026-07-18 12:00
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -44,39 +44,39 @@ icon: lucide-book-open
 
 
 > [!tip]  Conteúdo Programático
-> - **1. Classes e Objetos**
->   - Conceito
->   - Atributos e Operações: Classe e Instância
->   - Tipo de Dados: Referência e Valor
->   - Visibilidade de Atributos e Operações
->   - Encapsulamento
->   - Construtores e Destrutores
->   - Sobrecarga de Operação
->   - Associação e Composição
-> - **2. Herança e Polimorfismo**
->   - Relacionamento de Generalização/Especialização
->   - i. Hierarquia de Herança
->   - ii. O Princípio da Substituição
->   - iii. Sobrescrita de Métodos
->   - Polimorfismo
->   - i. Conceito
->   - ii. Classes Abstratas
->   - iii. Interfaces
->   - Parametrização de Tipos
-> - **3. Entrada e Saída e Tratamento de Exceções**
->   - Tratamento de Exceções
->   - i. Lançamento de Exceções
->   - ii. Captura de Exceções
->   - iii. Hierarquia de Exceções
->   - Leitura e Escrita de Arquivos
->   - i. Leitura de Dados
->   - ii. Gravação de Dados
->   - iii. Formatação de Dados
->   - iv. Armazenamento e Recuperação de Objetos
-> - **4. Coleções**
->   - Listas
->   - Conjuntos
->   - Mapas
+> - [/] **1. Classes e Objetos** [[anotacoes/aula-01-introducao|Aula 01]], [[anotacoes/aula-02-construtores-e-encapsulamento|Aula 02]]
+>   - [x] Conceito [[anotacoes/aula-01-introducao|Aula 01]]
+>   - [x] Atributos e Operações: Classe e Instância [[anotacoes/aula-01-introducao|Aula 01]]
+>   - [x] Tipo de Dados: Referência e Valor [[anotacoes/aula-01-introducao|Aula 01]]
+>   - [x] Visibilidade de Atributos e Operações [[anotacoes/aula-02-construtores-e-encapsulamento|Aula 02]]
+>   - [x] Encapsulamento [[anotacoes/aula-02-construtores-e-encapsulamento|Aula 02]]
+>   - [x] Construtores e Destrutores [[anotacoes/aula-02-construtores-e-encapsulamento|Aula 02]]
+>   - [ ] Sobrecarga de Operação
+>   - [ ] Associação e Composição
+> - [ ] **2. Herança e Polimorfismo**
+>   - [ ] Relacionamento de Generalização/Especialização
+>   - [ ] i. Hierarquia de Herança
+>   - [ ] ii. O Princípio da Substituição
+>   - [ ] iii. Sobrescrita de Métodos
+>   - [ ] Polimorfismo
+>   - [ ] i. Conceito
+>   - [ ] ii. Classes Abstratas
+>   - [ ] iii. Interfaces
+>   - [ ] Parametrização de Tipos
+> - [ ] **3. Entrada e Saída e Tratamento de Exceções**
+>   - [ ] Tratamento de Exceções
+>   - [ ] i. Lançamento de Exceções
+>   - [ ] ii. Captura de Exceções
+>   - [ ] iii. Hierarquia de Exceções
+>   - [ ] Leitura e Escrita de Arquivos
+>   - [ ] i. Leitura de Dados
+>   - [ ] ii. Gravação de Dados
+>   - [ ] iii. Formatação de Dados
+>   - [ ] iv. Armazenamento e Recuperação de Objetos
+> - [ ] **4. Coleções**
+>   - [ ] Listas
+>   - [ ] Conjuntos
+>   - [ ] Mapas
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**

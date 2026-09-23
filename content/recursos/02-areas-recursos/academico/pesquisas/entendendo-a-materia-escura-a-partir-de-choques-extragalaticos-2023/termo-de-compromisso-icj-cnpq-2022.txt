@@ -1,0 +1,22 @@
+Nome do Bolsista: Pedro Henrique Rocha de Andrade	
+Matrícula: 20201040349
+Telefone: 22 99820-4493							
+E-mail: r.pedro@outlook.com.br
+Sexo: Masculino								
+Data de Nascimento: 24/02/2005
+Endereço: Rua Antolin Vicente, 247		
+Bairro: Centro 		
+Cidade: Bom Jesus do Itabapoana 	 
+CEP: 28360-000
+RG: 26.574.119-9 		
+Orgão Expedidor: DETRAN-RJ 	
+CPF: 170.505.697-04
+Banco: 			 	
+Conta Corrente:			
+Agência:
+Escola onde Estuda: Instituto Federal Fluminense  	
+Curso/Série: 3º Técnico em Informática Integrado ao Ensino Médio
+Campus: Bom Jesus do Itabapoana
+Orientador: Ana Cecília Soja							
+Modalidade da Bolsa: ICJ-CNPq
+Projeto de Pesquisa: Análise de Simulações Dinâmicas de Aglomerados de Galáxias em Fusão

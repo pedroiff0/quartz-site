@@ -1,0 +1,402 @@
+% PREÂMBULO - CONFIGURAÇÕES ABNT (CLASSE ARTICLE)
+% ====================================================
+% \usepackage{abntex2}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% \usepackage[brazilian]{babel}
+\usepackage{lipsum}
+\usepackage{times}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage[alf,abnt-emphasize=bf]{abntex2cite}
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{caption}
+\usepackage{etoolbox}
+\usepackage{amsmath}
+\usepackage{changepage}
+\usepackage{ragged2e}
+\usepackage{siunitx}
+
+\setlength{\headheight}{14.5pt}
+
+% --- PACOTES GRÁFICOS ESSENCIAIS ---
+\usepackage{graphicx} % Figuras básicas
+\usepackage{float}    % Posicionamento preciso
+\usepackage{booktabs} % Tabelas profissionais
+\usepackage{subcaption} % Subfiguras
+\usepackage{caption} % Subfiguras
+\usepackage{pgfplots}  % Gráficos avançados
+\pgfplotsset{compat=1.18}
+\usepackage{tikz}      % Diagramas vetoriais
+\usepackage{multicol}
+
+% --- MARGENS ABNT ---
+\geometry{a4paper,left=3cm,right=2cm,top=3cm,bottom=2cm}
+
+\onehalfspacing                 % Espaçamento 1,5 linha (ABNT)
+
+% --- RECUO E ESPAÇAMENTO PADRÃO ABNT ---
+\setlength{\parindent}{1.25cm} % Recuo de parágrafo
+\setlength{\parskip}{0pt} % Remove espaço extra entre parágrafos
+\raggedbottom % Evita espaçamento irregular
+
+
+\usepackage{fancyhdr}
+\fancyhf{} % limpa todos os campos do cabeçalho e rodapé
+\fancyhead[R]{\thepage} % número da página à direita no topo
+\renewcommand{\headrulewidth}{0pt} % remove linha horizontal do topo
+\renewcommand{\footrulewidth}{0pt} % remove linha no rodapé
+
+% Configuração da fonte
+\renewcommand{\paragraph}{\fontsize{12}{14}\selectfont} % Tamanho 12 com espaçamento 1.5
+
+% --- CORREÇÃO DO RECUO NO PRIMEIRO PARÁGRAFO ---
+\usepackage{indentfirst} % Garante recuo mesmo no primeiro parágrafo
+\setlength{\parindent}{1.25cm} % Recuo ABNT padrão
+
+% --- FORMATAÇÃO DAS SEÇÕES (ABNT) ---
+\usepackage{titlesec}
+
+% Seções (Nível 1)
+\titleformat{\section}
+  [hang] % alinhado à esquerda
+  {\normalfont\bfseries\fontsize{12}{14}\selectfont\MakeUppercase}
+  {\thesection}{1em}{}
+
+
+% Subseções (Nível 2)
+\titleformat{\subsection}
+  [hang]
+  {\normalfont\fontsize{12}{14}\selectfont}
+  {\thesubsection}{1em}{}
+
+
+% Subsubseções (Nível 3)
+\titleformat{\subsubsection}
+  [hang]
+  {\normalfont\fontsize{12}{14}\selectfont}
+  {\thesubsubsection}{1em}{}
+
+% --- COMANDO PERSONALIZADO PARA "CAPÍTULOS" NÃO NUMERADOS ---
+\newcommand{\capitulo}[1]{
+  \begin{center}
+    \vspace{2em}
+    \textbf{\MakeUppercase{#1}}
+    \vspace{1em}
+  \end{center}
+}
+
+
+% Espaçamento vertical
+\titlespacing*{\section}{0pt}{18pt}{6pt}    % [left]{before}{after}
+\titlespacing*{\subsection}{0pt}{12pt}{6pt}
+\titlespacing*{\subsubsection}{0pt}{12pt}{6pt}
+
+% Profundidade de numeração
+\setcounter{secnumdepth}{3} % Até subsubseções
+
+\usepackage[titles]{tocloft}
+
+% --- FORMATAÇÃO DO SUMÁRIO ---
+% \usepackage{tocloft}
+% \usepackage[nottoc]{tocbibind} % Evita que o título "Sumário" apareça no próprio sumário
+\renewcommand{\contentsname}{\begin{center}
+        \bfseries\MakeUppercase{Sumário}
+      \end{center}}
+% Recuo das seções (ABNT padrão: sem recuo)
+\titlecontents{section}[1.5em]           % Recuo da seção
+{\addvspace{0pt}\bfseries\normalsize}  % Estilo
+{\contentslabel{1.5em}}                % Alinhamento do número
+{}                                     % Sem recuo adicional
+{\titlerule*[0.6pc]{.}\contentspage}   % Pontilhado e número de página
+
+
+% Recuo das subseções (ligeiramente menor)
+\titlecontents{subsection}[1.5em]
+{\normalfont\normalsize}
+{\contentslabel{1.5em}}
+{}
+{\titlerule*[0.6pc]{.}\contentspage}
+
+
+
+% Centraliza e coloca em maiúsculas a lista de figuras
+\renewcommand{\listfigurename}{
+  \bfseries\MakeUppercase{Figuras}}
+
+% Centraliza e coloca em maiúsculas a lista de tabelas
+\renewcommand{\listtablename}{\begin{center}
+  \bfseries\MakeUppercase{Lista de Tabelas}
+\end{center}}
+
+% --- CONFIGURAÇÕES DE FIGURAS E TABELAS ---
+\captionsetup[figure]{
+  position=above,    % Legenda acima da figura
+  justification=centering,
+  labelsep=endash,
+  name=Figura,
+  font=small,
+  labelfont=bf
+}
+
+% Comando personalizado para fonte abaixo
+\newcommand{\fonte}[1]{
+  \vspace{-0.5em} % Ajuste de espaçamento
+  \begin{center}
+    \footnotesize\textbf{Fonte:} #1
+  \end{center}
+}
+
+% --- CONFIGURAÇÃO DE TABELAS ABNT ---
+\captionsetup[table]{
+  position=above,     % Legenda acima da tabela
+  justification=centering,
+  labelsep=endash,
+  name=Tabela,
+  font=small,
+  labelfont=bf
+}
+
+\newcommand{\fontet}[1]{
+  \begin{center}
+    \footnotesize\textbf{Fonte:} #1
+  \end{center}
+}
+
+% Comandos personalizados para o formato ABNT
+\DeclareCaptionLabelFormat{abntformat}{\textbf{#1~#2}}
+\captionsetup[figure]{labelformat=abntformat}
+\captionsetup[table]{labelformat=abntformat}
+
+\usepackage{tocloft}
+
+% --- CONFIGURAÇÕES PARA LISTA DE FIGURAS ---
+\setlength{\cftfigindent}{0pt}
+\setlength{\cftfignumwidth}{6em}
+\renewcommand{\cftfigpresnum}{\textbf{FIGURA~}}
+\renewcommand{\cftfigaftersnum}{\textbf{~--~}}
+\renewcommand{\cftfigdotsep}{3}
+
+% --- CONFIGURAÇÕES PARA LISTA DE TABELAS ---
+\setlength{\cfttabindent}{0pt}             % Sem recuo
+\setlength{\cfttabnumwidth}{6em}           % Espaço reservado para "TABELA 10"
+\renewcommand{\cfttabpresnum}{\textbf{TABELA~}}  % Prefixo
+\renewcommand{\cfttabaftersnum}{\textbf{~--~}}   % Sufixo
+\renewcommand{\cfttabdotsep}{3}            % Mais pontos entre nome e número de página
+
+
+
+% Define novo tipo de float
+% \newfloat{myequation}{htbp}{loe}
+% \floatname{myequation}{EQUAÇÃO}
+
+% % Configura legenda do float
+% \captionsetup[myequation]{
+%   labelfont=bf,
+%   labelsep=space,
+%   justification=centering,
+%   singlelinecheck=false
+% }
+
+% Ambiente "simbolos" no estilo ABNT
+\usepackage{enumitem}
+
+\newlist{simbolos}{description}{1}
+\setlist[simbolos]{%
+  labelwidth=1cm,        % Largura da coluna do símbolo
+  labelsep=1cm,          % Espaço entre símbolo e descrição
+  leftmargin=2cm,        % Recuo à esquerda (soma de labelwidth + labelsep)
+  style=nextline,        % Quebra de linha após o símbolo
+  font=\normalfont       % Fonte normal no símbolo
+}
+
+% Cria a lista de gráficos
+\newlistof{grafico}{lol}{Gráficos}
+
+% Formatação da numeração da legenda no corpo do documento
+\renewcommand{\thegrafico}{\arabic{grafico}}
+
+% Formatação da numeração na lista de gráficos (prefixo em maiúsculas e negrito)
+\renewcommand{\cftgraficopresnum}{\textbf{GRÁFICO~}}
+\renewcommand{\cftgraficoaftersnum}{\textbf{~--~}}  % traço com espaços antes e depois
+\setlength{\cftgraficonumwidth}{7em}      % largura reservada para o número
+\setlength{\cftgraficoindent}{0pt}        % sem indentação extra
+
+% Configura legenda para o tipo 'grafico'
+\captionsetup[grafico]{
+  position=above,
+  justification=centering,
+  labelsep=endash,
+  font=small,
+  labelfont=bf,
+  name=Gráfico,
+  labelformat=simple
+}
+
+\setcounter{grafico}{0}
+
+% Comando para inserir gráfico com legenda acima, fonte abaixo e label
+\newcommand{\inserirgrafico}[5][]{%
+  \begin{center}
+    \captionsetup{type=grafico,position=above}%
+    \captionof{grafico}{#3}%
+    \label{#5}% label logo após a legenda
+    \includegraphics[#1]{#2}%
+    \par\vspace{0.1em}%
+    {\footnotesize\textbf{Fonte:} #4}%
+  \end{center}
+}
+
+% Define o nome da lista de equações
+\newcommand{\listequationsname}{Equações}
+
+% Cria a lista de equações com extensão .loe
+\newlistof{equationlist}{loe}{\listequationsname}
+
+% Prefixo e sufixo na lista de equações (prefixo em negrito e traço)
+\renewcommand{\cftequationlistpresnum}{\textbf{EQUAÇÃO~}}
+\renewcommand{\cftequationlistaftersnum}{\textbf{~--~}}
+\setlength{\cftequationlistnumwidth}{7em}
+\setlength{\cftequationlistindent}{0pt}
+
+% Comando para adicionar entrada na lista de equações
+% #1 = texto da entrada na lista (normalmente a equação ou descrição)
+\newcommand{\addtoequationlist}[1]{%
+  \addcontentsline{loe}{equationlist}{\protect\numberline{\theequation}#1}%
+}
+
+
+
+
+
+% --- Ambiente Personalizado ErrataABNT ---
+% ==== NO PREÂMBULO ====  
+\usepackage{geometry}   % para controle de margem  
+\usepackage{setspace}   % espaçamento  
+\usepackage{array}      % para tabelas  
+\usepackage{caption}    % legendas  
+
+% Comando para inserir a página de Errata ABNT
+\newcommand{\paginaErrata}[1]{%
+  \clearpage
+  \thispagestyle{empty}         % sem cabeçalho/rodapé  
+  \newgeometry{left=1cm, right=2cm, top=3cm, bottom=2cm}  
+  \section*{\begin{center}Errata\end{center}}        % título senúmero  
+  % \vspace{1\baselineskip}  
+  \setstretch{1.0}               % espaçamento simples  
+  % ==== TABELA DE ERROS ====  
+  {\renewcommand{\arraystretch}{1.5}% altura das linhas
+  \input{tabelas/erros}
+  % \begin{tabular}{@{} p{2.5cm} p{3cm} p{5cm} p{5cm} @{}}
+  %   \hline
+  %   \textbf{Folha} & \textbf{Linha} & \textbf{Onde se lê} & \textbf{Leia-se} \\
+  %   \hline
+  %   10             & 15             & \textit{“esperem resultados imediatos”} & \textit{“esperem resultados mediatos”} \\
+  %   45             & 3              & “processo contínuo de ensino e apredizado” & “processo contínuo de ensino e aprendizado” \\
+  %   % adicione quantas linhas forem necessárias
+  %   \hline
+  % \end{tabular}
+  }
+  \restoregeometry
+  \clearpage
+}
+
+
+% --- CONFIGURAÇÕES PARA O SUMÁRIO ---
+\setlength{\cftsecindent}{0pt}             % Seções alinhadas à esquerda
+\setlength{\cftsecnumwidth}{0em}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}} % Aplica pontilhado
+\renewcommand{\cftdotsep}{3}               % Aumenta pontos do sumário
+
+% (Opcional) para subseções também
+\setlength{\cftsubsecindent}{0pt}
+\setlength{\cftsubsecnumwidth}{4em}
+\renewcommand{\cftsubsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftdotsep}{3}               % Aumenta pontos do sumário
+
+% Pré-requisitos
+\usepackage{graphicx}  % rotatebox
+\usepackage{geometry}  % definir dimensões da página
+
+\newcommand{\lombada}[3]{%
+  \clearpage
+  \newgeometry{left=0cm, top=0cm, bottom=0cm, right=0cm}
+  \thispagestyle{empty}
+
+  % Ambiente centralizado vertical com largura total da lombada
+  \begin{center}
+    \vspace*{1cm} % Espaço até autor (posição vertical)
+    \rotatebox{270}{{\textbf{\MakeUppercase{#1}}}} % Autor
+    
+    \vspace*{2cm} % Espaço até o título (aproximadamente até 15cm do topo)
+    \rotatebox{270}{{\textbf{\MakeUppercase{#2}}}} % Título
+
+      % Último item: horizontal, alinhado à esquerda, com largura de 4cm
+  \vspace*{2.5cm} % Espaço até parte inferior (29.7 - 26.5 ≈ 3.2)
+  \hspace*{0.4cm} % margem esquerda interna da lombada (ajustável)
+  \parbox[t]{5cm}{\centering\normalsize\MakeUppercase{#3}}
+
+  \end{center}
+  
+  \restoregeometry
+  \clearpage
+}
+
+% Ficha catalográfica formatada segundo a ABNT
+\usepackage{geometry} % já deve estar incluso
+
+\newcommand{\fichacatalografica}[9]{%
+  \clearpage
+  \newgeometry{left=3cm, right=2cm, top=3cm, bottom=2cm}
+  \thispagestyle{empty}
+  \vspace*{\fill}
+  \hspace*{\fill}
+  \fbox{%
+    \begin{minipage}[t][7.5cm][t]{12.5cm}
+      \setstretch{1.0}
+      \normalfont\fontsize{12}{14}\selectfont
+      \raggedright
+      #1\\ % Autor
+      \MakeUppercase{#2} / #1. – #3 ed. – #4: #5, #6.\\ p. 35\\
+      \textbf{Classificação:} #7\\
+      \textbf{ISBN:} #8
+      \textbf{CDD:} #9
+    \end{minipage}
+  }%
+  \vspace*{1cm}
+  \restoregeometry
+  \clearpage
+}
+
+
+
+
+
+% --- FORMATAÇÃO DA BIBLIOGRAFIA ABNT COM TÍTULO CENTRALIZADO, NEGRITO E UPPERCASE ---
+\makeatletter
+\renewenvironment{thebibliography}[1]
+     {
+      \begin{center}
+        \bfseries\MakeUppercase{Referências}
+      \end{center}
+      \@mkboth{\MakeUppercase{\refname}}{\MakeUppercase{\refname}}%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\leftmargin=0cm
+            \labelwidth=0cm
+            \labelsep=0cm
+            \itemindent=0pt
+            \parsep=0pt
+            \itemsep=1.5\baselineskip
+            \usecounter{enumiv}}%
+      \singlespacing
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m
+     }
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+\makeatother

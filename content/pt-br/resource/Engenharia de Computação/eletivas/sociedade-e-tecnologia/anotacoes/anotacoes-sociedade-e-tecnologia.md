@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Sociedade E Tecnologia
 created: 2026-08-24 21:03
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -21,4 +21,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[Anotações — Sociedade E Tecnologia\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-sociedade-e-tecnologia\|Anotações — Sociedade E Tecnologia]] | 24/08/2026 |

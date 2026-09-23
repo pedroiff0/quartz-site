@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 - Capítulo 3.3
 created: 2026-09-08 15:33
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -75,12 +75,6 @@ icon: lucide-book-open
 > > Precisamos converter a voz digitalizada em sinal analógico composto antes de transmiti-lo. Os celulares digitais convertem o sinal de áudio analógico em digital e depois o convertem novamente em analógico para transmissão através de um canal passa-faixa
 
 
----
-
-> [!abstract]- Resumo Conceitual
-> - **Conceito Central:** 
-> - **Fórmulas / Algoritmos Relevantes:**
-> - **Pegadinhas / Atenção em Provas:**
 
 ---
 

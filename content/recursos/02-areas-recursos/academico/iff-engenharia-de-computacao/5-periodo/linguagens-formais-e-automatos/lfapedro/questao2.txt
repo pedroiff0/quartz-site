@@ -1,0 +1,8 @@
+c
+ca
+cb
+cc
+cab
+cba
+cacc
+cbbca

@@ -2,7 +2,7 @@
 publish: true
 title: guia-github
 created: 2026-03-13 13:04
-modified: 2026-09-19 13:20
+modified: 2026-09-22 22:41
 published: 2026-07-26 10:03:00.381000-03:00
 tags:
 - boas-praticas

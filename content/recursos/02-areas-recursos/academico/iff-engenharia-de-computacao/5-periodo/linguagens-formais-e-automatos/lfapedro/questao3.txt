@@ -1,0 +1,7 @@
+ab
+aab
+bab
+cab
+ccab
+bacab
+aaab

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 03 - Correção
 created: 2026-09-11 23:15
-modified: 2026-09-19 13:20
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -156,12 +156,6 @@ A>B>C>D
 
 
 
----
-
-> [!abstract]- Resumo Conceitual
-> - **Conceito Central:** 
-> - **Fórmulas / Algoritmos Relevantes:**
-> - **Pegadinhas / Atenção em Provas:**
 
 ---
 

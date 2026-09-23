@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="flag-fr-title">
+  <title id="flag-fr-title">Drapeau de la France</title>
+  <rect width="900" height="600" fill="#ffffff"/>
+  <rect width="300" height="600" fill="#002395"/>
+  <rect x="600" width="300" height="600" fill="#ed2939"/>
+</svg>

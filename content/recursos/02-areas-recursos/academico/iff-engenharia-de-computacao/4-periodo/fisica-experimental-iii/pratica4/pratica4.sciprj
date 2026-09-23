@@ -1,0 +1,118 @@
+SciDAVis 2.7.1 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+4097
+<table creation_time="2025-29-10 11:14:46:000" caption_spec="%n%C{ - }%c" name="Table1" columns="2" rows="24"><comment><![CDATA[]]></comment><column creation_time="2025-29-10 11:14:46:406" caption_spec="%n%C{ - }%c" name="V (V)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-10 11:14:46:407" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-10 11:14:46:407" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">5.7000000000000002e+00</row><row type="TypeDouble" index="2" invalid="no">5.4000000000000004e+00</row><row type="TypeDouble" index="3" invalid="no">5.0999999999999996e+00</row><row type="TypeDouble" index="4" invalid="no">4.7999999999999998e+00</row><row type="TypeDouble" index="5" invalid="no">4.5000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">4.2000000000000002e+00</row><row type="TypeDouble" index="7" invalid="no">3.8999999999999999e+00</row><row type="TypeDouble" index="8" invalid="no">3.6000000000000001e+00</row><row type="TypeDouble" index="9" invalid="no">3.2999999999999998e+00</row><row type="TypeDouble" index="10" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">2.7000000000000002e+00</row><row type="TypeDouble" index="12" invalid="no">2.3999999999999999e+00</row><row type="TypeDouble" index="13" invalid="no">2.1000000000000001e+00</row><row type="TypeDouble" index="14" invalid="no">1.8000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">1.5000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">1.2000000000000000e+00</row></column><column creation_time="2025-29-10 11:14:46:408" caption_spec="%n%C{ - }%c" name="t(s)" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-10 11:14:46:408" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-10 11:14:46:408" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.9430000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">4.1710000000000001e+01</row><row type="TypeDouble" index="3" invalid="no">6.5549999999999997e+01</row><row type="TypeDouble" index="4" invalid="no">9.2950000000000003e+01</row><row type="TypeDouble" index="5" invalid="no">1.2264000000000000e+02</row><row type="TypeDouble" index="6" invalid="no">1.5484000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">1.8966999999999999e+02</row><row type="TypeDouble" index="8" invalid="no">2.2765000000000001e+02</row><row type="TypeDouble" index="9" invalid="no">2.6929000000000002e+02</row><row type="TypeDouble" index="10" invalid="no">3.1464999999999998e+02</row><row type="TypeDouble" index="11" invalid="no">3.6483999999999997e+02</row><row type="TypeDouble" index="12" invalid="no">4.2056999999999999e+02</row><row type="TypeDouble" index="13" invalid="no">4.8514999999999998e+02</row><row type="TypeDouble" index="14" invalid="no">5.5857000000000005e+02</row><row type="TypeDouble" index="15" invalid="no">6.4661000000000001e+02</row><row type="TypeDouble" index="16" invalid="no">7.5473000000000002e+02</row><row type="TypeDouble" index="17" invalid="yes">0.0000000000000000e+00</row></column><column_width column="0">81</column_width><column_width column="1">200</column_width></table>
+geometry	0	0	693	484	
+
+</table>
+<multiLayer>
+Graph1	1	1	quarta-feira, 29 de outubro de 2025 19:18:17 -03
+geometry	710	12	738	549	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	445	273
+Alignement	0	0
+<graph>
+ggeometry	5	5	726	490
+PlotTitle	V x t	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#d8000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	t (s)	V (V)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	.AppleSystemUIFont	22	75	0	0	0
+ScaleFont0	.AppleSystemUIFont	19	75	0	0	0
+ScaleFont1	.AppleSystemUIFont	19	75	0	0	0
+ScaleFont2	.AppleSystemUIFont	19	75	0	0	0
+ScaleFont3	.AppleSystemUIFont	19	75	0	0	0
+AxisFont0	.AppleSystemUIFont	19	50	0	0	0
+AxisFont1	.AppleSystemUIFont	19	50	0	0	0
+AxisFont2	.AppleSystemUIFont	19	50	0	0	0
+AxisFont3	.AppleSystemUIFont	19	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#d8000000	#d8000000	#d8000000	#d8000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_t(s)	Table1_V (V)	2	1	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	23	1
+FunctionCurve	0,ExpDecayFit2,x,0,754.73	100			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	0	64		2	0	50910144	24576	1
+<formula>
+A=5.69773359751808
+t=429.498212445067
+y0=0.243134176355717
+
+y0+A*exp(-x/t)
+
+
+
+</formula>
+scale	0	1	7	0	8	5	0	0
+scale	1	1	7	0	8	5	0	0
+scale	2	-100	800	0	8	5	0	0
+scale	3	-100	800	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	-87.6712328767123	3.91603053435114	.AppleSystemUIFont	19	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_V (V)	\c{2}ExpDecayFit2</legend>
+<text>	-86.3013698630137	2.95419847328244	.AppleSystemUIFont	12	50	0	0	0	#ff000000	1	0	#00ffffff	0	Dataset: Table1_V (V)	Function: y0+A*exp(-x/t)	t = RC		A = (5,70 ± 0,05) V	t = (429 ± 5e-05) s	y0 = (0,24 ± 0,06) V</text>
+</graph>
+</multiLayer>
+<log>
+[quarta-feira, 29 de outubro de 2025 19:19:01 -03	Plot: ''Graph1'']
+Exponential decay fit of dataset: Table1_V (V), using function: y0+A*exp(-x/t)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 754,73
+A (amplitude) = 5,14925370467854 +/- 3,08281598895929
+t (e-folding time) = 3,50778888027014 +/- 7,84019997627834
+y0 (offset) = 1,02238844004946 +/- 0,770884711071235
+--------------------------------------------------------------------------------------
+Chi^2 = 124,733007170056
+R^2 = 0,514733087573699
+---------------------------------------------------------------------------------------
+Iterations = 1
+Status = success
+---------------------------------------------------------------------------------------
+[quarta-feira, 29 de outubro de 2025 19:20:02 -03	Plot: ''Graph1'']
+Exponential decay fit of dataset: Table1_V (V), using function: y0+A*exp(-x/t)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 754,73
+A (amplitude) = 5,14925370467854 +/- 3,08281598895929
+t (e-folding time) = 3,50778888027014 +/- 7,84019997627834
+y0 (offset) = 1,02238844004946 +/- 0,770884711071235
+--------------------------------------------------------------------------------------
+Chi^2 = 124,733007170056
+R^2 = 0,514733087573699
+---------------------------------------------------------------------------------------
+Iterations = 1
+Status = success
+---------------------------------------------------------------------------------------
+[quarta-feira, 29 de outubro de 2025 19:20:09 -03	Plot: ''Graph1'']
+Exponential decay fit of dataset: Table1_V (V), using function: y0+A*exp(-x/t)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 754,73
+A (amplitude) = 5,69773359751808 +/- 0,0521667369844892
+t (e-folding time) = 429,498212445067 +/- 4,66719163450634e-05
+y0 (offset) = 0,243134176355717 +/- 0,0580752484499684
+--------------------------------------------------------------------------------------
+Chi^2 = 0,00919077993024468
+R^2 = 0,999964243775559
+---------------------------------------------------------------------------------------
+Iterations = 15
+Status = success
+---------------------------------------------------------------------------------------
+</log>

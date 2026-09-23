@@ -2,13 +2,15 @@
 publish: true
 title: MCTIA 2025
 created: 2025-12-01 13:04
-modified: 2026-09-19 13:20
-published: 2026-07-26 10:13:50.721000-03:00
-photoFolder: mctia2025
-type: blog
+modified: 2026-09-22 22:41
+tags:
+- midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
+published: 2026-07-26 10:13:50.721000-03:00
+photoFolder: mctia2025
+type: blog
 ---
 
 # MCTIA

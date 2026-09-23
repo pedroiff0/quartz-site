@@ -5,7 +5,7 @@ aliases:
 publish: false
 title: ' Hub Poliglota — hardcore-life'
 created: 2026-09-14 11:54
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 tags:
 - moc
 - idioma

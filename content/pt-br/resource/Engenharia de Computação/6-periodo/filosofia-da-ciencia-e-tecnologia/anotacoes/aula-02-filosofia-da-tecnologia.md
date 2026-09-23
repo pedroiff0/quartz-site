@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 - Filosofia da Tecnologia (Alberto Cupani)
 created: 2026-09-08 17:00
-modified: 2026-09-19 13:20
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -49,13 +49,14 @@ cssclasses:
 
 > 📖 *[Referência: filosofia-da-tecnologia-de-alberto-cupani-capitulo-1]*
 
----
-
-> [!abstract]- Resumo Conceitual
-> - **Conceito Central:** Filosofia da Tecnologia (Alberto Cupani, Cap. 1). O conceito de tecnologia e seu impacto na civilização moderna.
-> - **Atenção em Provas:** Diferença entre técnica e tecnologia; neutralidade vs. determinismo tecnológico.
 
 ---
+
+---
+
+## Esquemas & Anotações Visuais (excalidraw)
+
+![[Aula 02 - Filosofia da Tecnologia (Alberto Cupani).excalidraw]]
 
 > [!question]- Dúvidas & Exercícios Recomendados
 > - [ ] academico exercicio Elaborar fichamento do Capítulo 1 de Cupani

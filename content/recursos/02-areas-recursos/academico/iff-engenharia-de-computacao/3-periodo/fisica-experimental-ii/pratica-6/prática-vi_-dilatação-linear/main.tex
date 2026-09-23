@@ -1,0 +1,40 @@
+\documentclass[12pt, oneside, a4paper]{article}
+\input{preambulo}
+
+% ====================================================
+\begin{document}
+\pagestyle{fancy}  % Algarismos romanos minúsculos
+
+% ====================================================
+% ELEMENTOS PRÉTEXTUAIS
+% ====================================================
+
+
+\include{PRETEXTUAIS/capa}
+\include{PRETEXTUAIS/folhaderosto}
+\include{PRETEXTUAIS/figuras}
+\include{PRETEXTUAIS/tabelas}
+\include{PRETEXTUAIS/simbolos}
+\include{PRETEXTUAIS/sumario}
+
+% ====================================================
+% ELEMENTOS TEXTUAIS
+% ====================================================
+
+\pagenumbering{arabic}
+\setcounter{page}{6}
+\include{TEXTUAIS/introducao}
+\include{TEXTUAIS/metodologia}
+\include{TEXTUAIS/resultados}
+\include{TEXTUAIS/conclusao}
+
+% ====================================================
+% ELEMENTOS POSTEXTUAIS
+% ====================================================
+
+\bibliographystyle{abntex2-alf}
+\nocite{moyses2014, halliday2016, roteiro, scidavis}
+\bibliography{referencias}
+\addcontentsline{toc}{section}{REFERÊNCIAS}
+
+\end{document}

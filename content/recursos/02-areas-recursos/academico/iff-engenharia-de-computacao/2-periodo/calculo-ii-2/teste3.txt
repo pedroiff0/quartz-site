@@ -1,0 +1,64 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+import matplotlib.animation as animation
+
+# Função para calcular o raio da esfera
+def sphere_radius(y):
+    return np.sqrt(1 - y**2)  # Raio da esfera unitária
+
+# Configurar a figura e o eixo 3D
+fig = plt.figure(figsize=(10, 8))
+ax = fig.add_subplot(111, projection='3d')
+
+# Definir limites para y
+y_values = np.linspace(-1, 1, 200)  # Valores de y para as seções
+
+# Configurar os limites do gráfico
+ax.set_xlim([-1, 1])
+ax.set_ylim([-1, 1])
+ax.set_zlim([-1, 1])
+
+# Rótulos dos eixos
+ax.set_title("Animação: Construindo uma Esfera")
+ax.set_xlabel('X axis')
+ax.set_ylabel('Y axis')
+ax.set_zlabel('Z axis')
+
+# Função de inicialização para a animação
+def init():
+    ax.cla()  # Limpa o eixo
+    ax.set_xlim([-1, 1])
+    ax.set_ylim([-1, 1])
+    ax.set_zlim([-1, 1])
+    ax.set_title("Animação: Construindo uma Esfera")
+    ax.set_xlabel('X axis')
+    ax.set_ylabel('Y axis')
+    ax.set_zlabel('Z axis')
+
+# Função de atualização para a animação
+def update(frame):
+    init()  # Reinicia o gráfico
+    current_y = y_values[frame]  # Pega o valor atual de y
+    radius = sphere_radius(current_y)
+    
+    # Criar a seção circular correspondente ao valor atual de y
+    theta = np.linspace(0, 2 * np.pi, 60)  # Ângulo para a seção circular
+    x = radius * np.cos(theta)
+    z = radius * np.sin(theta)
+    
+    # Adicionar a seção ao gráfico com espaçamento
+    ax.plot(x, current_y, z, color='b', alpha=0.7)
+    
+    # Adicionar todas as seções anteriores para construir a esfera progressivamente
+    for i in range(frame):
+        prev_radius = sphere_radius(y_values[i])
+        prev_x = prev_radius * np.cos(theta)
+        prev_z = prev_radius * np.sin(theta)
+        ax.plot(prev_x, y_values[i], prev_z, color='b', alpha=0.7)
+
+# Criar a animação
+ani = animation.FuncAnimation(fig, update, frames=len(y_values), init_func=init, repeat=False)
+
+# Mostrar a animação
+plt.show()

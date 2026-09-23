@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body{
+            width: 100%;
+            height: 500px;
+        }
+        .bola {
+            border-radius: 100%;
+            position: absolute;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>birimbinha</title>
+</head>
+<body onload="iniciar()" onclick="errar()">
+    <div id="Placar"></div>
+    <div id="MissClick"></div>  
+</body>
+
+<script>
+    function addBola() {
+        var bola = document.createElement("div");
+        bola.setAttribute("class","bola");
+        var p1 = Math.floor(Math.random()   *  1000);
+        var p2 = Math.floor(Math.random()   *  500);
+        var size = Math.floor(Math.random() *   40);
+        var color = Math.floor(Math.random()    *   999);
+    bola.setAttribute("style","left:" + p1 + "px;" + "top:" + p2 + "px;" + "background-color: #" + color + ";" + "width: " + size + "px;" + "height: " + size + "px;");
+
+    bola.setAttribute("onmousedown", "estourar(this)");
+    
+    document.body.appendChild(bola);
+    
+    }
+
+    function estourar(elemento) {
+        document.body.removeChild(elemento);
+        document.getElementById("Placar").innerHTML++;
+    }
+
+    function errar() {
+        document.getElementsByName("MissClick").innerHTML++;
+
+    }
+
+    function iniciar() {
+        document.getElementById("Placar").innerHTML = 0;
+        document.getElementById("MissClick").innerHTML = 0;
+        setInterval(addBola, 1000);
+
+    }    
+</script>   
+</html>

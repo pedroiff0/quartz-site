@@ -1,0 +1,260 @@
+SciDAVis 2.9.2 project file
+<scripting-lang>	muParser
+<windows>	3
+<table>
+6896
+<table creation_time="2025-24-05 16:07:24:000" caption_spec="%n%C{ - }%c" name="Table1" columns="6" rows="30"><comment><![CDATA[]]></comment><column creation_time="2025-24-05 16:11:38:982" caption_spec="%n%C{ - }%c" name="n1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-24-05 16:11:38:982" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-24-05 16:11:38:982" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000000e+00</row></column><column creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="F_n1 (Hz)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">7.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.5000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">2.0600000000000001e+01</row><row type="TypeDouble" index="3" invalid="no">2.8000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">3.4200000000000003e+01</row><row type="TypeDouble" index="5" invalid="yes">0.0000000000000000e+00</row></column><column creation_time="2025-24-05 16:12:19:243" caption_spec="%n%C{ - }%c" name="n2" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-24-05 16:12:19:243" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-24-05 16:12:19:243" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">6.0000000000000000e+00</row></column><column creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="F_n2 (Hz)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.5000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">2.2000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">3.0000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">3.6000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">4.1399999999999999e+01</row></column><column creation_time="2025-27-05 11:03:54:732" caption_spec="%n%C{ - }%c" name="v_1 (m/s)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-27-05 11:03:54:732" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-27-05 11:03:54:732" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="5">6.74*2*0.58</formula><row type="TypeDouble" index="0" invalid="no">7.8183999999999996e+00</row><row type="TypeDouble" index="1" invalid="no">7.8183999999999996e+00</row><row type="TypeDouble" index="2" invalid="no">7.8183999999999996e+00</row><row type="TypeDouble" index="3" invalid="no">7.8183999999999996e+00</row><row type="TypeDouble" index="4" invalid="no">7.8183999999999996e+00</row><row type="TypeDouble" index="5" invalid="no">7.8183999999999996e+00</row></column><column creation_time="2025-27-05 11:04:08:307" caption_spec="%n%C{ - }%c" name="v_2 (m/s)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-27-05 11:04:08:307" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-27-05 11:04:08:307" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="5">6.68*2*0.688</formula><row type="TypeDouble" index="0" invalid="no">9.1916799999999981e+00</row><row type="TypeDouble" index="1" invalid="no">9.1916799999999981e+00</row><row type="TypeDouble" index="2" invalid="no">9.1916799999999981e+00</row><row type="TypeDouble" index="3" invalid="no">9.1916799999999981e+00</row><row type="TypeDouble" index="4" invalid="no">9.1916799999999981e+00</row><row type="TypeDouble" index="5" invalid="no">9.1916799999999981e+00</row></column><column_width column="0">116</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">115</column_width><column_width column="5">742</column_width></table>
+geometry	0	0	912	456	
+
+</table>
+<multiLayer>
+Graph2	1	1	terça-feira, 27 de maio de 2025 15:58:06 -03
+geometry	0	420	500	400	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1854	711
+Alignement	0	0
+<graph>
+ggeometry	1	4	489	345
+PlotTitle	Title	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ffeeeeec
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	X Axis Title	Y Axis Title			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	Lato	6	75	0	0	0
+ScaleFont0	Lato	5	75	0	0	0
+ScaleFont1	Lato	5	75	0	0	0
+ScaleFont2	Lato	5	75	0	0	0
+ScaleFont3	Lato	5	75	0	0	0
+AxisFont0	Lato	5	50	0	0	0
+AxisFont1	Lato	5	50	0	0	0
+AxisFont2	Lato	5	50	0	0	0
+AxisFont3	Lato	5	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ffeeeeec	#ffeeeeec	#ffeeeeec	#ffeeeeec
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_n1	Table1_F_n1 (Hz)	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
+FunctionCurve	0,LinearFit1,x,1,5	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	1601372336	21931	1
+<formula>
+B=-0.699999999999996
+A=7.6
+
+A*x+B
+</formula>
+FunctionCurve	0,LinearFit2,x,2,6	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	1593613184	21931	1
+<formula>
+B=2.7
+A=6.35
+
+A*x+B
+</formula>
+scale	0	5	45	0	8	5	0	0
+scale	1	5	45	0	8	5	0	0
+scale	2	0	6	0	8	5	0	0
+scale	3	0	7	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.159090909090909	43.7301587301587	Lato	5	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_F_n1 (Hz)	\c{2}LinearFit1	\c{3}LinearFit2	</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph5	1	1	terça-feira, 27 de maio de 2025 16:29:47 -03
+geometry	1418	2	500	400	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	426	262
+Alignement	0	0
+<graph>
+ggeometry	5	3	481	343
+PlotTitle	Title	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ffeeeeec
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	X Axis Title	Y Axis Title			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	Lato	14	75	0	0	0
+ScaleFont0	Lato	12	75	0	0	0
+ScaleFont1	Lato	12	75	0	0	0
+ScaleFont2	Lato	12	75	0	0	0
+ScaleFont3	Lato	12	75	0	0	0
+AxisFont0	Lato	12	50	0	0	0
+AxisFont1	Lato	12	50	0	0	0
+AxisFont2	Lato	12	50	0	0	0
+AxisFont3	Lato	12	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ffeeeeec	#ffeeeeec	#ffeeeeec	#ffeeeeec
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_n1	Table1_F_n1 (Hz)	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
+curve	Table1_n2	Table1_F_n2 (Hz)	1	0	#ffff0000	0	1	7	2	#ffff0000	#ffff0000	0	#ff000000	0	1	0	64		2	0	0	29	1
+FunctionCurve	0,LinearFit1,x,1,5	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	1603184592	21931	1
+<formula>
+B=0.740000000000002
+A=6.74
+
+A*x+B
+</formula>
+FunctionCurve	0,LinearFit2,x,2,6	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	1596469904	21931	1
+<formula>
+B=2.16
+A=6.68
+
+A*x+B
+</formula>
+scale	0	5	45	0	8	5	0	0
+scale	1	5	45	0	8	5	0	0
+scale	2	0	7	0	8	5	0	0
+scale	3	0	7	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.159090909090909	43.7301587301587	Lato	12	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_F_n1 (Hz)	\c{2}Table1_F_n2 (Hz)	\c{3}LinearFit1	\c{4}LinearFit2	</legend>
+</graph>
+</multiLayer>
+<log>
+[terça-feira, 27 de maio de 2025 10:58:53 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 4
+B (y-intercept) = 0 +/- 0
+A (slope) = 15 +/- 0
+--------------------------------------------------------------------------------------
+Chi^2 = 0
+R^2 = 1
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 10:58:58 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 4
+B (y-intercept) = 0 +/- 0
+A (slope) = 25 +/- 0
+--------------------------------------------------------------------------------------
+Chi^2 = 0
+R^2 = 1
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 11:01:58 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 4
+B (y-intercept) = 0 +/- 0
+A (slope) = 25 +/- 0
+--------------------------------------------------------------------------------------
+Chi^2 = 0
+R^2 = 1
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 11:02:07 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 4
+B (y-intercept) = 0 +/- 0
+A (slope) = 15 +/- 0
+--------------------------------------------------------------------------------------
+Chi^2 = 0
+R^2 = 1
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 15:58:16 -03	Plot: ''Graph2'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 5
+B (y-intercept) = -0,699999999999996 +/- 0,765941686205071
+A (slope) = 7,6 +/- 0,23094010767585
+--------------------------------------------------------------------------------------
+Chi^2 = 1,6
+R^2 = 0,999470417873397
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 15:58:26 -03	Plot: ''Graph2'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 2 to x = 6
+B (y-intercept) = 2,7 +/- 1,08857705285386
+A (slope) = 6,35 +/- 0,256580071972344
+--------------------------------------------------------------------------------------
+Chi^2 = 1,975
+R^2 = 0,999546315970826
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:06:48 -03	Plot: ''Graph3'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 5
+B (y-intercept) = -0,699999999999996 +/- 0,765941686205071
+A (slope) = 7,6 +/- 0,23094010767585
+--------------------------------------------------------------------------------------
+Chi^2 = 1,6
+R^2 = 0,999470417873397
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:06:59 -03	Plot: ''Graph3'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 2 to x = 6
+B (y-intercept) = 2,7 +/- 1,08857705285386
+A (slope) = 6,35 +/- 0,256580071972344
+--------------------------------------------------------------------------------------
+Chi^2 = 1,975
+R^2 = 0,999546315970826
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:10:11 -03	Plot: ''Graph4'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 5
+B (y-intercept) = -0,699999999999996 +/- 0,765941686205071
+A (slope) = 7,6 +/- 0,23094010767585
+--------------------------------------------------------------------------------------
+Chi^2 = 1,6
+R^2 = 0,999470417873397
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:10:19 -03	Plot: ''Graph4'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 2 to x = 5
+B (y-intercept) = 1,5 +/- 0,711512473537885
+A (slope) = 6,75 +/- 0,193649167310371
+--------------------------------------------------------------------------------------
+Chi^2 = 0,375
+R^2 = 0,999863797330428
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:30:08 -03	Plot: ''Graph5'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 5
+B (y-intercept) = 0,740000000000002 +/- 0,639687423668778
+A (slope) = 6,74 +/- 0,192873015219859
+--------------------------------------------------------------------------------------
+Chi^2 = 1,116
+R^2 = 0,999579185520362
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:30:27 -03	Plot: ''Graph5'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 2 to x = 6
+B (y-intercept) = 2,16 +/- 1,21589473228565
+A (slope) = 6,68 +/- 0,286589136802729
+--------------------------------------------------------------------------------------
+Chi^2 = 2,464
+R^2 = 0,999466546581915
+---------------------------------------------------------------------------------------
+</log>

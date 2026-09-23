@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Introdução
 created: 2026-08-26 14:49
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -181,12 +181,6 @@ class Conta {
 
 ---
 
----
-
-> [!abstract]- Resumo Conceitual
-> - **Conceito Central:** Classes como blueprints, objetos como instâncias com estado e comportamento
-> - **Fórmulas / Algoritmos Relevantes:** Paradigma OO, Abstração, Encapsulamento
-> - **Pegadinhas / Atenção em Provas:** Classe = tipo; Objeto = instância; Atributos = dados; Métodos = comportamentos
 
 ---
 

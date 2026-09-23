@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Comunicacao De Dados
 created: 2026-08-24 21:03
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -25,3 +25,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | [[aula-01-capitulo-3-1\|Aula 01 - Capítulo 3.1]] | 01/09/2026 |
 | [[aula-02-capitulo-3-3\|Aula 02 - Capítulo 3.3]] | 08/09/2026 |
 | [[aula-03-capitulo-3-4\|Aula 03 - Capítulo 3.4]] | 09/09/2026 |
+| [[aula-04\|Aula 04]] | 15/09/2026 |
+| [[aula-05\|Aula 05]] | 22/09/2026 |

@@ -1,0 +1,11 @@
+Engenharia de Computação IFF BJI
+Pedro Henrique Rocha de Andrade
+Prof. Fabrício Barros
+LFA - 5º Período
+02/03/2026 
+
+a) (a|b|c)(a|b|c)
+b) c(a|b|c)*
+c) (a|b|c)*ab
+d) (a|b|c)((a|b|c)(a|b|c))
+e) (b|c)*a(b|c)*a(b|c)*b

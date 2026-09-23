@@ -2,13 +2,15 @@
 publish: true
 title: MOSTRATEC 2023
 created: 2023-10-23 13:04
-modified: 2026-09-19 13:20
-published: 2026-07-26 10:13:26.021000-03:00
-photoFolder: mostratec2023
-type: blog
+modified: 2026-09-22 22:41
+tags:
+- midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
+published: 2026-07-26 10:13:26.021000-03:00
+photoFolder: mostratec2023
+type: blog
 ---
 
 # MOSTRATEC

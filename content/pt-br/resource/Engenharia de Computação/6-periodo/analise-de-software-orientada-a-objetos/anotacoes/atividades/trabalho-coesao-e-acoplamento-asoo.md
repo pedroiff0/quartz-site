@@ -2,7 +2,7 @@
 publish: false
 title: Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos
 created: 2026-09-07 16:53
-modified: 2026-09-19 13:20
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - atividade

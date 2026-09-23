@@ -1,0 +1,224 @@
+SciDAVis 2.2.7 project file
+<scripting-lang>	muParser
+<windows>	3
+<table>
+9255
+<table creation_time="2025-24-05 16:07:24:000" caption_spec="%n%C{ - }%c" name="Table1" columns="8" rows="30"><comment><![CDATA[]]></comment><column creation_time="2025-24-05 16:11:38:982" caption_spec="%n%C{ - }%c" name="n1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-24-05 16:11:38:982" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-24-05 16:11:38:982" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000000e+00</row></column><column creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="F_n1 (Hz)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">7.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.5000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">2.0600000000000001e+01</row><row type="TypeDouble" index="3" invalid="no">2.8000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">3.4200000000000003e+01</row><row type="TypeDouble" index="5" invalid="yes">0.0000000000000000e+00</row></column><column creation_time="2025-24-05 16:12:19:243" caption_spec="%n%C{ - }%c" name="n2" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-24-05 16:12:19:243" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-24-05 16:12:19:243" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">6.0000000000000000e+00</row></column><column creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="F_n2 (Hz)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-24-05 16:07:24:217" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.5000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">2.2000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">3.0000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">3.6000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">4.1399999999999999e+01</row></column><column creation_time="2025-27-05 11:03:54:732" caption_spec="%n%C{ - }%c" name="v_1 (m/s)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-27-05 11:03:54:732" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-27-05 11:03:54:732" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="5">6.7</formula><row type="TypeDouble" index="0" invalid="no">6.7000000000000002e+00</row><row type="TypeDouble" index="1" invalid="no">6.7000000000000002e+00</row><row type="TypeDouble" index="2" invalid="no">6.7000000000000002e+00</row><row type="TypeDouble" index="3" invalid="no">6.7000000000000002e+00</row><row type="TypeDouble" index="4" invalid="no">6.7000000000000002e+00</row><row type="TypeDouble" index="5" invalid="no">6.7000000000000002e+00</row></column><column creation_time="2025-29-05 15:51:05:235" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:51:05:235" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:51:05:235" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="5">2*0.58</formula><row type="TypeDouble" index="0" invalid="no">1.1599999999999999e+00</row><row type="TypeDouble" index="1" invalid="no">1.1599999999999999e+00</row><row type="TypeDouble" index="2" invalid="no">1.1599999999999999e+00</row><row type="TypeDouble" index="3" invalid="no">1.1599999999999999e+00</row><row type="TypeDouble" index="4" invalid="no">1.1599999999999999e+00</row><row type="TypeDouble" index="5" invalid="no">1.1599999999999999e+00</row></column><column creation_time="2025-27-05 11:04:08:307" caption_spec="%n%C{ - }%c" name="v_2 (m/s)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-27-05 11:04:08:307" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-27-05 11:04:08:307" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="5">6.68*2*0.688</formula><row type="TypeDouble" index="0" invalid="no">9.1916799999999981e+00</row><row type="TypeDouble" index="1" invalid="no">9.1916799999999981e+00</row><row type="TypeDouble" index="2" invalid="no">9.1916799999999981e+00</row><row type="TypeDouble" index="3" invalid="no">9.1916799999999981e+00</row><row type="TypeDouble" index="4" invalid="no">9.1916799999999981e+00</row><row type="TypeDouble" index="5" invalid="no">9.1916799999999981e+00</row></column><column creation_time="2025-29-05 15:51:47:637" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:51:47:637" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:51:47:637" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="5">col(&quot;v_1 (m/s)&quot;)*col(&quot;1&quot;)</formula><row type="TypeDouble" index="0" invalid="no">7.7719999999999994e+00</row><row type="TypeDouble" index="1" invalid="no">7.7719999999999994e+00</row><row type="TypeDouble" index="2" invalid="no">7.7719999999999994e+00</row><row type="TypeDouble" index="3" invalid="no">7.7719999999999994e+00</row><row type="TypeDouble" index="4" invalid="no">7.7719999999999994e+00</row><row type="TypeDouble" index="5" invalid="no">7.7719999999999994e+00</row></column><column_width column="0">116</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">115</column_width><column_width column="5">120</column_width><column_width column="6">120</column_width><column_width column="7">120</column_width></table>
+geometry	0	-3	912	456	
+
+</table>
+<table>
+8323
+<table creation_time="2025-29-05 15:52:08:669" caption_spec="%n%C{ - }%c" name="Table1-ColStats" columns="11" rows="1"><comment><![CDATA[Column Statistics of Table1]]></comment><column creation_time="2025-29-05 15:52:08:669" caption_spec="%n%C{ - }%c" name="Col" type="TypeQString" mode="Text" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:693" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:693" caption_spec="%n%C{ - }%c" name="OutputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeQString" index="0" invalid="no">2</row></column><column creation_time="2025-29-05 15:52:08:682" caption_spec="%n%C{ - }%c" name="Rows" type="TypeQString" mode="Text" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:694" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:694" caption_spec="%n%C{ - }%c" name="OutputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeQString" index="0" invalid="no">[1:6]</row></column><column creation_time="2025-29-05 15:52:08:682" caption_spec="%n%C{ - }%c" name="Mean" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:682" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:682" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">7.7719999999999994e+00</row></column><column creation_time="2025-29-05 15:52:08:682" caption_spec="%n%C{ - }%c" name="StandardDev" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:682" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:682" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2025-29-05 15:52:08:683" caption_spec="%n%C{ - }%c" name="Variance" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:683" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:683" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2025-29-05 15:52:08:683" caption_spec="%n%C{ - }%c" name="Sum" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:683" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:683" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.6631999999999998e+01</row></column><column creation_time="2025-29-05 15:52:08:684" caption_spec="%n%C{ - }%c" name="iMax" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:684" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:684" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+00</row></column><column creation_time="2025-29-05 15:52:08:684" caption_spec="%n%C{ - }%c" name="Max" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:684" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:684" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">7.7719999999999994e+00</row></column><column creation_time="2025-29-05 15:52:08:685" caption_spec="%n%C{ - }%c" name="iMin" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:685" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:685" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+00</row></column><column creation_time="2025-29-05 15:52:08:685" caption_spec="%n%C{ - }%c" name="Min" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:685" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:685" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">7.7719999999999994e+00</row></column><column creation_time="2025-29-05 15:52:08:685" caption_spec="%n%C{ - }%c" name="N" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2025-29-05 15:52:08:685" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2025-29-05 15:52:08:686" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">6.0000000000000000e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width><column_width column="5">120</column_width><column_width column="6">120</column_width><column_width column="7">120</column_width><column_width column="8">120</column_width><column_width column="9">120</column_width><column_width column="10">120</column_width></table>
+geometry	0	453	793	300	
+
+</table>
+<multiLayer>
+Graph1	1	1	quinta-feira, 29 de maio de 2025 15:39:53 Hora oficial do Brasil
+geometry	maximized	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	432	271
+Alignement	0	0
+<graph>
+ggeometry	16	13	1550	825
+PlotTitle	F<sub>n</sub> x <i>n</i>	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	<i>n</i>	F<sub>n</sub>(Hz)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	25	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	20	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	20	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	20	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	20	75	0	0	0
+AxisFont0	MS Shell Dlg 2	20	50	0	0	0
+AxisFont1	MS Shell Dlg 2	20	50	0	0	0
+AxisFont2	MS Shell Dlg 2	20	50	0	0	0
+AxisFont3	MS Shell Dlg 2	20	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_n1	Table1_F_n1 (Hz)	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
+curve	Table1_n2	Table1_F_n2 (Hz)	1	0	#ffff0000	0	1	7	2	#ffff0000	#ffff0000	0	#ff000000	0	1	0	64		2	0	0	29	1
+FunctionCurve	0,LinearFit1,x,1,5	2			0	1	#ffff0000	0	1	7	0	#ff0000ff	#ff0000ff	0	#ff000000	0	1	16	64		2	0	-648826736	650	1
+<formula>
+B=0.740000000000002
+A=6.74
+
+A*x+B
+</formula>
+FunctionCurve	0,LinearFit2,x,2,6	2			0	1	#ffff0000	0	1	7	0	#ff0000ff	#ff0000ff	0	#ff000000	0	1	16	64		2	0	-648807680	650	1
+<formula>
+B=2.16
+A=6.68
+
+A*x+B
+</formula>
+scale	0	5	45	0	8	5	0	0
+scale	1	5	45	0	8	5	0	0
+scale	2	0	7	0	8	5	0	0
+scale	3	0	7	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.15311004784689	43.8	MS Shell Dlg 2	18	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_F_n1 (Hz)	\c{2}Table1_F_n2 (Hz)	\c{3}LinearFit1	\c{4}LinearFit2	</legend>
+<text>	0.129186602870813	35.2285714285714	MS Shell Dlg 2	16	50	0	0	0	#ff000000	1	0	#00ffffff	0	Dataset: Table1_F_n1 (Hz)	Function: A*x+B		A = 6,7 ± 0,2	v= (7,8 ± 0,2) m/s	</text>
+<text>	0.119617224880383	27.1714285714286	MS Shell Dlg 2	16	50	0	0	0	#ff000000	1	0	#00ffffff	0	Dataset: Table1_F_n2 (Hz)	Function: A*x+B		A = 6,7 ± 0,3	v= (9,2 ± 0,4) m/s</text>
+</graph>
+</multiLayer>
+<log>
+[terça-feira, 27 de maio de 2025 10:58:53 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 4
+B (y-intercept) = 0 +/- 0
+A (slope) = 15 +/- 0
+--------------------------------------------------------------------------------------
+Chi^2 = 0
+R^2 = 1
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 10:58:58 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 4
+B (y-intercept) = 0 +/- 0
+A (slope) = 25 +/- 0
+--------------------------------------------------------------------------------------
+Chi^2 = 0
+R^2 = 1
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 11:01:58 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 4
+B (y-intercept) = 0 +/- 0
+A (slope) = 25 +/- 0
+--------------------------------------------------------------------------------------
+Chi^2 = 0
+R^2 = 1
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 11:02:07 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 4
+B (y-intercept) = 0 +/- 0
+A (slope) = 15 +/- 0
+--------------------------------------------------------------------------------------
+Chi^2 = 0
+R^2 = 1
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 15:58:16 -03	Plot: ''Graph2'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 5
+B (y-intercept) = -0,699999999999996 +/- 0,765941686205071
+A (slope) = 7,6 +/- 0,23094010767585
+--------------------------------------------------------------------------------------
+Chi^2 = 1,6
+R^2 = 0,999470417873397
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 15:58:26 -03	Plot: ''Graph2'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 2 to x = 6
+B (y-intercept) = 2,7 +/- 1,08857705285386
+A (slope) = 6,35 +/- 0,256580071972344
+--------------------------------------------------------------------------------------
+Chi^2 = 1,975
+R^2 = 0,999546315970826
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:06:48 -03	Plot: ''Graph3'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 5
+B (y-intercept) = -0,699999999999996 +/- 0,765941686205071
+A (slope) = 7,6 +/- 0,23094010767585
+--------------------------------------------------------------------------------------
+Chi^2 = 1,6
+R^2 = 0,999470417873397
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:06:59 -03	Plot: ''Graph3'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 2 to x = 6
+B (y-intercept) = 2,7 +/- 1,08857705285386
+A (slope) = 6,35 +/- 0,256580071972344
+--------------------------------------------------------------------------------------
+Chi^2 = 1,975
+R^2 = 0,999546315970826
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:10:11 -03	Plot: ''Graph4'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 5
+B (y-intercept) = -0,699999999999996 +/- 0,765941686205071
+A (slope) = 7,6 +/- 0,23094010767585
+--------------------------------------------------------------------------------------
+Chi^2 = 1,6
+R^2 = 0,999470417873397
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:10:19 -03	Plot: ''Graph4'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 2 to x = 5
+B (y-intercept) = 1,5 +/- 0,711512473537885
+A (slope) = 6,75 +/- 0,193649167310371
+--------------------------------------------------------------------------------------
+Chi^2 = 0,375
+R^2 = 0,999863797330428
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:30:08 -03	Plot: ''Graph5'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 5
+B (y-intercept) = 0,740000000000002 +/- 0,639687423668778
+A (slope) = 6,74 +/- 0,192873015219859
+--------------------------------------------------------------------------------------
+Chi^2 = 1,116
+R^2 = 0,999579185520362
+---------------------------------------------------------------------------------------
+[terça-feira, 27 de maio de 2025 16:30:27 -03	Plot: ''Graph5'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 2 to x = 6
+B (y-intercept) = 2,16 +/- 1,21589473228565
+A (slope) = 6,68 +/- 0,286589136802729
+--------------------------------------------------------------------------------------
+Chi^2 = 2,464
+R^2 = 0,999466546581915
+---------------------------------------------------------------------------------------
+[quinta-feira, 29 de maio de 2025 15:39:58 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_F_n1 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 1 to x = 5
+B (y-intercept) = 0,740000000000002 +/- 0,639687423668778
+A (slope) = 6,74 +/- 0,192873015219859
+--------------------------------------------------------------------------------------
+Chi^2 = 1,116
+R^2 = 0,999579185520362
+---------------------------------------------------------------------------------------
+[quinta-feira, 29 de maio de 2025 15:40:02 Hora oficial do Brasil	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_F_n2 (Hz), using function: A*x+B
+Y standard errors: Unknown
+From x = 2 to x = 6
+B (y-intercept) = 2,16 +/- 1,21589473228565
+A (slope) = 6,68 +/- 0,286589136802729
+--------------------------------------------------------------------------------------
+Chi^2 = 2,464
+R^2 = 0,999466546581915
+---------------------------------------------------------------------------------------
+</log>

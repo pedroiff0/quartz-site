@@ -2,7 +2,7 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Banco De Dados
 created: 2026-08-29 11:58
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 tags:
 - atividade
 - trabalho

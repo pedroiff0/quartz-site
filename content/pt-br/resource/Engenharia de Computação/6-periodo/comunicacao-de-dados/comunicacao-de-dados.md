@@ -2,7 +2,7 @@
 publish: false
 title: Comunicação de Dados
 created: 2026-07-18 12:00
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -40,40 +40,40 @@ icon: lucide-book-open
 
 
 > [!tip]  Conteúdo Programático
-> - **1. Transmissão de Dados**
->   - Conceitos e Terminologias de Transmissão de Dados
->   - Transmissão de Dados Analógica
->   - Transmissão de Dados Digital
->   - Problemas de Transmissão
->   - Capacidade de Canal
-> - **2. Meios de Transmissão**
->   - Transmissão Guiada e Meios de Transmissão Guiada
->   - Transmissão Sem Fio
->   - Conceitos de Propagação
->   - Linha de Visada
-> - **3. Comunicação de Dados Digitais**
->   - Técnicas de Codificação de Sinais
->   - Técnicas de Comunicação de Dados Digitais
->   - Transmissão Síncrona
->   - Transmissão Assíncrona
->   - Detecção e Controle de Erros
->   - Códigos de Linha
->   - Interfaceamento
-> - **4. Comunicação de Dados Analógica**
->   - Modulação de Dados Digitais
->   - Modens Modulação de Sinais Analógicos
->   - AM
->   - FM
->   - PM
-> - **5. Controle de Enlace de Dados**
->   - Controle de Fluxo e de Erros
->   - Controle de Enlace Lógico
->   - Questões de Desempenho
-> - **6. Multiplexação**
->   - FDM
->   - TDM Síncrono e Estatístico
->   - Característica de Comunicação de Última Milha.
-> - **7. Espalhamento Espectral**
+> - [x] **1. Transmissão de Dados** [[anotacoes/aula-01-capitulo-3-1|Aula 01]], [[anotacoes/aula-02-capitulo-3-3|Aula 02]], [[anotacoes/aula-03-capitulo-3-4|Aula 03]]
+>   - [x] Conceitos e Terminologias de Transmissão de Dados
+>   - [x] Transmissão de Dados Analógica [[anotacoes/aula-01-capitulo-3-1|Aula 01]]
+>   - [x] Transmissão de Dados Digital [[anotacoes/aula-02-capitulo-3-3|Aula 02]]
+>   - [x] Problemas de Transmissão [[anotacoes/aula-03-capitulo-3-4|Aula 03]]
+>   - [x] Capacidade de Canal [[anotacoes/aula-03-capitulo-3-4|Aula 03]]
+> - [ ] **2. Meios de Transmissão**
+>   - [ ] Transmissão Guiada e Meios de Transmissão Guiada
+>   - [ ] Transmissão Sem Fio
+>   - [ ] Conceitos de Propagação
+>   - [ ] Linha de Visada
+> - [ ] **3. Comunicação de Dados Digitais**
+>   - [ ] Técnicas de Codificação de Sinais
+>   - [ ] Técnicas de Comunicação de Dados Digitais
+>   - [ ] Transmissão Síncrona
+>   - [ ] Transmissão Assíncrona
+>   - [ ] Detecção e Controle de Erros
+>   - [ ] Códigos de Linha
+>   - [ ] Interfaceamento
+> - [ ] **4. Comunicação de Dados Analógica**
+>   - [ ] Modulação de Dados Digitais
+>   - [ ] Modens Modulação de Sinais Analógicos
+>   - [ ] AM
+>   - [ ] FM
+>   - [ ] PM
+> - [ ] **5. Controle de Enlace de Dados**
+>   - [ ] Controle de Fluxo e de Erros
+>   - [ ] Controle de Enlace Lógico
+>   - [ ] Questões de Desempenho
+> - [ ] **6. Multiplexação**
+>   - [ ] FDM
+>   - [ ] TDM Síncrono e Estatístico
+>   - [ ] Característica de Comunicação de Última Milha.
+> - [ ] **7. Espalhamento Espectral**
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**

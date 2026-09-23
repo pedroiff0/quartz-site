@@ -2,7 +2,7 @@
 publish: false
 title: Quadro Kanban — IFF Engenharia de Computação
 created: 2026-09-14 11:54
-modified: 2026-09-19 13:20
+modified: 2026-09-22 22:41
 tags:
 - kanban
 - academico

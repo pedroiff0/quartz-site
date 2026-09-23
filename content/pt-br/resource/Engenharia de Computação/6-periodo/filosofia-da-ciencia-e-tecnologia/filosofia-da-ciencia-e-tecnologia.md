@@ -2,7 +2,7 @@
 publish: false
 title: Filosofia da Ciência e Tecnologia
 created: 2026-07-18 12:00
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -39,19 +39,19 @@ icon: lucide-book-open
 
 
 > [!tip]  Conteúdo Programático
-> - **1. Teoria do conhecimento: arte, técnica, ciência e engenharia**
->   - Definição e contextualização sobre a condição humana
->   - Definições ciência, técnica e tecnologia
->   - O contexto do século XXI
-> - **2. O Progresso Científico e o Progresso Tecnológico**
->   - Paradigma científico dominante
->   - Definições sobre crise da Ciência, crise do paradigma científico
->   - Contexto do século XXI
-> - **3. Civilização Tecnológica, Ciência, Tecnologia e Humanismo**
->   - O laboratório como ambiente de conflito e crise
->   - O questionamento do paradigma científico
->   - O questionamento do paradigma científico e as polêmicas emergentes
->   - O Contexto do século XXI
+> - [x] **1. Teoria do conhecimento: arte, técnica, ciência e engenharia** [[anotacoes/aula-01-introducao-a-filosofia|Aula 01]], [[anotacoes/atividades/trabalho-1-introducao-a-e-a-critica-dos-pressupostos|Trabalho 1]]
+>   - [x] Definição e contextualização sobre a condição humana [[anotacoes/aula-01-introducao-a-filosofia|Aula 01]]
+>   - [x] Definições ciência, técnica e tecnologia [[anotacoes/atividades/trabalho-1-introducao-a-e-a-critica-dos-pressupostos|Trabalho 1]]
+>   - [x] O contexto do século XXI
+> - [/] **2. O Progresso Científico e o Progresso Tecnológico** [[anotacoes/aula-02-filosofia-da-tecnologia|Aula 02]], [[anotacoes/atividades/trabalho-2-filosofia-da-tecnologia|Trabalho 2]]
+>   - [x] Paradigma científico dominante [[anotacoes/aula-02-filosofia-da-tecnologia|Aula 02]]
+>   - [x] Definições sobre crise da Ciência, crise do paradigma científico [[anotacoes/atividades/trabalho-2-filosofia-da-tecnologia|Trabalho 2]]
+>   - [ ] Contexto do século XXI
+> - [ ] **3. Civilização Tecnológica, Ciência, Tecnologia e Humanismo**
+>   - [ ] O laboratório como ambiente de conflito e crise
+>   - [ ] O questionamento do paradigma científico
+>   - [ ] O questionamento do paradigma científico e as polêmicas emergentes
+>   - [ ] O Contexto do século XXI
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**

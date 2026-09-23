@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JAVASCRIPT</title>
+</head>
+<body>
+    <form>
+        <!-- inserção de campo de digitação-->
+        <input type="text" id="senha1"/>
+    <br/>
+        <input type="text" id="senha2"/>
+        
+        <!-- Botão Verfiy-->
+        <input type="button" value="Verificar" onclick="verificarSenha()"/>
+
+    </form>
+    <br/>
+    <p id="Resposta"></p>
+
+</body>
+
+<script>
+    function verificarSenha() {
+
+        // pegando elementos digitados 
+        const valor1 = document.getElementById("senha1").value;
+        const valor2 = document.getElementById("senha2").value;
+        
+        //comparando elementos
+        if(valor1 == valor2) {
+            document.getElementById("Resposta").innerHTML = "Ok!";
+        } else {
+            document.getElementById("Resposta").innerHTML = "Não correspondem";
+        }
+
+    
+    }
+</script>
+</html>

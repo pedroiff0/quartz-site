@@ -2,13 +2,15 @@
 publish: false
 title: Mostra do Conhecimento - 2026
 created: 2026-07-18 13:34
-modified: 2026-09-19 13:20
-published: 2026-07-26 10:40:28.909000-03:00
-photoFolder: mostra2026
-type: blog
+modified: 2026-09-22 22:41
+tags:
+- midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
+published: 2026-07-26 10:40:28.909000-03:00
+photoFolder: mostra2026
+type: blog
 ---
 
 # Mostra do Conhecimento - 2026
