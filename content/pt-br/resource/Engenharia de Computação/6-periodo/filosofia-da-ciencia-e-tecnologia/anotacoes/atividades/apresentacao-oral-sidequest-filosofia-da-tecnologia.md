@@ -2,7 +2,7 @@
 publish: false
 title: Apresentação Oral — Sidequest Filosofia da Tecnologia
 created: 2026-09-17 13:56
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - atividade

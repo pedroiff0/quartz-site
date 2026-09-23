@@ -2,13 +2,15 @@
 publish: true
 title: CONFICT - 2026
 created: 2026-07-18 13:34
-modified: 2026-09-19 13:20
-published: 2026-07-31 22:59:58.715000-03:00
-photoFolder: confict2026
-type: blog
+modified: 2026-09-22 22:41
+tags:
+- midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
+published: 2026-07-31 22:59:58.715000-03:00
+photoFolder: confict2026
+type: blog
 ---
 
 # CONFICT -

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 - Mapas de Karnough
 created: 2026-08-31 17:02
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -283,12 +283,6 @@ Tudo é 1, logo S = 1
 > 📖 *[Referência: ilide.info-elementos-de-eletronica-digital-capuano-francisco-gabriel-idoeta-ivan-valeije-pr_2b9feef9e166b55bcc121dacebf74415, p.138]*
 
 
----
-
-> [!abstract]- Resumo Conceitual
-> - **Conceito Central:** Mapas de Karnough como método de simplificação de expressões booleanas
-> - **Fórmulas / Algoritmos Relevantes:** Agrupamento de 1s (pares, quartetos, óctetos)
-> - **Pegadinhas / Atenção em Provas:** Decorar padrões para 2, 3 e 4 variáveis
 
 ---
 

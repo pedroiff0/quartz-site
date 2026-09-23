@@ -2,7 +2,7 @@
 publish: false
 title: Aula 03 - Capítulo 3.4
 created: 2026-09-09 16:58
-modified: 2026-09-19 13:20
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -35,12 +35,6 @@ icon: lucide-book-open
 ### Tópico
 Anotações do conteúdo ministrado neste dia...
 
----
-
-> [!abstract]- Resumo Conceitual
-> - **Conceito Central:** 
-> - **Fórmulas / Algoritmos Relevantes:**
-> - **Pegadinhas / Atenção em Provas:**
 
 ---
 

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Revisão
 created: 2026-09-15 13:47
-modified: 2026-09-21 10:12
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -95,3 +95,7 @@ Chave Estrangeira (FK):
 ---
 
 ## Dúvidas & Exercícios Recomendados
+---
+
+> [!question]- Dúvidas & Exercícios Recomendados
+> - [ ] academico exercicio 

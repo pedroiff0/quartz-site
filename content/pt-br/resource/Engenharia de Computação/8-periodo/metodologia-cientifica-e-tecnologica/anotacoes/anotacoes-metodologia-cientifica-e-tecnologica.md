@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Metodologia Cientifica E Tecnologica
 created: 2026-08-24 21:03
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula

@@ -2,7 +2,7 @@
 publish: false
 title: Banco de Dados
 created: 2026-07-18 12:00
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -39,27 +39,27 @@ icon: lucide-book-open
 
 
 > [!tip]  Conteúdo Programático
-> - **1. Linguagem de Definição e Manipulação de Dados**
-> - **2. Processamento e Otimização de Consultas**
-> - **3. Transações**
->   - Conceito
->   - Propriedades
->   - i. Atomicidade
->   - ii. Consistência
->   - iii. Isolamento
->   - iv. Durabilidade
->   - Controle e Falhas em Transações
->   - Concorrência
-> - **4. Programação em Bancos de Dados**
->   - PL/SQL
->   - i. Conceitos
->   - ii. Comandos
->   - Procedimentos Armazenados
->   - Gatilhos
-> - **5. Segurança**
->   - Privilégios de Acesso
->   - Visões
->   - Criptografia de Dados
+> - [ ] **1. Linguagem de Definição e Manipulação de Dados**
+> - [ ] **2. Processamento e Otimização de Consultas**
+> - [ ] **3. Transações**
+>   - [ ] Conceito
+>   - [ ] Propriedades
+>   - [ ] i. Atomicidade
+>   - [ ] ii. Consistência
+>   - [ ] iii. Isolamento
+>   - [ ] iv. Durabilidade
+>   - [ ] Controle e Falhas em Transações
+>   - [ ] Concorrência
+> - [ ] **4. Programação em Bancos de Dados**
+>   - [ ] PL/SQL
+>   - [ ] i. Conceitos
+>   - [ ] ii. Comandos
+>   - [ ] Procedimentos Armazenados
+>   - [ ] Gatilhos
+> - [ ] **5. Segurança**
+>   - [ ] Privilégios de Acesso
+>   - [ ] Visões
+>   - [ ] Criptografia de Dados
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**

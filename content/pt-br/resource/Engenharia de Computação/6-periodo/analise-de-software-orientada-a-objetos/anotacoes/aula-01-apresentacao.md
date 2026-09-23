@@ -3,7 +3,7 @@ publish: false
 title: Aula 01 - Apresentação
 encrypted: true
 created: 2026-09-16 14:03
-modified: 2026-09-19 13:20
+modified: 2026-09-22 22:41
 tags:
 - aula
 - engenharia-de-computacao
@@ -21,7 +21,7 @@ cssclasses:
 
 # Aula 01 - Apresentação
 
-> [!info] Informações & Checklist da Aula
+> [!info]- Informações & Checklist da Aula
 > - **Data da Aula:** 16/09/2026
 > - **Status de Revisão:**
 >   - [ ] Anotações em sala de aula
@@ -61,4 +61,8 @@ cssclasses:
 ---
 
 ## Dúvidas & Exercícios Recomendados
-- [ ] academico exercicio 
+- [ ] academico exercicio
+---
+
+> [!question]- Dúvidas & Exercícios Recomendados
+> - [ ] academico exercicio 

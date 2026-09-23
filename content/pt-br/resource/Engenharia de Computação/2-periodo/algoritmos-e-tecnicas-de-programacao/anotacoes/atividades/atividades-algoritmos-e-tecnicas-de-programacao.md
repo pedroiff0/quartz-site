@@ -2,7 +2,7 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Algoritmos E Tecnicas De Programacao
 created: 2026-08-29 11:58
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 tags:
 - atividade
 - trabalho

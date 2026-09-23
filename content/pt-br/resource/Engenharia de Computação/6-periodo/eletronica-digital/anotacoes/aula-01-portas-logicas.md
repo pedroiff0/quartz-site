@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Portas Lógicas
 created: 2026-08-24 14:50
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -339,12 +339,6 @@ flowchart LR
     AND_SAIDA --> S_OUT["Saída Final S"]
 ```
 
----
-
-> [!abstract]- Resumo Conceitual
-> - **Conceito Central:** Mintermos e Maxtermos como formas canônicas de expressões booleanas
-> - **Fórmulas / Algoritmos Relevantes:** LCOM, CBO, normalização de funções booleanas
-> - **Pegadinhas / Atenção em Provas:** Mintermos agrupam 1s (variáveis sem barra = 1); Maxtermos agrupam 0s (variáveis sem barra = 0)
 
 ---
 

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Introdução à Filosofia (Miguel Reale)
 created: 2026-09-01 17:00
-modified: 2026-09-19 13:20
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -46,13 +46,14 @@ cssclasses:
 
 > 📖 *[Referência: aula-01-introducao-a-filosofia-miguel-reale-pdf-capitulo-1]*
 
----
-
-> [!abstract]- Resumo Conceitual
-> - **Conceito Central:** Introdução à Filosofia e Teoria do Conhecimento (Miguel Reale, Cap. 1).
-> - **Atenção em Provas:** Conceito de experiência jurídica, filosófica e crítica aos pressupostos.
 
 ---
+
+---
+
+## Esquemas & Anotações Visuais (excalidraw)
+
+![[Aula 01 - Introdução à Filosofia (Miguel Reale).excalidraw]]
 
 > [!question]- Dúvidas & Exercícios Recomendados
 > - [ ] academico exercicio Fazer síntese do Capítulo 1 para o Trabalho 1

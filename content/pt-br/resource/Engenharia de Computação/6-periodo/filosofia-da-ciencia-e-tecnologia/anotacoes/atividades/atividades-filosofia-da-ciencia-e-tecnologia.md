@@ -2,7 +2,7 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Filosofia Da Ciencia E Tecnologia
 created: 2026-08-29 11:58
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 tags:
 - atividade
 - trabalho

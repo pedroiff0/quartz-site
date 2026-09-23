@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 - Construtores e Encapsulamento
 created: 2026-09-09 17:03
-modified: 2026-09-19 13:20
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -41,12 +41,6 @@ class ContaBancaria {
 }
 ```
 
----
-
-> [!abstract]- Resumo Conceitual
-> - **Conceito Central:** Construtores para inicialização de objetos; Encapsulamento com modificadores de acesso
-> - **Fórmulas / Algoritmos Relevantes:** this, super, modificadores public/private/protected
-> - **Pegadinhas / Atenção em Provas:** Construtores não retornam nada; Encapsulamento protege invariantes de classe
 
 ---
 

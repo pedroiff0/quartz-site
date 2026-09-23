@@ -2,7 +2,7 @@
 publish: false
 title: Prova 01 - Revisão Prova - Algoritmos
 created: 2026-06-18 14:49
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - prova

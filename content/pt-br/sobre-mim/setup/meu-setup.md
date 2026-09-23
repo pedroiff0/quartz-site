@@ -1,12 +1,14 @@
 ---
 publish: true
 title: Setup
+created: 2026-09-07 16:47
+modified: 2026-09-22 22:41
+tags:
+- pessoal
+icon: lucide-user
 aliases:
 - Setup
 - setup
-created: 2026-09-07 16:47
-modified: 2026-09-19 15:23
-icon: lucide-user
 cssclasses:
   - page-layout
 ---

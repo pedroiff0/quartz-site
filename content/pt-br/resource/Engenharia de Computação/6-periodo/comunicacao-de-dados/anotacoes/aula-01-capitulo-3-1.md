@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Capítulo 3.1
 created: 2026-09-01 17:18
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
@@ -65,12 +65,6 @@ Sinais Digitais
 
 > 📖 *[Referência: Forouzan_Comunicacao_de_dados_e_redes_de, p.37]*
 
----
-
-> [!abstract]- Resumo Conceitual
-> - **Conceito Central:** 
-> - **Fórmulas / Algoritmos Relevantes:**
-> - **Pegadinhas / Atenção em Provas:**
 
 ---
 

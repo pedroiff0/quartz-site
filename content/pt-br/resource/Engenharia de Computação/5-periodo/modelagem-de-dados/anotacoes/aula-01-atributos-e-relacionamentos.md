@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Atributos e Relacionamentos
 created: 2026-05-08 14:49
-modified: 2026-09-19 13:18
+modified: 2026-09-22 22:41
 encrypted: true
 tags:
 - aula
