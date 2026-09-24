@@ -28,6 +28,8 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[anotacoes-analise-de-software-orientada-a-objetos\|Anotações — Analise De Software Orientada A Objetos]] | 24/08/2026 |
+| [[aula-01-apresentacao\|Aula 01 - Apresentação]] | 16/09/2026 |
+| [[aula-02\|Aula 02]] | 02/09/2026 |
 | [[aula-03\|Aula 03]] | 09/09/2026 |
 | [[aula-04\|Aula 04]] | 16/09/2026 |
 | [[aula-05\|Aula 05]] | 23/09/2026 |

@@ -21,4 +21,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[Anotações — Dimensionamento De Redes De Computadores\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-dimensionamento-de-redes-de-computadores\|Anotações — Dimensionamento De Redes De Computadores]] | 24/08/2026 |

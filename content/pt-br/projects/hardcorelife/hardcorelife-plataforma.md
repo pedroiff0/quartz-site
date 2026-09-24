@@ -2,7 +2,7 @@
 publish: true
 title: HardCoreLife (plataforma)
 created: 2026-03-13 13:04
-modified: 2026-09-23 08:57
+modified: 2026-09-22 22:41
 published: 2026-07-26 10:03:04.736000-03:00
 tags:
 - life-os
