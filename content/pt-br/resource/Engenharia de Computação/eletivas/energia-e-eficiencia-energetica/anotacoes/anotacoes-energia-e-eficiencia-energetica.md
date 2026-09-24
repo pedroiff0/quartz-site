@@ -21,4 +21,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[Anotações — Energia E Eficiencia Energetica\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-energia-e-eficiencia-energetica\|Anotações — Energia E Eficiencia Energetica]] | 24/08/2026 |

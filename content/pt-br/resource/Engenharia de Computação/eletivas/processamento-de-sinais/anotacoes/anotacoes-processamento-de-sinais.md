@@ -21,4 +21,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[Anotações — Processamento De Sinais\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-processamento-de-sinais\|Anotações — Processamento De Sinais]] | 24/08/2026 |

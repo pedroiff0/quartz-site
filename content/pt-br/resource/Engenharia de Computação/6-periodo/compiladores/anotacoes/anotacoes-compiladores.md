@@ -23,6 +23,7 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | :--- | :---: |
 | [[anotacoes-compiladores\|Anotações — Compiladores]] | 24/08/2026 |
 | [[aula-01\|Aula 01]] | 28/08/2026 |
+| [[aula-02\|Aula 02]] | 04/09/2026 |
 | [[aula-03\|Aula 03]] | 11/09/2026 |
 | [[aula-04\|Aula 04]] | 18/09/2026 |
 | [[aula-05\|Aula 05]] | 25/09/2026 |

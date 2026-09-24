@@ -28,6 +28,7 @@ Este repositório centraliza todos os **trabalhos práticos, seminários, listas
 | Atividade / Trabalho | Data |
 | :--- | :---: |
 | [[atividades-analise-de-software-orientada-a-objetos\|Atividades, Trabalhos & Provas — Análise de Software Orientada a Objetos]] | 29/08/2026 |
+| [[trabalho-coesao-e-acoplamento-asoo\|Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos]] | 07/09/2026 |
 
 ---
 
