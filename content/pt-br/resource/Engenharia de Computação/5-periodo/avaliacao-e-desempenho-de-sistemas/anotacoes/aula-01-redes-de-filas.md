@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Redes de Filas
 created: 2026-06-10 14:49
-modified: 2026-09-22 22:41
+modified: 2026-09-26 21:47
 encrypted: true
 tags:
 - aula
@@ -29,9 +29,9 @@ Tipos:
 * Aberta
 > 📖 *[Referência: Análise_de_Operacional_de_Redes_de_Filas, p.9]*
 * Fechada
-![[Pasted image 20260610175705.png]]
+![[pasted-image-20260610175705.png]]
 * Mistas
-![[Pasted image 20260610175733.png]]
+![[pasted-image-20260610175733.png]]
 
 Cargas:
 * Abertas:  

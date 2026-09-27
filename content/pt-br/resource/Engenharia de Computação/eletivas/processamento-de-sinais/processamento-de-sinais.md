@@ -2,7 +2,7 @@
 publish: false
 title: Processamento de Sinais
 created: 2026-07-18 12:00
-modified: 2026-09-22 22:41
+modified: 2026-09-26 21:47
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -13,7 +13,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Processamento De Sinais|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Processamento De Sinais|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes-processamento-de-sinais|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[anotacoes/atividades/atividades-processamento-de-sinais|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
@@ -80,4 +80,4 @@ icon: lucide-book-open
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[Anotações/Anotações — Processamento De Sinais|Anotações da Disciplina]]**
+- **[[anotacoes/anotacoes-processamento-de-sinais|Anotações da Disciplina]]**

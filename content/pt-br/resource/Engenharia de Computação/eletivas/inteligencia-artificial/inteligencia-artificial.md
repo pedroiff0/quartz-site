@@ -2,7 +2,7 @@
 publish: false
 title: Inteligência Artificial
 created: 2026-07-18 12:00
-modified: 2026-09-22 22:41
+modified: 2026-09-26 21:47
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -13,7 +13,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Inteligencia Artificial|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Inteligencia Artificial|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes-inteligencia-artificial|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[anotacoes/atividades/atividades-inteligencia-artificial|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
@@ -84,4 +84,4 @@ icon: lucide-book-open
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[Anotações/Anotações — Inteligencia Artificial|Anotações da Disciplina]]**
+- **[[anotacoes/anotacoes-inteligencia-artificial|Anotações da Disciplina]]**

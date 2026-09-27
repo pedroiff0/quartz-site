@@ -2,7 +2,7 @@
 publish: false
 title: Interconexão de Redes de Computadores
 created: 2026-07-18 12:00
-modified: 2026-09-22 22:41
+modified: 2026-09-26 21:47
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -13,7 +13,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Interconexao De Redes De Computadores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Interconexao De Redes De Computadores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes-interconexao-de-redes-de-computadores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[anotacoes/atividades/atividades-interconexao-de-redes-de-computadores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
@@ -65,4 +65,4 @@ icon: lucide-book-open
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[Anotações/Anotações — Interconexao De Redes De Computadores|Anotações da Disciplina]]**
+- **[[anotacoes/anotacoes-interconexao-de-redes-de-computadores|Anotações da Disciplina]]**
