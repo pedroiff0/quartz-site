@@ -21,5 +21,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[Anotações — Geoprocessamento\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-geoprocessamento\|Anotações — Geoprocessamento]] | 24/08/2026 |

@@ -21,5 +21,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[Anotações — Computacao Grafica\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-computacao-grafica\|Anotações — Computacao Grafica]] | 24/08/2026 |

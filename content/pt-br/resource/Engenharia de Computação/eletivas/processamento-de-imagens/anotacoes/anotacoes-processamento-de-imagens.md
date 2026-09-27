@@ -21,5 +21,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[Anotações — Processamento De Imagens\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-processamento-de-imagens\|Anotações — Processamento De Imagens]] | 24/08/2026 |

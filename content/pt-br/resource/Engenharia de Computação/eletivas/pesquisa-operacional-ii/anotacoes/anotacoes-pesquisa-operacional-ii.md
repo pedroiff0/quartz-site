@@ -21,5 +21,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[Anotações — Pesquisa Operacional Ii\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-pesquisa-operacional-ii\|Anotações — Pesquisa Operacional Ii]] | 24/08/2026 |

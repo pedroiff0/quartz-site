@@ -21,5 +21,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[Anotações — Modelagem Ambiental\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-modelagem-ambiental\|Anotações — Modelagem Ambiental]] | 24/08/2026 |

@@ -21,5 +21,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[Anotações — Computacao Paralela E Distribuida\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-computacao-paralela-e-distribuida\|Anotações — Computacao Paralela E Distribuida]] | 24/08/2026 |
