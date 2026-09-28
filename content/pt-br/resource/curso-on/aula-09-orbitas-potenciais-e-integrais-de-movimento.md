@@ -2,21 +2,25 @@
 publish: false
 title: Aula 09 — Órbitas, Potenciais e Integrais de Movimento
 created: 2026-07-25 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - dinamica-estelar
-  - dinamica-galactica
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- dinamica-estelar
+- dinamica-galactica
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Da massa ao potencial gravitacional (equação de Poisson), órbitas em sistemas esféricos e axissimétricos, formalismo hamiltoniano e coordenadas ação-ângulo, colisões estelares, a equação de Boltzmann sem colisões, as equações de Jeans e o teorema do virial
+content: Da massa ao potencial gravitacional (equação de Poisson), órbitas em sistemas
+  esféricos e axissimétricos, formalismo hamiltoniano e coordenadas ação-ângulo, colisões
+  estelares, a equação de Boltzmann sem colisões, as equações de Jeans e o teorema
+  do virial
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|← Aula 08 — Velocidades e Movimento Próprio]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Aula 10 — Integração de Órbitas com galpy →]]

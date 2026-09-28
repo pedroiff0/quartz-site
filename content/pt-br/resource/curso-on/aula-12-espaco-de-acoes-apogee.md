@@ -2,22 +2,25 @@
 publish: false
 title: Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - dinamica-estelar
-  - espaco-de-acoes
-  - pratica
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- dinamica-estelar
+- espaco-de-acoes
+- pratica
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Aula prática (APOGEE DR19) — excentricidade, pericentro/apocentro, diagrama de Toomre, o espaço (E, Lz) e o "diamante" de ações (JR, Jz, Lz) para separar populações estelares e identificar acréscimos
+content: Aula prática (APOGEE DR19) — excentricidade, pericentro/apocentro, diagrama
+  de Toomre, o espaço (E, Lz) e o "diamante" de ações (JR, Jz, Lz) para separar populações
+  estelares e identificar acréscimos
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|← Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico →]]

@@ -2,20 +2,22 @@
 publish: false
 title: Aula 08 — Velocidades e Movimento Próprio
 created: 2026-07-23 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - cinematica-estelar
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- cinematica-estelar
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Velocidade radial e tangencial, o Padrão Local de Repouso e o movimento próprio das estrelas
+content: Velocidade radial e tangencial, o Padrão Local de Repouso e o movimento próprio
+  das estrelas
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|← Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|Aula 09 — Órbitas, Potenciais e Integrais de Movimento →]]

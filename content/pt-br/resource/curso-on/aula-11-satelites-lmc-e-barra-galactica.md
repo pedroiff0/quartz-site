@@ -2,22 +2,25 @@
 publish: false
 title: Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - dinamica-estelar
-  - galpy
-  - pratica
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- dinamica-estelar
+- galpy
+- pratica
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Aula prática (galpy) — pericentro/apocentro de galáxias satélites, comparação entre potenciais, a Grande Nuvem de Magalhães como perturbador em referencial não inercial, e ressonâncias orbitais na barra galáctica (corrotação e OLR)
+content: Aula prática (galpy) — pericentro/apocentro de galáxias satélites, comparação
+  entre potenciais, a Grande Nuvem de Magalhães como perturbador em referencial não
+  inercial, e ressonâncias orbitais na barra galáctica (corrotação e OLR)
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|← Aula 10 — Integração de Órbitas com galpy]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica →]]
@@ -59,7 +62,7 @@ O mesmo procedimento é repetido tanto para `MWPotential2014` quanto para `McMil
 > [!warning] Múltiplas órbitas de uma vez, sem laço `for`
 > O galpy aceita um array de condições iniciais (ex.: 100 amostras de incerteza gaussianas em torno de Bootes III) e integra todas simultaneamente — mas o notebook faz questão de avisar: nesse exemplo específico, as incertezas de movimento próprio foram amostradas **sem** covariância (diferente do procedimento cuidadoso da Aula 10). O objetivo ali é só ilustrar a mecânica de integrar um ensemble de órbitas de uma vez, não produzir uma incerteza estatisticamente correta.
 
-## A barra galáctica e suas ressonâncias
+## 〰 A barra galáctica e suas ressonâncias
 
 A Via Láctea tem uma **barra** no seu centro, modelada aqui com o `DehnenBarPotential` — um potencial parametrizado por velocidade angular de padrão ($\Omega_b$), comprimento, intensidade, e um período de "aquecimento" gradual ($t_{form}$, $t_{steady}$) para evitar choques numéricos ao ligar a barra.
 

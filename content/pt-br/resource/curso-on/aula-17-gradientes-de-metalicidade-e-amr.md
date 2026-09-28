@@ -2,22 +2,25 @@
 publish: false
 title: Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade
 created: 2026-07-25 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - evolucao-quimica
-  - gradiente-de-metalicidade
-  - migracao-radial
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- evolucao-quimica
+- gradiente-de-metalicidade
+- migracao-radial
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Gradientes radiais e verticais de metalicidade no disco, bojo e halo, migração radial (blurring e churning), gradientes extragalácticos, e o problema histórico da relação idade-metalicidade (AMR)
+content: Gradientes radiais e verticais de metalicidade no disco, bojo e halo, migração
+  radial (blurring e churning), gradientes extragalácticos, e o problema histórico
+  da relação idade-metalicidade (AMR)
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|← Aula 16 — Métodos de Determinação de Idades Estelares]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash|Aula 18 — Proto-Disco, Spin-Up e o Disco Splash →]]

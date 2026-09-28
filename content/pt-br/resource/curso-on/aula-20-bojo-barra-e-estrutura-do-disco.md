@@ -2,22 +2,26 @@
 publish: false
 title: Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 created: 2026-07-25 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - bojo-galactico
-  - barra-galactica
-  - estrutura-do-disco
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- bojo-galactico
+- barra-galactica
+- estrutura-do-disco
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Classificação morfológica de galáxias e a Via Láctea como espiral barrada típica; o bojo em X e a barra reveladas por contagens estelares; decomposição orbital do bojo (disco, barra, bojo esferoidal clássico); estrutura do disco (warp, cutoff, flare); e o catálogo de mergers confirmados do halo
+content: Classificação morfológica de galáxias e a Via Láctea como espiral barrada
+  típica; o bojo em X e a barra reveladas por contagens estelares; decomposição orbital
+  do bojo (disco, barra, bojo esferoidal clássico); estrutura do disco (warp, cutoff,
+  flare); e o catálogo de mergers confirmados do halo
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|← Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites →]]

@@ -2,21 +2,23 @@
 publish: false
 title: Aula 04 — Espectroscopia e Metalicidade
 created: 2026-07-23 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - espectroscopia
-  - metalicidade
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- espectroscopia
+- metalicidade
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Leis de Kirchhoff, formação de linhas espectrais, a descoberta do hélio e a notação de metalicidade [Fe/H]
+content: Leis de Kirchhoff, formação de linhas espectrais, a descoberta do hélio e
+  a notação de metalicidade [Fe/H]
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|← Aula 03 — Magnitudes, Cores e Classificação Espectral]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Aula 05 — Avermelhamento, Extinção e IMF →]]

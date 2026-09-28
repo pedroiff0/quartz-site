@@ -2,22 +2,25 @@
 publish: false
 title: Aula 10 — Integração de Órbitas com galpy
 created: 2026-07-25 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - dinamica-estelar
-  - galpy
-  - pratica
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- dinamica-estelar
+- galpy
+- pratica
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Aula prática (Google Colab/galpy) — construir potenciais galácticos, obter dados do Gaia via SQL/TAP, integrar órbitas estelares com incertezas por Monte Carlo, e simular o efeito de fricção dinâmica de um satélite (Sagitário) sobre o disco
+content: Aula prática (Google Colab/galpy) — construir potenciais galácticos, obter
+  dados do Gaia via SQL/TAP, integrar órbitas estelares com incertezas por Monte Carlo,
+  e simular o efeito de fricção dinâmica de um satélite (Sagitário) sobre o disco
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|← Aula 09 — Órbitas, Potenciais e Integrais de Movimento]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica →]]

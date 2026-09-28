@@ -1,22 +1,25 @@
 ---
 publish: false
-title: "Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos"
+title: 'Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos'
 created: 2026-07-25 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - evolucao-quimica
-  - disco-fino-espesso
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- evolucao-quimica
+- disco-fino-espesso
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Distribuição de metalicidade em halo e bojo, a separação química disco fino/espesso no diagrama [α/Fe]-[Fe/H], razões de abundância como diagnóstico de enriquecimento e a identificação de estrelas capturadas de galáxias satélites
+content: Distribuição de metalicidade em halo e bojo, a separação química disco fino/espesso
+  no diagrama [α/Fe]-[Fe/H], razões de abundância como diagnóstico de enriquecimento
+  e a identificação de estrelas capturadas de galáxias satélites
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|← Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos|Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos →]]

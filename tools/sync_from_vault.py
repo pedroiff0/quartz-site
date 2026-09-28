@@ -9,7 +9,7 @@ hl_materiais = os.path.join(hl_eng, '_materiais')
 qs_eng = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/Engenharia de Computação'
 qs_disciplinas = '/home/pedro/Repositorios/pessoal/quartz-site/content/assets/disciplinas'
 
-hl_escola = '/home/pedro/hardcore-life/04-recursos/cursos/escola-de-inverno-on'
+hl_escola = '/home/pedro/hardcore-life/04-recursos/02-areas/academico/cursos/escola-de-inverno-on'
 qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/escolainverno'
 
 EXCLUDED_DIR_NAMES = {
@@ -527,8 +527,8 @@ def transform_markdown_file(file_path: str):
     content = pdf_pattern.sub(pdf_link_replacer, content)
 
     # 2.5 Copiar anexos e imagens coladas (Pasted image) do cofre automaticamente
-    pasted_images = re.findall(r'!\[\[(Pasted image [^\]|]+)\]\]', content)
-    vault_attachments = '/home/pedro/hardcore-life/99 - Meta/attachments'
+    pasted_images = re.findall(r'!\[\[(pasted[ -]image[^\]|]+)\]\]', content, flags=re.IGNORECASE)
+    vault_attachments = '/home/pedro/hardcore-life/04-recursos/99-meta-assets/imagens'
     assets_dest = '/home/pedro/Repositorios/pessoal/quartz-site/content/assets'
     for img_name in pasted_images:
         src_img = os.path.join(vault_attachments, img_name)
@@ -781,7 +781,7 @@ if __name__ == '__main__':
     print('✅ Notas acadêmicas sincronizadas com sucesso!')
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Escola de Inverno) PARA O QUARTZ-SITE ===')
-    hl_escola = '/home/pedro/hardcore-life/04-recursos/cursos/escola-de-inverno-on'
+    hl_escola = '/home/pedro/hardcore-life/04-recursos/02-areas/academico/cursos/escola-de-inverno-on'
     qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/escolainverno'
     sync_dirs(hl_escola, qs_escola)
     print('✅ Notas da Escola de Inverno sincronizadas com sucesso!')
@@ -797,7 +797,7 @@ if __name__ == '__main__':
     sync_dirs(hl_proj, qs_proj)
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Pesquisas) PARA O QUARTZ-SITE ===')
-    hl_notes = '/home/pedro/hardcore-life/04-recursos/01-projetos-recursos/academico/anomaly-detection/papers/notes'
+    hl_notes = '/home/pedro/hardcore-life/04-recursos/02-areas/academico/pesquisas/deteccao-de-anomalias-em-estrelas-da-via-lactea-2025/anomaly-detection/papers/notes'
     qs_articles = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/research/anomaly-detection/articles'
     if os.path.exists(hl_notes):
         sync_dirs(hl_notes, qs_articles)
@@ -810,7 +810,7 @@ if __name__ == '__main__':
 
     print('\n=== 🔄 SINCRONIZANDO MATERIAIS DE JOURNAL CLUBS PARA ASSETS ===')
     for club in ['mwbr', 'engcomp']:
-        hl_mat = f'/home/pedro/hardcore-life/04-recursos/02-areas-recursos/academico/pesquisas/journal-clubs/{club}/_materiais'
+        hl_mat = f'/home/pedro/hardcore-life/04-recursos/02-areas/academico/pesquisas/journal-clubs/{club}'
         qs_mat = f'/home/pedro/Repositorios/pessoal/quartz-site/content/assets/journal-clubs/{club}'
         if os.path.exists(hl_mat):
             os.makedirs(qs_mat, exist_ok=True)
@@ -826,12 +826,12 @@ if __name__ == '__main__':
             print(f'✅ Materiais de {club} sincronizados para assets com sucesso!')
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Cursos & Recursos) PARA O QUARTZ-SITE ===')
-    hl_curso_on = '/home/pedro/hardcore-life/04-recursos/cursos/curso-on'
+    hl_curso_on = '/home/pedro/hardcore-life/02-areas/academico/cursos/curso-on'
     qs_curso_on = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/curso-on'
     if os.path.exists(hl_curso_on):
         sync_dirs(hl_curso_on, qs_curso_on)
 
-    hl_latex = '/home/pedro/hardcore-life/04-recursos/cursos/latex-e-escrita-cientifica'
+    hl_latex = '/home/pedro/hardcore-life/04-recursos/02-areas/academico/cursos/latex-e-escrita-cientifica'
     qs_latex = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/latex'
     if os.path.exists(hl_latex):
         sync_dirs(hl_latex, qs_latex)

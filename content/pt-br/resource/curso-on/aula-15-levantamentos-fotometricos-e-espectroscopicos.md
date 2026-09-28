@@ -2,21 +2,25 @@
 publish: false
 title: Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
 created: 2026-07-25 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.987-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.987000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - levantamento
-  - big-data
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- levantamento
+- big-data
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Panorama histórico dos grandes levantamentos astronômicos — de catálogos visuais e placas fotográficas aos surveys digitais all-sky (SDSS, 2MASS, DES, Euclid, LSST) — e comparação dos principais levantamentos espectroscópicos usados em arqueologia galáctica (Gaia, Gaia-ESO, APOGEE, GALAH, LAMOST, DESI, entre outros)
+content: Panorama histórico dos grandes levantamentos astronômicos — de catálogos
+  visuais e placas fotográficas aos surveys digitais all-sky (SDSS, 2MASS, DES, Euclid,
+  LSST) — e comparação dos principais levantamentos espectroscópicos usados em arqueologia
+  galáctica (Gaia, Gaia-ESO, APOGEE, GALAH, LAMOST, DESI, entre outros)
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|← Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares|Aula 16 — Métodos de Determinação de Idades Estelares →]]

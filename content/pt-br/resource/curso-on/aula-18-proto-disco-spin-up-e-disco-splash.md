@@ -2,21 +2,25 @@
 publish: false
 title: Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
 created: 2026-07-25 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - historia-da-via-lactea
-  - gaia-sausage-enceladus
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- historia-da-via-lactea
+- gaia-sausage-enceladus
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Cronologia da evolução galáctica (parte 1) — do pipeline observacional aos parâmetros orbitais, a Via Láctea proto-galáctica (Kraken, Heracles, Aurora e outras candidatas), o disco primordial em z~3, o spin-up do disco e o disco "splash" aquecido pela fusão GSE
+content: Cronologia da evolução galáctica (parte 1) — do pipeline observacional aos
+  parâmetros orbitais, a Via Láctea proto-galáctica (Kraken, Heracles, Aurora e outras
+  candidatas), o disco primordial em z~3, o spin-up do disco e o disco "splash" aquecido
+  pela fusão GSE
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr|← Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo →]]

@@ -2,20 +2,22 @@
 publish: false
 title: Aula 01 — Conceito e Histórico
 created: 2026-07-23 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - via-lactea
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- via-lactea
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: O que é arqueologia galáctica, o conceito de população estelar simples e o histórico das descobertas que levaram à identificação das populações I e II
+content: O que é arqueologia galáctica, o conceito de população estelar simples e
+  o histórico das descobertas que levaram à identificação das populações I e II
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados|Aula 02 — Diagrama HR e Aglomerados Estelares →]]

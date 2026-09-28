@@ -2,21 +2,23 @@
 publish: false
 title: Aula 05 — Avermelhamento, Extinção e IMF
 created: 2026-07-23 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.983-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - meio-interestelar
-  - extincao-interestelar
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- meio-interestelar
+- extincao-interestelar
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: O meio interestelar, a extinção e o avermelhamento da luz por poeira, e a função de massa inicial revisitada
+content: O meio interestelar, a extinção e o avermelhamento da luz por poeira, e a
+  função de massa inicial revisitada
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade|← Aula 04 — Espectroscopia e Metalicidade]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade|Aula 06 — Diagrama HR e Relação Massa-Luminosidade →]]

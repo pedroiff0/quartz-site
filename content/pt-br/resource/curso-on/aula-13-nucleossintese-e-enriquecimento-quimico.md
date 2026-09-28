@@ -2,21 +2,24 @@
 publish: false
 title: Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 created: 2026-07-25 12:36
-modified: 2026-09-16 12:20
-published: 2026-07-26T11:33:09.987-03:00
+modified: 2026-09-22 22:41
+published: 2026-07-26 11:33:09.987000-03:00
 tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - nucleossintese
-  - evolucao-quimica
+- curso-on
+- arqueologia-galactica
+- populacoes-estelares
+- nucleossintese
+- evolucao-quimica
 cssclasses:
-  - page-grid
-  - center-images
+- page-grid
+- center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-content: Nucleossíntese primordial (BBN) e estelar — queima de H/He, dragagens, processos alfa/e/s/i/r/p/x/neutrino —, números mágicos e o efeito da metalicidade na formação estelar
+content: Nucleossíntese primordial (BBN) e estelar — queima de H/He, dragagens, processos
+  alfa/e/s/i/r/p/x/neutrino —, números mágicos e o efeito da metalicidade na formação
+  estelar
 professor: Hélio Dotto Perottoni
+icon: lucide-book-open
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|← Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso|Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos →]]
