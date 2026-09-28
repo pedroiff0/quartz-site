@@ -2,7 +2,7 @@
 publish: false
 title: Teoria Geral da Administração
 created: 2026-07-18 12:00
-modified: 2026-09-22 22:41
+modified: 2026-09-28 10:30
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -13,7 +13,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Teoria Geral Da Administracao|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Teoria Geral Da Administracao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Teoria Geral Da Administracao|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Teoria Geral Da Administracao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
