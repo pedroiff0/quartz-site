@@ -2,7 +2,7 @@
 publish: true
 title: Projetos
 created: 2026-07-22 19:20
-modified: 2026-09-28 22:25
+modified: 2026-09-29 08:35
 tags:
 - projeto
 cssclasses:
@@ -104,7 +104,7 @@ Projetos pessoais de desenvolvimento — ferramentas, aplicações e material di
 
 ## Em planejamento
 
-- [[01-projetos/site-publico/hardcorelife/hardcorelife-plataforma|HardCoreLife]] — plataforma pessoal modular (financeiro, tarefas, compartilhamento familiar).
+- [[01-projetos/site-publico/hardcore-life/hardcore-life|HardCoreLife]] — plataforma pessoal modular (financeiro, tarefas, compartilhamento familiar).
 - [[01-projetos/site-publico/searcher/arxiv-searcher|arXiv Searcher]] — ferramenta de busca e organização automática de artigos do arXiv.
 - [[01-projetos/site-publico/apostilas/arquivo-de-apostilas|Arquivo de Apostilas]] — apostilas próprias cobrindo toda a grade do curso de Engenharia de Computação.
 - [[01-projetos/site-publico/guiagithub/guia-github|Guia de Git & GitHub]] — guia de Git e boas práticas de versionamento.
