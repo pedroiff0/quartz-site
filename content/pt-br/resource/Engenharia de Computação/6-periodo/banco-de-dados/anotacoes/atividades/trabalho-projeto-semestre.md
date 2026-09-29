@@ -6,7 +6,7 @@ tags:
 - aula
 - engenharia-de-computacao
 created: 2026-09-29 15:36
-modified: 2026-09-29 20:04
+modified: 2026-09-29 20:15
 cssclasses:
 - page-layout
 icon: lucide-book-open
@@ -31,15 +31,13 @@ discipline: "[[banco-de-dados]]"
 >   - [ ] Destilação para [[07-permanente/notas-permanentes|Notas Permanentes]]
 
 ---
-
 ## Anotações do Quadro & Conteúdo
 
 ### Projeto Cavil
 - 
-
 ---
-
 ## Esquemas & Anotações Visuais (excalidraw)
+
 ---
 > [!question]- Dúvidas & Exercícios Recomendados
-> - [ ] academico exercicio 
+> - [ ] Ver trabalho com o João 📅 2026-10-06 
