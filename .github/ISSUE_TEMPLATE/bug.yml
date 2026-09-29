@@ -1,0 +1,33 @@
+name: Relato de Bug
+description: Crie um relatório para nos ajudar a identificar e corrigir um problema
+title: "fix: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Obrigado por relatar o problema! Forneça detalhes objetivos abaixo.
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição do Bug
+      description: Uma explicação clara do que ocorreu de forma inesperada.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos para Reproduzir
+      description: Como reproduzir o comportamento observado.
+      placeholder: |
+        1. Acesse '...'
+        2. Clique em '....'
+        3. Veja o erro
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamento Esperado
+      description: O que deveria ter acontecido.
+    validations:
+      required: true

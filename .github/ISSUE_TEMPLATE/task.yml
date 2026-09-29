@@ -1,0 +1,22 @@
+name: Tarefa Técnica
+description: Registre uma tarefa de refatoração, documentação, infraestrutura ou testes
+title: "chore: "
+labels: ["task"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Objetivo da Tarefa
+      description: O que precisa ser feito tecnicamente.
+    validations:
+      required: true
+  - type: textarea
+    id: checklist
+    attributes:
+      label: Critérios de Aceite
+      description: Checklist do que é necessário para considerar a tarefa concluída.
+      placeholder: |
+        - [ ] Item 1
+        - [ ] Item 2
+    validations:
+      required: true
