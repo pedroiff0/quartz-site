@@ -2,7 +2,7 @@
 publish: false
 title: trancas
 created: 2026-09-22 22:29
-modified: 2026-09-26 21:47
+modified: 2026-09-29 20:44
 tags:
 - recurso
 cssclasses:
