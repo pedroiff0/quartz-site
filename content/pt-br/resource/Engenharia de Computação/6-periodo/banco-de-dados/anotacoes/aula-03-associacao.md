@@ -6,8 +6,9 @@ tags:
 - aula
 - engenharia-de-computacao
 created: 2026-09-16 17:41
-modified: 2026-09-28 09:38
+modified: 2026-09-29 20:04
 icon: lucide-book-open
+discipline: "[[banco-de-dados]]"
 cssclasses:
   - page-layout
 ---

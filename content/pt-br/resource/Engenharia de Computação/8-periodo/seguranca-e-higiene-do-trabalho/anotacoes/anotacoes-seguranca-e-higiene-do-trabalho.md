@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Seguranca E Higiene Do Trabalho
 created: 2026-08-24 21:03
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - atividade
@@ -12,6 +12,7 @@ cssclasses:
 - page-layout
 - cards
 icon: lucide-book-open
+discipline: "[[seguranca-e-higiene-do-trabalho]]"
 ---
 
 # Anotações de Quadro & Conteúdo das Aulas

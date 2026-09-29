@@ -2,7 +2,7 @@
 publish: false
 title: Trabalho - Espaço Cultural (Lixo Eletroeletrônico & Projeto Circuitos Verdes)
 created: 2026-09-10 14:04
-modified: 2026-09-26 21:50
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - atividade
@@ -13,6 +13,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+discipline: "[[filosofia-da-ciencia-e-tecnologia]]"
 ---
 
 # Trabalho - Espaço Cultural: Lixo Eletroeletrônico & Projeto Circuitos Verdes

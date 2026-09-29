@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Algoritmos E Tecnicas De Programacao
 created: 2026-08-24 21:03
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - aula
@@ -11,6 +11,7 @@ cssclasses:
 - page-layout
 - cards
 icon: lucide-book-open
+discipline: "[[algoritmos-e-tecnicas-de-programacao]]"
 ---
 
 # Anotações de Quadro & Conteúdo das Aulas

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 - Pegada Ambiental
 created: 2026-04-09 14:49
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - aula
@@ -10,6 +10,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+discipline: "[[gestao-ambiental]]"
 ---
 # Aula 02 - Pegada Ambiental
 

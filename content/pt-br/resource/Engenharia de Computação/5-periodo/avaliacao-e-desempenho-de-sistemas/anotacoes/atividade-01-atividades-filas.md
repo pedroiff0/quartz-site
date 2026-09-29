@@ -2,7 +2,7 @@
 publish: false
 title: Atividade 01 - Atividades - Filas
 created: 2026-04-05 14:49
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - atividade
@@ -11,6 +11,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+discipline: "[[avaliacao-e-desempenho-de-sistemas]]"
 ---
 # Atividade 01 - Atividades - Filas
 

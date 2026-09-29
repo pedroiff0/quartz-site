@@ -2,12 +2,13 @@
 publish: false
 title: Aula 01 - Detecção de Anomalias em Estrelas
 created: 2026-04-06 14:49
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 icon: lucide-book-open
+discipline: "[[metodologia-cientifica-e-tecnologica]]"
 cssclasses:
   - page-layout
 ---

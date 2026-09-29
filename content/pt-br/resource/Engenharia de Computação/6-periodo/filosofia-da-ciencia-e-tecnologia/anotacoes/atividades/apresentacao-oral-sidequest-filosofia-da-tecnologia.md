@@ -2,7 +2,7 @@
 publish: false
 title: Artigo Acadêmico, Semiótica & Apresentação Oral — Gachiakuta, Cupani e Miguel Reale
 created: 2026-09-17 13:56
-modified: 2026-09-26 22:18
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - artigo-academico
@@ -15,6 +15,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+discipline: "[[filosofia-da-ciencia-e-tecnologia]]"
 ---
 
 # A Ontologia, a Semiótica e o *Thauma* em *Gachiakuta*: Razão Instrumental (Cupani), Epistemologia dos Pressupostos (Miguel Reale) e a Teoria dos Signos

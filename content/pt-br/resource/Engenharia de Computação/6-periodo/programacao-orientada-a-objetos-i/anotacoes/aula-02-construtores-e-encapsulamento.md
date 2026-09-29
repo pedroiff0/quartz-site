@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 - Construtores e Encapsulamento
 created: 2026-09-09 17:03
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - aula
@@ -10,6 +10,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+discipline: "[[programacao-orientada-a-objetos-i]]"
 ---
 
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">

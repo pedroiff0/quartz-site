@@ -2,7 +2,7 @@
 publish: false
 title: Prova 01 - Revisão Prova - Algoritmos
 created: 2026-06-18 14:49
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - prova
@@ -10,6 +10,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+discipline: "[[projeto-e-analise-de-algoritmos]]"
 ---
 # Prova 01 - Revisão Prova - Algoritmos
 

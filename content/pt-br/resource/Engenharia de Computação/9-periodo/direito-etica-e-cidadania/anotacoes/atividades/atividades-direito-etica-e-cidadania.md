@@ -2,7 +2,7 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Direito Etica E Cidadania
 created: 2026-08-29 11:58
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 tags:
 - atividade
 - trabalho
@@ -11,6 +11,7 @@ cssclasses:
 - page-layout
 - cards
 icon: lucide-book-open
+discipline: "[[direito-etica-e-cidadania]]"
 ---
 
 # Atividades, Trabalhos & Avaliações

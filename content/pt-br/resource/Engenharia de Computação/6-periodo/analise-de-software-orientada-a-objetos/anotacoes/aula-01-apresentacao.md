@@ -3,11 +3,12 @@ publish: false
 title: Aula 01 - Apresentação
 encrypted: true
 created: 2026-09-16 14:03
-modified: 2026-09-29 19:49
+modified: 2026-09-29 20:04
 tags:
 - aula
 - engenharia-de-computacao
 icon: lucide-book-open
+discipline: "[[analise-de-software-orientada-a-objetos]]"
 cssclasses:
   - page-layout
 ---

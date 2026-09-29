@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Redes de Filas
 created: 2026-06-10 14:49
-modified: 2026-09-26 21:47
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - aula
@@ -10,6 +10,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+discipline: "[[avaliacao-e-desempenho-de-sistemas]]"
 ---
 # Aula 01 - Redes de Filas
 

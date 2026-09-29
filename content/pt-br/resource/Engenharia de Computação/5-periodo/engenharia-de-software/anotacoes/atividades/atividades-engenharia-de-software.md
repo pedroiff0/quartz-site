@@ -2,7 +2,7 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Engenharia De Software
 created: 2026-08-29 11:58
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 tags:
 - atividade
 - trabalho
@@ -11,6 +11,7 @@ cssclasses:
 - page-layout
 - cards
 icon: lucide-book-open
+discipline: "[[engenharia-de-software]]"
 ---
 
 # Atividades, Trabalhos & Avaliações

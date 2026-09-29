@@ -6,10 +6,11 @@ tags:
 - aula
 - engenharia-de-computacao
 created: 2026-09-14 14:00
-modified: 2026-09-28 20:14
+modified: 2026-09-29 20:04
 cssclasses:
 - page-layout
 icon: lucide-book-open
+discipline: "[[eletronica-digital]]"
 ---
 
 

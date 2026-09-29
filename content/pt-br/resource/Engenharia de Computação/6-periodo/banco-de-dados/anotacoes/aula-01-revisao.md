@@ -2,12 +2,13 @@
 publish: false
 title: Aula 01 - Revisão
 created: 2026-09-15 13:47
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 icon: lucide-book-open
+discipline: "[[banco-de-dados]]"
 cssclasses:
   - page-layout
 ---

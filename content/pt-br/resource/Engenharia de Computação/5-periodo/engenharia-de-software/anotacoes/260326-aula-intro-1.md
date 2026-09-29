@@ -2,7 +2,7 @@
 publish: false
 title: 260326-Aula-Intro-1
 created: 2026-03-26 14:49
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:04
 encrypted: true
 tags:
 - aula
@@ -10,6 +10,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+discipline: "[[engenharia-de-software]]"
 ---
 # Notas de Aula - Intro
 ***
