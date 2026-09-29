@@ -1,16 +1,17 @@
 ---
 publish: false
-title: Aula 01 - Apresentação
+title: 'Aula 04'
 encrypted: true
-created: 2026-09-16 14:03
-modified: 2026-09-28 21:30
 tags:
 - aula
 - engenharia-de-computacao
-icon: lucide-book-open
+created: 2026-09-14 14:00
+modified: 2026-09-28 20:14
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-book-open
 ---
+
 
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
   <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
@@ -19,10 +20,10 @@ cssclasses:
   </div>
 </div>
 
-# Aula 01 - Apresentação
+# Aula 04
 
 > [!info]- Informações & Checklist da Aula
-> - **Data da Aula:** 16/09/2026
+> - **Data da Aula:** 14/09/2026
 > - **Status de Revisão:**
 >   - [ ] Anotações em sala de aula
 >   - [ ] Revisão e fixação de conceitos
@@ -34,27 +35,18 @@ cssclasses:
 ## Anotações do Quadro & Conteúdo
 
 ### Tópico :
-- Projeto
-	- 4 Grupos de 3 pessoas
-	- Seminário 2 dias (30min/grupo)
-	- 50% nota indv. 50% grupo;
+- 
 
-### Revisão:
-* UML
----
-
-## Resumo Conceitual
-- **Conceito Central:** 
-- **Fórmulas / Algoritmos Relevantes:**
-- **Pegadinhas / Atenção em Provas:**
+### Tópico :
+- 
 
 ---
 
 ## Esquemas & Anotações Visuais (excalidraw)
 
----
+![[Aula 04.excalidraw]]
 
-## Dúvidas & Exercícios Recomendados
+---
 
 > [!question]- Dúvidas & Exercícios Recomendados
 > - [ ] academico exercicio 

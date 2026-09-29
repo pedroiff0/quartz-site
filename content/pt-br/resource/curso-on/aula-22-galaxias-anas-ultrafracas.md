@@ -2,8 +2,7 @@
 publish: false
 title: Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-22 22:41
-published: 2026-07-26 11:33:09.987000-03:00
+modified: 2026-09-28 22:25
 tags:
 - curso-on
 - arqueologia-galactica

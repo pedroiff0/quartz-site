@@ -2,8 +2,7 @@
 publish: true
 title: Arquivo de Apostilas
 created: 2026-04-05 13:04
-modified: 2026-09-22 22:41
-published: 2026-07-26 10:02:56.002000-03:00
+modified: 2026-09-28 22:56
 tags:
 - material-didatico
 - engenharia-de-computacao
@@ -12,6 +11,7 @@ status: planejamento
 cssclasses:
 - page-layout
 icon: lucide-notebookpen
+repo: "https://github.com/pedroiff0/apostilas"
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

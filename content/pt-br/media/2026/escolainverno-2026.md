@@ -2,13 +2,12 @@
 publish: true
 title: Escola de Inverno ON - 2026
 created: 2026-07-18 13:34
-modified: 2026-09-22 22:41
+modified: 2026-09-28 22:25
 tags:
 - midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
-published: 2026-07-26 10:16:40.175000-03:00
 photoFolder: escolainverno2026
 type: blog
 ---

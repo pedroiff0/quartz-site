@@ -2,15 +2,15 @@
 publish: true
 title: Setup
 created: 2026-09-07 16:47
-modified: 2026-09-22 22:41
+modified: 2026-09-28 22:38
 tags:
 - pessoal
+cssclasses:
+- page-layout
 icon: lucide-user
 aliases:
 - Setup
 - setup
-cssclasses:
-  - page-layout
 ---
 
 # Meu Setup de Trabalho & Estudo

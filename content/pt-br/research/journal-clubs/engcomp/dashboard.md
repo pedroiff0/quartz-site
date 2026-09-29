@@ -2,8 +2,7 @@
 publish: false
 title: Dashboard do clube
 created: 2026-08-01 13:04
-modified: 2026-09-22 22:41
-published: 2026-08-01 16:26:58.164000-03:00
+modified: 2026-09-28 22:25
 tags:
 - journal-club
 - engcomp

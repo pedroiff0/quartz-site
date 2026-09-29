@@ -2,8 +2,7 @@
 publish: true
 title: arXiv Searcher
 created: 2026-03-13 13:04
-modified: 2026-09-22 22:41
-published: 2026-07-26 10:03:17.536000-03:00
+modified: 2026-09-28 22:56
 tags:
 - automacao
 - pesquisa
@@ -13,6 +12,7 @@ status: planejamento
 cssclasses:
 - page-layout
 icon: lucide-notebookpen
+repo: "https://github.com/pedroiff0/arxiv-searcher"
 ---
 
 <!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->

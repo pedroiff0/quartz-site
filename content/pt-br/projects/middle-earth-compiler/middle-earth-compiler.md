@@ -1,9 +1,8 @@
 ---
 publish: true
-published: '2026-09-16T11:23:00-03:00'
 title: Middle-earth Compiler
 created: 2026-09-16 11:23
-modified: 2026-09-22 22:41
+modified: 2026-09-28 22:56
 tags:
 - projeto
 - publico
@@ -12,6 +11,7 @@ tags:
 icon: lucide-notebookpen
 cssclasses:
   - page-layout
+repo: "https://github.com/pedroiff0/middle-earth-compiler"
 ---
 
 # Middle-earth Compiler
@@ -30,4 +30,4 @@ cssclasses:
 
 ##  Links Públicos
 - **Repositório GitHub:** [pedroiff0/middle-earth-compiler](https://github.com/pedroiff0/middle-earth-compiler)
-- **Status:** 🟢 Em Desenvolvimento (6º Período - IFF)
+- **Status:**  Em Desenvolvimento (6º Período - IFF)
