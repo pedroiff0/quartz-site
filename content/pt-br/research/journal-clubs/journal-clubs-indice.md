@@ -2,12 +2,13 @@
 publish: false
 title: Journal Clubs
 created: 2026-07-26 13:04
-modified: 2026-09-28 22:25
+modified: 2026-09-29 20:39
 tags:
 - academico
 cssclasses:
 - page-layout
 icon: lucide-book-open
+published: 2026-08-01 16:28:51.169000-03:00
 ---
 
 > [!note] Resumo
