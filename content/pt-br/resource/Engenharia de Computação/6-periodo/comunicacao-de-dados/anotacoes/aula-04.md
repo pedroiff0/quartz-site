@@ -6,7 +6,7 @@ tags:
 - aula
 - engenharia-de-computacao
 created: 2026-09-15 14:00
-modified: 2026-09-22 22:41
+modified: 2026-09-29 18:20
 cssclasses:
 - page-layout
 icon: lucide-book-open
@@ -34,6 +34,7 @@ icon: lucide-book-open
 ## Anotações do Quadro & Conteúdo
 
 ### Tópico :
+- Capítulo 3.5 e 3.6
 - 
 
 ### Tópico :
@@ -48,4 +49,5 @@ icon: lucide-book-open
 ---
 
 > [!question]- Dúvidas & Exercícios Recomendados
-> - [ ] academico exercicio 
+> - [ ] Atividades 16 ao 32 pág. 96 e 97; 📅 2026-10-06 
+> - [ ] Atividades 33 ao 48 pág 98 e 99; 📅 2026-10-13 

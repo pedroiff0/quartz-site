@@ -6,7 +6,7 @@ tags:
 - aula
 - engenharia-de-computacao
 created: 2026-09-15 14:00
-modified: 2026-09-22 22:41
+modified: 2026-09-29 15:00
 cssclasses:
 - page-layout
 icon: lucide-book-open
@@ -33,11 +33,25 @@ icon: lucide-book-open
 
 ## Anotações do Quadro & Conteúdo
 
-### Tópico :
-- 
+### Conceitos
+* Modelo Conceitual 
+* Modelo Lógico
+``` SQL
+CREATE TABLE professor (
 
-### Tópico :
-- 
+)
+```
+* Modelo Físico
+
+### DDL
+* Prático
+* Instalado o PostgresSQL
+
+
+
+### DML
+* 
+### Trabalho
 
 ---
 

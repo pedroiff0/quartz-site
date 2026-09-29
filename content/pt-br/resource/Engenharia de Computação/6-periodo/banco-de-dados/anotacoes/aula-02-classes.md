@@ -6,7 +6,7 @@ tags:
 - aula
 - engenharia-de-computacao
 created: 2026-09-16 17:41
-modified: 2026-09-29 11:51
+modified: 2026-09-29 19:46
 icon: lucide-book-open
 cssclasses:
   - page-layout
@@ -50,9 +50,10 @@ cssclasses:
 
 ## Esquemas & Anotações Visuais (excalidraw)
 
+
 ---
 
 ## Dúvidas & Exercícios Recomendados
 
 > [!question]- Dúvidas & Exercícios Recomendados
-> - [ ] academico exercicio 
+> - 

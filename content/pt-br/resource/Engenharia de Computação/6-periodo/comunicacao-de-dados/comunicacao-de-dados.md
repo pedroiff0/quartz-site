@@ -2,7 +2,7 @@
 publish: false
 title: Comunicação de Dados
 created: 2026-07-18 12:00
-modified: 2026-09-28 10:30
+modified: 2026-09-29 15:01
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -40,7 +40,7 @@ icon: lucide-book-open
 
 
 > [!tip]  Conteúdo Programático
-> - [x] **1. Transmissão de Dados** [[anotacoes/aula-01-capitulo-3-1|Aula 01]], [[anotacoes/aula-02-capitulo-3-3|Aula 02]], [[anotacoes/aula-03-capitulo-3-4|Aula 03]]
+> - [x] **1. Transmissão de Dados** [[anotacoes/aula-01-capitulo-3-1|Aula 01]], [[anotacoes/aula-02-capitulo-3-3|Aula 02]], [[anotacoes/aula-03-capitulo-3-4|Aula 03]], [[esboco/esboco-estudo-cap-3-3-e-3-4|Esboço - Estudo Caps 3.3 e 3.4]]
 >   - [x] Conceitos e Terminologias de Transmissão de Dados
 >   - [x] Transmissão de Dados Analógica [[anotacoes/aula-01-capitulo-3-1|Aula 01]]
 >   - [x] Transmissão de Dados Digital [[anotacoes/aula-02-capitulo-3-3|Aula 02]]
@@ -90,3 +90,4 @@ icon: lucide-book-open
 
 ## Anotações e Arquivos Didáticos
 - **[[Anotações/Anotações — Comunicacao De Dados|Anotações da Disciplina]]**
+- **[[esboco/esboco-estudo-cap-3-3-e-3-4|Esboço — Estudo Dirigido e Teste Rápido (Caps. 3.3 e 3.4)]]**

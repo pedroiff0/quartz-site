@@ -1,15 +1,15 @@
 ---
 publish: false
-title: Aula 01 - Apresentação SO
-created: 2026-09-03 13:28
-modified: 2026-09-22 22:41
+title: 'Aula projeto-semestre'
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
-icon: lucide-book-open
+created: 2026-09-29 15:36
+modified: 2026-09-29 15:39
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-book-open
 ---
 
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
@@ -19,10 +19,10 @@ cssclasses:
   </div>
 </div>
 
-# Aula 01 - Apresentação SO
+# Aula projeto-semestre
 
 > [!info]- Informações & Checklist da Aula
-> - **Data da Aula:** 03/09/2026
+> - **Data da Aula:** 29/09/2026
 > - **Status de Revisão:**
 >   - [ ] Anotações em sala de aula
 >   - [ ] Revisão e fixação de conceitos
@@ -33,37 +33,12 @@ cssclasses:
 
 ## Anotações do Quadro & Conteúdo
 
-### Link para o material da Aula
-https://wesleyfolly.github.io/aulas/Tópicos/Fundamentos-da-computação/Sistemas-Operacionais
-
-### Tópico
-Anotações do conteúdo ministrado neste dia...
-
-### Docente
-(Informações do docente)
-
-### Tópico Central
-(Conteúdo principal abordado)
-
----
-
-## Resumo Conceitual
-- **Conceito Central:** 
-- **Fórmulas / Algoritmos Relevantes:**
-- **Pegadinhas / Atenção em Provas:**
-
----
-
-## Esquemas & Anotações Visuais (excalidraw)
-<!-- No iPad: insira desenhos com 'excalidraw: Create and embed new drawing' para desenhar com Apple Pencil -->
-
----
-
-## Flashcards de Fixação (Spaced Repetition)
-<!-- Sintaxe: Pergunta::Resposta ou Pergunta:::Resposta invertida -->
+### Projeto Cavil
 - 
 
 ---
 
-## Dúvidas & Exercícios Recomendados
-- [ ] 
+## Esquemas & Anotações Visuais (excalidraw)
+---
+> [!question]- Dúvidas & Exercícios Recomendados
+> - [ ] academico exercicio 
