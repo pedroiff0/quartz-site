@@ -2,7 +2,7 @@
 publish: false
 title: Aula 09 — Órbitas, Potenciais e Integrais de Movimento
 created: 2026-07-25 12:36
-modified: 2026-09-28 22:25
+modified: 2026-09-29 20:07
 tags:
 - curso-on
 - arqueologia-galactica
@@ -20,6 +20,7 @@ content: Da massa ao potencial gravitacional (equação de Poisson), órbitas em
   do virial
 professor: Hélio Dotto Perottoni
 icon: lucide-book-open
+curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio|← Aula 08 — Velocidades e Movimento Próprio]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|Aula 10 — Integração de Órbitas com galpy →]]

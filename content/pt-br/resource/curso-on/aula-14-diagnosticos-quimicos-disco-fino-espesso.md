@@ -2,7 +2,7 @@
 publish: false
 title: 'Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos'
 created: 2026-07-25 12:36
-modified: 2026-09-28 22:25
+modified: 2026-09-29 20:07
 tags:
 - curso-on
 - arqueologia-galactica
@@ -19,6 +19,7 @@ content: Distribuição de metalicidade em halo e bojo, a separação química d
   e a identificação de estrelas capturadas de galáxias satélites
 professor: Hélio Dotto Perottoni
 icon: lucide-book-open
+curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico|← Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos|Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos →]]

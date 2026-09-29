@@ -2,7 +2,7 @@
 publish: false
 title: Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-28 22:25
+modified: 2026-09-29 20:07
 tags:
 - curso-on
 - arqueologia-galactica
@@ -19,6 +19,7 @@ content: Galáxias anãs ultrafracas (UFDs) como o limite extremo da formação 
   eventos individuais de nucleossíntese, e a definição formal de galáxia satélite
 professor: Hélio Dotto Perottoni
 icon: lucide-book-open
+curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|← Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]]

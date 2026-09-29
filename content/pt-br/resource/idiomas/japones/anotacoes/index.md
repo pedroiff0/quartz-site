@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: "Anotações"
 created: 2026-09-14 11:54
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:07
 tags:
 - anexo
 - japones
@@ -12,6 +12,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+curso: "[[japones]]"
 ---
 
 # Repositório de Anotações — Japonês

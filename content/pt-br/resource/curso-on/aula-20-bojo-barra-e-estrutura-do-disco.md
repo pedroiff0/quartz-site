@@ -2,7 +2,7 @@
 publish: false
 title: Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 created: 2026-07-25 12:36
-modified: 2026-09-28 22:25
+modified: 2026-09-29 20:07
 tags:
 - curso-on
 - arqueologia-galactica
@@ -21,6 +21,7 @@ content: Classificação morfológica de galáxias e a Via Láctea como espiral 
   flare); e o catálogo de mergers confirmados do halo
 professor: Hélio Dotto Perottoni
 icon: lucide-book-open
+curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-19-gse-e-subestruturas-do-halo|← Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade|Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites →]]

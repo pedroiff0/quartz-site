@@ -2,7 +2,7 @@
 publish: false
 title: Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites
 created: 2026-07-25 12:36
-modified: 2026-09-28 22:25
+modified: 2026-09-29 20:07
 tags:
 - curso-on
 - arqueologia-galactica
@@ -21,6 +21,7 @@ content: O Grupo Local como laboratório de evolução química, a função de d
   fotometria vs. espectroscopia) de medir uma MDF
 professor: Hélio Dotto Perottoni
 icon: lucide-book-open
+curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-20-bojo-barra-e-estrutura-do-disco|← Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-22-galaxias-anas-ultrafracas|Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica →]]

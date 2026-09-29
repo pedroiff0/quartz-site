@@ -8,8 +8,9 @@ tags:
 - ingles
 - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:07
 icon: lucide-book-open
+curso: "[[ingles]]"
 cssclasses:
   - page-layout
 ---
