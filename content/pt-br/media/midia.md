@@ -2,13 +2,12 @@
 publish: true
 title: Mídia
 created: 2026-07-18 13:34
-modified: 2026-09-29 20:47
+modified: 2026-09-28 22:43
 tags:
 - midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
-published: 2026-07-26 12:36:37.263000-03:00
 order: 4
 ---
 

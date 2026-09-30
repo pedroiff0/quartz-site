@@ -2,8 +2,7 @@
 publish: false
 title: Aula 06 — Diagrama HR e Relação Massa-Luminosidade
 created: 2026-07-23 12:36
-modified: 2026-09-29 21:06
-published: 2026-07-26 11:33:09.983000-03:00
+modified: 2026-09-28 22:43
 tags:
 - curso-on
 - arqueologia-galactica
@@ -18,7 +17,6 @@ content: Como medir as propriedades físicas fundamentais das estrelas e como o 
   HR revela a relação entre massa, luminosidade e tempo de vida
 professor: Hélio Dotto Perottoni
 icon: lucide-book-open
-curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|← Aula 05 — Avermelhamento, Extinção e IMF]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-07-distancias-e-coordenadas|Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas →]]

@@ -29,3 +29,7 @@ __pycache__/
 
 .env
 .env.*
+
+# Dados pessoais: nunca versionar (removidos do historico em 29/09/2026)
+content/recursos/
+content/assets/documentos/Pedro/

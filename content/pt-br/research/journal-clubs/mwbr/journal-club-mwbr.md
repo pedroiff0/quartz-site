@@ -2,13 +2,12 @@
 publish: false
 title: MWBR — Journal Club
 created: 2026-07-26 13:04
-modified: 2026-09-29 20:39
+modified: 2026-09-28 22:43
 tags:
 - academico
 cssclasses:
 - page-layout
 icon: lucide-book-open
-published: 2026-08-01 20:04:12.171000-03:00
 ---
 
 > [!note]  Milky Way Brazil (MWBR)

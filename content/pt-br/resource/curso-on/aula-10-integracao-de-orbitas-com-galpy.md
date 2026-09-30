@@ -2,8 +2,7 @@
 publish: false
 title: Aula 10 — Integração de Órbitas com galpy
 created: 2026-07-25 12:36
-modified: 2026-09-29 21:06
-published: 2026-07-26 11:33:09.983000-03:00
+modified: 2026-09-28 22:43
 tags:
 - curso-on
 - arqueologia-galactica
@@ -21,7 +20,6 @@ content: Aula prática (Google Colab/galpy) — construir potenciais galácticos
   e simular o efeito de fricção dinâmica de um satélite (Sagitário) sobre o disco
 professor: Hélio Dotto Perottoni
 icon: lucide-book-open
-curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento|← Aula 09 — Órbitas, Potenciais e Integrais de Movimento]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica|Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica →]]

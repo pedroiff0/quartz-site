@@ -2,8 +2,7 @@
 publish: false
 title: Aula 02 — Diagrama HR e Aglomerados Estelares
 created: 2026-07-23 12:36
-modified: 2026-09-29 21:06
-published: 2026-07-26 11:33:09.983000-03:00
+modified: 2026-09-28 22:43
 tags:
 - curso-on
 - arqueologia-galactica
@@ -18,7 +17,6 @@ content: Aglomerados abertos vs. globulares, função de massa inicial (IMF), is
   e a nomenclatura de populações I, II e III
 professor: Hélio Dotto Perottoni
 icon: lucide-book-open
-curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-01-conceito-e-historico|← Aula 01 — Conceito e Histórico]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral|Aula 03 — Magnitudes, Cores e Classificação Espectral →]]

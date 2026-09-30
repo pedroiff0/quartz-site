@@ -2,13 +2,13 @@
 publish: true
 title: Minhas Coisas
 created: 2026-09-07 16:47
-modified: 2026-09-29 20:47
+modified: 2026-09-28 22:43
 tags:
-- pessoal
+  - pessoal
 icon: lucide-user
 aliases:
-- Minhas coisas
-- minhas-coisas
+  - Minhas coisas
+  - minhas-coisas
 cssclasses:
   - page-layout
 ---

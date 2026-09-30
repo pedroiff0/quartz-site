@@ -2,13 +2,12 @@
 publish: true
 title: 4ª SCEG 2024
 created: 2024-10-22 13:04
-modified: 2026-09-29 20:47
+modified: 2026-09-28 22:43
 tags:
 - midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
-published: 2026-07-26 10:13:34.504000-03:00
 photoFolder: 4sceg2024
 type: blog
 ---

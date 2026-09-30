@@ -2,7 +2,7 @@
 publish: false
 title: Mecânica dos Sólidos
 created: 2026-07-18 12:00
-modified: 2026-09-29 20:47
+modified: 2026-09-28 12:58
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -13,7 +13,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Mecanica Dos Solidos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Mecanica Dos Solidos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Mecanica Dos Solidos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Mecanica Dos Solidos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
@@ -105,4 +105,4 @@ icon: lucide-book-open
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[Anotações/Anotações — Mecanica Dos Solidos|Anotações da Disciplina]]**
+- **[[anotacoes/anotacoes — Mecanica Dos Solidos|Anotações da Disciplina]]**

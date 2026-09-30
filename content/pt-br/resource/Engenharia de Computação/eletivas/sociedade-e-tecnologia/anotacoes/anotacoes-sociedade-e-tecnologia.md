@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Sociedade E Tecnologia
 created: 2026-08-24 21:03
-modified: 2026-09-29 21:05
+modified: 2026-09-29 20:47
 encrypted: true
 tags:
 - aula

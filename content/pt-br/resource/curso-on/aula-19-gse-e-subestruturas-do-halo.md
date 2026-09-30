@@ -2,8 +2,7 @@
 publish: false
 title: Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo
 created: 2026-07-25 12:36
-modified: 2026-09-29 21:06
-published: 2026-07-26 11:33:09.983000-03:00
+modified: 2026-09-28 22:43
 tags:
 - curso-on
 - arqueologia-galactica
@@ -21,7 +20,6 @@ content: Cronologia da evolução galáctica (parte 2) — o mecanismo da fusão
   (Monoceros, TriAnd)
 professor: Hélio Dotto Perottoni
 icon: lucide-book-open
-curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash|← Aula 18 — Proto-Disco, Spin-Up e o Disco Splash]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-20-bojo-barra-e-estrutura-do-disco|Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico →]]

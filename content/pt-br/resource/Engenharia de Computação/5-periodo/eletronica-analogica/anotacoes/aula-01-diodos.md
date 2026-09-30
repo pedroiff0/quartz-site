@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Diodos
 created: 2026-04-05 14:49
-modified: 2026-09-29 21:05
+modified: 2026-09-29 20:47
 encrypted: true
 tags:
 - aula

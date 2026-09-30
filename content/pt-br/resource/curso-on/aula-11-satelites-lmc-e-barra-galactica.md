@@ -2,8 +2,7 @@
 publish: false
 title: Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-29 21:06
-published: 2026-07-26 11:33:09.983000-03:00
+modified: 2026-09-28 22:43
 tags:
 - curso-on
 - arqueologia-galactica
@@ -21,7 +20,6 @@ content: Aula prática (galpy) — pericentro/apocentro de galáxias satélites,
   inercial, e ressonâncias orbitais na barra galáctica (corrotação e OLR)
 professor: Hélio Dotto Perottoni
 icon: lucide-book-open
-curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---
 
 **Navegação (grafo):** [[pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy|← Aula 10 — Integração de Órbitas com galpy]] · [[pt-br/resource/curso-on/Arqueologia Galáctica e Populações Estelares| Hub]] · [[pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee|Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica →]]

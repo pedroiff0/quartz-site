@@ -1,14 +1,13 @@
 ---
-publish: false
+publish: true
 title: CONEPE - 2026
 created: 2026-07-18 13:34
-modified: 2026-09-29 20:47
+modified: 2026-09-28 22:43
 tags:
-- midia
+  - midia
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-newspaper
-published: 2026-07-26 10:40:03.400000-03:00
 photoFolder: conepe2026
 type: blog
 ---

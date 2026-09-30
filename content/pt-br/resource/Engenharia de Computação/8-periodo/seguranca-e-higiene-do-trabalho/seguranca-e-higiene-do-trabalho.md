@@ -2,7 +2,7 @@
 publish: false
 title: Segurança e Higiene do Trabalho
 created: 2026-07-18 12:00
-modified: 2026-09-29 20:47
+modified: 2026-09-28 12:58
 tags:
 - atividade
 - trabalho
@@ -14,7 +14,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Seguranca E Higiene Do Trabalho|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Seguranca E Higiene Do Trabalho|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Seguranca E Higiene Do Trabalho|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Seguranca E Higiene Do Trabalho|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
@@ -89,4 +89,4 @@ icon: lucide-book-open
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[Anotações/Anotações — Seguranca E Higiene Do Trabalho|Anotações da Disciplina]]**
+- **[[anotacoes/anotacoes — Seguranca E Higiene Do Trabalho|Anotações da Disciplina]]**

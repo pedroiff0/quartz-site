@@ -2,13 +2,12 @@
 publish: true
 title: IX FEBIC 2024
 created: 2024-09-15 13:04
-modified: 2026-09-29 20:47
+modified: 2026-09-28 22:43
 tags:
 - midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
-published: 2026-07-26 10:13:40.051000-03:00
 photoFolder: febic2024
 type: blog
 ---

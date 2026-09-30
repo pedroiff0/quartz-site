@@ -2,8 +2,7 @@
 publish: true
 title: Portal Acadêmico IFF (academicoWeb)
 created: 2026-03-13 13:04
-modified: 2026-09-29 20:47
-published: 2026-07-26 10:02:50.481000-03:00
+modified: 2026-09-28 22:43
 tags:
 - web-app
 - iff

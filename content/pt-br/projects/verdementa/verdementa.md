@@ -2,8 +2,7 @@
 publish: true
 title: Verdementa
 created: 2026-04-01 13:04
-modified: 2026-09-29 20:47
-published: 2026-07-26 10:03:21.382000-03:00
+modified: 2026-09-28 22:43
 tags:
 - suite-comercial
 - erp
