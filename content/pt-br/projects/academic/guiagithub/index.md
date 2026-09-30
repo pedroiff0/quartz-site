@@ -10,7 +10,7 @@ tags:
 repo: https://github.com/pedroiff0/guia-github
 status: público
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-notebookpen
 sitesync: true
 ---

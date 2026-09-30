@@ -10,7 +10,7 @@ tags:
 - pre-requisitos
 - iff
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 sitesync: true
 ---

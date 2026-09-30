@@ -2,27 +2,27 @@
 publish: false
 title: Cálculo III
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Calculo Iii|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Calculo Iii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Calculo Iii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Calculo Iii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.17`
 > - **Período:** 3º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Vital (tiago.vital@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss;
 > **Objetivos**
@@ -31,43 +31,43 @@ sitesync: true
 > - Desenvolver a capacidade de interpretar e criticar resultados obtidos;
 > - Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|CSECBJI.9 - Cálculo II]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii|CSECBJI.26 - Física III]]
 > - [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/calculo-iv|CSECBJI.31 - Cálculo IV]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Funções a valores vetoriais**
-> - Definições, limite e continuidade
-> - Curvas no plano e no espaço: forma vetorial
-> - Limites de funções a valores vetoriais
-> - Continuidade de funções a valores vetoriais
-> - Diferenciação e integração
-> - Derivadas de funções a valores vetoriais
-> - Integrais de funções a valores vetoriais
-> - Velocidade vetorial e escalar, aceleração vetorial
-> - Comprimento de arco
-> - Cálculo do comprimento de arco
-> - A função comprimento de arco
-> - O parâmetro comprimento de arco Análise vetorial
+>   - Definições, limite e continuidade
+>   - Curvas no plano e no espaço: forma vetorial
+>   - Limites de funções a valores vetoriais
+>   - Continuidade de funções a valores vetoriais
+>   - Diferenciação e integração
+>   - Derivadas de funções a valores vetoriais
+>   - Integrais de funções a valores vetoriais
+>   - Velocidade vetorial e escalar, aceleração vetorial
+>   - Comprimento de arco
+>   - Cálculo do comprimento de arco
+>   - A função comprimento de arco
+>   - O parâmetro comprimento de arco Análise vetorial
 > - **2. Campos vetoriais**
-> - Definição
-> - Campos conservativos
-> - Função potencial
-> - Condição para campos conservativos no plano
-> - Rotacional de campos tridimensionais
-> - Condição para campos conservativos tridimensionais
-> - Divergência - Integrais de linha
-> - Integrais de linha de campos escalares
-> - Integrais de linha de campos vetoriais
-> - Campos conservativos e independência de caminhos
+>   - Definição
+>   - Campos conservativos
+>   - Função potencial
+>   - Condição para campos conservativos no plano
+>   - Rotacional de campos tridimensionais
+>   - Condição para campos conservativos tridimensionais
+>   - Divergência - Integrais de linha
+>   - Integrais de linha de campos escalares
+>   - Integrais de linha de campos vetoriais
+>   - Campos conservativos e independência de caminhos
 > - **3. Teorema de Green**
 > - **4. Teorema de Stokes**
 > - **5. Teorema da Divergência**
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.
 > 2. \_\_\_\_\_\_. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.

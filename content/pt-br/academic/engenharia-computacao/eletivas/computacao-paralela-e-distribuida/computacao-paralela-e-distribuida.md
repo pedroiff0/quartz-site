@@ -2,70 +2,70 @@
 publish: false
 title: Computação Paralela e Distribuída
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T15:35:32-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[Anotações/Anotações — Computacao Paralela E Distribuida|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Computacao Paralela E Distribuida|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Computacao Paralela E Distribuida|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-computacao-paralela-e-distribuida|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.87`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralela e distribuída. Tópicos emergentes em computação paralela e distribuída.
 > **Objetivos**
 > - Prover conhecimento e experiência em programação paralela para o desenvolvimento de software que tenha como requisito a sua execução em um ambiente paralelo e distribuído.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos|CSECBJI.86 - Algoritmos Distribuídos]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Sistemas de Trocas de Mensagens**
 > - **2. Processadores de Comunicação**
 > - **3. Alocação de Processadores**
 > - **4. Modelos Síncrono e Assíncrono de Computação**
 > - **5. Computações em Sistemas Anônimos**
-> - Limitações Intrínsecas
-> - Noções de conhecimento em sistemas distribuídos
+>   - Limitações Intrínsecas
+>   - Noções de conhecimento em sistemas distribuídos
 > - **6. Modelos de Computação**
-> - Eventos, ordem e estados globais
-> - A complexidade de computações distribuídas
+>   - Eventos, ordem e estados globais
+>   - A complexidade de computações distribuídas
 > - **7. Algoritmos Básicos**
-> - Propagação de Informação
-> - Algoritmos simples sobre grafos
-> - i. Teste de conectividade
-> - ii. Distâncias mais curtas
+>   - Propagação de Informação
+>   - Algoritmos simples sobre grafos
+>   - i. Teste de conectividade
+>   - ii. Distâncias mais curtas
 > - **8. Técnicas Básicas**
-> - Eleição de líder
-> - Gravação de estados globais
-> - Sincronização de redes
+>   - Eleição de líder
+>   - Gravação de estados globais
+>   - Sincronização de redes
 > - **9. Introdução à Alto-Estabilização**
-> - Detecção de Terminação
-> - Detecção de Deadlocks
+>   - Detecção de Terminação
+>   - Detecção de Deadlocks
 > - **10. Outros Algoritmos sobre Grafos**
-> - Árvores geradoras mínimas
-> - Fluxos em redes
+>   - Árvores geradoras mínimas
+>   - Fluxos em redes
 > - **11. Compartilhamento de Recursos**
-> - Algoritmos de exclusão mútua
-> - Dinning Philosopers
-> - Drinking Philosopers
+>   - Algoritmos de exclusão mútua
+>   - Dinning Philosopers
+>   - Drinking Philosopers
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
 > 2. Porto Alegre: Bookman, 2007.

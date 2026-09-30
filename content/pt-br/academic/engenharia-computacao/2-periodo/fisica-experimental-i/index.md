@@ -2,39 +2,39 @@
 publish: false
 title: Física Experimental I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Fisica Experimental I|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Fisica Experimental I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Fisica Experimental I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fisica Experimental I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.12`
 > - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 40
 > - **Docente Responsável:** Rodrigo Lacerda (rodrigo.lacerda@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Conservação da Energia Mecânica.
 > **Objetivos**
 > - Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Algarismos Significativos – cálculo do valor de $\pi$;**
 > - **2. Softwares de tratamento de dados;**
 > - **3. Propagação de erros;**
@@ -45,7 +45,7 @@ sitesync: true
 > - **8. Energia Mecânica e sua Conservação;**
 > - **9. Conservação de momento.**
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
 > 2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:

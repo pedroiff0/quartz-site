@@ -7,7 +7,7 @@ tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 sitesync: true
 ---

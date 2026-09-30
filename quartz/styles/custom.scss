@@ -1421,33 +1421,6 @@ table {
   font-weight: 600;
 }
 
-/* --- Centered Titles for Lesson Pages --- */
-.page-layout h1.article-title,
-.type-aula h1.article-title,
-.center h1.article-title,
-h1.article-title {
-  text-align: center !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-
-/* --- Grid and Cards Layout --- */
-.cards,
-.grid-2 {
-  display: grid !important;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)) !important;
-  gap: 1.25rem !important;
-  margin: 1.5rem 0 !important;
-}
-
-.cards > .callout,
-.cards > div.callout,
-.cards .callout {
-  margin: 0 !important;
-  height: 100% !important;
-  box-sizing: border-box !important;
-}
-
 /* --- Content Overflow & Sidebar Layout Containment --- */
 .center {
   min-width: 0 !important;
@@ -1747,3 +1720,162 @@ article:has(> h2 + ul.contains-task-list) {
     }
   }
 }
+
+
+/* ==========================================================================
+   cssclasses do frontmatter (portadas dos snippets do vault)
+   Classes chegam em <article class="popover-hint page-layout ...">
+   (plugin local css-classes: page-layout obrigatorio, kebab, sem None).
+   ========================================================================== */
+
+/* page-layout (obrigatorio): vale para todo <article>, inclusive paginas de pasta/tag sem frontmatter */
+article,
+article > .markdown-rendered {
+  width: 100%;
+  max-width: 100%;
+}
+
+article img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* center-titles: h1 do titulo (fora do article) e h1-h6 do corpo */
+body:has(article.center-titles) h1.article-title,
+article.center-titles :is(h1, h2, h3, h4, h5, h6) {
+  text-align: center;
+}
+
+/* center-images */
+article.center-images :is(p, figure, div) > img,
+article.center-images .image-embed img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+article.center-images :is(li, a) img {
+  display: inline;
+  margin: 0;
+  vertical-align: middle;
+}
+
+/* image-borders */
+article.image-borders img {
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+}
+
+/* grids utilitarios (div/section com a classe dentro da nota) */
+.grid-2,
+.grid-3,
+.grid-4 {
+  display: grid;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.grid-2 { grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); }
+.grid-3 { grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); }
+.grid-4 { grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr)); }
+
+/* cards: tabelas viram cartoes; callouts consecutivos viram grade */
+article.cards,
+article.cards-grid {
+  --cards-min-width: 240px;
+}
+article.cards-cols-2 { --cards-min-width: 320px; }
+article.cards-cols-3 { --cards-min-width: 240px; }
+article.cards-cols-4 { --cards-min-width: 180px; }
+
+article:is(.cards, .cards-grid) > .markdown-rendered {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--cards-min-width)), 1fr));
+  gap: 0.85rem;
+  align-items: stretch;
+}
+
+article:is(.cards, .cards-grid) > .markdown-rendered > :not(.callout) {
+  grid-column: 1 / -1;
+  min-width: 0;
+}
+
+article:is(.cards, .cards-grid) > .markdown-rendered > .callout {
+  margin: 0;
+  height: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+}
+
+article:is(.cards, .cards-grid):not(.no-cards) table {
+  display: block;
+  width: 100%;
+  overflow: visible;
+  border: none;
+  background: transparent;
+}
+
+article:is(.cards, .cards-grid):not(.no-cards) table thead {
+  display: none;
+}
+
+article:is(.cards, .cards-grid):not(.no-cards) table tbody {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--cards-min-width)), 1fr));
+  gap: 0.85rem;
+  padding: 0.25rem 0;
+}
+
+article:is(.cards, .cards-grid):not(.no-cards) table tbody tr {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  box-sizing: border-box;
+  padding: 0.85rem;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  transition:
+    transform 0.15s ease,
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: var(--secondary);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  }
+}
+
+article:is(.cards, .cards-grid):not(.no-cards) table tbody td {
+  display: block;
+  border: none;
+  padding: 0.25rem 0;
+  font-size: 0.88rem;
+  line-height: 1.4;
+  word-break: break-word;
+}
+
+article:is(.cards, .cards-grid):not(.no-cards) table tbody td:first-child {
+  font-weight: 600;
+  font-size: 0.98rem;
+  margin-bottom: 0.4rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+article:is(.cards, .cards-grid):not(.no-cards) table tbody td:empty {
+  display: none;
+}
+
+/* badges */
+.badge {
+  display: inline-block;
+  padding: 0.05rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  border: 1px solid var(--lightgray);
+}
+.badge-active { color: #16a34a; border-color: #16a34a; }
+.badge-wip { color: #d97706; border-color: #d97706; }
+.badge-archived { color: var(--gray); }

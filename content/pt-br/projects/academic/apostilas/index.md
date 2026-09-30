@@ -8,7 +8,7 @@ tags:
 - publico
 - academico
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 repo: https://github.com/pedroiff0/apostilas
 status: ativo

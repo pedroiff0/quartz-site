@@ -2,78 +2,78 @@
 publish: false
 title: Economia
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Economia|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Economia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Economia|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Economia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.32`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 40
 > - **Docente Responsável:** Laert (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Apresentar elementos de cálculos financeiros básicos, fundamentais para o desenvolvimento de métodos quantitativos para seleção de alternativas econômicas e avaliação de projetos.
 > **Objetivos**
 > - Compreender o funcionamento das empresas e dos mercados, através de aplicação da teoria do consumidor, da teoria da produção e da teoria dos custos, dotando os alunos de conhecimento básico em avaliação de projetos, ampliando de uma forma geral a visão de gestão,permitindo assim maiores possibilidades de inserção no mundo do trabalho empresarial.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Ciência Econômica**
-> - O conceito de economia
-> - Divisão de estudo da economia
-> - Sistemas econômicos
-> - Evolução do pensamento econômico
+>   - O conceito de economia
+>   - Divisão de estudo da economia
+>   - Sistemas econômicos
+>   - Evolução do pensamento econômico
 > - **2. Microeconomia**
-> - Formação de preços
-> - Demanda, oferta e equilíbrio de mercado
-> - Teoria da produção
-> - A empresa e a produção
-> - Análise de curto prazo e de longo prazo
-> - Teoria dos custos g. Os custos de produção
-> - Os conceitos de receita e lucro
-> - Estruturas de mercado
-> - Concorrência perfeita
-> - Monopólio
-> - Concorrência monopolista
-> - Oligopólio
+>   - Formação de preços
+>   - Demanda, oferta e equilíbrio de mercado
+>   - Teoria da produção
+>   - A empresa e a produção
+>   - Análise de curto prazo e de longo prazo
+>   - Teoria dos custos g. Os custos de produção
+>   - Os conceitos de receita e lucro
+>   - Estruturas de mercado
+>   - Concorrência perfeita
+>   - Monopólio
+>   - Concorrência monopolista
+>   - Oligopólio
 > - **3. Macroeconomia**
-> - A Moeda
-> - Origem e funções
-> - Oferta e demanda de moeda
-> - Política monetária
-> - Inflação
+>   - A Moeda
+>   - Origem e funções
+>   - Oferta e demanda de moeda
+>   - Política monetária
+>   - Inflação
 > - **4. As organizações e os sistemas de apoio à gestão financeira**
 > - **5. Juros Simples**
 > - **6. Juros Compostos**
 > - **7. Análise de Investimentos**
-> - Valor presente líquido
-> - Payback
-> - Taxa interna de retorno
-> - Índice de rentabilidade
-> - Fluxo de caixa de projeto
+>   - Valor presente líquido
+>   - Payback
+>   - Taxa interna de retorno
+>   - Índice de rentabilidade
+>   - Fluxo de caixa de projeto
 > - **8. Noções de Desenvolvimento**
-> - Crescimento
-> - Desenvolvimento e subdesenvolvimento
-> - Meio ambiente
+>   - Crescimento
+>   - Desenvolvimento e subdesenvolvimento
+>   - Meio ambiente
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. PUCCINI, A. L. Matemática financeira: objetiva e aplicada. 9.ª Edição. São Paulo: Elsevier, 2011.
 > 2. VASCONCELLOS, M. A. S.; ENRIQUEZ, M. Fundamentos de economia. 6.ª Edição. São Paulo: Saraiva,

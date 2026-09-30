@@ -2,39 +2,39 @@
 publish: false
 title: Química Experimental
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Quimica Experimental|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Quimica Experimental|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Quimica Experimental|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Quimica Experimental|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.16`
 > - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 40
 > - **Docente Responsável:** Érica/Marcione (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais. Ferramentas profissionais na área de química experimental. Teste de chama. Medidas de massa e de volume. Soluções. Reações químicas. Estequiometria. Titulação ácido-base. Termoquímica. Equilíbrio Químico. Cinética Química. Eletroquímica. Grupos funcionais orgânicos.
 > **Objetivos**
 > - Relacionar as práticas envolvidas nesta disciplina com a teoria abordada na disciplina de Química, de tal forma a contribuir para a aquisição do aprendizado teórico. Somado a isso, adquirir o conhecimento básico sobre as principais ferramentas profissionais utilizadas em um laboratório de química e compreender como a metodologia científica está envolvida desde o planejamento do experimento até a interpretação dos resultados.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Estrutura, funcionamento e noções básicas de segurança em laboratório de química.**
 > - **2. Erros e medidas (precisão e exatidão). Incerteza nos resultados experimentais.**
 > - **3. Ferramentas Profissionais.**
@@ -51,7 +51,7 @@ sitesync: true
 > - **14. Pilhas eletroquímicas. Eletrólise. Corrosão.**
 > - **15. Identificação de grupos funcionais orgânicos. Reatividade de álcoois, aldeídos, cetonas, ácidos carboxílicos e aminas.**
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. BACCAN, N.; ANDRADE, J. C.; GODINHO, O. E. S.; BARONE, J. S. Química Analítica Quantitativa e Elementar. São Paulo: Edgard Blüche, 1998.
 > 2. MENDHAM, J.; DENNEY, R. C.; BARNES, J. D.; THOMAS, M. J. K. Vogel - Análise Química Quantitativa. 6 ed. Rio de Janeiro: LTC, 2002.

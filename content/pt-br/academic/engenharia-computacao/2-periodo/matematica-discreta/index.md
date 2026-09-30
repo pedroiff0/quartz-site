@@ -2,77 +2,77 @@
 publish: false
 title: Matemática Discreta
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Matematica Discreta|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Matematica Discreta|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Matematica Discreta|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Matematica Discreta|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.14`
 > - **Período:** 2º Período | **Núcleo:** Básica | **Carga Horária:** 60
 > - **Docente Responsável:** Gustavo Stênio (gustavo.neitzel@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Teoria dos conjuntos, relações e funções, indução e recursão, análise combinatória, teoria dos números, teoria dos grafos e árvores.
 > **Objetivos**
 > - Fornecer aos alunos conhecimento das principais técnicas de matemática discreta e sua relação com a Computação.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao|CSECBJI.3 - Lógica para Computação]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos|CSECBJI.34 - Projeto e Análise de Algoritmos]]
 > - [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/linguagens-formais-e-automatos|CSECBJI.40 - Linguagens Formais e Autômatos]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Teoria dos Conjuntos:**
-> - Tipos de Conjuntos;
-> - Igualdade de Conjuntos;
-> - Subconjuntos;
-> - Operações entre Conjuntos;
-> - Produto Cartesiano;
-> - Identidade de Conjuntos.
+>   - Tipos de Conjuntos;
+>   - Igualdade de Conjuntos;
+>   - Subconjuntos;
+>   - Operações entre Conjuntos;
+>   - Produto Cartesiano;
+>   - Identidade de Conjuntos.
 > - **2. Relações e Funções:**
-> - Definição;
-> - Tipos de Relações;
-> - Relação de Equivalência;
-> - Função;
-> - Propriedades das Funções;
+>   - Definição;
+>   - Tipos de Relações;
+>   - Relação de Equivalência;
+>   - Função;
+>   - Propriedades das Funções;
 > - **3. Indução e Recursão:**
-> - O Princípio da Indução Finita;
-> - Provas por Indução;
-> - Recursividade;
-> - Problemas Recursivos.
+>   - O Princípio da Indução Finita;
+>   - Provas por Indução;
+>   - Recursividade;
+>   - Problemas Recursivos.
 > - **4. Análise Combinatória:**
-> - Princípios Básicos da Contagem;
-> - Arranjos;
-> - Permutações;
-> - Combinações.
+>   - Princípios Básicos da Contagem;
+>   - Arranjos;
+>   - Permutações;
+>   - Combinações.
 > - **5. Teoria dos Números:**
-> - Introdução;
-> - Algoritmo da Divisão;
-> - MDC;
-> - Aritmética Modular;
-> - Números Primos;
-> - Algoritmo Usual de Números Primos e sua Eficiência;
+>   - Introdução;
+>   - Algoritmo da Divisão;
+>   - MDC;
+>   - Aritmética Modular;
+>   - Números Primos;
+>   - Algoritmo Usual de Números Primos e sua Eficiência;
 > - **6. Teoria dos grafos e árvores.**
-> - Definição;
-> - Propriedades;
-> - Formas de Representação;
-> - Árvores.
+>   - Definição;
+>   - Propriedades;
+>   - Formas de Representação;
+>   - Árvores.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016.
 > 2. MENEZES, P. B. Matemática Discreta para Computação e Informática. 4ª Edição. Bookman, 2013.

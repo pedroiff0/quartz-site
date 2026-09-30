@@ -8,7 +8,7 @@ tags:
 - publico
 - academico
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open-check
 repo: https://github.com/pedroiff0/livro-calculo
 status: ativo

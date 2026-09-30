@@ -2,39 +2,39 @@
 publish: false
 title: Redes de Computadores II
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Redes De Computadores Ii|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Redes De Computadores Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Redes De Computadores Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Redes De Computadores Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.59`
 > - **Período:** 8º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Wesley Folly (wesley.souza@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com Switches; Configuração de Switch; VLANs; Listas de Controle de Acesso; DHCP; NAT para IPv4; Descoberta, Gerenciamento e Manutenção de Dispositivos.
 > **Objetivos**
 > - Aprofundar conhecimentos em redes de computadores acerca de redes comutadas, switching, roteamento.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i|CSECBJI.55 - Redes de Computadores I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Roteadores e suas Tecnologias**
 > - **2. Conceitos de Roteamento**
 > - **3. Roteamento Estático**
@@ -47,7 +47,7 @@ sitesync: true
 > - **10. NAT para IPv4**
 > - **11. Descoberta, Gerenciamento e Manutenção de Dispositivos**
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
 > 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.

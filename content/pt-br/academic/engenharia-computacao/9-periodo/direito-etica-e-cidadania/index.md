@@ -2,27 +2,27 @@
 publish: false
 title: Direito, Ética e Cidadania
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Direito Etica E Cidadania|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Direito Etica E Cidadania|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Direito Etica E Cidadania|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Direito Etica E Cidadania|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.69`
 > - **Período:** 9º Período | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Karina (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação dos novos aspectos e relações jurídicas da sociedade da informação. Análise das principais manifestações do direito digital e eletrônico nos ramos do direito. Introdução aos mecanismos de governança da internet no Brasil e no mundo. Regulação do ambiente online e o Marco Civil da Internet. Direitos e deveres no ciberespaço. Responsabilidade de usuários, provedores e governo. Inovação nas tecnologias de informação e comunicação. Propriedade intelectual na era digital. Acessibilidade, inclusão digital e ciberativismo. Profissional de computação. Princípios de conduta ética e profissional do engenheiro de software. Propriedade intelectual e pirataria. Privacidade. Responsabilidade social. O que é ética; Código de ética da ACM e IEEE. Direitos autorais e estudos de casos sobre ética na computação. Ética na internet: liberdade de informação, privacidade e censura.
 > **Objetivos**
@@ -33,36 +33,36 @@ sitesync: true
 > - Tratar de leis e códigos de ética no âmbito da Engenharia de Computação, destacando os aspectos jurídicos (legais e jurisprudenciais) pertinentes, em consonância com as diretrizes constitucionais e seus princípios norteadores;
 > - Realizar palestras, rodas de conversa e seminários sobre situações concretas que envolvem Direito, ética, cidadania e computação.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Introdução ao Direito, Estado Democrático de Direito e Cidadania:**
-> - Concepções de Direito; Teoria Tridimensional do Direito; Direito Positivo e Direito Consuetudinário; Hermenêutica.
-> - Princípios jurídicos e cláusulas gerais do direito: dignidade da pessoa, solidariedade, razoabilidade/proporcionalidade, igualdade, legalidade, contraditório e ampla defesa, boafé, vedação ao enriquecimento ilícito, acesso à Justiça.
-> - Estado Democrático de Direito; Ordenamento Jurídico Brasileiro com ênfase na Constituição Federal de 1988.
-> - Conceito de cidadania; exercício de cidadania no Estado Democrático de Direito; Constituição Cidadã.
+>   - Concepções de Direito; Teoria Tridimensional do Direito; Direito Positivo e Direito Consuetudinário; Hermenêutica.
+>   - Princípios jurídicos e cláusulas gerais do direito: dignidade da pessoa, solidariedade, razoabilidade/proporcionalidade, igualdade, legalidade, contraditório e ampla defesa, boafé, vedação ao enriquecimento ilícito, acesso à Justiça.
+>   - Estado Democrático de Direito; Ordenamento Jurídico Brasileiro com ênfase na Constituição Federal de 1988.
+>   - Conceito de cidadania; exercício de cidadania no Estado Democrático de Direito; Constituição Cidadã.
 > - **2. Computação, Internet e Direito**
-> - A Nova Tecnologia da Informação (Internet); Internet, Estado e Direito; Internet: aspectos constitucionais, liberdade de acesso e proteção do usuário.
-> - Delitos e responsabilidade na rede; Internet: entre a liberdade e a censura; Internet: delitos possíveis e tentativas de controle; crimes virtuais e delitos informáticos (Lei n. 12.737/2012) no Código Penal Brasileiro.
-> - Computação, Internet e Privacidade; direito à privacidade; Internet: privacidade, liberdade e poder público.
-> - Computação, Internet e Direito de Autor; Lei n. 9.610/98 sobre direitos autorais; Lei n. 9.610/98 sobre propriedade intelectual de programa de computador; Lei n. 9.610/98 sobre propriedade industrial.
-> - Responsabilidade Civil na Internet e no Mercado Informático; Responsabilidade no Código Civil (Lei n. 10.406/ 2002); Internet e aplicação das várias modalidades de culpa; Internet e aplicação da teoria do risco; Internet: riscos previsíveis; Internet e excludentes da responsabilidade; Internet: dano moral e sua irreparabilidade; Marco Civil da Internet (Lei nº 12.965/2014) e direito ao esquecimento.
+>   - A Nova Tecnologia da Informação (Internet); Internet, Estado e Direito; Internet: aspectos constitucionais, liberdade de acesso e proteção do usuário.
+>   - Delitos e responsabilidade na rede; Internet: entre a liberdade e a censura; Internet: delitos possíveis e tentativas de controle; crimes virtuais e delitos informáticos (Lei n. 12.737/2012) no Código Penal Brasileiro.
+>   - Computação, Internet e Privacidade; direito à privacidade; Internet: privacidade, liberdade e poder público.
+>   - Computação, Internet e Direito de Autor; Lei n. 9.610/98 sobre direitos autorais; Lei n. 9.610/98 sobre propriedade intelectual de programa de computador; Lei n. 9.610/98 sobre propriedade industrial.
+>   - Responsabilidade Civil na Internet e no Mercado Informático; Responsabilidade no Código Civil (Lei n. 10.406/ 2002); Internet e aplicação das várias modalidades de culpa; Internet e aplicação da teoria do risco; Internet: riscos previsíveis; Internet e excludentes da responsabilidade; Internet: dano moral e sua irreparabilidade; Marco Civil da Internet (Lei nº 12.965/2014) e direito ao esquecimento.
 > - **3. Cidadania e Computação**
-> - Ética versus Moral; Normas morais, jurídicas e religiosas; Senso moral e consciência moral; Juízo de fato e juízo de valor; Ética e violência; Liberdade e autonomia; Os constituintes do campo ético: agente moral, os meios morais e os valores ou fins éticos. Ética e Computação; Critérios éticos; O profissional de computação; Abrangência da ética na computação; A importância do raciocínio na tomada de decisões.
-> - Ética e Regulamentação da Profissão; Códigos de Ética Profissional; Código de ética da ACM;
-> - Código de ética da IEEE; Código de ética do Conselho Federal de Engenharia e Agronomia;
-> - Métodos para tomadas de decisão em situações éticas.
-> - Acesso não autorizado; Crimes envolvendo computadores; Hacking; Tipos de invasões; Propriedade intelectual e responsabilidade; Direito Autoral; Patente; Segredo de negócio; Engenharia reversa; Ética na Internet.
+>   - Ética versus Moral; Normas morais, jurídicas e religiosas; Senso moral e consciência moral; Juízo de fato e juízo de valor; Ética e violência; Liberdade e autonomia; Os constituintes do campo ético: agente moral, os meios morais e os valores ou fins éticos. Ética e Computação; Critérios éticos; O profissional de computação; Abrangência da ética na computação; A importância do raciocínio na tomada de decisões.
+>   - Ética e Regulamentação da Profissão; Códigos de Ética Profissional; Código de ética da ACM;
+>   - Código de ética da IEEE; Código de ética do Conselho Federal de Engenharia e Agronomia;
+>   - Métodos para tomadas de decisão em situações éticas.
+>   - Acesso não autorizado; Crimes envolvendo computadores; Hacking; Tipos de invasões; Propriedade intelectual e responsabilidade; Direito Autoral; Patente; Segredo de negócio; Engenharia reversa; Ética na Internet.
 > - **4. Computação e Cidadania**
-> - Evolução histórica do conceito de cidadania; Contratualismo e Estado Democrático de Direito; Racionalismo, Democracia e Direitos Fundamentais; Liberalismo Político x Liberalismo Econômico; Welfare State; direitos e garantias individuais do cidadão na CRFB/88; direitos sociais na CRFB/88.
-> - Breve História do Brasil: desigualdades e luta por direitos; mitigação das desigualdades sociais e políticas afirmativas; cultura e relações étnico-raciais no Brasil.
-> - Internet, redes sociais, globalização e cultura no viés da cidadania; inclusão digital; software livre x software proprietário; educação e ferramentas tecnológicas; conceitos de cultura, multiculturalismo, identidade, pertencimento, etnia, racismo, etnocentrismo e preconceito racial; formas de preconceito e discriminação étnico-raciais socialmente construídas, assim como busca de estratégias que permitam eliminá-las das representações sociais e coletivas.
+>   - Evolução histórica do conceito de cidadania; Contratualismo e Estado Democrático de Direito; Racionalismo, Democracia e Direitos Fundamentais; Liberalismo Político x Liberalismo Econômico; Welfare State; direitos e garantias individuais do cidadão na CRFB/88; direitos sociais na CRFB/88.
+>   - Breve História do Brasil: desigualdades e luta por direitos; mitigação das desigualdades sociais e políticas afirmativas; cultura e relações étnico-raciais no Brasil.
+>   - Internet, redes sociais, globalização e cultura no viés da cidadania; inclusão digital; software livre x software proprietário; educação e ferramentas tecnológicas; conceitos de cultura, multiculturalismo, identidade, pertencimento, etnia, racismo, etnocentrismo e preconceito racial; formas de preconceito e discriminação étnico-raciais socialmente construídas, assim como busca de estratégias que permitam eliminá-las das representações sociais e coletivas.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. DI FELICE, M. A Cidadania Digital: a crise da ideia ocidental de democracia e a participação nas redes sociais São Paulo; Paulus, 2021.
 > 2. QUARESMA, R. A. Ética, direito e cidadania: Brasil sociopolítico e jurídico atual. Curitiba:Juruá Editora, 2008.

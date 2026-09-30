@@ -2,62 +2,62 @@
 publish: false
 title: Sociedade e Tecnologia
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T15:35:32-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[Anotações/Anotações — Sociedade E Tecnologia|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Sociedade E Tecnologia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Sociedade E Tecnologia|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-sociedade-e-tecnologia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.76`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Eletivo | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico e Tecnológico. Trabalho. Processos Produtivos e Relações de Trabalho na sociedade capitalista. Técnica e Tecnologia na sociedade contemporânea. Cultura e Diversidade Cultural
 > **Objetivos**
 > - Compreender as relações sociais, analisando a relação do homem com a natureza, do homem com o homem e com os grupos sociais, enfatizando as relações que se estruturam em torno do trabalho, da tecnologia e da cultura, como dimensões significativas na vida humana.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Distinção das Ciências Sociais e Ciências Naturais**
-> - Distinção das Ciências Sociais e Ciências Naturais
-> - As Especificidades das Ciências Sociais
+>   - Distinção das Ciências Sociais e Ciências Naturais
+>   - As Especificidades das Ciências Sociais
 > - **2. Conhecimento Científico e Tecnológico**
-> - Formas de Conhecimento;
-> - Conhecimento Científico
-> - Conhecimento Tecnológico
+>   - Formas de Conhecimento;
+>   - Conhecimento Científico
+>   - Conhecimento Tecnológico
 > - **3. Processos Produtivos e Relações de Trabalho na Sociedade Capitalista**
-> - O Modelo de Produção Taylorista-Fordista
-> - O Modelo de Produção Flexível
-> - As relações de Trabalho da Sociedade Atual
+>   - O Modelo de Produção Taylorista-Fordista
+>   - O Modelo de Produção Flexível
+>   - As relações de Trabalho da Sociedade Atual
 > - **4. Técnica e Tecnologia na Sociedade Contemporânea**
-> - O Conceito de Técnica e Tecnologia
-> - Tecnologia e Necessidades Sociais
-> - Dimensões Sociais da Tecnologia
-> - Tecnologia Desenvolvimento Social e Educação Tecnológica
+>   - O Conceito de Técnica e Tecnologia
+>   - Tecnologia e Necessidades Sociais
+>   - Dimensões Sociais da Tecnologia
+>   - Tecnologia Desenvolvimento Social e Educação Tecnológica
 > - **5. Cultura e Diversidade Cultural**
-> - Conceito de Cultura e Diversidade
-> - Globalização: Conceitos, Significados, Manifestações
-> - Gênero
-> - Tecnologia e Sociedade da Informação: Uma Questão de Inclusão
+>   - Conceito de Cultura e Diversidade
+>   - Globalização: Conceitos, Significados, Manifestações
+>   - Gênero
+>   - Tecnologia e Sociedade da Informação: Uma Questão de Inclusão
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. CAPRA, F. O ponto de mutação. 25ª Edição. São Paulo: Cultrix, 1982.
 > 2. CUCHE, D. A noção de cultura nas ciências sociais. Bauru: EDUSC, 2002.

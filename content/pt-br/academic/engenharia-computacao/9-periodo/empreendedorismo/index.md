@@ -2,75 +2,75 @@
 publish: false
 title: Empreendedorismo
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Empreendedorismo|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Empreendedorismo|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Empreendedorismo|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Empreendedorismo|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.68`
 > - **Período:** 9º Período | **Núcleo:** Específica | **Carga Horária:** 40
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor e medidas de qualidade. Startups.
 > **Objetivos**
 > - Proporcionar aos acadêmicos o conhecimento das características empreendedoras, a busca das oportunidades de negócios e o desenvolvimento do plano de negócios de empresas, bem como prepará-los para empreender e avaliar os riscos em atividades voltadas a sua atuação na área da engenharia de computação.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Empreendedor e os Fatores de Sucesso**
-> - Conceito de Empreendedorismo
-> - O que é ser Empreendedor
-> - Perfil empreendedor e autoavaliação de competências
-> - Empreendedor de negócios e de empresas
-> - Fatores de sucesso
-> - Depoimento de um empreendedor
-> - Estudo de caso de empreendedores
+>   - Conceito de Empreendedorismo
+>   - O que é ser Empreendedor
+>   - Perfil empreendedor e autoavaliação de competências
+>   - Empreendedor de negócios e de empresas
+>   - Fatores de sucesso
+>   - Depoimento de um empreendedor
+>   - Estudo de caso de empreendedores
 > - **2. Marketing do Gerente Empreendedor**
-> - Ambiente de Estímulo ao Empreendedorismo
-> - Cultura Empreendedora
-> - Intraempreendedorismos nas empresas
-> - O Gerente e o Colaborador Empreendedor
+>   - Ambiente de Estímulo ao Empreendedorismo
+>   - Cultura Empreendedora
+>   - Intraempreendedorismos nas empresas
+>   - O Gerente e o Colaborador Empreendedor
 > - **3. Empreendedor e a Economia de Mercado**
-> - Ocaso das MPEs, seus números e importância, informalidade
-> - Aspectos do Mercado Brasileiro e Global
-> - Análise de Cenários
-> - Importância das Relações com o Mercado
-> - Formulação de redes
+>   - Ocaso das MPEs, seus números e importância, informalidade
+>   - Aspectos do Mercado Brasileiro e Global
+>   - Análise de Cenários
+>   - Importância das Relações com o Mercado
+>   - Formulação de redes
 > - **4. Mercado e as Oportunidades de Negócios**
-> - Oportunidades em Mercados Inovadores e Tradicionais
-> - Oportunidades em Negócios Inovadores e Tradicionais
-> - Estímulos do Governo e de Outros Orgãos ao Empreendedorismo
-> - Leis Voltadas às Microempresas
-> - Empreendedorismo Social
-> - Estudos de Caso de Empresas
+>   - Oportunidades em Mercados Inovadores e Tradicionais
+>   - Oportunidades em Negócios Inovadores e Tradicionais
+>   - Estímulos do Governo e de Outros Orgãos ao Empreendedorismo
+>   - Leis Voltadas às Microempresas
+>   - Empreendedorismo Social
+>   - Estudos de Caso de Empresas
 > - **5. Plano de Negócios**
-> - Prospecção de Oportunidades
-> - Etapas de um Plano de Negócios
-> - Aspectos de Marketing
-> - Aspectos de Produção
-> - Aspectos da gestão Financeira
-> - Aspectos e Medidas da Qualidade
-> - Simulação de um Plano de Negócios
+>   - Prospecção de Oportunidades
+>   - Etapas de um Plano de Negócios
+>   - Aspectos de Marketing
+>   - Aspectos de Produção
+>   - Aspectos da gestão Financeira
+>   - Aspectos e Medidas da Qualidade
+>   - Simulação de um Plano de Negócios
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004.
 > 2. CHÉR, R. Empreendedorismo na veia: um aprendizado constante. Rio de Janeiro: Elsevier: SEBRAE,

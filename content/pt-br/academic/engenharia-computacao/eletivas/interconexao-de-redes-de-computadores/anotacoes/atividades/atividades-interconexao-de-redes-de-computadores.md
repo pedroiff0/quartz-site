@@ -8,8 +8,8 @@ tags:
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- cards
+  - page-layout
+  - cards
 icon: lucide-book-open
 disciplina: "[[interconexao-de-redes-de-computadores]]"
 sitesync: true

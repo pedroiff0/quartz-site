@@ -2,58 +2,58 @@
 publish: false
 title: Física Experimental III
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Fisica Experimental Iii|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Fisica Experimental Iii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Fisica Experimental Iii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fisica Experimental Iii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.27`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 40
 > - **Docente Responsável:** Rodrigo Lacerda (rodrigo.lacerda@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja, experimentos de eletrostática; Eletrodinâmica; Campo magnético; Eletromagnetismo; Capacitância, indutância, Circuitos Elétricos.
 > **Objetivos**
 > - ●
 > - Dar subsídios físicos sobre os conceitos da Teoria Eletromagnética da natureza, assim como aplicá-los nas atividades profissionais do engenheiro.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Eletrostática**
-> - Processos de eletrização;
-> - Lei de Coulomb;
-> - Campo elétrico;
-> - Potencial elétrico, superfícies equipotenciais;
-> - Capacitores;
+>   - Processos de eletrização;
+>   - Lei de Coulomb;
+>   - Campo elétrico;
+>   - Potencial elétrico, superfícies equipotenciais;
+>   - Capacitores;
 > - **2. Eletrodinâmica**
-> - Conceitos fundamentais, corrente e cargas em movimentos
-> - Resistência, resistividade e as Leis de Ohm
-> - Circuitos simples com uma e mais malhas
-> - Instrumentos de medidas (voltímetro, amperímetro e ohmímetro)
+>   - Conceitos fundamentais, corrente e cargas em movimentos
+>   - Resistência, resistividade e as Leis de Ohm
+>   - Circuitos simples com uma e mais malhas
+>   - Instrumentos de medidas (voltímetro, amperímetro e ohmímetro)
 > - **3. Campo Magnético**
-> - A força magnética;
-> - Torque sobre espiras com corrente e ímã;
-> - Campo magnético de correntes;
-> - Transformadores.
+>   - A força magnética;
+>   - Torque sobre espiras com corrente e ímã;
+>   - Campo magnético de correntes;
+>   - Transformadores.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. RESNICK, R., WALKER, J.
 > 2. HALLIDAY, D. Fundamentos de Física – Volume 3 – Eletromagnetismo. 10ª Edição. Rio de Janeiro, LTC, 2016.

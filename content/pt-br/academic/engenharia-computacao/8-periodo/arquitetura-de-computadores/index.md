@@ -2,62 +2,62 @@
 publish: false
 title: Arquitetura de Computadores
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Arquitetura De Computadores|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Arquitetura De Computadores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Arquitetura De Computadores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Arquitetura De Computadores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.61`
 > - **Período:** 8º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Fabrício Barros (fabricio.goncalves@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; Barramentos de computadores pessoais; Interfaceamento via rede; Práticas de laboratório.
 > **Objetivos**
 > - Capacitar o aluno, através do conhecimento básico da arquitetura IA-32/IA-64, a interfacear e integrar novos projetos e produtos dentro dessa arquitetura que é a base da maioria dos computadores pessoais modernos.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores|CSECBJI.52 - Organização de Computadores]]
 > - [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/sistemas-digitais|CSECBJI.53 - Sistemas Digitais]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Arquitetura IA-32 / IA-64**
-> - Operação em Modelo Real
-> - Operação em Modo Protegido
-> - Paginação de Memória
-> - Comutação de Tarefas em Ambiente Multitarefa
-> - Mecanismos de Interrupção
+>   - Operação em Modelo Real
+>   - Operação em Modo Protegido
+>   - Paginação de Memória
+>   - Comutação de Tarefas em Ambiente Multitarefa
+>   - Mecanismos de Interrupção
 > - **2. Memórias Dinâmicas e Subsistemas Cache**
-> - Memórias Dinâmicas
-> - Subsistemas Cache
+>   - Memórias Dinâmicas
+>   - Subsistemas Cache
 > - **3. Processamento Numérico e de Sinais**
-> - Processamento de Números Inteiros
-> - Processamento de Números Reais
-> - Processamento de Sinais em Computador com SIMD
+>   - Processamento de Números Inteiros
+>   - Processamento de Números Reais
+>   - Processamento de Sinais em Computador com SIMD
 > - **4. Barramentos Utilizados nos Computadores Pessoais**
-> - Barramento PCI e PCI-Express
-> - Barramento USB
-> - Outros Barramentos
+>   - Barramento PCI e PCI-Express
+>   - Barramento USB
+>   - Outros Barramentos
 > - **5. Interfaceamento Via Rede:**
-> - Protocolo TCP/IP
-> - Acesso à rede por software
+>   - Protocolo TCP/IP
+>   - Acesso à rede por software
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
 > 2. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.

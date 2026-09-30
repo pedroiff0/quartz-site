@@ -2,65 +2,65 @@
 publish: false
 title: Eletricidade Aplicada
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Eletricidade Aplicada|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Eletricidade Aplicada|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Eletricidade Aplicada|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Eletricidade Aplicada|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.33`
 > - **Período:** 5º Período | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Rodrigo Lacerda (rodrigo.lacerda@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. Fornecimento de energia elétrica. Normas técnicas e órgãos reguladores. Automação e controle de processos.
 > **Objetivos**
 > - Proporcionar ao aluno conhecimentos básicos sobre energia elétrica objetivando melhor utilizá-las no meio industrial, bem como estudar os equipamentos elétricos e eletrônicos e iluminação na indústria.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii|CSECBJI.26 - Física III]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/eletivas/energia-e-eficiencia-energetica/energia-e-eficiencia-energetica|CSECBJI.82 - Energia e Eficiência Energética]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Análise de Circuitos Em Corrente Alternada**
-> - Padrões Elétricos e Convenções;
-> - Circuitos em Corrente Alternada;
-> - Representação Senoidal, Retangular e Polar;
-> - Valor Eficaz de uma Onda Senoidal;
-> - Triângulos de Impedâncias;
-> - Reatância indutiva;
-> - Reatância capacitiva;
-> - Triângulo de Potência;
-> - Potência Ativa;
-> - Potência Reativa;
-> - Potência Aparente;
-> - Fator de Potência;
-> - Noções de Circuitos Trifásicos;
-> - Transformadores;
-> - Relação de transformação, ligação de triângulo e estrela;
+>   - Padrões Elétricos e Convenções;
+>   - Circuitos em Corrente Alternada;
+>   - Representação Senoidal, Retangular e Polar;
+>   - Valor Eficaz de uma Onda Senoidal;
+>   - Triângulos de Impedâncias;
+>   - Reatância indutiva;
+>   - Reatância capacitiva;
+>   - Triângulo de Potência;
+>   - Potência Ativa;
+>   - Potência Reativa;
+>   - Potência Aparente;
+>   - Fator de Potência;
+>   - Noções de Circuitos Trifásicos;
+>   - Transformadores;
+>   - Relação de transformação, ligação de triângulo e estrela;
 > - **2. Fornecimento de Energia**
-> - Visão Geral do Sistema Elétrico;
-> - Modalidades de Ligações dos Consumidores;
-> - Monofásica;
-> - Bifásica;
-> - Trifásica;
-> - Instalação para Iluminação e Aparelhos Eletrodomésticos;
-> - Normas, Símbolos e Convenções.
+>   - Visão Geral do Sistema Elétrico;
+>   - Modalidades de Ligações dos Consumidores;
+>   - Monofásica;
+>   - Bifásica;
+>   - Trifásica;
+>   - Instalação para Iluminação e Aparelhos Eletrodomésticos;
+>   - Normas, Símbolos e Convenções.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. ALEXANDER, C. K., SADIKU, M. Fundamentos de Circuitos Elétricos. 5ª Edição. Porto Alegre:
 > 2. Bookman, 2013.

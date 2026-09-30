@@ -2,54 +2,54 @@
 publish: false
 title: Filosofia da Ciência e Tecnologia
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Filosofia Da Ciencia E Tecnologia|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Filosofia Da Ciencia E Tecnologia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Filosofia Da Ciencia E Tecnologia|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Filosofia Da Ciencia E Tecnologia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.43`
 > - **Período:** 6º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Rafael Tardin (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O progresso científico. O progresso tecnológico. Civilização tecnológica. Ciência, Tecnologia e Humanismo.
 > **Objetivos**
 > - Problematizar e contextualizar a crise da Ciência Moderna e das concepções dominantes de tecnologia, fazendo a crítica ao paradigma científico dominante.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - [x] **1. Teoria do conhecimento: arte, técnica, ciência e engenharia** [[anotacoes/aula-01-introducao-a-filosofia|Aula 01]], [[anotacoes/atividades/trabalho-1-introducao-a-e-a-critica-dos-pressupostos|Trabalho 1]]
-> - [x] Definição e contextualização sobre a condição humana [[anotacoes/aula-01-introducao-a-filosofia|Aula 01]]
-> - [x] Definições ciência, técnica e tecnologia [[anotacoes/atividades/trabalho-1-introducao-a-e-a-critica-dos-pressupostos|Trabalho 1]]
-> - [x] O contexto do século XXI
+>   - [x] Definição e contextualização sobre a condição humana [[anotacoes/aula-01-introducao-a-filosofia|Aula 01]]
+>   - [x] Definições ciência, técnica e tecnologia [[anotacoes/atividades/trabalho-1-introducao-a-e-a-critica-dos-pressupostos|Trabalho 1]]
+>   - [x] O contexto do século XXI
 > - [/] **2. O Progresso Científico e o Progresso Tecnológico** [[anotacoes/aula-02-filosofia-da-tecnologia|Aula 02]], [[anotacoes/atividades/trabalho-2-filosofia-da-tecnologia|Trabalho 2]]
-> - [x] Paradigma científico dominante [[anotacoes/aula-02-filosofia-da-tecnologia|Aula 02]]
-> - [x] Definições sobre crise da Ciência, crise do paradigma científico [[anotacoes/atividades/trabalho-2-filosofia-da-tecnologia|Trabalho 2]]
-> - [ ] Contexto do século XXI
+>   - [x] Paradigma científico dominante [[anotacoes/aula-02-filosofia-da-tecnologia|Aula 02]]
+>   - [x] Definições sobre crise da Ciência, crise do paradigma científico [[anotacoes/atividades/trabalho-2-filosofia-da-tecnologia|Trabalho 2]]
+>   - [ ] Contexto do século XXI
 > - [ ] **3. Civilização Tecnológica, Ciência, Tecnologia e Humanismo**
-> - [ ] O laboratório como ambiente de conflito e crise
-> - [ ] O questionamento do paradigma científico
-> - [ ] O questionamento do paradigma científico e as polêmicas emergentes
-> - [ ] O Contexto do século XXI
+>   - [ ] O laboratório como ambiente de conflito e crise
+>   - [ ] O questionamento do paradigma científico
+>   - [ ] O questionamento do paradigma científico e as polêmicas emergentes
+>   - [ ] O Contexto do século XXI
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. CHAUI, M. S. Convite à filosofia. 14. ed. São Paulo: Ática, 2011.
 > 2. LATOUR, Bruno. Ciência em ação: como seguir cientistas e engenheiros sociedade afora. São Paulo: Ed. UNESP, 2000.

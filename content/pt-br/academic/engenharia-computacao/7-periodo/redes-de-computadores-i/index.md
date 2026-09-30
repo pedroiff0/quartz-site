@@ -2,27 +2,27 @@
 publish: false
 title: Redes de Computadores I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Redes De Computadores I|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Redes De Computadores I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Redes De Computadores I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Redes De Computadores I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.55`
 > - **Período:** 7º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Wesley Folly (wesley.souza@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Redes; Qualidade de Serviço; Segurança; Protocolo IP.
 > **Objetivos**
@@ -31,7 +31,7 @@ sitesync: true
 > - Compreender as camadas de referência das estruturas de redes;
 > - Entender endereçamento IP para configuração e planejamento de redes.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados|CSECBJI.47 - Comunicação de Dados]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
@@ -39,42 +39,42 @@ sitesync: true
 > - [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos|CSECBJI.86 - Algoritmos Distribuídos]]
 > - [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos|CSECBJI.71 - Sistemas Distribuídos]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Introdução as Redes de Computadores**
-> - Conceituação
-> - Tipos
-> - Topologias
-> - Evolução e Histórico das Redes de Computadores
-> - Equipamentos Utilizados
+>   - Conceituação
+>   - Tipos
+>   - Topologias
+>   - Evolução e Histórico das Redes de Computadores
+>   - Equipamentos Utilizados
 > - **2. Modelos OSI e TCP/IP**
-> - Modelo OSI e Modelo TCP/IP
-> - Camadas do Modelo OSI
-> - i. Física
-> - ii. Enlace
-> - iii. Rede
-> - iv. Transporte
-> - v. Sessão
-> - vi. Apresentação
-> - vii. Aplicação
-> - Camadas do Modelo TCP/IP
-> - i. Rede
-> - ii. Internet
-> - iii. Transporte
-> - iv. Aplicação
-> - Modelo OSI x Modelo TCP/IP
+>   - Modelo OSI e Modelo TCP/IP
+>   - Camadas do Modelo OSI
+>   - i. Física
+>   - ii. Enlace
+>   - iii. Rede
+>   - iv. Transporte
+>   - v. Sessão
+>   - vi. Apresentação
+>   - vii. Aplicação
+>   - Camadas do Modelo TCP/IP
+>   - i. Rede
+>   - ii. Internet
+>   - iii. Transporte
+>   - iv. Aplicação
+>   - Modelo OSI x Modelo TCP/IP
 > - **3. Arquitetura das Redes**
-> - Escalabilidade
-> - Tolerância à Falhas Qualidade de Serviço
+>   - Escalabilidade
+>   - Tolerância à Falhas Qualidade de Serviço
 > - **4. Segurança**
 > - **5. Meio de Comunicação**
-> - Fio de Cobre
-> - Sem Fio
-> - Óptico
+>   - Fio de Cobre
+>   - Sem Fio
+>   - Óptico
 > - **6. Protocolo IP**
-> - Conceituação do Protocolo IP
-> - Endereçamento IP
+>   - Conceituação do Protocolo IP
+>   - Endereçamento IP
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre:
 > 2. Bookman, 2015.

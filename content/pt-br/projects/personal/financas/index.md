@@ -12,7 +12,7 @@ tags:
 repo: https://github.com/pedroiff0/financas-app
 status: privado
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-notebookpen
 sitesync: true
 ---

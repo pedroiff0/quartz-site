@@ -2,59 +2,59 @@
 publish: false
 title: Probabilidade e Estatística
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Probabilidade E Estatistica|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Probabilidade E Estatistica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Probabilidade E Estatistica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Probabilidade E Estatistica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.29`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Roberto Carvalho (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Distribuições de Probabilidades.
 > **Objetivos**
 > - Apresentar ao aluno os conceitos básicos de probabilidades e estatística descritiva que possibilitem a aplicação de métodos estatísticos na análise de problemas.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/5-periodo/avaliacao-e-desempenho-de-sistemas/avaliacao-e-desempenho-de-sistemas|CSECBJI.41 - Avaliação e Desempenho de Sistemas]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Introdução à Estatística**
-> - Coleta de Dados em Engenharia
-> - Modelos Mecanicistas e Empíricos
-> - Planejamento de Experimentos
+>   - Coleta de Dados em Engenharia
+>   - Modelos Mecanicistas e Empíricos
+>   - Planejamento de Experimentos
 > - **2. Estatística Descritiva**
-> - Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
-> - Medidas de Posição: Médias, Mediana e Moda
-> - Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
+>   - Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
+>   - Medidas de Posição: Médias, Mediana e Moda
+>   - Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
 > - **3. Probabilidade**
-> - Definição
-> - Eventos Independentes
-> - Probabilidade condicional
-> - Leis da Probabilidade
-> - Teorema de Bayes
-> - Variáveis Aleatórias
+>   - Definição
+>   - Eventos Independentes
+>   - Probabilidade condicional
+>   - Leis da Probabilidade
+>   - Teorema de Bayes
+>   - Variáveis Aleatórias
 > - **4. Distribuições de Probabilidades**
-> - Discretas
-> - Contínuas
+>   - Discretas
+>   - Contínuas
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. LARSON, R., FARBER, B. Estatística Aplicada. 6ª Edição. São Paulo: Pearson, 2015.
 > 2. MONTGOMERY, D. C., RUNGE, G. C. Estatística Aplicada e Probabilidade para Engenheiros. 6.ª Edição. Rio de Janeiro: LTC, 2016.

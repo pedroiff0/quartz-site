@@ -2,69 +2,69 @@
 publish: false
 title: Fenômenos de Transporte
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Fenomenos De Transporte|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Fenomenos De Transporte|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Fenomenos De Transporte|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fenomenos De Transporte|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.28`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Alcides Oliveira (alcides.oliveira@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Mecânica dos Fluidos – Conceitos e definições. Hidrostática. Hidrodinâmica. Hidráulica técnica – Bombas e Medidores de Vazão. Perda de carga em tubulações. Transmissão de Calor – Conceitos fundamentais. Trocadores de Calor – Aplicação.
 > **Objetivos**
 > - Analisar os fenômenos que envolvem Mecânica dos Fluidos e Transmissão de Calor e relacioná-los com os princípios da física e com suas situações práticas.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i|CSECBJI.4 - Cálculo I]]
 > - [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii|CSECBJI.19 - Física II]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Mecânica dos Fluidos**
-> - Princípios básicos e definições;
-> - Sistema Internacional de Unidades;
-> - Hidrostática;
-> - Definição de fluido e de pressão;
-> - Tensão de cisalhamento, viscosidade, diagrama de velocidades;
-> - Massa específica, peso específico e fluido ideal;
-> - Pressão e Teorema de Stevin, equação manométrica, medidores de pressão ;
-> - Lei de Pascal e escala de pressão;
-> - Empuxo;
-> - Hidrodinâmica;
-> - Escoamento laminar e turbulento;
-> - Vazão, fluxo e seus medidores;
-> - Conservação de Energia em escoamentos incompressíveis – Equação de Continuidade – Eq.
-> - de Bernoulli;
-> - Hidráulica técnica – Bombas, válvulas e medidores de vazão;
-> - Perda de carga em tubulações.
+>   - Princípios básicos e definições;
+>   - Sistema Internacional de Unidades;
+>   - Hidrostática;
+>   - Definição de fluido e de pressão;
+>   - Tensão de cisalhamento, viscosidade, diagrama de velocidades;
+>   - Massa específica, peso específico e fluido ideal;
+>   - Pressão e Teorema de Stevin, equação manométrica, medidores de pressão ;
+>   - Lei de Pascal e escala de pressão;
+>   - Empuxo;
+>   - Hidrodinâmica;
+>   - Escoamento laminar e turbulento;
+>   - Vazão, fluxo e seus medidores;
+>   - Conservação de Energia em escoamentos incompressíveis – Equação de Continuidade – Eq.
+>   - de Bernoulli;
+>   - Hidráulica técnica – Bombas, válvulas e medidores de vazão;
+>   - Perda de carga em tubulações.
 > - **2. Transmissão de Calor**
-> - Conceitos fundamentais de condução, convecção e radiação;
-> - Lei de Fourier;
-> - Equação da condução de calor;
-> - Condução unidimensional em regime permanente;
-> - Convecção;
-> - Radiação;
-> - Mecanismos Combinados;
-> - Aletas e trocadores de calor – aplicação;
-> - Transporte de massa: difusão.
+>   - Conceitos fundamentais de condução, convecção e radiação;
+>   - Lei de Fourier;
+>   - Equação da condução de calor;
+>   - Condução unidimensional em regime permanente;
+>   - Convecção;
+>   - Radiação;
+>   - Mecanismos Combinados;
+>   - Aletas e trocadores de calor – aplicação;
+>   - Transporte de massa: difusão.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. FOX, R. W., MCDONALD, A.T. Introdução à Mecânica dos Fluidos. 9.ª Edição. Rio de Janeiro: LTC,
 > 2. WASHINGTON, B. F. Fenômenos de Transporte para Engenharia. Rio de Janeiro: LTC, 2012.

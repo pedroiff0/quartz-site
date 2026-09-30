@@ -2,27 +2,27 @@
 publish: false
 title: Cálculo I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Calculo I|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Calculo I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Calculo I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Calculo I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.4`
 > - **Período:** 1º Período | **Núcleo:** Básico | **Carga Horária:** 120
 > - **Docente Responsável:** Gustavo Stênio (gustavo.neitzel@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Elementares do Cálculo, Limites e Continuidade de Funções, Derivação, Aplicações da derivada, Integração, Integral Indefinida e Integral Definida.
 > **Objetivos**
@@ -31,7 +31,7 @@ sitesync: true
 > - Aplicar limites no estudo de curvas contínuas;
 > - Promover um entendimento claro dos conceitos do Cálculo que são fundamentais na resolução de problemas enfatizando a utilidade do cálculo por meio do estudo de regras de derivação, taxas relacionadas e traçados de curvas com aplicações do cotidiano.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
@@ -40,62 +40,62 @@ sitesync: true
 > - [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais|CSECBJI.18 - Equações Diferenciais]]
 > - [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/fenomenos-de-transporte|CSECBJI.28 - Fenômenos de Transporte]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Números Reais:**
-> - Conjuntos Numéricos;
-> - Desigualdades;
-> - Valor Absoluto;
-> - Intervalos.
+>   - Conjuntos Numéricos;
+>   - Desigualdades;
+>   - Valor Absoluto;
+>   - Intervalos.
 > - **2. Funções:**
-> - Domínio e Imagem de Funções;
-> - Operações com Funções;
-> - Composição de Funções;
-> - Funções Pares e Ímpares;
-> - Funções Periódicas;
-> - Funções Compostas;
-> - Funções Inversas;
-> - Funções Elementares: Polinomiais; Racionais; Trigonométricas; Trigonométricas Inversas; Exponenciais; Logarítmicas.
+>   - Domínio e Imagem de Funções;
+>   - Operações com Funções;
+>   - Composição de Funções;
+>   - Funções Pares e Ímpares;
+>   - Funções Periódicas;
+>   - Funções Compostas;
+>   - Funções Inversas;
+>   - Funções Elementares: Polinomiais; Racionais; Trigonométricas; Trigonométricas Inversas; Exponenciais; Logarítmicas.
 > - **3. Limites:**
-> - Noção Intuitiva;
-> - Definição;
-> - Unicidade do Limite;
-> - Propriedades dos Limites;
-> - Limites Laterais;
-> - Limites no Infinito;
-> - Continuidade das Funções;
+>   - Noção Intuitiva;
+>   - Definição;
+>   - Unicidade do Limite;
+>   - Propriedades dos Limites;
+>   - Limites Laterais;
+>   - Limites no Infinito;
+>   - Continuidade das Funções;
 > - **4. Derivada:**
-> - A Reta Tangente;
-> - Derivada de uma Função;
-> - Continuidade de Funções Deriváveis;
-> - Derivadas Laterais;
-> - Regras de Derivação;
-> - Derivada de Função Composta;
-> - Derivada de Função Inversa;
-> - Derivadas de Funções Elementares;
-> - Derivadas Sucessivas;
-> - Derivada de Funções Implícitas;
+>   - A Reta Tangente;
+>   - Derivada de uma Função;
+>   - Continuidade de Funções Deriváveis;
+>   - Derivadas Laterais;
+>   - Regras de Derivação;
+>   - Derivada de Função Composta;
+>   - Derivada de Função Inversa;
+>   - Derivadas de Funções Elementares;
+>   - Derivadas Sucessivas;
+>   - Derivada de Funções Implícitas;
 > - **5. Aplicação de Derivada:**
-> - Taxa de Variação;
-> - Máximos e Mínimos de Funções;
-> - Teorema de Rolle;
-> - Funções Crescentes e Decrescentes;
-> - Critérios para Determinar os Extremos de uma Função;
-> - Concavidade e Pontos de Inflexão;
-> - Assíntotas Horizontais e Verticais;
-> - Esboço de Gráficos.
+>   - Taxa de Variação;
+>   - Máximos e Mínimos de Funções;
+>   - Teorema de Rolle;
+>   - Funções Crescentes e Decrescentes;
+>   - Critérios para Determinar os Extremos de uma Função;
+>   - Concavidade e Pontos de Inflexão;
+>   - Assíntotas Horizontais e Verticais;
+>   - Esboço de Gráficos.
 > - **6. Integração:**
-> - Integral Indefinida;
-> - Propriedade de Integral Indefinida;
-> - Métodos da Substituição de Variável para Integração;
-> - Método de Integração por Partes;
-> - Integração por substituição trigonométrica;
-> - Cálculo de Áreas como Somas de Riemman;
-> - Integral Definida;
-> - Propriedades da Integral Definida;
-> - Teorema Fundamental do Cálculo;
-> - Cálculo de Áreas;
+>   - Integral Indefinida;
+>   - Propriedade de Integral Indefinida;
+>   - Métodos da Substituição de Variável para Integração;
+>   - Método de Integração por Partes;
+>   - Integração por substituição trigonométrica;
+>   - Cálculo de Áreas como Somas de Riemman;
+>   - Integral Definida;
+>   - Propriedades da Integral Definida;
+>   - Teorema Fundamental do Cálculo;
+>   - Cálculo de Áreas;
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. LEITHOLD, L. O. O cálculo com Geometria Analítica. São Paulo: Habra, 1994. Vol.
 > 2. GUIDORIZZI, H. L. Um Curso de Cálculo Diferencial e Integral. 6ª Edição. Rio de Janeiro: LTC, 2018.

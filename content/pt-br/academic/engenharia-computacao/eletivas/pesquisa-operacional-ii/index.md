@@ -2,12 +2,12 @@
 publish: false
 title: Pesquisa Operacional II
 created: 2026-07-18 12:00
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T15:35:32-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99 - Meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 disciplina: "[[pesquisa-operacional-ii]]"
@@ -15,58 +15,58 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[Anotações/Anotações — Pesquisa Operacional Ii|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Pesquisa Operacional Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Pesquisa Operacional Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-pesquisa-operacional-ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.89`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. Teoria Clássica da Otimização. Programação Não-linear.
 > **Objetivos**
 > - Desenvolver a capacidade de formular, modelar, solucionar e analisar modelos matemáticos para tomada de decisão em gestão e planejamento de processos produtivos.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i|CSECBJI.88 - Pesquisa Operacional I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Programação Linear Inteira (PLI)**
-> - Conceitos Fundamentais da PLI
-> - Modelagem Matemática por PLI
-> - Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
-> - Programação Linear Inteira Binária (PLIB)
-> - Modelos de PLIB
-> - Problema do Caixeiro Viajante
+>   - Conceitos Fundamentais da PLI
+>   - Modelagem Matemática por PLI
+>   - Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
+>   - Programação Linear Inteira Binária (PLIB)
+>   - Modelos de PLIB
+>   - Problema do Caixeiro Viajante
 > - **2. Programação por Metas (PM)**
-> - Conceitos Fundamentais da PM
-> - Metas, desvios e funções objetivo para PM
-> - PM por Priorização
-> - Modelagem Matemática por PM
+>   - Conceitos Fundamentais da PM
+>   - Metas, desvios e funções objetivo para PM
+>   - PM por Priorização
+>   - Modelagem Matemática por PM
 > - **3. Programação Linear Multiobjetivo (PLMO)**
-> - Conceitos Fundamentais da PLMO
-> - Variáveis MINMAX
-> - Fronteira de Eficiência
-> - Modelagem Matemática por PLMO
+>   - Conceitos Fundamentais da PLMO
+>   - Variáveis MINMAX
+>   - Fronteira de Eficiência
+>   - Modelagem Matemática por PLMO
 > - **4. Programação Dinâmica (PD)**
-> - Conceitos Fundamentais de PD
-> - Aplicações da PD
+>   - Conceitos Fundamentais de PD
+>   - Aplicações da PD
 > - **5. Teoria Clássica da Otimização**
-> - Conceitos Fundamentais
-> - Problemas Irrestritos
-> - Problemas Restritos
+>   - Conceitos Fundamentais
+>   - Problemas Irrestritos
+>   - Problemas Restritos
 > - **6. Programação Não-Linear (PNL)**
-> - Tipos de Problemas de PNL
-> - Programação Quadrática
-> - Programação Separável
-> - Programação Convexa
+>   - Tipos de Problemas de PNL
+>   - Programação Quadrática
+>   - Programação Separável
+>   - Programação Convexa
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015.
 > 2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. ed. São Paulo, SP: Atlas, 2004.

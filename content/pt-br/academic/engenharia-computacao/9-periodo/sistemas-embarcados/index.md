@@ -2,63 +2,63 @@
 publish: false
 title: Sistemas Embarcados
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Sistemas Embarcados|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Sistemas Embarcados|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Sistemas Embarcados|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sistemas Embarcados|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.70`
 > - **Período:** 9º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Garcez (luiz.garcez@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementação. Programação concorrente. Núcleos operacionais. Escalonamento.
 > **Objetivos**
 > - Apresentar os conceitos, problemas e soluções típicas no desenvolvimento de sistemas computacionais embarcados, incluindo os que operam em tempo real.
 > - Realizar o processo de desenvolvimento de um sistema em tempo real, em laboratório, desde a sua especificação até o teste final.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/microcontroladores|CSECBJI.62 - Microcontroladores]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Sistemas de Tempo Real**
-> - Caracterização de Sistemas Embarcados Operando em Tempo Real;
+>   - Caracterização de Sistemas Embarcados Operando em Tempo Real;
 > - **2. Sistemas Embarcados: Modelagem, Projeto e Implementação**
-> - Processo de Desenvolvimento de Sistemas Embarcados
-> - Modelagem e Projeto de Sistemas Embarcados Através de Statecharts
-> - Estrutura de Implementação de Sistemas Embarcados
+>   - Processo de Desenvolvimento de Sistemas Embarcados
+>   - Modelagem e Projeto de Sistemas Embarcados Através de Statecharts
+>   - Estrutura de Implementação de Sistemas Embarcados
 > - **3. Programação Concorrente**
-> - Conceituação de Concorrência
-> - Problema de Exclusão Mútua
-> - Comunicação e Sincronização em Memória Compartilhada
-> - Comunicação e Sincronização via Troca de Mensagens
+>   - Conceituação de Concorrência
+>   - Problema de Exclusão Mútua
+>   - Comunicação e Sincronização em Memória Compartilhada
+>   - Comunicação e Sincronização via Troca de Mensagens
 > - **4. Núcleos Operacionais**
-> - Conceituação de Núcleos Operacionais
-> - Funcionalidades de Núcleos Operacionais
+>   - Conceituação de Núcleos Operacionais
+>   - Funcionalidades de Núcleos Operacionais
 > - **5. Escalonamento**
-> - Conceituação
-> - Objetivos
-> - Escalonadores Canônicos
-> - Escalonamento por Prioridades
-> - Escalonamento em Taxa Monotônica
-> - Modelagem Matemática de Escalonadores
+>   - Conceituação
+>   - Objetivos
+>   - Escalonadores Canônicos
+>   - Escalonamento por Prioridades
+>   - Escalonamento em Taxa Monotônica
+>   - Modelagem Matemática de Escalonadores
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
 > 2. DENARDIN, G. W. Sistemas Operacionais de Tempo Real e sua Aplicação em Sistemas Embarcados.

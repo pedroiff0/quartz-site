@@ -11,7 +11,7 @@ tags:
 repo: https://github.com/pedroiff0/academicoWeb
 status: privado
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-graduationcap
 sitesync: true
 ---

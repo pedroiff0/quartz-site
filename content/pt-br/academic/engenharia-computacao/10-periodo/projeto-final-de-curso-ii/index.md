@@ -2,39 +2,39 @@
 publish: false
 title: Projeto Final de Curso II
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Projeto Final De Curso Ii|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Projeto Final De Curso Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Projeto Final De Curso Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Projeto Final De Curso Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.74`
 > - **Período:** 10º Período | **Núcleo:** Específica | **Carga Horária:** 80
 > - **Docente Responsável:** Alcides Oliveira (alcides.oliveira@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de Elaboração de Documentos Técnicos; Técnicas de Criatividade; Orientação sobre Preparação e Apresentação de Palestra; Técnicas de Subdivisão de Trabalho; Estabelecimento de Cronograma; Orçamento de Projeto; Desenvolvimento do Projeto de Fim de Curso.
 > **Objetivos**
 > - rientar o aluno no desenvolvimento do projeto final
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i|CSECBJI.67 - Projeto Final de Curso I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Metodologia de Planejamento;**
 > - **2. Orientação de Pesquisa Bibliográfica;**
 > - **3. Regras de Elaboração de Documentos Técnicos;**
@@ -45,7 +45,7 @@ sitesync: true
 > - **8. Orçamento de Projeto;**
 > - **9. Desenvolvimento do Projeto de Fim de Curso.**
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo: Atlas, 2017.
 > 2. \_\_\_\_\_\_. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.

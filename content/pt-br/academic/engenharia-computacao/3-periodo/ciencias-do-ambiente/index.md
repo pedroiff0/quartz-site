@@ -2,67 +2,67 @@
 publish: false
 title: Ciências do Ambiente
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Ciencias Do Ambiente|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Ciencias Do Ambiente|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Ciencias Do Ambiente|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Ciencias Do Ambiente|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.24`
 > - **Período:** 3º Período | **Núcleo:** Básico | **Carga Horária:** 40
 > - **Docente Responsável:** Carlos Dambroz (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; Desenvolvimento Sustentável.
 > **Objetivos**
 > - Desenvolver a compreensão sobre os principais conceitos envolvidos e fundamentos ecológicos relacionados ao estudo da disciplina ciências do ambiente, mostrando a importância do estudo ao futuro profissional, capacitando-o de forma contextualizada com a profissão.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Conceitos Básicos**
-> - A crise ambiental
-> - Recursos Naturais
-> - Poluição
+>   - A crise ambiental
+>   - Recursos Naturais
+>   - Poluição
 > - **2. Ecossistemas**
-> - Definição e estrutura
-> - Reciclagem de matéria e fluxo de energia
-> - Cadeias alimentares
-> - Produtividade primária
-> - Sucessão ecológica
-> - Amplificação biológica
-> - Biomas
+>   - Definição e estrutura
+>   - Reciclagem de matéria e fluxo de energia
+>   - Cadeias alimentares
+>   - Produtividade primária
+>   - Sucessão ecológica
+>   - Amplificação biológica
+>   - Biomas
 > - **3. Ciclos Biogeoquímicos**
-> - O ciclo do carbono
-> - O ciclo do nitrogênio
-> - O ciclo do fósforo
-> - O ciclo do enxofre
-> - O ciclo hidrológico
+>   - O ciclo do carbono
+>   - O ciclo do nitrogênio
+>   - O ciclo do fósforo
+>   - O ciclo do enxofre
+>   - O ciclo hidrológico
 > - **4. Poluição Ambiental**
-> - A energia e o meio ambiente
-> - O meio aquático
-> - O meio terrestre
-> - O meio atmosférico
+>   - A energia e o meio ambiente
+>   - O meio aquático
+>   - O meio terrestre
+>   - O meio atmosférico
 > - **5. Desenvolvimento Sustentável**
-> - Economia e Meio ambiente
-> - Avaliação de impactos ambientais
+>   - Economia e Meio ambiente
+>   - Avaliação de impactos ambientais
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. BRAGA, B., HESPANHOL, I., CONEJO, J. G. L., MIERZWA, J. C., BARROS, M. T. L., CAPAZ, R. S., NOGUEIRA, L. H. Ciências Ambientais para Engenharia. São Paulo: Elsevier, 2014.
 > 2. FANTINATTI, P., ZUFFO, A., ARGOLLO, A. F. Indicadores de Sustentabilidade em Engenharia. São Paulo: Elsevier, 2014.

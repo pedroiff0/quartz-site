@@ -2,62 +2,62 @@
 publish: false
 title: Banco de Dados
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Banco De Dados|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Banco De Dados|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Banco De Dados|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Banco De Dados|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.44`
 > - **Período:** 6º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Pablo Manhães (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** 
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Recuperação de falhas. Controle de concorrência. Noções básicas de bancos de dados distribuídos. Aspectos de segurança e privacidade. Implementação de visões, stored procedures e triggers.
 > **Objetivos**
 > - Proporcionar aos alunos conhecimentos teóricos e práticos em Banco de Dados, envolvendo o estudo de conceitos fundamentais de Projeto de Sistemas de Banco de Dados, além da sua aplicação através do ensino de uma linguagem de programação de banco de dados e do desenvolvimento de aplicações de bancos de dados.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/modelagem-de-dados|CSECBJI.35 - Modelagem de Dados]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - [ ] **1. Linguagem de Definição e Manipulação de Dados**
 > - [ ] **2. Processamento e Otimização de Consultas**
 > - [ ] **3. Transações**
-> - [ ] Conceito
-> - [ ] Propriedades
-> - [ ] i. Atomicidade
-> - [ ] ii. Consistência
-> - [ ] iii. Isolamento
-> - [ ] iv. Durabilidade
-> - [ ] Controle e Falhas em Transações
-> - [ ] Concorrência
+>   - [ ] Conceito
+>   - [ ] Propriedades
+>   - [ ] i. Atomicidade
+>   - [ ] ii. Consistência
+>   - [ ] iii. Isolamento
+>   - [ ] iv. Durabilidade
+>   - [ ] Controle e Falhas em Transações
+>   - [ ] Concorrência
 > - [ ] **4. Programação em Bancos de Dados**
-> - [ ] PL/SQL
-> - [ ] i. Conceitos
-> - [ ] ii. Comandos
-> - [ ] Procedimentos Armazenados
-> - [ ] Gatilhos
+>   - [ ] PL/SQL
+>   - [ ] i. Conceitos
+>   - [ ] ii. Comandos
+>   - [ ] Procedimentos Armazenados
+>   - [ ] Gatilhos
 > - [ ] **5. Segurança**
-> - [ ] Privilégios de Acesso
-> - [ ] Visões
-> - [ ] Criptografia de Dados
+>   - [ ] Privilégios de Acesso
+>   - [ ] Visões
+>   - [ ] Criptografia de Dados
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004.
 > 2. HEUSER, C. A. Projeto de Banco de Dados. 6ª Edição. Porto Alegre: Bookman, 2008.

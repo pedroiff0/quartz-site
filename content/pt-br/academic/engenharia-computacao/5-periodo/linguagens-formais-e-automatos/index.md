@@ -2,27 +2,27 @@
 publish: false
 title: Linguagens Formais e Autômatos
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Linguagens Formais E Automatos|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Linguagens Formais E Automatos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Linguagens Formais E Automatos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Linguagens Formais E Automatos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.40`
 > - **Período:** 5º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Fabrício Barros (fabricio.goncalves@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. Máquina de turing. Problema da parada. Noções de cálculo lambda e funções recursivas.
 > **Objetivos**
@@ -30,30 +30,30 @@ sitesync: true
 > - Compreender o funcionamento de tais sistemas e modelos formais;
 > - Estudar e compreender conceitos de teoria da computação.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta|CSECBJI.14 - Matemática Discreta]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/6-periodo/compiladores/compiladores|CSECBJI.48 - Compiladores]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Linguagens Regulares**
 > - **2. Linguagens Livres de Contexto**
 > - **3. Linguagens Sensíveis ao Contexto**
 > - **4. Autômatos**
-> - Autômato Finito
-> - Autômato Determinístico
-> - Autômato Não-Determinístico
-> - Autômato de Pilha
+>   - Autômato Finito
+>   - Autômato Determinístico
+>   - Autômato Não-Determinístico
+>   - Autômato de Pilha
 > - **5. Máquina de Turing**
-> - Definição do Modelo Computacional de Máquina de Estados e da Máquina de Turing
-> - Variações e Extensões da Máquina de Turing
-> - Aplicações da Máquina de Turing
+>   - Definição do Modelo Computacional de Máquina de Estados e da Máquina de Turing
+>   - Variações e Extensões da Máquina de Turing
+>   - Aplicações da Máquina de Turing
 > - **6. Computabilidade**
 > - **7. Noções de Cálculo-Lambda**
 > - **8. Funções Recursivas**
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. DIVERIO, T. A., MENEZES, Paulo. B. Teoria da Computação: máquinas universais e computabilidade. 3ª Edição. Porto Alegre: Bookman. 2011.
 > 2. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição.

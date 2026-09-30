@@ -8,7 +8,7 @@ tags:
 - publico
 - pessoal
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-server
 repo: https://github.com/pedroiff0/devops-guide
 status: ativo

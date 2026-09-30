@@ -8,7 +8,7 @@ tags:
 - publico
 - academico
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-search
 repo: https://github.com/pedroiff0/arxiv-searcher
 status: ativo

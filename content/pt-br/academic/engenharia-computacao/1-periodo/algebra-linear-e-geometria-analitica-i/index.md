@@ -2,34 +2,34 @@
 publish: false
 title: Álgebra Linear e Geometria Analítica I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Algebra Linear E Geometria Analitica I|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Algebra Linear E Geometria Analitica I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Algebra Linear E Geometria Analitica I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Algebra Linear E Geometria Analitica I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.5`
 > - **Período:** Eletiva | **Núcleo:** Específico | **Carga Horária:** 60h
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
 > **Objetivos**
 > - Introduzir e desenvolver em termos teóricos um conjunto de conceitos fundamentais da álgebra linear, que serão ferramentas essenciais para apoio às unidades curriculares mais específicas da engenharia;
 > - Abordar estudo de matrizes, determinantes, sistemas de equações lineares, vetores no plano e no espaço com aplicações na geometria analítica e ainda introduz conceitos básicos sobre espaços vetoriais e subespaços.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
@@ -37,7 +37,7 @@ sitesync: true
 > - [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i|CSECBJI.11 - Física I]]
 > - [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais|CSECBJI.18 - Equações Diferenciais]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Matrizes:**
 > - **2. Definição e Tipos Especiais;**
 > - **3. Álgebra Matricial;**
@@ -45,52 +45,52 @@ sitesync: true
 > - **5. Matriz Simétrica;**
 > - **6. Matriz Ortogonal;**
 > - **7. Determinantes**
-> - Determinante de uma Matriz;
-> - Ordem e Representação;
-> - Propriedades;
-> - Cálculo do Determinante por uma Linha;
-> - Cálculo do Determinante por Laplace;
-> - Operações Elementares;
-> - Cálculo do Determinante por Triangularização;
+>   - Determinante de uma Matriz;
+>   - Ordem e Representação;
+>   - Propriedades;
+>   - Cálculo do Determinante por uma Linha;
+>   - Cálculo do Determinante por Laplace;
+>   - Operações Elementares;
+>   - Cálculo do Determinante por Triangularização;
 > - **8. Inversão de Matrizes:**
-> - Matriz Inversa;
-> - Propriedades;
-> - Inversão de Matrizes por Matriz Adjunta;
-> - Inversão de Matrizes por Meio de Operações Elementares;
+>   - Matriz Inversa;
+>   - Propriedades;
+>   - Inversão de Matrizes por Matriz Adjunta;
+>   - Inversão de Matrizes por Meio de Operações Elementares;
 > - **9. Sistemas de Equações Lineares:**
-> - Sistema Compatível;
-> - Sistemas Equivalentes;
-> - Operações Elementares e Sistemas Equivalentes;
-> - Sistema Linear Homogêneo;
-> - Classificação e Solução dos Sistemas de Equações Lineares;
-> - Discussão de Sistemas em Função de Parâmetros Reais.
+>   - Sistema Compatível;
+>   - Sistemas Equivalentes;
+>   - Operações Elementares e Sistemas Equivalentes;
+>   - Sistema Linear Homogêneo;
+>   - Classificação e Solução dos Sistemas de Equações Lineares;
+>   - Discussão de Sistemas em Função de Parâmetros Reais.
 > - **10. Vetores:**
-> - Vetores no R² e no R³, operações;
-> - Vetor Definido por Dois Pontos;
-> - Produto Escalar;
-> - Módulo de um Vetor;
-> - Ângulo entre Dois Vetores;
-> - Paralelismo e Ortogonalidade de Dois Vetores;
-> - Produto Vetorial;
-> - Produto Misto;
-> - Equação de Planos;
-> - Área de Triângulos e Paralelogramos;
-> - Volumes de Paralelepípedos.
+>   - Vetores no R² e no R³, operações;
+>   - Vetor Definido por Dois Pontos;
+>   - Produto Escalar;
+>   - Módulo de um Vetor;
+>   - Ângulo entre Dois Vetores;
+>   - Paralelismo e Ortogonalidade de Dois Vetores;
+>   - Produto Vetorial;
+>   - Produto Misto;
+>   - Equação de Planos;
+>   - Área de Triângulos e Paralelogramos;
+>   - Volumes de Paralelepípedos.
 > - **11. Espaços Vetoriais:**
-> - Propriedades;
-> - Subespaços Vetoriais;
-> - Combinação Linear;
-> - Dependência e Independência Linear;
-> - Base e Dimensão.
+>   - Propriedades;
+>   - Subespaços Vetoriais;
+>   - Combinação Linear;
+>   - Dependência e Independência Linear;
+>   - Base e Dimensão.
 > - **12. Espaços Vetoriais Euclidianos:**
-> - Produto Interno Não Usual;
-> - Módulo de um Vetor e Normalização de Vetores;
-> - Vetores Ortogonais;
-> - Bases Ortogonais e Ortonormais;
-> - Processo de Ortogonalização de Gram Schmidt;
-> - Complemento Ortogonal.
+>   - Produto Interno Não Usual;
+>   - Módulo de um Vetor e Normalização de Vetores;
+>   - Vetores Ortogonais;
+>   - Bases Ortogonais e Ortonormais;
+>   - Processo de Ortogonalização de Gram Schmidt;
+>   - Complemento Ortogonal.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear. 3.ª Edição. São Paulo: Harbra, 1984.
 > 2. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.

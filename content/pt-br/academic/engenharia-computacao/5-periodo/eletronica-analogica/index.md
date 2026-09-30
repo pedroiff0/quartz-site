@@ -2,84 +2,84 @@
 publish: false
 title: Eletrônica Analógica
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Eletronica Analogica|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Eletronica Analogica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Eletronica Analogica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Eletronica Analogica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.37`
 > - **Período:** 5º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Garcez (luiz.garcez@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Transistores bipolares e circuitos polarizados com transistor; Fonte de alimentação regulada; Osciladores e temporizadores; Tiristores; Amplificadores Operacionais (circuitos lineares e não-lineares).
 > **Objetivos**
 > - ● Compreender o funcionamento dos componentes eletrônicos básicos abordados e de como eles funcionam ● Compreender o funcionamento dos CIs e dos sistemas eletrônicos atuais e suas aplicações no campo da Engenharia de Computação.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii|CSECBJI.26 - Física III]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital|CSECBJI.46 - Eletrônica Digital]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Teoria dos Diodos**
-> - Teoria do semicondutor
-> - Dopagem
-> - Diodo não polarizado; polarização direta e reversa
-> - Gráfico do diodo; linhas de carga
-> - O diodo Zener e o regulador Zener
+>   - Teoria do semicondutor
+>   - Dopagem
+>   - Diodo não polarizado; polarização direta e reversa
+>   - Gráfico do diodo; linhas de carga
+>   - O diodo Zener e o regulador Zener
 > - **2. Circuitos com Diodos**
-> - A Onda Senoidal
-> - O transformador
-> - Circuitos Retificadores
-> - Filtros com capacitor de entrada
-> - Outros diodos com finalidades específicas (Schottky, varactor)
-> - Componentes optoeletrônicos
-> - A transferência de elétrons, em regime de avalanche e tempo de trânsito.
+>   - A Onda Senoidal
+>   - O transformador
+>   - Circuitos Retificadores
+>   - Filtros com capacitor de entrada
+>   - Outros diodos com finalidades específicas (Schottky, varactor)
+>   - Componentes optoeletrônicos
+>   - A transferência de elétrons, em regime de avalanche e tempo de trânsito.
 > - **3. Transistores Bipolares**
-> - Polarização Direta e Reversa
-> - O transistor como chave
-> - O transistor como fonte de corrente
-> - Circuitos polarizados com transistor
+>   - Polarização Direta e Reversa
+>   - O transistor como chave
+>   - O transistor como fonte de corrente
+>   - Circuitos polarizados com transistor
 > - **4. Fonte de Alimentação Regulada**
-> - Regulador por realimentação da tensão;
-> - Limitação da corrente
-> - Característica da fonte de alimentação
-> - Reguladores por chaveamento
+>   - Regulador por realimentação da tensão;
+>   - Limitação da corrente
+>   - Característica da fonte de alimentação
+>   - Reguladores por chaveamento
 > - **5. Osciladores e Temporizadores**
-> - Teoria da oscilação senoidal
-> - Oscilador (Ponte de Wien)
-> - Outros osciladores;
+>   - Teoria da oscilação senoidal
+>   - Oscilador (Ponte de Wien)
+>   - Outros osciladores;
 > - **6. Tiristores**
-> - A Trava Ideal
-> - O Diodo de Quatro Camadas
-> - O Retificador Controlado de Silício e Variações do SCR
-> - Tiristores Bidirecionais
-> - Transistor de Unijunção
+>   - A Trava Ideal
+>   - O Diodo de Quatro Camadas
+>   - O Retificador Controlado de Silício e Variações do SCR
+>   - Tiristores Bidirecionais
+>   - Transistor de Unijunção
 > - **7. Amplificadores Operacionais**
-> - Amplificador Operacional ideal e não ideal
-> - Terminologia e símbolos
-> - Circuitos básicos com Amplificador Operacional
-> - Considerações sobre o Amplificador Operacional não-ideal
-> - Circuito Integrador e diferenciador com Amplificador Operacional.
-> - Os geradores de sinais com Amplificador Operacional.
+>   - Amplificador Operacional ideal e não ideal
+>   - Terminologia e símbolos
+>   - Circuitos básicos com Amplificador Operacional
+>   - Considerações sobre o Amplificador Operacional não-ideal
+>   - Circuito Integrador e diferenciador com Amplificador Operacional.
+>   - Os geradores de sinais com Amplificador Operacional.
 > - **8. Estudo de Caso**
-> - Análise e Compreensão de Circuitos Eletrônicos
+>   - Análise e Compreensão de Circuitos Eletrônicos
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. MALVINO, A. P., BATES, D. J. Eletrônica: Volume 1. 8ª Edição. Porto Alegre: Bookman, 2016.
 > 2. \_\_\_\_\_\_. Eletrônica: Volume 2. 8ª Edição. Porto Alegre: Bookman, 2016.

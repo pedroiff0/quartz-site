@@ -2,33 +2,33 @@
 publish: false
 title: Sistemas Operacionais I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Sistemas Operacionais I|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Sistemas Operacionais I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Sistemas Operacionais I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sistemas Operacionais I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.56`
 > - **Período:** 7º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Memória.
 > **Objetivos**
 > - Compreender o funcionamento dos mecanismos internos de Sistemas Operacionais.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao|CSECBJI.1 - Fundamentos de Computação]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
@@ -36,46 +36,46 @@ sitesync: true
 > - [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos|CSECBJI.86 - Algoritmos Distribuídos]]
 > - [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos|CSECBJI.71 - Sistemas Distribuídos]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Introdução**
-> - O que é um Sistema Operacional?
-> - Revisão sobre Hardware de Computadores
-> - Tipos de Sistemas Operacionais
-> - Conceitos sobre Sistemas Operacionais
-> - i. Processos
-> - ii. Espaços de Endereçamento
-> - iii. Arquivos
-> - iv. Entrada e Saída
-> - v. Segurança
-> - vi. Interpretador de Comandos
-> - Chamadas de Sistemas
-> - i. Chamadas de Gerenciamento de Processos
-> - ii. Chamadas de Gerenciamento de Gerenciamento de Arquivos
-> - iii. Chamadas de Gerenciamento de Diretórios
-> - iv. Outras Chamadas de Sistema
-> - Estrutura de Sistemas Operacionais
-> - i. Sistemas Monolíticos
-> - ii. Sistemas em Camadas
-> - iii. Micronúcleo
-> - iv. Modelo Cliente-Servidor
-> - v. Máquinas Virtuais
-> - vi. Exonúcleo
+>   - O que é um Sistema Operacional?
+>   - Revisão sobre Hardware de Computadores
+>   - Tipos de Sistemas Operacionais
+>   - Conceitos sobre Sistemas Operacionais
+>   - i. Processos
+>   - ii. Espaços de Endereçamento
+>   - iii. Arquivos
+>   - iv. Entrada e Saída
+>   - v. Segurança
+>   - vi. Interpretador de Comandos
+>   - Chamadas de Sistemas
+>   - i. Chamadas de Gerenciamento de Processos
+>   - ii. Chamadas de Gerenciamento de Gerenciamento de Arquivos
+>   - iii. Chamadas de Gerenciamento de Diretórios
+>   - iv. Outras Chamadas de Sistema
+>   - Estrutura de Sistemas Operacionais
+>   - i. Sistemas Monolíticos
+>   - ii. Sistemas em Camadas
+>   - iii. Micronúcleo
+>   - iv. Modelo Cliente-Servidor
+>   - v. Máquinas Virtuais
+>   - vi. Exonúcleo
 > - **2. Processos e Threads**
-> - Processos
-> - Threads
-> - Comunicação entre Processos
-> - Escalonamento
-> - Problemas Básicos de IPC
+>   - Processos
+>   - Threads
+>   - Comunicação entre Processos
+>   - Escalonamento
+>   - Problemas Básicos de IPC
 > - **3. Gerenciamento de Memória**
-> - Sem Abstração de Memória
-> - Abstração de Memória: Espaços de Endereçamento
-> - Memória Virtual
-> - Algoritmos de Substituição de Páginas
-> - Questões de Projeto para Sistemas de Paginação
-> - Questões de Implementação
-> - Segmentação
+>   - Sem Abstração de Memória
+>   - Abstração de Memória: Espaços de Endereçamento
+>   - Memória Virtual
+>   - Algoritmos de Substituição de Páginas
+>   - Questões de Projeto para Sistemas de Paginação
+>   - Questões de Implementação
+>   - Segmentação
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
 > 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.

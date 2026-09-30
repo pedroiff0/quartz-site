@@ -2,27 +2,27 @@
 publish: false
 title: Metodologia Científica e Tecnológica
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Metodologia Cientifica E Tecnologica|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Metodologia Cientifica E Tecnologica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Metodologia Cientifica E Tecnologica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Metodologia Cientifica E Tecnologica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.64`
 > - **Período:** 8º Período | **Núcleo:** Básico | **Carga Horária:** —
 > - **Docente Responsável:** Alcides (alcides.oliveira@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.
 > **Objetivos**
@@ -30,13 +30,13 @@ sitesync: true
 > - 2. Construir um referencial teórico capaz de fundamentar a elaboração de trabalhos monográficos;
 > - Redigir um projeto de pesquisa, de acordo com as normas técnicas de apresentação de trabalhos científicos.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i|CSECBJI.67 - Projeto Final de Curso I]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. As Explicações Teleológicas**
 > - **2. Iluminismo e a Razão – Descartes – Kant**
 > - **3. A Ciência**
@@ -46,7 +46,7 @@ sitesync: true
 > - **7. O Registro da Pesquisa Científica**
 > - **8. Normas Técnicas**
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo:
 > 2. Atlas, 2017.

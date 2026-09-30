@@ -2,58 +2,58 @@
 publish: false
 title: Avaliação e Desempenho de Sistemas
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Avaliacao E Desempenho De Sistemas|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Avaliacao E Desempenho De Sistemas|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Avaliacao E Desempenho De Sistemas|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Avaliacao E Desempenho De Sistemas|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.41`
 > - **Período:** 5º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Fabrício Barros (fabricio.goncalves@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilísticos. Benchmarking e Planejamento de capacidade. Teoria de Filas. Leis Fundamentais. Modelos simples baseados em Fila única, do tipo M/M/1. Lei de Little. Estudos de Casos.
 > **Objetivos**
 > - Apresentar os principais conceitos e técnicas de análise de desempenho cobrindo tópicos nas áreas de modelagem, simulação e experimentação.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/probabilidade-e-estatistica|CSECBJI.29 - Probabilidade e Estatística]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Visão Geral**
-> - Motivação
-> - Técnicas de Avaliação de Desempenho
-> - Metodologia Geral para Estudo de Modelagem
+>   - Motivação
+>   - Técnicas de Avaliação de Desempenho
+>   - Metodologia Geral para Estudo de Modelagem
 > - **2. Modelos Determinísticos de Desempenho**
-> - Leis Fundamentais
-> - Lei de Litle
-> - Leis Operacionais
-> - Limites Assintóticos
-> - Análise do Valor Médio
+>   - Leis Fundamentais
+>   - Lei de Litle
+>   - Leis Operacionais
+>   - Limites Assintóticos
+>   - Análise do Valor Médio
 > - **3. Introdução a Modelos Probabilísticos de Desempenho**
-> - Filas M/M/1
+>   - Filas M/M/1
 > - **4. Modelos de Carga**
-> - Caracterização de Cargas
-> - Benchmarking
-> - Modelos de Comportamento de Usuários
-> - Planejamento e Gerenciamento de Capacidade
+>   - Caracterização de Cargas
+>   - Benchmarking
+>   - Modelos de Comportamento de Usuários
+>   - Planejamento e Gerenciamento de Capacidade
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. FOGLIATTI, M. C., MATTOS, N. M. C. Teoria de Filas. Rio de Janeiro, 2006.
 > 2. PRADO, D. Teoria de Filas e da Simulação – Volume 2. 5ª Edição. São Paulo: Falconi, 2017.

@@ -2,71 +2,71 @@
 publish: false
 title: Inteligência Artificial
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T15:35:32-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[Anotações/Anotações — Inteligencia Artificial|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Inteligencia Artificial|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Inteligencia Artificial|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-inteligencia-artificial|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.90`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Específico | **Carga Horária:** 60
 > - **Docente Responsável:** Thiago Juncal (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos de busca. Heurísticas. Conhecimento e raciocínio. Tópicos avançados.Aplicações de IA-Inteligência Artificial.
 > **Objetivos**
 > - Compreender os diferentes paradigmas que embasam as aplicações da IA. Entender os principais
 > - bjetivos e as limitações da Inteligência Artificial (IA). Aplicar os conceitos e técnicas da Inteligência Artificial.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos|CSECBJI.34 - Projeto e Análise de Algoritmos]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Histórico e Princípios de Inteligência Artificial (IA)**
-> - Definições de IA
-> - Histórico da IA
-> - Paradigmas da IA
+>   - Definições de IA
+>   - Histórico da IA
+>   - Paradigmas da IA
 > - **2. Resolução de Problemas**
-> - Agentes
-> - Exemplos de Problemas
+>   - Agentes
+>   - Exemplos de Problemas
 > - **3. Métodos de Busca**
-> - Estratégias de Busca
-> - Tipos de Busca
+>   - Estratégias de Busca
+>   - Tipos de Busca
 > - **4. Heurísticas**
-> - Busca Heurística
-> - Aplicações
+>   - Busca Heurística
+>   - Aplicações
 > - **5. Conhecimento e Raciocínio**
-> - Sistemas Baseados em Conhecimento
-> - Aquisição de Conhecimento
-> - Técnicas de Representação de Conhecimento
+>   - Sistemas Baseados em Conhecimento
+>   - Aquisição de Conhecimento
+>   - Técnicas de Representação de Conhecimento
 > - **6. Tópicos Avançados**
-> - Aprendizagem de Máquina
-> - Redes Neurais
-> - Algoritmos Genéticos
-> - Sistemas Especialistas
-> - Sistemas Fuzzy
-> - Indução de Regras
-> - Árvores de Decisão
-> - Mineração de Dados
+>   - Aprendizagem de Máquina
+>   - Redes Neurais
+>   - Algoritmos Genéticos
+>   - Sistemas Especialistas
+>   - Sistemas Fuzzy
+>   - Indução de Regras
+>   - Árvores de Decisão
+>   - Mineração de Dados
 > - **7. Aplicações de Inteligência Artificial**
-> - Exemplos de Aplicações
-> - Implementação
+>   - Exemplos de Aplicações
+>   - Implementação
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. COPPIN, B. Inteligência Artificial. Rio de Janeiro: LTC, 2010.
 > 2. LUGER, G. Inteligência Artificial. 6ª Edição. São Paulo: Pearson, 2013.

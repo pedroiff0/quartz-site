@@ -2,27 +2,27 @@
 publish: false
 title: Sistemas Digitais
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Sistemas Digitais|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Sistemas Digitais|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Sistemas Digitais|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sistemas Digitais|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.53`
 > - **Período:** 7º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Análise e síntese de circuitos digitais sequenciais; contadores e registradores; famílias lógicas, circuitos integrados; conversores: analógico / digital e digital/ analógico; dispositivos de memórias; noções de dispositivos programáveis.
 > **Objetivos**
@@ -31,57 +31,57 @@ sitesync: true
 > - Compreender as técnicas de conversão digital analógica e analógico-digital;
 > - Analisar e projetar sistemas digitais lógicos e programáveis.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital|CSECBJI.46 - Eletrônica Digital]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/arquitetura-de-computadores|CSECBJI.61 - Arquitetura de Computadores]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Análise e Síntese de Circuitos Digitais**
-> - Contadores Síncronos e Assíncronos
-> - Projetos de Máquinas Sequenciais Síncronas
-> - i. Tabela de Transição
-> - ii. Diagramas de Estado
-> - Geradores e Detectores de Sequências
-> - Registradores Série-Paralelo
-> - Registradores de deslocamento
-> - Aplicação de Simbologia IEC
-> - Circuitos Integrados Comerciais
+>   - Contadores Síncronos e Assíncronos
+>   - Projetos de Máquinas Sequenciais Síncronas
+>   - i. Tabela de Transição
+>   - ii. Diagramas de Estado
+>   - Geradores e Detectores de Sequências
+>   - Registradores Série-Paralelo
+>   - Registradores de deslocamento
+>   - Aplicação de Simbologia IEC
+>   - Circuitos Integrados Comerciais
 > - **2. Características das Famílias Lógicas Digitais**
-> - Estrutura Interna
-> - Características
-> - Parâmetros Elétricos
-> - Limitações
-> - Aplicações das Tecnologias RTL, TTL, ETL, CMOS e BiCMOS
-> - Subfamílias ou Séries
-> - Restrições de Carregamento e Interfaceamento de Diferentes Famílias Tecnológicas em Circuitos Digitais
+>   - Estrutura Interna
+>   - Características
+>   - Parâmetros Elétricos
+>   - Limitações
+>   - Aplicações das Tecnologias RTL, TTL, ETL, CMOS e BiCMOS
+>   - Subfamílias ou Séries
+>   - Restrições de Carregamento e Interfaceamento de Diferentes Famílias Tecnológicas em Circuitos Digitais
 > - **3. Conversores Analógico-Digital e Digital-Analógica**
-> - Conversores DA
-> - i. Em Rede Resistiva Ponderada
-> - ii. Em Rede R-2R
-> - Conversores AD
-> - i. Paralelo
-> - ii. Rampa Simples
-> - iii. Rampa Dupla
-> - iv. Aproximação Sucessiva
-> - v. Modulador delta
-> - vi. Circuitos de Amostragem
-> - vii. Retenção, Quantização e Codificação Digital
+>   - Conversores DA
+>   - i. Em Rede Resistiva Ponderada
+>   - ii. Em Rede R-2R
+>   - Conversores AD
+>   - i. Paralelo
+>   - ii. Rampa Simples
+>   - iii. Rampa Dupla
+>   - iv. Aproximação Sucessiva
+>   - v. Modulador delta
+>   - vi. Circuitos de Amostragem
+>   - vii. Retenção, Quantização e Codificação Digital
 > - **4. Dispositivos de Memórias**
-> - Memórias Semicondutoras
-> - i. ROM
-> - ii. PROM
-> - iii. EPROM
-> - iv. EEPROM
-> - v. Flash
-> - vi. SRAM
-> - vii. DRAM
-> - Características Elétricas e Pinagem de Circuitos Integrados Comerciais
-> - Saídas de Alta Impedância, Barramentos de I/O, Endereçamento e Sinais de Controle
-> - Associação de Memórias
+>   - Memórias Semicondutoras
+>   - i. ROM
+>   - ii. PROM
+>   - iii. EPROM
+>   - iv. EEPROM
+>   - v. Flash
+>   - vi. SRAM
+>   - vii. DRAM
+>   - Características Elétricas e Pinagem de Circuitos Integrados Comerciais
+>   - Saídas de Alta Impedância, Barramentos de I/O, Endereçamento e Sinais de Controle
+>   - Associação de Memórias
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
 > 2. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo:

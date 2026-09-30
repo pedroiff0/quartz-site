@@ -2,79 +2,79 @@
 publish: false
 title: Sistemas Distribuídos
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Sistemas Distribuidos|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Sistemas Distribuidos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Sistemas Distribuidos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sistemas Distribuidos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.71`
 > - **Período:** 9º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sincronização em Sistemas Distribuídos; Modelo de Falha e Segurança; Middewares para Aplicações Distribuídas; Transações Distribuídas e Controle de Concorrência.
 > **Objetivos**
 > - Conhecer e aplicar conceitos e tecnologias de Sistemas Distribuídos
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i|CSECBJI.55 - Redes de Computadores I]]
 > - [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i|CSECBJI.56 - Sistemas Operacionais I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Conceito de Sistemas Distribuídos**
-> - Definição e Principais Características de Sistemas Distribuídos
-> - Motivação para o Desenvolvimento de Aplicações Distribuídas
+>   - Definição e Principais Características de Sistemas Distribuídos
+>   - Motivação para o Desenvolvimento de Aplicações Distribuídas
 > - **2. Motivação para o Desenvolvimento de Aplicações Distribuídas**
 > - **3. Exemplos de Sistemas Distribuídos**
 > - **4. Aspectos de Heterogeneidade, abertura, segurança, escalabilidade, tolerância a falhas, concorrência e transparência em sistemas distribuídos**
 > - **5. Arquitetura de Sistemas Distribuídos**
-> - Cliente-Servidor
-> - Peer-to-Peer
+>   - Cliente-Servidor
+>   - Peer-to-Peer
 > - **6. Sincronização em Sistemas Distribuídos**
-> - Modelo de Interação
-> - i. Síncrono
-> - Assincrono
+>   - Modelo de Interação
+>   - i. Síncrono
+>   - Assincrono
 > - **7. Características da comunicação entre processos**
 > - **8. Primitivas de comunicação**
 > - **9. Sincronização interna e externa de relógios físicos**
 > - **10. Modelo de Falha e Segurança**
-> - Modelo de Falhas
-> - i. Falhas em Processos e em Canais de comunicação
-> - Modelo de Segurança
-> - i. Ameaças
-> - Métodos de ataque
-> - Mecanismo de segurança
+>   - Modelo de Falhas
+>   - i. Falhas em Processos e em Canais de comunicação
+>   - Modelo de Segurança
+>   - i. Ameaças
+>   - Métodos de ataque
+>   - Mecanismo de segurança
 > - **11. Middleware para Aplicações Distribuídas**
-> - Comunicação entre Objetos Distribuídos
-> - Referência de Objetos Remotos
-> - Serviço de Nomes
-> - Arquitetura de Eventos e Notificações
-> - Middleware para Aplicações Distribuídas
+>   - Comunicação entre Objetos Distribuídos
+>   - Referência de Objetos Remotos
+>   - Serviço de Nomes
+>   - Arquitetura de Eventos e Notificações
+>   - Middleware para Aplicações Distribuídas
 > - **12. Transações Distribuídas e Controle de Concorrência**
-> - Propriedades ACID de uma Transação
-> - Estados de uma Transação
-> - Protocolos de efetivação de uma transação
-> - Transações planas e aninhadas
-> - Leituras sujas, cancelamento em cascata, escritas prematuras
+>   - Propriedades ACID de uma Transação
+>   - Estados de uma Transação
+>   - Protocolos de efetivação de uma transação
+>   - Transações planas e aninhadas
+>   - Leituras sujas, cancelamento em cascata, escritas prematuras
 > - **13. Controle de concorrência**
 > - **14. Impasses**
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
 > 2. Porto Alegre: Bookman, 2007.

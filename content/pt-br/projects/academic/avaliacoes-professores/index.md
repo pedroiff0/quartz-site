@@ -10,7 +10,7 @@ tags:
 repo: https://github.com/pedroiff0/avaliacoes-professores
 status: privado
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-notebookpen
 sitesync: true
 ---

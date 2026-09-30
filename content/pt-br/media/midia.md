@@ -6,7 +6,7 @@ modified: 2026-09-30T13:05:51-03:00
 tags:
 - midia
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-newspaper
 order: 4
 sitesync: true

@@ -2,88 +2,88 @@
 publish: false
 title: Química
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Quimica|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Quimica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Quimica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Quimica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.15`
 > - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Renato Batista (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Químicas. Introdução à Termodinâmica Química. Termoquímica, Combustíveis e Combustão. Equilíbrio Químico. Cinética Química. Eletroquímica. Noções de Química Orgânica.
 > **Objetivos**
 > - Rever e aprofundar os conceitos relativos aos constituintes básicos da matéria permitindo uma avaliação das características físicas e químicas das substâncias e dos materiais, de tal forma a capacitar o aluno para reconhecer a importância da química na vida cotidiana, como também sua aplicação em outros domínios.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/3-periodo/introducao-a-ciencia-dos-materiais/Introdução à Ciência dos Materiais|CSECBJI.23 - Introdução à Ciência dos Materiais]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Estrutura da matéria:**
-> - Esquemas básicos da química: sistema, matéria, propriedades, energia e transformações;
-> - Modelo atômico de Dalton;
-> - Modelo atômico de Thomson;
-> - Modelo atômico de Rutherford e Bohr;
-> - Noções de mecânica ondulatória;
-> - Modelo atômico atual.
+>   - Esquemas básicos da química: sistema, matéria, propriedades, energia e transformações;
+>   - Modelo atômico de Dalton;
+>   - Modelo atômico de Thomson;
+>   - Modelo atômico de Rutherford e Bohr;
+>   - Noções de mecânica ondulatória;
+>   - Modelo atômico atual.
 > - **2. Periodicidade química:**
-> - Tabela Periódica;
-> - Periodicidade e Configuração eletrônica;
-> - Propriedades periódicas dos elementos: raio atômico, energia de ionização, afinidade eletrônica e eletronegatividade.
+>   - Tabela Periódica;
+>   - Periodicidade e Configuração eletrônica;
+>   - Propriedades periódicas dos elementos: raio atômico, energia de ionização, afinidade eletrônica e eletronegatividade.
 > - **3. Ligações químicas:**
-> - Ligação iônica;
-> - Ligação covalente;
-> - Ligação metálica.
+>   - Ligação iônica;
+>   - Ligação covalente;
+>   - Ligação metálica.
 > - **4. Reações Químicas:**
-> - Equações Químicas
-> - Estequiometria
-> - Reações em solução aquosa Noções de Termodinâmica
+>   - Equações Químicas
+>   - Estequiometria
+>   - Reações em solução aquosa Noções de Termodinâmica
 > - **5. Química e Termoquímica:**
-> - Primeira lei da termodinâmica: calor, trabalho e energia interna;
-> - Definição e cálculos de entalpia de processos físicos e químicos;
-> - Entalpia de combustão e os combustíveis;
-> - Segunda lei da termodinâmica: a entropia;
-> - Energia livre de Gibbs e espontaneidade dos processos.
+>   - Primeira lei da termodinâmica: calor, trabalho e energia interna;
+>   - Definição e cálculos de entalpia de processos físicos e químicos;
+>   - Entalpia de combustão e os combustíveis;
+>   - Segunda lei da termodinâmica: a entropia;
+>   - Energia livre de Gibbs e espontaneidade dos processos.
 > - **6. Equilíbrio Químico:**
-> - Equilíbrio químico homogêneo e as constantes de equilíbrio
-> - Princípio de Le Chatelier e o deslocamento do equilíbrio
-> - Equilíbrio químico heterogêneo
-> - Equilíbrio químico em solução aquosa: ácido, base e pH.
+>   - Equilíbrio químico homogêneo e as constantes de equilíbrio
+>   - Princípio de Le Chatelier e o deslocamento do equilíbrio
+>   - Equilíbrio químico heterogêneo
+>   - Equilíbrio químico em solução aquosa: ácido, base e pH.
 > - **7. Cinética Química:**
-> - Conceito e determinação da velocidade das reações químicas;
-> - Lei de velocidade da reação química;
-> - Teoria das colisões moleculares, complexo ativado e estado de transição;
-> - Mecanismos de reações químicas;
-> - Catálise.
+>   - Conceito e determinação da velocidade das reações químicas;
+>   - Lei de velocidade da reação química;
+>   - Teoria das colisões moleculares, complexo ativado e estado de transição;
+>   - Mecanismos de reações químicas;
+>   - Catálise.
 > - **8. Eletroquímica:**
-> - Reações de óxido redução
-> - Noção de potencial eletroquímico
-> - Células galvânicas
-> - Células eletrolíticas
-> - Energia livre de Gibbs, tensão de célula e equilíbrio
+>   - Reações de óxido redução
+>   - Noção de potencial eletroquímico
+>   - Células galvânicas
+>   - Células eletrolíticas
+>   - Energia livre de Gibbs, tensão de célula e equilíbrio
 > - **9. Noções de química orgânica:**
-> - O átomo de carbono;
-> - As cadeias carbônicas;
-> - As funções orgânicas;
-> - Introdução aos polímeros.
+>   - O átomo de carbono;
+>   - As cadeias carbônicas;
+>   - As funções orgânicas;
+>   - Introdução aos polímeros.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. ATKINS, P., JONES, L., LAVERMANM L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 7ª Edição. Porto Alegre: Bookman, 2018.
 > 2. KOTZ, J., TREICHEL, P. M., TOWNSEND, J., TREICHEL, D. Química Geral e Reações Químicas: Volume 1 e 2. 3ª Edição. São Paulo: Cengage Learning, 2015.

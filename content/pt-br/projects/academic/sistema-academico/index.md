@@ -13,7 +13,7 @@ tags:
 repo: https://github.com/pedroiff0/sistema-academico
 status: privado
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-graduationcap
 sitesync: true
 ---

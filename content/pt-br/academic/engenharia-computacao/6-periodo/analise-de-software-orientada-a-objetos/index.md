@@ -2,27 +2,27 @@
 publish: false
 title: Análise de Software Orientada a Objetos
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Analise De Software Orientada A Objetos|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Analise De Software Orientada A Objetos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Analise De Software Orientada A Objetos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Analise De Software Orientada A Objetos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.42`
 > - **Período:** 6º Período | **Núcleo:** Profissionalizante | **Carga Horária:** —
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de Modelagem Unificada; Modelagem de Negócio; Análise de Requisitos; Modelagem de Casos de Uso; Modelagem Conceitual; Modelagem Funcional; Projeto de Software Orientado a Objetos.
 > **Objetivos**
@@ -30,84 +30,84 @@ sitesync: true
 > - Analisar problemas reais e produzir modelos orientados a objetos utilizando UML;
 > - Projetar soluções computacionais criando modelos orientados a objetos utilizando UML.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/engenharia-de-software|CSECBJI.36 - Engenharia de Software]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/7-periodo/projeto-de-software-orientado-a-objetos/projeto-de-software-orientado-a-objetos|CSECBJI.50 - Projeto de Software Orientado a Objetos]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - [x] **1. Introdução** [[anotacoes/aula-01-apresentacao|Aula 01]]
-> - [x] Desenvolvimento de Sistemas Orientados a Objetos
-> - [x] Linguagem de Modelagem Unificada
-> - [x] Processo Unificado
+>   - [x] Desenvolvimento de Sistemas Orientados a Objetos
+>   - [x] Linguagem de Modelagem Unificada
+>   - [x] Processo Unificado
 > - [ ] **2. Modelagem de Negócio**
-> - [ ] Introdução à Modelagem de Negócio
-> - [ ] Visão Geral do Sistema
-> - [ ] Casos de Uso de Negócio
-> - [ ] Diagrama de Atividades de Negócio
-> - [ ] Aspectos do Negócio Dependente de Estado
+>   - [ ] Introdução à Modelagem de Negócio
+>   - [ ] Visão Geral do Sistema
+>   - [ ] Casos de Uso de Negócio
+>   - [ ] Diagrama de Atividades de Negócio
+>   - [ ] Aspectos do Negócio Dependente de Estado
 > - [ ] **3. Requisitos de Alto Nível**
-> - [ ] Introdução aos Requisitos de Alto Nível
-> - [ ] Atores de Sistema
-> - [ ] Casos de Uso de Sistema
-> - [ ] Como Encontrar Casos de Uso de Sistema no Modelo de Negócio
-> - [ ] Requisitos
-> - [ ] Modelo Conceitual
+>   - [ ] Introdução aos Requisitos de Alto Nível
+>   - [ ] Atores de Sistema
+>   - [ ] Casos de Uso de Sistema
+>   - [ ] Como Encontrar Casos de Uso de Sistema no Modelo de Negócio
+>   - [ ] Requisitos
+>   - [ ] Modelo Conceitual
 > - [ ] **4. Planejamento de Projeto Baseado em Casos de Uso**
-> - [ ] Introdução à Estimação de Esforço e Análise de Risco em Projetos de Software
-> - [ ] Análise de Pontos de Caso de Uso
-> - [ ] Planejamento de Projeto Iterativo
+>   - [ ] Introdução à Estimação de Esforço e Análise de Risco em Projetos de Software
+>   - [ ] Análise de Pontos de Caso de Uso
+>   - [ ] Planejamento de Projeto Iterativo
 > - [ ] **5. Casos de Uso Expandidos**
-> - [ ] Introdução aos Casos de Uso Expandidos
-> - [ ] Fluxo Principal
-> - [ ] Fluxos Alternativos
-> - [ ] Recomendações de Escrita
-> - [ ] Casos de Uso Incluídos e Fragmentos
-> - [ ] Expansão de Casos de Uso Expandido
-> - [ ] Outras Seções de um Caso de Uso Expandido
-> - [ ] Diagramas de Sequência de Sistema
+>   - [ ] Introdução aos Casos de Uso Expandidos
+>   - [ ] Fluxo Principal
+>   - [ ] Fluxos Alternativos
+>   - [ ] Recomendações de Escrita
+>   - [ ] Casos de Uso Incluídos e Fragmentos
+>   - [ ] Expansão de Casos de Uso Expandido
+>   - [ ] Outras Seções de um Caso de Uso Expandido
+>   - [ ] Diagramas de Sequência de Sistema
 > - [ ] **6. Fundamentos de Modelagem Conceitual**
-> - [ ] Introdução à Modelagem Conceitual
-> - [ ] Atributos
-> - [ ] Conceitos
-> - [ ] Associações
-> - [ ] Coleções
-> - [ ] Organização do Modelo Conceitual
-> - [ ] Invariantes
-> - [ ] Construção Interativa do Modelo Conceitual
+>   - [ ] Introdução à Modelagem Conceitual
+>   - [ ] Atributos
+>   - [ ] Conceitos
+>   - [ ] Associações
+>   - [ ] Coleções
+>   - [ ] Organização do Modelo Conceitual
+>   - [ ] Invariantes
+>   - [ ] Construção Interativa do Modelo Conceitual
 > - [ ] **7. Padrões de Modelagem Conceitual**
-> - [ ] Coesão Alta
-> - [ ] Classes
-> - [ ] Quantidade
-> - [ ] Medida
-> - [ ] Estratégia
-> - [ ] Composição
-> - [ ] Hierarquia Organizacional
-> - [ ] Junção de Objetos
-> - [ ] Conta/Transação
-> - [ ] Intervalo
-> - [ ] Padrões Temporais
+>   - [ ] Coesão Alta
+>   - [ ] Classes
+>   - [ ] Quantidade
+>   - [ ] Medida
+>   - [ ] Estratégia
+>   - [ ] Composição
+>   - [ ] Hierarquia Organizacional
+>   - [ ] Junção de Objetos
+>   - [ ] Conta/Transação
+>   - [ ] Intervalo
+>   - [ ] Padrões Temporais
 > - [ ] **8. Modelagem Funcional com Contratos**
-> - [ ] Introdução à Modelagem Funcional
-> - [ ] Precondições
-> - [ ] Associações Temporárias
-> - [ ] Retorno de Consulta
-> - [ ] Pós-Condições
-> - [ ] Exceções
-> - [ ] Contratos Padrão para CRUD
-> - [ ] Padrões de Contrato para Listar Objetos
-> - [ ] Contratos Relacionados a Casos de Uso
+>   - [ ] Introdução à Modelagem Funcional
+>   - [ ] Precondições
+>   - [ ] Associações Temporárias
+>   - [ ] Retorno de Consulta
+>   - [ ] Pós-Condições
+>   - [ ] Exceções
+>   - [ ] Contratos Padrão para CRUD
+>   - [ ] Padrões de Contrato para Listar Objetos
+>   - [ ] Contratos Relacionados a Casos de Uso
 > - [ ] **9. Design da Camada de Domínio**
-> - [ ] Introdução ao Design
-> - [ ] Distribuição de Responsabilidades de Objetos
-> - [ ] Visibilidade
-> - [ ] Modelagem Dinâmica Baseada em Pós-Condições
-> - [ ] Consultas de Sistema
-> - [ ] Delegação e Acoplamento Baixo
+>   - [ ] Introdução ao Design
+>   - [ ] Distribuição de Responsabilidades de Objetos
+>   - [ ] Visibilidade
+>   - [ ] Modelagem Dinâmica Baseada em Pós-Condições
+>   - [ ] Consultas de Sistema
+>   - [ ] Delegação e Acoplamento Baixo
 > - [ ] **10. Diagrama de Classe de Projeto**
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. BEZERRA, E. Princípios de Análise e Projetos de Sistemas com UML. 3ª Edição. São Paulo: Elsevier, 2014.
 > 2. LARMAN, G. Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientado a Objetos e ao Desenvolvimento Iterativo. 3ª Edição. Porto Alegre: Bookman, 2006.
@@ -121,4 +121,4 @@ sitesync: true
 
 ## Anotações e Arquivos Didáticos
 - **[[Anotações/Anotações — Analise De Software Orientada A Objetos|Anotações da Disciplina]]**
-- **Trabalhos e Avaliações**
+-  **Trabalhos e Avaliações**

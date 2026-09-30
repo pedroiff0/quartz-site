@@ -317,6 +317,10 @@ plugins:
     layout:
       position: afterBody
       priority: 24
+  - source: ./local-plugins/css-classes
+    enabled: true
+    options: {}
+    order: 55
   - source: ./local-plugins/page-title-i18n
     enabled: true
     layout:

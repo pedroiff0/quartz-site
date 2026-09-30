@@ -15,8 +15,9 @@ tags:
 - mongodb
 - dataview
 cssclasses:
-- dashboard
-- project-page
+  - page-layout
+  - dashboard
+  - project-page
 icon: lucide-graduationcap
 projeto: "[[pt-br/research/research/anotacoes/searcher|anotacoes]]"
 sitesync: true

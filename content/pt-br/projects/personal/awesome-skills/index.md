@@ -12,7 +12,7 @@ tags:
 repo: https://github.com/pedroiff0/awesome-skills
 status: público
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-notebookpen
 sitesync: true
 ---

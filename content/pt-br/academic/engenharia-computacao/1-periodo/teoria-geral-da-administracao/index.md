@@ -2,64 +2,64 @@
 publish: false
 title: Teoria Geral da Administração
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Teoria Geral Da Administracao|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Teoria Geral Da Administracao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Teoria Geral Da Administracao|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Teoria Geral Da Administracao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.6`
 > - **Período:** 1º Período | **Núcleo:** Básica | **Carga Horária:** 60
 > - **Docente Responsável:** Alexandre Alvim (alvimprof@gmail.com)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Campo da Administração; Estruturas Administrativas; Importância das Estruturas; Técnicas de Estruturação; Áreas Administrativas; Planejamento da Ação Empresarial; Ambiente Organizacional.
 > **Objetivos**
 > - Capacitar o aluno a conhecer o contexto organizacional definindo as funções e estruturas administrativas bem como as ações que envolvem um planejamento empresarial.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. O Campo da Administração**
-> - Administração: Conceito, Importância e Campos de Atuação.
-> - Funções Administrativas;
-> - Características das Funções Administrativas.
+>   - Administração: Conceito, Importância e Campos de Atuação.
+>   - Funções Administrativas;
+>   - Características das Funções Administrativas.
 > - **2. Estruturas Administrativas**
-> - Tipos de Estruturas Formal e Informal;
-> - Importâncias das Estruturas;
-> - Técnicas de Estruturação – Departamentalização;
-> - Organograma.
+>   - Tipos de Estruturas Formal e Informal;
+>   - Importâncias das Estruturas;
+>   - Técnicas de Estruturação – Departamentalização;
+>   - Organograma.
 > - **3. Áreas Administrativas**
-> - Administração de Recursos Humanos;
-> - Administração de Produção, Material e Patrimônio;
-> - Administração de Marketing;
-> - Administração Financeira e Orçamentária.
+>   - Administração de Recursos Humanos;
+>   - Administração de Produção, Material e Patrimônio;
+>   - Administração de Marketing;
+>   - Administração Financeira e Orçamentária.
 > - **4. Planejamento da Ação Empresarial**
-> - Planejamento Estratégico, Tático e Operacional;
-> - Ambiente Organizacional Interno e Externo.
+>   - Planejamento Estratégico, Tático e Operacional;
+>   - Ambiente Organizacional Interno e Externo.
 > - **5. O Ambiente Organizacional**
-> - Focalizando a Oportunidade;
-> - Novos Mercados;
-> - Técnicas de Decidir;
-> - Desenvolvimento Organizacional;
-> - Gestão do Conhecimento.
+>   - Focalizando a Oportunidade;
+>   - Novos Mercados;
+>   - Técnicas de Decidir;
+>   - Desenvolvimento Organizacional;
+>   - Gestão do Conhecimento.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. MOTTA, F. C. P.; VASCONCELOS, I. F. G. Teoria Geral da Administração. 3ª Edição. São Paulo:
 > 2. Cengage Learning, 2006.

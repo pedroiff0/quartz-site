@@ -2,62 +2,62 @@
 publish: false
 title: Sistemas Operacionais II
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Sistemas Operacionais Ii|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Sistemas Operacionais Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Sistemas Operacionais Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sistemas Operacionais Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.63`
 > - **Período:** 8º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Sistemas de Arquivos; Entrada/Saída; Deadlocks.
 > **Objetivos**
 > - Aprofundar os conhecimentos acerca das estruturas de um sistema operacional.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i|CSECBJI.56 - Sistemas Operacionais I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Sistemas de Arquivos**
-> - Arquivos
-> - Diretórios
-> - Implementação do Sistema de Arquivos
-> - Gerenciamento e Otimização dos Sistemas
-> - Exemplos de Sistemas de Arquivos
+>   - Arquivos
+>   - Diretórios
+>   - Implementação do Sistema de Arquivos
+>   - Gerenciamento e Otimização dos Sistemas
+>   - Exemplos de Sistemas de Arquivos
 > - **2. Entrada/Saída**
-> - Princípios do Hardware de E/S
-> - Princípios do Software E/S
-> - Camadas do Software E/S
-> - Discos
-> - Relógios
-> - Interfaces com o usuário g. Gerenciamento de Energia
+>   - Princípios do Hardware de E/S
+>   - Princípios do Software E/S
+>   - Camadas do Software E/S
+>   - Discos
+>   - Relógios
+>   - Interfaces com o usuário g. Gerenciamento de Energia
 > - **3. Deadlocks**
-> - Recursos
-> - Introdução a Deadlocks
-> - Algoritmo do Avestruz
-> - Detecção e Recuperação de Deadlocks
-> - Evitando Deadlocks
-> - Prevenção de Deadlocks
-> - Outras Questões
+>   - Recursos
+>   - Introdução a Deadlocks
+>   - Algoritmo do Avestruz
+>   - Detecção e Recuperação de Deadlocks
+>   - Evitando Deadlocks
+>   - Prevenção de Deadlocks
+>   - Outras Questões
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
 > 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.

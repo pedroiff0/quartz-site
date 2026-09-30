@@ -8,7 +8,7 @@ tags:
 - publico
 - pessoal
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-map-pin
 repo: https://github.com/pedroiff0/viagem-app
 status: em-desenvolvimento

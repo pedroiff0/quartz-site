@@ -2,69 +2,69 @@
 publish: false
 title: Processamento de Imagens
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T15:35:32-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[Anotações/Anotações — Processamento De Imagens|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Processamento De Imagens|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Processamento De Imagens|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-processamento-de-imagens|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.78`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração de imagens. Fundamentos para um sistema de análise de imagens. Segmentação de imagens.
 > **Objetivos**
 > - Apresentar os fundamentos gerais sobre processamento de imagens e vídeos digitais. Desenvolver rotinas de processamento de imagens para diversas aplicações.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica|CSECBJI.77 - Computação Gráfica]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Fundamentação, aplicações, representação e modelagem de imagens digitais**
-> - Conceitos básicos das áreas de processamento e análise de imagens
-> - Principais áreas de aplicação envolvendo o tratamento de imagens
-> - Componentes fundamentais de um sistema de processamento e análise de imagens
+>   - Conceitos básicos das áreas de processamento e análise de imagens
+>   - Principais áreas de aplicação envolvendo o tratamento de imagens
+>   - Componentes fundamentais de um sistema de processamento e análise de imagens
 > - **2. Aquisição de Imagens e Técnicas de Realce e Melhoria de Imagens**
-> - Aquisição e digitalização de imagens
-> - Propriedades de uma imagem digital
-> - Conversão para o formato digital
-> - Etapas do processamento e análise de imagens
-> - Captura e reprodução
-> - Armazenamento e Representação
+>   - Aquisição e digitalização de imagens
+>   - Propriedades de uma imagem digital
+>   - Conversão para o formato digital
+>   - Etapas do processamento e análise de imagens
+>   - Captura e reprodução
+>   - Armazenamento e Representação
 > - **3. Restauração de Imagens**
-> - Etapas do Processamento de uma Imagem
-> - Operações Matemáticas para Alterar os Valores dos Pixels de uma ou mais Imagens
-> - Realce de Contraste
-> - Correção e Iluminação Irregular
-> - Redução de Ruídos
-> - Redução de Borrado devido Movimento g. Correção de Foco
+>   - Etapas do Processamento de uma Imagem
+>   - Operações Matemáticas para Alterar os Valores dos Pixels de uma ou mais Imagens
+>   - Realce de Contraste
+>   - Correção e Iluminação Irregular
+>   - Redução de Ruídos
+>   - Redução de Borrado devido Movimento g. Correção de Foco
 > - **4. Fundamentos para um sistema de análise de imagens**
-> - Concepção de um Sistema de Visão Artificial
-> - Arquitetura de um Sistema de Visão Artificial
-> - Bibliotecas de Programação
+>   - Concepção de um Sistema de Visão Artificial
+>   - Arquitetura de um Sistema de Visão Artificial
+>   - Bibliotecas de Programação
 > - **5. Segmentação de Imagens**
-> - A Segmentação como Operação Pontual
-> - Segmentação por Região, Textura e Contorno
-> - Limiarização Local e Global
-> - Morfologia para Correção da Segmentação
-> - Erosão, Dilatação, Abertura e Fechamento
+>   - A Segmentação como Operação Pontual
+>   - Segmentação por Região, Textura e Contorno
+>   - Limiarização Local e Global
+>   - Morfologia para Correção da Segmentação
+>   - Erosão, Dilatação, Abertura e Fechamento
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018.
 > 2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003

@@ -2,50 +2,50 @@
 publish: false
 title: Desenvolvimento Web
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T15:35:32-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[Anotações/Anotações — Desenvolvimento Web|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Desenvolvimento Web|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Desenvolvimento Web|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-desenvolvimento-web|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.79`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** —
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web. Engenharia Web
 > **Objetivos**
 > - Apresentar diferentes maneiras de desenvolver sistemas e ferramentas web com tecnologias mais relevantes para o mercado.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii|CSECBJI.51 - Programação Orientada a Objetos II]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Programação para Web**
-> - História da Internet e da World Wide Web.
-> - Desenvolvimento Front-End
-> - Desenvolvimento Back-End
+>   - História da Internet e da World Wide Web.
+>   - Desenvolvimento Front-End
+>   - Desenvolvimento Back-End
 > - **2. Frameworks Web**
-> - Introdução à frameworks para desenvolvimento web
+>   - Introdução à frameworks para desenvolvimento web
 > - **3. Acesso a banco de dados em sistemas Web**
-> - Conexão com Sistema de Gerenciamento de Banco de Dados
-> - Engenharia Web
+>   - Conexão com Sistema de Gerenciamento de Banco de Dados
+>   - Engenharia Web
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. DALL’OGLIO, P. PHP: Programando com Orientação a Objetos. 4ª Edição. São Paulo: Novatec, 2018.
 > 2. DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books, 2016.

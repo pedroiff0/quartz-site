@@ -2,79 +2,79 @@
 publish: false
 title: Paradigmas de Linguagem de Programação
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Paradigmas De Linguagem De Programacao|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Paradigmas De Linguagem De Programacao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Paradigmas De Linguagem De Programacao|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Paradigmas De Linguagem De Programacao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.38`
 > - **Período:** 5º Período | **Núcleo:** Profissionalizante | **Carga Horária:** —
 > - **Docente Responsável:** Wesley Folly (wesley.souza@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Visão geral de linguagens de programação: valores e tipos; variáveis e comandos; associações e escopo; abstração e mecanismos de passagens de parâmetros; encapsulamento; sistema de tipos; sequenciadores; concorrência. Paradigmas: imperativo, funcional, lógico, orientado a objetos e paradigmas híbridos.
 > **Objetivos**
 > - Compreender os principais conceitos e paradigmas das linguagens de programação permitindo a seleção de uma linguagem mais adequada para solução de um dado problema.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i|CSECBJI.45 - Programação Orientada a Objetos I]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Visão Geral de Linguagens de Programação**
-> - Conceito e Paradigmas
-> - Sintaxe Semântica
-> - Compiladores e Interpretadores
+>   - Conceito e Paradigmas
+>   - Sintaxe Semântica
+>   - Compiladores e Interpretadores
 > - **2. Valores e Tipos**
-> - Valores e Tipos
-> - Tipos Primitivos
-> - Tipos Compostos
-> - Tipos Recursivos
-> - Sistemas de Tipos
-> - Expressões
+>   - Valores e Tipos
+>   - Tipos Primitivos
+>   - Tipos Compostos
+>   - Tipos Recursivos
+>   - Sistemas de Tipos
+>   - Expressões
 > - **3. Armazenamento**
-> - Variáveis e Constantes
-> - Variáveis Compostas
-> - Tempo de Vida de Variáveis
-> - Ponteiros
-> - Comandos
-> - Expressões com Efeitos Colaterais
+>   - Variáveis e Constantes
+>   - Variáveis Compostas
+>   - Tempo de Vida de Variáveis
+>   - Ponteiros
+>   - Comandos
+>   - Expressões com Efeitos Colaterais
 > - **4. Abstração Procedural**
-> - Tipos de Abstração
-> - Parâmetros e Argumentos
-> - Ordem de Avaliação
+>   - Tipos de Abstração
+>   - Parâmetros e Argumentos
+>   - Ordem de Avaliação
 > - **5. Abstração de Dados**
-> - Pacotes
-> - Encapsulamento
-> - Tipo Abstrato de Dados
-> - Objetos e Classes
+>   - Pacotes
+>   - Encapsulamento
+>   - Tipo Abstrato de Dados
+>   - Objetos e Classes
 > - **6. Fluxo de Controle**
-> - Sequenciadores
-> - Jumps
-> - Scapes
-> - Exceções
+>   - Sequenciadores
+>   - Jumps
+>   - Scapes
+>   - Exceções
 > - **7. Paradigmas de Programação**
-> - Programação Imperativa
-> - Programação Orientada a Objetos
-> - Programação Funcional
-> - Programação Lógico
-> - Paradigmas híbridos
+>   - Programação Imperativa
+>   - Programação Orientada a Objetos
+>   - Programação Funcional
+>   - Programação Lógico
+>   - Paradigmas híbridos
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. SEBESTA, R. W. Conceitos de Linguagens de Programação. 11ª Edição. Porto Alegre: Bookman, 2018.
 > 2. TUCKER, A. B., NOOMAN, R. Linguagens de Programação: Princípios e Paradigmas. 2ª Edição. São Paulo: McGraw Hill, 2009.

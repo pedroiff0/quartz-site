@@ -2,67 +2,67 @@
 publish: false
 title: Algoritmos e Estruturas de Dados I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Algoritmos E Estruturas De Dados I|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Algoritmos E Estruturas De Dados I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Algoritmos E Estruturas De Dados I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Algoritmos E Estruturas De Dados I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.22`
 > - **Período:** 3º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de Parâmetros; Alocação Dinâmica de Memória; Estruturas de Dados Lineares; Recursividade; Algoritmos para Pesquisa e Ordenação.
 > **Objetivos**
 > - Proporcionar aos alunos conhecimentos teóricos e práticos em programação, envolvendo o estudo de conceitos fundamentais de algoritmos e estruturas de dados.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii|CSECBJI.30 - Algoritmos e Estruturas de Dados II]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Estruturas de Dados Homogêneas:**
-> - Vetores;
-> - Marizes.
+>   - Vetores;
+>   - Marizes.
 > - **2. Estruturas de Dados Heterogêneas:**
-> - Registro.
+>   - Registro.
 > - **3. Passagem de Parâmetros:**
-> - Passagem de parâmetros por valor;
-> - Passagem de parâmetros por referência.
+>   - Passagem de parâmetros por valor;
+>   - Passagem de parâmetros por referência.
 > - **4. Alocação Dinâmica de Memória**
-> - Ponteiros
+>   - Ponteiros
 > - **5. Estruturas de Dados Lineares:**
-> - Listas Lineares;
-> - Listas Simplesmente Encadeadas;
-> - Listas Duplamente Encadeada;
-> - Listas Circulares;
-> - Pilhas;
-> - Filas;
-> - Listas Ordenadas.
+>   - Listas Lineares;
+>   - Listas Simplesmente Encadeadas;
+>   - Listas Duplamente Encadeada;
+>   - Listas Circulares;
+>   - Pilhas;
+>   - Filas;
+>   - Listas Ordenadas.
 > - **6. Recursividade**
 > - **7. Algoritmos para Pesquisa e Ordenação**
-> - Busca Sequencial;
-> - Busca Binária;
-> - Buble-Sort;
-> - Merge-Sort;
-> - Heap-Sort;
-> - Quick-Sort.
+>   - Busca Sequencial;
+>   - Busca Binária;
+>   - Buble-Sort;
+>   - Merge-Sort;
+>   - Heap-Sort;
+>   - Quick-Sort.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,
 > 2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014.

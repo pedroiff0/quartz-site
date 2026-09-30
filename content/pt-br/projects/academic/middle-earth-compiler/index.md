@@ -8,7 +8,7 @@ tags:
 - publico
 - academico
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-terminal
 repo: https://github.com/pedroiff0/middle-earth-compiler
 status: em-desenvolvimento

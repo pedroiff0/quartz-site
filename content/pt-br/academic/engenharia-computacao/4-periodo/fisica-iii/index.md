@@ -2,33 +2,33 @@
 publish: false
 title: Física III
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Fisica Iii|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Fisica Iii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Fisica Iii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fisica Iii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.26`
 > - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Rodrigo Lacerda (rodrigo.lacerda@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais, força magnética, momento magnético, efeito Hall, campo magnético em cargas móveis, Lei de Biot-Savart, Lei de Faraday, Lei de Ampère, indutância, circuitos RL e RLC.
 > **Objetivos**
 > - ● Dar subsídios físicos sobre os conceitos da Teoria Eletromagnética da natureza, assim como aplicá-los nas atividades profissionais do engenheiro.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii|CSECBJI.17 - Cálculo III]]
 > - [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii|CSECBJI.19 - Física II]]
@@ -36,42 +36,42 @@ sitesync: true
 > - [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada|CSECBJI.33 - Eletricidade Aplicada]]
 > - [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/eletronica-analogica|CSECBJI.37 - Eletrônica Analógica]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Eletrostática**
-> - Conceitos fundamentais;
-> - Modelos atômicos;
-> - Processos de eletrização:
-> - Condutores isolantes;
-> - Princípios da eletrostática;
-> - Carga elementar;
-> - Lei de Coulomb;
-> - Campo elétrico;
-> - Potencial elétrico, superfícies equipotenciais;
-> - Distribuição de cargas;
-> - Técnicas de resolução de problemas de campo, potencial elétrico para sistemas fora da origem com distribuição de cargas;
-> - Energia potencial eletrostática e capacitância.
+>   - Conceitos fundamentais;
+>   - Modelos atômicos;
+>   - Processos de eletrização:
+>   - Condutores isolantes;
+>   - Princípios da eletrostática;
+>   - Carga elementar;
+>   - Lei de Coulomb;
+>   - Campo elétrico;
+>   - Potencial elétrico, superfícies equipotenciais;
+>   - Distribuição de cargas;
+>   - Técnicas de resolução de problemas de campo, potencial elétrico para sistemas fora da origem com distribuição de cargas;
+>   - Energia potencial eletrostática e capacitância.
 > - **2. Eletrodinâmica**
-> - Conceitos fundamentais, corrente e cargas em movimentos;
-> - Resistência, resistividade e as Leis de Ohm;
-> - Circuitos simples com uma e mais malhas;
-> - Instrumentos de medidas (voltímetro, amperímetro e ohmímetro);
-> - Circuitos RC.
+>   - Conceitos fundamentais, corrente e cargas em movimentos;
+>   - Resistência, resistividade e as Leis de Ohm;
+>   - Circuitos simples com uma e mais malhas;
+>   - Instrumentos de medidas (voltímetro, amperímetro e ohmímetro);
+>   - Circuitos RC.
 > - **3. Campo Magnético**
-> - Conceitos fundamentais;
-> - A força magnética;
-> - Movimento de uma carga pontual em um campo magnético;
-> - Torque sobre espiras com corrente e ímã;
-> - Energia potencial de um dipolo magnético em um campo magnético;
-> - O Efeito Hall;
-> - O campo magnético de cargas móveis pontuais;
-> - Campo magnético de correntes;
-> - Lei de Gauss para o magnetismo;
-> - Lei de Ampére;
-> - Magnetismo nos materiais;
-> - Lei de Indução de Faraday;
-> - Circuitos RL e RLC.
+>   - Conceitos fundamentais;
+>   - A força magnética;
+>   - Movimento de uma carga pontual em um campo magnético;
+>   - Torque sobre espiras com corrente e ímã;
+>   - Energia potencial de um dipolo magnético em um campo magnético;
+>   - O Efeito Hall;
+>   - O campo magnético de cargas móveis pontuais;
+>   - Campo magnético de correntes;
+>   - Lei de Gauss para o magnetismo;
+>   - Lei de Ampére;
+>   - Magnetismo nos materiais;
+>   - Lei de Indução de Faraday;
+>   - Circuitos RL e RLC.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. RESNICK, R., WALKER, J.
 > 2. HALLIDAY, D. Fundamentos de Física – Volume 3 – Eletromagnetismo. 10ª Edição. Rio de Janeiro, LTC, 2016.

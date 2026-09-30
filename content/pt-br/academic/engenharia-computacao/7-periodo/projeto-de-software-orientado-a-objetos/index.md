@@ -2,74 +2,74 @@
 publish: false
 title: Projeto de Software Orientado a Objetos
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Projeto De Software Orientado A Objetos|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Projeto De Software Orientado A Objetos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Projeto De Software Orientado A Objetos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Projeto De Software Orientado A Objetos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.50`
 > - **Período:** 7º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Fabrício Barros (fabricio.goncalves@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.
 > **Objetivos**
 > - Aprofundar os conhecimentos acerca de projetos de software orientado à objetos;
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/analise-de-software-orientada-a-objetos|CSECBJI.42 - Análise de Software Orientada a Objetos]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Princípios de Projeto Orientado a Objetos**
-> - Single Responsibility Principle
-> - Open/Closed Principle
-> - Liskov Substitution Principle
-> - Interface Segregation Principle
-> - Dependency Inversion Principle
+>   - Single Responsibility Principle
+>   - Open/Closed Principle
+>   - Liskov Substitution Principle
+>   - Interface Segregation Principle
+>   - Dependency Inversion Principle
 > - **2. Padrões de Projeto**
-> - Padrões de Criação
-> - i. Abstract Factory
-> - ii. Builder
-> - iii. Factory Method
-> - iv. Prototype
-> - v. Singleton
-> - Padrões Estruturais
-> - i. Adapter
-> - ii. Bridge
-> - iii. Composite
-> - iv. Decorator
-> - v. Façade
-> - vi. Flyweight
-> - vii. Proxy
-> - Padrões Comportamentais
-> - i. Chain of Responsability
-> - ii. Command
-> - iii. Interpreter
-> - iv. Iterator
-> - v. Mediator
-> - vi. Memento
-> - vii. Observer
-> - viii. State
-> - ix. Strategy
-> - x. Template Method
-> - xi. Visitor
+>   - Padrões de Criação
+>   - i. Abstract Factory
+>   - ii. Builder
+>   - iii. Factory Method
+>   - iv. Prototype
+>   - v. Singleton
+>   - Padrões Estruturais
+>   - i. Adapter
+>   - ii. Bridge
+>   - iii. Composite
+>   - iv. Decorator
+>   - v. Façade
+>   - vi. Flyweight
+>   - vii. Proxy
+>   - Padrões Comportamentais
+>   - i. Chain of Responsability
+>   - ii. Command
+>   - iii. Interpreter
+>   - iv. Iterator
+>   - v. Mediator
+>   - vi. Memento
+>   - vii. Observer
+>   - viii. State
+>   - ix. Strategy
+>   - x. Template Method
+>   - xi. Visitor
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. FREEMAN, E.; FREEMAN, E. Use a cabeça! Padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books,
 > 2. GAMMA, E., HELM, R., JHONSON, R., VLISSIDES, J. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. Porto Alegre: Bookman, 2000.

@@ -8,8 +8,8 @@ tags:
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- cards
+  - page-layout
+  - cards
 icon: lucide-book-open
 disciplina: "[[filosofia-da-ciencia-e-tecnologia]]"
 sitesync: true

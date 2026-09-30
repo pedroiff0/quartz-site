@@ -2,33 +2,33 @@
 publish: false
 title: Álgebra Linear e Geometria Analítica II
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Algebra Linear E Geometria Analitica Ii|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Algebra Linear E Geometria Analitica Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Algebra Linear E Geometria Analitica Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Algebra Linear E Geometria Analitica Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.10`
 > - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Paulo Emanuel (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores autoadjuntos e ortogonais. Valores e vetores próprios. Formas Quadráticas, Cônicas e Quadráticas.
 > **Objetivos**
 > - Aprofundar os estudos em transformações lineares, abordando a mudança de base, matrizes semelhantes, autovalores, autovetores e diagonalização de matrizes. Na geometria analítica é auxílio para encontrar formas canônicas de cônicas e quádricas.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i|CSECBJI.5 - Álgebra Linear e Geometria Analítica I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
@@ -36,32 +36,32 @@ sitesync: true
 > - [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/modelagem-ambiental|CSECBJI.85 - Modelagem Ambiental]]
 > - [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i|CSECBJI.88 - Pesquisa Operacional I]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Transformações Lineares**
-> - Transformações lineares;
-> - Núcleo e imagem de uma transformação linear;
-> - Matriz de uma transformação linear;
-> - Operações com transformações lineares;
-> - Transformações lineares no plano;
-> - Transformações lineares no espaço;
+>   - Transformações lineares;
+>   - Núcleo e imagem de uma transformação linear;
+>   - Matriz de uma transformação linear;
+>   - Operações com transformações lineares;
+>   - Transformações lineares no plano;
+>   - Transformações lineares no espaço;
 > - **2. Operadores Lineares**
-> - Operadores Inversíveis;
-> - Mudança de base;
-> - Matrizes Semelhantes;
-> - Operadores auto-adjuntos;
-> - Operadores ortogonais.
+>   - Operadores Inversíveis;
+>   - Mudança de base;
+>   - Matrizes Semelhantes;
+>   - Operadores auto-adjuntos;
+>   - Operadores ortogonais.
 > - **3. Valores e Vetores Próprios**
-> - Determinação dos valores próprios e dos vetores próprios;
-> - Propriedades;
-> - Diagonalização de operadores;
-> - Diagonalização de matrizes simétricas;
+>   - Determinação dos valores próprios e dos vetores próprios;
+>   - Propriedades;
+>   - Diagonalização de operadores;
+>   - Diagonalização de matrizes simétricas;
 > - **4. Formas Quadráticas**
-> - Forma quadrática no plano;
-> - Classificação de cônicas;
-> - Forma quadrática no espaço;
-> - Classificação de quádricas.
+>   - Forma quadrática no plano;
+>   - Classificação de cônicas;
+>   - Forma quadrática no espaço;
+>   - Classificação de quádricas.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear.
 > 2. ª Edição. São Paulo: Harbra, 1984.

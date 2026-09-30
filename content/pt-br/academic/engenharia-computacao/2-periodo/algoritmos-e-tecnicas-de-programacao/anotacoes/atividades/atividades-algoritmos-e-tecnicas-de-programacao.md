@@ -8,8 +8,8 @@ tags:
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- cards
+  - page-layout
+  - cards
 icon: lucide-book-open
 disciplina: "[[algoritmos-e-tecnicas-de-programacao]]"
 sitesync: true

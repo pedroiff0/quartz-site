@@ -2,75 +2,75 @@
 publish: false
 title: Geoprocessamento
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[Anotações/Anotações — Geoprocessamento|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Geoprocessamento|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Geoprocessamento|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Geoprocessamento|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.84`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Dambroz (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Métodos de abstração, conversão e estruturação em SIG. Potencial das técnicas de geoprocessamento para a representação de fenômenos e modelos ambientais. Instrumentalização de técnicas do geoprocessamento. Atividades práticas.
 > **Objetivos**
 > - Entender as diferenças entre os tipos de dados georreferenciados e como integrá-los em uma base de dados geográfica.
 > - Conhecer e aplicar as técnicas de geoprocessamento a fim de realizar análises ambientais com o apoio de sistemas computacionais.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos|CSECBJI.34 - Projeto e Análise de Algoritmos]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Bases Conceituais e Teóricas**
-> - Fundamentos Teóricos de Geoprocessamento
-> - Representação Computacional
+>   - Fundamentos Teóricos de Geoprocessamento
+>   - Representação Computacional
 > - **2. Sistemas de Informações Geográficas**
-> - Componentes e Definições
-> - Arquitetura de Sistemas de Informações Geográficas
-> - Estruturas de Dados Raster e Vetor
-> - Representação de Dados Multiespectrais: Imagens Digitais
+>   - Componentes e Definições
+>   - Arquitetura de Sistemas de Informações Geográficas
+>   - Estruturas de Dados Raster e Vetor
+>   - Representação de Dados Multiespectrais: Imagens Digitais
 > - **3. Métodos de Abstração, Conversão e Estruturação em SIG**
-> - Estruturas de projetos e Banco de Dados
-> - Compatibilidade de Dados Multifonte
-> - Aspectos Cartográficos de Conversão de Dados
+>   - Estruturas de projetos e Banco de Dados
+>   - Compatibilidade de Dados Multifonte
+>   - Aspectos Cartográficos de Conversão de Dados
 > - **4. Instrumentalização de Técnicas do Geoprocessamento**
-> - Conceitos Básicos de Sensoriamento Remoto
-> - Correção Geométrica de Imagens de Sensoriamento Remoto
-> - Recorte e Mosaico de Imagens
-> - Interpretação de Imagens e Comportamento Espectral de Alvos
-> - Segmentação e Classificação
-> - Índices de vegetação
-> - Técnicas de Interpolação
-> - Processamento de dados MNT
-> - Operações sobre geo-objetos
-> - Operações sobre geo-campos
-> - Algebra de mapas: operadores booleanos
-> - Álgebra de mapas: operadores nebulosos
-> - Técnica AHP para inferência geográfica
+>   - Conceitos Básicos de Sensoriamento Remoto
+>   - Correção Geométrica de Imagens de Sensoriamento Remoto
+>   - Recorte e Mosaico de Imagens
+>   - Interpretação de Imagens e Comportamento Espectral de Alvos
+>   - Segmentação e Classificação
+>   - Índices de vegetação
+>   - Técnicas de Interpolação
+>   - Processamento de dados MNT
+>   - Operações sobre geo-objetos
+>   - Operações sobre geo-campos
+>   - Algebra de mapas: operadores booleanos
+>   - Álgebra de mapas: operadores nebulosos
+>   - Técnica AHP para inferência geográfica
 > - **5. Potencial das Técnicas de Geoprocessamento para a Representação de Fenômenos e Modelos Ambientais**
-> - Mapas de uso de ocupação do solo
-> - Geração de curvas de nível e perfis
-> - Manipulação de dados de altimetria e declividade
-> - Delimitação de áreas de proteção permanente e reserva legal
-> - Delimitação de bacias
-> - Análises multitemporais
+>   - Mapas de uso de ocupação do solo
+>   - Geração de curvas de nível e perfis
+>   - Manipulação de dados de altimetria e declividade
+>   - Delimitação de áreas de proteção permanente e reserva legal
+>   - Delimitação de bacias
+>   - Análises multitemporais
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008.
 > 2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012.

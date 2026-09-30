@@ -2,14 +2,14 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Modelagem Ambiental
 created: 2026-08-29 11:58
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T15:35:32-03:00
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- cards
+  - page-layout
+  - cards
 icon: lucide-book-open
 sitesync: true
 ---
@@ -29,5 +29,5 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 ## Navegação da Disciplina
 -  Anotações de Quadro & Aulas
--  [[../../Modelagem Ambiental|Modelagem Ambiental]]
+-  [[../../modelagem-ambiental|Modelagem Ambiental]]
 -  [Hub de Disciplinas](https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/)

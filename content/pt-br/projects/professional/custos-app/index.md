@@ -8,7 +8,7 @@ tags:
 - publico
 - profissional
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-calculator
 repo: https://github.com/pedroiff0/custos-app
 status: ativo

@@ -6,7 +6,7 @@ modified: 2026-09-30T13:05:50-03:00
 tags:
 - projeto
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-notebookpen
 order: 5
 sitesync: true

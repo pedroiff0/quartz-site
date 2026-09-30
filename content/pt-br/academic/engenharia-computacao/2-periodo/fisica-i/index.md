@@ -2,33 +2,33 @@
 publish: false
 title: Física I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30T14:05:00-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[anotacoes/anotacoes — Fisica I|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Fisica I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Fisica I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fisica I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.11`
 > - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 80
 > - **Docente Responsável:** Thiago Juncal (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conservação: da energia mecânica e do momento (linear e angular).
 > **Objetivos**
 > - Apresentar aos alunos os conceitos fundamentais do estudo da mecânica.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i|CSECBJI.4 - Cálculo I]]
 > - [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i|CSECBJI.5 - Álgebra Linear e Geometria Analítica I]]
@@ -36,56 +36,56 @@ sitesync: true
 > - [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii|CSECBJI.19 - Física II]]
 > - [[pt-br/academic/engenharia-computacao/3-periodo/mecanica-dos-solidos/mecanica-dos-solidos|CSECBJI.21 - Mecânica dos Sólidos]]
 
-> [!tip] Conteúdo Programático
+> [!tip]  Conteúdo Programático
 > - **1. Movimento em uma dimensão**
-> - Velocidade média e instantânea – modelos de análise;
-> - Aceleração;
-> - Diagramas de movimento;
-> - A partícula com aceleração constante;
-> - Corpos em queda livre.
+>   - Velocidade média e instantânea – modelos de análise;
+>   - Aceleração;
+>   - Diagramas de movimento;
+>   - A partícula com aceleração constante;
+>   - Corpos em queda livre.
 > - **2. Movimento em duas dimensões:**
-> - Os vetores posição, velocidade e aceleração;
-> - Movimento bidimensional com aceleração constante;
-> - Movimento projétil;
-> - A partícula com movimento circular uniforme;
-> - Aceleração tangencial e radial;
-> - Velocidade relativa;
-> - Órbitas circulares.
+>   - Os vetores posição, velocidade e aceleração;
+>   - Movimento bidimensional com aceleração constante;
+>   - Movimento projétil;
+>   - A partícula com movimento circular uniforme;
+>   - Aceleração tangencial e radial;
+>   - Velocidade relativa;
+>   - Órbitas circulares.
 > - **3. As Leis do Movimento:**
-> - O conceito de força;
-> - A Primeira Lei de Newton;
-> - Massa inercial;
-> - A Segunda Lei de Newton – Ação de uma força resultante;
-> - A força gravitacional e o peso;
-> - A Terceira Lei de Newton;
-> - Aplicações das Leis de Newton
+>   - O conceito de força;
+>   - A Primeira Lei de Newton;
+>   - Massa inercial;
+>   - A Segunda Lei de Newton – Ação de uma força resultante;
+>   - A força gravitacional e o peso;
+>   - A Terceira Lei de Newton;
+>   - Aplicações das Leis de Newton
 > - **4. Aplicações Adicionais das Leis de Newton:**
-> - Forças de atrito;
-> - A Segunda Lei de Newton aplicada a uma partícula em movimento circular uniforme;
-> - Movimento circular não uniforme;
-> - Movimento na presença de forças resistivas dependentes da velocidade;
-> - O campo gravitacional.
+>   - Forças de atrito;
+>   - A Segunda Lei de Newton aplicada a uma partícula em movimento circular uniforme;
+>   - Movimento circular não uniforme;
+>   - Movimento na presença de forças resistivas dependentes da velocidade;
+>   - O campo gravitacional.
 > - **5. Energia e Transferência de Energia:**
-> - Trabalho feito por uma força constante;
-> - Trabalho feito por uma força variável;
-> - Potência;
-> - Sistemas conservativos;
-> - Sistemas não conservativos.
+>   - Trabalho feito por uma força constante;
+>   - Trabalho feito por uma força variável;
+>   - Potência;
+>   - Sistemas conservativos;
+>   - Sistemas não conservativos.
 > - **6. Momento e Colisões:**
-> - Movimento linear e sua conservação;
-> - Impulso e momento;
-> - Colisões;
-> - Colisões bidimensionais;
-> - O centro de massa;
-> - O movimento de um centro de partículas.
+>   - Movimento linear e sua conservação;
+>   - Impulso e momento;
+>   - Colisões;
+>   - Colisões bidimensionais;
+>   - O centro de massa;
+>   - O movimento de um centro de partículas.
 > - **7. Movimento Rotacional:**
-> - Velocidade angular e aceleração angular;
-> - O corpo rígido em aceleração angular constante;
-> - Energia cinética rotacional;
-> - Torque e o produto vetorial;
-> - Momento angular e sua conservação.
+>   - Velocidade angular e aceleração angular;
+>   - O corpo rígido em aceleração angular constante;
+>   - Energia cinética rotacional;
+>   - Torque e o produto vetorial;
+>   - Momento angular e sua conservação.
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
 > 2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALLIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:

@@ -7,7 +7,7 @@ tags:
 repo: https://github.com/pedroiff0/planilhador
 status: privado
 cssclasses:
-- page-layout
+  - page-layout
 created: 2026-09-14 11:17:03-03:00
 modified: 2026-09-30T13:05:50-03:00
 icon: lucide-notebookpen
