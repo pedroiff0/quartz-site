@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 - Capítulo 3.3
 created: 2026-09-08 15:33
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:47
 encrypted: true
 tags:
 - aula

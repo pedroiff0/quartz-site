@@ -2,7 +2,7 @@
 publish: false
 title: Aula 03 - Correção
 created: 2026-09-11 23:15
-modified: 2026-09-28 12:49
+modified: 2026-09-29 20:47
 encrypted: true
 tags:
 - aula
@@ -121,6 +121,7 @@ CAda saida é um mapa de karnough
 Capítulo 4 (novo tópico)
 
 Teste é no papel pro karnough
+
 
 | A   | B   | $V_1$ | $V_{M1}$ | $V_2$ | $V_{M2}$ |
 | --- | --- | ----- | -------- | ----- | -------- |

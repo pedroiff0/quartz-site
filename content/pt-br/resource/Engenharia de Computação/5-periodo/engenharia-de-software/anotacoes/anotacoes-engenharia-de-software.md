@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Engenharia De Software
 created: 2026-08-24 21:03
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 encrypted: true
 tags:
 - aula

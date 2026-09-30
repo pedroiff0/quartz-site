@@ -9,7 +9,7 @@ hl_materiais = os.path.join(hl_eng, '_materiais')
 qs_eng = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/Engenharia de Computação'
 qs_disciplinas = '/home/pedro/Repositorios/pessoal/quartz-site/content/assets/disciplinas'
 
-hl_escola = '/home/pedro/hardcore-life/04-recursos/02-areas/academico/cursos/escola-de-inverno-on'
+hl_escola = '/home/pedro/hardcore-life/04-recursos/cursos/escola-de-inverno-on'
 qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/escolainverno'
 
 EXCLUDED_DIR_NAMES = {

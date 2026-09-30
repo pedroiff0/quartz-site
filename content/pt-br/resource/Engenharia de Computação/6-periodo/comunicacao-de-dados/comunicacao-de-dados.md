@@ -2,7 +2,7 @@
 publish: false
 title: Comunicação de Dados
 created: 2026-07-18 12:00
-modified: 2026-09-29 15:01
+modified: 2026-09-29 20:47
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -13,7 +13,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Comunicacao De Dados|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Comunicacao De Dados|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Comunicacao De Dados|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Comunicacao De Dados|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
@@ -40,7 +40,7 @@ icon: lucide-book-open
 
 
 > [!tip]  Conteúdo Programático
-> - [x] **1. Transmissão de Dados** [[anotacoes/aula-01-capitulo-3-1|Aula 01]], [[anotacoes/aula-02-capitulo-3-3|Aula 02]], [[anotacoes/aula-03-capitulo-3-4|Aula 03]], [[esboco/esboco-estudo-cap-3-3-e-3-4|Esboço - Estudo Caps 3.3 e 3.4]]
+> - [x] **1. Transmissão de Dados** [[anotacoes/aula-01-capitulo-3-1|Aula 01]], [[anotacoes/aula-02-capitulo-3-3|Aula 02]], [[anotacoes/aula-03-capitulo-3-4|Aula 03]]
 >   - [x] Conceitos e Terminologias de Transmissão de Dados
 >   - [x] Transmissão de Dados Analógica [[anotacoes/aula-01-capitulo-3-1|Aula 01]]
 >   - [x] Transmissão de Dados Digital [[anotacoes/aula-02-capitulo-3-3|Aula 02]]
@@ -90,4 +90,3 @@ icon: lucide-book-open
 
 ## Anotações e Arquivos Didáticos
 - **[[Anotações/Anotações — Comunicacao De Dados|Anotações da Disciplina]]**
-- **[[esboco/esboco-estudo-cap-3-3-e-3-4|Esboço — Estudo Dirigido e Teste Rápido (Caps. 3.3 e 3.4)]]**

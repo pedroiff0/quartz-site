@@ -2,7 +2,7 @@
 publish: false
 title: Computação Paralela e Distribuída
 created: 2026-07-18 12:00
-modified: 2026-09-26 21:47
+modified: 2026-09-29 20:47
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -13,7 +13,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes-computacao-paralela-e-distribuida|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[anotacoes/atividades/atividades-computacao-paralela-e-distribuida|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Computacao Paralela E Distribuida|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Computacao Paralela E Distribuida|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
@@ -87,4 +87,4 @@ icon: lucide-book-open
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[anotacoes/anotacoes-computacao-paralela-e-distribuida|Anotações da Disciplina]]**
+- **[[Anotações/Anotações — Computacao Paralela E Distribuida|Anotações da Disciplina]]**

@@ -2,7 +2,7 @@
 publish: false
 title: trancas
 created: 2026-09-22 22:29
-modified: 2026-09-29 20:44
+modified: 2026-09-29 20:39
 tags:
 - recurso
 cssclasses:
@@ -85,14 +85,14 @@ Para cada disciplina que tranca outras, mostra o que ela bloqueia (dependentes).
   - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/computacao-grafica/computacao-grafica|77 - Computação Gráfica (CSECBJI.77)]]
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/4-periodo/calculo-iv/calculo-iv|31 - Cálculo IV (CSECBJI.31)]]** tranca as seguintes disciplinas:
-  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/processamento-de-sinais/processamento-de-sinais|83 - Processamento de Sinais (CSECBJI.83)]]
+  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/processamento-de-sinais/Processamento de Sinais|83 - Processamento de Sinais (CSECBJI.83)]]
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada|33 - Eletricidade Aplicada (CSECBJI.33)]]** tranca as seguintes disciplinas:
   - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/energia-e-eficiencia-energetica/energia-e-eficiencia-energetica|82 - Energia e Eficiência Energética (CSECBJI.82)]]
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos|34 - Projeto e Análise de Algoritmos (CSECBJI.34)]]** tranca as seguintes disciplinas:
   - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/geoprocessamento/geoprocessamento|84 - Geoprocessamento (CSECBJI.84)]]
-  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/inteligencia-artificial/inteligencia-artificial|90 - Inteligência Artificial (CSECBJI.90)]]
+  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/inteligencia-artificial/Inteligência Artificial|90 - Inteligência Artificial (CSECBJI.90)]]
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/5-periodo/modelagem-de-dados/modelagem-de-dados|35 - Modelagem de Dados (CSECBJI.35)]]** tranca as seguintes disciplinas:
   - [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/banco-de-dados/banco-de-dados|44 - Banco de Dados (CSECBJI.44)]]
@@ -120,10 +120,10 @@ Para cada disciplina que tranca outras, mostra o que ela bloqueia (dependentes).
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados|47 - Comunicação de Dados (CSECBJI.47)]]** tranca as seguintes disciplinas:
   - [[02-areas/academico/iff-engenharia-de-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i|55 - Redes de Computadores I (CSECBJI.55)]]
-  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/processamento-de-sinais/processamento-de-sinais|83 - Processamento de Sinais (CSECBJI.83)]]
+  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/processamento-de-sinais/Processamento de Sinais|83 - Processamento de Sinais (CSECBJI.83)]]
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii|51 - Programação Orientada a Objetos II (CSECBJI.51)]]** tranca as seguintes disciplinas:
-  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/desenvolvimento-web/desenvolvimento-web|79 - Desenvolvimento Web (CSECBJI.79)]]
+  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/desenvolvimento-web/Desenvolvimento Web|79 - Desenvolvimento Web (CSECBJI.79)]]
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores|52 - Organização de Computadores (CSECBJI.52)]]** tranca as seguintes disciplinas:
   - [[02-areas/academico/iff-engenharia-de-computacao/8-periodo/arquitetura-de-computadores/arquitetura-de-computadores|61 - Arquitetura de Computadores (CSECBJI.61)]]
@@ -135,12 +135,12 @@ Para cada disciplina que tranca outras, mostra o que ela bloqueia (dependentes).
 - **[[02-areas/academico/iff-engenharia-de-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i|55 - Redes de Computadores I (CSECBJI.55)]]** tranca as seguintes disciplinas:
   - [[02-areas/academico/iff-engenharia-de-computacao/8-periodo/redes-de-computadores-ii/redes-de-computadores-ii|59 - Redes de Computadores II (CSECBJI.59)]]
   - [[02-areas/academico/iff-engenharia-de-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos|71 - Sistemas Distribuídos (CSECBJI.71)]]
-  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos|86 - Algoritmos Distribuídos (CSECBJI.86)]]
+  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/algoritmos-distribuidos/Algoritmos Distribuídos|86 - Algoritmos Distribuídos (CSECBJI.86)]]
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i|56 - Sistemas Operacionais I (CSECBJI.56)]]** tranca as seguintes disciplinas:
   - [[02-areas/academico/iff-engenharia-de-computacao/8-periodo/sistemas-operacionais-ii/sistemas-operacionais-ii|63 - Sistemas Operacionais II (CSECBJI.63)]]
   - [[02-areas/academico/iff-engenharia-de-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos|71 - Sistemas Distribuídos (CSECBJI.71)]]
-  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos|86 - Algoritmos Distribuídos (CSECBJI.86)]]
+  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/algoritmos-distribuidos/Algoritmos Distribuídos|86 - Algoritmos Distribuídos (CSECBJI.86)]]
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/8-periodo/microcontroladores/microcontroladores|62 - Microcontroladores (CSECBJI.62)]]** tranca as seguintes disciplinas:
   - [[02-areas/academico/iff-engenharia-de-computacao/9-periodo/sistemas-embarcados/sistemas-embarcados|70 - Sistemas Embarcados (CSECBJI.70)]]
@@ -152,10 +152,10 @@ Para cada disciplina que tranca outras, mostra o que ela bloqueia (dependentes).
   - [[02-areas/academico/iff-engenharia-de-computacao/10-periodo/projeto-final-de-curso-ii/projeto-final-de-curso-ii|74 - Projeto Final de Curso II (CSECBJI.74)]]
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/eletivas/computacao-grafica/computacao-grafica|77 - Computação Gráfica (CSECBJI.77)]]** tranca as seguintes disciplinas:
-  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/processamento-de-imagens/processamento-de-imagens|78 - Processamento de Imagens (CSECBJI.78)]]
+  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/processamento-de-imagens/Processamento de Imagens|78 - Processamento de Imagens (CSECBJI.78)]]
 
-- **[[02-areas/academico/iff-engenharia-de-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos|86 - Algoritmos Distribuídos (CSECBJI.86)]]** tranca as seguintes disciplinas:
-  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/computacao-paralela-e-distribuida/computacao-paralela-e-distribuida|87 - Computação Paralela e Distribuída (CSECBJI.87)]]
+- **[[02-areas/academico/iff-engenharia-de-computacao/eletivas/algoritmos-distribuidos/Algoritmos Distribuídos|86 - Algoritmos Distribuídos (CSECBJI.86)]]** tranca as seguintes disciplinas:
+  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/computacao-paralela-e-distribuida/Computação Paralela e Distribuída|87 - Computação Paralela e Distribuída (CSECBJI.87)]]
 
 - **[[02-areas/academico/iff-engenharia-de-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i|88 - Pesquisa Operacional I (CSECBJI.88)]]** tranca as seguintes disciplinas:
-  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/pesquisa-operacional-ii/pesquisa-operacional-ii|89 - Pesquisa Operacional II (CSECBJI.89)]]
+  - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/pesquisa-operacional-ii/Pesquisa Operacional II|89 - Pesquisa Operacional II (CSECBJI.89)]]

@@ -2,7 +2,7 @@
 publish: false
 title: Computação Gráfica
 created: 2026-07-18 12:00
-modified: 2026-09-26 21:47
+modified: 2026-09-29 20:47
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -13,7 +13,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes-computacao-grafica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[anotacoes/atividades/atividades-computacao-grafica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Computacao Grafica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Computacao Grafica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
@@ -84,4 +84,4 @@ icon: lucide-book-open
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[anotacoes/anotacoes-computacao-grafica|Anotações da Disciplina]]**
+- **[[Anotações/Anotações — Computacao Grafica|Anotações da Disciplina]]**

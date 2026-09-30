@@ -2,12 +2,13 @@
 publish: true
 title: FEBRACE 2023
 created: 2023-03-20 13:04
-modified: 2026-09-28 22:25
+modified: 2026-09-29 20:47
 tags:
 - midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
+published: 2026-07-26 10:13:20.769000-03:00
 photoFolder: febrace2023
 type: blog
 ---

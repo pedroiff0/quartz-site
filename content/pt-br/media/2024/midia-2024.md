@@ -2,12 +2,13 @@
 publish: true
 title: 2024
 created: 2026-07-23 13:04
-modified: 2026-09-28 22:25
+modified: 2026-09-29 20:47
 tags:
 - midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
+published: 2026-07-26 12:36:37.263000-03:00
 ---
 
 > [!note] Resumo

@@ -3,12 +3,13 @@ publish: false
 title: Arqueologia Galáctica e Populações Estelares
 encrypted: true
 created: 2026-07-23 13:04
-modified: 2026-09-29 20:07
+modified: 2026-09-29 21:06
 tags:
 - academico
 cssclasses:
 - page-layout
 icon: lucide-book-open
+published: 2026-07-26 11:50:01.646000-03:00
 order: 5
 curso: "[[aula-17-gradientes-de-metalicidade-e-amr]]"
 ---

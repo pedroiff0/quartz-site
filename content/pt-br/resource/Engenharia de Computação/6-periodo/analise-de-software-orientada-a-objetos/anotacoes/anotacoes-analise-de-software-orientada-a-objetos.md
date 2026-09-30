@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Analise De Software Orientada A Objetos
 created: 2026-08-24 21:03
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:47
 encrypted: true
 tags:
 - aula

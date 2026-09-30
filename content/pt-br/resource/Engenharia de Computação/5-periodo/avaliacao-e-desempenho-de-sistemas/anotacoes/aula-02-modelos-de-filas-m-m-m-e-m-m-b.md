@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 - Modelos de Filas M/M/m e M/M/B
 created: 2026-04-01 14:49
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 encrypted: true
 tags:
 - aula

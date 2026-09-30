@@ -2,7 +2,7 @@
 publish: false
 title: Tarefas do 6º Período
 created: 2026-08-24 18:56
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:47
 tags:
 - disciplina
 - engenharia-de-computacao

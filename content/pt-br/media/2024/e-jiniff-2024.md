@@ -2,12 +2,13 @@
 publish: true
 title: e-JINIFF 2024
 created: 2024-08-23 13:04
-modified: 2026-09-28 22:25
+modified: 2026-09-29 20:47
 tags:
 - midia
 cssclasses:
 - page-layout
 icon: lucide-newspaper
+published: 2026-07-26 10:13:37.621000-03:00
 photoFolder: ejiniff2024
 type: blog
 ---

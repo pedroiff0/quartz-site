@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Eletronica Digital
 created: 2026-08-24 21:03
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 encrypted: true
 tags:
 - aula
@@ -26,5 +26,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | [[aula-01-portas-logicas\|Aula 01 - Portas Lógicas]] | 24/08/2026 |
 | [[aula-02-mapas-de-karnough\|Aula 02 - Mapas de Karnough]] | 31/08/2026 |
 | [[aula-03-correcao\|Aula 03 - Correção]] | 11/09/2026 |
-| [[aula-04-prova\|Atividade 04]] | 28/09/2026 |
+| [[aula-04\|Aula 04]] | 14/09/2026 |
 | [[aula-05\|Aula 05]] | 21/09/2026 |

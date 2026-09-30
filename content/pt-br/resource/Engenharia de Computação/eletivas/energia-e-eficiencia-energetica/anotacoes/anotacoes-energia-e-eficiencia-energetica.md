@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Energia E Eficiencia Energetica
 created: 2026-08-24 21:03
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 encrypted: true
 tags:
 - aula
@@ -11,7 +11,7 @@ cssclasses:
 - page-layout
 - cards
 icon: lucide-book-open
-discipline: "[[energia-e-eficiencia-energetica]]"
+discipline: "[[Energia e Eficiência Energética]]"
 ---
 
 # Anotações de Quadro & Conteúdo das Aulas
@@ -22,4 +22,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[Anotações — Energia E Eficiencia Energetica\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-energia-e-eficiencia-energetica\|Anotações — Energia E Eficiencia Energetica]] | 24/08/2026 |

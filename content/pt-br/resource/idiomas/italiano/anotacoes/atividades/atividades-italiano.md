@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: Atividades — Italiano
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:07
+modified: 2026-09-29 20:47
 tags:
 - atividade
 - italiano
@@ -12,7 +12,6 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
-curso: "[[italiano]]"
 ---
 
 # Caderno de Atividades & Prática — Italiano

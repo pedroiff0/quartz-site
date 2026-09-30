@@ -2,7 +2,7 @@
 publish: false
 title: 1º Período
 created: 2026-07-21 12:00
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:47
 tags:
 - disciplina
 - engenharia-de-computacao

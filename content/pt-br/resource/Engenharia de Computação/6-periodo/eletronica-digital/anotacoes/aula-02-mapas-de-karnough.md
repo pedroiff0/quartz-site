@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 - Mapas de Karnough
 created: 2026-08-31 17:02
-modified: 2026-09-26 21:49
+modified: 2026-09-29 20:47
 encrypted: true
 tags:
 - aula

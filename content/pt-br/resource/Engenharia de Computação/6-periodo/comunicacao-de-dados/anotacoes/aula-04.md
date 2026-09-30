@@ -6,7 +6,7 @@ tags:
 - aula
 - engenharia-de-computacao
 created: 2026-09-15 14:00
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 cssclasses:
 - page-layout
 icon: lucide-book-open
@@ -35,7 +35,6 @@ discipline: "[[comunicacao-de-dados]]"
 ## Anotações do Quadro & Conteúdo
 
 ### Tópico :
-- Capítulo 3.5 e 3.6
 - 
 
 ### Tópico :
@@ -50,5 +49,4 @@ discipline: "[[comunicacao-de-dados]]"
 ---
 
 > [!question]- Dúvidas & Exercícios Recomendados
-> - [ ] Atividades 16 ao 32 pág. 96 e 97; 📅 2026-10-06 
-> - [ ] Atividades 33 ao 48 pág 98 e 99; 📅 2026-10-13 
+> - [ ] academico exercicio 

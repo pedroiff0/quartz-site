@@ -2,7 +2,7 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Organizacao De Computadores
 created: 2026-08-29 11:58
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 tags:
 - atividade
 - trabalho

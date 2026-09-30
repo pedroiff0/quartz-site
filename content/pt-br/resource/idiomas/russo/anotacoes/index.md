@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: "Anotações"
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:07
+modified: 2026-09-29 20:47
 tags:
 - anexo
 - russo
@@ -12,7 +12,6 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
-curso: "[[russo]]"
 ---
 
 # Repositório de Anotações — Russo

@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Sistemas Operacionais I
 created: 2026-08-24 21:03
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 encrypted: true
 tags:
 - aula
@@ -23,3 +23,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[anotacoes-sistemas-operacionais-i\|Anotações — Sistemas Operacionais I]] | 24/08/2026 |
+| [[aula-01-apresentacao-so\|Aula 01 - Apresentação SO]] | 03/09/2026 |

@@ -2,13 +2,13 @@
 publish: true
 title: Recomendações
 created: 2026-09-07 16:47
-modified: 2026-09-28 21:08
+modified: 2026-09-29 20:47
 tags:
-  - pessoal
+- pessoal
 icon: lucide-user
 aliases:
-  - Recomendações
-  - recomendacoes
+- Recomendações
+- recomendacoes
 cssclasses:
   - page-layout
 ---

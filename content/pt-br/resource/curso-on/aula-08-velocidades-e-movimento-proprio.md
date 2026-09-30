@@ -2,7 +2,8 @@
 publish: false
 title: Aula 08 — Velocidades e Movimento Próprio
 created: 2026-07-23 12:36
-modified: 2026-09-29 20:07
+modified: 2026-09-29 21:06
+published: 2026-07-26 11:33:09.983000-03:00
 tags:
 - curso-on
 - arqueologia-galactica

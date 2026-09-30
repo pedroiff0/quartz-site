@@ -2,7 +2,7 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Banco De Dados
 created: 2026-08-29 11:58
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 tags:
 - atividade
 - trabalho
@@ -26,7 +26,6 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 | :--- | :---: |
 | [[atividades-banco-de-dados\|Atividades, Trabalhos & Provas — Banco De Dados]] | 29/08/2026 |
 | [[trabalho-normalizacao-e-dependencias-funcionais\|Trabalho - Normalização e Dependências Funcionais]] | 07/09/2026 |
-| [[trabalho-projeto-semestre\|Aula projeto-semestre]] | 29/09/2026 |
 
 ---
 

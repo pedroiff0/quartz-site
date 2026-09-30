@@ -3,7 +3,7 @@ publish: false
 title: Grego
 status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:47
 tags:
 - idioma
 - grego

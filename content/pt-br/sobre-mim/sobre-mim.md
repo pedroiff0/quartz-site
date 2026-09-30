@@ -2,12 +2,13 @@
 publish: true
 title: Sobre Mim
 created: 2026-07-18 20:34
-modified: 2026-09-28 22:25
+modified: 2026-09-29 20:47
 tags:
 - pessoal
 cssclasses:
 - page-layout
 icon: lucide-user
+published: 2026-07-26 12:36:37.263000-03:00
 ---
 
 > [!info] Bem-vindo(a)!

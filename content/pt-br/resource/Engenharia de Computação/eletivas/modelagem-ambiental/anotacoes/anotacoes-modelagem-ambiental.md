@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Modelagem Ambiental
 created: 2026-08-24 21:03
-modified: 2026-09-29 20:04
+modified: 2026-09-29 20:47
 encrypted: true
 tags:
 - aula
@@ -11,7 +11,6 @@ cssclasses:
 - page-layout
 - cards
 icon: lucide-book-open
-discipline: "[[modelagem-ambiental]]"
 ---
 
 # Anotações de Quadro & Conteúdo das Aulas
@@ -22,4 +21,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[Anotações — Modelagem Ambiental\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-modelagem-ambiental\|Anotações — Modelagem Ambiental]] | 24/08/2026 |

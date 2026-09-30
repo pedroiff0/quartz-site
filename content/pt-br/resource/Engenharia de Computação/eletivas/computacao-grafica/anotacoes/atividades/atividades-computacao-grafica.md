@@ -2,7 +2,7 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Computacao Grafica
 created: 2026-08-29 11:58
-modified: 2026-09-29 20:04
+modified: 2026-09-29 20:47
 tags:
 - atividade
 - trabalho
@@ -11,7 +11,6 @@ cssclasses:
 - page-layout
 - cards
 icon: lucide-book-open
-discipline: "[[computacao-grafica]]"
 ---
 
 # Atividades, Trabalhos & Avaliações

@@ -8,9 +8,8 @@ tags:
 - frances
 - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:07
+modified: 2026-09-29 20:47
 icon: lucide-book-open
-curso: "[[frances]]"
 cssclasses:
   - page-layout
 ---

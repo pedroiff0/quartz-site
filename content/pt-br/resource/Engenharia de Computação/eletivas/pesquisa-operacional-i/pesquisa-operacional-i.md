@@ -2,7 +2,7 @@
 publish: false
 title: Pesquisa Operacional I
 created: 2026-07-18 12:00
-modified: 2026-09-26 21:47
+modified: 2026-09-29 20:47
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -13,7 +13,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes-pesquisa-operacional-i|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[anotacoes/atividades/atividades-pesquisa-operacional-i|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Pesquisa Operacional I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Pesquisa Operacional I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
@@ -82,4 +82,4 @@ icon: lucide-book-open
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[anotacoes/anotacoes-pesquisa-operacional-i|Anotações da Disciplina]]**
+- **[[Anotações/Anotações — Pesquisa Operacional I|Anotações da Disciplina]]**

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 - Filosofia da Tecnologia (Alberto Cupani)
 created: 2026-09-08 17:00
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:47
 encrypted: true
 tags:
 - aula

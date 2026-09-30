@@ -3,7 +3,7 @@ publish: false
 title: Aula 01 - Apresentação
 encrypted: true
 created: 2026-09-16 14:03
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 tags:
 - aula
 - engenharia-de-computacao
@@ -39,9 +39,14 @@ cssclasses:
 	- 4 Grupos de 3 pessoas
 	- Seminário 2 dias (30min/grupo)
 	- 50% nota indv. 50% grupo;
+	- 
+
 
 ### Revisão:
-* UML
+
+
+
+
 ---
 
 ## Resumo Conceitual
@@ -52,10 +57,13 @@ cssclasses:
 ---
 
 ## Esquemas & Anotações Visuais (excalidraw)
+<!-- No iPad: insira desenhos com 'excalidraw: Create and embed new drawing' para desenhar com Apple Pencil -->
 
 ---
 
 ## Dúvidas & Exercícios Recomendados
+- [ ] academico exercicio
+---
 
 > [!question]- Dúvidas & Exercícios Recomendados
-> - 
+> - [ ] academico exercicio 

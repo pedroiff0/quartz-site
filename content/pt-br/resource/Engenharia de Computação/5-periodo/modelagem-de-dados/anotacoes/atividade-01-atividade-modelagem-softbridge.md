@@ -2,7 +2,7 @@
 publish: false
 title: Atividade 01 - Atividade Modelagem - SoftBridge
 created: 2026-04-11 14:49
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 encrypted: true
 tags:
 - atividade
@@ -158,7 +158,7 @@ Uma parcela não existe sem o respectivo contrato, e só é identificada pela co
    Todas são fortes, exceto Parcelas, que depende de Contrato para que seja identificada. Tarefas deveria ser fraca se não fosse a regra de negócio que ela é única em todo o sistema.
 
 6. Desenhar o diagrama entidade-relacionamento conceitual correspondente:
-   ![[conceitual-1.png]]
+   ![[Conceitual_1.png]]
 
 ## Dúvidas & Resolução
 

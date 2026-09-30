@@ -2,7 +2,7 @@
 publish: false
 title: Trabalho 2 - Filosofia da Tecnologia
 created: 2026-09-07 21:05
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:47
 encrypted: true
 tags:
 - atividade

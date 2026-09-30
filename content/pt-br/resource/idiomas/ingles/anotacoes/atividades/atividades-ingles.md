@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: Atividades — Inglês
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:07
+modified: 2026-09-29 20:47
 tags:
 - atividade
 - ingles
@@ -12,7 +12,6 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
-curso: "[[ingles]]"
 ---
 
 # Caderno de Atividades & Prática — Inglês

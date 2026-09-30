@@ -2,7 +2,7 @@
 publish: false
 title: Sociedade e Tecnologia
 created: 2026-07-18 12:00
-modified: 2026-09-26 21:47
+modified: 2026-09-29 20:47
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -13,7 +13,7 @@ icon: lucide-book-open
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes-sociedade-e-tecnologia|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[anotacoes/atividades/atividades-sociedade-e-tecnologia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Sociedade E Tecnologia|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sociedade E Tecnologia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
 
 
@@ -75,4 +75,4 @@ icon: lucide-book-open
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[anotacoes/anotacoes-sociedade-e-tecnologia|Anotações da Disciplina]]**
+- **[[Anotações/Anotações — Sociedade E Tecnologia|Anotações da Disciplina]]**

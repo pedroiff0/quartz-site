@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Computacao Grafica
 created: 2026-08-24 21:03
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 encrypted: true
 tags:
 - aula
@@ -11,7 +11,7 @@ cssclasses:
 - page-layout
 - cards
 icon: lucide-book-open
-discipline: "[[computacao-grafica]]"
+discipline: "[[Computação Gráfica]]"
 ---
 
 # Anotações de Quadro & Conteúdo das Aulas
@@ -22,4 +22,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[Anotações — Computacao Grafica\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-computacao-grafica\|Anotações — Computacao Grafica]] | 24/08/2026 |

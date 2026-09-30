@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Introdução à Filosofia (Miguel Reale)
 created: 2026-09-01 17:00
-modified: 2026-09-22 22:41
+modified: 2026-09-29 20:47
 encrypted: true
 tags:
 - aula

@@ -2,7 +2,7 @@
 publish: false
 title: Anotações — Desenvolvimento Web
 created: 2026-08-24 21:03
-modified: 2026-09-29 20:04
+modified: 2026-09-29 21:05
 encrypted: true
 tags:
 - aula
@@ -22,4 +22,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[Anotações — Desenvolvimento Web\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-desenvolvimento-web\|Anotações — Desenvolvimento Web]] | 24/08/2026 |
