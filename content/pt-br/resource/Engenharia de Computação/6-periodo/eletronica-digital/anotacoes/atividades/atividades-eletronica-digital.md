@@ -24,6 +24,7 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 | Atividade / Trabalho | Data |
 | :--- | :---: |
+| [[atividade-1-prova\|Aula 04]] | 14/09/2026 |
 | [[atividades-eletronica-digital\|Atividades, Trabalhos & Provas — Eletronica Digital]] | 29/08/2026 |
 
 ---

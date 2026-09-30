@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: "Anotações"
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - anexo
 - frances
@@ -26,4 +26,4 @@ icon: lucide-book-open
 | [Aula 03 — Números, Nacionalidades e Apresentação Pessoal](aula-03-numeros-e-apresentacao-pessoal) | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
--  [[Atividades/Atividades — Francês|Acessar Caderno de Atividades de Francês]]
+-  [[02-areas/academico/idiomas/frances/anotacoes/atividades/atividades-frances|Acessar Caderno de Atividades de Francês]]

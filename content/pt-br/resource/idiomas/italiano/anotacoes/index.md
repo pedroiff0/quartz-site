@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: "Anotações"
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - anexo
 - italiano
@@ -26,4 +26,4 @@ icon: lucide-book-open
 | [Aula 03 — Números de 1 a 100, Artigos e Autoapresentação](aula-03-numeros-e-apresentacao-pessoal) | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
--  [[Atividades/Atividades — Italiano|Acessar Caderno de Atividades de Italiano]]
+-  [[02-areas/academico/idiomas/italiano/anotacoes/atividades/atividades-italiano|Acessar Caderno de Atividades de Italiano]]

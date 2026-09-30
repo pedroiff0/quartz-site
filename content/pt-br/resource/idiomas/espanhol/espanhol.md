@@ -3,7 +3,7 @@ publish: false
 title: Espanhol
 status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - idioma
 - espanhol
@@ -14,6 +14,8 @@ icon: lucide-book-open
 ---
 
 # Curso de Espanhol
+
+> [!abstract] [[02-areas/academico/idiomas/idiomas-hub|← Voltar ao Hub Central de Idiomas]]
 
 > [!info] Informações Gerais do Idioma
 > - **Família Linguística:** Indo-Europeia (Românica)
@@ -48,8 +50,9 @@ icon: lucide-book-open
 ---
 
 ## Anotações e Acesso às Lições
--  **Repositório de Anotações**
--  **[[KANBAN|Quadro Kanban de Aprendizado de Espanhol]]**
+- [[02-areas/academico/idiomas/espanhol/anotacoes/anotacoes-espanhol|Repositório de Anotações de Espanhol]]
+- [[02-areas/academico/idiomas/espanhol/anotacoes/atividades/atividades-espanhol|Caderno de Atividades & Treino]]
+-  **[[02-areas/academico/idiomas/espanhol/KANBAN|Quadro Kanban de Aprendizado de Espanhol]]**
 
 ## Aulas & Lições
 

@@ -3,7 +3,7 @@ publish: false
 title: Mandarim
 status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - idioma
 - mandarim
@@ -14,6 +14,8 @@ icon: lucide-book-open
 ---
 
 # Curso de Mandarim
+
+> [!abstract] [[02-areas/academico/idiomas/idiomas-hub|← Voltar ao Hub Central de Idiomas]]
 
 > [!info] Informações Gerais do Idioma
 > - **Família Linguística:** Sino-Tibetana (Língua Sínica)
@@ -48,8 +50,9 @@ icon: lucide-book-open
 ---
 
 ## Anotações e Acesso às Lições
--  **Repositório de Anotações**
--  **[[KANBAN|Quadro Kanban de Aprendizado de Mandarim]]**
+- [[02-areas/academico/idiomas/mandarim/anotacoes/anotacoes-mandarim|Repositório de Anotações de Mandarim]]
+- [[02-areas/academico/idiomas/mandarim/anotacoes/atividades/atividades-mandarim|Caderno de Atividades & Treino]]
+-  **[[02-areas/academico/idiomas/mandarim/KANBAN|Quadro Kanban de Aprendizado de Mandarim]]**
 
 ## Aulas & Lições
 

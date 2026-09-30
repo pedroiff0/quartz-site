@@ -2,13 +2,14 @@
 publish: false
 title: Aula 02 - Mapas de Karnough
 created: 2026-08-31 17:02
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:10
 encrypted: true
 tags:
-- aula
-- engenharia-de-computacao
+  - aula
+  - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
+  - cards
 icon: lucide-book-open
 ---
 

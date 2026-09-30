@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: Anotações — Francês
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - anexo
 - frances
@@ -15,6 +15,8 @@ icon: lucide-book-open
 ---
 
 # Repositório de Anotações — Francês
+
+> [!quote] [[02-areas/academico/idiomas/idiomas-hub|Hub de Idiomas]] / [[02-areas/academico/idiomas/frances/frances|← Curso de Francês]]
 
 > [!info] Hub de Navegação de Lições
 > Todas as anotações detalhadas de aula, exercícios e flashcards deste idioma.
@@ -28,4 +30,4 @@ icon: lucide-book-open
 | [[aula-03-numeros-e-apresentacao-pessoal\|Aula 03 — Números, Nacionalidades e Apresentação Pessoal]] | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
--  [[Atividades/Atividades — Francês|Acessar Caderno de Atividades de Francês]]
+-  [[02-areas/academico/idiomas/frances/anotacoes/atividades/atividades-frances|Acessar Caderno de Atividades de Francês]]

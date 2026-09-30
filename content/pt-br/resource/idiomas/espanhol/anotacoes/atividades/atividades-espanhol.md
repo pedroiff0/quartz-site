@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: Atividades — Espanhol
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - atividade
 - espanhol
@@ -15,6 +15,8 @@ icon: lucide-book-open
 ---
 
 # Caderno de Atividades & Prática — Espanhol
+
+> [!quote] [[02-areas/academico/idiomas/idiomas-hub|Hub de Idiomas]] / [[02-areas/academico/idiomas/espanhol/espanhol|← Curso de Espanhol]]
 
 > [!todo]+  Metas Semanais de Treino
 > - [ ]  3 sessões semanais de Shadowing / Escuta ativa (15 min)

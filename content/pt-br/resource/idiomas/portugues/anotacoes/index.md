@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: "Anotações"
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - anexo
 - portugues
@@ -26,4 +26,4 @@ icon: lucide-book-open
 | [Aula 03 — Coesão, Coerência e Estrutura de Redação Dissertativo-Argumentativa](aula-03-numeros-e-apresentacao-pessoal) | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
--  [[Atividades/Atividades — Português|Acessar Caderno de Atividades de Português]]
+-  [[02-areas/academico/idiomas/portugues/anotacoes/atividades/atividades-portugues|Acessar Caderno de Atividades de Português]]

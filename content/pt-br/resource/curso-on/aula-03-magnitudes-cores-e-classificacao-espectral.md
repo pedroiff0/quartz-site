@@ -2,13 +2,14 @@
 publish: false
 title: Aula 03 — Magnitudes, Cores e Classificação Espectral
 created: 2026-07-23 12:36
-modified: 2026-09-28 22:43
+modified: 2026-09-30 10:35
 tags:
 - curso-on
 - arqueologia-galactica
 - populacoes-estelares
 - fotometria
 cssclasses:
+  - page-layout
 - page-grid
 - center-images
 encrypted: true

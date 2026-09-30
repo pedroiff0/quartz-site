@@ -3,7 +3,7 @@ publish: false
 title: Grego
 status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - idioma
 - grego
@@ -14,6 +14,8 @@ icon: lucide-book-open
 ---
 
 # Curso de Grego
+
+> [!abstract] [[02-areas/academico/idiomas/idiomas-hub|← Voltar ao Hub Central de Idiomas]]
 
 > [!info] Informações Gerais do Idioma
 > - **Família Linguística:** Indo-Europeia (Ramo Helênico)
@@ -48,8 +50,9 @@ icon: lucide-book-open
 ---
 
 ## Anotações e Acesso às Lições
--  **Repositório de Anotações**
--  **[[KANBAN|Quadro Kanban de Aprendizado de Grego]]**
+- [[02-areas/academico/idiomas/grego/anotacoes/anotacoes-grego|Repositório de Anotações de Grego]]
+- [[02-areas/academico/idiomas/grego/anotacoes/atividades/atividades-grego|Caderno de Atividades & Treino]]
+-  **[[02-areas/academico/idiomas/grego/KANBAN|Quadro Kanban de Aprendizado de Grego]]**
 
 ## Aulas & Lições
 

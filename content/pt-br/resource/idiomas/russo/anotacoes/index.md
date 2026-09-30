@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: "Anotações"
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - anexo
 - russo
@@ -26,4 +26,4 @@ icon: lucide-book-open
 | [Aula 03 — Números de 1 a 100, Sistema de Casos (Introdução) e Apresentação](aula-03-numeros-e-apresentacao-pessoal) | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
--  [[Atividades/Atividades — Russo|Acessar Caderno de Atividades de Russo]]
+-  [[02-areas/academico/idiomas/russo/anotacoes/atividades/atividades-russo|Acessar Caderno de Atividades de Russo]]

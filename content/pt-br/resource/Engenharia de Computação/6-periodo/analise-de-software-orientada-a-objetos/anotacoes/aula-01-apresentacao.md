@@ -3,7 +3,7 @@ publish: false
 title: Aula 01 - Apresentação
 encrypted: true
 created: 2026-09-16 14:03
-modified: 2026-09-28 22:43
+modified: 2026-09-30 10:35
 tags:
 - aula
 - engenharia-de-computacao

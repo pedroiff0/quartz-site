@@ -2,7 +2,7 @@
 publish: false
 title: Comunicação de Dados
 created: 2026-07-18 12:00
-modified: 2026-09-28 12:58
+modified: 2026-09-30 09:22
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -90,3 +90,5 @@ icon: lucide-book-open
 
 ## Anotações e Arquivos Didáticos
 - **[[Anotações/Anotações — Comunicacao De Dados|Anotações da Disciplina]]**
+- **[[esboco/esboco-estudo-cap-3-3-e-3-4|Esboço — Estudo Dirigido e Teste Rápido (Caps. 3.3 e 3.4)]]**
+- **[[esboco/esboco-atividades-capitulo-3-forouzan|Esboço — Resolução das 48 Atividades do Cap. 3 (Forouzan)]]**

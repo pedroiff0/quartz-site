@@ -1,45 +1,49 @@
 ---
 publish: false
 kanban-plugin: board
-title: Quadro Kanban — Curso de Italiano
+title: Quadro Kanban — Trilha Poliglota de Idiomas
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - kanban
-- italiano
 - idioma
+- educacao
 icon: lucide-book-open
 cssclasses:
   - page-layout
 ---
 
-## Backlog de Lições
+## Idioma Foco do Momento
 
-- [ ] [[02-areas/academico/idiomas/italiano/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] italiano aula
-- [ ] Lição 04 — Família, Adjetivos e Descrição Física italiano aula
-- [ ] Lição 05 — Alimentos, Restaurante e Pedidos italiano aula
-- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária italiano aula
+- [ ] Escolher a primeira língua para avanço diário (ex: Francês ou Mandarim) idioma foco
 
-## A Aprender (Esta Semana)
+## A Fazer (Esta Semana)
 
-- [ ] [[02-areas/academico/idiomas/italiano/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] italiano aula
+- [ ] Concluir as Aulas 01 e 02 do idioma em foco idioma aula
+- [ ] Praticar fonética e gravação de áudio comparativo (shadowing) idioma fala
 
-## Em Estudo (Hoje)
+## Em Estudo Diário
 
-- [ ] [[02-areas/academico/idiomas/italiano/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] italiano aula
+- [ ] Revisão diária de cartões no Anki (15 a 20 min) idioma anki
+- [ ] Imersão passiva com podcast nativo da língua alvo idioma escuta
 
-## Flashcards & Anki
+## Próximos Idiomas na Fila
 
-- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki italiano anki
-- [ ] Revisão diária dos cartões italiano anki
+- [ ] Francês — Consolidação A1 frances idioma
+- [ ] Italiano — Início de fundamentos italiano idioma
+- [ ] Mandarim — Fixação dos 4 tons e Pinyin mandarim idioma
+- [ ] Alemão — Treino de pronúncia e gêneros der/die/das alemao idioma
+- [ ] Japonês — Memorização do Hiragana e Katakana japones idioma
+- [ ] Grego — Leitura fluida do alfabeto grego grego idioma
+- [ ] Espanhol — Eliminação de portunhol e falsos amigos espanhol idioma
+- [ ] Inglês — Refinamento de redação acadêmica para papers ingles pesquisa
+- [ ] Português — Regência, concordância e redação formal portugues norma-culta
+- [ ] Russo — Leitura cirílica e redução vocálica russo idioma
 
-## Imersão & Escuta
+## Concluído & Nível Atingido
 
-- [ ] Ouvir áudio nativo de 5 minutos sobre saudações italiano escuta
-
-## Lições Dominadas
-
-- [x] Configuração da estrutura do curso de Italiano italiano
+- [x] Estruturação da esteira curricular de 10 idiomas no vault idioma harness
+- [x] Criação dos templates e lições fundamentais idioma template
 
 %% kanban:settings
 ```

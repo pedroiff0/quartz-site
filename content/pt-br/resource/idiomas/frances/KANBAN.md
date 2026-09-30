@@ -1,12 +1,12 @@
 ---
 publish: false
 kanban-plugin: board
-title: Quadro Kanban — Curso de Inglês
+title: Quadro Kanban — Curso de Francês
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - kanban
-- ingles
+- frances
 - idioma
 icon: lucide-book-open
 cssclasses:
@@ -15,31 +15,31 @@ cssclasses:
 
 ## Backlog de Lições
 
-- [ ] [[02-areas/academico/idiomas/ingles/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] ingles aula
-- [ ] Lição 04 — Família, Adjetivos e Descrição Física ingles aula
-- [ ] Lição 05 — Alimentos, Restaurante e Pedidos ingles aula
-- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária ingles aula
+- [ ] [[02-areas/academico/idiomas/frances/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] frances aula
+- [ ] Lição 04 — Família, Adjetivos e Descrição Física frances aula
+- [ ] Lição 05 — Alimentos, Restaurante e Pedidos frances aula
+- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária frances aula
 
 ## A Aprender (Esta Semana)
 
-- [ ] [[02-areas/academico/idiomas/ingles/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] ingles aula
+- [ ] [[02-areas/academico/idiomas/frances/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] frances aula
 
 ## Em Estudo (Hoje)
 
-- [ ] [[02-areas/academico/idiomas/ingles/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] ingles aula
+- [ ] [[02-areas/academico/idiomas/frances/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] frances aula
 
 ## Flashcards & Anki
 
-- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki ingles anki
-- [ ] Revisão diária dos cartões ingles anki
+- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki frances anki
+- [ ] Revisão diária dos cartões frances anki
 
 ## Imersão & Escuta
 
-- [ ] Ouvir áudio nativo de 5 minutos sobre saudações ingles escuta
+- [ ] Ouvir áudio nativo de 5 minutos sobre saudações frances escuta
 
 ## Lições Dominadas
 
-- [x] Configuração da estrutura do curso de Inglês ingles
+- [x] Configuração da estrutura do curso de Francês frances
 
 %% kanban:settings
 ```

@@ -1,12 +1,12 @@
 ---
 publish: false
 kanban-plugin: board
-title: Quadro Kanban — Curso de Português
+title: Quadro Kanban — Curso de Italiano
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - kanban
-- portugues
+- italiano
 - idioma
 icon: lucide-book-open
 cssclasses:
@@ -15,31 +15,31 @@ cssclasses:
 
 ## Backlog de Lições
 
-- [ ] [[02-areas/academico/idiomas/portugues/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] portugues aula
-- [ ] Lição 04 — Família, Adjetivos e Descrição Física portugues aula
-- [ ] Lição 05 — Alimentos, Restaurante e Pedidos portugues aula
-- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária portugues aula
+- [ ] [[02-areas/academico/idiomas/italiano/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] italiano aula
+- [ ] Lição 04 — Família, Adjetivos e Descrição Física italiano aula
+- [ ] Lição 05 — Alimentos, Restaurante e Pedidos italiano aula
+- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária italiano aula
 
 ## A Aprender (Esta Semana)
 
-- [ ] [[02-areas/academico/idiomas/portugues/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] portugues aula
+- [ ] [[02-areas/academico/idiomas/italiano/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] italiano aula
 
 ## Em Estudo (Hoje)
 
-- [ ] [[02-areas/academico/idiomas/portugues/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] portugues aula
+- [ ] [[02-areas/academico/idiomas/italiano/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] italiano aula
 
 ## Flashcards & Anki
 
-- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki portugues anki
-- [ ] Revisão diária dos cartões portugues anki
+- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki italiano anki
+- [ ] Revisão diária dos cartões italiano anki
 
 ## Imersão & Escuta
 
-- [ ] Ouvir áudio nativo de 5 minutos sobre saudações portugues escuta
+- [ ] Ouvir áudio nativo de 5 minutos sobre saudações italiano escuta
 
 ## Lições Dominadas
 
-- [x] Configuração da estrutura do curso de Português portugues
+- [x] Configuração da estrutura do curso de Italiano italiano
 
 %% kanban:settings
 ```

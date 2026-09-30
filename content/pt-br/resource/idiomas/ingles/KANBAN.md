@@ -1,12 +1,12 @@
 ---
 publish: false
 kanban-plugin: board
-title: Quadro Kanban — Curso de Russo
+title: Quadro Kanban — Curso de Inglês
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - kanban
-- russo
+- ingles
 - idioma
 icon: lucide-book-open
 cssclasses:
@@ -15,31 +15,31 @@ cssclasses:
 
 ## Backlog de Lições
 
-- [ ] [[02-areas/academico/idiomas/russo/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] russo aula
-- [ ] Lição 04 — Família, Adjetivos e Descrição Física russo aula
-- [ ] Lição 05 — Alimentos, Restaurante e Pedidos russo aula
-- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária russo aula
+- [ ] [[02-areas/academico/idiomas/ingles/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] ingles aula
+- [ ] Lição 04 — Família, Adjetivos e Descrição Física ingles aula
+- [ ] Lição 05 — Alimentos, Restaurante e Pedidos ingles aula
+- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária ingles aula
 
 ## A Aprender (Esta Semana)
 
-- [ ] [[02-areas/academico/idiomas/russo/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] russo aula
+- [ ] [[02-areas/academico/idiomas/ingles/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] ingles aula
 
 ## Em Estudo (Hoje)
 
-- [ ] [[02-areas/academico/idiomas/russo/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] russo aula
+- [ ] [[02-areas/academico/idiomas/ingles/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] ingles aula
 
 ## Flashcards & Anki
 
-- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki russo anki
-- [ ] Revisão diária dos cartões russo anki
+- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki ingles anki
+- [ ] Revisão diária dos cartões ingles anki
 
 ## Imersão & Escuta
 
-- [ ] Ouvir áudio nativo de 5 minutos sobre saudações russo escuta
+- [ ] Ouvir áudio nativo de 5 minutos sobre saudações ingles escuta
 
 ## Lições Dominadas
 
-- [x] Configuração da estrutura do curso de Russo russo
+- [x] Configuração da estrutura do curso de Inglês ingles
 
 %% kanban:settings
 ```

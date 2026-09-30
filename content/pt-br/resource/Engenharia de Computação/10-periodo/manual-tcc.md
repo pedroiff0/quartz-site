@@ -2,12 +2,14 @@
 publish: false
 title: 20260708 - ManualTCC
 created: 2026-07-08 13:34
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses: None
 icon: lucide-book-open
+cssclasses:
+  - page-layout
 ---
 
 # MANUAL DE UTILIZAÇÃO — CLASSE `ifftese` (TCC do IFF)

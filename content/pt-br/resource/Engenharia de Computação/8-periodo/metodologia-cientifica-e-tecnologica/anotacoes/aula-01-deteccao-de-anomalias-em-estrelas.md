@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Detecção de Anomalias em Estrelas
 created: 2026-04-06 14:49
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 encrypted: true
 tags:
 - aula

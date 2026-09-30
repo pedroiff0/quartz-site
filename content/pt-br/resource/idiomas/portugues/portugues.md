@@ -3,7 +3,7 @@ publish: false
 title: Português
 status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - idioma
 - portugues
@@ -14,6 +14,8 @@ icon: lucide-book-open
 ---
 
 # Curso de Português
+
+> [!abstract] [[02-areas/academico/idiomas/idiomas-hub|← Voltar ao Hub Central de Idiomas]]
 
 > [!info] Informações Gerais do Idioma
 > - **Família Linguística:** Indo-Europeia (Românica)
@@ -48,8 +50,9 @@ icon: lucide-book-open
 ---
 
 ## Anotações e Acesso às Lições
--  **Repositório de Anotações**
--  **[[KANBAN|Quadro Kanban de Aprendizado de Português]]**
+- [[02-areas/academico/idiomas/portugues/anotacoes/anotacoes-portugues|Repositório de Anotações de Português]]
+- [[02-areas/academico/idiomas/portugues/anotacoes/atividades/atividades-portugues|Caderno de Atividades & Treino]]
+-  **[[02-areas/academico/idiomas/portugues/KANBAN|Quadro Kanban de Aprendizado de Português]]**
 
 ## Aulas & Lições
 

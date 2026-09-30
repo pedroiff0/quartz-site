@@ -3,7 +3,7 @@ publish: false
 title: Russo
 status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - idioma
 - russo
@@ -14,6 +14,8 @@ icon: lucide-book-open
 ---
 
 # Curso de Russo
+
+> [!abstract] [[02-areas/academico/idiomas/idiomas-hub|← Voltar ao Hub Central de Idiomas]]
 
 > [!info] Informações Gerais do Idioma
 > - **Família Linguística:** Indo-Europeia (Eslava Oriental)
@@ -48,8 +50,9 @@ icon: lucide-book-open
 ---
 
 ## Anotações e Acesso às Lições
--  **Repositório de Anotações**
--  **[[KANBAN|Quadro Kanban de Aprendizado de Russo]]**
+- [[02-areas/academico/idiomas/russo/anotacoes/anotacoes-russo|Repositório de Anotações de Russo]]
+- [[02-areas/academico/idiomas/russo/anotacoes/atividades/atividades-russo|Caderno de Atividades & Treino]]
+-  **[[02-areas/academico/idiomas/russo/KANBAN|Quadro Kanban de Aprendizado de Russo]]**
 
 ## Aulas & Lições
 

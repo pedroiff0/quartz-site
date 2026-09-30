@@ -6,7 +6,7 @@ tags:
 - pipeline-guia
 - meta
 created: 2026-09-14 10:29
-modified: 2026-09-29 21:06
+modified: 2026-09-30 10:35
 icon: lucide-book-open
 pesquisa: "[[journal-clubs-indice]]"
 cssclasses:

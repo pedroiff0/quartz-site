@@ -2,7 +2,7 @@
 publish: false
 title: Quadro Kanban — 6º Período EngComp
 created: 2026-09-14 11:53
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - kanban
 - academico

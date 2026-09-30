@@ -1,49 +1,45 @@
 ---
 publish: false
 kanban-plugin: board
-title: Quadro Kanban — Trilha Poliglota de Idiomas
+title: Quadro Kanban — Curso de Russo
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - kanban
+- russo
 - idioma
-- educacao
 icon: lucide-book-open
 cssclasses:
   - page-layout
 ---
 
-## Idioma Foco do Momento
+## Backlog de Lições
 
-- [ ] Escolher a primeira língua para avanço diário (ex: Francês ou Mandarim) idioma foco
+- [ ] [[02-areas/academico/idiomas/russo/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] russo aula
+- [ ] Lição 04 — Família, Adjetivos e Descrição Física russo aula
+- [ ] Lição 05 — Alimentos, Restaurante e Pedidos russo aula
+- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária russo aula
 
-## A Fazer (Esta Semana)
+## A Aprender (Esta Semana)
 
-- [ ] Concluir as Aulas 01 e 02 do idioma em foco idioma aula
-- [ ] Praticar fonética e gravação de áudio comparativo (shadowing) idioma fala
+- [ ] [[02-areas/academico/idiomas/russo/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] russo aula
 
-## Em Estudo Diário
+## Em Estudo (Hoje)
 
-- [ ] Revisão diária de cartões no Anki (15 a 20 min) idioma anki
-- [ ] Imersão passiva com podcast nativo da língua alvo idioma escuta
+- [ ] [[02-areas/academico/idiomas/russo/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] russo aula
 
-## Próximos Idiomas na Fila
+## Flashcards & Anki
 
-- [ ] Francês — Consolidação A1 frances idioma
-- [ ] Italiano — Início de fundamentos italiano idioma
-- [ ] Mandarim — Fixação dos 4 tons e Pinyin mandarim idioma
-- [ ] Alemão — Treino de pronúncia e gêneros der/die/das alemao idioma
-- [ ] Japonês — Memorização do Hiragana e Katakana japones idioma
-- [ ] Grego — Leitura fluida do alfabeto grego grego idioma
-- [ ] Espanhol — Eliminação de portunhol e falsos amigos espanhol idioma
-- [ ] Inglês — Refinamento de redação acadêmica para papers ingles pesquisa
-- [ ] Português — Regência, concordância e redação formal portugues norma-culta
-- [ ] Russo — Leitura cirílica e redução vocálica russo idioma
+- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki russo anki
+- [ ] Revisão diária dos cartões russo anki
 
-## Concluído & Nível Atingido
+## Imersão & Escuta
 
-- [x] Estruturação da esteira curricular de 10 idiomas no vault idioma harness
-- [x] Criação dos templates e lições fundamentais idioma template
+- [ ] Ouvir áudio nativo de 5 minutos sobre saudações russo escuta
+
+## Lições Dominadas
+
+- [x] Configuração da estrutura do curso de Russo russo
 
 %% kanban:settings
 ```

@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: "Anotações"
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - anexo
 - espanhol
@@ -26,4 +26,4 @@ icon: lucide-book-open
 | [Aula 03 — Números de 0 a 100, Falsos Cognatos e Autoapresentação](aula-03-numeros-e-apresentacao-pessoal) | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
--  [[Atividades/Atividades — Espanhol|Acessar Caderno de Atividades de Espanhol]]
+-  [[02-areas/academico/idiomas/espanhol/anotacoes/atividades/atividades-espanhol|Acessar Caderno de Atividades de Espanhol]]

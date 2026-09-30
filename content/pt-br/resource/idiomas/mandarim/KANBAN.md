@@ -1,12 +1,12 @@
 ---
 publish: false
 kanban-plugin: board
-title: Quadro Kanban — Curso de Japonês
+title: Quadro Kanban — Curso de Mandarim
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - kanban
-- japones
+- mandarim
 - idioma
 icon: lucide-book-open
 cssclasses:
@@ -15,31 +15,31 @@ cssclasses:
 
 ## Backlog de Lições
 
-- [ ] [[02-areas/academico/idiomas/japones/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] japones aula
-- [ ] Lição 04 — Família, Adjetivos e Descrição Física japones aula
-- [ ] Lição 05 — Alimentos, Restaurante e Pedidos japones aula
-- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária japones aula
+- [ ] [[02-areas/academico/idiomas/mandarim/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] mandarim aula
+- [ ] Lição 04 — Família, Adjetivos e Descrição Física mandarim aula
+- [ ] Lição 05 — Alimentos, Restaurante e Pedidos mandarim aula
+- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária mandarim aula
 
 ## A Aprender (Esta Semana)
 
-- [ ] [[02-areas/academico/idiomas/japones/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] japones aula
+- [ ] [[02-areas/academico/idiomas/mandarim/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] mandarim aula
 
 ## Em Estudo (Hoje)
 
-- [ ] [[02-areas/academico/idiomas/japones/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] japones aula
+- [ ] [[02-areas/academico/idiomas/mandarim/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] mandarim aula
 
 ## Flashcards & Anki
 
-- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki japones anki
-- [ ] Revisão diária dos cartões japones anki
+- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki mandarim anki
+- [ ] Revisão diária dos cartões mandarim anki
 
 ## Imersão & Escuta
 
-- [ ] Ouvir áudio nativo de 5 minutos sobre saudações japones escuta
+- [ ] Ouvir áudio nativo de 5 minutos sobre saudações mandarim escuta
 
 ## Lições Dominadas
 
-- [x] Configuração da estrutura do curso de Japonês japones
+- [x] Configuração da estrutura do curso de Mandarim mandarim
 
 %% kanban:settings
 ```

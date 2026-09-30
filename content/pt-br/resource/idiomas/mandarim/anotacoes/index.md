@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: "Anotações"
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - anexo
 - mandarim
@@ -26,4 +26,4 @@ icon: lucide-book-open
 | [Aula 03 — Números de 0 a 99, Países e Autoapresentação](aula-03-numeros-e-apresentacao-pessoal) | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
--  [[Atividades/Atividades — Mandarim|Acessar Caderno de Atividades de Mandarim]]
+-  [[02-areas/academico/idiomas/mandarim/anotacoes/atividades/atividades-mandarim|Acessar Caderno de Atividades de Mandarim]]

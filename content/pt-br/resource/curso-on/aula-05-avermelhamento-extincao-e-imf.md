@@ -2,7 +2,7 @@
 publish: false
 title: Aula 05 — Avermelhamento, Extinção e IMF
 created: 2026-07-23 12:36
-modified: 2026-09-28 22:43
+modified: 2026-09-30 10:35
 tags:
 - curso-on
 - arqueologia-galactica
@@ -10,6 +10,7 @@ tags:
 - meio-interestelar
 - extincao-interestelar
 cssclasses:
+  - page-layout
 - page-grid
 - center-images
 encrypted: true

@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: Anotações — Inglês
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - anexo
 - ingles
@@ -15,6 +15,8 @@ icon: lucide-book-open
 ---
 
 # Repositório de Anotações — Inglês
+
+> [!quote] [[02-areas/academico/idiomas/idiomas-hub|Hub de Idiomas]] / [[02-areas/academico/idiomas/ingles/ingles|← Curso de Inglês]]
 
 > [!info] Hub de Navegação de Lições
 > Todas as anotações detalhadas de aula, exercícios e flashcards deste idioma.
@@ -28,4 +30,4 @@ icon: lucide-book-open
 | [[aula-03-numeros-e-apresentacao-pessoal\|Aula 03 — Números, Rotina e Pitch de Apresentação Pessoal (Elevator Pitch)]] | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
--  [[Atividades/Atividades — Inglês|Acessar Caderno de Atividades de Inglês]]
+-  [[02-areas/academico/idiomas/ingles/anotacoes/atividades/atividades-ingles|Acessar Caderno de Atividades de Inglês]]

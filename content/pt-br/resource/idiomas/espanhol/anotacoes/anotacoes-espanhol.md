@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: Anotações — Espanhol
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - anexo
 - espanhol
@@ -15,6 +15,8 @@ icon: lucide-book-open
 ---
 
 # Repositório de Anotações — Espanhol
+
+> [!quote] [[02-areas/academico/idiomas/idiomas-hub|Hub de Idiomas]] / [[02-areas/academico/idiomas/espanhol/espanhol|← Curso de Espanhol]]
 
 > [!info] Hub de Navegação de Lições
 > Todas as anotações detalhadas de aula, exercícios e flashcards deste idioma.
@@ -28,4 +30,4 @@ icon: lucide-book-open
 | [[aula-03-numeros-e-apresentacao-pessoal\|Aula 03 — Números de 0 a 100, Falsos Cognatos e Autoapresentação]] | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
--  [[Atividades/Atividades — Espanhol|Acessar Caderno de Atividades de Espanhol]]
+-  [[02-areas/academico/idiomas/espanhol/anotacoes/atividades/atividades-espanhol|Acessar Caderno de Atividades de Espanhol]]

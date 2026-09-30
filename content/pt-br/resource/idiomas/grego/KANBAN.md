@@ -1,12 +1,12 @@
 ---
 publish: false
 kanban-plugin: board
-title: Quadro Kanban — Curso de Francês
+title: Quadro Kanban — Curso de Grego
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - kanban
-- frances
+- grego
 - idioma
 icon: lucide-book-open
 cssclasses:
@@ -15,31 +15,31 @@ cssclasses:
 
 ## Backlog de Lições
 
-- [ ] [[02-areas/academico/idiomas/frances/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] frances aula
-- [ ] Lição 04 — Família, Adjetivos e Descrição Física frances aula
-- [ ] Lição 05 — Alimentos, Restaurante e Pedidos frances aula
-- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária frances aula
+- [ ] [[02-areas/academico/idiomas/grego/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] grego aula
+- [ ] Lição 04 — Família, Adjetivos e Descrição Física grego aula
+- [ ] Lição 05 — Alimentos, Restaurante e Pedidos grego aula
+- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária grego aula
 
 ## A Aprender (Esta Semana)
 
-- [ ] [[02-areas/academico/idiomas/frances/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] frances aula
+- [ ] [[02-areas/academico/idiomas/grego/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] grego aula
 
 ## Em Estudo (Hoje)
 
-- [ ] [[02-areas/academico/idiomas/frances/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] frances aula
+- [ ] [[02-areas/academico/idiomas/grego/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] grego aula
 
 ## Flashcards & Anki
 
-- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki frances anki
-- [ ] Revisão diária dos cartões frances anki
+- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki grego anki
+- [ ] Revisão diária dos cartões grego anki
 
 ## Imersão & Escuta
 
-- [ ] Ouvir áudio nativo de 5 minutos sobre saudações frances escuta
+- [ ] Ouvir áudio nativo de 5 minutos sobre saudações grego escuta
 
 ## Lições Dominadas
 
-- [x] Configuração da estrutura do curso de Francês frances
+- [x] Configuração da estrutura do curso de Grego grego
 
 %% kanban:settings
 ```

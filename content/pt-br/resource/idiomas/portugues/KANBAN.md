@@ -1,12 +1,12 @@
 ---
 publish: false
 kanban-plugin: board
-title: Quadro Kanban — Curso de Alemão
+title: Quadro Kanban — Curso de Português
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - kanban
-- alemao
+- portugues
 - idioma
 icon: lucide-book-open
 cssclasses:
@@ -15,31 +15,31 @@ cssclasses:
 
 ## Backlog de Lições
 
-- [ ] [[02-areas/academico/idiomas/alemao/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] alemao aula
-- [ ] Lição 04 — Família, Adjetivos e Descrição Física alemao aula
-- [ ] Lição 05 — Alimentos, Restaurante e Pedidos alemao aula
-- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária alemao aula
+- [ ] [[02-areas/academico/idiomas/portugues/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] portugues aula
+- [ ] Lição 04 — Família, Adjetivos e Descrição Física portugues aula
+- [ ] Lição 05 — Alimentos, Restaurante e Pedidos portugues aula
+- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária portugues aula
 
 ## A Aprender (Esta Semana)
 
-- [ ] [[02-areas/academico/idiomas/alemao/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] alemao aula
+- [ ] [[02-areas/academico/idiomas/portugues/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] portugues aula
 
 ## Em Estudo (Hoje)
 
-- [ ] [[02-areas/academico/idiomas/alemao/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] alemao aula
+- [ ] [[02-areas/academico/idiomas/portugues/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] portugues aula
 
 ## Flashcards & Anki
 
-- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki alemao anki
-- [ ] Revisão diária dos cartões alemao anki
+- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki portugues anki
+- [ ] Revisão diária dos cartões portugues anki
 
 ## Imersão & Escuta
 
-- [ ] Ouvir áudio nativo de 5 minutos sobre saudações alemao escuta
+- [ ] Ouvir áudio nativo de 5 minutos sobre saudações portugues escuta
 
 ## Lições Dominadas
 
-- [x] Configuração da estrutura do curso de Alemão alemao
+- [x] Configuração da estrutura do curso de Português portugues
 
 %% kanban:settings
 ```

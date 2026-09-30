@@ -2,7 +2,7 @@
 publish: false
 title: Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 created: 2026-07-25 12:36
-modified: 2026-09-28 22:43
+modified: 2026-09-30 10:35
 tags:
 - curso-on
 - arqueologia-galactica
@@ -11,6 +11,7 @@ tags:
 - barra-galactica
 - estrutura-do-disco
 cssclasses:
+  - page-layout
 - page-grid
 - center-images
 encrypted: true

@@ -1,12 +1,12 @@
 ---
 publish: false
 kanban-plugin: board
-title: Quadro Kanban — Curso de Mandarim
+title: Quadro Kanban — Curso de Espanhol
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 10:35
 tags:
 - kanban
-- mandarim
+- espanhol
 - idioma
 icon: lucide-book-open
 cssclasses:
@@ -15,31 +15,31 @@ cssclasses:
 
 ## Backlog de Lições
 
-- [ ] [[02-areas/academico/idiomas/mandarim/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] mandarim aula
-- [ ] Lição 04 — Família, Adjetivos e Descrição Física mandarim aula
-- [ ] Lição 05 — Alimentos, Restaurante e Pedidos mandarim aula
-- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária mandarim aula
+- [ ] [[02-areas/academico/idiomas/espanhol/anotacoes/aula-03-numeros-e-apresentacao-pessoal|Aula 03 — Números e Apresentação Pessoal]] espanhol aula
+- [ ] Lição 04 — Família, Adjetivos e Descrição Física espanhol aula
+- [ ] Lição 05 — Alimentos, Restaurante e Pedidos espanhol aula
+- [ ] Lição 06 — Horas, Dias da Semana e Rotina Diária espanhol aula
 
 ## A Aprender (Esta Semana)
 
-- [ ] [[02-areas/academico/idiomas/mandarim/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] mandarim aula
+- [ ] [[02-areas/academico/idiomas/espanhol/anotacoes/aula-02-pronomes-e-verbos-essenciais|Aula 02 — Pronomes e Verbos Essenciais]] espanhol aula
 
 ## Em Estudo (Hoje)
 
-- [ ] [[02-areas/academico/idiomas/mandarim/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] mandarim aula
+- [ ] [[02-areas/academico/idiomas/espanhol/anotacoes/aula-01-alfabeto-fonetica-e-saudacoes|Aula 01 — Alfabeto, Fonética e Saudações]] espanhol aula
 
 ## Flashcards & Anki
 
-- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki mandarim anki
-- [ ] Revisão diária dos cartões mandarim anki
+- [ ] Cadastrar vocabulário da Aula 01 no baralho Anki espanhol anki
+- [ ] Revisão diária dos cartões espanhol anki
 
 ## Imersão & Escuta
 
-- [ ] Ouvir áudio nativo de 5 minutos sobre saudações mandarim escuta
+- [ ] Ouvir áudio nativo de 5 minutos sobre saudações espanhol escuta
 
 ## Lições Dominadas
 
-- [x] Configuração da estrutura do curso de Mandarim mandarim
+- [x] Configuração da estrutura do curso de Espanhol espanhol
 
 %% kanban:settings
 ```

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
 created: 2026-07-25 12:36
-modified: 2026-09-28 22:43
+modified: 2026-09-30 10:35
 tags:
 - curso-on
 - arqueologia-galactica
@@ -10,6 +10,7 @@ tags:
 - historia-da-via-lactea
 - gaia-sausage-enceladus
 cssclasses:
+  - page-layout
 - page-grid
 - center-images
 encrypted: true

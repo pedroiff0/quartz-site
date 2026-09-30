@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: Atividades — Russo
 created: 2026-09-14 11:54
-modified: 2026-09-29 20:47
+modified: 2026-09-30 11:13
 tags:
 - atividade
 - russo
@@ -15,6 +15,8 @@ icon: lucide-book-open
 ---
 
 # Caderno de Atividades & Prática — Russo
+
+> [!quote] [[02-areas/academico/idiomas/idiomas-hub|Hub de Idiomas]] / [[02-areas/academico/idiomas/russo/russo|← Curso de Russo]]
 
 > [!todo]+  Metas Semanais de Treino
 > - [ ]  3 sessões semanais de Shadowing / Escuta ativa (15 min)
