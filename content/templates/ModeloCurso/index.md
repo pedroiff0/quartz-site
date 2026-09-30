@@ -28,10 +28,10 @@ Bem-vindo ao repositório oficial da disciplina **[NOME DA DISCIPLINA OU CURSO]*
 
 > [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
 > ### Pré-requisitos Exigidos:
-> - [[pt-br/academic/courses/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Y - Disciplina Anterior]]
+> - [[pt-br/academic/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Y - Disciplina Anterior]]
 > 
 > ### Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/academic/courses/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Z - Disciplina Posterior]]
+> - [[pt-br/academic/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Z - Disciplina Posterior]]
 
 ---
 

@@ -21,7 +21,7 @@ cssclasses:
 
 ## Ma participation
 
- Si vous êtes venu ici scanner le code QR de mon affiche, vous êtes les bienvenus! L'affiche présentée à cette école est une mise à jour de ce que j'ai apporté au SAB 2025, à Caxambu (MG) - avec la cartographie non supervisée via t-SNE et les projections les plus récentes. Voir le texte complet de la présentation [[pt-br/academic/courses/escolainverno/apresentacao|Présentation de la recherche]] et l'état actuel [[fr/research/anomaly-detection|Détection d'anomalies dans les données de Gaia]].
+ Si vous êtes venu ici scanner le code QR de mon affiche, vous êtes les bienvenus! L'affiche présentée à cette école est une mise à jour de ce que j'ai apporté au SAB 2025, à Caxambu (MG) - avec la cartographie non supervisée via t-SNE et les projections les plus récentes. Voir le texte complet de la présentation [[pt-br/academic/escola-de-inverno/apresentacao|Présentation de la recherche]] et l'état actuel [[fr/research/anomaly-detection|Détection d'anomalies dans les données de Gaia]].
 
 > [!note] Avis
 > Mon deuxième congrès d'astronomie en moins d'un an ! C'était une occasion très légale et importante, le contact avec les différents domaines de recherche a montré les nombreuses possibilités de suivre la recherche, le réseautage avec les enseignants / chercheurs dans mon domaine de recherche a également grandement enrichi le progrès de mon travail en collaboration avec les enseignants [Dr. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja) et [Dr. Maria Luiza Linhares Dantas](https://www.mlldantas.com)
@@ -38,7 +38,7 @@ cssclasses:
 
 ## Références et corrections
 
-- Notes en classe complète, par minicurso:[[pt-br/academic/courses/escolainverno|École d'hiver (ON 2026)]]
+- Notes en classe complète, par minicurso:[[pt-br/academic/escola-de-inverno|École d'hiver (ON 2026)]]
 - [[fr/research/anomaly-detection|Détection d'anomalies dans les données de Gaia]]- enquête complète derrière l'affiche
 - [[fr/media/2025/sab-2025|SAB 2025]]- version précédente de la même affiche
 

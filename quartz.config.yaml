@@ -183,6 +183,11 @@ plugins:
           const name = node.slugSegment;
           if (name === "tags") return false;
           if (name === "resource" || name === "recursos") return false;
+          if (!node.isFolder) {
+            const segs = String(node.slug ?? "").split("/").filter(Boolean);
+            const norm = (x) => decodeURIComponent(x).normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-");
+            if (segs.length >= 2 && norm(segs[segs.length - 1]) === norm(segs[segs.length - 2])) return false;
+          }
           const path = window.location.pathname;
           const languages = ["en", "pt-br", "es", "fr"];
           const currentLang = languages.find((l) => path.includes(`/${l}/`)) ?? "pt-br";

@@ -137,11 +137,11 @@ Para navegar mi trabajo, explora las secciones del sitio (en portugués/inglés)
     <img src="/resource/meta/illustrations/research.svg" alt="Investigación" />
     <div class="slide-caption">Investigación</div>
   </a>
-  <a href="/pt-br/academic/courses" class="carousel-slide">
+  <a href="/pt-br/academic" class="carousel-slide">
     <img src="/resource/meta/illustrations/resource.svg" alt="Recursos" />
     <div class="slide-caption">Recursos</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação" class="carousel-slide">
     <img src="/resource/meta/illustrations/classes.svg" alt="Asignaturas" />
     <div class="slide-caption">Asignaturas</div>
   </a>
@@ -154,7 +154,7 @@ Para navegar mi trabajo, explora las secciones del sitio (en portugués/inglés)
 Los enlaces que aparecen a continuación solo están disponibles actualmente en portugués.
 
 - [[pt-br/research/|Investigación]] — Conoce mis proyectos actuales y publicaciones.
-- [[pt-br/academic/courses/|Recursos]] — Materiales, scripts y herramientas útiles que he desarrollado o utilizo.
+- [[pt-br/academic/|Recursos]] — Materiales, scripts y herramientas útiles que he desarrollado o utilizo.
 - [[pt-br/media/|Medios]] — Participaciones en eventos, ferias y presentaciones.
 
 Este sitio se escribe primero en **portugués (Brasil)** y se traduce al inglés a medida que el tiempo lo permite — el español es el idioma más reciente en incorporarse, así que todavía queda mucho por traducir. Si notaste algo que falta o está desactualizado, puedes abrir un [issue en el repositorio](https://github.com/pedroiff0/quartz-site/issues), o [hacer clic aquí para abrir uno ya completado desde la plantilla de traducción](https://github.com/pedroiff0/quartz-site/issues/new?template=traducao.yml).

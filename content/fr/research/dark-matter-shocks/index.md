@@ -76,7 +76,7 @@ cssclasses:
 - [[fr/media/2023/mostratec-2023|MOSTRATEC 2023]]- couverture de la présentation de ce projet
 - [[fr/research/anomaly-detection|Détection d'anomalies dans les données de Gaia]]- un autre projet de recherche en astronomie, également orienté par la dynamique / cinématique des systèmes gravitationnels
 - [[fr/research/satellite-trail-removal|Simulation de l'impact des satellites sur les observations astronomiques]]- prochain projet, également avec une approche computationnelle appliquée aux données astronomiques
-- [[pt-br/academic/courses/curso-on/aula-05-avermelhamento-extincao-e-imf|Cours ON - Classe 05]]- un autre contexte de masse non-claire / matière noire dans la galaxie
+- [[pt-br/academic/curso-on/aula-05-avermelhamento-extincao-e-imf|Cours ON - Classe 05]]- un autre contexte de masse non-claire / matière noire dans la galaxie
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

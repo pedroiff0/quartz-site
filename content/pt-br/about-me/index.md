@@ -247,11 +247,11 @@ Para navegar pelo meu trabalho, explore as seções deste site:
     <img src="/resource/meta/illustrations/research.svg" alt="Pesquisa" />
     <div class="slide-caption">Pesquisa</div>
   </a>
-  <a href="/pt-br/academic/courses/" class="carousel-slide">
+  <a href="/pt-br/academic/" class="carousel-slide">
     <img src="/resource/meta/illustrations/resource.svg" alt="Recursos" />
     <div class="slide-caption">Recursos</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/" class="carousel-slide">
     <img src="/resource/meta/illustrations/classes.svg" alt="Disciplinas" />
     <div class="slide-caption">Disciplinas</div>
   </a>
@@ -262,5 +262,5 @@ Para navegar pelo meu trabalho, explore as seções deste site:
 </div>
 
 - [Pesquisa](/pt-br/research/) — Conheça meus projetos atuais.
-- [Recursos](/pt-br/academic/courses/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
+- [Recursos](/pt-br/academic/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
 - [Mídia](/pt-br/media/) — Participações em eventos, feiras e apresentações.

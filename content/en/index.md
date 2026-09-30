@@ -151,7 +151,7 @@ To navigate my work, explore the sections of this site:
 The links below are currently available only in Portuguese:
 
 - [[pt-br/research/|Research]] — Learn about my current projects and publications.
-- [[pt-br/academic/courses/|Resources]] — Materials, scripts, and useful tools I've developed or use.
+- [[pt-br/academic/|Resources]] — Materials, scripts, and useful tools I've developed or use.
 - [[pt-br/media/|Media]] — Participations in events, fairs, and presentations.
 
 This site is written in two languages: all content is first written in **Portuguese (Brazil)** and translated to English as time allows — so not every page has an English version yet. If you noticed something missing or outdated in translation, feel free to open an [issue in the repository](https://github.com/pedroiff0/quartz-site/issues), or [click here to open one pre-filled from the translation template](https://github.com/pedroiff0/quartz-site/issues/new?template=traducao.yml).

@@ -59,7 +59,7 @@ Este trabalho foi publicado como:
 
 > ANDRADE, P. H. R. et al. *Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4*. Boletim da Sociedade Astronômica Brasileira, 2025.
 
-E apresentado como pôster na **SAB 2025**, na **78ª Reunião Anual da SBPC (2026)** e nesta **Escola de Inverno do Observatório Nacional (2026)** — ver [[pt-br/academic/courses/escolainverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] para o texto completo dessa apresentação.
+E apresentado como pôster na **SAB 2025**, na **78ª Reunião Anual da SBPC (2026)** e nesta **Escola de Inverno do Observatório Nacional (2026)** — ver [[pt-br/academic/escola-de-inverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] para o texto completo dessa apresentação.
 
 ---
 
@@ -134,4 +134,4 @@ Resumo das principais decisões metodológicas tomadas ao longo do projeto, a pa
 
 ## Referências e correlatos
 
-- [[pt-br/academic/courses/escolainverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] — texto de preparação para apresentar a Etapa 1 (Banner SBPC 2026 e Banner desta Escola de Inverno).
+- [[pt-br/academic/escola-de-inverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] — texto de preparação para apresentar a Etapa 1 (Banner SBPC 2026 e Banner desta Escola de Inverno).

@@ -25,7 +25,7 @@ cssclasses:
     <img src="/resource/meta/illustrations/informatica.svg" alt="Simulando o Impacto de Satélites em Observações Astronômicas" />
     <div class="slide-caption">Impacto de Satélites em Observações</div>
   </a>
-  <a href="/pt-br/research/relatex" class="carousel-slide">
+  <a href="/pt-br/projects/academic/relatex" class="carousel-slide">
     <img src="/resource/meta/illustrations/toolkit.svg" alt="ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF" />
     <div class="slide-caption">ReLaTeX (Classe LaTeX)</div>
   </a>
@@ -56,7 +56,7 @@ Meu trabalho está na interseção entre **métodos computacionais** e **problem
 - [[pt-br/research/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — Construindo um pipeline de aprendizado de máquina para encontrar objetos estelares anômalos no Gaia e em levantamentos complementares.
 - [[pt-br/research/dark-matter-shocks|Entendendo a Matéria Escura a partir de Choques Extragalácticos]] — Testando a acurácia de um método de Monte Carlo para datar colisões de aglomerados de galáxias, como proxy indireto para o comportamento da matéria escura.
 - [[pt-br/research/satellite-trail-removal|Simulando o Impacto de Satélites em Observações Astronômicas]] — Um algoritmo de IA para remover rastros de satélites artificiais de imagens astronômicas, recuperando 99,7% da informação perdida.
-- [[pt-br/research/relatex|ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF]] — A classe `ifftese.cls` e o pacote `macros.sty`, automatizando o cumprimento das normas ABNT em trabalhos acadêmicos do IFF.
+- [[pt-br/projects/academic/relatex|ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF]] — A classe `ifftese.cls` e o pacote `macros.sty`, automatizando o cumprimento das normas ABNT em trabalhos acadêmicos do IFF.
 
 ## Leituras
 

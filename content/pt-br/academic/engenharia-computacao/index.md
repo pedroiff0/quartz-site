@@ -51,47 +51,47 @@ Bem-vindo ao portal completo da matriz curricular, ementário, fluxo de período
 Navegue interativamente por cada um dos 10 períodos e disciplinas eletivas da grade curricular:
 
 <div class="media-carousel">
-  <a href="/pt-br/academic/courses/engenharia-de-computação/1-periodo" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/1-periodo" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="1º Período" />
     <div class="slide-caption">1º Período</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/2-periodo" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/2-periodo" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="2º Período" />
     <div class="slide-caption">2º Período</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/3-periodo" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/3-periodo" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="3º Período" />
     <div class="slide-caption">3º Período</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/4-periodo" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/4-periodo" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="4º Período" />
     <div class="slide-caption">4º Período</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/5-periodo" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/5-periodo" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="5º Período" />
     <div class="slide-caption">5º Período</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/6-periodo" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/6-periodo" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="6º Período" />
     <div class="slide-caption">6º Período</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/7-periodo" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/7-periodo" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="7º Período" />
     <div class="slide-caption">7º Período</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/8-periodo" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/8-periodo" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="8º Período" />
     <div class="slide-caption">8º Período</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/9-periodo" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/9-periodo" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="9º Período" />
     <div class="slide-caption">9º Período</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/10-periodo" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/10-periodo" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="10º Período" />
     <div class="slide-caption">10º Período</div>
   </a>
-  <a href="/pt-br/academic/courses/engenharia-de-computação/eletivas" class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-de-computação/eletivas" class="carousel-slide">
     <img src="/99-meta/attachments/resource/meta/illustrations/classes.svg" alt="Eletivas (optativas)" />
     <div class="slide-caption">Eletivas (optativas)</div>
   </a>
@@ -282,7 +282,7 @@ O aluno deve integralizar carga horária optativa escolhendo entre o rol de disc
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="/pt-br/academic/courses/engenharia-de-computação" class="btn btn-primary"> Voltar à Página Principal de Engenharia de Computação</a>
+  <a href="/pt-br/academic/engenharia-de-computação" class="btn btn-primary"> Voltar à Página Principal de Engenharia de Computação</a>
 </div>
 
 ---
@@ -688,7 +688,7 @@ As disciplinas abaixo são as mais críticas do curso em termos de dependências
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="/pt-br/academic/courses/engenharia-de-computação" class="btn btn-primary"> Voltar à Página Principal de Engenharia de Computação</a>
+  <a href="/pt-br/academic/engenharia-de-computação" class="btn btn-primary"> Voltar à Página Principal de Engenharia de Computação</a>
 </div>
 
 ---

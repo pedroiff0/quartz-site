@@ -12,7 +12,7 @@ Este diretório contém o **modelo padrão oficial** para criação e estrutura�
 ## Como Utilizar para Criar um Novo Curso
 
 1. **Copiar esta pasta**:
-   Copie a pasta `content/templates/ModeloCurso` para a localização desejada dentro de `content[[pt-br/academic/courses|Resource]]/` (exemplo: `content[[pt-br/academic/engenharia-computacao/3-periodo/programacao-orientada-a-objeto|Programacao Orientada A Objeto]]s`).
+   Copie a pasta `content/templates/ModeloCurso` para a localização desejada dentro de `content[[pt-br/academic|Resource]]/` (exemplo: `content[[pt-br/academic/engenharia-computacao/3-periodo/programacao-orientada-a-objeto|Programacao Orientada A Objeto]]s`).
 
 2. **Editar o `index.md`**:
    - Atualize os metadados do frontmatter (`title`, `tags`).

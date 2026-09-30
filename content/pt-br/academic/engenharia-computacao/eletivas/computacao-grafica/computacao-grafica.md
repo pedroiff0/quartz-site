@@ -1,76 +1,72 @@
 ---
 publish: false
 title: Computação Gráfica
-created: 2026-07-18 12:00
-modified: 2026-09-29 20:47
+created: '2026-07-18 12:00:00-03:00'
+modified: 2026-09-30T13:54:29-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
 - page-layout
-cover: 99-meta/attachments/resource/meta/illustrations/computacao.svg
+cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
+sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Computacao Grafica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Computacao Grafica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> **[[Anotações/Anotações — Computacao Grafica|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Computacao Grafica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-
-
-> [!info]  Informações Gerais da Disciplina
+> [!info] Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.77`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-
-> [!note]  Ementa e Objetivos Pedagógicos
+> [!note] Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Dispositivos gráficos. Primitivas gráficas. Modelagem geométrica. Sistemas de coordenadas e transformações 2D, 3D. Algoritmos de projeção e recorte/visibilidade. Implementação de algoritmos. Tópicos avançados.
 > **Objetivos**
 > - Apresentar uma visão geral das técnicas de computação gráfica. Capacitar os alunos a projetar soluções envolvendo o uso dessas técnicas.
 
-
-> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
+> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[02-areas/academico/iff-engenharia-de-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
-> - [[02-areas/academico/iff-engenharia-de-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii|CSECBJI.30 - Algoritmos e Estruturas de Dados II]]
+> - [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
+> - [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii|CSECBJI.30 - Algoritmos e Estruturas de Dados II]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/processamento-de-imagens/processamento-de-imagens|CSECBJI.78 - Processamento de Imagens]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-imagens/processamento-de-imagens|CSECBJI.78 - Processamento de Imagens]]
 
-
-> [!tip]  Conteúdo Programático
+> [!tip] Conteúdo Programático
 > - **1. Dispositivos Gráficos**
->   - Apresentação de Imagens Usando Monitores ou Impressoras
->   - Espaços de Cor
->   - Bibliotecas Gráficas
->   - Visão geral de pipeline gráfico
+> - Apresentação de Imagens Usando Monitores ou Impressoras
+> - Espaços de Cor
+> - Bibliotecas Gráficas
+> - Visão geral de pipeline gráfico
 > - **2. Primitivas Gráficas**
->   - Ponto
->   - Reta
->   - Circunferência
->   - Curvas
->   - Polígonos
->   - Planos g. Poliedros
+> - Ponto
+> - Reta
+> - Circunferência
+> - Curvas
+> - Polígonos
+> - Planos g. Poliedros
 > - **3. Modelagem Geométrica**
->   - Triangulação de Polígonos
->   - Vetores Normais
->   - Operações de Conjuntos
->   - Extrusão
+> - Triangulação de Polígonos
+> - Vetores Normais
+> - Operações de Conjuntos
+> - Extrusão
 > - **4. Sistemas de Coordenadas e Transformações 2D e 3D**
->   - Sistemas de Coordenadas
->   - Vetores
->   - Transformações de Escala, Translação, Rotação
->   - Matrizes
+> - Sistemas de Coordenadas
+> - Vetores
+> - Transformações de Escala, Translação, Rotação
+> - Matrizes
 > - **5. Algoritmos de Projeção e Recorte**
->   - Z-Buffer
->   - Visão Geral de Ray Tracing
->   - Câmeras
->   - Projeções Paralelas e em Perspectiva
->   - Iluminação
->   - Textura, sombras, reflexão e partículas
+> - Z-Buffer
+> - Visão Geral de Ray Tracing
+> - Câmeras
+> - Projeções Paralelas e em Perspectiva
+> - Iluminação
+> - Textura, sombras, reflexão e partículas
 
-> [!info]  Bibliografia Básica e Complementar (ABNT)
+> [!info] Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018.
 > 2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003

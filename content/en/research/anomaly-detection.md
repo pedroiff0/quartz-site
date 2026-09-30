@@ -59,7 +59,7 @@ This work was published as:
 
 > ANDRADE, P. H. R. et al. _Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4_. Boletim da Sociedade Astronômica Brasileira, 2025.
 
-And presented as a poster at **SAB 2025**, at the**78th Annual SBPC Meeting (2026)**, and at this**National Observatory Winter School (2026)** — see [[pt-br/academic/courses/escolainverno/apresentacao|Apresentação de Pesquisa]] (Portuguese) for the full text of that presentation.
+And presented as a poster at **SAB 2025**, at the**78th Annual SBPC Meeting (2026)**, and at this**National Observatory Winter School (2026)** — see [[pt-br/academic/escola-de-inverno/apresentacao|Apresentação de Pesquisa]] (Portuguese) for the full text of that presentation.
 
 ---
 
@@ -134,6 +134,6 @@ Summary of the main methodological decisions made throughout the project, from m
 
 ## References and related
 
-- [[pt-br/academic/courses/escolainverno/apresentacao|Apresentação de Pesquisa]] — preparation text for presenting Stage 1 (Portuguese; SBPC 2026 Banner and this Winter School's Banner).
+- [[pt-br/academic/escola-de-inverno/apresentacao|Apresentação de Pesquisa]] — preparation text for presenting Stage 1 (Portuguese; SBPC 2026 Banner and this Winter School's Banner).
 - [[en/research/dark-matter-shocks|Understanding Dark Matter from Extragalactic Shocks]] — another astronomy research project, also grounded in the dynamics/kinematics of gravitational systems
 - [[en/research/satellite-trail-removal|Simulating the Impact of Satellites on Astronomical Observations]] — another project with a computational focus applied to astronomical data

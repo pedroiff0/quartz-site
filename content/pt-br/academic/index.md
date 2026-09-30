@@ -32,3 +32,12 @@ icon: lucide-graduation-cap
 | **[[pt-br/academic/engenharia-computacao/6-periodo/6o-periodo|6º Período (Atual - 2026-2)]]** | Eletrônica Digital, Banco de Dados, Compiladores, POO I, ASOO, Filosofia, ComDados |
 | **7º ao 10º Período** | Ciclo Profissionalizante e TCC |
 | **[[pt-br/academic/engenharia-computacao/eletivas/eletivas|Disciplinas Eletivas]]** | Inteligência Artificial, Computação Gráfica, Sistemas Distribuídos |
+
+---
+
+## Cursos e Formações
+
+- **[[pt-br/academic/escola-de-inverno/index|Escola de Inverno]]**
+- **[[pt-br/academic/latex/index|LaTeX e Escrita Científica]]**
+- **[[pt-br/academic/curso-on/index|Curso ON: Arqueologia Galáctica]]**
+- **[[pt-br/academic/computing/index|Computação]]** e **[[pt-br/academic/languages/index|Idiomas]]**

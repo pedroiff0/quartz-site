@@ -74,4 +74,4 @@ Este projeto foi apresentado na **[[pt-br/media/2023/febrace-2023|FEBRACE 2023]]
 - [[pt-br/media/2023/mostratec-2023|MOSTRATEC 2023]] — cobertura da apresentação deste projeto
 - [[pt-br/research/anomaly-detection|Detecção de Anomalias em Dados do Gaia]] — outro projeto de pesquisa em Astronomia, também orientado por dinâmica/cinemática de sistemas gravitacionais
 - [[pt-br/research/satellite-trail-removal|Simulando o Impacto de Satélites em Observações Astronômicas]] — projeto seguinte, também com foco computacional aplicado a dados astronômicos
-- [[pt-br/academic/courses/curso-on/aula-05-avermelhamento-extincao-e-imf|Curso ON — Aula 05]] — outro contexto de massa não-luminosa/matéria escura na Galáxia
+- [[pt-br/academic/curso-on/aula-05-avermelhamento-extincao-e-imf|Curso ON — Aula 05]] — outro contexto de massa não-luminosa/matéria escura na Galáxia

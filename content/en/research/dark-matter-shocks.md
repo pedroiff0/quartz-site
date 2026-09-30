@@ -74,4 +74,4 @@ This project was presented at **FEBRACE 2023**and**MOSTRATEC 2023** (Novo Hambur
 - [[pt-br/media/2023/mostratec-2023|MOSTRATEC 2023]] — coverage of this project's presentation (Portuguese only)
 - [[en/research/anomaly-detection|Anomaly Detection in Gaia Data]] — another Astronomy research project, also grounded in the dynamics/kinematics of gravitational systems
 - [[en/research/satellite-trail-removal|Simulating the Impact of Satellites on Astronomical Observations]] — following project, also computationally focused on astronomical data
-- [[pt-br/academic/courses/curso-on/aula-05-avermelhamento-extincao-e-imf|CursoON — Lecture 05]] — another context for non-luminous mass/dark matter within the Galaxy (Portuguese only)
+- [[pt-br/academic/curso-on/aula-05-avermelhamento-extincao-e-imf|CursoON — Lecture 05]] — another context for non-luminous mass/dark matter within the Galaxy (Portuguese only)

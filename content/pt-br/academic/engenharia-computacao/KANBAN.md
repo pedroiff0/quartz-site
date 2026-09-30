@@ -1,8 +1,8 @@
 ---
 publish: false
 title: Quadro Kanban — IFF Engenharia de Computação
-created: 2026-09-14 11:54
-modified: 2026-09-30 10:35
+created: '2026-09-14 11:54:15-03:00'
+modified: 2026-09-30T13:54:29-03:00
 tags:
 - kanban
 - academico
@@ -10,33 +10,29 @@ tags:
 icon: lucide-book-open
 cssclasses:
   - page-layout
+sitesync: true
 ---
 
 ## Grade Curricular & Eletivas
 
-
-
 ## º Período (Atual)
 
-- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/banco-de-dados/banco-de-dados|Banco de Dados]] — Modelagem física e consultas academico disciplina
-- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados|Comunicação de Dados]] — Camadas OSI e modulação academico disciplina
-- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/eletronica-digital/eletronica-digital|Eletrônica Digital]] — Mapas de Karnaugh e circuitos academico disciplina
-- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i|POO I]] — Polimorfismo e herança academico disciplina
-
+- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/banco-de-dados|Banco de Dados]] — Modelagem física e consultas academico disciplina
+- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados|Comunicação de Dados]] — Camadas OSI e modulação academico disciplina
+- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital|Eletrônica Digital]] — Mapas de Karnaugh e circuitos academico disciplina
+- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i|POO I]] — Polimorfismo e herança academico disciplina
 
 ## º Período (Próximo)
 
-- [ ] [[02-areas/academico/iff-engenharia-de-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i|Sistemas Operacionais I]] — Kernel e escalonamento academico
+- [ ] [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i|Sistemas Operacionais I]] — Kernel e escalonamento academico
 - [ ] Redes de Computadores I — Protocolos TCP/IP e roteamento academico
 - [ ] Engenharia de Software I — Metodologias ágeis e arquitetura academico
-
 
 ## TCC, Estágio & Pesquisa
 
 - [ ] Definir proposta temática preliminar de TCC academico pesquisa
 - [ ] Alinhar horas de iniciação científica (CNPq / Arqueologia Galáctica) com coordenação pesquisa iff
 - [ ] Documentação de estágio e relatórios parciais academico estagio
-
 
 ## Períodos Concluídos
 
@@ -45,9 +41,6 @@ cssclasses:
 - [x] 3º Período (Cálculo III, Física II, Algoritmos e Estruturas I) academico
 - [x] 4º Período (Cálculo IV, Cálculo Numérico, Estruturas II) academico
 - [x] 5º Período (Modelagem de Dados, Circuitos Elétricos, Teoria da Computação) academico
-
-
-
 
 %% kanban:settings
 ```

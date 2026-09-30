@@ -1,8 +1,8 @@
 ---
 publish: false
 title: Atividades, Trabalhos & Provas — Quimica
-created: 2026-08-29 11:58
-modified: 2026-09-29 21:05
+created: '2026-08-29 11:58:00-03:00'
+modified: 2026-09-30T13:54:29-03:00
 tags:
 - atividade
 - trabalho
@@ -11,7 +11,8 @@ cssclasses:
 - page-layout
 - cards
 icon: lucide-book-open
-discipline: "[[quimica]]"
+disciplina: "[[quimica]]"
+sitesync: true
 ---
 
 # Atividades, Trabalhos & Avaliações
@@ -22,13 +23,9 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 ## Relação de Trabalhos & Atividades
 
-| Atividade / Trabalho | Data |
-| :--- | :---: |
-| [[atividades-quimica\|Atividades, Trabalhos & Provas — Quimica]] | 29/08/2026 |
-
 ---
 
 ## Navegação da Disciplina
 -  Anotações de Quadro & Aulas
 -  [[../../Química|Química]]
--  [Hub de Disciplinas](https://www.phrandrade.com/pt-br/academic/courses/engenharia-de-computacao/)
+-  [Hub de Disciplinas](https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/)

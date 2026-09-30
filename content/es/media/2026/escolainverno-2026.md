@@ -21,7 +21,7 @@ cssclasses:
 
 ## Mi participación
 
- Si has llegado aquí escaneando el QR code de mi póster, ¡es bienvenido(a)! El póster presentado en esta escuela es una actualización de lo que llevé a la SAB 2025, en Caxambu (MG) — con el mapeo no supervisado vía t-SNE y las proyecciones más recientes. Vea el texto completo de preparación de la presentación en [[pt-br/academic/courses/escolainverno/apresentacao|Presentación de búsqueda]], y el estado actual de la investigación en [[es/research/anomaly-detection|Detección de Anomalías en Datos de Gaia]].
+ Si has llegado aquí escaneando el QR code de mi póster, ¡es bienvenido(a)! El póster presentado en esta escuela es una actualización de lo que llevé a la SAB 2025, en Caxambu (MG) — con el mapeo no supervisado vía t-SNE y las proyecciones más recientes. Vea el texto completo de preparación de la presentación en [[pt-br/academic/escola-de-inverno/apresentacao|Presentación de búsqueda]], y el estado actual de la investigación en [[es/research/anomaly-detection|Detección de Anomalías en Datos de Gaia]].
 
 > [!note] Opinión
 > ¡Mi segundo congreso de Astronomía en menos de un año! Fue una oportunidad muy legal e importante, el contacto con las diferentes áreas de investigación mostró las muchas posibilidades de seguir investigación, el networking con los profesores/investigadores de mi área de investigación también enriqueció bastante el progreso de mi trabajo en colaboración con los profesores [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja) y [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com)
@@ -38,7 +38,7 @@ cssclasses:
 
 ## Referencias y correcciones
 
-- Notas de clases completas, por minicurso:[[pt-br/academic/courses/escolainverno|Escuela de invierno (ON 2026)]]
+- Notas de clases completas, por minicurso:[[pt-br/academic/escola-de-inverno|Escuela de invierno (ON 2026)]]
 - [[es/research/anomaly-detection|Detección de Anomalías en Datos de Gaia]]— investigación completa detrás del póster
 - [[es/media/2025/sab-2025|SAB 2025]]— versión anterior del mismo póster
 

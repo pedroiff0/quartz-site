@@ -21,7 +21,7 @@ cssclasses:
 
 ## My participation
 
- If you arrived here scanning the QR code of my poster, welcome! The poster presented at this school is an update of what I took to SAB 2025 in Caxambu (MG) — with unsupervised mapping via t-SNE and the latest projections. See the full presentation preparation text in [[pt-br/academic/courses/escolainverno/apresentacao|Search Presentation]], and the current state of research in [[en/research/anomaly-detection|Gaia Data Anomalies Detection]].
+ If you arrived here scanning the QR code of my poster, welcome! The poster presented at this school is an update of what I took to SAB 2025 in Caxambu (MG) — with unsupervised mapping via t-SNE and the latest projections. See the full presentation preparation text in [[pt-br/academic/escola-de-inverno/apresentacao|Search Presentation]], and the current state of research in [[en/research/anomaly-detection|Gaia Data Anomalies Detection]].
 
 > [!note] Opinion
 > My second astronomy convention in less than a year! It was a very nice and important opportunity, contact with the different research areas showed the many possibilities of following research, networking with teachers/researchers in my research area also greatly enriched the progress of my work in collaboration with teachers [Dr. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja) and [Dr. Maria Luiza Linhares Dantas](https://www.mlldantas.com)
@@ -38,7 +38,7 @@ cssclasses:
 
 ## References and correlations
 
-- Complete classroom notes by minicourse:[[pt-br/academic/courses/escolainverno|Winter School (ON 2026)]]
+- Complete classroom notes by minicourse:[[pt-br/academic/escola-de-inverno|Winter School (ON 2026)]]
 - [[en/research/anomaly-detection|Gaia Data Anomalies Detection]]— full search behind the poster
 - [[en/media/2025/sab-2025|SAB 2025]]— previous version of the same poster
 

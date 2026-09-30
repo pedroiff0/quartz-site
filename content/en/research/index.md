@@ -26,7 +26,7 @@ cssclasses:
     <img src="/resource/meta/illustrations/informatica.svg" alt="Simulating Satellite Impact on Astronomical Observations" />
     <div class="slide-caption">Satellite Impact on Remarks</div>
   </a>
-  <a href="/pt-br/research/relatex" class="carousel-slide">
+  <a href="/pt-br/projects/academic/relatex" class="carousel-slide">
     <img src="/resource/meta/illustrations/toolkit.svg" alt="ReLaTeX: LaTeX Class for Academic IFF Works" />
     <div class="slide-caption">ReLaTeX (LaTeX class)</div>
   </a>

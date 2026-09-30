@@ -36,4 +36,4 @@ Apresentei o meu trabalho de pesquisa em uma sessão de apresentação oral, e a
 
 ## Referências e correlatos
 
-- [[pt-br/research/relatex/README|ReLaTeX]] — pesquisa completa por trás do pôster
+- [[pt-br/projects/academic/relatex/README|ReLaTeX]] — pesquisa completa por trás do pôster

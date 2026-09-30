@@ -32,7 +32,7 @@ O que dominar: a anatomia de um artigo (introdução → método → resultados 
 
 ### . Normas, citação e ferramentas (antes do TCC)
 
-O que dominar: ABNT para estrutura e citações, um gerenciador de referências (Zotero) e LaTeX com abnTeX2 — a combinação que elimina o trabalho braçal de formatação. O que praticar: formatar um relatório antigo inteiro na norma, do sumário às referências. Veja a página dedicada de [[pt-br/academic/courses/latex/LaTeX & Escrita Acadêmica|LaTeX e Escrita Acadêmica]].
+O que dominar: ABNT para estrutura e citações, um gerenciador de referências (Zotero) e LaTeX com abnTeX2 — a combinação que elimina o trabalho braçal de formatação. O que praticar: formatar um relatório antigo inteiro na norma, do sumário às referências. Veja a página dedicada de [[pt-br/academic/latex/LaTeX & Escrita Acadêmica|LaTeX e Escrita Acadêmica]].
 
 ### . Identidade acadêmica e carreira (contínuo)
 
@@ -59,7 +59,7 @@ O que dominar: currículo Lattes completo e atualizado, ORCID vinculado, e a hab
 
 - **[Orientação à Prática Profissional e Pesquisa](/resource/areas/academico/biblioteca/computacao/orientacao-pratica-profissional-ifro.pdf)** (Rede e-Tec/IFRO) — apostila aberta que cobre método científico e postura profissional, via [proedu.rnp.br](https://proedu.rnp.br).
 - **Guias de normalização ABNT** — [PUC Minas](/resource/areas/academico/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e [UNIP](/resource/areas/academico/biblioteca/latex-escrita/guia-abnt-unip.pdf): resumos práticos e gratuitos das normas pra trabalhos acadêmicos.
-- Para LaTeX, abnTeX2 e escrita: veja a página completa de [[pt-br/academic/courses/latex/LaTeX & Escrita Acadêmica|LaTeX e Escrita Acadêmica]].
+- Para LaTeX, abnTeX2 e escrita: veja a página completa de [[pt-br/academic/latex/LaTeX & Escrita Acadêmica|LaTeX e Escrita Acadêmica]].
 
 ## Referências externas
 

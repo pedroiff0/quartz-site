@@ -35,16 +35,11 @@ content/recursos/
 content/assets/documentos/Pedro/
 
 # resource/ substitui assets/ e recursos/ (29/09/2026: recursos/ e documentos pessoais nunca versionados).
-# Versionado: apenas o que ja era publico em assets/ (meta, disciplinas, journal-clubs, biblioteca, articles).
-content/resource/*
-!content/resource/meta/
-!content/resource/areas/
-content/resource/areas/*
-!content/resource/areas/academico/
-content/resource/areas/academico/*
-!content/resource/areas/academico/disciplinas/
-!content/resource/areas/academico/journal-clubs/
-!content/resource/areas/academico/biblioteca/
-!content/resource/areas/academico/articles/
-**/documentos/
-**/curriculo/
+# Versionado: resource/meta, o que ja era publico em assets/ (ja rastreado) e imagens referenciadas (git add -f via tools/add-referenced-images.py).
+content/resource/**/*
+!content/resource/**/
+!content/resource/meta/**
+content/resource/**/documentos/
+content/resource/**/curriculo/
+content/resource/areas/pessoal/
+content/resource/permanente/chaves*/

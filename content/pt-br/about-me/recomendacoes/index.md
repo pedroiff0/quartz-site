@@ -1,14 +1,22 @@
 ---
 publish: true
-title: "Recomendações"
+title: Recomendações
+created: 2026-09-07 16:47:01-03:00
+modified: 2026-09-30T13:05:50-03:00
+tags:
+  - pessoal
+icon: lucide-user
 aliases:
-  - "Recomendações"
-  - "recomendacoes"
-created: 2026-09-07T16:47:01-03:00
-modified: 2026-09-07T16:47:01-03:00
+  - Recomendações
+  - recomendacoes
+cssclasses:
+  - page-layout
+sitesync: true
 ---
 
 # Recomendações de Livros, Ferramentas & Recursos
+
+- Origem: [[pt-br/about-me/sobre-mim-hub|Sobre Mim Hub]]
 
 > [!tip] Minhas indicações pessoais de leitura, aplicativos e conteúdos essenciais.
 

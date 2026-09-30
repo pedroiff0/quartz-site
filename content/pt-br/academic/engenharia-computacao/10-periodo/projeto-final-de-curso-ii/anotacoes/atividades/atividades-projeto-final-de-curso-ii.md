@@ -1,8 +1,8 @@
 ---
 publish: false
 title: Atividades, Trabalhos & Provas — Projeto Final De Curso Ii
-created: 2026-08-29 11:58
-modified: 2026-09-29 20:47
+created: '2026-08-29 11:58:00-03:00'
+modified: 2026-09-30T13:54:29-03:00
 tags:
 - atividade
 - trabalho
@@ -11,7 +11,8 @@ cssclasses:
 - page-layout
 - cards
 icon: lucide-book-open
-discipline: "[[projeto-final-de-curso-ii]]"
+disciplina: "[[projeto-final-de-curso-ii]]"
+sitesync: true
 ---
 
 # Atividades, Trabalhos & Avaliações
@@ -22,13 +23,9 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 ## Relação de Trabalhos & Atividades
 
-| Atividade / Trabalho | Data |
-| :--- | :---: |
-| [[atividades-projeto-final-de-curso-ii\|Atividades, Trabalhos & Provas — Projeto Final De Curso Ii]] | 29/08/2026 |
-
 ---
 
 ## Navegação da Disciplina
 -  Anotações de Quadro & Aulas
 -  [[../../Projeto Final de Curso II|Projeto Final de Curso II]]
--  [Hub de Disciplinas](https://www.phrandrade.com/pt-br/academic/courses/engenharia-de-computacao/)
+-  [Hub de Disciplinas](https://www.phrandrade.com/pt-br/resource/engenharia-de-computacao/)
