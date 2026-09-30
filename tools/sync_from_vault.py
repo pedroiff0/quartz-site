@@ -6,11 +6,11 @@ import datetime
 
 hl_eng = '/home/pedro/hardcore-life/02-areas/academico/iff-engenharia-de-computacao'
 hl_materiais = os.path.join(hl_eng, '_materiais')
-qs_eng = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/Engenharia de Computação'
-qs_disciplinas = '/home/pedro/Repositorios/pessoal/quartz-site/content/assets/disciplinas'
+qs_eng = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/academic/engenharia-computacao'
+qs_disciplinas = '/home/pedro/Repositorios/pessoal/quartz-site/content/resource/areas/academico/disciplinas'
 
 hl_escola = '/home/pedro/hardcore-life/04-recursos/cursos/escola-de-inverno-on'
-qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/escolainverno'
+qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/academic/courses/escolainverno'
 
 EXCLUDED_DIR_NAMES = {
     '_materiais',
@@ -44,16 +44,16 @@ def clean_symlinks_in_dir(dir_path: str):
 
 LINK_REWRITES = [
     ("00 - Mapa", "pt-br/mapa"),
-    ("02 - Áreas/Acadêmico/IFF - Engenharia de Computação", "pt-br/resource/Engenharia de Computação"),
-    ("02 - Áreas/Acadêmico/Pesquisas/Escola de Inverno - ON", "pt-br/resource/escolainverno"),
-    ("04 - Recursos/Cursos/Escola de Inverno - ON", "pt-br/resource/escolainverno"),
-    ("05 - Recursos/Cursos/Escola de Inverno - ON", "pt-br/resource/escolainverno"),
-    ("02 - Áreas/Acadêmico/Cursos/Curso ON", "pt-br/resource/curso-on"),
-    ("02 - Áreas/Acadêmico/Cursos/LaTeX e Escrita Cientifica", "pt-br/resource/latex"),
-    ("04 - Recursos/Cursos/Curso ON", "pt-br/resource/curso-on"),
-    ("04 - Recursos/Cursos/LaTeX e Escrita Cientifica", "pt-br/resource/latex"),
-    ("04 - Recursos/Computação", "pt-br/resource/computacao"),
-    ("02 - Áreas/Acadêmico/Idiomas", "pt-br/resource/idiomas"),
+    ("02 - Áreas/Acadêmico/IFF - Engenharia de Computação", "pt-br/academic/engenharia-computacao"),
+    ("02 - Áreas/Acadêmico/Pesquisas/Escola de Inverno - ON", "pt-br/academic/courses/escolainverno"),
+    ("04 - Recursos/Cursos/Escola de Inverno - ON", "pt-br/academic/courses/escolainverno"),
+    ("05 - Recursos/Cursos/Escola de Inverno - ON", "pt-br/academic/courses/escolainverno"),
+    ("02 - Áreas/Acadêmico/Cursos/Curso ON", "pt-br/academic/courses/curso-on"),
+    ("02 - Áreas/Acadêmico/Cursos/LaTeX e Escrita Cientifica", "pt-br/academic/courses/latex"),
+    ("04 - Recursos/Cursos/Curso ON", "pt-br/academic/courses/curso-on"),
+    ("04 - Recursos/Cursos/LaTeX e Escrita Cientifica", "pt-br/academic/courses/latex"),
+    ("04 - Recursos/Computação", "pt-br/academic/computing"),
+    ("02 - Áreas/Acadêmico/Idiomas", "pt-br/academic/languages"),
     ("02 - Áreas/Acadêmico/Pesquisas", "pt-br/research"),
     ("01 - Projetos", "pt-br/projects"),
     ("03 - Mídia", "pt-br/media"),
@@ -64,7 +64,7 @@ LINK_REWRITES = [
     ("02 - Áreas/Acadêmico/Pesquisas/Anomaly_Detection/README", "pt-br/projects/anomaly-detection"),
     ("01 - Projetos/Acadêmico/Anomaly_Detection/README", "pt-br/projects/anomaly-detection"),
     ("pt-br/projects/Acadêmico/Anomaly_Detection/README", "pt-br/projects/anomaly-detection"),
-    ("pt-br/resource/escolainverno/Apresentacao/", "pt-br/resource/escolainverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE"),
+    ("pt-br/academic/courses/escolainverno/Apresentacao/", "pt-br/academic/courses/escolainverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE"),
 ]
 
 def convert_md_links_in_str(text: str) -> str:
@@ -484,8 +484,8 @@ def transform_markdown_file(file_path: str):
             if len(parts) > eng_idx + 2:
                 periodo = parts[eng_idx + 1]
                 disciplina = parts[eng_idx + 2]
-                anotacoes_slug = f"pt-br/resource/Engenharia de Computação/{periodo}/{disciplina}/Anotações/index"
-                hub_slug = f"pt-br/resource/Engenharia de Computação/{periodo}/{disciplina}/index"
+                anotacoes_slug = f"pt-br/academic/engenharia-computacao/{periodo}/{disciplina}/Anotações/index"
+                hub_slug = f"pt-br/academic/engenharia-computacao/{periodo}/{disciplina}/index"
 
                 if 'atividades' in file_path.lower():
                     content = content.replace('[[../index|Anotações de Quadro & Aulas]]', f'[[{anotacoes_slug}|Anotações de Quadro & Aulas]]')
@@ -499,7 +499,7 @@ def transform_markdown_file(file_path: str):
         is_embed = bool(match.group(1))
         target = match.group(2)
         alias = match.group(3)
-        if 'assets/banners' in target or 'assets/slides' in target:
+        if 'resource/meta/banners' in target or 'assets/slides' in target:
             return match.group(0)
 
         if alias and alias.strip():
@@ -782,7 +782,7 @@ if __name__ == '__main__':
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Escola de Inverno) PARA O QUARTZ-SITE ===')
     hl_escola = '/home/pedro/hardcore-life/04-recursos/02-areas/academico/cursos/escola-de-inverno-on'
-    qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/escolainverno'
+    qs_escola = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/academic/courses/escolainverno'
     sync_dirs(hl_escola, qs_escola)
     print('✅ Notas da Escola de Inverno sincronizadas com sucesso!')
 
@@ -811,7 +811,7 @@ if __name__ == '__main__':
     print('\n=== 🔄 SINCRONIZANDO MATERIAIS DE JOURNAL CLUBS PARA ASSETS ===')
     for club in ['mwbr', 'engcomp']:
         hl_mat = f'/home/pedro/hardcore-life/04-recursos/02-areas/academico/pesquisas/journal-clubs/{club}'
-        qs_mat = f'/home/pedro/Repositorios/pessoal/quartz-site/content/assets/journal-clubs/{club}'
+        qs_mat = f'/home/pedro/Repositorios/pessoal/quartz-site/content/resource/areas/academico/journal-clubs/{club}'
         if os.path.exists(hl_mat):
             os.makedirs(qs_mat, exist_ok=True)
             for item in os.listdir(hl_mat):
@@ -827,28 +827,28 @@ if __name__ == '__main__':
 
     print('\n=== 🔄 SINCRONIZANDO NOTAS DO COFRE (Cursos & Recursos) PARA O QUARTZ-SITE ===')
     hl_curso_on = '/home/pedro/hardcore-life/02-areas/academico/cursos/curso-on'
-    qs_curso_on = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/curso-on'
+    qs_curso_on = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/academic/courses/curso-on'
     if os.path.exists(hl_curso_on):
         sync_dirs(hl_curso_on, qs_curso_on)
 
     hl_latex = '/home/pedro/hardcore-life/04-recursos/02-areas/academico/cursos/latex-e-escrita-cientifica'
-    qs_latex = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/latex'
+    qs_latex = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/academic/courses/latex'
     if os.path.exists(hl_latex):
         sync_dirs(hl_latex, qs_latex)
 
     hl_comp = '/home/pedro/hardcore-life/04-recursos/computacao'
-    qs_comp = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/computacao'
+    qs_comp = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/academic/computing'
     if os.path.exists(hl_comp):
         sync_dirs(hl_comp, qs_comp)
 
     hl_idiomas = '/home/pedro/hardcore-life/02-areas/academico/idiomas'
-    qs_idiomas = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/idiomas'
+    qs_idiomas = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/academic/languages'
     if os.path.exists(hl_idiomas):
         sync_dirs(hl_idiomas, qs_idiomas)
 
     print('\n=== 🔄 SINCRONIZANDO PASTA SOBRE MIM PARA O QUARTZ-SITE ===')
     hl_sobre_dir = '/home/pedro/hardcore-life/02-areas/pessoal/sobre-mim'
-    qs_sobre_dir = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/sobre-mim'
+    qs_sobre_dir = '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/about-me'
     if os.path.exists(hl_sobre_dir):
         sync_dirs(hl_sobre_dir, qs_sobre_dir)
         hl_sobre_index = os.path.join(hl_sobre_dir, 'index.md')
@@ -856,12 +856,12 @@ if __name__ == '__main__':
         if os.path.exists(hl_sobre_index):
             shutil.copy2(hl_sobre_index, qs_ptbr_index)
             transform_markdown_file(qs_ptbr_index)
-            print('✅ Sobre Mim -> content/pt-br/index.md & content/pt-br/sobre-mim/ sincronizados com sucesso!')
+            print('✅ Sobre Mim -> content/pt-br/index.md & content/pt-br/about-me/ sincronizados com sucesso!')
 
     # Clean up unneeded files and directories
     redundant_paths = [
         '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/mapa',
-        '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/sobre-mim.md',
+        '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/about-me.md',
         '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/canvas.md',
         '/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/canvas'
     ]

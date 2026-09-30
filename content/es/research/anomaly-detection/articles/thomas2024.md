@@ -20,7 +20,7 @@ cssclasses:
 
  Presenta el SpectroTranslator, red neural data-driven que convierte parámetros espectroscópicos de un survey (base A) a otro (base B), con estimación de importancia de los parámetros. Útil para homogeneizar catálogos (GALAH↔APOGEE↔LAMOST) en su proyecto.
 
- [Véase el artículo original](https://doi.org/10.1051/0004-6361/202450198)·[Reflexión Descargar PDF](/assets/articles/Thomas2024.pdf)
+ [Véase el artículo original](https://doi.org/10.1051/0004-6361/202450198)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Thomas2024.pdf)
 
 ## Citación
 

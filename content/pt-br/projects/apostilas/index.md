@@ -43,4 +43,4 @@ Ideia de cobrir, em apostilas próprias com teoria, exercícios e experimentos c
 - **Gestão de Projetos, Metodologia da Pesquisa Científica, TCC** (escrita ABNT, normas atuais)
 - **Astrofísica**
 
-Complementa as [[pt-br/resource/engenharia-de-computação|notas de disciplinas]] já publicadas no site.
+Complementa as [[pt-br/academic/courses/engenharia-de-computação|notas de disciplinas]] já publicadas no site.

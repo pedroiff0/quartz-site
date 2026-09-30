@@ -2,13 +2,13 @@
 publish: true
 title: Sobre Mim
 created: '2026-07-18 20:34:00-03:00'
-modified: '2026-09-19 15:23:27-03:00'
+modified: 2026-09-30T13:05:50-03:00
 tags:
 - pessoal
 cssclasses:
 - page-layout
 icon: lucide-user
-published: 2026-07-26 12:36:37.263000-03:00
+sitesync: true
 ---
 
 > [!info] Bem-vindo(a)!
@@ -173,9 +173,9 @@ Prefere não abrir o seu programa de e-mail? Preencha os campos abaixo e a mensa
 ### Terceiro passo: Páginas & Detalhes Pessoais
 
 Explore também as sub-páginas do meu perfil:
--  [**Recomendações**](/pt-br/about-me/recomendacoes/) — Leituras, livros e ferramentas que recomendo.
--  [**Setup**](/pt-br/about-me/setup/) — Hardware, sistema operacional, terminal e ambiente de desenvolvimento.
--  [**Minhas Coisas**](/pt-br/about-me/minhas-coisas/) — Projetos pessoais, hobbies e coleções.
+-  [**Recomendações**](/pt-br/sobre-mim/recomendacoes/) — Leituras, livros e ferramentas que recomendo.
+-  [**Setup**](/pt-br/sobre-mim/setup/) — Hardware, sistema operacional, terminal e ambiente de desenvolvimento.
+-  [**Minhas Coisas**](/pt-br/sobre-mim/minhas-coisas/) — Projetos pessoais, hobbies e coleções.
 
 ---
 

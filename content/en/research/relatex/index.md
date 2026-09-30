@@ -20,7 +20,7 @@ cssclasses:
 
 <div class="media-carousel">
   <a href="/pt-br/research/relatex" class="carousel-slide">
-    <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX" />
+    <img src="/resource/meta/illustrations/toolkit.svg" alt="ReLaTeX" />
     <div class="slide-caption">Class LaTeX iffthesis. cls</div>
   </a>
 </div>
@@ -67,8 +67,8 @@ cssclasses:
 - LAMPORT, L.  LaTeX: A Document Preparation System . 2nd ed. Reading, Massachusetts: Addison-Wesley, 1994.
 - TEAM ABNTEX2 —[class abntex2](https://github.com/abntex/abntex2), ABNT compatibility base used in this project.
 - CONEPE 2026 — the coverage of the presentation enters here after the event (September 2026).
-- [[pt-br/resource/latex|LaTeX and Academic Writing]]— the course built on top of this project; classes 06 to 08 document 'ifftese'. cls`, `macros.sty` and `metadata. sty` line by line.
-- [[pt-br/resource/latex/modelos-corporativos|Corporate Models]]— the same class architecture applied outside the academy, with a brand manual in place of ABNT.
+- [[pt-br/academic/courses/latex|LaTeX and Academic Writing]]— the course built on top of this project; classes 06 to 08 document 'ifftese'. cls`, `macros.sty` and `metadata. sty` line by line.
+- [[pt-br/academic/courses/latex/modelos-corporativos|Corporate Models]]— the same class architecture applied outside the academy, with a brand manual in place of ABNT.
 
 > [!abstract] Automatic translation notice
 > This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

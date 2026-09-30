@@ -20,7 +20,7 @@ cssclasses:
 
  Il utilise une approche d'apprentissage automatique non supervisée (autoencoder pour détecter les anomalies + t-SNE) dans les données photométriques du S-PLUS pour sélectionner ~ 19 000 candidats dont l'EDS n'est pas bien reconstruit, identifiant des populations stellaires rares (69 étoiles riches en carbone). Exemple pratique de codeur automatique pour les anomalies - directement à votre méthode.
 
- [Voir article original](https://doi.org/10.3847/1538-3881/adcf26)·[Réflexion Télécharger le PDF](/assets/articles/QuispeHuaynasi2025.pdf)
+ [Voir article original](https://doi.org/10.3847/1538-3881/adcf26)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/QuispeHuaynasi2025.pdf)
 
 ## Citation
 

@@ -27,7 +27,7 @@ cssclasses:
 ## Bannière
 
 > [!note] Bannière présentée:
-> ![[assets/banners/BannerFEBRACE23.pdf]]
+> ![[resource/meta/banners/BannerFEBRACE23.pdf]]
 
 ## Références et corrections
 

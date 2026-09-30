@@ -20,7 +20,7 @@ cssclasses:
 
  Quatrième libération de GALAH (DR4) : 917 588 étoiles avec jusqu'à 32 éléments (y compris l'azote et les éléments terrestres), utilisant des réseaux neuraux pour ajuster les paramètres et l'abondance. C'est la plus récente et la plus vaste source de données chimiques pour votre projet.
 
- [Voir article original](https://doi.org/10.1017/pasa.2025.26)·[Réflexion Télécharger le PDF](/assets/articles/Buder2025.pdf)
+ [Voir article original](https://doi.org/10.1017/pasa.2025.26)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Buder2025.pdf)
 
 ## Citation
 

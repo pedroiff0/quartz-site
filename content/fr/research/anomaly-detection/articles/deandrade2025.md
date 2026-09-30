@@ -20,7 +20,7 @@ cssclasses:
 
  Analyse conjointe d'environ 6 000 étoiles communes au catalogue Gaia des étoiles à proximité (GCNS, 100 pc) et GALAH DR4 (jusqu'à 30 éléments). Résultats préliminaires: FGK majorité du disque, âges moyens ~ 1,6 Gyr,\ [Fe / H] ~ -0,19. Utile pour l'échantillon local de votre projet.
 
- [Voir article original](https://doi.org/10.48550/arXiv.2512.10037)·[Réflexion Télécharger le PDF](/assets/articles/Andrade2025.pdf)
+ [Voir article original](https://doi.org/10.48550/arXiv.2512.10037)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Andrade2025.pdf)
 
 ## Citation
 

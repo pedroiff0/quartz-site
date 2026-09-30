@@ -16,7 +16,7 @@ cssclasses:
 
 ### 1⃣ Première étape : à propos de moi
 
-<img src="..[Profilepic.Jpe](/assets/profilepic.jpe)g" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="/resource/meta/imagens/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 Je m'appelle Pedro Henrique, étudiant en génie informatique à l'[Institut Fédéral Fluminense](https://portal1.iff.edu.br/), à Bom Jesus do Itabapoana, dans l'intérieur de l'État de Rio de Janeiro, au Brésil. Depuis 2022, je construis un pont entre l'**informatique** et l'**astronomie**, en travaillant sur des projets de recherche qui explorent les populations stellaires et la structure de la Voie lactée.
 
@@ -39,7 +39,7 @@ Ci-dessous mon CV dans la langue de cette page et le dépôt (LaTeX multilingue)
 
 <div class="cv-cards-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.25rem; margin: 1.75rem 0;">
 
-  <a href="/assets/curriculo/frenchCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
+  <a href="/resource/areas/pessoal/curriculo/frenchCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
         <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;"></div>
@@ -134,19 +134,19 @@ Pour naviguer dans mon travail, explorez les sections du site (en portugais/angl
 
 <div class="media-carousel">
   <a href="/pt-br/research" class="carousel-slide">
-    <img src="/assets/illustrations/research.svg" alt="Recherche" />
+    <img src="/resource/meta/illustrations/research.svg" alt="Recherche" />
     <div class="slide-caption">Recherche</div>
   </a>
-  <a href="/pt-br/resource" class="carousel-slide">
-    <img src="/assets/illustrations/resource.svg" alt="Ressources" />
+  <a href="/pt-br/academic/courses" class="carousel-slide">
+    <img src="/resource/meta/illustrations/resource.svg" alt="Ressources" />
     <div class="slide-caption">Ressources</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Matières" />
+  <a href="/pt-br/academic/courses/engenharia-de-computação" class="carousel-slide">
+    <img src="/resource/meta/illustrations/classes.svg" alt="Matières" />
     <div class="slide-caption">Matières</div>
   </a>
   <a href="/pt-br/media" class="carousel-slide">
-    <img src="/assets/photos/febic2024/febic.jpeg" alt="Médias" />
+    <img src="/resource/meta/imagens/photos/febic2024/febic.jpeg" alt="Médias" />
     <div class="slide-caption">Médias</div>
   </a>
 </div>
@@ -154,7 +154,7 @@ Pour naviguer dans mon travail, explorez les sections du site (en portugais/angl
 Les liens ci-dessous ne sont actuellement disponibles qu'en portugais:
 
 - [[pt-br/research/|Recherche]] — Découvrez mes projets actuels et publications.
-- [[pt-br/resource/|Ressources]] — Matériaux, scripts et outils utiles que j'ai développés ou que j'utilise.
+- [[pt-br/academic/courses/|Ressources]] — Matériaux, scripts et outils utiles que j'ai développés ou que j'utilise.
 - [[pt-br/media/|Médias]] — Participations à des événements, salons et présentations.
 
 Ce site est d'abord rédigé en **portugais (Brésil)** puis traduit en anglais au fil du temps — le français est la langue la plus récente à rejoindre le site, il reste donc beaucoup à traduire. Si vous avez remarqué quelque chose de manquant ou d'obsolète, vous pouvez ouvrir une [issue dans le dépôt](https://github.com/pedroiff0/quartz-site/issues), ou [cliquer ici pour en ouvrir une déjà pré-remplie à partir du modèle de traduction](https://github.com/pedroiff0/quartz-site/issues/new?template=traducao.yml).

@@ -20,7 +20,7 @@ cssclasses:
 
  Il combine les données astrométriques de Gaia, l'abondance d'APOGEE et de LAMOST, et les âges de StarHorse pour cartographier l'évolution de la Voie lactée et le dilemme entre disque épais et disque fin (origine possible dans la fusion riche en gaz comme Gaia-Sausage- Encelade, filaments cosmiques ou migration radiale). Pour votre projet : contexte de formation et de migration de disques que le GAM de Dantasutiliser.
 
- [Voir article original](https://doi.org/10.3847/1538-4357/ae0c96)·[Réflexion Télécharger le PDF](/assets/articles/Borbolato2025.pdf)
+ [Voir article original](https://doi.org/10.3847/1538-4357/ae0c96)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Borbolato2025.pdf)
 
 ## Citation
 

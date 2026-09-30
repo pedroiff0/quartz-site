@@ -20,7 +20,7 @@ cssclasses:
 
  Utilisez ~ 600 000 spectres haute résolution GALAH + algorithme d'apprentissage automatique pour trouver 54 candidats pour des étoiles métalliques extrêmement basses (EMP,\ [Fe / H] < -3.0). Il montre que ML dans les grands soulèvements spectroscopiques est puissant pour la découverte, directement à la question des anomalies / détection de rares.
 
- [Voir article original](https://doi.org/10.3847/1538-4357/ac5fa7)·[Réflexion Télécharger le PDF](/assets/articles/Hughes2022.pdf)
+ [Voir article original](https://doi.org/10.3847/1538-4357/ac5fa7)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Hughes2022.pdf)
 
 ## Citation
 

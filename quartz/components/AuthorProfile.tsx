@@ -23,11 +23,11 @@ const AuthorProfile: QuartzComponent = ({ displayClass, fileData }: QuartzCompon
     <div class={classNames(displayClass, "author-profile")}>
       <details class="author-details">
         <summary class="author-summary">
-          <img src={baseDir + "assets/profilepic.jpeg"} alt="Pedro H. R. de Andrade" class="author-avatar-small" />
+          <img src={baseDir + "resource/meta/imagens/profilepic.jpeg"} alt="Pedro H. R. de Andrade" class="author-avatar-small" />
           <span>Pedro H. R. de Andrade</span>
         </summary>
         <div class="author-info">
-          <img src={baseDir + "assets/profilepic.jpeg"} alt="Pedro H. R. de Andrade" class="author-avatar" />
+          <img src={baseDir + "resource/meta/imagens/profilepic.jpeg"} alt="Pedro H. R. de Andrade" class="author-avatar" />
           <p class="author-bio">{content.bio}</p>
           <p class="author-detail">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style={iconStyle}><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>

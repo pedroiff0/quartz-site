@@ -20,7 +20,7 @@ cssclasses:
 
  Presenta la estructura quimiodinámica de la vecindad solar con 62.814 estrellas (GALAH + Gaia DR2). Muestra que la dispersión de velocidad varía suavemente con \[Fe/H] y \[α/Fe], y discute migración (churning vs blurring) — conectando directamente al tema de origen/movimiento estelar de su proyecto.
 
- [Véase el artículo original](https://doi.org/10.1093/mnras/staa335)·[Reflexión Descargar PDF](/assets/articles/Hayden2020.pdf)
+ [Véase el artículo original](https://doi.org/10.1093/mnras/staa335)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Hayden2020.pdf)
 
 ## Citación
 

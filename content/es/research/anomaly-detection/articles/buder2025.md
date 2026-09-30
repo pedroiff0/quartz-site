@@ -20,7 +20,7 @@ cssclasses:
 
  Cuarto release de GALAH (DR4): 917.588 estrellas con hasta 32 elementos (incluyendo nitrógeno y elementos tierras-raras), usando redes neuronales para ajustar parámetros y abundancias. Es la más reciente y vasta fuente de datos químicos para su proyecto.
 
- [Véase el artículo original](https://doi.org/10.1017/pasa.2025.26)·[Reflexión Descargar PDF](/assets/articles/Buder2025.pdf)
+ [Véase el artículo original](https://doi.org/10.1017/pasa.2025.26)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Buder2025.pdf)
 
 ## Citación
 

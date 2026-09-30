@@ -20,7 +20,7 @@ cssclasses:
 
  Usa >872.000 espectros de GALAH para aislar Bandas Difusas Interestelares (DIBs), generando catálogo de 183 features. Menos central a su tema, pero muestra uso de big data espectroscópico de GALAH.
 
- [Véase el artículo original](https://doi.org/10.1093/mnras/stad678)·[Reflexión Descargar PDF](/assets/articles/Vogrini2023.pdf)
+ [Véase el artículo original](https://doi.org/10.1093/mnras/stad678)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Vogrini2023.pdf)
 
 ## Citación
 

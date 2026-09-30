@@ -15,23 +15,23 @@ cssclasses:
 
 <div class="media-carousel">
   <a href="/pt-br/research/anomaly-detection" class="carousel-slide">
-    <img src="/assets/anomaly-detection/spectra-viewer.png" alt="Détection d'anomalies dans les données de Gaia" />
+    <img src="/resource/areas/academico/anomaly-detection/spectra-viewer.png" alt="Détection d'anomalies dans les données de Gaia" />
     <div class="slide-caption">Détection d'anomalies dans les données de Gaia</div>
   </a>
   <a href="/pt-br/research/dark-matter-shocks" class="carousel-slide">
-    <img src="/assets/illustrations/cosmologia.svg" alt="Comprendre la matière noire des chocs extragalactiques" />
+    <img src="/resource/meta/illustrations/cosmologia.svg" alt="Comprendre la matière noire des chocs extragalactiques" />
     <div class="slide-caption">Matière noire et chocs extragalactiques</div>
   </a>
   <a href="/pt-br/research/satellite-trail-removal" class="carousel-slide">
-    <img src="/assets/illustrations/informatica.svg" alt="Simulation de l'impact des satellites sur les observations astronomiques" />
+    <img src="/resource/meta/illustrations/informatica.svg" alt="Simulation de l'impact des satellites sur les observations astronomiques" />
     <div class="slide-caption">Impact des satellites sur les observations</div>
   </a>
   <a href="/pt-br/research/relatex" class="carousel-slide">
-    <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX: Classe LaTeX pour le travail académique IFF" />
+    <img src="/resource/meta/illustrations/toolkit.svg" alt="ReLaTeX: Classe LaTeX pour le travail académique IFF" />
     <div class="slide-caption">ReLaTeX (classe LaTeX)</div>
   </a>
   <a href="/pt-br/research/journal-clubs" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Clubs de revues" />
+    <img src="/resource/meta/illustrations/articles.svg" alt="Clubs de revues" />
     <div class="slide-caption">Clubs de revues</div>
   </a>
 </div>
@@ -63,7 +63,7 @@ cssclasses:
 ## Lecture
 
 - [[fr/research/journal-clubs|Clubs de revues]]- Liste des articles examinés en groupe (MWBR et ENGCOMP), avec la discussion de chacun.
-- *[Motifs de l'évolution chimique de la galaxie](/assets/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)* * (W. Maciel, IAG / USP) - livre de référence de ma région, distribué gratuitement par l'auteur.
+- *[Motifs de l'évolution chimique de la galaxie](/resource/areas/academico/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)* * (W. Maciel, IAG / USP) - livre de référence de ma région, distribué gratuitement par l'auteur.
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

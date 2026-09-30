@@ -20,7 +20,7 @@ cssclasses:
 
  Déterminer les paramètres et l'abondance de 6 millions d'étoiles de LAMOST DR5 via le modèle DD-Payne (herda The Payne et The Cannon), avec 16 éléments. Il montre la puissance des modèles fondés sur les données dans les grands soulèvements - pertinent à son pipeline d'abondance.
 
- [Voir article original](https://doi.org/10.3847/1538-4365/ab5364)·[Réflexion Télécharger le PDF](/assets/articles/Xiang2019.pdf)
+ [Voir article original](https://doi.org/10.3847/1538-4365/ab5364)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Xiang2019.pdf)
 
 ## Citation
 

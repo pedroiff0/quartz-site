@@ -20,7 +20,7 @@ cssclasses:
 
  Il présente la première preuve que les techniques d'apprentissage adaptatif (apprentissage actif) augmentent la découverte d'objets inhabituels en astronomie. C'est DIRECT au thème de votre projet : détecter efficacement les étoiles atypiques (anomalies).
 
- [Voir article original](https://doi.org/10.1051/0004-6361/202037709)·[Réflexion Télécharger le PDF](/assets/articles/Ishida2021.pdf)
+ [Voir article original](https://doi.org/10.1051/0004-6361/202037709)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Ishida2021.pdf)
 
 ## Citation
 

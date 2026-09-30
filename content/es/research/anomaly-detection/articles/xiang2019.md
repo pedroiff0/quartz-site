@@ -20,7 +20,7 @@ cssclasses:
 
  Determina parámetros y abundancias de 6 millones de estrellas de LAMOST DR5 vía modelo data-driven DD-Payne (herda The Payne y The Cannon), con 16 elementos. Muestra poder de modelos data-driven en grandes levantamientos — relevante para su pipeline de abundancias.
 
- [Véase el artículo original](https://doi.org/10.3847/1538-4365/ab5364)·[Reflexión Descargar PDF](/assets/articles/Xiang2019.pdf)
+ [Véase el artículo original](https://doi.org/10.3847/1538-4365/ab5364)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Xiang2019.pdf)
 
 ## Citación
 

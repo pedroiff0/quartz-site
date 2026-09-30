@@ -38,7 +38,7 @@ O GALAH observa cada estrela em **4 bandas (CCDs)** do espectrógrafo HERMES, no
 
 Para inspecionar espectros individuais durante a análise, desenvolvi um **visualizador web público de espectros do GALAH DR4** — mostra as 4 bandas de cada estrela (por `sobject_id`), com anotação das regiões de comprimento de onda associadas a cada grupo de elementos químicos (elementos de pico de ferro, captura de nêutrons, processo-α, CNO, Hα/Hβ, etc.):
 
-![Visualizador de espectros GALAH DR4: as 4 bandas (azul, verde, vermelho, infravermelho) de uma estrela, com as regiões espectrais de cada grupo de elementos químicos marcadas na legenda.](assets/anomaly-detection/spectra-viewer.png)
+![Visualizador de espectros GALAH DR4: as 4 bandas (azul, verde, vermelho, infravermelho) de uma estrela, com as regiões espectrais de cada grupo de elementos químicos marcadas na legenda.](resource/areas/academico/anomaly-detection/spectra-viewer.png)
 
 ---
 
@@ -59,7 +59,7 @@ Este trabalho foi publicado como:
 
 > ANDRADE, P. H. R. et al. *Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4*. Boletim da Sociedade Astronômica Brasileira, 2025.
 
-E apresentado como pôster na **SAB 2025**, na **78ª Reunião Anual da SBPC (2026)** e nesta **Escola de Inverno do Observatório Nacional (2026)** — ver [[pt-br/resource/escolainverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] para o texto completo dessa apresentação.
+E apresentado como pôster na **SAB 2025**, na **78ª Reunião Anual da SBPC (2026)** e nesta **Escola de Inverno do Observatório Nacional (2026)** — ver [[pt-br/academic/courses/escolainverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] para o texto completo dessa apresentação.
 
 ---
 
@@ -78,13 +78,13 @@ Uma decisão metodológica central foi entender a diferença entre alimentar o t
 
 Rodei o t-SNE sobre os espectros normalizados (HDU 1 do FITS de cada estrela/CCD) em várias configurações, comparando com a abordagem por colunas:
 
-![t-SNE sobre os espectros brutos (4 CCDs concatenados, ~5.900 estrelas), colorido por Teff, log g e [Fe/H] do catálogo — usado como teste de honestidade do agrupamento.](assets/anomaly-detection/tsne-espectros-brutos.png)
+![t-SNE sobre os espectros brutos (4 CCDs concatenados, ~5.900 estrelas), colorido por Teff, log g e [Fe/H] do catálogo — usado como teste de honestidade do agrupamento.](resource/areas/academico/anomaly-detection/tsne-espectros-brutos.png)
 
-![Comparação de diferentes perplexidades do t-SNE sobre os espectros (dados de pixel), colorido pela temperatura efetiva — perplexidades mais altas suavizam a estrutura local em favor da global.](assets/anomaly-detection/tsne-comparacao-perplexidade.png)
+![Comparação de diferentes perplexidades do t-SNE sobre os espectros (dados de pixel), colorido pela temperatura efetiva — perplexidades mais altas suavizam a estrutura local em favor da global.](resource/areas/academico/anomaly-detection/tsne-comparacao-perplexidade.png)
 
 Também testei quantitativamente a **estabilidade dos agrupamentos entre diferentes perplexidades**, usando o Índice de Rand Ajustado (ARI) para medir a concordância entre clusters obtidos em cada perplexidade, e rastreando como estrelas individuais "migram" de cluster ao variar esse hiperparâmetro:
 
-![Concordância entre perplexidades (matriz ARI), score de estabilidade por estrela e migração de clusters entre perplexidade 5 e 30 — usado para escolher hiperparâmetros de forma menos arbitrária.](assets/anomaly-detection/validacao-perplexidade-ari.png)
+![Concordância entre perplexidades (matriz ARI), score de estabilidade por estrela e migração de clusters entre perplexidade 5 e 30 — usado para escolher hiperparâmetros de forma menos arbitrária.](resource/areas/academico/anomaly-detection/validacao-perplexidade-ari.png)
 
 ### Comparação de técnicas de redução + clustering
 
@@ -134,4 +134,4 @@ Resumo das principais decisões metodológicas tomadas ao longo do projeto, a pa
 
 ## Referências e correlatos
 
-- [[pt-br/resource/escolainverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] — texto de preparação para apresentar a Etapa 1 (Banner SBPC 2026 e Banner desta Escola de Inverno).
+- [[pt-br/academic/courses/escolainverno/Apresentacao/MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] — texto de preparação para apresentar a Etapa 1 (Banner SBPC 2026 e Banner desta Escola de Inverno).

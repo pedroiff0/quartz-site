@@ -14,7 +14,7 @@ cssclasses:
 
 <div class="media-carousel">
   <a href="/pt-br/blog/bem-vindo" class="carousel-slide">
-    <img src="/assets/illustrations/toolkit.svg" alt="Bem-vindo ao blog" />
+    <img src="/resource/meta/illustrations/toolkit.svg" alt="Bem-vindo ao blog" />
     <div class="slide-caption">Bem-vindo ao blog</div>
   </a>
 </div>

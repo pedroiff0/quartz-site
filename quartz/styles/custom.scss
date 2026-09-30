@@ -183,6 +183,20 @@ body:not([data-slug^="pt-br"])
     background 0.2s ease;
 }
 
+.nav-lang a {
+  gap: 0.4rem;
+}
+
+.nav-lang-flag {
+  display: block;
+  width: 24px;
+  height: 16px;
+  object-fit: cover;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px var(--gray);
+  margin: 0;
+}
+
 .nav-lang a:hover {
   transform: scale(1.05);
   background: var(--gray);
@@ -291,7 +305,7 @@ details.author-details[open] .author-summary {
 /* Hide backlinks on Home / Index / Sobre-Mim pages */
 body[data-slug="index"] .backlinks,
 body[data-slug="pt-br/index"] .backlinks,
-body[data-slug="pt-br/sobre-mim"] .backlinks,
+body[data-slug="pt-br/about-me"] .backlinks,
 body[data-slug="pt-br/mapa/index"] .backlinks,
 body[data-slug="mapa/index"] .backlinks {
   display: none !important;

@@ -166,7 +166,7 @@ def encrypt_pdf(pdf_path, password=SENHA_INSTITUCIONAL):
         print(f"[ERRO ENCRIPTACAO PDF] {e}")
         return False
 
-def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, subtitulo, is_dark=False, url_qr="https://www.phrandrade.com/pt-br/resource/latex"):
+def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, subtitulo, is_dark=False, url_qr="https://www.phrandrade.com/pt-br/academic/courses/latex"):
     prs = pptx.Presentation(template_path)
     
     obrigado_idx = -1
@@ -305,7 +305,7 @@ def pptx_clean(text):
     return text
 
 def extract_slides_from_md(num_str):
-    pattern = f"/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/latex/aula-{num_str}-*.md"
+    pattern = f"/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/academic/courses/latex/aula-{num_str}-*.md"
     files = glob.glob(pattern)
     if not files: return [{"title": "Conteúdo indisponível", "items": ["Arquivo MD não encontrado."]}]
     with open(files[0], 'r', encoding='utf-8') as f: content = f.read()
@@ -649,7 +649,7 @@ def gerar_tex_notas_100_latex_institucional(num, titulo, subtitulo):
     lines.append(r"\vspace{0.8cm}")
     
     import glob
-    md_files = glob.glob(f"content/pt-br/resource/latex/aula-{num_str}-*.md")
+    md_files = glob.glob(f"content/pt-br/academic/courses/latex/aula-{num_str}-*.md")
     if md_files:
         with open(md_files[0], 'r', encoding='utf-8') as f:
             md_content = f.read()
@@ -667,7 +667,7 @@ def gerar_tex_notas_100_latex_institucional(num, titulo, subtitulo):
     lines.append(r"\end{document}")
     return "\n".join(lines)
 
-def compilar_pdf(tex_code, output_pdf_path, cls_dir=None, is_dark=False, url_qr="https://pedroiff0.github.io/page/pt-br/resource/latex"):
+def compilar_pdf(tex_code, output_pdf_path, cls_dir=None, is_dark=False, url_qr="https://pedroiff0.github.io/page/pt-br/academic/courses/latex"):
     """Compila código TeX e aplica proteção de senha no PDF final com a senha institucional escritaiff2026."""
     with tempfile.TemporaryDirectory() as tmp_dir:
         tex_path = os.path.join(tmp_dir, "documento.tex")
@@ -759,7 +759,7 @@ def main():
         num_str = f"{num:02d}"
         titulo, subtitulo = AULAS_TITULOS.get(num, (f"Conteúdo Didático da Aula {num_str}", "Normas ABNT e Prática ReLaTeX"))
         slug = AULAS_SLUGS.get(num, f"aula-{num_str}")
-        url_aula = f"https://www.phrandrade.com/pt-br/resource/latex/{slug}"
+        url_aula = f"https://www.phrandrade.com/pt-br/academic/courses/latex/{slug}"
         
         # 0. Salvar QR Codes institucionais individuais (.png)
         qr_branco = os.path.join(dir_qrcodes, f"aula-{num_str}-branco.png")

@@ -1,147 +1,222 @@
 ---
 publish: true
-title: "Guia de DevOps e Infraestrutura"
-created: 2026-09-28 22:55
-modified: 2026-09-29 09:07
+title: Guia de DevOps e Infraestrutura
+created: '2026-09-28T22:55:00-03:00'
+modified: 2026-09-30T13:05:50-03:00
 tags:
-  - projeto
-  - publico
-  - pessoal
+- projeto
+- publico
+- pessoal
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-server
-repo: "https://github.com/pedroiff0/devops-guide"
+repo: https://github.com/pedroiff0/devops-guide
 status: ativo
 license: MIT
 author: Pedro Henrique Rocha de Andrade
+sitesync: true
 ---
 
-# Guia de DevOps e Infraestrutura
+- Origem: [[pt-br/projects/site-publico-hub|Site Público]]
+
+# O.C.T.A. — Omni Clarified Technical Atlas
+### *The Ultimate Engineering, DevOps Second Brain & Re-explained Documentation Hub*
 
 <p align="center">
-  <a href="https://github.com/pedroiff0/devops-guide/actions"><img src="https://img.shields.io/github/actions/workflow/status/pedroiff0/devops-guide/ci.yml?branch=main&label=CI&logo=github" alt="Status CI" /></a>
-  <a href="https://github.com/pedroiff0/devops-guide/issues"><img src="https://img.shields.io/github/issues/pedroiff0/devops-guide?logo=github&color=blue" alt="Issues Abertas" /></a>
-  <a href="https://github.com/pedroiff0/devops-guide/pulls"><img src="https://img.shields.io/github/issues-pr/pedroiff0/devops-guide?logo=github&color=purple" alt="PRs" /></a>
-  <a href="https://github.com/pedroiff0/devops-guide/commits/main"><img src="https://img.shields.io/github/last-commit/pedroiff0/devops-guide?logo=git" alt="Último Commit" /></a>
-  <a href="https://github.com/pedroiff0/devops-guide"><img src="https://img.shields.io/github/repo-size/pedroiff0/devops-guide" alt="Tamanho do Repositório" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/pedroiff0/devops-guide?color=brightgreen" alt="Licença" /></a>
+  <a href="https://github.com/pedroiff0/devops-guide/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT"></a>
+  <a href="https://quartz.jzhao.xyz/"><img src="https://img.shields.io/badge/Engine-Quartz%20v4-black?style=for-the-badge&logo=quartz" alt="Quartz v4"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-%3E%3D22-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js 22+"></a>
+  <a href="https://octa.phrandrade.com"><img src="https://img.shields.io/badge/Domain-octa.phrandrade.com-blueviolet?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Custom Domain"></a>
+  <a href="https://www.conventionalcommits.org/"><img src="https://img.shields.io/badge/Commits-Conventional%201.0.0-FE5196?style=for-the-badge&logo=git" alt="Conventional Commits"></a>
+  <img src="https://img.shields.io/badge/Languages-PT--BR%20%7C%20EN--US-informational?style=for-the-badge" alt="Bilingual">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" />
+  <strong> <a href="https://octa.phrandrade.com">Acesse a Plataforma Online / Access Live Digital Garden: octa.phrandrade.com</a></strong>
 </p>
 
-> [!abstract] Brief do Projeto
-> Documentação prática de administração de servidores Linux, Docker Compose, Cloudflare Tunnels e pipelines de CI/CD.
+---
+
+## Sobre o Projeto / About The Project
+
+Documentações técnicas oficiais costumam ser densas, dispersas ou puramente descritivas. O **O.C.T.A. (Omni Clarified Technical Atlas)** é um **Segundo Cérebro aberto (Digital Garden)** concebido para ser o "atlas unificado de todos os outros guias": estruturado em tópicos, subtópicos e subsubtópicos aprofundados, ricamente exemplificados com casos reais de engenharia, referências cruzadas no grafo, links externos e suporte bilíngue nativo.
+
+### Principais Destaques:
+- /  **100% Bilíngue**: Navegação completa espelhada em **Português (PT-BR)** e **Inglês (EN-US)** com alternância instantânea de idioma sem quebra de rota.
+- **Grafo de Conhecimento Interativo**: Visualização em rede D3 mapeando interconexões conceituais entre ferramentas, protocolos e padrões.
+- **Módulo GitHub Completo**: De comandos atômicos do Git a pipelines de CI/CD, governança de PRs, SonarCloud, Snyk e GitHub Pages.
+- **Ecossistemas em Expansão**: Hubs dedicados na barra lateral para Docker, Cloudflare, Claude (Anthropic), Hermes Agent, Lovable e OceanGate / OpenGate.
+- **Agentic Skills Nativas**: Diretório de skills padronizadas para agentes autônomos (Antigravity, Claude Code, Hermes).
 
 ---
 
-<details open>
-  <summary><b>Índice / Sumário</b></summary>
-
-  - [Visão Geral e Arquitetura](#visão-geral-e-arquitetura)
-  - [Tecnologias e Stack](#tecnologias-e-stack)
-  - [Pré-requisitos e Configuração](#pré-requisitos-e-configuração)
-  - [Como Executar Localmente](#como-executar-localmente)
-  - [Comandos e Scripts Disponíveis](#comandos-e-scripts-disponíveis)
-  - [Principais Funcionalidades](#principais-funcionalidades)
-  - [Contribuição](#contribuição)
-  - [Segurança](#segurança)
-  - [Licença](#licença)
-  - [Autor e Contato](#autor-e-contato)
-  - [Links e Referências](#links-e-referências)
-</details>
-
----
-
-## Visão Geral e Arquitetura
-
-Descrição da visão geral da solução, modelo de arquitetura de software, fluxo de dados e integração de componentes.
+## Pilares do Conhecimento / Knowledge Pillars
 
 ```mermaid
 graph TD
-    A["Cliente / Interface Web"] --> B["API Gateway / Servidor"]
-    B --> C["Serviços & Regras de Negócio"]
-    C --> D["Banco de Dados / Persistência"]
+    Hub[" O.C.T.A. Atlas (octa.phrandrade.com)"]
+    Hub --> GitHub[" GitHub & Git Guide (Completo)"]
+    Hub --> Docker[" Docker & Containers"]
+    Hub --> Cloudflare[" Cloudflare Ecosystem"]
+    Hub --> Claude[" Claude & AI Engineering"]
+    Hub --> Hermes[" Hermes Agent & Skills"]
+    Hub --> Lovable[" Lovable Full-Stack"]
+    Hub --> OceanGate[" OceanGate / OpenGate"]
+
+    GitHub --> G1["Git Essentials & Internals"]
+    GitHub --> G2["Conventional Commits 1.0.0"]
+    GitHub --> G3["GitHub Flow & Governance"]
+    GitHub --> G4["GitHub Actions & CI/CD"]
+    GitHub --> G5["Security: Snyk & SonarCloud"]
+    GitHub --> G6["Quartz v4 & Pages"]
+    GitHub --> G7["GitHub CLI & APIs"]
 ```
 
+| Pilar | Descrição & Escopo | Status |
+| :--- | :--- | :--- |
+| ** GitHub & Git** | Commits semânticos, fluxos de PR, CI/CD Actions, Snyk, SonarCloud, CLI e Quartz. | [Completo] **Completo** |
+| ** Docker** | Virtualização de processos, Dockerfile multi-stage, Docker Compose, redes e volumes. | [Em expansão] *Em Expansão* |
+| ** Cloudflare** | Workers V8 Isolates, Pages, Zero Trust, Tunnels (`cloudflared`), R2 Storage e DNS. | [Em expansão] *Em Expansão* |
+| ** Claude & IA** | Prompt Engineering estruturado, context windows de 200k+ tokens, Claude Code e MCP. | [Em expansão] *Em Expansão* |
+| ** Hermes Agent** | Criação de skills modulares, automação de repositórios e integração de ferramentas. | [Em expansão] *Em Expansão* |
+| ** Lovable** | Prototipagem full-stack acelerada, arquitetura React + Supabase e sincronização Git. | [Em expansão] *Em Expansão* |
+| ** OceanGate** | API Gateways de alta vazão, roteamento de borda, rate limiting e resiliência. | [Em expansão] *Em Expansão* |
+
 ---
 
-## Tecnologias e Stack
-
-- **Docker**
-- **Bash**
-- **Nginx**
-- **Cloudflare**
-
----
-
-## Pré-requisitos e Configuração
+## Início Rápido / Quick Start
 
 ### Pré-requisitos
-- Node.js (versão 18.x ou superior) / Python 3.11+
-- Gerenciador de pacotes: `npm` ou `pip`
-- Git instalado
+- **Node.js**: Versão `>= 22`
+- **npm**: Versão `>= 10`
+
+### 1. Clonar o Repositório
+```bash
+git clone https://github.com/pedroiff0/devops-guide.git
+cd devops-guide
+```
+
+### 2. Instalar Dependências & Plugins
+```bash
+npm install
+npx quartz plugin install
+```
+
+### 3. Iniciar Servidor de Desenvolvimento Local
+```bash
+npm run serve
+```
+Abra `http://localhost:8080` no navegador para explorar o jardim digital com recarregamento em tempo real (*live reload*).
+
+### 4. Compilar para Produção
+```bash
+npm run build
+```
+Os arquivos estáticos otimizados serão gerados na pasta `public/`, incluindo o arquivo `CNAME` para `octa.phrandrade.com`.
 
 ---
 
-## Como Executar Localmente
+## Estrutura do Repositório / Directory Tree
 
-```bash
-# 1. Clonar o repositório
-git clone https://github.com/pedroiff0/devops-guide.git
-
-# 2. Acessar o diretório do projeto
-cd devops-guide
-
-# 3. Instalar as dependências
-npm install
-
-# 4. Executar a aplicação
-npm run dev
+```text
+devops-guide/
+ .github/
+    workflows/
+       deploy-gh-pages.yaml # Deploy contínuo no GitHub Pages / Custom Domain
+       ci.yml               # Verificação de build e linter
+    ISSUE_TEMPLATE/          # Templates padronizados de Issues
+    PULL_REQUEST_TEMPLATE.md # Template para Pull Requests
+ content/                     # Vault de Conteúdo Markdown
+    index.md                 # Portal / Landing Page raiz
+    pt-br/                   # Documentações em Português do Brasil
+       index.md             # Hub central PT-BR
+       github/              # Módulo completo do Guia GitHub
+       docker/              # Hub Docker & Containers
+       cloudflare/          # Hub Cloudflare
+       claude/              # Hub Claude & IA
+       hermes/              # Hub Hermes Agent
+       lovable/             # Hub Lovable
+       oceangate/           # Hub OceanGate
+    en/                      # 100% Mirrored English Content
+ local-plugins/               # Plugins locais personalizados do Quartz
+    page-title-i18n/         # Título com relógio UTC-3 em tempo real
+ quartz/                      # Código do motor Quartz v4 (Preact/TS/SCSS)
+ skills/                      # Skills do repositório para devs e agentes IA
+    doc-authoring/           # Padrões de escrita e frontmatter
+    second-brain-graph/      # Curadoria de topologia e wikilinks
+    quartz-management/       # Operação do Quartz v4
+    git-flow-conventional-commits/ # Fluxos Git e validação
+    ci-cd-github-pages/      # Manutenção de CI/CD
+    re-explained-doc-engine/ # Expansão de novos pilares
+ scripts/
+    validate-commit-msg.sh   # Validador local de Conventional Commits
+    check-i18n-mirror.py     # Verificador de simetria de slugs bilíngue
+ static/
+    CNAME                    # Apontamento para octa.phrandrade.com
+ quartz.config.yaml           # Configuração de plugins, tema e grafo
+ package.json
+ README.md
 ```
 
 ---
 
-## Comandos e Scripts Disponíveis
+## Repository Skills para Agentes & Contribuidores
 
-| Comando | Descrição |
-| :--- | :--- |
-| `npm run dev` | Inicia a aplicação em ambiente local |
-| `npm run build` | Compila o projeto para produção |
-| `npm run test` | Executa a suíte de testes |
+Este repositório adota a especificação de **Skills** autocontidas para guiar agentes de IA e desenvolvedores:
 
----
-
-## Principais Funcionalidades
-
-- **Recurso Principal:** Solução estruturada para o domínio do projeto.
-- **Interface e Usabilidade:** Design responsivo e navegação fluida.
-- **Integração:** Comunicação com APIs e armazenamento persistente.
+- [`skills/doc-authoring/SKILL.md`](./skills/doc-authoring/SKILL.md): Guia de autoria de notas, diagramas Mermaid e alertas.
+- [`skills/second-brain-graph/SKILL.md`](./skills/second-brain-graph/SKILL.md): Regras de interconexão e curadoria do grafo.
+- [`skills/quartz-management/SKILL.md`](./skills/quartz-management/SKILL.md): Manutenção do motor Quartz v4.
+- [`skills/git-flow-conventional-commits/SKILL.md`](./skills/git-flow-conventional-commits/SKILL.md): Padrões de commits e branches.
+- [`skills/ci-cd-github-pages/SKILL.md`](./skills/ci-cd-github-pages/SKILL.md): Manutenção de CI/CD e Pages.
+- [`skills/re-explained-doc-engine/SKILL.md`](./skills/re-explained-doc-engine/SKILL.md): Criação e expansão de novos módulos.
 
 ---
 
-## Contribuição
+## Como Contribuir / Contributing
 
-Contribuições são muito bem-vindas! Caso deseje contribuir com correções, melhorias ou novas funcionalidades:
+Contribuições são muito bem-vindas! Seja corrigindo um erro de digitação, adicionando novos exemplos ou expandindo um pilar:
 
 1. Faça um Fork do repositório.
-2. Crie uma branch para a sua funcionalidade (`git checkout -b feature/nova-funcionalidade`).
-3. Commit suas alterações (`git commit -m 'feat: adiciona nova funcionalidade'`).
-4. Envie para a branch (`git push origin feature/nova-funcionalidade`).
-5. Abra um Pull Request detalhado.
+2. Crie uma branch para sua modificação: `git checkout -b feat/meu-novo-guia`.
+3. Siga o padrão [[skills/git-flow-conventional-commits/SKILL|Conventional Commits]]: `feat(docker): adicionar exemplo de volume`.
+4. Valide a compilação localmente com `npm run build`.
+5. Envie um Pull Request detalhado.
+
+Consulte [`CONTRIBUTING.md`](./CONTRIBUTING.md) e [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) para mais detalhes.
 
 ---
 
-## Segurança
+## Autores & Contribuidores / Authors & Contributors
 
-Caso você descubra alguma vulnerabilidade de segurança, por favor não abra uma issue pública. Reporte o problema enviando um e-mail diretamente ao mantenedor do projeto.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/pedroiff0">
+          <img src="https://github.com/pedroiff0.png?size=110" width="110px;" alt="Pedro Henrique Rocha de Andrade" style="border-radius:50%;"/><br />
+          <sub><b>Pedro Henrique Rocha de Andrade</b></sub>
+        </a><br />
+        <sub> Idealizador & Mantenedor Principal</sub><br />
+        <a href="https://phrandrade.com"> phrandrade.com</a> · <a href="mailto:pedroiff0@gmail.com"> Email</a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/evertonpje">
+          <img src="https://github.com/evertonpje.png?size=110" width="110px;" alt="Everton" style="border-radius:50%;"/><br />
+          <sub><b>Everton</b></sub>
+        </a><br />
+        <sub> Contribuidor Principal & Co-Mantenedor</sub><br />
+        <a href="https://github.com/evertonpje"> @evertonpje</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## Licença
+## Licença / License
 
-Este projeto está licenciado sob os termos da licença **MIT**. Consulte o arquivo [LICENSE](https://github.com/pedroiff0/devops-guide/blob/main/LICENSE) para obter mais detalhes.
+Distribuído sob a licença **MIT**. Consulte [`LICENSE`](./LICENSE) para mais informações.
 
 ---
 
@@ -155,12 +230,12 @@ Este projeto está licenciado sob os termos da licença **MIT**. Consulte o arqu
 
 ## Links e Referências
 
-- **Repositório no GitHub:** [devops-guide](https://github.com/pedroiff0/devops-guide)
-- **Índice de Projetos:** [[01-projetos/site-publico/projetos-publicos|Projetos Públicos]]
+- **Repositório no GitHub:** [pedroiff0/devops-guide](https://github.com/pedroiff0/devops-guide)
+- **Índice de Projetos:** [[pt-br/projects/projetos-publicos|Projetos Públicos]]
 
 ---
 
-<p align="center">
+<p align=center>
   <a href="https://github.com/pedroiff0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/pedro-andrade-iff" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/pedroiff0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -168,7 +243,7 @@ Este projeto está licenciado sob os termos da licença **MIT**. Consulte o arqu
   <a href="https://pedroiff.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
-<p align="center">
+<p align=center>
   <sub>© 2026 <b><a href="https://pedroiff.com">Pedro Rocha</a></b> — Computer Engineering &amp; Computational Astrophysics</sub><br />
   <sub>Made with <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23888888' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M10 2v2'/><path d='M14 2v2'/><path d='M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1'/><path d='M6 2v2'/></svg>" width="16" height="16" valign="middle" alt="coffee" />, <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23888888' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='m16 18 6-6-6-6'/><path d='m8 6-6 6 6 6'/></svg>" width="16" height="16" valign="middle" alt="code" /> and <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23888888' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='3'/><path d='M3 12a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9'/><path d='M5.5 5.5a13 13 0 0 0 13 13'/><path d='M18.5 5.5a13 13 0 0 1-13 13'/></svg>" width="16" height="16" valign="middle" alt="astrophysics" /> by <b><a href="https://github.com/pedroiff0">Pedro Henrique Rocha de Andrade</a></b></sub>
 </p>

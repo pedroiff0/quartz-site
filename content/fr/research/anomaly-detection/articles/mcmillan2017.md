@@ -20,7 +20,7 @@ cssclasses:
 
  Il présente des modèles de masse de la Voie lactée adaptés aux restrictions d'observation. Trouver R0 = 8,20 ± 0,09 kpc, vitesse circulaire dans le Soleil v0 = 232,8 ± 3,0 km / s, masse stellaire totale (54,3 ± 5,7) × 10 ^ 9 Soleil et masse vendrial (1,30 ± 0,30) × 10 ^ 12 Soleil. C'est la référence aux paramètres potentiels que vous utilisez en or.
 
- [Voir article original](https://doi.org/10.1093/mnras/stw2759)·[Réflexion Télécharger le PDF](/assets/articles/McMillan2017.pdf)
+ [Voir article original](https://doi.org/10.1093/mnras/stw2759)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/McMillan2017.pdf)
 
 ## Citation
 

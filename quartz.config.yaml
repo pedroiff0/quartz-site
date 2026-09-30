@@ -30,8 +30,8 @@ configuration:
     - "**/README - *"
     - "CLAUDE.md"
     - "**/CLAUDE.md"
-    - "content/assets/**/*.md"
-    - "**/assets/**/*.md"
+    - "content/resource/**/*.md"
+    - "**/resource/**/*.md"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

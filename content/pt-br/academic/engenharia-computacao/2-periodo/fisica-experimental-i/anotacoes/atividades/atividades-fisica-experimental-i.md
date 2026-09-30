@@ -1,0 +1,34 @@
+---
+publish: false
+title: Atividades, Trabalhos & Provas — Fisica Experimental I
+created: 2026-08-29 11:58
+modified: 2026-09-29 20:47
+tags:
+- atividade
+- trabalho
+- engenharia-de-computacao
+cssclasses:
+- page-layout
+- cards
+icon: lucide-book-open
+discipline: "[[fisica-experimental-i]]"
+---
+
+# Atividades, Trabalhos & Avaliações
+
+Repositório de **trabalhos práticos, seminários, listas de exercícios e relatórios de avaliação** desenvolvidos na disciplina **Fisica Experimental I**.
+
+---
+
+## Relação de Trabalhos & Atividades
+
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[atividades-fisica-experimental-i\|Atividades, Trabalhos & Provas — Fisica Experimental I]] | 29/08/2026 |
+
+---
+
+## Navegação da Disciplina
+-  Anotações de Quadro & Aulas
+-  [[../../Física Experimental I|Física Experimental I]]
+-  [Hub de Disciplinas](https://www.phrandrade.com/pt-br/academic/courses/engenharia-de-computacao/)

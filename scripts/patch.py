@@ -7,7 +7,7 @@ with open('scripts/gerar_slides_e_notas.py', 'r', encoding='utf-8') as f:
 extract_func = """
 import glob
 def extract_slides_from_md(num_str):
-    pattern = f"/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/latex/aula-{num_str}-*.md"
+    pattern = f"/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/academic/courses/latex/aula-{num_str}-*.md"
     files = glob.glob(pattern)
     if not files: return [{"title": "Conteúdo indisponível", "items": ["Arquivo MD não encontrado."]}]
     with open(files[0], 'r', encoding='utf-8') as f: content = f.read()
@@ -35,7 +35,7 @@ def gerar_tex_slides_52_frames"""
 code = code.replace("def gerar_tex_slides_52_frames", extract_func)
 
 # 2. Update popule_pptx_institucional
-new_popule = """def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, subtitulo, is_dark=False, url_qr="https://www.phrandrade.com/pt-br/resource/latex"):
+new_popule = """def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, subtitulo, is_dark=False, url_qr="https://www.phrandrade.com/pt-br/academic/courses/latex"):
     prs = pptx.Presentation(template_path)
     
     obrigado_idx = -1

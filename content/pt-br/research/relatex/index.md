@@ -19,7 +19,7 @@ cssclasses:
 
 <div class="media-carousel">
   <a href="/pt-br/research/relatex" class="carousel-slide">
-    <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX" />
+    <img src="/resource/meta/illustrations/toolkit.svg" alt="ReLaTeX" />
     <div class="slide-caption">Classe LaTeX ifftese.cls</div>
   </a>
 </div>
@@ -65,5 +65,5 @@ Este projeto será apresentado no **CONEPE 2026** (Congresso de Ensino, Pesquisa
 - LAMPORT, L. _LaTeX: A Document Preparation System_. 2ª ed. Reading, Massachusetts: Addison-Wesley, 1994.
 - EQUIPE ABNTEX2 — [a classe abntex2](https://github.com/abntex/abntex2), base de compatibilidade ABNT usada neste projeto.
 - CONEPE 2026 — a cobertura da apresentação entra aqui depois do evento (setembro de 2026).
-- [[pt-br/resource/latex|LaTeX e Escrita Acadêmica]] — o curso construído em cima deste projeto; as aulas 06 a 08 documentam `ifftese.cls`, `macros.sty` e `metadados.sty` linha a linha.
-- [[pt-br/resource/latex/modelos-corporativos|Modelos Corporativos]] — a mesma arquitetura de classe aplicada fora da academia, com manual de marca no lugar da ABNT.
+- [[pt-br/academic/courses/latex|LaTeX e Escrita Acadêmica]] — o curso construído em cima deste projeto; as aulas 06 a 08 documentam `ifftese.cls`, `macros.sty` e `metadados.sty` linha a linha.
+- [[pt-br/academic/courses/latex/modelos-corporativos|Modelos Corporativos]] — a mesma arquitetura de classe aplicada fora da academia, com manual de marca no lugar da ABNT.

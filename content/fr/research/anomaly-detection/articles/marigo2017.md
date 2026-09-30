@@ -20,7 +20,7 @@ cssclasses:
 
  Il possède une nouvelle génération d'isocrates PARSEC-COLIBRI comprenant une gamme détaillée et étendue de métallicité. Utile pour estimer les paramètres âge/étoile qui entrent dans l'analyse de votre projet.
 
- [Voir article original](https://doi.org/10.3847/1538-4357/835/1/77)·[Réflexion Télécharger le PDF](/assets/articles/Marigo2017.pdf)
+ [Voir article original](https://doi.org/10.3847/1538-4357/835/1/77)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Marigo2017.pdf)
 
 ## Citation
 

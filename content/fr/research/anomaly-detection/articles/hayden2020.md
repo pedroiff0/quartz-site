@@ -20,7 +20,7 @@ cssclasses:
 
  Il présente la structure chimiodynamique du quartier solaire avec 62 814 étoiles (GALAH + Gaia DR2). Il montre que la dispersion de vitesse varie doucement avec\ [Fe / H] et\ [α / Fe], et discute de la migration (churning vs flouring) - connexion directe au thème d'origine / mouvement stellaire de votre projet.
 
- [Voir article original](https://doi.org/10.1093/mnras/staa335)·[Réflexion Télécharger le PDF](/assets/articles/Hayden2020.pdf)
+ [Voir article original](https://doi.org/10.1093/mnras/staa335)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Hayden2020.pdf)
 
 ## Citation
 

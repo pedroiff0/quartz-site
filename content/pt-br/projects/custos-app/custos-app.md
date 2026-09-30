@@ -1,146 +1,140 @@
 ---
 publish: true
-title: "Custos App"
-created: 2026-09-28 22:55
-modified: 2026-09-29 09:07
+title: Custos App
+created: '2026-09-28T22:55:00-03:00'
+modified: 2026-09-30T13:05:50-03:00
 tags:
-  - projeto
-  - publico
-  - profissional
+- projeto
+- publico
+- profissional
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-calculator
-repo: "https://github.com/pedroiff0/custos-app"
+repo: https://github.com/pedroiff0/custos-app
 status: ativo
 license: MIT
 author: Pedro Henrique Rocha de Andrade
+sitesync: true
 ---
 
-# Custos App
+- Origem: [[pt-br/projects/site-publico-hub|Site Público]]
 
-<p align="center">
-  <a href="https://github.com/pedroiff0/custos-app/actions"><img src="https://img.shields.io/github/actions/workflow/status/pedroiff0/custos-app/ci.yml?branch=main&label=CI&logo=github" alt="Status CI" /></a>
-  <a href="https://github.com/pedroiff0/custos-app/issues"><img src="https://img.shields.io/github/issues/pedroiff0/custos-app?logo=github&color=blue" alt="Issues Abertas" /></a>
-  <a href="https://github.com/pedroiff0/custos-app/pulls"><img src="https://img.shields.io/github/issues-pr/pedroiff0/custos-app?logo=github&color=purple" alt="PRs" /></a>
-  <a href="https://github.com/pedroiff0/custos-app/commits/main"><img src="https://img.shields.io/github/last-commit/pedroiff0/custos-app?logo=git" alt="Último Commit" /></a>
-  <a href="https://github.com/pedroiff0/custos-app"><img src="https://img.shields.io/github/repo-size/pedroiff0/custos-app" alt="Tamanho do Repositório" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/pedroiff0/custos-app?color=brightgreen" alt="Licença" /></a>
-</p>
+# Zenith FinOps & Custos SaaS
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-> [!abstract] Brief do Projeto
-> Calculadora de precificação e custos operacionais com análise de margem líquida.
-
----
-
-<details open>
-  <summary><b>Índice / Sumário</b></summary>
-
-  - [Visão Geral e Arquitetura](#visão-geral-e-arquitetura)
-  - [Tecnologias e Stack](#tecnologias-e-stack)
-  - [Pré-requisitos e Configuração](#pré-requisitos-e-configuração)
-  - [Como Executar Localmente](#como-executar-localmente)
-  - [Comandos e Scripts Disponíveis](#comandos-e-scripts-disponíveis)
-  - [Principais Funcionalidades](#principais-funcionalidades)
-  - [Contribuição](#contribuição)
-  - [Segurança](#segurança)
-  - [Licença](#licença)
-  - [Autor e Contato](#autor-e-contato)
-  - [Links e Referências](#links-e-referências)
-</details>
-
----
-
-## Visão Geral e Arquitetura
-
-Descrição da visão geral da solução, modelo de arquitetura de software, fluxo de dados e integração de componentes.
-
-```mermaid
-graph TD
-    A["Cliente / Interface Web"] --> B["API Gateway / Servidor"]
-    B --> C["Serviços & Regras de Negócio"]
-    C --> D["Banco de Dados / Persistência"]
-```
-
----
-
-## Tecnologias e Stack
-
-- **TypeScript**
-- **React**
-- **Node.js**
-
----
-
-## Pré-requisitos e Configuração
-
-### Pré-requisitos
-- Node.js (versão 18.x ou superior) / Python 3.11+
-- Gerenciador de pacotes: `npm` ou `pip`
-- Git instalado
-
----
-
-## Como Executar Localmente
-
-```bash
-# 1. Clonar o repositório
-git clone https://github.com/pedroiff0/custos-app.git
-
-# 2. Acessar o diretório do projeto
-cd custos-app
-
-# 3. Instalar as dependências
-npm install
-
-# 4. Executar a aplicação
-npm run dev
-```
-
----
-
-## Comandos e Scripts Disponíveis
-
-| Comando | Descrição |
-| :--- | :--- |
-| `npm run dev` | Inicia a aplicação em ambiente local |
-| `npm run build` | Compila o projeto para produção |
-| `npm run test` | Executa a suíte de testes |
+> Aplicação SaaS completa para **gestão de custos de infraestrutura cloud (VPS, Hetzner, AWS, DigitalOcean), assinaturas de deploy (Vercel, Supabase, Cloudflare), rateio por cliente e simulação de precificação de software**.
 
 ---
 
 ## Principais Funcionalidades
 
-- **Recurso Principal:** Solução estruturada para o domínio do projeto.
-- **Interface e Usabilidade:** Design responsivo e navegação fluida.
-- **Integração:** Comunicação com APIs e armazenamento persistente.
+1. ** Inventário de Servidores & VPS:**
+   - Cadastro de máquinas com especificações (vCPU, RAM, SSD, Provedor).
+   - Conversão e câmbio automático de moedas estrangeiras (USD e EUR para BRL).
+   - Rateio de custos por cliente e identificação de capacidade ociosa.
+
+2. ** Catálogo de Assinaturas & Ferramentas de Deploy:**
+   - Controle de serviços SaaS (Vercel, Supabase, Railway, GitHub, Cloudflare, Sendgrid, domínios).
+   - Amortização de planos anuais em custo mensal contábil.
+   - Rateio entre projetos ou custo geral compartilhado.
+
+3. ** DRE & Margem de Lucro por Cliente:**
+   - Demonstração de Resultado individual: Faturamento Bruto - Custos de Servidores - Custos de Assinaturas = Margem Real de Lucro.
+   - Alertas automáticos no dashboard quando a margem de um cliente fica abaixo da meta.
+
+4. ** Calculadora & Simulador de Precificação:**
+   - Simulação de novas propostas comerciais.
+   - Cálculo automático do Preço de Venda com base em infraestrutura + horas de mão de obra + margem alvo + provisão de impostos.
+
+5. ** API REST & Integração com `financas-app`:**
+   - Gerenciamento de chaves de API (`cst_live_...`).
+   - Endpoint `GET /api/integracao/v1/resumo` para alimentar dashboards centrais.
+   - Endpoint `GET /api/integracao/v1/despesas-mes` para sincronizar as despesas diretamente no `financas-app`.
+
+6. ** Modelo de Negócio SaaS (R$ 10,00 / mês):**
+   - Plano Pro com valor acessível de R$ 10,00/mês (1.000 centavos).
+   - 14 dias de teste gratuito (Trial) concedidos no cadastro.
+
+7. ** Notificações e Anúncios de Manutenção:**
+   - Central de avisos in-app (vencimento de faturas, alertas de margem).
+   - Painel para o administrador transmitir comunicados de novas releases para todos os usuários.
 
 ---
 
-## Contribuição
+## Arquitetura do Sistema
 
-Contribuições são muito bem-vindas! Caso deseje contribuir com correções, melhorias ou novas funcionalidades:
-
-1. Faça um Fork do repositório.
-2. Crie uma branch para a sua funcionalidade (`git checkout -b feature/nova-funcionalidade`).
-3. Commit suas alterações (`git commit -m 'feat: adiciona nova funcionalidade'`).
-4. Envie para a branch (`git push origin feature/nova-funcionalidade`).
-5. Abra um Pull Request detalhado.
+```
+custos-app/
+ app/
+    src/
+       config/      # env.js, db.js, metrics.js
+       models/      # cliente, servidor, assinatura, calculadora, apiKey, user, notification
+       services/    # Regras de FinOps, rateio, precificação, integração e SaaS
+       controllers/ # req -> service -> res
+       routes/      # Endpoints REST e SSR
+       middleware/  # auth, apiKeyAuth, saasGuard, csrfGuard, rateLimiters
+       schemas/     # Validações estritas com Zod
+       seeds/       # Seed de demonstração e admin
+    views/           # Telas SSR em EJS
+    public/          # Scripts client-side Vanilla JS (sem inline script) e CSS
+    tests/           # Suíte de testes automatizados com Jest e Supertest
+ .github/
+    ISSUE_TEMPLATE/  # Templates de Issue (Feature, Bug, Task, Doc, Release)
+    workflows/       # CI/CD automatizado
+    PULL_REQUEST_TEMPLATE.md
+ GUIA-CAVEMAN-PIPELINE.md # Manual passo a passo do fluxo GitHub
+```
 
 ---
 
-## Segurança
+## Como Executar
 
-Caso você descubra alguma vulnerabilidade de segurança, por favor não abra uma issue pública. Reporte o problema enviando um e-mail diretamente ao mantenedor do projeto.
+### 1. Pré-requisitos
+- Node.js >= 20
+- MongoDB >= 6.0 (ou Docker)
+
+### 2. Rodando Localmente
+
+```bash
+# 1. Entre na pasta da aplicação
+cd app
+
+# 2. Instale as dependências
+npm install
+
+# 3. Configure o arquivo de ambiente
+cp .env.example .env
+
+# 4. Popule com dados de demonstração FinOps
+npm run seed:demo
+
+# 5. Inicie o servidor de desenvolvimento
+npm run dev
+```
+
+Acesse em: `http://localhost:3379` (ou porta configurada no `.env`).
+
+### 3. Rodando com Docker Compose
+
+```bash
+docker compose -f compose.dev.yml up -d
+```
 
 ---
 
-## Licença
+## Rodando os Testes
 
-Este projeto está licenciado sob os termos da licença **MIT**. Consulte o arquivo [LICENSE](https://github.com/pedroiff0/custos-app/blob/main/LICENSE) para obter mais detalhes.
+```bash
+cd app
+npm test
+```
+
+---
+
+## Fluxo de Trabalho (Pipeline Caveman)
+
+Este repositório adota o fluxo de engenharia rigoroso com **Issue First**, **Branch Isolada**, **Commits Semânticos**, **Code Review em Pull Request**, **Merge**, **Aviso aos Usuários** e **Releases Versionadas** (`v0.1.0-beta.1`  `v0.1.1-beta.2`).
+
+ **Consulte o manual completo em [GUIA-CAVEMAN-PIPELINE.md](./GUIA-CAVEMAN-PIPELINE.md)**.
 
 ---
 
@@ -154,12 +148,12 @@ Este projeto está licenciado sob os termos da licença **MIT**. Consulte o arqu
 
 ## Links e Referências
 
-- **Repositório no GitHub:** [custos-app](https://github.com/pedroiff0/custos-app)
-- **Índice de Projetos:** [[01-projetos/site-publico/projetos-publicos|Projetos Públicos]]
+- **Repositório no GitHub:** [pedroiff0/custos-app](https://github.com/pedroiff0/custos-app)
+- **Índice de Projetos:** [[pt-br/projects/projetos-publicos|Projetos Públicos]]
 
 ---
 
-<p align="center">
+<p align=center>
   <a href="https://github.com/pedroiff0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/pedro-andrade-iff" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/pedroiff0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -167,7 +161,7 @@ Este projeto está licenciado sob os termos da licença **MIT**. Consulte o arqu
   <a href="https://pedroiff.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
-<p align="center">
+<p align=center>
   <sub>© 2026 <b><a href="https://pedroiff.com">Pedro Rocha</a></b> — Computer Engineering &amp; Computational Astrophysics</sub><br />
   <sub>Made with <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23888888' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M10 2v2'/><path d='M14 2v2'/><path d='M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1'/><path d='M6 2v2'/></svg>" width="16" height="16" valign="middle" alt="coffee" />, <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23888888' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='m16 18 6-6-6-6'/><path d='m8 6-6 6 6 6'/></svg>" width="16" height="16" valign="middle" alt="code" /> and <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23888888' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='3'/><path d='M3 12a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9'/><path d='M5.5 5.5a13 13 0 0 0 13 13'/><path d='M18.5 5.5a13 13 0 0 1-13 13'/></svg>" width="16" height="16" valign="middle" alt="astrophysics" /> by <b><a href="https://github.com/pedroiff0">Pedro Henrique Rocha de Andrade</a></b></sub>
 </p>

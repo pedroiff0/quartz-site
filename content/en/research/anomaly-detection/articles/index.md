@@ -15,27 +15,27 @@ cssclasses:
 
 <div class="media-carousel">
   <a href="/pt-br/research/anomaly-detection/articles/collaboration2016" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The Gaia Mission" />
+    <img src="/resource/meta/illustrations/articles.svg" alt="The Gaia Mission" />
     <div class="slide-caption">The Gaia Mission</div>
   </a>
   <a href="/pt-br/research/anomaly-detection/articles/buder2025" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="GALAH DR4" />
+    <img src="/resource/meta/illustrations/articles.svg" alt="GALAH DR4" />
     <div class="slide-caption">GALAH DR4</div>
   </a>
   <a href="/pt-br/research/anomaly-detection/articles/majewski2017" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="APOGEE" />
+    <img src="/resource/meta/illustrations/articles.svg" alt="APOGEE" />
     <div class="slide-caption">APOGEE</div>
   </a>
   <a href="/pt-br/research/anomaly-detection/articles/deandrade2025" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="GCNS × GALAH DR4" />
+    <img src="/resource/meta/illustrations/articles.svg" alt="GCNS × GALAH DR4" />
     <div class="slide-caption">GCNS × GALAH DR4</div>
   </a>
   <a href="/pt-br/research/anomaly-detection/articles/traven2017" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="GALAH — Classification via t-SNE" />
+    <img src="/resource/meta/illustrations/articles.svg" alt="GALAH — Classification via t-SNE" />
     <div class="slide-caption">GALAH — Classification via t-SNE</div>
   </a>
   <a href="/pt-br/research/anomaly-detection/articles/lochner2021" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="ASTRONOMALY" />
+    <img src="/resource/meta/illustrations/articles.svg" alt="ASTRONOMALY" />
     <div class="slide-caption">ASTRONOMALY</div>
   </a>
 </div>

@@ -27,8 +27,8 @@ cssclasses:
 ## Banner
 
 > [!note] Shown banners:
-> Lateral:![[assets/banners/BannerMostratecL23.pdf]]
-> Centre:![[assets/banners/BannerMostratecC23.pdf]]
+> Lateral:![[resource/meta/banners/BannerMostratecL23.pdf]]
+> Centre:![[resource/meta/banners/BannerMostratecC23.pdf]]
 
 ## References and correlations
 

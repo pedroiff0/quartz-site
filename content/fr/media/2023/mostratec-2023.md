@@ -27,8 +27,8 @@ cssclasses:
 ## Bannière
 
 > [!note] Bannières soumises:
-> Laterais:![[assets/banners/BannerMostratecL23.pdf]]
-> Centre:![[assets/banners/BannerMostratecC23.pdf]]
+> Laterais:![[resource/meta/banners/BannerMostratecL23.pdf]]
+> Centre:![[resource/meta/banners/BannerMostratecC23.pdf]]
 
 ## Références et corrections
 

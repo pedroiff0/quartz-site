@@ -20,7 +20,7 @@ cssclasses:
 
  Deriva edades de casi 250.000 estrellas de GALAH DR3 vía XGBoost usando solo metalicidad y abundancias (precisión 1-2 Gyr). Relevante: la edad es variable clave en el GAM del Dantas2025 para inferir el rayo de nacimiento.
 
- [Véase el artículo original](https://doi.org/10.1093/mnras/stac2787)·[Reflexión Descargar PDF](/assets/articles/Hayden2022.pdf)
+ [Véase el artículo original](https://doi.org/10.1093/mnras/stac2787)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Hayden2022.pdf)
 
 ## Citación
 

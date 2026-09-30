@@ -20,7 +20,7 @@ cssclasses:
 
  Il décrit la mission Gaia (ESA) : un milliard d'étoiles astrométriques avec position, paraxe et mouvement propre. C'est la source des coordonnées cinématiques (faisceau de guidage, action verticale) utilisées dans votre projet.
 
- [Voir article original](https://doi.org/10.1051/0004-6361/201629272)·[Réflexion Télécharger le PDF](/assets/articles/Collaboration2016.pdf)
+ [Voir article original](https://doi.org/10.1051/0004-6361/201629272)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Collaboration2016.pdf)
 
 ## Citation
 

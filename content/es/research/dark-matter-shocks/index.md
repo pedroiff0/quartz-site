@@ -20,7 +20,7 @@ cssclasses:
 
 <div class="media-carousel">
   <a href="/pt-br/research/dark-matter-shocks" class="carousel-slide">
-    <img src="/assets/illustrations/cosmologia.svg" alt="Choques de cúmulos de galaxias" />
+    <img src="/resource/meta/illustrations/cosmologia.svg" alt="Choques de cúmulos de galaxias" />
     <div class="slide-caption">Choques de Aglomerados</div>
   </a>
 </div>
@@ -70,13 +70,13 @@ cssclasses:
 
 ## Referencias y correcciones
 
-- Dawson, W. A. (2013) —  The Dynamics of Merging Clusters: La Monte Carlo Solution Applied to the Bullet and Musket Ball Clusters , ApJ 772, 131.[Anuncio Artículo completo (arXiv)](/assets/articles/Dawson2013.pdf)·[Código MCMAC](https://github.com/MCTwo/MCMAC).
-- ZuHone, J. et al. (2018) —  The Galaxy Cluster Merger Catalog: An Online Repository of Mock Observations from Simulated Galaxy Cluster Mergers , ApJS 234, 4.[Anuncio Artículo completo (arXiv)](/assets/articles/ZuHone2018.pdf).
+- Dawson, W. A. (2013) —  The Dynamics of Merging Clusters: La Monte Carlo Solution Applied to the Bullet and Musket Ball Clusters , ApJ 772, 131.[Anuncio Artículo completo (arXiv)](/resource/areas/academico/artigos/Dawson2013.pdf)·[Código MCMAC](https://github.com/MCTwo/MCMAC).
+- ZuHone, J. et al. (2018) —  The Galaxy Cluster Merger Catalog: An Online Repository of Mock Observations from Simulated Galaxy Cluster Mergers , ApJS 234, 4.[Anuncio Artículo completo (arXiv)](/resource/areas/academico/artigos/ZuHone2018.pdf).
 - Clowe, D. et al. — Aglomerado de Bala, evidencia clásica de separación espacial entre materia oscura y gas.
 - [[es/media/2023/mostratec-2023|MOSTRATEC 2023]]— cobertura de la presentación de este proyecto
 - [[es/research/anomaly-detection|Detección de Anomalías en Datos de Gaia]]— otro proyecto de investigación en Astronomía, también orientado por dinámica/cinemática de sistemas gravitacionales
 - [[es/research/satellite-trail-removal|Simulando el Impacto de Satélites en Observaciones Astronómicas]]— proyecto siguiente, también con enfoque computacional aplicado a datos astronómicos
-- [[pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf|Curso ON — Clase 05]]— otro contexto de masa no-luminosa/materia oscura en la Galaxia
+- [[pt-br/academic/courses/curso-on/aula-05-avermelhamento-extincao-e-imf|Curso ON — Clase 05]]— otro contexto de masa no-luminosa/materia oscura en la Galaxia
 
 > [!abstract] Aviso de traducción automática
 > Esta página fue traducida automáticamente del portugués utilizando el traductor automático basado en LibreTranslate implementado en `tools/translate_quartz.py` (que preserva wikilinks, embeds y nombres propios mediante división posicional). Es traducción automática y puede contener imprecisiones — la versión original en portugués es la fuente autoritativa.

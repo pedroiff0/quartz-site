@@ -20,7 +20,7 @@ cssclasses:
 
  GALAH : enquête à haute résolution pour démêler la formation de la Voie lactée. Il présente un schéma semi-automatique (t-SNE) pour classer des morphologies spectrales particulières et pour signaler des spectres problématiques, en préservant l'intégrité de l'enquête. Exemple de détection des « spéciarités » spectrales - connexion aux anomalies.
 
- [Voir article original](https://doi.org/10.3847/1538-4365/228/2/24)·[Réflexion Télécharger le PDF](/assets/articles/Traven2017.pdf)
+ [Voir article original](https://doi.org/10.3847/1538-4365/228/2/24)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Traven2017.pdf)
 
 ## Citation
 

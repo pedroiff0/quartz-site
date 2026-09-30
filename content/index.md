@@ -12,22 +12,22 @@ Pesquisa entre **astronomia e computação**, materiais de estudo abertos e regi
 
 <div class="lang-carousel">
   <a href="/pt-br/" class="lang-slide" hreflang="pt-BR">
-    <img src="/assets/illustrations/flag-br.svg" alt="Bandeira do Brasil" />
+    <img src="/resource/meta/illustrations/flag-br.svg" alt="Bandeira do Brasil" />
     <span class="lang-slide-name">Português</span>
     <span class="lang-slide-note">Conteúdo completo, sempre escrito primeiro aqui</span>
   </a>
   <a href="/en/" class="lang-slide" hreflang="en-US">
-    <img src="/assets/illustrations/flag-us.svg" alt="Flag of the United States" />
+    <img src="/resource/meta/illustrations/flag-us.svg" alt="Flag of the United States" />
     <span class="lang-slide-name">English</span>
     <span class="lang-slide-note">Partial — translated as time allows</span>
   </a>
   <a href="/es/" class="lang-slide" hreflang="es-ES">
-    <img src="/assets/illustrations/flag-es.svg" alt="Bandera de España" />
+    <img src="/resource/meta/illustrations/flag-es.svg" alt="Bandera de España" />
     <span class="lang-slide-name">Español</span>
     <span class="lang-slide-note">Solo la página de inicio, por ahora</span>
   </a>
   <a href="/fr/" class="lang-slide" hreflang="fr-FR">
-    <img src="/assets/illustrations/flag-fr.svg" alt="Drapeau de la France" />
+    <img src="/resource/meta/illustrations/flag-fr.svg" alt="Drapeau de la France" />
     <span class="lang-slide-name">Français</span>
     <span class="lang-slide-note">Seulement la page d'accueil, pour l'instant</span>
   </a>

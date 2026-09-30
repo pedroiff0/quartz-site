@@ -20,7 +20,7 @@ cssclasses:
 
  Obtenez un grand échantillon de spectroscopie double ligne binaire (SB2) de GALAH combinant spectres, photométrie et astrométrie. Important pour votre projet : le binaire peut apparaître comme de faux 'anomalies' et doit être traité / enlevé.
 
- [Voir article original](https://doi.org/10.1051/0004-6361/202037484)·[Réflexion Télécharger le PDF](/assets/articles/Traven2020.pdf)
+ [Voir article original](https://doi.org/10.1051/0004-6361/202037484)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Traven2020.pdf)
 
 ## Citation
 

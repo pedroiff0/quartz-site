@@ -20,7 +20,7 @@ cssclasses:
 
  Presenta la primera evidencia de que técnicas de aprendizaje adaptativo (active learning) aumentan el descubrimiento de objetos inusuales en la astronomía. Es DIRETO al tema de su proyecto: detectar estrellas atípicas (anomalías) de forma eficiente.
 
- [Véase el artículo original](https://doi.org/10.1051/0004-6361/202037709)·[Reflexión Descargar PDF](/assets/articles/Ishida2021.pdf)
+ [Véase el artículo original](https://doi.org/10.1051/0004-6361/202037709)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Ishida2021.pdf)
 
 ## Citación
 

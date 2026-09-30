@@ -27,9 +27,9 @@ cssclasses:
 
 > [!note] Material Didático e Recursos da Aula
 > ### Material da Aula
-> - **[Slides da Aula — Modelo Branco (PDF)](/assets/biblioteca/matematica/slides-calculo-aula01-branco.pdf)** — *Apresentação em tema claro.*
-> - **[Slides da Aula — Modelo Preto (PDF)](/assets/biblioteca/matematica/slides-calculo-aula01-preto.pdf)** — *Apresentação em tema escuro.*
-> - **[Notas de Aula em PDF (Apostila Institucional)](/assets/biblioteca/matematica/notes-calculo-aula01.pdf)** — *Material de apoio oficial.*
+> - **[Slides da Aula — Modelo Branco (PDF)](/resource/areas/academico/biblioteca/matematica/slides-calculo-aula01-branco.pdf)** — *Apresentação em tema claro.*
+> - **[Slides da Aula — Modelo Preto (PDF)](/resource/areas/academico/biblioteca/matematica/slides-calculo-aula01-preto.pdf)** — *Apresentação em tema escuro.*
+> - **[Notas de Aula em PDF (Apostila Institucional)](/resource/areas/academico/biblioteca/matematica/notes-calculo-aula01.pdf)** — *Material de apoio oficial.*
 > 
 > ### Links Externos de Apoio
 > - **[Symbolab Integral Calculator](https://www.symbolab.com/)** — *Validador de passos de integração.*

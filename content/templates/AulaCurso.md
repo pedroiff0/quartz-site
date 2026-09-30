@@ -21,9 +21,9 @@ professor: "[NOME DO DOCENTE / PESQUISADOR]"
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅<b><a href="/pt-br/resource/curso-on/aula-00-[SLUG]">Aula Anterior</a></b></div>
-  <div><b><a href="/pt-br/resource/curso-on">Anotações da Disciplina</a></b></div>
-  <div><b><a href="/pt-br/resource/curso-on/aula-02-[SLUG]">Próxima Aula</a></b></div>
+  <div>⬅<b><a href="/pt-br/academic/courses/curso-on/aula-00-[SLUG]">Aula Anterior</a></b></div>
+  <div><b><a href="/pt-br/academic/courses/curso-on">Anotações da Disciplina</a></b></div>
+  <div><b><a href="/pt-br/academic/courses/curso-on/aula-02-[SLUG]">Próxima Aula</a></b></div>
 </div>
 
 # Aula 01 — [TÍTULO DA AULA]
@@ -83,10 +83,10 @@ graph LR
 
 - Edvardsson et al. (1993) — Descoberta da dispersão na AMR.
 - Chiappini et al. (1997, 2001) — Modelo *Two-Infall*.
-- [[pt-br/resource/curso-on|Curso ON — Visão Geral]]
+- [[pt-br/academic/courses/curso-on|Curso ON — Visão Geral]]
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅<b><a href="/pt-br/resource/curso-on/aula-00-[SLUG]">Aula Anterior</a></b></div>
-  <div><b><a href="/pt-br/resource/curso-on">Anotações da Disciplina</a></b></div>
-  <div><b><a href="/pt-br/resource/curso-on/aula-02-[SLUG]">Próxima Aula</a></b></div>
+  <div>⬅<b><a href="/pt-br/academic/courses/curso-on/aula-00-[SLUG]">Aula Anterior</a></b></div>
+  <div><b><a href="/pt-br/academic/courses/curso-on">Anotações da Disciplina</a></b></div>
+  <div><b><a href="/pt-br/academic/courses/curso-on/aula-02-[SLUG]">Próxima Aula</a></b></div>
 </div>

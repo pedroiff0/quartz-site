@@ -1,12 +1,12 @@
 import re
 
 # 1. Update index.md to remove PPTX from Material Didático
-with open('content/pt-br/resource/latex/index.md', 'r', encoding='utf-8') as f:
+with open('content/pt-br/academic/courses/latex/index.md', 'r', encoding='utf-8') as f:
     index_content = f.read()
 
 index_content = re.sub(r' • \[📊 PPTX Branco\]\(.*?\.pptx\) • \[📊 PPTX Preto\]\(.*?\.pptx\)', '', index_content)
 
-with open('content/pt-br/resource/latex/index.md', 'w', encoding='utf-8') as f:
+with open('content/pt-br/academic/courses/latex/index.md', 'w', encoding='utf-8') as f:
     f.write(index_content)
 
 # 2. Update gerar_slides_e_notas.py to stretch Notes to 10-12 pages

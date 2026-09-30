@@ -20,7 +20,7 @@ cssclasses:
 
  Discutez que des études comme Vera Rubin et SKA généreront des milliards de sources qui ne seront jamais vues par l'homme; ML est utile pour détecter les anomalies, mais confond des anomalies intéressantes avec des artefacts instrumentaux. Proponèse l'apprentissage actif (humain + ML). C'est la LITITURE OBRIGATOIRE pour votre projet de détection d'anomalies.
 
- [Voir article original](https://doi.org/10.1016/j.ascom.2021.100481)·[Réflexion Télécharger le PDF](/assets/articles/Lochner2021.pdf)
+ [Voir article original](https://doi.org/10.1016/j.ascom.2021.100481)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Lochner2021.pdf)
 
 ## Citation
 

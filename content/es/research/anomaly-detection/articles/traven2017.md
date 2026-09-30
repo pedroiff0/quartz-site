@@ -20,7 +20,7 @@ cssclasses:
 
  GALAH: survey de alta resolución para desventar la formación de la Vía Láctea. Presenta esquema semiautomático (t-SNE) para clasificar morfologías espectrales peculiares y flagrar espectros problemáticos, preservando la integridad del survey. Ejemplo de detección de "peculiaridades" espectrales — conexión con anomalías.
 
- [Véase el artículo original](https://doi.org/10.3847/1538-4365/228/2/24)·[Reflexión Descargar PDF](/assets/articles/Traven2017.pdf)
+ [Véase el artículo original](https://doi.org/10.3847/1538-4365/228/2/24)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Traven2017.pdf)
 
 ## Citación
 

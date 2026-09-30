@@ -20,7 +20,7 @@ cssclasses:
 
  Il présente la Gaia Early Data Release 3 (EDR3) et un catalogue propre d'objets à 100 pc du Soleil. Utile pour l'étalonnage local et la validation des échantillons adjacents au Soleil.
 
- [Voir article original](https://doi.org/10.1051/0004-6361/202039498)·[Réflexion Télécharger le PDF](/assets/articles/GaiaCollaboration2021.pdf)
+ [Voir article original](https://doi.org/10.1051/0004-6361/202039498)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/GaiaCollaboration2021.pdf)
 
 ## Citation
 

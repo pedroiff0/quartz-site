@@ -10,7 +10,6 @@ tags:
 - arquivado
 repo: https://github.com/pedroiff0/academicoWeb
 status: privado
-cssclasses: null
 icon: lucide-graduationcap
 cssclasses:
   - page-layout

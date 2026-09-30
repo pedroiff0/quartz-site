@@ -1,0 +1,33 @@
+---
+publish: false
+title: Atividades, Trabalhos & Provas — Energia E Eficiencia Energetica
+created: 2026-08-29 11:58
+modified: 2026-09-29 20:11
+tags:
+- atividade
+- trabalho
+- engenharia-de-computacao
+cssclasses:
+- page-layout
+- cards
+icon: lucide-book-open
+discipline: "[[energia-e-eficiencia-energetica]]"
+---
+
+# Atividades, Trabalhos & Avaliações
+
+Repositório de **trabalhos práticos, seminários, listas de exercícios e relatórios de avaliação** desenvolvidos na disciplina **Energia E Eficiencia Energetica**.
+
+---
+
+## Relação de Trabalhos & Atividades
+
+> [!info] Sem atividades registradas no momento
+> Os trabalhos práticos, seminários e listas de exercícios desta disciplina serão disponibilizados aqui conforme forem ministrados.
+
+---
+
+## Navegação da Disciplina
+-  Anotações de Quadro & Aulas
+-  [[../../Energia e Eficiência Energética|Energia e Eficiência Energética]]
+-  [Hub de Disciplinas](https://www.phrandrade.com/pt-br/academic/courses/engenharia-de-computacao/)

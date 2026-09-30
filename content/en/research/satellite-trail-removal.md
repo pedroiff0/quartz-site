@@ -20,7 +20,7 @@ cssclasses:
 
 <div class="media-carousel">
   <a href="/en/research/satellite-trail-removal" class="carousel-slide">
-    <img src="/assets/illustrations/informatica.svg" alt="Satellite trail removal from astronomical images" />
+    <img src="/resource/meta/illustrations/informatica.svg" alt="Satellite trail removal from astronomical images" />
     <div class="slide-caption">Satellite Light Pollution</div>
   </a>
 </div>

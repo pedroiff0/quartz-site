@@ -20,7 +20,7 @@ cssclasses:
 
  Obtén una gran muestra de binarias espectroscópicas de línea doble (SB2) a partir de GALAH combinando espectros, fotometría y astrometría. Importante para su proyecto: binarias pueden aparecer como 'anomalías' falsas y necesitan ser tratadas/removidas.
 
- [Véase el artículo original](https://doi.org/10.1051/0004-6361/202037484)·[Reflexión Descargar PDF](/assets/articles/Traven2020.pdf)
+ [Véase el artículo original](https://doi.org/10.1051/0004-6361/202037484)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Traven2020.pdf)
 
 ## Citación
 

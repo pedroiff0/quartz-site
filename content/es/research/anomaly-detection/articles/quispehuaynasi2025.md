@@ -20,7 +20,7 @@ cssclasses:
 
  Utiliza abordaje de machine learning no supervisado (autoencoder para detección de anomalías + t-SNE) en los datos fotométricos del S-PLUS para seleccionar ~19.000 candidatos cuya SED no es bien reconstruida, identificando poblaciones estelares raras (69 estrellas ricas en carbono). Ejemplo práctico de autoencoder para anomalías — directo a su método.
 
- [Véase el artículo original](https://doi.org/10.3847/1538-3881/adcf26)·[Reflexión Descargar PDF](/assets/articles/QuispeHuaynasi2025.pdf)
+ [Véase el artículo original](https://doi.org/10.3847/1538-3881/adcf26)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/QuispeHuaynasi2025.pdf)
 
 ## Citación
 

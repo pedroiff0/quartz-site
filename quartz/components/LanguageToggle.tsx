@@ -12,10 +12,10 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
 
   return (
     <div class={classNames(displayClass, "nav-lang")}>
-      <a href={`${basePath}/en/`} title="English" data-lang="en" data-router-ignore onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'en')">EN</a>
-      <a href={`${basePath}/pt-br/`} title="Português" data-lang="pt-br" data-router-ignore onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'pt-br')">PT</a>
-      <a href={`${basePath}/es/`} title="Español" data-lang="es" data-router-ignore onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'es')">ES</a>
-      <a href={`${basePath}/fr/`} title="Français" data-lang="fr" data-router-ignore onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'fr')">FR</a>
+      <a href={`${basePath}/en/`} title="English" data-lang="en" data-router-ignore onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'en')"><img class="nav-lang-flag" src={`${basePath}/resource/meta/illustrations/flag-us.svg`} alt="English" width="24" height="16" loading="lazy" /><span class="nav-lang-label">EN</span></a>
+      <a href={`${basePath}/pt-br/`} title="Português" data-lang="pt-br" data-router-ignore onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'pt-br')"><img class="nav-lang-flag" src={`${basePath}/resource/meta/illustrations/flag-br.svg`} alt="Português" width="24" height="16" loading="lazy" /><span class="nav-lang-label">PT</span></a>
+      <a href={`${basePath}/es/`} title="Español" data-lang="es" data-router-ignore onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'es')"><img class="nav-lang-flag" src={`${basePath}/resource/meta/illustrations/flag-es.svg`} alt="Español" width="24" height="16" loading="lazy" /><span class="nav-lang-label">ES</span></a>
+      <a href={`${basePath}/fr/`} title="Français" data-lang="fr" data-router-ignore onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'fr')"><img class="nav-lang-flag" src={`${basePath}/resource/meta/illustrations/flag-fr.svg`} alt="Français" width="24" height="16" loading="lazy" /><span class="nav-lang-label">FR</span></a>
       <script dangerouslySetInnerHTML={{
         __html: `
           if (!window.translatePath) {

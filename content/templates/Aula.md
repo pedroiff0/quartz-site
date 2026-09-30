@@ -65,7 +65,7 @@ dv.container.innerHTML = `
 > - **Status das Anotações:** Planejando | Em Andamento | Concluído
 
 > [!note] Material Didático & Recursos da Aula
-> - **[[assets/disciplinas/|Slides da Aula (PDF)]]**
+> - **[[resource/areas/academico/disciplinas/|Slides da Aula (PDF)]]**
 > - **[[../short-lecture|Short Lecture da Disciplina]]**
 
 ## Sumário Interativo

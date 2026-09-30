@@ -1,0 +1,34 @@
+---
+publish: false
+title: Atividades, Trabalhos & Provas — Avaliacao E Desempenho De Sistemas
+created: 2026-08-29 11:58
+modified: 2026-09-29 20:47
+tags:
+- atividade
+- trabalho
+- engenharia-de-computacao
+cssclasses:
+- page-layout
+- cards
+icon: lucide-book-open
+discipline: "[[avaliacao-e-desempenho-de-sistemas]]"
+---
+
+# Atividades, Trabalhos & Avaliações
+
+Repositório de **trabalhos práticos, seminários, listas de exercícios e relatórios de avaliação** desenvolvidos na disciplina **Avaliacao E Desempenho De Sistemas**.
+
+---
+
+## Relação de Trabalhos & Atividades
+
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[atividades-avaliacao-e-desempenho-de-sistemas\|Atividades, Trabalhos & Provas — Avaliacao E Desempenho De Sistemas]] | 29/08/2026 |
+
+---
+
+## Navegação da Disciplina
+-  Anotações de Quadro & Aulas
+-  [[../../Avaliação e Desempenho de Sistemas|Avaliação e Desempenho de Sistemas]]
+-  [Hub de Disciplinas](https://www.phrandrade.com/pt-br/academic/courses/engenharia-de-computacao/)

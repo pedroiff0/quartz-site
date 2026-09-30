@@ -1,0 +1,34 @@
+---
+publish: false
+title: Atividades, Trabalhos & Provas — Comunicacao De Dados
+created: 2026-08-29 11:58
+modified: 2026-09-29 20:47
+tags:
+- atividade
+- trabalho
+- engenharia-de-computacao
+cssclasses:
+- page-layout
+- cards
+icon: lucide-book-open
+discipline: "[[comunicacao-de-dados]]"
+---
+
+# Atividades, Trabalhos & Avaliações
+
+Repositório de **trabalhos práticos, seminários, listas de exercícios e relatórios de avaliação** desenvolvidos na disciplina **Comunicacao De Dados**.
+
+---
+
+## Relação de Trabalhos & Atividades
+
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[atividades-comunicacao-de-dados\|Atividades, Trabalhos & Provas — Comunicacao De Dados]] | 29/08/2026 |
+
+---
+
+## Navegação da Disciplina
+-  Anotações de Quadro & Aulas
+-  [[../../Comunicação de Dados|Comunicação de Dados]]
+-  [Hub de Disciplinas](https://www.phrandrade.com/pt-br/academic/courses/engenharia-de-computacao/)

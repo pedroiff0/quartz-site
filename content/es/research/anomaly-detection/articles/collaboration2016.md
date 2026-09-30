@@ -20,7 +20,7 @@ cssclasses:
 
  Describe la misión Gaia (ESA): astrometría de mil millones de estrellas con posición, paralaxe y movimiento propio. Es la fuente de las coordenadas cinemáticas (rayo guía, acción vertical) usadas en su proyecto.
 
- [Véase el artículo original](https://doi.org/10.1051/0004-6361/201629272)·[Reflexión Descargar PDF](/assets/articles/Collaboration2016.pdf)
+ [Véase el artículo original](https://doi.org/10.1051/0004-6361/201629272)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Collaboration2016.pdf)
 
 ## Citación
 

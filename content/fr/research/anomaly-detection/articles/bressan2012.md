@@ -20,7 +20,7 @@ cssclasses:
 
  PARSEC: pistes stellaires et isochrones avec le code d'évolution de Pagova & Trieste Stellar (PARSEC). Il présente le code d'évolution des étoiles Pádua-Trieste, avec des chemins améliorés et des isocrates, y compris la phase AGB et les populations de disques. C'est la base théorique des isocrons utilisés pour estimer l'âge / paramètres stellaires dans votre projet (il complète Marigo2017).
 
- [Voir article original](https://doi.org/10.1111/j.1365-2966.2012.21948.x)·[Réflexion Télécharger le PDF](/assets/articles/Bressan2012.pdf)
+ [Voir article original](https://doi.org/10.1111/j.1365-2966.2012.21948.x)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Bressan2012.pdf)
 
 ## Citation
 

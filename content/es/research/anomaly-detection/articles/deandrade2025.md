@@ -20,7 +20,7 @@ cssclasses:
 
  Análisis conjunto de ~6.000 estrellas comunes a Gaia Catalogue of Nearby Stars (GCNS, 100 pc) y GALAH DR4 (hasta 30 elementos). Resultados preliminares: mayoría FGK del disco, edades medianas ~1,6 Gyr, \[Fe/H]~-0,19. Útil para la muestra local de su proyecto.
 
- [Véase el artículo original](https://doi.org/10.48550/arXiv.2512.10037)·[Reflexión Descargar PDF](/assets/articles/Andrade2025.pdf)
+ [Véase el artículo original](https://doi.org/10.48550/arXiv.2512.10037)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Andrade2025.pdf)
 
 ## Citación
 

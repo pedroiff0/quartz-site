@@ -16,7 +16,7 @@ cssclasses:
 
 ### 1⃣ First step: About me
 
-<img src="..[Profilepic.Jpe](/assets/profilepic.jpe)g" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="/resource/meta/imagens/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 I am Pedro Henrique, an undergraduate Computer Engineering student at the [Fluminense Federal Institute](https://portal1.iff.edu.br/), in Rio de Janeiro, Brazil. Since 2022, I have been building a bridge between **computer science** and **astronomy**, working on research projects that explore stellar populations and the structure of the Milky Way.
 
@@ -39,7 +39,7 @@ Below my CV in this page's language and the (multilingual LaTeX) repository that
 
 <div class="cv-cards-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.25rem; margin: 1.75rem 0;">
 
-  <a href="/assets/curriculo/englishCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
+  <a href="/resource/areas/pessoal/curriculo/englishCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
         <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;"></div>
@@ -131,19 +131,19 @@ To navigate my work, explore the sections of this site:
 
 <div class="media-carousel">
   <a href="/en/research" class="carousel-slide">
-    <img src="/assets/illustrations/research.svg" alt="Research" />
+    <img src="/resource/meta/illustrations/research.svg" alt="Research" />
     <div class="slide-caption">Research</div>
   </a>
   <a href="/en/resource" class="carousel-slide">
-    <img src="/assets/illustrations/resource.svg" alt="Resources" />
+    <img src="/resource/meta/illustrations/resource.svg" alt="Resources" />
     <div class="slide-caption">Resources</div>
   </a>
   <a href="/en/resource/engenharia-de-computação" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Classes" />
+    <img src="/resource/meta/illustrations/classes.svg" alt="Classes" />
     <div class="slide-caption">Classes</div>
   </a>
   <a href="/en/media" class="carousel-slide">
-    <img src="/assets/photos/febic2024/febic.jpeg" alt="Media" />
+    <img src="/resource/meta/imagens/photos/febic2024/febic.jpeg" alt="Media" />
     <div class="slide-caption">Media</div>
   </a>
 </div>
@@ -151,7 +151,7 @@ To navigate my work, explore the sections of this site:
 The links below are currently available only in Portuguese:
 
 - [[pt-br/research/|Research]] — Learn about my current projects and publications.
-- [[pt-br/resource/|Resources]] — Materials, scripts, and useful tools I've developed or use.
+- [[pt-br/academic/courses/|Resources]] — Materials, scripts, and useful tools I've developed or use.
 - [[pt-br/media/|Media]] — Participations in events, fairs, and presentations.
 
 This site is written in two languages: all content is first written in **Portuguese (Brazil)** and translated to English as time allows — so not every page has an English version yet. If you noticed something missing or outdated in translation, feel free to open an [issue in the repository](https://github.com/pedroiff0/quartz-site/issues), or [click here to open one pre-filled from the translation template](https://github.com/pedroiff0/quartz-site/issues/new?template=traducao.yml).

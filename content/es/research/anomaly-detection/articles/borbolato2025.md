@@ -20,7 +20,7 @@ cssclasses:
 
  Combina datos astrométricos de Gaia, abundancias de APOGEE y LAMOST, y edades StarHorse para mapear la evolución de la Vía Láctea y el dilema entre disco grueso y fino (posible origen en fusión gaseosa-rica como Gaia-Sausage-Enceladus, filamentos cósmicos o migración radial). Relevante para su proyecto: contexto de formación del disco y migración que el GAM del Dantasusa.
 
- [Véase el artículo original](https://doi.org/10.3847/1538-4357/ae0c96)·[Reflexión Descargar PDF](/assets/articles/Borbolato2025.pdf)
+ [Véase el artículo original](https://doi.org/10.3847/1538-4357/ae0c96)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Borbolato2025.pdf)
 
 ## Citación
 

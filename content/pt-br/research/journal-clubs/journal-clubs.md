@@ -1,14 +1,15 @@
 ---
 publish: true
 title: Journal Clubs e Discussões Científicas
-created: 2026-09-22 09:50
-modified: 2026-09-28 22:43
+created: '2026-09-22T09:50:00-03:00'
+modified: 2026-09-30T13:05:50-03:00
 tags:
   - pesquisa
   - academico
 cssclasses:
   - page-layout
 icon: lucide-book-open
+sitesync: true
 ---
 
 # Journal Clubs e Discussões Científicas
@@ -28,7 +29,7 @@ Registros e apresentações dos encontros periódicos do Journal Club de astrono
 
 ## Estrutura do Projeto
 
-- **Anotações:** [[02-areas/academico/pesquisas/journal-clubs/anotacoes/|Notas]]
+- **Anotações:** [[pt-br/research/journal-clubs/anotacoes/|Notas]]
 - **Arquivos:** Slides e resumos
 - **Meetings:** Atas de encontros
 - **Notes:** Análises críticas

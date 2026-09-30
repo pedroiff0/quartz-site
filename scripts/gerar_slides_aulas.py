@@ -8,10 +8,10 @@ Professor Responsável: Prof. Dr. Pedro Henrique Rocha de Andrade
 Funcionamento:
 1. Varre os arquivos de aula (aula-*.md) do curso.
 2. Extrai ou gera o código LaTeX institucional ('if-beamer.cls').
-3. Compila o '.tex' para PDF no diretório '/assets/biblioteca/<slug>/slides-latex/'.
+3. Compila o '.tex' para PDF no diretório '/resource/areas/academico/biblioteca/<slug>/slides-latex/'.
 4. APLICA AUTOMATICAMENTE A SENHA PADRÃO ('escritaiff2026') em todos os PDFs gerados!
-5. Gera versão Widescreen PPTX em '/assets/biblioteca/<slug>/slides-pptx/' (com senha padrão).
-6. Gera imagem de capa PNG (thumbnail) em '/assets/biblioteca/<slug>/thumbs/'.
+5. Gera versão Widescreen PPTX em '/resource/areas/academico/biblioteca/<slug>/slides-pptx/' (com senha padrão).
+6. Gera imagem de capa PNG (thumbnail) em '/resource/areas/academico/biblioteca/<slug>/thumbs/'.
 7. Aciona 'generate_course_table.py' para sincronizar a tabela e carrossel no 'index.md'.
 
 Uso:
@@ -140,14 +140,14 @@ def generate_thumb(pdf_path, thumb_path):
 
 def main():
     parser = argparse.ArgumentParser(description="Gerador de Slides (.tex) com Senha Padrão Automática")
-    parser.add_argument("--dir", default="content/pt-br/resource/latex", help="Pasta do curso")
+    parser.add_argument("--dir", default="content/pt-br/academic/courses/latex", help="Pasta do curso")
     parser.add_argument("--slug", default="latex-escrita", help="Slug na biblioteca de assets")
     parser.add_argument("--senha", default="escritaiff2026", help="Senha padrão dos PDFs (default: escritaiff2026)")
     args = parser.parse_args()
 
     root_repo = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     course_dir = os.path.join(root_repo, args.dir)
-    base_lib = os.path.join(root_repo, "content/assets/biblioteca", args.slug)
+    base_lib = os.path.join(root_repo, "content/resource/areas/academico/biblioteca", args.slug)
     cls_src_dir = os.path.join(root_repo, "content/assets/modelos_slides/if-beamer") # ou repositório do Pedro se local
     if not os.path.exists(cls_src_dir):
         cls_src_dir = "/home/pedro/Repositorios/academicos/modelos/slides/modelo_slides"

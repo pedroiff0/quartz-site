@@ -20,7 +20,7 @@ cssclasses:
 
  (OCR extrait; synthèse pour confirmer en lisant l'abrégé ci-dessous.)
 
- [Voir article original](https://doi.org/10.1051/0004-6361/202347229)·[Réflexion Télécharger le PDF](/assets/articles/DaSilvaSmiljanic2023.pdf)
+ [Voir article original](https://doi.org/10.1051/0004-6361/202347229)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/DaSilvaSmiljanic2023.pdf)
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

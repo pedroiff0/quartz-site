@@ -191,7 +191,7 @@ icon: lucide-book-open
 > [!note]  Descrição da Distribuição de Magnitude Absoluta (Lu2026, p. 4)
 > > *Figure 1 shows the normalized distributions of extinction-corrected absolute G-band magnitudes for giant stars from four spectroscopic surveys, together with a synthetic population generated using PARSEC isochrones.*
 
-![Figura 1 — Distribuição de magnitudes absolutas normalizadas (M_G)_0 para estrelas gigantes em bins de metalicidade no Gaia XP, SDSS-V, GALAH DR4, LAMOST DR11 e controle sintético PARSEC](/assets/journal-clubs/mwbr/2608.06204/fig1_lu2026.png)
+![Figura 1 — Distribuição de magnitudes absolutas normalizadas (M_G)_0 para estrelas gigantes em bins de metalicidade no Gaia XP, SDSS-V, GALAH DR4, LAMOST DR11 e controle sintético PARSEC](/resource/areas/academico/journal-clubs/mwbr/2608.06204/fig1_lu2026.png)
 
 > [!important]  Critérios e Âncora Fotométrica do Red Clump (Lu2026, p. 5)
 > > *Only giant stars are included. Colors indicate metallicity, binned in 0.1 dex intervals from $[\text{Fe/H}] = -0.5$ to $0.4$, with the last bin (yellow line with black outline) showing all stars with $[\text{Fe/H}] > 0.4$. Vertical dashed lines mark the red clump ($(M_G)_0 \sim 0.5$).*
@@ -213,7 +213,7 @@ icon: lucide-book-open
 > [!note]  Distribuição de Magnitude Aparente G0 (Lu2026, p. 4)
 > > *While the $G_0$ distribution for solar-metallicity stars closely resembles that of the full sample, the most metal-rich stars lack the bright-end tail where luminous giants would be found.*
 
-![Figura 2 — Diagramas Cor-Magnitude (CMD) e distribuições de magnitude aparente G0 para estrelas de metalicidade solar vs. metal-ricas ([Fe/H] > 0.4)](/assets/journal-clubs/mwbr/2608.06204/fig2_lu2026.png)
+![Figura 2 — Diagramas Cor-Magnitude (CMD) e distribuições de magnitude aparente G0 para estrelas de metalicidade solar vs. metal-ricas ([Fe/H] > 0.4)](/resource/areas/academico/journal-clubs/mwbr/2608.06204/fig2_lu2026.png)
 
 > [!note]  Descontinuidade de Densidade Estelar após o Red Clump (Lu2026, p. 6)
 > > *At high metallicity, the truncation of the most luminous giants ($(M_G)_0 < 0$) is apparent: the CMD shows a sharp drop in density beyond the red clump at $(M_G)_0 \sim 0.5$.*
@@ -222,7 +222,7 @@ icon: lucide-book-open
 
 ### . Figura — Independência de Idade Populacional e Modelos Sintéticos
 
-![Figura 3 — Distribuição de idades médias e comparação das frações de gigantes luminosas em relação a isócronas sintéticas em três surveys espectroscópicos](/assets/journal-clubs/mwbr/2608.06204/fig3_lu2026.png)
+![Figura 3 — Distribuição de idades médias e comparação das frações de gigantes luminosas em relação a isócronas sintéticas em três surveys espectroscópicos](/resource/areas/academico/journal-clubs/mwbr/2608.06204/fig3_lu2026.png)
 
 > [!note]  Consistência Espectroscópica Multi-Survey (Lu2026, p. 4)
 > > *Compared to the synthetic isochrones, the relative number of luminous giants decreases with increasing metallicity in the three surveys.*
@@ -240,7 +240,7 @@ icon: lucide-book-open
 
 ### . Figura — Frações das Subpopulações (URGB, RC, LRGB) em Subvolumes de a kpc
 
-![Figura 4 — Fração de estrelas URGB, Red Clump e LRGB em função da distância solar (subamostras limitadas em volume de 1 a 4 kpc)](/assets/journal-clubs/mwbr/2608.06204/fig4_lu2026.png)
+![Figura 4 — Fração de estrelas URGB, Red Clump e LRGB em função da distância solar (subamostras limitadas em volume de 1 a 4 kpc)](/resource/areas/academico/journal-clubs/mwbr/2608.06204/fig4_lu2026.png)
 
 > [!tip]  Estimativa de Incertezas via Perturbação Monte Carlo (Lu2026, p. 5)
 > > *Uncertainties are estimated by perturbing metallicity, $(G_{\text{BP}} - G_{\text{RP}})_0$, and $(M_G)_0$ by $0.1$, shifting boundaries and computing the 16th, 50th, and 84th percentiles.*
@@ -253,7 +253,7 @@ icon: lucide-book-open
 
 ### . Figura — Validação Externa com Membros de Aglomerados Abertos
 
-![Figura 5 — Validação das metalicidades do Gaia XP através de membros de aglomerados abertos](/assets/journal-clubs/mwbr/2608.06204/fig5_lu2026.png)
+![Figura 5 — Validação das metalicidades do Gaia XP através de membros de aglomerados abertos](/resource/areas/academico/journal-clubs/mwbr/2608.06204/fig5_lu2026.png)
 
 > [!tip]  Validação Externa com Membros de Aglomerados Abertos (Lu2026, p. 9)
 > > *With a membership probability threshold of $> 70\%$, the metallicity distributions are broadly consistent with cluster values, suggesting that Gaia XP spectra for metal-rich giants are reliable.*
@@ -327,9 +327,9 @@ icon: lucide-book-open
 ## . Recursos & Materiais do Estudo
 
 > [!tip]  Links e Materiais Vinculados
-> -  **Artigo Original PDF:** [Artigo - Lu2026.pdf](/assets/journal-clubs/mwbr/2608.06204/Artigo%20-%20Lu2026.pdf)
-> -  **Slides de Apresentação (LaTeX PDF):** [slides_mwbr_artigo.pdf](/assets/journal-clubs/mwbr/2608.06204/slides_mwbr_artigo.pdf)
-> -  **Roteiro de Discussão:** [roteiro_Lu2026.pdf](/assets/journal-clubs/mwbr/2608.06204/roteiro_Lu2026.pdf)
+> -  **Artigo Original PDF:** [Artigo - Lu2026.pdf](/resource/areas/academico/journal-clubs/mwbr/2608.06204/Artigo%20-%20Lu2026.pdf)
+> -  **Slides de Apresentação (LaTeX PDF):** [slides_mwbr_artigo.pdf](/resource/areas/academico/journal-clubs/mwbr/2608.06204/slides_mwbr_artigo.pdf)
+> -  **Roteiro de Discussão:** [roteiro_Lu2026.pdf](/resource/areas/academico/journal-clubs/mwbr/2608.06204/roteiro_Lu2026.pdf)
 > -  **Grupo do Clube:** [Google Groups — MWBR](https://groups.google.com/g/mwbr-journalclub)
 > -  **Hub no Site Pessoal:** [phrandrade.com/mwbr](https://www.phrandrade.com/pt-br/research/journal-clubs/mwbr/)
 > -  **arXiv:** [arXiv:2608.06204 [astro-ph.GA]](https://arxiv.org/abs/2608.06204)

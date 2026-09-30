@@ -6,10 +6,10 @@ Desenvolvido para o ecossistema institucional do IFF Campus Bom Jesus do Itabapo
 Professor Responsável: Prof. Dr. Pedro Henrique Rocha de Andrade
 
 Funcionamento:
-1. Varre o diretório do curso (ex: content/pt-br/resource/latex ou content/templates/ModeloCurso).
+1. Varre o diretório do curso (ex: content/pt-br/academic/courses/latex ou content/templates/ModeloCurso).
 2. Identifica todos os arquivos que começam com 'aula-*.md'.
 3. Lê os metadados YAML (title, modulo, normas) e o primeiro título H1 (# ...).
-4. Verifica na biblioteca de assets (/assets/biblioteca/<slug-do-curso>/) se existem:
+4. Verifica na biblioteca de assets (/resource/areas/academico/biblioteca/<slug-do-curso>/) se existem:
    - slides-latex/aula-XX.pdf
    - slides-pptx/aula-XX.pdf
    - thumbs/aula-XX.png
@@ -18,7 +18,7 @@ Funcionamento:
    - <!-- COURSE_TABLE_START --> ... <!-- COURSE_TABLE_END -->
 
 Uso:
-  python3 scripts/generate_course_table.py --dir content/pt-br/resource/latex --slug latex-escrita
+  python3 scripts/generate_course_table.py --dir content/pt-br/academic/courses/latex --slug latex-escrita
   python3 scripts/generate_course_table.py --all
 """
 
@@ -185,7 +185,7 @@ def generate_carousel(lessons, course_slug, rel_base_url):
     for l in sorted(lessons, key=lambda x: x["num"]):
         num_str = f"{l['num']:02d}"
         title = l['clean_title']
-        thumb_rel = f"/assets/biblioteca/{course_slug}/thumbs/aula-{num_str}.png"
+        thumb_rel = f"/resource/areas/academico/biblioteca/{course_slug}/thumbs/aula-{num_str}.png"
         note_link = f"{rel_base_url}/{l['basename']}"
         desc = l.get('normas', 'Referencial teórico, normas técnicas e prática ReLaTeX.')
         lines.append(f'  <a href="{note_link}" class="course-carousel-card">')
@@ -212,11 +212,11 @@ def update_lesson_files(lessons, course_dir, course_slug):
             content = f.read()
             
         num_str = f"{l['num']:02d}"
-        s_latex_branco = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}-branco.pdf"
-        s_latex_preto = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}-preto.pdf"
-        s_pptx_branco = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-branco.pptx"
-        s_pptx_preto = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-preto.pptx"
-        n_latex_url = f"/assets/biblioteca/{course_slug}/notes-latex/aula-{num_str}.pdf"
+        s_latex_branco = f"/resource/areas/academico/biblioteca/{course_slug}/slides-latex/aula-{num_str}-branco.pdf"
+        s_latex_preto = f"/resource/areas/academico/biblioteca/{course_slug}/slides-latex/aula-{num_str}-preto.pdf"
+        s_pptx_branco = f"/resource/areas/academico/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-branco.pptx"
+        s_pptx_preto = f"/resource/areas/academico/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-preto.pptx"
+        n_latex_url = f"/resource/areas/academico/biblioteca/{course_slug}/notes-latex/aula-{num_str}.pdf"
         
         tabela_didatica = f"""| Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
 | :--- | :--- |
@@ -261,9 +261,9 @@ flowchart TD
         if "## 🛠️ Recursos Adicionais e Material Suplementar" not in content:
             recursos_bloco = """## 🛠️ Recursos Adicionais e Material Suplementar
 
-- **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — Exemplos canônicos de código, classes (`ifftese.cls`, `slidesiffmodelo.cls`) e documentação interna.
-- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)** — Matriz analítica de 80h (Terças, 14h30-17h30) e avaliação em 2 bimestres.
-- **[📜 Código de Conduta e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — Regimento ético, normas CEP/CONEP e uso transparente de IA.
+- **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/academic/courses/latex/modelos-de-documento)** — Exemplos canônicos de código, classes (`ifftese.cls`, `slidesiffmodelo.cls`) e documentação interna.
+- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/academic/courses/latex/planejamento-e-cronograma)** — Matriz analítica de 80h (Terças, 14h30-17h30) e avaliação em 2 bimestres.
+- **[📜 Código de Conduta e Diretrizes Acadêmicas](/pt-br/academic/courses/latex/codigo-de-conduta-e-diretrizes)** — Regimento ético, normas CEP/CONEP e uso transparente de IA.
 - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — Portal oficial mundial de pacotes LaTeX2e.
 - **[ABNT Catálogo de Normas](https://www.abnt.org.br/)** — Acesso e consulta às normas técnicas vigentes.
 - **[Overleaf Documentation](https://www.overleaf.com/learn)** — Base de conhecimento e guias práticos sobre compilação TeX.
@@ -301,11 +301,11 @@ def generate_modules_table(lessons, course_slug, rel_base_url, root_repo):
             title = l["clean_title"]
             desc = l.get("normas", "Referencial teórico, normas ABNT vigentes e prática ReLaTeX.")
             
-            s_latex_branco = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}-branco.pdf"
-            s_latex_preto = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}-preto.pdf"
-            s_pptx_branco = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-branco.pptx"
-            s_pptx_preto = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-preto.pptx"
-            n_latex_url = f"/assets/biblioteca/{course_slug}/notes-latex/aula-{num_str}.pdf"
+            s_latex_branco = f"/resource/areas/academico/biblioteca/{course_slug}/slides-latex/aula-{num_str}-branco.pdf"
+            s_latex_preto = f"/resource/areas/academico/biblioteca/{course_slug}/slides-latex/aula-{num_str}-preto.pdf"
+            s_pptx_branco = f"/resource/areas/academico/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-branco.pptx"
+            s_pptx_preto = f"/resource/areas/academico/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-preto.pptx"
+            n_latex_url = f"/resource/areas/academico/biblioteca/{course_slug}/notes-latex/aula-{num_str}.pdf"
             adicional_url = f"{note_link}#recursos-adicionais"
             
             lines.append(f"- **Aula {num_str}: [{title}]({note_link})**  ")
@@ -402,8 +402,8 @@ def update_course_index(course_dir, course_slug, root_repo):
 
 def main():
     parser = argparse.ArgumentParser(description="Gerador Automático de Tabelas de Aulas do Quartz")
-    parser.add_argument("--dir", help="Caminho para a pasta do curso (ex: content/pt-br/resource/latex)")
-    parser.add_argument("--slug", default="latex-escrita", help="Slug da biblioteca em /assets/biblioteca/")
+    parser.add_argument("--dir", help="Caminho para a pasta do curso (ex: content/pt-br/academic/courses/latex)")
+    parser.add_argument("--slug", default="latex-escrita", help="Slug da biblioteca em /resource/areas/academico/biblioteca/")
     parser.add_argument("--all", action="store_true", help="Atualiza todos os cursos configurados no repositório")
     args = parser.parse_args()
     
@@ -411,7 +411,7 @@ def main():
     
     if args.all:
         cursos = [
-            ("content/pt-br/resource/latex", "latex-escrita"),
+            ("content/pt-br/academic/courses/latex", "latex-escrita"),
             ("content/templates/ModeloCurso", "modelo-curso"),
         ]
         for cdir, cslug in cursos:
@@ -423,7 +423,7 @@ def main():
         update_course_index(full_cdir, args.slug, root_repo)
     else:
         # Padrão: atualiza o curso principal
-        update_course_index(os.path.join(root_repo, "content/pt-br/resource/latex"), "latex-escrita", root_repo)
+        update_course_index(os.path.join(root_repo, "content/pt-br/academic/courses/latex"), "latex-escrita", root_repo)
 
 if __name__ == "__main__":
     main()

@@ -30,7 +30,7 @@ cssclasses:
 
 > [!note] Diapo présenté:
 > *Apresentação oral / Slides CONFICT 2026*
-> Concernant:![[assets/banners/BannerSBPC26.pdf]]
+> Concernant:![[resource/meta/banners/BannerSBPC26.pdf]]
 
 ## Références et corrections
 

@@ -20,7 +20,7 @@ cssclasses:
 
  Presenta modelos de masa de la Vía Láctea ajustados a restricciones observacionales. Encuentra R0 = 8,20±0,09 kpc, velocidad circular en el Sol v0 = 232,8±3,0 km/s, masa estelar total (54,3±5,7) ×10^9 Msol y masa vendríal (1,30±0,30) ×10^12 Msol. Es la referencia de los parámetros de potencial que usas en galpy.
 
- [Véase el artículo original](https://doi.org/10.1093/mnras/stw2759)·[Reflexión Descargar PDF](/assets/articles/McMillan2017.pdf)
+ [Véase el artículo original](https://doi.org/10.1093/mnras/stw2759)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/McMillan2017.pdf)
 
 ## Citación
 

@@ -74,7 +74,7 @@ def md_to_latex_notes(md_text):
         
     return md_text
 
-for filepath in glob.glob('content/pt-br/resource/latex/aula-*.md'):
+for filepath in glob.glob('content/pt-br/academic/courses/latex/aula-*.md'):
     with open(filepath, 'r') as f:
         print(f"Testing {filepath}")
         md_to_latex_notes(f.read())

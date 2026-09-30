@@ -30,7 +30,7 @@ cssclasses:
 
 > [!note] Slide presentado:
 > *Apresentação oral / Slides CONFICT 2026*
-> Referente a:![[assets/banners/BannerSBPC26.pdf]]
+> Referente a:![[resource/meta/banners/BannerSBPC26.pdf]]
 
 ## Referencias y correcciones
 

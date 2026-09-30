@@ -20,7 +20,7 @@ cssclasses:
 
  Décrit le sondage APOGEE (SDSS-III) : 146 000 étoiles avec des spectres infrarouges à haute résolution (R ~ 22 500) et S / N. Il présente la conception, la sélection des cibles, la réduction et les produits. C'est une autre source d'abondance chimique utilisée pour caractériser les populations stellaires.
 
- [Voir article original](https://doi.org/10.3847/1538-3881/aa784d)·[Réflexion Télécharger le PDF](/assets/articles/Majewski2017.pdf)
+ [Voir article original](https://doi.org/10.3847/1538-3881/aa784d)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Majewski2017.pdf)
 
 ## Citation
 

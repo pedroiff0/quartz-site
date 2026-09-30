@@ -14,7 +14,7 @@ with tempfile.TemporaryDirectory() as tmp_dir:
         else: shutil.copy2(s, d)
     img_dir = os.path.join(tmp_dir, "img")
     os.makedirs(img_dir, exist_ok=True)
-    generate_qr_transparent('https://pedroiff0.github.io/page/pt-br/resource/latex', os.path.join(img_dir, "qrcode_transparente.png"), is_dark_theme=False)
+    generate_qr_transparent('https://pedroiff0.github.io/page/pt-br/academic/courses/latex', os.path.join(img_dir, "qrcode_transparente.png"), is_dark_theme=False)
     shutil.copy2("/home/pedro/Downloads/_cosmic_assets/iff/iff_bji_light.png", os.path.join(img_dir, "logoiff.png"))
     
     cmd = ["pdflatex", "-interaction=nonstopmode", "documento.tex"]

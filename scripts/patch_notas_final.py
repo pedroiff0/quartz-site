@@ -130,7 +130,7 @@ old_notas_body = r"""    lines.append(r"\vspace{0.8cm}")
 new_notas_body = r"""    lines.append(r"\vspace{0.8cm}")
     
     import glob
-    md_files = glob.glob(f"content/pt-br/resource/latex/aula-{num_str}-*.md")
+    md_files = glob.glob(f"content/pt-br/academic/courses/latex/aula-{num_str}-*.md")
     if md_files:
         with open(md_files[0], 'r', encoding='utf-8') as f:
             md_content = f.read()

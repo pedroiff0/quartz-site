@@ -20,7 +20,7 @@ cssclasses:
 
  PARSEC: stellar tracks e isochrones with the PAdova & TRieste Stellar Evolution Code (PARSEC). Presenta el código de evolución estelar de Pádua-Trieste, con senderos e isócronas mejoradas, incluyendo fase AGB y poblaciones del disco. Es la base teórica de las isócronas usadas para estimar edades/parámetros estelares en su proyecto (complementa Marigo2017).
 
- [Véase el artículo original](https://doi.org/10.1111/j.1365-2966.2012.21948.x)·[Reflexión Descargar PDF](/assets/articles/Bressan2012.pdf)
+ [Véase el artículo original](https://doi.org/10.1111/j.1365-2966.2012.21948.x)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Bressan2012.pdf)
 
 ## Citación
 

@@ -20,7 +20,7 @@ cssclasses:
 
  Usa ~600.000 espectros de alta resolución de GALAH + algoritmo de machine learning para encontrar 54 candidatos a estrellas extremadamente pobres en metales (EMP, \[Fe/H]<-3,0). Muestra que ML en grandes levantamientos espectroscópicos es poderoso para el descubrimiento, directo al tema de anomalías/detección de raras.
 
- [Véase el artículo original](https://doi.org/10.3847/1538-4357/ac5fa7)·[Reflexión Descargar PDF](/assets/articles/Hughes2022.pdf)
+ [Véase el artículo original](https://doi.org/10.3847/1538-4357/ac5fa7)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Hughes2022.pdf)
 
 ## Citación
 

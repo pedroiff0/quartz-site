@@ -20,7 +20,7 @@ cssclasses:
 
  Il présente le SpectroTraducteur, un réseau neuronal basé sur des données qui convertit les paramètres spectroscopiques d'une enquête (base A) à une autre (base B), avec une estimation de l'importance des paramètres. Utile pour l'homogénéisation des catalogues (GALAH) dans votre projet.
 
- [Voir article original](https://doi.org/10.1051/0004-6361/202450198)·[Réflexion Télécharger le PDF](/assets/articles/Thomas2024.pdf)
+ [Voir article original](https://doi.org/10.1051/0004-6361/202450198)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Thomas2024.pdf)
 
 ## Citation
 

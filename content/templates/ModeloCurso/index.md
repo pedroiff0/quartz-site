@@ -28,18 +28,18 @@ Bem-vindo ao repositório oficial da disciplina **[NOME DA DISCIPLINA OU CURSO]*
 
 > [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
 > ### Pré-requisitos Exigidos:
-> - [[pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Y - Disciplina Anterior]]
+> - [[pt-br/academic/courses/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Y - Disciplina Anterior]]
 > 
 > ### Disciplinas Trancadas (Liberadas após conclusão):
-> - [[pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Z - Disciplina Posterior]]
+> - [[pt-br/academic/courses/engenharia-de-computação/[PERIODO]/[SLUG]|CSECBJI.Z - Disciplina Posterior]]
 
 ---
 
 ## Material Suplementar e Documentos Oficiais
 
 > [!note] Guia Rápido e Documentos Institucionais
-> - **[Ementa e Cronograma da Disciplina (PDF)](/assets/biblioteca/seu-curso/documentos/cronograma.pdf)** — *Planejamento analítico das aulas e matriz de competências.*
-> - **[Código de Conduta e Diretrizes](/assets/biblioteca/seu-curso/documentos/diretrizes.pdf)** — *Diretrizes éticas e conduta discente.*
+> - **[Ementa e Cronograma da Disciplina (PDF)](/resource/areas/academico/biblioteca/seu-curso/documentos/cronograma.pdf)** — *Planejamento analítico das aulas e matriz de competências.*
+> - **[Código de Conduta e Diretrizes](/resource/areas/academico/biblioteca/seu-curso/documentos/diretrizes.pdf)** — *Diretrizes éticas e conduta discente.*
 
 ---
 

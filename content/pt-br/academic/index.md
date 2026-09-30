@@ -19,7 +19,7 @@ icon: lucide-graduation-cap
 
 ## Portal Principal
 
-- **[[pt-br/academic/engenharia-de-computacao|Matriz Curricular Completa & Ementário]]** — Grade curricular, carga horária e mapeamento de dependências.
+- **[[pt-br/academic/engenharia-computacao/index|Matriz Curricular Completa & Ementário]]** — Grade curricular, carga horária e mapeamento de dependências.
 - **[[pt-br/academic/kanban|Quadro de Atividades e Prazos]]**
 
 ---
@@ -29,6 +29,6 @@ icon: lucide-graduation-cap
 | Período | Conteúdo & Disciplinas |
 | :---: | :--- |
 | **1º ao 5º Período** | Ciclo Básico e Intermediário da Engenharia |
-| **[[pt-br/academic/6-periodo/6o-periodo|6º Período (Atual - 2026-2)]]** | Eletrônica Digital, Banco de Dados, Compiladores, POO I, ASOO, Filosofia, ComDados |
+| **[[pt-br/academic/engenharia-computacao/6-periodo/6o-periodo|6º Período (Atual - 2026-2)]]** | Eletrônica Digital, Banco de Dados, Compiladores, POO I, ASOO, Filosofia, ComDados |
 | **7º ao 10º Período** | Ciclo Profissionalizante e TCC |
-| **[[pt-br/academic/eletivas/eletivas|Disciplinas Eletivas]]** | Inteligência Artificial, Computação Gráfica, Sistemas Distribuídos |
+| **[[pt-br/academic/engenharia-computacao/eletivas/eletivas|Disciplinas Eletivas]]** | Inteligência Artificial, Computação Gráfica, Sistemas Distribuídos |

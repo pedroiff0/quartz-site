@@ -33,3 +33,18 @@ __pycache__/
 # Dados pessoais: nunca versionar (removidos do historico em 29/09/2026)
 content/recursos/
 content/assets/documentos/Pedro/
+
+# resource/ substitui assets/ e recursos/ (29/09/2026: recursos/ e documentos pessoais nunca versionados).
+# Versionado: apenas o que ja era publico em assets/ (meta, disciplinas, journal-clubs, biblioteca, articles).
+content/resource/*
+!content/resource/meta/
+!content/resource/areas/
+content/resource/areas/*
+!content/resource/areas/academico/
+content/resource/areas/academico/*
+!content/resource/areas/academico/disciplinas/
+!content/resource/areas/academico/journal-clubs/
+!content/resource/areas/academico/biblioteca/
+!content/resource/areas/academico/articles/
+**/documentos/
+**/curriculo/

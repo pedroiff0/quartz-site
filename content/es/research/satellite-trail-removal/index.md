@@ -21,7 +21,7 @@ cssclasses:
 
 <div class="media-carousel">
   <a href="/pt-br/research/satellite-trail-removal" class="carousel-slide">
-    <img src="/assets/illustrations/informatica.svg" alt="Eliminación de rastros de satélite en imágenes astronómicas" />
+    <img src="/resource/meta/illustrations/informatica.svg" alt="Eliminación de rastros de satélite en imágenes astronómicas" />
     <div class="slide-caption">Contaminación Luminosa por Satélites</div>
   </a>
 </div>

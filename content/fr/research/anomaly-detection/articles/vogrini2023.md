@@ -20,7 +20,7 @@ cssclasses:
 
  Il utilise > 872 000 spectres GALAH pour isoler les bandes Diffuse (DIB), générant 183 caractéristiques. Moins central de votre thème, mais il montre l'utilisation de Big Data spectroscopique GALAH.
 
- [Voir article original](https://doi.org/10.1093/mnras/stad678)·[Réflexion Télécharger le PDF](/assets/articles/Vogrini2023.pdf)
+ [Voir article original](https://doi.org/10.1093/mnras/stad678)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Vogrini2023.pdf)
 
 ## Citation
 

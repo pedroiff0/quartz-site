@@ -1,0 +1,30 @@
+---
+publish: false
+title: Hub — Eletiva Vi
+created: 2026-08-24 12:00
+modified: 2026-09-28 12:58
+tags:
+- disciplina
+- engenharia-de-computacao
+cssclasses:
+- page-layout
+cover: 99-meta/attachments/resource/meta/illustrations/computacao.svg
+icon: lucide-book-open
+---
+
+> [!todo]+ Navegação da Disciplina
+> 📘 **[[anotacoes/anotacoes — Eletiva Vi|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Eletiva Vi|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+
+
+# Hub da Disciplina: Eletiva Vi
+
+## Acesso Rápido
+-  Anotações de Quadro das Aulas
+
+---
+
+## Aulas da Disciplina
+
+| Aula / Conteúdo | Data |
+| :--- | :---: |
+| [[hub-eletiva-vi\|Hub — Eletiva Vi]] | 24/08/2026 |

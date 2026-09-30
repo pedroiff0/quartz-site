@@ -20,7 +20,7 @@ cssclasses:
 
  Discute que surveys como Vera Rubin y SKA generarán miles de millones de fuentes que nunca serán vistas por humanos; ML es útil para detectar anomalías, pero confunde anomalías interesantes con artefactos instrumentales. Propone active learning (humano + ML). Es LEITURA OBRIGATORIA para su proyecto de detección de anomalías.
 
- [Véase el artículo original](https://doi.org/10.1016/j.ascom.2021.100481)·[Reflexión Descargar PDF](/assets/articles/Lochner2021.pdf)
+ [Véase el artículo original](https://doi.org/10.1016/j.ascom.2021.100481)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Lochner2021.pdf)
 
 ## Citación
 

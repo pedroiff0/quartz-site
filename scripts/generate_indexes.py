@@ -3,8 +3,8 @@ import urllib.parse
 
 def main():
     # Use relative paths for GitHub Actions environment
-    base_resource = "content/pt-br/resource/Engenharia de Computação"
-    base_assets = "content/assets/disciplinas"
+    base_resource = "content/pt-br/academic/engenharia-computacao"
+    base_assets = "content/resource/areas/academico/disciplinas"
 
     if not os.path.exists(base_resource):
         print(f"Directory not found: {base_resource}")
@@ -52,7 +52,7 @@ def main():
                         for fname, frel in sorted(anotacoes_files):
                             name = frel.replace('.md', '')
                             # Use absolute unique wikilink with escaped pipe for table compatibility
-                            wiki_path = f"pt-br/resource/Engenharia de Computação/{period}/{disc}/anotacoes/{name}"
+                            wiki_path = f"pt-br/academic/engenharia-computacao/{period}/{disc}/anotacoes/{name}"
                             md += f"| 📄 {name.split('/')[-1]} | [[{wiki_path}\\|Acessar Anotação]] |\n"
                     else:
                         md += "Nenhuma anotação encontrada.\n"
@@ -62,7 +62,7 @@ def main():
                         md += "| Arquivo / Documento | Link de Acesso |\n"
                         md += "|---------------------|----------------|\n"
                         for fname, frel in sorted(assets_files):
-                            full_asset_path = f"/assets/disciplinas/{frel}"
+                            full_asset_path = f"/resource/areas/academico/disciplinas/{frel}"
                             encoded_asset_path = urllib.parse.quote(full_asset_path)
                             md += f"| 📦 {fname} | [Baixar / Ver Arquivo]({encoded_asset_path}) |\n"
                     else:

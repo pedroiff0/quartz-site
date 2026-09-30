@@ -20,7 +20,7 @@ cssclasses:
 
  Presenta nueva generación de isócronas PARSEC-COLIBRI incluyendo fase TP-AGB detallada y amplia franja de metalicidad. Útil para estimar edades/parámetros estelares que entran en los análisis de su proyecto.
 
- [Véase el artículo original](https://doi.org/10.3847/1538-4357/835/1/77)·[Reflexión Descargar PDF](/assets/articles/Marigo2017.pdf)
+ [Véase el artículo original](https://doi.org/10.3847/1538-4357/835/1/77)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/Marigo2017.pdf)
 
 ## Citación
 

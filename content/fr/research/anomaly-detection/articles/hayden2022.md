@@ -20,7 +20,7 @@ cssclasses:
 
  Dérivés de près de 250 000 étoiles de GALAH DR3 via XGBoost en utilisant uniquement la métallicité et l'abondance (précision 1-2 Gyr). Importance: l'âge est une variable clé dans le GAM de Dantas2025 pour déduire le rayon de naissance.
 
- [Voir article original](https://doi.org/10.1093/mnras/stac2787)·[Réflexion Télécharger le PDF](/assets/articles/Hayden2022.pdf)
+ [Voir article original](https://doi.org/10.1093/mnras/stac2787)·[Réflexion Télécharger le PDF](/resource/areas/academico/artigos/Hayden2022.pdf)
 
 ## Citation
 

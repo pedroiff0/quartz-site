@@ -1,20 +1,23 @@
 ---
 publish: true
-title: "Middle-earth Compiler"
-created: 2026-09-28 22:55
-modified: 2026-09-29 09:07
+title: Middle-earth Compiler
+created: '2026-09-28T22:55:00-03:00'
+modified: 2026-09-30T13:05:50-03:00
 tags:
-  - projeto
-  - publico
-  - academico
+- projeto
+- publico
+- academico
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-terminal
-repo: "https://github.com/pedroiff0/middle-earth-compiler"
+repo: https://github.com/pedroiff0/middle-earth-compiler
 status: em-desenvolvimento
 license: MIT
 author: Pedro Henrique Rocha de Andrade
+sitesync: true
 ---
+
+- Origem: [[pt-br/projects/site-publico-hub|Site Público]]
 
 # Middle-earth Compiler
 
@@ -157,7 +160,7 @@ Este projeto está licenciado sob os termos da licença **MIT**. Consulte o arqu
 ## Links e Referências
 
 - **Repositório no GitHub:** [middle-earth-compiler](https://github.com/pedroiff0/middle-earth-compiler)
-- **Índice de Projetos:** [[01-projetos/site-publico/projetos-publicos|Projetos Públicos]]
+- **Índice de Projetos:** [[pt-br/projects/projetos-publicos|Projetos Públicos]]
 
 ---
 

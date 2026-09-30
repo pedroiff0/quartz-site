@@ -20,7 +20,7 @@ cssclasses:
 
  Debate la naturaleza del disco grueso y su relación con el disco fino (estructura, cinemática, química). Relevante al contexto de poblaciones estelares y migración de su proyecto.
 
- [Véase el artículo original](https://doi.org/10.1051/0004-6361/201322944)·[Reflexión Descargar PDF](/assets/articles/RecioBlanco2014.pdf)
+ [Véase el artículo original](https://doi.org/10.1051/0004-6361/201322944)·[Reflexión Descargar PDF](/resource/areas/academico/artigos/RecioBlanco2014.pdf)
 
 ## Citación
 
