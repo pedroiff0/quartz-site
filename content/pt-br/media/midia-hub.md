@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Hub de Mídia
-  - MOC Mídia
+ - Hub de Mídia
+ - MOC Mídia
 publish: false
 title: Hub Central de Mídia & Eventos — hardcore-life
 created: 2026-07-18 13:34
-modified: 2026-09-30 11:26
+modified: 2026-09-30 14:05
 tags:
-  - moc
-  - midia
-  - eventos
+ - moc
+ - midia
+ - eventos
 cssclasses:
-  - page-layout
-  - cards
+ - page-layout
+ - cards
 icon: lucide-newspaper
+sitesync: false
 ---
 
 # Hub Central de Mídia & Eventos Científicos

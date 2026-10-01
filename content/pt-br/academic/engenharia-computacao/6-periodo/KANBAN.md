@@ -1,8 +1,8 @@
 ---
 publish: false
 title: Quadro Kanban — 6º Período EngComp
-created: '2026-09-14 11:53:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-09-14 11:53
+modified: 2026-09-30 13:54
 tags:
 - kanban
 - academico
@@ -15,24 +15,30 @@ sitesync: true
 
 ## A Fazer (Mapeadas nas Notas)
 
-- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas|Eletrônica Digital]]: Resolver a Lista de Exercícios de Notação Correta em PDF academico eletronica-digital
-- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas|Eletrônica Digital]]: Desenhar o circuito de mintermos para $S(A,B,C) = \sum m(1, 4, 7)$ academico eletronica-digital
-- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/anotacoes/aula-02-mapas-de-karnough|Eletrônica Digital]]: Lista de Exercícios de Mapas de Karnaugh academico eletronica-digital
-- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introducao|POO I]]: Implementar classe Conta Bancária academico poo
-- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introducao|POO I]]: Como pede informação ao usuário? (Scanner / BufferedReader) academico poo
-- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/atividades/trabalho-espaco-cultural|Filosofia]]:  Apresentar Trabalho - Espaço Cultural academico filosofia
+- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas|Eletrônica Digital]]: Resolver a Lista de Exercícios de Notação Correta em PDF academico eletronica-digital
+- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas|Eletrônica Digital]]: Desenhar o circuito de mintermos para $S(A,B,C) = \sum m(1, 4, 7)$ academico eletronica-digital
+- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/eletronica-digital/anotacoes/aula-02-mapas-de-karnough|Eletrônica Digital]]: Lista de Exercícios de Mapas de Karnaugh academico eletronica-digital
+- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introducao|POO I]]: Implementar classe Conta Bancária academico poo
+- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introducao|POO I]]: Como pede informação ao usuário? (Scanner / BufferedReader) academico poo
+- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/atividades/trabalho-espaco-cultural|Filosofia]]:  Apresentar Trabalho - Espaço Cultural academico filosofia
+
 
 ## Em Andamento (Hoje)
 
+
+
 ## Concluído (Mapeadas nas Notas)
 
-- [ ] [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/anotacoes/aula-01-capitulo-3-1|Comunicação de Dados]]: Ler capítulo 3.3 academico comunicacao-de-dados
-- [x] [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/anotacoes/aula-02-capitulo-3-3|Comunicação de Dados]]: Ler capítulo 3.4 academico comunicacao-de-dados
-- [x] [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas|Eletrônica Digital]]: Testar os circuitos das 7 portas no simulador LogiSim academico eletronica-digital
-- [x] [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introducao|POO I]]: Implementar classe Lâmpada academico poo
-- [x] [[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/anotacoes/atividades/trabalho-normalizacao-e-dependencias-funcionais|Banco de Dados]]:  Apresentar Trabalho - Normalização e Dependências Funcionais academico banco-de-dados
-- [x] [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/atividades/trabalho-coesao-e-acoplamento-asoo|ASOO]]:  Apresentar Trabalho - Coesão e Acoplamento academico asoo
-- [x] [[pt-br/academic/engenharia-computacao/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/atividades/trabalho-1-introducao-a-e-a-critica-dos-pressupostos|Filosofia]]: Apresentar Trabalho 1 academico filosofia
+- [ ] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/comunicacao-de-dados/anotacoes/aula-01-capitulo-3-1|Comunicação de Dados]]: Ler capítulo 3.3 academico comunicacao-de-dados
+- [x] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/comunicacao-de-dados/anotacoes/aula-02-capitulo-3-3|Comunicação de Dados]]: Ler capítulo 3.4 academico comunicacao-de-dados
+- [x] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/eletronica-digital/anotacoes/aula-01-portas-logicas|Eletrônica Digital]]: Testar os circuitos das 7 portas no simulador LogiSim academico eletronica-digital
+- [x] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introducao|POO I]]: Implementar classe Lâmpada academico poo
+- [x] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/banco-de-dados/anotacoes/atividades/trabalho-normalizacao-e-dependencias-funcionais|Banco de Dados]]:  Apresentar Trabalho - Normalização e Dependências Funcionais academico banco-de-dados
+- [x] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/atividades/trabalho-coesao-e-acoplamento-asoo|ASOO]]:  Apresentar Trabalho - Coesão e Acoplamento academico asoo
+- [x] [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/atividades/trabalho-1-introducao-a-e-a-critica-dos-pressupostos|Filosofia]]: Apresentar Trabalho 1 academico filosofia
+
+
+
 
 %% kanban:settings
 ```

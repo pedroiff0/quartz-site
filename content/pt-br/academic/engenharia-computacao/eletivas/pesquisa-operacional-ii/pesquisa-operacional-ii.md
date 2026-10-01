@@ -1,20 +1,22 @@
 ---
 publish: false
 title: Pesquisa Operacional II
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T15:35:32-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-30 15:35
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Pesquisa Operacional Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-pesquisa-operacional-ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Pesquisa Operacional Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-pesquisa-operacional-ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+
+
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.89`
@@ -22,17 +24,20 @@ sitesync: true
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
+
 > [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. Teoria Clássica da Otimização. Programação Não-linear.
 > **Objetivos**
 > - Desenvolver a capacidade de formular, modelar, solucionar e analisar modelos matemáticos para tomada de decisão em gestão e planejamento de processos produtivos.
 
+
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i|CSECBJI.88 - Pesquisa Operacional I]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i|CSECBJI.88 - Pesquisa Operacional I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
+
 
 > [!tip]  Conteúdo Programático
 > - **1. Programação Linear Inteira (PLI)**

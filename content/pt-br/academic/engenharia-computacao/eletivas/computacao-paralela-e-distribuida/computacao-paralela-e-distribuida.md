@@ -1,20 +1,22 @@
 ---
 publish: false
 title: Computação Paralela e Distribuída
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T15:35:32-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-30 15:35
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Computacao Paralela E Distribuida|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-computacao-paralela-e-distribuida|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Computacao Paralela E Distribuida|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-computacao-paralela-e-distribuida|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+
+
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.87`
@@ -22,17 +24,20 @@ sitesync: true
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
+
 > [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralela e distribuída. Tópicos emergentes em computação paralela e distribuída.
 > **Objetivos**
 > - Prover conhecimento e experiência em programação paralela para o desenvolvimento de software que tenha como requisito a sua execução em um ambiente paralelo e distribuído.
 
+
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos|CSECBJI.86 - Algoritmos Distribuídos]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos|CSECBJI.86 - Algoritmos Distribuídos]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
+
 
 > [!tip]  Conteúdo Programático
 > - **1. Sistemas de Trocas de Mensagens**

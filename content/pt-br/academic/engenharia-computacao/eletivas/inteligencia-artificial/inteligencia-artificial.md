@@ -1,26 +1,29 @@
 ---
 publish: false
 title: Inteligência Artificial
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T15:35:32-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-30 15:35
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Inteligencia Artificial|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-inteligencia-artificial|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Inteligencia Artificial|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-inteligencia-artificial|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+
+
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.90`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Específico | **Carga Horária:** 60
 > - **Docente Responsável:** Thiago Juncal (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
+
 
 > [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
@@ -29,11 +32,13 @@ sitesync: true
 > - Compreender os diferentes paradigmas que embasam as aplicações da IA. Entender os principais
 > - bjetivos e as limitações da Inteligência Artificial (IA). Aplicar os conceitos e técnicas da Inteligência Artificial.
 
+
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos|CSECBJI.34 - Projeto e Análise de Algoritmos]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos|CSECBJI.34 - Projeto e Análise de Algoritmos]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
+
 
 > [!tip]  Conteúdo Programático
 > - **1. Histórico e Princípios de Inteligência Artificial (IA)**

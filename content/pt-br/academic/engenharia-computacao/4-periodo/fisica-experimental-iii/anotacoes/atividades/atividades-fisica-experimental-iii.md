@@ -1,17 +1,17 @@
 ---
 publish: false
 title: Atividades, Trabalhos & Provas — Fisica Experimental Iii
-created: '2026-08-29 11:58:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-08-29 11:58
+modified: 2026-09-30 13:54
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
-disciplina: "[[fisica-experimental-iii]]"
+discipline: "[[fisica-experimental-iii]]"
 sitesync: true
 ---
 
@@ -22,6 +22,10 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 ---
 
 ## Relação de Trabalhos & Atividades
+
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[atividades-fisica-experimental-iii\|Atividades, Trabalhos & Provas — Fisica Experimental Iii]] | 29/08/2026 |
 
 ---
 

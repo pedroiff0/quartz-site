@@ -8,10 +8,11 @@ tags:
 - ingles
 - idioma
 created: 2026-09-14 11:54
-modified: 2026-09-30 10:35
+modified: 2026-09-30 13:05
 icon: lucide-book-open
 cssclasses:
   - page-layout
+sitesync: false
 ---
 
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">

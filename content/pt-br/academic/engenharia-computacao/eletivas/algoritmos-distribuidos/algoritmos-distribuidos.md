@@ -1,20 +1,22 @@
 ---
 publish: false
 title: Algoritmos Distribuídos
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T15:35:32-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-30 15:35
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Algoritmos Distribuidos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-algoritmos-distribuidos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Algoritmos Distribuidos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-algoritmos-distribuidos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+
+
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.86`
@@ -22,18 +24,21 @@ sitesync: true
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
+
 > [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Sistemas de troca de mensagens. Processadores de comunicação. Roteamento e controle de fluxo. Programas reativos. Alocação de "buffers". Alocação de processadores. Modelos síncrono e assíncrono de computação. Computações em sistemas anônimos; limitações intrínsecas. Noções de conhecimento em sistemas distribuídos. Eventos, ordens e estados globais. A complexidade de computações distribuídas. Algoritmos para propagação de informação. Algoritmos simples sobre grafos: teste de conectividade e distâncias mais curtas. Eleição de um líder. Técnicas para registrar estados globais. Sincronizadores. Introdução à auto-estabilização. Detecção de terminação. Detecção de "deadlocks". Outros algoritmos sobre grafos: árvores geradoras mínimas e fluxos em redes. Algoritmos para exclusão mútua. "Dining philosophers" e "drinking philosophers". Reexecução determinística de programas. Detecção de "breakpoints". Introdução à simulação distribuída.
 > **Objetivos**
 > - Familiarizar o discente com os conceitos, termos e técnicas básicas de algoritmos distribuídos.
 
+
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i|CSECBJI.55 - Redes de Computadores I]]
-> - [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i|CSECBJI.56 - Sistemas Operacionais I]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i|CSECBJI.55 - Redes de Computadores I]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i|CSECBJI.56 - Sistemas Operacionais I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/eletivas/computacao-paralela-e-distribuida/computacao-paralela-e-distribuida|CSECBJI.87 - Computação Paralela e Distribuída]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/computacao-paralela-e-distribuida/computacao-paralela-e-distribuida|CSECBJI.87 - Computação Paralela e Distribuída]]
+
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução à Computação Paralela e Distribuída**

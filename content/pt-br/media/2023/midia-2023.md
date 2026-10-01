@@ -1,12 +1,12 @@
 ---
 publish: true
 title: 2023
-created: '2026-07-23 13:04:00-03:00'
-modified: 2026-09-30T13:05:50-03:00
+created: 2026-07-23 13:04
+modified: 2026-09-30 13:05
 tags:
 - midia
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-newspaper
 sitesync: true
 ---
@@ -14,5 +14,5 @@ sitesync: true
 > [!note] Resumo
 > Participações em feiras e eventos científicos em 2023.
 
-- [[pt-br/media/2023/febrace-2023|FEBRACE 2023]] — primeira participação do campus na maior feira de ciências e engenharia do Brasil; projeto sobre matéria escura selecionado entre 200 finalistas de mais de 3.200 inscritos.
-- [[pt-br/media/2023/mostratec-2023|MOSTRATEC 2023]] — mesmo projeto, na maior e mais tradicional feira de ciências da América Latina (Novo Hamburgo, RS), com financiamento do CNPq.
+- [[03-midia/2023/febrace-2023|FEBRACE 2023]] — primeira participação do campus na maior feira de ciências e engenharia do Brasil; projeto sobre matéria escura selecionado entre 200 finalistas de mais de 3.200 inscritos.
+- [[03-midia/2023/mostratec-2023|MOSTRATEC 2023]] — mesmo projeto, na maior e mais tradicional feira de ciências da América Latina (Novo Hamburgo, RS), com financiamento do CNPq.

@@ -1,29 +1,32 @@
 ---
 publish: false
 title: 2º Período
-created: '2026-07-21 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-07-21 12:00
+modified: 2026-09-30 13:54
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
 sitesync: true
 ---
+
 
 > [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `480h`
 > - **Resumo Pedagógico:** Aprofundamento em algoritmos de programação, equações diferenciais e física teórica.
 
+
 > [!note]  Grade Curricular e Disciplinas Integrantes
 > -  **Anotações da Disciplina** (`80h` · Núcleo Profissionalizante)
-> -  **[[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II]]** (`80h` · Núcleo Básico)
-> -  **[[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii|Álgebra Linear e Geometria Analítica II]]** (`60h` · Núcleo Básico)
-> -  **[[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta|Matemática Discreta]]** (`60h` · Núcleo Básico)
-> -  **[[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i|Física I]]** (`80h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II]]** (`80h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii|Álgebra Linear e Geometria Analítica II]]** (`60h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/2-periodo/matematica-discreta/matematica-discreta|Matemática Discreta]]** (`60h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/2-periodo/fisica-i/fisica-i|Física I]]** (`80h` · Núcleo Básico)
 > -  **Anotações da Disciplina** (`60h` · Núcleo Básico)
-> -  **[[pt-br/academic/engenharia-computacao/2-periodo/fisica-experimental-i/fisica-experimental-i|Física Experimental I]]** (`60h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/2-periodo/fisica-experimental-i/fisica-experimental-i|Física Experimental I]]** (`60h` · Núcleo Básico)
+
 
 > [!tip]  Documentos e Horários Institucionais
 > -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

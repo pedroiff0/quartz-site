@@ -2,16 +2,16 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Processamento De Sinais
 created: 2026-08-29 11:58
-modified: 2026-09-30T13:54:29-03:00
+modified: 2026-09-30 13:54
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
-disciplina: "[[processamento-de-sinais]]"
+discipline: "[[processamento-de-sinais]]"
 sitesync: true
 ---
 

@@ -1,27 +1,30 @@
 ---
 publish: false
 title: 9º Período
-created: '2026-07-21 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-07-21 12:00
+modified: 2026-09-30 13:54
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
 sitesync: true
 ---
+
 
 > [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `400h`
 > - **Resumo Pedagógico:** Qualificação da proposta de TCC (PFC I), sistemas embarcados e computação distribuída.
 
+
 > [!note]  Grade Curricular e Disciplinas Integrantes
-> -  **[[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i|Projeto Final de Curso I (PFC I)]]** (`100h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos|Sistemas Distribuídos]]** (`80h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/9-periodo/sistemas-embarcados/sistemas-embarcados|Sistemas Embarcados]]** (`80h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/9-periodo/empreendedorismo/empreendedorismo|Empreendedorismo e Inovação]]** (`60h` · Núcleo Humanas)
-> -  **[[pt-br/academic/engenharia-computacao/9-periodo/direito-etica-e-cidadania/direito-etica-e-cidadania|Direito, Ética e Cidadania]]** (`80h` · Núcleo Humanas)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i|Projeto Final de Curso I (PFC I)]]** (`100h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos|Sistemas Distribuídos]]** (`80h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/9-periodo/sistemas-embarcados/sistemas-embarcados|Sistemas Embarcados]]** (`80h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/9-periodo/empreendedorismo/empreendedorismo|Empreendedorismo e Inovação]]** (`60h` · Núcleo Humanas)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/9-periodo/direito-etica-e-cidadania/direito-etica-e-cidadania|Direito, Ética e Cidadania]]** (`80h` · Núcleo Humanas)
+
 
 > [!tip]  Documentos e Horários Institucionais
 > -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

@@ -6,7 +6,7 @@ aliases:
 publish: false
 title: Hub de Idiomas — hardcore-life
 created: 2026-09-14 11:54
-modified: 2026-09-30 11:15
+modified: 2026-09-30 13:05
 tags:
   - moc
   - idioma
@@ -16,6 +16,7 @@ cssclasses:
   - page-layout
   - cards
 icon: lucide-languages
+sitesync: false
 ---
 
 # Central Poliglota — hardcore-life

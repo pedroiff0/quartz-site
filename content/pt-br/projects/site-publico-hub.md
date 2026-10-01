@@ -5,7 +5,7 @@ aliases:
   - Site Público Hub
   - Projetos Site Público Hub
 created: 2026-09-30 11:59
-modified: 2026-09-30 11:59
+modified: 2026-09-30 13:05
 tags:
   - projeto
   - site-publico
@@ -14,6 +14,7 @@ cssclasses:
   - page-layout
   - cards
 icon: lucide-globe
+sitesync: false
 ---
 
 # Hub de Projetos do Site Público

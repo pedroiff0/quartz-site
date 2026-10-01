@@ -2,7 +2,7 @@
 publish: false
 title: Palácio da Memória, Semiótica & Thauma — Gachiakuta, Cupani e Miguel Reale
 created: 2026-09-26 22:11
-modified: 2026-09-30 09:21
+modified: 2026-09-30 14:05
 encrypted: true
 tags:
 - palacio-da-memoria

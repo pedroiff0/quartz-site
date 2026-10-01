@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: Anotações — Alemão
 created: 2026-09-14 11:54
-modified: 2026-09-30 11:13
+modified: 2026-09-30 13:05
 tags:
 - anexo
 - alemao
@@ -12,6 +12,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+sitesync: false
 ---
 
 # Repositório de Anotações — Alemão

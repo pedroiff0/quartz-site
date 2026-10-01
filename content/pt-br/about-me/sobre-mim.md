@@ -1,12 +1,12 @@
 ---
 publish: true
 title: Sobre Mim
-created: '2026-07-18 20:34:00-03:00'
-modified: 2026-09-30T13:05:50-03:00
+created: 2026-07-18 20:34
+modified: 2026-09-30 13:05
 tags:
 - pessoal
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-user
 sitesync: true
 ---
@@ -16,6 +16,7 @@ sitesync: true
 
 > [!abstract] Conheça também o meu portfólio
 > Se você veio do meu **[portfólio de projetos](https://pedroiff0.github.io/webpage/)** (ou quer uma visão rápida de tudo que construí), lá estão todos os meus repositórios do GitHub — públicos e privados — com um *short brief* de cada um, além das bolsas de pesquisa e dos contatos reunidos numa página só. Este site aqui é o conteúdo mais completo (pesquisa, disciplinas, mídia e blog).
+
 
 ## Por onde começar?
 

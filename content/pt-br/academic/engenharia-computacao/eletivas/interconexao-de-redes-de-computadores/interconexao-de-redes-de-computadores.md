@@ -1,20 +1,22 @@
 ---
 publish: false
 title: Interconexão de Redes de Computadores
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T15:35:32-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-30 15:35
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Interconexao De Redes De Computadores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-interconexao-de-redes-de-computadores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Interconexao De Redes De Computadores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-interconexao-de-redes-de-computadores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+
+
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.80`
@@ -22,17 +24,20 @@ sitesync: true
 > - **Docente Responsável:** Wesley (wesley.souza@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
+
 > [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Projeto de Rede Hierárquico; Conexão à WAN; Conexões Point-to-Point; Frame Relay; NAT; Soluções de Banda Larga; Protegendo a Conectividade de Site para Site; Monitorando a Rede Solucionando Problemas de Rede
 > **Objetivos**
 > - Desenvolver o conhecimento e as habilidades necessários para executar operações IPsec e VPN (Virtual Private Network, Rede Virtual Privada) em uma rede complexa.
 
+
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
+
 
 > [!tip]  Conteúdo Programático
 > - **1. Projeto de Rede Hierárquico**

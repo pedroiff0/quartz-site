@@ -1,28 +1,31 @@
 ---
 publish: false
 title: 8º Período
-created: '2026-07-21 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-07-21 12:00
+modified: 2026-09-30 13:54
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
 sitesync: true
 ---
+
 
 > [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `420h`
 > - **Resumo Pedagógico:** Sistemas microcontrolados, arquitetura de alto desempenho e segurança do trabalho.
 
+
 > [!note]  Grade Curricular e Disciplinas Integrantes
-> -  **[[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/arquitetura-de-computadores|Arquitetura de Computadores]]** (`80h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/microcontroladores|Microcontroladores]]** (`80h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/8-periodo/redes-de-computadores-ii/redes-de-computadores-ii|Redes de Computadores II]]** (`80h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/8-periodo/sistemas-operacionais-ii/sistemas-operacionais-ii|Sistemas Operacionais II]]** (`60h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/metodologia-cientifica-e-tecnologica|Metodologia Científica e Tecnológica]]** (`60h` · Núcleo Humanas)
-> -  **[[pt-br/academic/engenharia-computacao/8-periodo/seguranca-e-higiene-do-trabalho/seguranca-e-higiene-do-trabalho|Segurança e Higiene do Trabalho]]** (`60h` · Núcleo Humanas)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/8-periodo/arquitetura-de-computadores/arquitetura-de-computadores|Arquitetura de Computadores]]** (`80h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/8-periodo/microcontroladores/microcontroladores|Microcontroladores]]** (`80h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/8-periodo/redes-de-computadores-ii/redes-de-computadores-ii|Redes de Computadores II]]** (`80h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/8-periodo/sistemas-operacionais-ii/sistemas-operacionais-ii|Sistemas Operacionais II]]** (`60h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/8-periodo/metodologia-cientifica-e-tecnologica/metodologia-cientifica-e-tecnologica|Metodologia Científica e Tecnológica]]** (`60h` · Núcleo Humanas)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/8-periodo/seguranca-e-higiene-do-trabalho/seguranca-e-higiene-do-trabalho|Segurança e Higiene do Trabalho]]** (`60h` · Núcleo Humanas)
+
 
 > [!tip]  Documentos e Horários Institucionais
 > -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

@@ -19,8 +19,9 @@ cssclasses:
 - page-layout
 - paper-notes
 created: 2026-09-14 10:29
-modified: 2026-09-29 20:39
+modified: 2026-09-30 13:05
 icon: lucide-book-open
+sitesync: false
 ---
 
 <div class="paper-banner">

@@ -1,15 +1,15 @@
 ---
 publish: false
 title: Atividades, Trabalhos & Provas — Compiladores
-created: '2026-08-29 11:58:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-08-29 11:58
+modified: 2026-09-30 13:54
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
 sitesync: true
 ---
@@ -22,9 +22,13 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 ## Relação de Trabalhos & Atividades
 
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[atividades-compiladores\|Atividades, Trabalhos & Provas — Compiladores]] | 29/08/2026 |
+
 ---
 
 ## Navegação da Disciplina
-- [[pt-br/academic/engenharia-computacao/6-periodo/compiladores/anotacoes/anotacoes-compiladores|Anotações de Quadro & Aulas]]
-- [[pt-br/academic/engenharia-computacao/6-periodo/compiladores/compiladores|Compiladores]]
-- [[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Hub de Disciplinas]]
+- [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/compiladores/anotacoes/anotacoes-compiladores|Anotações de Quadro & Aulas]]
+- [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/compiladores/compiladores|Compiladores]]
+- [[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Hub de Disciplinas]]

@@ -31,6 +31,6 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | [[anotacoes-programacao-orientada-a-objetos-i\|Anotações — Programacao Orientada A Objetos I]] | 24/08/2026 |
 | [[aula-01-introducao\|Aula 01 - Introdução]] | 26/08/2026 |
 | [[aula-02-construtores-e-encapsulamento\|Aula 02 - Construtores e Encapsulamento]] | 09/09/2026 |
-| [[aula-03\|Aula 03]] | 09/09/2026 |
+| [[aula-03\|Aula 03 -]] | 09/09/2026 |
 | [[aula-04\|Aula 04]] | 16/09/2026 |
 | [[aula-05\|Aula 05]] | 23/09/2026 |

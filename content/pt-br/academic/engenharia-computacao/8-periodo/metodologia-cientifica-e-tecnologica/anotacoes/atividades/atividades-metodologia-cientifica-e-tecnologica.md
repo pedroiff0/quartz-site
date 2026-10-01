@@ -1,17 +1,17 @@
 ---
 publish: false
 title: Atividades, Trabalhos & Provas — Metodologia Cientifica E Tecnologica
-created: '2026-08-29 11:58:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-08-29 11:58
+modified: 2026-09-30 13:54
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
-disciplina: "[[metodologia-cientifica-e-tecnologica]]"
+discipline: "[[metodologia-cientifica-e-tecnologica]]"
 sitesync: true
 ---
 
@@ -22,6 +22,10 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 ---
 
 ## Relação de Trabalhos & Atividades
+
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[atividades-metodologia-cientifica-e-tecnologica\|Atividades, Trabalhos & Provas — Metodologia Cientifica E Tecnologica]] | 29/08/2026 |
 
 ---
 

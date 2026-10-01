@@ -2,7 +2,7 @@
 publish: false
 title: Dashboard do clube
 created: 2026-08-01 13:04
-modified: 2026-09-28 22:43
+modified: 2026-09-30 13:05
 tags:
 - journal-club
 - engcomp
@@ -10,6 +10,7 @@ jcDashboard: engcomp
 cssclasses:
 - page-layout
 icon: lucide-book-open
+sitesync: false
 ---
 
 > [!note] Resumo

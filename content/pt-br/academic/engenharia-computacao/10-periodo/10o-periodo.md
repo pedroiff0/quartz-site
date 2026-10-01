@@ -1,24 +1,27 @@
 ---
 publish: false
 title: 10º Período
-created: '2026-07-21 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-07-21 12:00
+modified: 2026-09-30 13:54
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
 sitesync: true
 ---
+
 
 > [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `360h`
 > - **Resumo Pedagógico:** Defesa pública do PFC II e consolidação do Estágio Supervisionado.
 
+
 > [!note]  Grade Curricular e Disciplinas Integrantes
-> -  **[[pt-br/academic/engenharia-computacao/10-periodo/projeto-final-de-curso-ii/projeto-final-de-curso-ii|Projeto Final de Curso II (PFC II)]]** (`160h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/10-periodo/projeto-final-de-curso-ii/projeto-final-de-curso-ii|Projeto Final de Curso II (PFC II)]]** (`160h` · Núcleo Especifico)
 > -  **Anotações da Disciplina** (`200h` · Núcleo Especifico)
+
 
 > [!tip]  Documentos e Horários Institucionais
 > -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

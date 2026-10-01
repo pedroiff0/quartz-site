@@ -1,17 +1,17 @@
 ---
 publish: false
 title: Atividades, Trabalhos & Provas — Banco De Dados
-created: '2026-08-29 11:58:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-08-29 11:58
+modified: 2026-09-30 13:54
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
-disciplina: "[[banco-de-dados]]"
+discipline: "[[banco-de-dados]]"
 sitesync: true
 ---
 
@@ -22,6 +22,12 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 ---
 
 ## Relação de Trabalhos & Atividades
+
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[atividades-banco-de-dados\|Atividades, Trabalhos & Provas — Banco De Dados]] | 29/08/2026 |
+| [[trabalho-normalizacao-e-dependencias-funcionais\|Trabalho - Normalização e Dependências Funcionais]] | 07/09/2026 |
+| [[trabalho-projeto-semestre\|Aula projeto-semestre]] | 29/09/2026 |
 
 ---
 

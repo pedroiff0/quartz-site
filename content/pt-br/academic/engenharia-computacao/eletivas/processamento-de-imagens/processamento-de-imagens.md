@@ -1,20 +1,22 @@
 ---
 publish: false
 title: Processamento de Imagens
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T15:35:32-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-30 15:35
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Processamento De Imagens|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-processamento-de-imagens|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Processamento De Imagens|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-processamento-de-imagens|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+
+
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.78`
@@ -22,17 +24,20 @@ sitesync: true
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
+
 > [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração de imagens. Fundamentos para um sistema de análise de imagens. Segmentação de imagens.
 > **Objetivos**
 > - Apresentar os fundamentos gerais sobre processamento de imagens e vídeos digitais. Desenvolver rotinas de processamento de imagens para diversas aplicações.
 
+
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica|CSECBJI.77 - Computação Gráfica]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/eletivas/computacao-grafica/computacao-grafica|CSECBJI.77 - Computação Gráfica]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
+
 
 > [!tip]  Conteúdo Programático
 > - **1. Fundamentação, aplicações, representação e modelagem de imagens digitais**

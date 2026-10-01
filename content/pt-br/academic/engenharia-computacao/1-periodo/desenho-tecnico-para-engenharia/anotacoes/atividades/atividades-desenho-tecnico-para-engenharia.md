@@ -1,17 +1,17 @@
 ---
 publish: false
 title: Atividades, Trabalhos & Provas — Desenho Tecnico Para Engenharia
-created: '2026-08-29 11:58:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-08-29 11:58
+modified: 2026-09-30 13:54
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
-disciplina: "[[desenho-tecnico-para-engenharia]]"
+discipline: "[[desenho-tecnico-para-engenharia]]"
 sitesync: true
 ---
 
@@ -22,6 +22,10 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 ---
 
 ## Relação de Trabalhos & Atividades
+
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[atividades-desenho-tecnico-para-engenharia\|Atividades, Trabalhos & Provas — Desenho Tecnico Para Engenharia]] | 29/08/2026 |
 
 ---
 

@@ -1,20 +1,22 @@
 ---
 publish: false
 title: Desenvolvimento Web
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T15:35:32-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-30 15:35
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Desenvolvimento Web|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-desenvolvimento-web|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Desenvolvimento Web|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-desenvolvimento-web|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+
+
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.79`
@@ -22,17 +24,20 @@ sitesync: true
 > - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
+
 > [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web. Engenharia Web
 > **Objetivos**
 > - Apresentar diferentes maneiras de desenvolver sistemas e ferramentas web com tecnologias mais relevantes para o mercado.
 
+
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii|CSECBJI.51 - Programação Orientada a Objetos II]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii|CSECBJI.51 - Programação Orientada a Objetos II]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
+
 
 > [!tip]  Conteúdo Programático
 > - **1. Programação para Web**

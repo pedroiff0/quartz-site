@@ -35,7 +35,7 @@ icon: lucide-book-open
 > -  **Roteiro & Documento Técnico Acadêmico (PDF):** **roteiro_iff_disciplina** *(Documento formatado em LaTeX institucional)*
 > -  **Roteiro & Documento Técnico - Modo Noturno (PDF):** **roteiro_iff_disciplina_preto**
 > -  **Texto Original em PDF (PDF++):** **Aula 01 - Introdução à Filosofia - Miguel Reale.PDF - Capítulo 1**
-> -  **Hub da Disciplina no Quartz:** [Acessar Hub de Filosofia](https://www.phrandrade.com/pt-br/academic/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/)
+> -  **Hub da Disciplina no Quartz:** [Acessar Hub de Filosofia](https://www.phrandrade.com/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/)
 > -  **Portal Institucional IFF:** [portal1.iff.edu.br](https://portal1.iff.edu.br/)
 
 ---

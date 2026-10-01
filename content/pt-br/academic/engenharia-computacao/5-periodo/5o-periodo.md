@@ -1,20 +1,22 @@
 ---
 publish: false
 title: 5º Período
-created: '2026-07-21 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-07-21 12:00
+modified: 2026-09-30 13:54
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
 sitesync: true
 ---
 
+
 > [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `440h`
 > - **Resumo Pedagógico:** Desenvolvimento sistemático de software, circuitos elétricos e eletrônica analógica.
+
 
 > [!note]  Grade Curricular e Disciplinas Integrantes
 > -  **Anotações da Disciplina** (`80h` · Núcleo Especifico)
@@ -23,6 +25,7 @@ sitesync: true
 > -  **Anotações da Disciplina** (`80h` · Núcleo Especifico)
 > -  **Anotações da Disciplina** (`60h` · Núcleo Básico)
 > -  **Anotações da Disciplina** (`60h` · Núcleo Humanas)
+
 
 > [!tip]  Documentos e Horários Institucionais
 > -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

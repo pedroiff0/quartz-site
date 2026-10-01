@@ -3,7 +3,7 @@ publish: false
 kanban-plugin: board
 title: Quadro Kanban — Curso de Japonês
 created: 2026-09-14 11:54
-modified: 2026-09-30 10:35
+modified: 2026-09-30 13:05
 tags:
 - kanban
 - japones
@@ -11,6 +11,7 @@ tags:
 icon: lucide-book-open
 cssclasses:
   - page-layout
+sitesync: false
 ---
 
 ## Backlog de Lições

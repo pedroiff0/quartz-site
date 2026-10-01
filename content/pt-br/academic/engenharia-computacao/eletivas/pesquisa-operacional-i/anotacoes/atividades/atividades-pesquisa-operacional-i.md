@@ -1,15 +1,15 @@
 ---
 publish: false
 title: Atividades, Trabalhos & Provas — Pesquisa Operacional I
-created: '2026-08-29 11:58:00-03:00'
-modified: 2026-09-30T15:35:32-03:00
+created: 2026-08-29 11:58
+modified: 2026-09-30 15:35
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
 sitesync: true
 ---
@@ -21,6 +21,10 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 ---
 
 ## Relação de Trabalhos & Atividades
+
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[atividades-pesquisa-operacional-i\|Atividades, Trabalhos & Provas — Pesquisa Operacional I]] | 29/08/2026 |
 
 ---
 

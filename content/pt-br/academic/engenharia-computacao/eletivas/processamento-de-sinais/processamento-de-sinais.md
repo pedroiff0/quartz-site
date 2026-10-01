@@ -1,20 +1,22 @@
 ---
 publish: false
 title: Processamento de Sinais
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T15:35:32-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-30 15:35
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Processamento De Sinais|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-processamento-de-sinais|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Processamento De Sinais|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-processamento-de-sinais|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+
+
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.83`
@@ -22,18 +24,21 @@ sitesync: true
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
+
 > [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Introdução ao processamento digital de sinais. Fundamentos matemáticos de sinais e sistemas discretos. Análise em frequência de sinais. Transformada discreta de Fourier (DFT) e transformada rápida de Fourier (FFT). Filtros digitais: análise, estruturas, técnicas de projeto e aspectos práticos
 > **Objetivos**
 > - Apresentar os conceitos básicos de Processamento Digital de Sinais nos domínios do tempo e da frequência.
 
+
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/calculo-iv|CSECBJI.31 - Cálculo IV]]
-> - [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados|CSECBJI.47 - Comunicação de Dados]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/4-periodo/calculo-iv/calculo-iv|CSECBJI.31 - Cálculo IV]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados|CSECBJI.47 - Comunicação de Dados]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
+
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução ao Processamento Digital de Sinais**

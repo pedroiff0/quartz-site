@@ -1,12 +1,12 @@
 ---
 publish: true
 title: Setup
-created: '2026-09-07 16:47:01-03:00'
-modified: 2026-09-30T13:05:50-03:00
+created: 2026-09-07 16:47
+modified: 2026-09-30 13:05
 tags:
 - pessoal
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-user
 aliases:
 - Setup
@@ -16,7 +16,7 @@ sitesync: true
 
 # Meu Setup de Trabalho & Estudo
 
-- Origem: [[pt-br/about-me/sobre-mim-hub|Sobre Mim Hub]]
+- Origem: [[02-areas/pessoal/sobre-mim/sobre-mim-hub|Sobre Mim Hub]]
 
 > [!info] Hardware, SO, periféricos e ambiente de desenvolvimento.
 

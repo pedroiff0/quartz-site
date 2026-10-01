@@ -2,7 +2,7 @@
 publish: false
 title: Trabalho 2 - Filosofia da Tecnologia
 created: 2026-09-07 21:05
-modified: 2026-09-29 20:47
+modified: 2026-09-30 19:45
 encrypted: true
 tags:
 - atividade
@@ -90,6 +90,9 @@ Para Cupani, a classificação de Carl Mitcham desvenda as engrenagens internas 
    > [!summary|ba68c8] **Filosofia da Tecnologia, p.21**
    > "Em quarto lugar, Mitcham analisa a tecnologia como volição..."
    O núcleo filosófico duro: nenhum algoritmo ou máquina existe sem uma Vontade que o idealize. Todo código computacional encerra dentro de si uma política.
+
+> [!PDF|187, 97, 229] **fil-aberto-cupani, p.12**
+> > Por um lado, o aspecto volitivo é o modo de manifestação da tecnologia mais individualizado ou subjetivo: a maneira única como a motivação da pessoa se conecta com a produção, o uso e o conhecimento dos artefatos.
 
 ---
 

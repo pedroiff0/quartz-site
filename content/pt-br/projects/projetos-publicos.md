@@ -1,12 +1,12 @@
 ---
 publish: true
 title: Projetos
-created: '2026-07-22 19:20:00-03:00'
-modified: 2026-09-30T13:05:50-03:00
+created: 2026-07-22 19:20
+modified: 2026-09-30 13:05
 tags:
 - projeto
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-notebookpen
 order: 5
 sitesync: true
@@ -90,26 +90,26 @@ Projetos pessoais de desenvolvimento — ferramentas, aplicações e material di
 
 ## Em andamento
 
-- [[pt-br/projects/personal/financas/financas|Finanças App]] — controle financeiro pessoal, investimentos e gestão de moto, em três módulos independentes.
-- [[pt-br/projects/academic/sistema-academico/sistema-academico|Sistema Acadêmico (IFF)]] — grade, diário, notas, boletim/CR e planejamento, multi-curso.
-- [[pt-br/projects/professional/projeto-profissional/projeto-profissional|Projeto Profissional]] — template base endurecido para iniciar qualquer app web Node.
-- [[pt-br/projects/academic/relatex/relatex|ReLaTeX]] — Overleaf self-hosted com a identidade do IFF.
-- [[pt-br/projects/academic/avaliacoes/avaliacoes|Sistema de Avaliações]] — provas e listas em PDF real via LaTeX, a partir de um banco de questões.
-- [[pt-br/projects/academic/avaliacoes-professores/avaliacoes-professores|Avaliações Professores]] — fork com banco global compartilhado entre professores.
-- [[pt-br/projects/academic/avaliacoes-concurseiro/avaliacoes-concurseiro|Avaliações Concurseiro]] — fork com trilhas por edital, cronograma e simulados.
-- [[pt-br/projects/personal/awesome-skills/awesome-skills|awesome-skills]] — coleção pública de skills (memória procedural) do agente Hermes.
-- [[pt-br/projects/personal/meu-setup/meu-setup|meu-setup]] — mapa dos programas que uso e instaladores automáticos multi-plataforma.
-- [[pt-br/projects/personal/portfolio/portfolio|Portfólio de Projetos]] — página estática que resume meus repositórios do GitHub.
-- [[pt-br/projects/professional/verdementa/verdementa|VerdeMenta]] — sistema de controle de caixa e fluxo financeiro, em produção.
-- [[pt-br/projects/academic/livrocalculo/livrocalculo|Livro-Texto de Cálculo]] — material didático próprio de Cálculo, dos fundamentos a sistemas lineares.
+- [[01-projetos/site-publico/financas/financas|Finanças App]] — controle financeiro pessoal, investimentos e gestão de moto, em três módulos independentes.
+- [[01-projetos/site-publico/sistema-academico/sistema-academico|Sistema Acadêmico (IFF)]] — grade, diário, notas, boletim/CR e planejamento, multi-curso.
+- [[01-projetos/site-publico/projeto-profissional/projeto-profissional|Projeto Profissional]] — template base endurecido para iniciar qualquer app web Node.
+- [[01-projetos/site-publico/relatex/relatex|ReLaTeX]] — Overleaf self-hosted com a identidade do IFF.
+- [[01-projetos/site-publico/avaliacoes/avaliacoes|Sistema de Avaliações]] — provas e listas em PDF real via LaTeX, a partir de um banco de questões.
+- [[01-projetos/site-publico/avaliacoes-professores/avaliacoes-professores|Avaliações Professores]] — fork com banco global compartilhado entre professores.
+- [[01-projetos/site-publico/avaliacoes-concurseiro/avaliacoes-concurseiro|Avaliações Concurseiro]] — fork com trilhas por edital, cronograma e simulados.
+- [[01-projetos/site-publico/awesome-skills/awesome-skills|awesome-skills]] — coleção pública de skills (memória procedural) do agente Hermes.
+- [[01-projetos/site-publico/meu-setup/meu-setup|meu-setup]] — mapa dos programas que uso e instaladores automáticos multi-plataforma.
+- [[01-projetos/site-publico/portfolio/portfolio|Portfólio de Projetos]] — página estática que resume meus repositórios do GitHub.
+- [[01-projetos/site-publico/verdementa/verdementa|VerdeMenta]] — sistema de controle de caixa e fluxo financeiro, em produção.
+- [[01-projetos/site-publico/livrocalculo/livrocalculo|Livro-Texto de Cálculo]] — material didático próprio de Cálculo, dos fundamentos a sistemas lineares.
 
 ## Em planejamento
 
-- [[pt-br/projects/personal/hardcore-life/hardcore-life|HardCoreLife]] — plataforma pessoal modular (financeiro, tarefas, compartilhamento familiar).
-- [[pt-br/projects/academic/searcher/searcher|arXiv Searcher]] — ferramenta de busca e organização automática de artigos do arXiv.
-- [[pt-br/projects/academic/apostilas/apostilas|Arquivo de Apostilas]] — apostilas próprias cobrindo toda a grade do curso de Engenharia de Computação.
-- [[pt-br/projects/academic/guiagithub/guiagithub|Guia de Git & GitHub]] — guia de Git e boas práticas de versionamento.
+- [[01-projetos/site-publico/hardcore-life/hardcore-life|HardCoreLife]] — plataforma pessoal modular (financeiro, tarefas, compartilhamento familiar).
+- [[01-projetos/site-publico/searcher/searcher|arXiv Searcher]] — ferramenta de busca e organização automática de artigos do arXiv.
+- [[01-projetos/site-publico/apostilas/apostilas|Arquivo de Apostilas]] — apostilas próprias cobrindo toda a grade do curso de Engenharia de Computação.
+- [[01-projetos/site-publico/guiagithub/guiagithub|Guia de Git & GitHub]] — guia de Git e boas práticas de versionamento.
 
 ## Arquivado
 
-- [[pt-br/projects/academic/academicoweb/academicoweb|AcademicoWeb (arquivado)]] — ferramenta de automação para o sistema acadêmico do IFF.
+- [[01-projetos/site-publico/academicoweb/academicoweb|AcademicoWeb (arquivado)]] — ferramenta de automação para o sistema acadêmico do IFF.

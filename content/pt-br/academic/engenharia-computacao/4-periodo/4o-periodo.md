@@ -1,28 +1,31 @@
 ---
 publish: false
 title: 4º Período
-created: '2026-07-21 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-07-21 12:00
+modified: 2026-09-30 13:54
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
 sitesync: true
 ---
+
 
 > [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `440h`
 > - **Resumo Pedagógico:** Transição para o núcleo específico com métodos numéricos, estatística e ótica.
 
+
 > [!note]  Grade Curricular e Disciplinas Integrantes
 > -  **Anotações da Disciplina** (`80h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/4-periodo/calculo-numerico/calculo-numerico|Cálculo Numérico]]** (`80h` · Núcleo Básico)
-> -  **[[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/probabilidade-e-estatistica|Probabilidade e Estatística]]** (`80h` · Núcleo Básico)
-> -  **[[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii|Física III]]** (`80h` · Núcleo Básico)
-> -  **[[pt-br/academic/engenharia-computacao/4-periodo/fisica-experimental-iii/fisica-experimental-iii|Física Experimental III]]** (`60h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/4-periodo/calculo-numerico/calculo-numerico|Cálculo Numérico]]** (`80h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/4-periodo/probabilidade-e-estatistica/probabilidade-e-estatistica|Probabilidade e Estatística]]** (`80h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/4-periodo/fisica-iii/fisica-iii|Física III]]** (`80h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/4-periodo/fisica-experimental-iii/fisica-experimental-iii|Física Experimental III]]** (`60h` · Núcleo Básico)
 > -  **Anotações da Disciplina** (`60h` · Núcleo Humanas)
+
 
 > [!tip]  Documentos e Horários Institucionais
 > -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

@@ -1,28 +1,31 @@
 ---
 publish: false
 title: 7º Período
-created: '2026-07-21 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-07-21 12:00
+modified: 2026-09-30 13:54
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
 sitesync: true
 ---
+
 
 > [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `440h`
 > - **Resumo Pedagógico:** Arquitetura da Internet, sistemas operacionais e síntese de hardware com VHDL.
 
+
 > [!note]  Grade Curricular e Disciplinas Integrantes
-> -  **[[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i|Redes de Computadores I]]** (`80h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i|Sistemas Operacionais I]]** (`80h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/sistemas-digitais|Sistemas Digitais]]** (`80h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii|Programação Orientada a Objetos II]]** (`80h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores|Organização de Computadores]]** (`60h` · Núcleo Especifico)
-> -  **[[pt-br/academic/engenharia-computacao/6-periodo/gestao-de-projetos/gestao-de-projetos|Gestão de Projetos]]** (`60h` · Núcleo Humanas)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i|Redes de Computadores I]]** (`80h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i|Sistemas Operacionais I]]** (`80h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/7-periodo/sistemas-digitais/sistemas-digitais|Sistemas Digitais]]** (`80h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii|Programação Orientada a Objetos II]]** (`80h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores|Organização de Computadores]]** (`60h` · Núcleo Especifico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/6-periodo/gestao-de-projetos/gestao-de-projetos|Gestão de Projetos]]** (`60h` · Núcleo Humanas)
+
 
 > [!tip]  Documentos e Horários Institucionais
 > -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

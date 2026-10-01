@@ -1,28 +1,31 @@
 ---
 publish: false
 title: 3º Período
-created: '2026-07-21 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-07-21 12:00
+modified: 2026-09-30 13:54
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
 sitesync: true
 ---
+
 
 > [!info]  Visão Geral e Carga Horária do Período
 > - **Carga Horária Total do Bloco:** `460h`
 > - **Resumo Pedagógico:** Consolidação em estruturas de dados eficientes, cálculo avançado e eletromagnetismo.
 
+
 > [!note]  Grade Curricular e Disciplinas Integrantes
 > -  **Anotações da Disciplina** (`80h` · Núcleo Profissionalizante)
 > -  **Anotações da Disciplina** (`80h` · Núcleo Profissionalizante)
-> -  **[[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii|Cálculo III]]** (`80h` · Núcleo Básico)
-> -  **[[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais|Equações Diferenciais]]** (`80h` · Núcleo Básico)
-> -  **[[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii|Física II]]** (`80h` · Núcleo Básico)
-> -  **[[pt-br/academic/engenharia-computacao/3-periodo/fisica-experimental-ii/fisica-experimental-ii|Física Experimental II]]** (`60h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/3-periodo/calculo-iii/calculo-iii|Cálculo III]]** (`80h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais|Equações Diferenciais]]** (`80h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/3-periodo/fisica-ii/fisica-ii|Física II]]** (`80h` · Núcleo Básico)
+> -  **[[02-areas/academico/iff-engenharia-de-computacao/3-periodo/fisica-experimental-ii/fisica-experimental-ii|Física Experimental II]]** (`60h` · Núcleo Básico)
+
 
 > [!tip]  Documentos e Horários Institucionais
 > -  **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**

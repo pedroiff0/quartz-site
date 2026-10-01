@@ -1,17 +1,17 @@
 ---
 publish: false
 title: Atividades, Trabalhos & Provas — Programacao Orientada A Objetos Ii
-created: '2026-08-29 11:58:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-08-29 11:58
+modified: 2026-09-30 13:54
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
-disciplina: "[[programacao-orientada-a-objetos-ii]]"
+discipline: "[[programacao-orientada-a-objetos-ii]]"
 sitesync: true
 ---
 
@@ -22,6 +22,10 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 ---
 
 ## Relação de Trabalhos & Atividades
+
+| Atividade / Trabalho | Data |
+| :--- | :---: |
+| [[atividades-programacao-orientada-a-objetos-ii\|Atividades, Trabalhos & Provas — Programacao Orientada A Objetos Ii]] | 29/08/2026 |
 
 ---
 

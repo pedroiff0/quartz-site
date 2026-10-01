@@ -4,7 +4,7 @@ aliases:
 publish: false
 title: Atividades — Francês
 created: 2026-09-14 11:54
-modified: 2026-09-30 11:13
+modified: 2026-09-30 13:05
 tags:
 - atividade
 - frances
@@ -12,6 +12,7 @@ tags:
 cssclasses:
 - page-layout
 icon: lucide-book-open
+sitesync: false
 ---
 
 # Caderno de Atividades & Prática — Francês

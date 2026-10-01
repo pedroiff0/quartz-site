@@ -1,8 +1,8 @@
 ---
 publish: true
 title: CONEPE - 2026
-created: 2026-07-18 13:34:00-03:00
-modified: 2026-09-30T13:05:50-03:00
+created: 2026-07-18 13:34
+modified: 2026-09-30 13:05
 tags:
   - midia
 cssclasses:
@@ -36,4 +36,4 @@ Apresentei o meu trabalho de pesquisa em uma sessão de apresentação oral, e a
 
 ## Referências e correlatos
 
-- [[pt-br/projects/academic/relatex/README|ReLaTeX]] — pesquisa completa por trás do pôster
+- [[01-projetos/academico/relatex/README|ReLaTeX]] — pesquisa completa por trás do pôster

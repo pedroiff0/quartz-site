@@ -6,11 +6,12 @@ tags:
 - pipeline-guia
 - meta
 created: 2026-09-14 10:29
-modified: 2026-09-30 10:35
+modified: 2026-09-30 13:05
 icon: lucide-book-open
 pesquisa: "[[journal-clubs-indice]]"
 cssclasses:
   - page-layout
+sitesync: false
 ---
 
 # Guia de Uso: Pipeline Unificado de Apresentações ENGCOMP Journal Club

@@ -1,20 +1,22 @@
 ---
 publish: false
 title: Sociedade e Tecnologia
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T15:35:32-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-30 15:35
 tags:
 - disciplina
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Sociedade E Tecnologia|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-sociedade-e-tecnologia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Sociedade E Tecnologia|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-sociedade-e-tecnologia|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+
+
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.76`
@@ -22,17 +24,20 @@ sitesync: true
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
+
 > [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico e Tecnológico. Trabalho. Processos Produtivos e Relações de Trabalho na sociedade capitalista. Técnica e Tecnologia na sociedade contemporânea. Cultura e Diversidade Cultural
 > **Objetivos**
 > - Compreender as relações sociais, analisando a relação do homem com a natureza, do homem com o homem e com os grupos sociais, enfatizando as relações que se estruturam em torno do trabalho, da tecnologia e da cultura, como dimensões significativas na vida humana.
 
+
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
+
 
 > [!tip]  Conteúdo Programático
 > - **1. Distinção das Ciências Sociais e Ciências Naturais**

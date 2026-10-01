@@ -2,13 +2,14 @@
 publish: false
 title: Tópicos e onde procurar
 created: 2026-08-01 13:04
-modified: 2026-09-28 22:43
+modified: 2026-09-30 13:05
 tags:
 - journal-club
 - engcomp
 cssclasses:
 - page-layout
 icon: lucide-book-open
+sitesync: false
 ---
 
 > [!note] Resumo

@@ -1,8 +1,8 @@
 ---
 publish: false
 title: Energia e Eficiência Energética
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T13:54:29-03:00
+created: 2026-07-18 12:00
+modified: 2026-09-30 14:05
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,52 +14,57 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> **[[Anotações/Anotações — Energia E Eficiencia Energetica|Anotações de Aula]]** &nbsp;|&nbsp; **[[Anotações/Atividades/Atividades — Energia E Eficiencia Energetica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Energia E Eficiencia Energetica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Energia E Eficiencia Energetica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[02-areas/academico/iff-engenharia-de-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
 
-> [!info] Informações Gerais da Disciplina
+
+
+> [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.82`
 > - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
 > - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 > - **Livro / Material Didático Principal:** Elementos de Eletrônica Digital (Capuano & Idoeta)
 
-> [!note] Ementa e Objetivos Pedagógicos
+
+> [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
 > Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprimento de energia – estrutura brasileira. Energia e desenvolvimento. Fontes convencionais. Fontes não convencionais. Energia - Recursos naturais. Usos da energia, conservação. Recursos renováveis – Desenvolvimento sustentável.
 > **Objetivos**
 > - Analisar as possíveis alternativas energéticas (renováveis e não renováveis) com base nas diferentes tecnologias aplicáveis e nos respectivos impactos ambientais, visando à minoração de problemas ambientais e sociais.
 
-> [!warning] Pré-requisitos e Dependências Curriculares (Trancas)
+
+> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada|CSECBJI.33 - Eletricidade Aplicada]]
+> - [[02-areas/academico/iff-engenharia-de-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada|CSECBJI.33 - Eletricidade Aplicada]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
-> [!tip] Conteúdo Programático
+
+> [!tip]  Conteúdo Programático
 > - **1. Energia x Recursos Naturais**
-> - Introdução
-> - Questão Energética na Atualidade
-> - A Busca de Soluções Energéticas para o Desenvolvimento Sustentável
+>   - Introdução
+>   - Questão Energética na Atualidade
+>   - A Busca de Soluções Energéticas para o Desenvolvimento Sustentável
 > - **2. Cadeia Energética**
-> - Recursos Energético
-> - Equivalência em Energia
-> - Fontes de Energia Primárias e Secundárias
-> - Fontes de Energia Renováveis e Não Renováveis
-> - Matriz Energética no Brasil
-> - Utilização de Fontes Renováveis
-> - Programas de Conservação de Energia
+>   - Recursos Energético
+>   - Equivalência em Energia
+>   - Fontes de Energia Primárias e Secundárias
+>   - Fontes de Energia Renováveis e Não Renováveis
+>   - Matriz Energética no Brasil
+>   - Utilização de Fontes Renováveis
+>   - Programas de Conservação de Energia
 > - **3. Usos da Energia**
-> - Energia dos Combustíveis Fósseis
-> - Termoelétricas e Energia Nuclear
-> - Energia Solar
-> - Energia Heólica
-> - Pequenas Centrais Hidroelétricas
-> - Energia Geotérmica
-> - Tecnologias Energéticas Futuras
+>   - Energia dos Combustíveis Fósseis
+>   - Termoelétricas e Energia Nuclear
+>   - Energia Solar
+>   - Energia Heólica
+>   - Pequenas Centrais Hidroelétricas
+>   - Energia Geotérmica
+>   - Tecnologias Energéticas Futuras
 > - **4. Problemas da Energia**
-> - Papel da Política Energética Nacional
+>   - Papel da Política Energética Nacional
 > - **5. Perspectivas Energéticas**
 
-> [!info] Bibliografia Básica e Complementar (ABNT)
+> [!info]  Bibliografia Básica e Complementar (ABNT)
 > **Bibliografia Básica**
 > 1. GOLDEMBERG, J., PALETTA, F. C. Energias renováveis. São Paulo: Blucher, 2012.
 > 2. HINRICHS, R., KLEINBACH, M. H. Energia e meio ambiente. São Paulo: Cengage, 2013.

@@ -1,8 +1,8 @@
 ---
 publish: false
 title: 20260320 - provas 2026-1
-created: '2026-03-20 13:34:00-03:00'
-modified: 2026-09-30T13:58:44-03:00
+created: 2026-03-20 13:34
+modified: 2026-09-30 13:58
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -20,7 +20,7 @@ Tarefa da disciplina do dia (se houver, se não, ignorar)
 1. [x] Ideia do projeto [[260324-Aula-AulaPiloto-1]]
 ***
 ## Gestão Ambiental /
-1. [x] Ver os vídeos no google drive [[pt-br/academic/engenharia-computacao/05 - Periodo/39 - Gestão Ambiental/260326-Aula-Intro-1]]
+1. [x] Ver os vídeos no google drive [[02-areas/academico/iff-engenharia-de-computacao/05 - Periodo/39 - Gestão Ambiental/260326-Aula-Intro-1]]
 ***
 ## Eletrônica Analíogica /
 1. [x] Ler sobre o capítulo de Diodos [[260405-Aula-Diodos-1]]
