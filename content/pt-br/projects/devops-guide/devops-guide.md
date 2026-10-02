@@ -2,13 +2,13 @@
 publish: true
 title: Guia de DevOps e Infraestrutura
 created: 2026-09-28 22:55
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - projeto
 - publico
 - pessoal
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-server
 repo: https://github.com/pedroiff0/devops-guide
 status: ativo

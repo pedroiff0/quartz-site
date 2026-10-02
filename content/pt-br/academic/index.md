@@ -6,7 +6,7 @@ modified: 2026-09-23 09:05:00-03:00
 published: 2026-09-23 09:05:00-03:00
 order: 5
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-graduation-cap
 ---
 

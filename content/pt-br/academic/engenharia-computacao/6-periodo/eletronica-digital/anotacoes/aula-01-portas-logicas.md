@@ -2,13 +2,13 @@
 publish: false
 title: Aula 01 - Portas Lógicas
 created: 2026-08-24 14:50
-modified: 2026-09-29 20:47
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 discipline: "[[eletronica-digital]]"
 ---

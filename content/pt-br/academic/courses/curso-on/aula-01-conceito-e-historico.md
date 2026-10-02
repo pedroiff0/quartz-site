@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 — Conceito e Histórico
 created: 2026-07-23 12:36
-modified: 2026-09-30 10:35
+modified: 2026-10-01 20:14
 tags:
 - curso-on
 - arqueologia-galactica
@@ -10,8 +10,8 @@ tags:
 - via-lactea
 cssclasses:
   - page-layout
-- page-grid
-- center-images
+  - page-grid
+  - center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 content: O que é arqueologia galáctica, o conceito de população estelar simples e

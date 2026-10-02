@@ -2,7 +2,7 @@
 publish: false
 title: Aula 08 — Velocidades e Movimento Próprio
 created: 2026-07-23 12:36
-modified: 2026-09-30 10:35
+modified: 2026-10-01 20:14
 tags:
 - curso-on
 - arqueologia-galactica
@@ -10,8 +10,8 @@ tags:
 - cinematica-estelar
 cssclasses:
   - page-layout
-- page-grid
-- center-images
+  - page-grid
+  - center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 content: Velocidade radial e tangencial, o Padrão Local de Repouso e o movimento próprio

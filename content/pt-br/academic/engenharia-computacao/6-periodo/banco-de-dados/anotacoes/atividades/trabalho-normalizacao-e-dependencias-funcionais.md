@@ -2,16 +2,16 @@
 publish: false
 title: Trabalho - Normalização e Dependências Funcionais
 created: 2026-09-07 16:53
-modified: 2026-09-29 20:47
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- center-images
-- center-titles
+  - page-layout
+  - center-images
+  - center-titles
 icon: lucide-book-open
 ---
 

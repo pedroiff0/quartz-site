@@ -6,7 +6,7 @@ modified: 2026-09-14 20:13
 published: 2026-07-26 12:36:37.263000-03:00
 order: 2
 cssclasses:
-- page-layout
+  - page-layout
 ---
 
 > [!note] Resumo

@@ -2,14 +2,14 @@
 publish: false
 title: Anotações — Desenvolvimento Web
 created: 2026-08-24 21:03
-modified: 2026-09-29 21:05
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- cards
+  - page-layout
+  - cards
 icon: lucide-book-open
 discipline: "[[desenvolvimento-web]]"
 ---

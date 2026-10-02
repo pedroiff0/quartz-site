@@ -2,13 +2,13 @@
 publish: false
 title: Aula 03 - Capítulo 3.4
 created: 2026-09-09 16:58
-modified: 2026-09-29 20:47
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 discipline: "[[comunicacao-de-dados]]"
 ---

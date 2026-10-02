@@ -2,14 +2,14 @@
 publish: true
 title: Verdementa
 created: 2026-04-01 13:04
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - suite-comercial
 - erp
 repo: https://github.com/pedroiff0/verdementa
 status: privado
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-notebookpen
 sitesync: true
 ---

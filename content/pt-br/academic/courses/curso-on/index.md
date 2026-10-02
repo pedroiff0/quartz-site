@@ -3,11 +3,11 @@ publish: false
 title: Arqueologia Galáctica e Populações Estelares
 encrypted: true
 created: 2026-07-23 13:04
-modified: 2026-09-30 14:05
+modified: 2026-10-01 20:14
 tags:
 - academico
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 order: 5
 ---

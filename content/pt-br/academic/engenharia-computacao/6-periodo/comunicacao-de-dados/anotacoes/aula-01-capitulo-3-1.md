@@ -2,13 +2,13 @@
 publish: false
 title: Aula 01 - Capítulo 3.1
 created: 2026-09-01 17:18
-modified: 2026-09-29 20:47
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 ---
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">

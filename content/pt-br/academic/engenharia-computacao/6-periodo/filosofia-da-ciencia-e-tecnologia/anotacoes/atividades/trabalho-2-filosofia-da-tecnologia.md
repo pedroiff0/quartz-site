@@ -2,15 +2,15 @@
 publish: false
 title: Trabalho 2 - Filosofia da Tecnologia
 created: 2026-09-07 21:05
-modified: 2026-09-30 19:45
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- center-titles
+  - page-layout
+  - center-titles
 icon: lucide-book-open
 ---
 

@@ -3,13 +3,13 @@ publish: false
 title: Inglês
 status: pausado
 created: 2026-09-14 11:54
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - idioma
 - ingles
 - curso
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 sitesync: false
 ---

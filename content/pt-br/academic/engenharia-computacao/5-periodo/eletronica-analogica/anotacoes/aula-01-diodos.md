@@ -2,13 +2,13 @@
 publish: false
 title: Aula 01 - Diodos
 created: 2026-04-05 14:49
-modified: 2026-09-30 10:28
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 discipline: "[[eletronica-analogica]]"
 ---

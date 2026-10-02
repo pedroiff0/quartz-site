@@ -2,7 +2,7 @@
 publish: false
 title: Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo
 created: 2026-07-25 12:36
-modified: 2026-09-30 10:35
+modified: 2026-10-01 20:14
 tags:
 - curso-on
 - arqueologia-galactica
@@ -11,8 +11,8 @@ tags:
 - correntes-estelares
 cssclasses:
   - page-layout
-- page-grid
-- center-images
+  - page-grid
+  - center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 content: Cronologia da evolução galáctica (parte 2) — o mecanismo da fusão GSE (antes/durante/depois),

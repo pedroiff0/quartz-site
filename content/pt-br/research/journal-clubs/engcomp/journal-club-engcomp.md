@@ -2,11 +2,11 @@
 publish: false
 title: ENGCOMP
 created: 2026-07-26 13:04
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - academico
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 sitesync: false
 ---

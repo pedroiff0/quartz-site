@@ -2,14 +2,14 @@
 publish: false
 title: Atividade 01 - Atividade Modelagem - SoftBridge
 created: 2026-04-11 14:49
-modified: 2026-09-30 14:30
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 discipline: "[[modelagem-de-dados]]"
 ---

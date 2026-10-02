@@ -2,14 +2,14 @@
 publish: false
 title: Trabalho - Espaço Cultural
 created: 2026-09-10 14:04
-modified: 2026-09-29 21:05
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 discipline: "[[filosofia-da-ciencia-e-tecnologia]]"
 ---

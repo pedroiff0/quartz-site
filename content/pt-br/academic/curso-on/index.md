@@ -7,7 +7,7 @@ modified: 2026-09-28 22:43
 tags:
 - academico
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 order: 5
 ---

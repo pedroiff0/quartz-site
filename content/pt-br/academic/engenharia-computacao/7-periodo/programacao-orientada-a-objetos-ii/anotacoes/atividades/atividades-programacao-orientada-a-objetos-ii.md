@@ -2,14 +2,14 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Programacao Orientada A Objetos Ii
 created: 2026-08-29 11:58
-modified: 2026-09-30 13:54
+modified: 2026-10-01 20:14
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- cards
+  - page-layout
+  - cards
 icon: lucide-book-open
 discipline: "[[programacao-orientada-a-objetos-ii]]"
 sitesync: true

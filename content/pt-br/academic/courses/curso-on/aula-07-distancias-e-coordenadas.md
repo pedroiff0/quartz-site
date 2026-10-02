@@ -2,7 +2,7 @@
 publish: false
 title: Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
 created: 2026-07-23 12:36
-modified: 2026-09-30 10:35
+modified: 2026-10-01 20:14
 tags:
 - curso-on
 - arqueologia-galactica
@@ -11,8 +11,8 @@ tags:
 - coordenadas-galacticas
 cssclasses:
   - page-layout
-- page-grid
-- center-images
+  - page-grid
+  - center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 content: A escada cósmica de distâncias — de radar a supernovas Ia — e os sistemas

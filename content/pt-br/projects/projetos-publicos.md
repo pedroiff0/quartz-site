@@ -2,11 +2,11 @@
 publish: true
 title: Projetos
 created: 2026-07-22 19:20
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - projeto
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-notebookpen
 order: 5
 sitesync: true

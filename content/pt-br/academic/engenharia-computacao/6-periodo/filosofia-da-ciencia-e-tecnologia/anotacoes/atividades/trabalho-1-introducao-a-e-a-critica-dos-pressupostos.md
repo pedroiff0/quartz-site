@@ -2,15 +2,15 @@
 publish: false
 title: Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
 created: 2026-09-09 19:59
-modified: 2026-09-29 20:47
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- center-titles
+  - page-layout
+  - center-titles
 icon: lucide-book-open
 ---
 

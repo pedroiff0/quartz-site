@@ -2,13 +2,13 @@
 publish: false
 title: Aula 03 - Correção
 created: 2026-09-11 23:15
-modified: 2026-09-28 12:58
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 ---
 

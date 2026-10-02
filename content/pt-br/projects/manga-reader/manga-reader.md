@@ -2,13 +2,13 @@
 publish: true
 title: Manga Reader Web
 created: 2026-09-28 22:55
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - projeto
 - publico
 - pessoal
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 repo: https://github.com/pedroiff0/manga-reader
 status: ativo

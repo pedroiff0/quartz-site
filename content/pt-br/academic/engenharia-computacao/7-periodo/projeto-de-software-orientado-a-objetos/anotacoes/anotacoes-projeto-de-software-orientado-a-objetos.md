@@ -2,14 +2,14 @@
 publish: false
 title: Anotações — Projeto De Software Orientado A Objetos
 created: 2026-08-24 21:03
-modified: 2026-09-30 10:28
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- cards
+  - page-layout
+  - cards
 icon: lucide-book-open
 discipline: "[[projeto-de-software-orientado-a-objetos]]"
 ---

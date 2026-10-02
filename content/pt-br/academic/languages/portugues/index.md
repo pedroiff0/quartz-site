@@ -9,7 +9,7 @@ tags:
 - portugues
 - curso
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 ---
 

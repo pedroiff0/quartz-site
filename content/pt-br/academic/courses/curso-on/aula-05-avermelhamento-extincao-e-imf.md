@@ -2,7 +2,7 @@
 publish: false
 title: Aula 05 — Avermelhamento, Extinção e IMF
 created: 2026-07-23 12:36
-modified: 2026-09-30 10:35
+modified: 2026-10-01 20:14
 tags:
 - curso-on
 - arqueologia-galactica
@@ -11,8 +11,8 @@ tags:
 - extincao-interestelar
 cssclasses:
   - page-layout
-- page-grid
-- center-images
+  - page-grid
+  - center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 content: O meio interestelar, a extinção e o avermelhamento da luz por poeira, e a

@@ -16,10 +16,10 @@ tags:
 - engcomp
 - paper-notes
 cssclasses:
-- page-layout
-- paper-notes
+  - page-layout
+  - paper-notes
 created: 2026-09-14 10:29
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 icon: lucide-book-open
 sitesync: false
 ---

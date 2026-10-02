@@ -2,14 +2,14 @@
 publish: false
 title: Anotações — Pesquisa Operacional I
 created: 2026-08-24 21:03
-modified: 2026-09-30 10:28
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- cards
+  - page-layout
+  - cards
 icon: lucide-book-open
 ---
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">

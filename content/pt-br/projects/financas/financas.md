@@ -2,7 +2,7 @@
 publish: true
 title: Finanças App
 created: 2026-08-08 13:04
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - financas
 - full-stack
@@ -12,7 +12,7 @@ tags:
 repo: https://github.com/pedroiff0/financas-app
 status: privado
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-notebookpen
 sitesync: true
 ---

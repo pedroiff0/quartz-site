@@ -2,7 +2,7 @@
 publish: false
 title: Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica
 created: 2026-07-25 12:36
-modified: 2026-09-30 10:35
+modified: 2026-10-01 20:14
 tags:
 - curso-on
 - arqueologia-galactica
@@ -11,8 +11,8 @@ tags:
 - evolucao-quimica
 cssclasses:
   - page-layout
-- page-grid
-- center-images
+  - page-grid
+  - center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 content: Galáxias anãs ultrafracas (UFDs) como o limite extremo da formação galáctica

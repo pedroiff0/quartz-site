@@ -2,7 +2,7 @@
 publish: true
 title: Portal Acadêmico IFF (academicoWeb)
 created: 2026-03-13 13:04
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - web-app
 - iff
@@ -11,7 +11,7 @@ tags:
 repo: https://github.com/pedroiff0/academicoWeb
 status: privado
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-graduationcap
 sitesync: true
 ---

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 created: 2026-07-25 12:36
-modified: 2026-09-30 10:35
+modified: 2026-10-01 20:14
 tags:
 - curso-on
 - arqueologia-galactica
@@ -12,8 +12,8 @@ tags:
 - estrutura-do-disco
 cssclasses:
   - page-layout
-- page-grid
-- center-images
+  - page-grid
+  - center-images
 encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 content: Classificação morfológica de galáxias e a Via Láctea como espiral barrada

@@ -2,13 +2,13 @@
 publish: false
 title: Aula 02 - Capítulo 3.3
 created: 2026-09-08 15:33
-modified: 2026-09-29 20:47
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 ---
 

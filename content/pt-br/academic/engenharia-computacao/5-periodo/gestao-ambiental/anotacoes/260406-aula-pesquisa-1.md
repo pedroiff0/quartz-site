@@ -2,13 +2,13 @@
 publish: false
 title: 260406-Aula-Pesquisa-1
 created: 2026-04-06 14:49
-modified: 2026-09-30 10:28
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 discipline: "[[gestao-ambiental]]"
 ---

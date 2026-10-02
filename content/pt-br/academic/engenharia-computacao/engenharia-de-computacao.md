@@ -2,7 +2,7 @@
 publish: false
 title: Engenharia de Computação
 created: 2026-07-22 12:00
-modified: 2026-09-30 13:54
+modified: 2026-10-01 20:14
 tags:
 - matriz-curricular
 - engenharia-de-computacao
@@ -10,7 +10,7 @@ tags:
 - pre-requisitos
 - iff
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 sitesync: true
 ---

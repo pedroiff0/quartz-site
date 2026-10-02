@@ -2,13 +2,13 @@
 publish: true
 title: Custos App
 created: 2026-09-28 22:55
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - projeto
 - publico
 - profissional
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-calculator
 repo: https://github.com/pedroiff0/custos-app
 status: ativo

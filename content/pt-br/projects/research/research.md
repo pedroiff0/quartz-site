@@ -7,9 +7,9 @@ tags:
 repo: https://github.com/pedroiff0/research
 status: privado
 cssclasses:
-- page-layout
+  - page-layout
 created: 2026-09-14 11:17
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 icon: lucide-notebookpen
 sitesync: true
 ---

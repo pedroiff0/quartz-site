@@ -2,7 +2,7 @@
 publish: false
 title: Artigo Acadêmico, Semiótica & Apresentação Oral — Gachiakuta, Cupani e Miguel Reale
 created: 2026-09-17 13:56
-modified: 2026-09-30 14:05
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - artigo-academico
@@ -13,7 +13,7 @@ tags:
 - gachiakuta
 - trabalho
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-book-open
 ---
 

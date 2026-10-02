@@ -2,16 +2,16 @@
 publish: false
 title: Trabalho - Coesão e Acoplamento em Análise Orientada a Objetos
 created: 2026-09-07 16:53
-modified: 2026-09-29 20:47
+modified: 2026-10-01 20:14
 encrypted: true
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-- page-layout
-- center-titles
-- center-images
+  - page-layout
+  - center-titles
+  - center-images
 icon: lucide-book-open
 ---
 

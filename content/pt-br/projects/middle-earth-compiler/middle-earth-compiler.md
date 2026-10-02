@@ -2,13 +2,13 @@
 publish: true
 title: Middle-earth Compiler
 created: 2026-09-28 22:55
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - projeto
 - publico
 - academico
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-terminal
 repo: https://github.com/pedroiff0/middle-earth-compiler
 status: em-desenvolvimento

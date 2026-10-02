@@ -2,7 +2,7 @@
 publish: true
 title: Sistema Acadêmico
 created: 2026-08-08 13:04
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - full-stack
 - web-app
@@ -13,7 +13,7 @@ tags:
 repo: https://github.com/pedroiff0/sistema-academico
 status: privado
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-graduationcap
 sitesync: true
 ---

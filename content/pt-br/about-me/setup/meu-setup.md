@@ -2,11 +2,11 @@
 publish: true
 title: Setup
 created: 2026-09-07 16:47
-modified: 2026-09-30 13:05
+modified: 2026-10-01 20:14
 tags:
 - pessoal
 cssclasses:
-- page-layout
+  - page-layout
 icon: lucide-user
 aliases:
 - Setup
