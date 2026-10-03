@@ -1,9 +1,42 @@
 
-// Fallback aleatório por build: nunca um literal comitado no repo público.
-// Se a env var da secret não estiver setada, a página continua sendo
-// cifrada (nunca vaza em texto puro) mas com uma chave que ninguém tem —
-// falha de forma visível (ninguém decifra, nem o dono) em vez de
-// silenciosamente reusar uma senha antiga já exposta no histórico do git.
+import crypto from 'crypto';
+import path from 'path';
+import fs from 'fs/promises';
+import fsSync from 'fs';
+
+function loadEnvFile() {
+  const envPaths = [
+    path.join(process.cwd(), ".env"),
+    path.join(process.cwd(), "..", "..", "..", ".env"),
+    "/home/pedro/hardcore-life/.env",
+  ];
+  for (const envPath of envPaths) {
+    if (fsSync.existsSync(envPath)) {
+      try {
+        const content = fsSync.readFileSync(envPath, "utf-8");
+        for (const line of content.split("\n")) {
+          const trimmed = line.trim();
+          if (!trimmed || trimmed.startsWith("#")) continue;
+          const eqIdx = trimmed.indexOf("=");
+          if (eqIdx !== -1) {
+            const key = trimmed.slice(0, eqIdx).trim();
+            let val = trimmed.slice(eqIdx + 1).trim();
+            if ((val.startsWith('"') && val.endsWith('"')) || (val.startsWith("'") && val.endsWith("'"))) {
+              val = val.slice(1, -1);
+            }
+            if (!process.env[key] && val) {
+              process.env[key] = val;
+            }
+          }
+        }
+      } catch {
+        // ignore
+      }
+    }
+  }
+}
+loadEnvFile();
+
 let _buildFallbackPassword = null;
 function getBuildFallbackPassword() {
   if (!_buildFallbackPassword) {
@@ -61,9 +94,6 @@ function resolvePassword(frontmatter, passwordField, filePath) {
   return null;
 }
 
-import crypto from 'crypto';
-import path from 'path';
-import fs from 'fs/promises';
 
 var __defProp = Object.defineProperty;
 var __export = (target, all2) => {

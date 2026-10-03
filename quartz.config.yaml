@@ -186,7 +186,20 @@ plugins:
           if (!node.isFolder) {
             const segs = String(node.slug ?? "").split("/").filter(Boolean);
             const norm = (x) => decodeURIComponent(x).normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-");
-            if (segs.length >= 2 && norm(segs[segs.length - 1]) === norm(segs[segs.length - 2])) return false;
+            if (segs.length >= 2) {
+              const last = norm(segs[segs.length - 1]);
+              const parent = norm(segs[segs.length - 2]);
+              if (last === parent) return false;
+              if (last === "index") return false;
+              if (last === `meu-${parent}` || last === `${parent}-hub` || last === `hub-${parent}`) return false;
+              if (last === `midia-${parent}` || last === `midia${parent}`) return false;
+              if (parent === "setup" && (last === "meu-setup" || last === "setup")) return false;
+              if (parent === "media" && (last === "midia" || last === "midia-hub" || last === "index")) return false;
+              if (parent === "about-me" && (last === "sobre-mim" || last === "about-me" || last === "sobre-mim-hub" || last === "index")) return false;
+              if (parent === "projects" && (last === "projetos" || last === "projetos-publicos" || last === "site-publico-hub" || last === "index")) return false;
+              if (parent === "academic" && (last === "academico" || last === "engenharia-de-computacao" || last === "index")) return false;
+              if (parent === "research" && (last === "pesquisas" || last === "research" || last === "index")) return false;
+            }
           }
           const path = window.location.pathname;
           const languages = ["en", "pt-br", "es", "fr"];
@@ -224,49 +237,174 @@ plugins:
         (node) => {
           const seg = (node.slugSegment || "").toLowerCase();
           const path = (typeof window !== "undefined" && window.location) ? window.location.pathname : "";
-          if (path.includes("/en/")) {
-            const enMap = {
-              "about-me": "About Me",
-              "media": "Media",
-              "research": "Research",
-              "projects": "Projects",
-              "academic": "Academic"
-            };
-            if (enMap[seg]) node.displayName = enMap[seg];
-          } else if (path.includes("/es/")) {
-            const esMap = {
-              "about-me": "Sobre Mí",
-              "media": "Medios",
-              "research": "Investigaciones",
-              "projects": "Proyectos",
-              "academic": "Académico"
-            };
-            if (esMap[seg]) node.displayName = esMap[seg];
-          } else if (path.includes("/fr/")) {
-            const frMap = {
-              "about-me": "À propos de moi",
-              "media": "Médias",
-              "research": "Recherches",
-              "projects": "Projets",
-              "academic": "Académique"
-            };
-            if (frMap[seg]) node.displayName = frMap[seg];
-          } else {
-            const ptMap = {
-              "about-me": "Sobre Mim",
-              "sobre-mim": "Sobre Mim",
-              "media": "Mídias",
-              "midia": "Mídias",
-              "research": "Pesquisas",
-              "pesquisas": "Pesquisas",
-              "projects": "Projetos",
-              "projetos": "Projetos",
-              "academic": "Acadêmico",
-              "academico": "Acadêmico",
-              "anotacoes": "Anotações",
-              "atividades": "Atividades"
-            };
-            if (ptMap[seg]) node.displayName = ptMap[seg];
+          const isEn = path.includes("/en/");
+          const isEs = path.includes("/es/");
+          const isFr = path.includes("/fr/");
+
+          const titleMap = {
+            "about-me": isEn ? "About Me" : isEs ? "Sobre Mí" : isFr ? "À propos de moi" : "Sobre Mim",
+            "sobre-mim": isEn ? "About Me" : isEs ? "Sobre Mí" : isFr ? "À propos de moi" : "Sobre Mim",
+            "media": isEn ? "Media" : isEs ? "Medios" : isFr ? "Médias" : "Mídias",
+            "midia": isEn ? "Media" : isEs ? "Medios" : isFr ? "Médias" : "Mídias",
+            "research": isEn ? "Research" : isEs ? "Investigaciones" : isFr ? "Recherches" : "Pesquisas",
+            "pesquisas": isEn ? "Research" : isEs ? "Investigaciones" : isFr ? "Recherches" : "Pesquisas",
+            "projects": isEn ? "Projects" : isEs ? "Proyectos" : isFr ? "Projets" : "Projetos",
+            "projetos": isEn ? "Projects" : isEs ? "Proyectos" : isFr ? "Projets" : "Projetos",
+            "academic": isEn ? "Academic" : isEs ? "Académico" : isFr ? "Académique" : "Acadêmico",
+            "academico": isEn ? "Academic" : isEs ? "Académico" : isFr ? "Académique" : "Acadêmico",
+            "anotacoes": "Anotações",
+            "atividades": "Atividades",
+            "minhas-coisas": "Minhas Coisas",
+            "recomendacoes": "Recomendações",
+            "setup": "Setup",
+            "meu-setup": "Meu Setup",
+            "engenharia-computacao": "Engenharia de Computação",
+            "curso-on": "Cursos Observatório Nacional",
+            "courses": "Cursos",
+            "computing": "Computação",
+            "escola-de-inverno": "Escola de Inverno",
+            "languages": "Idiomas",
+            "latex": "LaTeX",
+            "documentos": "Documentos",
+            "slides-latex": "Slides LaTeX",
+            "slides-pptx": "Slides PPTX",
+            "notes-latex": "Notas LaTeX",
+            "journal-clubs": "Journal Clubs",
+            "anomaly-detection": "Detecção de Anomalias",
+            "dark-matter-shocks": "Matéria Escura em Choques",
+            "satellite-trail-removal": "Remoção de Rastros de Satélite",
+            "classe-latex-conepe": "Classe LaTeX CONEPE",
+            "relatex": "ReLaTeX",
+            "alemao": "Alemão",
+            "espanhol": "Espanhol",
+            "frances": "Francês",
+            "grego": "Grego",
+            "ingles": "Inglês",
+            "italiano": "Italiano",
+            "japones": "Japonês",
+            "mandarim": "Mandarim",
+            "portugues": "Português",
+            "russo": "Russo",
+            "eletronica-digital": "Eletrônica Digital",
+            "eletronica-analogica": "Eletrônica Analógica",
+            "compiladores": "Compiladores",
+            "comunicacao-de-dados": "Comunicação de Dados",
+            "filosofia-da-ciencia-e-tecnologia": "Filosofia da Ciência e Tecnologia",
+            "analise-de-software-orientada-a-objetos": "Análise de Software Orientada a Objetos",
+            "projeto-de-software-orientado-a-objetos": "Projeto de Software Orientado a Objetos",
+            "programacao-orientada-a-objetos-ii": "Programação Orientada a Objetos II",
+            "programacao-orientada-a-objetos-i": "Programação Orientada a Objetos I",
+            "sistemas-operacionais-i": "Sistemas Operacionais I",
+            "sistemas-operacionais-ii": "Sistemas Operacionais II",
+            "sistemas-operacionais": "Sistemas Operacionais",
+            "sistemas-digitais": "Sistemas Digitais",
+            "sistemas-distribuidos": "Sistemas Distribuídos",
+            "redes-de-computadores-i": "Redes de Computadores I",
+            "redes-de-computadores-ii": "Redes de Computadores II",
+            "redes-de-computadores": "Redes de Computadores",
+            "banco-de-dados-i": "Banco de Dados I",
+            "banco-de-dados-ii": "Banco de Dados II",
+            "banco-de-dados": "Banco de Dados",
+            "organizacao-de-computadores": "Organização de Computadores",
+            "arquitetura-e-organizacao-de-computadores": "Arquitetura e Organização de Computadores",
+            "arquitetura-de-computadores": "Arquitetura de Computadores",
+            "linguagens-formais-e-automatos": "Linguagens Formais e Autômatos",
+            "paradigmas-de-linguagem-de-programacao": "Paradigmas de Linguagem de Programação",
+            "engenharia-de-software": "Engenharia de Software",
+            "modelagem-de-dados": "Modelagem de Dados",
+            "projeto-e-analise-de-algoritmos": "Projeto e Análise de Algoritmos",
+            "avaliacao-e-desempenho-de-sistemas": "Avaliação e Desempenho de Sistemas",
+            "eletricidade-aplicada": "Eletricidade Aplicada",
+            "gestao-ambiental": "Gestão Ambiental",
+            "ciencias-do-ambiente": "Ciências do Ambiente",
+            "mecanica-dos-solidos": "Mecânica dos Sólidos",
+            "introducao-a-ciencia-dos-materiais": "Introdução à Ciência dos Materiais",
+            "algoritmos-e-estruturas-de-dados-i": "Algoritmos e Estruturas de Dados I",
+            "algoritmos-e-estruturas-de-dados-ii": "Algoritmos e Estruturas de Dados II",
+            "algoritmos-e-tecnicas-de-programacao": "Algoritmos e Técnicas de Programação",
+            "algebra-linear-e-geometria-analitica-i": "Álgebra Linear e Geometria Analítica I",
+            "algebra-linear-e-geometria-analitica-ii": "Álgebra Linear e Geometria Analítica II",
+            "algebra-linear": "Álgebra Linear",
+            "calculo-i": "Cálculo I",
+            "calculo-ii": "Cálculo II",
+            "calculo-iii": "Cálculo III",
+            "calculo-iv": "Cálculo IV",
+            "calculo-numerico": "Cálculo Numérico",
+            "equacoes-diferenciais": "Equações Diferenciais",
+            "matematica-discreta": "Matemática Discreta",
+            "probabilidade-e-estatistica": "Probabilidade e Estatística",
+            "fisica-i": "Física I",
+            "fisica-ii": "Física II",
+            "fisica-iii": "Física III",
+            "fisica-iv": "Física IV",
+            "fisica-experimental-i": "Física Experimental I",
+            "fisica-experimental-ii": "Física Experimental II",
+            "fisica-experimental-iii": "Física Experimental III",
+            "quimica": "Química",
+            "quimica-geral": "Química Geral",
+            "quimica-experimental": "Química Experimental",
+            "fenomenos-de-transporte": "Fenômenos de Transporte",
+            "economia": "Economia",
+            "administracao": "Administração",
+            "computacao-grafica": "Computação Gráfica",
+            "processamento-de-imagens": "Processamento de Imagens",
+            "processamento-de-sinais": "Processamento de Sinais",
+            "inteligencia-artificial": "Inteligência Artificial",
+            "algoritmos-distribuidos": "Algoritmos Distribuídos",
+            "computacao-paralela-e-distribuida": "Computação Paralela e Distribuída",
+            "desenvolvimento-web": "Desenvolvimento Web",
+            "interconexao-de-redes-de-computadores": "Interconexão de Redes de Computadores",
+            "dimensionamento-de-redes-de-computadores": "Dimensionamento de Redes de Computadores",
+            "geoprocessamento": "Geoprocessamento",
+            "modelagem-ambiental": "Modelagem Ambiental",
+            "energia-e-eficiencia-energetica": "Energia e Eficiência Energética",
+            "pesquisa-operacional-i": "Pesquisa Operacional I",
+            "pesquisa-operacional-ii": "Pesquisa Operacional II",
+            "sociedade-e-tecnologia": "Sociedade e Tecnologia",
+            "computacao-sociedade-e-inclusao": "Computação, Sociedade e Inclusão",
+            "libras": "LIBRAS",
+            "projeto-final-de-curso-i": "Projeto Final de Curso I",
+            "projeto-final-de-curso-ii": "Projeto Final de Curso II",
+            "estagio-supervisionado": "Estágio Supervisionado",
+            "eletiva-i": "Eletiva I",
+            "eletiva-ii": "Eletiva II",
+            "eletivas": "Disciplinas Eletivas",
+            "sistema-academico": "Sistema Acadêmico",
+            "devops-guide": "Guia DevOps",
+            "awesome-skills": "Awesome Skills",
+            "dashboard-life": "Dashboard Life",
+            "hardcore-life": "Hardcore Life",
+            "manga-reader": "Manga Reader",
+            "middle-earth-compiler": "Middle Earth Compiler",
+            "controleestoque": "Controle de Estoque",
+            "levantamentoestoque": "Levantamento de Estoque",
+            "livrocalculo": "Livro de Cálculo",
+            "modelos-latex": "Modelos LaTeX",
+            "avaliacoes-professores": "Avaliações de Professores",
+            "avaliacoes-concurseiro": "Avaliações de Concurseiro",
+            "curriculo-cv": "Currículo CV"
+          };
+
+          if (titleMap[seg]) {
+            node.displayName = titleMap[seg];
+            return node;
+          }
+
+          const m = seg.match(/^(\d+)-periodo$/);
+          if (m) {
+            node.displayName = `${m[1]}º Período`;
+            return node;
+          }
+
+          if (node.isFolder || !node.data?.frontmatter?.title) {
+            const romans = { "i": "I", "ii": "II", "iii": "III", "iv": "IV", "v": "V", "vi": "VI", "vii": "VII", "viii": "VIII", "ix": "IX", "x": "X" };
+            const lowerWords = new Set(["de", "da", "do", "das", "dos", "e", "em", "para", "com", "a", "o", "as", "os"]);
+            const parts = seg.split("-").map((w, idx) => {
+              if (romans[w]) return romans[w];
+              if (idx > 0 && lowerWords.has(w)) return w;
+              return w.charAt(0).toUpperCase() + w.slice(1);
+            });
+            node.displayName = parts.join(" ");
           }
           return node;
         }
@@ -349,7 +487,7 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: pedroiff0/page
+        repo: pedroiff0/quartz-site
         repoId: R_kgDOTcqzBQ
         category: Announcements
         categoryId: DIC_kwDOTcqzBc4DBxFq

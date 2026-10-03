@@ -5,22 +5,69 @@ import { slugifyFilePath, resolveRelative } from "@quartz-community/utils/path";
 
 const IMAGE_RE = /\.(jpe?g|png|webp|gif|avif)$/i;
 
+function normalizeSlug(s) {
+  return String(s || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+}
+
+function findPhotoDir(folder) {
+  const cwd = process.cwd();
+  const candidates = [
+    path.join(cwd, "content", "resource", "meta", "imagens", "photos", folder),
+    path.join(cwd, "content", "assets", "photos", folder),
+    path.join(cwd, "content", "resource", "midia", folder),
+  ];
+  for (const c of candidates) {
+    if (fs.existsSync(c) && fs.statSync(c).isDirectory()) {
+      return c;
+    }
+  }
+
+  const midiaBase = path.join(cwd, "content", "resource", "midia");
+  if (fs.existsSync(midiaBase)) {
+    const normTarget = normalizeSlug(folder);
+    try {
+      const years = fs.readdirSync(midiaBase);
+      for (const y of years) {
+        const yDir = path.join(midiaBase, y);
+        if (fs.statSync(yDir).isDirectory()) {
+          const events = fs.readdirSync(yDir);
+          for (const ev of events) {
+            const evDir = path.join(yDir, ev);
+            if (fs.statSync(evDir).isDirectory()) {
+              const normEv = normalizeSlug(ev);
+              if (ev === folder || normEv === normTarget || normTarget.includes(normEv) || normEv.includes(normTarget)) {
+                return evDir;
+              }
+            }
+          }
+        }
+      }
+    } catch {
+      // ignore
+    }
+  }
+  return null;
+}
+
 function listPhotos(folder) {
-  const dir = path.join(process.cwd(), "content", "assets", "photos", folder);
+  const dir = findPhotoDir(folder);
+  if (!dir) return [];
   try {
-    return fs
+    const files = fs
       .readdirSync(dir)
       .filter((f) => IMAGE_RE.test(f))
       .sort();
+    const contentDir = path.join(process.cwd(), "content");
+    return files.map((f) => {
+      const relPath = path.relative(contentDir, path.join(dir, f));
+      return {
+        file: f,
+        url: "/" + slugifyFilePath(relPath),
+      };
+    });
   } catch {
     return [];
   }
-}
-
-// The Assets emitter slugifies every static file it copies (lowercase, etc.) —
-// mirror that here so hrefs match what actually lands in `public/`.
-function photoUrl(folder, file) {
-  return "/" + slugifyFilePath(`assets/photos/${folder}/${file}`);
 }
 
 function slide(href, imgSrc, alt, caption) {
@@ -175,18 +222,17 @@ function PhotoCarouselConstructor() {
     // Mode 1: this note itself declares a photoFolder — show every photo in it,
     // opening the full-size image directly (existing single-event behaviour).
     if (folder && typeof folder === "string") {
-      const files = listPhotos(folder);
-      if (files.length === 0) return null;
+      const photos = listPhotos(folder);
+      if (photos.length === 0) return null;
       const title = typeof frontmatter.title === "string" ? frontmatter.title : "";
       return h(
         "div",
         { class: "media-carousel" },
-        files.map((f) => {
-          const url = photoUrl(folder, f);
+        photos.map((p) => {
           return h(
             "a",
-            { href: url, class: "carousel-slide", target: "_blank", rel: "noopener" },
-            h("img", { src: url, alt: title, loading: "lazy" }),
+            { href: p.url, class: "carousel-slide", target: "_blank", rel: "noopener" },
+            h("img", { src: p.url, alt: title, loading: "lazy" }),
           );
         }),
       );
@@ -227,8 +273,8 @@ function PhotoCarouselConstructor() {
       children.map((child) => {
         const childFolder = child.frontmatter.photoFolder;
         const title = typeof child.frontmatter?.title === "string" ? child.frontmatter.title : "";
-        const files = listPhotos(childFolder);
-        const imgSrc = files.length > 0 ? photoUrl(childFolder, files[0]) : null;
+        const photos = listPhotos(childFolder);
+        const imgSrc = photos.length > 0 ? photos[0].url : null;
         const href = resolveRelative(slug, child.slug);
         return slide(href, imgSrc, title, title);
       }),
