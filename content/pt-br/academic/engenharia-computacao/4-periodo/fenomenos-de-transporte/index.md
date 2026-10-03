@@ -2,7 +2,7 @@
 publish: false
 title: Fenômenos de Transporte
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Fenomenos De Transporte|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fenomenos De Transporte|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Fenomenos De Transporte|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fenomenos De Transporte|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.28`
@@ -30,8 +30,8 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i|CSECBJI.4 - Cálculo I]]
-> - [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii|CSECBJI.19 - Física II]]
+> - [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|CSECBJI.4 - Cálculo I]]
+> - [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|CSECBJI.19 - Física II]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 

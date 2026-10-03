@@ -2,7 +2,7 @@
 publish: false
 title: Processamento de Sinais
 created: 2026-07-18 12:00
-modified: 2026-09-30T15:35:32-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -15,7 +15,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Processamento De Sinais|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-processamento-de-sinais|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Processamento De Sinais|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-processamento-de-sinais|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.83`
@@ -31,8 +31,8 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/calculo-iv|CSECBJI.31 - Cálculo IV]]
-> - [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados|CSECBJI.47 - Comunicação de Dados]]
+> - [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/index|CSECBJI.31 - Cálculo IV]]
+> - [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/index|CSECBJI.47 - Comunicação de Dados]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 

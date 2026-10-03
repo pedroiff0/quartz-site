@@ -2,7 +2,7 @@
 publish: false
 title: Projeto Final de Curso I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Projeto Final De Curso I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Projeto Final De Curso I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Projeto Final De Curso I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Projeto Final De Curso I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.67`
@@ -30,9 +30,9 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/metodologia-cientifica-e-tecnologica|CSECBJI.64 - Metodologia Científica e Tecnológica]]
+> - [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/index|CSECBJI.64 - Metodologia Científica e Tecnológica]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/10-periodo/projeto-final-de-curso-ii/projeto-final-de-curso-ii|CSECBJI.74 - Projeto Final de Curso II]]
+> - [[pt-br/academic/engenharia-computacao/10-periodo/projeto-final-de-curso-ii/index|CSECBJI.74 - Projeto Final de Curso II]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Metodologia de Planejamento;**

@@ -2,7 +2,7 @@
 publish: false
 title: Álgebra Linear e Geometria Analítica II
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Algebra Linear E Geometria Analitica Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Algebra Linear E Geometria Analitica Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Algebra Linear E Geometria Analitica Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Algebra Linear E Geometria Analitica Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.10`
@@ -30,11 +30,11 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i|CSECBJI.5 - Álgebra Linear e Geometria Analítica I]]
+> - [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/index|CSECBJI.5 - Álgebra Linear e Geometria Analítica I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica|CSECBJI.77 - Computação Gráfica]]
-> - [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/modelagem-ambiental|CSECBJI.85 - Modelagem Ambiental]]
-> - [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i|CSECBJI.88 - Pesquisa Operacional I]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/index|CSECBJI.77 - Computação Gráfica]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/index|CSECBJI.85 - Modelagem Ambiental]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/index|CSECBJI.88 - Pesquisa Operacional I]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Transformações Lineares**

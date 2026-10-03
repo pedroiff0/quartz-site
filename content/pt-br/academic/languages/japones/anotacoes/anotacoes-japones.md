@@ -1,18 +1,18 @@
 ---
-aliases:
-- Repositório de Anotações
-publish: false
+publish: true
 title: Anotações — Japonês
 created: 2026-09-14 11:54
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 tags:
 - anexo
 - japones
 - idioma
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
-sitesync: false
+sitesync: true
+aliases:
+- Repositório de Anotações
 ---
 
 # Repositório de Anotações — Japonês

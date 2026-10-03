@@ -2,7 +2,7 @@
 publish: false
 title: Computação Gráfica
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Computacao Grafica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Computacao Grafica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Computacao Grafica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Computacao Grafica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.77`
@@ -30,10 +30,10 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
-> - [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii|CSECBJI.30 - Algoritmos e Estruturas de Dados II]]
+> - [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|CSECBJI.10 - Álgebra Linear e Geometria Analítica II]]
+> - [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|CSECBJI.30 - Algoritmos e Estruturas de Dados II]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-imagens/processamento-de-imagens|CSECBJI.78 - Processamento de Imagens]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-imagens/index|CSECBJI.78 - Processamento de Imagens]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Dispositivos Gráficos**

@@ -28,4 +28,5 @@ sitesync: true
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[anotacoes-fundamentos-da-computacao\|Anotações — Fundamentos Da Computacao]] | 24/08/2026 |
 | [[fundamentos-de-computacao\|Fundamentos de Computação]] | 24/08/2026 |

@@ -2,7 +2,7 @@
 publish: false
 title: 20260708 - ManualTCC
 created: 2026-07-08 13:34
-modified: 2026-09-30 13:58
+modified: 2026-10-02 17:18
 tags:
 - disciplina
 - engenharia-de-computacao

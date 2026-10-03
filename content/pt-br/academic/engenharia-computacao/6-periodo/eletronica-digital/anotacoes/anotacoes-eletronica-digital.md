@@ -1,17 +1,18 @@
 ---
-publish: false
+publish: true
 title: Anotações — Eletronica Digital
 created: 2026-08-24 21:03
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
-discipline: "[[eletronica-digital]]"
+discipline: '[[eletronica-digital]]'
+sitesync: true
 ---
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
   <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
@@ -32,5 +33,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | [[aula-01-portas-logicas\|Aula 01 - Portas Lógicas]] | 24/08/2026 |
 | [[aula-02-mapas-de-karnough\|Aula 02 - Mapas de Karnough]] | 31/08/2026 |
 | [[aula-03-correcao\|Aula 03 - Correção]] | 11/09/2026 |
-| [[aula-04-prova\|Atividade 04]] | 28/09/2026 |
 | [[aula-05\|Aula 05]] | 21/09/2026 |

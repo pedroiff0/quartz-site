@@ -19,6 +19,5 @@ Este painel consolida automaticamente as tarefas e pendências de estudo mapeada
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[6o-periodo\|6º Período]] | 21/07/2026 |
 | [[KANBAN\|Quadro Kanban — 6º Período EngComp]] | 14/09/2026 |
 | [[tarefas\|Tarefas do 6º Período]] | 24/08/2026 |

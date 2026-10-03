@@ -1,16 +1,17 @@
 ---
-publish: false
+publish: true
 title: Aula 01 - Apresentação SO
 created: 2026-09-03 13:28
-modified: 2026-09-30 10:35
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
-icon: lucide-book-open
-discipline: "[[sistemas-operacionais-i]]"
 cssclasses:
-  - page-layout
+- page-layout
+icon: lucide-book-open
+discipline: '[[sistemas-operacionais-i]]'
+sitesync: true
 ---
 
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
@@ -21,14 +22,6 @@ cssclasses:
 </div>
 
 # Aula 01 - Apresentação SO
-
-> [!info]- Informações & Checklist da Aula
-> - **Data da Aula:** 03/09/2026
-> - **Status de Revisão:**
->   - [ ] Anotações em sala de aula
->   - [ ] Revisão e fixação de conceitos
->   - [ ] Resolução de exercícios recomendados
->   - [ ] Destilação para [[07-permanente/notas-permanentes|Notas Permanentes]]
 
 ---
 

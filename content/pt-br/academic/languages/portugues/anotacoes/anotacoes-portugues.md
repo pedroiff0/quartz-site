@@ -1,18 +1,18 @@
 ---
-aliases:
-- Repositório de Anotações
-publish: false
+publish: true
 title: Anotações — Português
 created: 2026-09-14 11:54
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 tags:
 - anexo
 - portugues
 - idioma
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
-sitesync: false
+sitesync: true
+aliases:
+- Repositório de Anotações
 ---
 
 # Repositório de Anotações — Português
@@ -26,9 +26,6 @@ sitesync: false
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[anotacoes-portugues\|Anotações — Português]] | 14/09/2026 |
-| [[aula-01-alfabeto-fonetica-e-saudacoes\|Aula 01 — Fonologia, Nova Ortografia e Regras de Acentuação Gráfica]] | 14/09/2026 |
-| [[aula-02-pronomes-e-verbos-essenciais\|Aula 02 — Sintaxe de Regência Verbal, Nominal e Concordância]] | 14/09/2026 |
-| [[aula-03-numeros-e-apresentacao-pessoal\|Aula 03 — Coesão, Coerência e Estrutura de Redação Dissertativo-Argumentativa]] | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
 -  [[02-areas/academico/idiomas/portugues/anotacoes/atividades/atividades-portugues|Acessar Caderno de Atividades de Português]]

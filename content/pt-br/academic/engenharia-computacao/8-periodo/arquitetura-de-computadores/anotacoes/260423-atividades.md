@@ -1,17 +1,18 @@
 ---
-publish: false
+publish: true
 title: 260423-Atividades
 created: 2026-04-23 14:49
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
-discipline: "[[arquitetura-de-computadores]]"
+discipline: '[[arquitetura-de-computadores]]'
+sitesync: true
 ---
 # Notas de Aula - Atividades
 ***

@@ -1,18 +1,18 @@
 ---
-publish: false
+publish: true
 title: Aula 02 — Sintaxe de Regência Verbal, Nominal e Concordância
-language: Português
-level: A1
+created: 2026-09-14 11:54
+modified: 2026-10-02 17:13
 tags:
 - aula
 - portugues
 - idioma
-created: 2026-09-14 11:54
-modified: 2026-09-30 13:05
-icon: lucide-book-open
 cssclasses:
-  - page-layout
-sitesync: false
+- page-layout
+icon: lucide-book-open
+sitesync: true
+language: Português
+level: A1
 ---
 
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">

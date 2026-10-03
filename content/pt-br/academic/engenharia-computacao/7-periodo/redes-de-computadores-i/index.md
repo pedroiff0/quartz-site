@@ -2,7 +2,7 @@
 publish: false
 title: Redes de Computadores I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Redes De Computadores I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Redes De Computadores I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Redes De Computadores I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Redes De Computadores I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.55`
@@ -33,11 +33,11 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados|CSECBJI.47 - Comunicação de Dados]]
+> - [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/index|CSECBJI.47 - Comunicação de Dados]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/8-periodo/redes-de-computadores-ii/redes-de-computadores-ii|CSECBJI.59 - Redes de Computadores II]]
-> - [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos|CSECBJI.86 - Algoritmos Distribuídos]]
-> - [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos|CSECBJI.71 - Sistemas Distribuídos]]
+> - [[pt-br/academic/engenharia-computacao/8-periodo/redes-de-computadores-ii/index|CSECBJI.59 - Redes de Computadores II]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/index|CSECBJI.86 - Algoritmos Distribuídos]]
+> - [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/index|CSECBJI.71 - Sistemas Distribuídos]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução as Redes de Computadores**

@@ -1,15 +1,16 @@
 ---
-publish: false
+publish: true
 title: Aula 03 - Correção
 created: 2026-09-11 23:15
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
+sitesync: true
 ---
 
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
@@ -20,14 +21,6 @@ icon: lucide-book-open
 </div>
 
 # Aula 03 - Correção
-
-> [!info]- Informações & Checklist da Aula
-> - **Data da Aula:** 11/09/2026
-> - **Status de Revisão:**
->   - [x] Anotações em sala de aula
->   - [x] Revisão e fixação de conceitos
->   - [ ] Resolução de exercícios recomendados
->   - [ ] Destilação para [[07-permanente/notas-permanentes|Notas Permanentes]]
 
 ---
 

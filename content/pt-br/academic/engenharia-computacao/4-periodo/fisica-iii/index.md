@@ -2,7 +2,7 @@
 publish: false
 title: Física III
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Fisica Iii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fisica Iii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Fisica Iii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Fisica Iii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.26`
@@ -30,11 +30,11 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii|CSECBJI.17 - Cálculo III]]
-> - [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii|CSECBJI.19 - Física II]]
+> - [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/index|CSECBJI.17 - Cálculo III]]
+> - [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|CSECBJI.19 - Física II]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada|CSECBJI.33 - Eletricidade Aplicada]]
-> - [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/eletronica-analogica|CSECBJI.37 - Eletrônica Analógica]]
+> - [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/index|CSECBJI.33 - Eletricidade Aplicada]]
+> - [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/index|CSECBJI.37 - Eletrônica Analógica]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Eletrostática**

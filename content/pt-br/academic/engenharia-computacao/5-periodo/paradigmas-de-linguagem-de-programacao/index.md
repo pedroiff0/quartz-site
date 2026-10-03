@@ -2,7 +2,7 @@
 publish: false
 title: Paradigmas de Linguagem de Programação
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Paradigmas De Linguagem De Programacao|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Paradigmas De Linguagem De Programacao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Paradigmas De Linguagem De Programacao|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Paradigmas De Linguagem De Programacao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.38`
@@ -30,9 +30,9 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
+> - [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i|CSECBJI.45 - Programação Orientada a Objetos I]]
+> - [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/index|CSECBJI.45 - Programação Orientada a Objetos I]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Visão Geral de Linguagens de Programação**

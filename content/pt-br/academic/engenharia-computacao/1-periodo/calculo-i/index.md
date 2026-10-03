@@ -2,7 +2,7 @@
 publish: false
 title: Cálculo I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Calculo I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Calculo I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Calculo I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Calculo I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.4`
@@ -35,10 +35,10 @@ sitesync: true
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i|CSECBJI.11 - Física I]]
+> - [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|CSECBJI.11 - Física I]]
 > - [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|CSECBJI.9 - Cálculo II]]
-> - [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais|CSECBJI.18 - Equações Diferenciais]]
-> - [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/fenomenos-de-transporte|CSECBJI.28 - Fenômenos de Transporte]]
+> - [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/index|CSECBJI.18 - Equações Diferenciais]]
+> - [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/index|CSECBJI.28 - Fenômenos de Transporte]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Números Reais:**

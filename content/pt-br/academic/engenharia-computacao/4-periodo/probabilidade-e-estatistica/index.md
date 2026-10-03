@@ -2,7 +2,7 @@
 publish: false
 title: Probabilidade e Estatística
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Probabilidade E Estatistica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Probabilidade E Estatistica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Probabilidade E Estatistica|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Probabilidade E Estatistica|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.29`
@@ -32,7 +32,7 @@ sitesync: true
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/5-periodo/avaliacao-e-desempenho-de-sistemas/avaliacao-e-desempenho-de-sistemas|CSECBJI.41 - Avaliação e Desempenho de Sistemas]]
+> - [[pt-br/academic/engenharia-computacao/5-periodo/avaliacao-e-desempenho-de-sistemas/index|CSECBJI.41 - Avaliação e Desempenho de Sistemas]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução à Estatística**

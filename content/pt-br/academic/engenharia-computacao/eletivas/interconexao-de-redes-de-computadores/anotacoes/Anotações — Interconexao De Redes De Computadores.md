@@ -1,17 +1,18 @@
 ---
-publish: false
+publish: true
 title: Anotações — Interconexao De Redes De Computadores
 created: 2026-08-24 21:03
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
-discipline: "[[interconexao-de-redes-de-computadores]]"
+discipline: '[[interconexao-de-redes-de-computadores]]'
+sitesync: true
 ---
 
 # Anotações de Quadro & Conteúdo das Aulas

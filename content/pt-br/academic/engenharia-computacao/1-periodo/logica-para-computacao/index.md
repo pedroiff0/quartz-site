@@ -2,7 +2,7 @@
 publish: false
 title: Lógica para Computação
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Logica Para Computacao|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Logica Para Computacao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Logica Para Computacao|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Logica Para Computacao|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.3`
@@ -33,9 +33,9 @@ sitesync: true
 > **Pré-requisitos Exigidos:**
 > - *Nenhum pré-requisito exigido (disciplina de entrada).*
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta|CSECBJI.14 - Matemática Discreta]]
-> - [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/modelagem-de-dados|CSECBJI.35 - Modelagem de Dados]]
-> - [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital|CSECBJI.46 - Eletrônica Digital]]
+> - [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|CSECBJI.14 - Matemática Discreta]]
+> - [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/index|CSECBJI.35 - Modelagem de Dados]]
+> - [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/index|CSECBJI.46 - Eletrônica Digital]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução à Lógica para Computação;**

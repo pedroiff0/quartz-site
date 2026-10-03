@@ -2,7 +2,7 @@
 publish: false
 title: Sistemas Operacionais I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Sistemas Operacionais I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sistemas Operacionais I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Sistemas Operacionais I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sistemas Operacionais I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.56`
@@ -32,9 +32,9 @@ sitesync: true
 > **Pré-requisitos Exigidos:**
 > - [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao|CSECBJI.1 - Fundamentos de Computação]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/8-periodo/sistemas-operacionais-ii/sistemas-operacionais-ii|CSECBJI.63 - Sistemas Operacionais II]]
-> - [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos|CSECBJI.86 - Algoritmos Distribuídos]]
-> - [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos|CSECBJI.71 - Sistemas Distribuídos]]
+> - [[pt-br/academic/engenharia-computacao/8-periodo/sistemas-operacionais-ii/index|CSECBJI.63 - Sistemas Operacionais II]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/index|CSECBJI.86 - Algoritmos Distribuídos]]
+> - [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/index|CSECBJI.71 - Sistemas Distribuídos]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução**

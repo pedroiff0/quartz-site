@@ -1,18 +1,18 @@
 ---
-aliases:
-- Repositório de Anotações
-publish: false
+publish: true
 title: Anotações — Grego
 created: 2026-09-14 11:54
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 tags:
 - anexo
 - grego
 - idioma
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
-sitesync: false
+sitesync: true
+aliases:
+- Repositório de Anotações
 ---
 
 # Repositório de Anotações — Grego
@@ -26,9 +26,6 @@ sitesync: false
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[anotacoes-grego\|Anotações — Grego]] | 14/09/2026 |
-| [[aula-01-alfabeto-fonetica-e-saudacoes\|Aula 01 — O Alfabeto Grego (Alfa ao Ômega), Fonética e Saudações]] | 14/09/2026 |
-| [[aula-02-pronomes-e-verbos-essenciais\|Aula 02 — Pronomes Pessoais e o Verbo Είμαι (Ser/Estar)]] | 14/09/2026 |
-| [[aula-03-numeros-e-apresentacao-pessoal\|Aula 03 — Números, Artigos Determinados e Autoapresentação]] | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
 -  [[02-areas/academico/idiomas/grego/anotacoes/atividades/atividades-grego|Acessar Caderno de Atividades de Grego]]

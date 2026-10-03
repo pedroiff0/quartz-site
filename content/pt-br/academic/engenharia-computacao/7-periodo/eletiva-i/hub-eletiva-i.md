@@ -28,4 +28,5 @@ sitesync: true
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[anotacoes-eletiva-i\|Anotações — Eletiva I]] | 24/08/2026 |
 | [[hub-eletiva-i\|Hub — Eletiva I]] | 24/08/2026 |

@@ -2,7 +2,7 @@
 publish: false
 title: Projeto e Análise de Algoritmos
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Projeto E Analise De Algoritmos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Projeto E Analise De Algoritmos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Projeto E Analise De Algoritmos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Projeto E Analise De Algoritmos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.34`
@@ -30,11 +30,11 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta|CSECBJI.14 - Matemática Discreta]]
-> - [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii|CSECBJI.30 - Algoritmos e Estruturas de Dados II]]
+> - [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|CSECBJI.14 - Matemática Discreta]]
+> - [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|CSECBJI.30 - Algoritmos e Estruturas de Dados II]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/eletivas/geoprocessamento/geoprocessamento|CSECBJI.84 - Geoprocessamento]]
-> - [[pt-br/academic/engenharia-computacao/eletivas/inteligencia-artificial/inteligencia-artificial|CSECBJI.90 - Inteligência Artificial]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/geoprocessamento/index|CSECBJI.84 - Geoprocessamento]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/inteligencia-artificial/index|CSECBJI.90 - Inteligência Artificial]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Medidas de Complexidade**

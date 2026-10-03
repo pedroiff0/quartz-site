@@ -2,7 +2,7 @@
 publish: false
 title: Algoritmos e Estruturas de Dados II
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Algoritmos E Estruturas De Dados Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Algoritmos E Estruturas De Dados Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Algoritmos E Estruturas De Dados Ii|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Algoritmos E Estruturas De Dados Ii|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.30`
@@ -31,10 +31,10 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/algoritmos-e-estruturas-de-dados-i|CSECBJI.22 - Algoritmos e Estruturas de Dados I]]
+> - [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/index|CSECBJI.22 - Algoritmos e Estruturas de Dados I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos|CSECBJI.34 - Projeto e Análise de Algoritmos]]
-> - [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica|CSECBJI.77 - Computação Gráfica]]
+> - [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|CSECBJI.34 - Projeto e Análise de Algoritmos]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/index|CSECBJI.77 - Computação Gráfica]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Ordenação Externa**

@@ -2,7 +2,7 @@
 publish: false
 title: Matemática Discreta
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Matematica Discreta|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Matematica Discreta|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Matematica Discreta|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Matematica Discreta|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.14`
@@ -30,10 +30,10 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao|CSECBJI.3 - Lógica para Computação]]
+> - [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/index|CSECBJI.3 - Lógica para Computação]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos|CSECBJI.34 - Projeto e Análise de Algoritmos]]
-> - [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/linguagens-formais-e-automatos|CSECBJI.40 - Linguagens Formais e Autômatos]]
+> - [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|CSECBJI.34 - Projeto e Análise de Algoritmos]]
+> - [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/index|CSECBJI.40 - Linguagens Formais e Autômatos]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Teoria dos Conjuntos:**

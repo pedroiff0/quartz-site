@@ -2,7 +2,7 @@
 publish: false
 title: Algoritmos Distribuídos
 created: 2026-07-18 12:00
-modified: 2026-09-30T15:35:32-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -15,7 +15,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Algoritmos Distribuidos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-algoritmos-distribuidos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Algoritmos Distribuidos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-algoritmos-distribuidos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.86`
@@ -31,10 +31,10 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i|CSECBJI.55 - Redes de Computadores I]]
-> - [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i|CSECBJI.56 - Sistemas Operacionais I]]
+> - [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|CSECBJI.55 - Redes de Computadores I]]
+> - [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|CSECBJI.56 - Sistemas Operacionais I]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/eletivas/computacao-paralela-e-distribuida/computacao-paralela-e-distribuida|CSECBJI.87 - Computação Paralela e Distribuída]]
+> - [[pt-br/academic/engenharia-computacao/eletivas/computacao-paralela-e-distribuida/index|CSECBJI.87 - Computação Paralela e Distribuída]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Introdução à Computação Paralela e Distribuída**

@@ -2,7 +2,7 @@
 publish: false
 title: Microcontroladores
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Microcontroladores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Microcontroladores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Microcontroladores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Microcontroladores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.62`
@@ -31,9 +31,9 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores|CSECBJI.52 - Organização de Computadores]]
+> - [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/index|CSECBJI.52 - Organização de Computadores]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-embarcados/sistemas-embarcados|CSECBJI.70 - Sistemas Embarcados]]
+> - [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-embarcados/index|CSECBJI.70 - Sistemas Embarcados]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Principais Características**

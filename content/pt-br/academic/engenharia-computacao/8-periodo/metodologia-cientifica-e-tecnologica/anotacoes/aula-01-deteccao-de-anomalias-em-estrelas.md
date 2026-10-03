@@ -2,7 +2,7 @@
 publish: false
 title: Aula 01 - Detecção de Anomalias em Estrelas
 created: 2026-04-06 14:49
-modified: 2026-09-30 10:35
+modified: 2026-10-02 16:57
 encrypted: true
 tags:
 - aula
@@ -21,14 +21,6 @@ cssclasses:
 </div>
 
 # Aula 01 - Detecção de Anomalias em Estrelas
-
-> [!info]- Informações & Checklist da Aula
-> - **Data da Aula:** 06/04/2026
-> - **Status de Revisão:**
->   - [ ] Anotações em sala de aula
->   - [ ] Revisão e fixação de conceitos
->   - [ ] Resolução de exercícios recomendados
->   - [ ] Destilação para [[07-permanente/notas-permanentes|Notas Permanentes]]
 
 ---
 

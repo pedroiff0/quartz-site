@@ -2,7 +2,7 @@
 publish: false
 title: Programação Orientada a Objetos I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Programacao Orientada A Objetos I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Programacao Orientada A Objetos I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Programacao Orientada A Objetos I|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Programacao Orientada A Objetos I|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.45`
@@ -34,10 +34,10 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
-> - [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/paradigmas-de-linguagem-de-programacao|CSECBJI.38 - Paradigmas de Linguagem de Programação]]
+> - [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
+> - [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/index|CSECBJI.38 - Paradigmas de Linguagem de Programação]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii|CSECBJI.51 - Programação Orientada a Objetos II]]
+> - [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/index|CSECBJI.51 - Programação Orientada a Objetos II]]
 
 > [!tip]  Conteúdo Programático
 > - [/] **1. Classes e Objetos** [[anotacoes/aula-01-introducao|Aula 01]], [[anotacoes/aula-02-construtores-e-encapsulamento|Aula 02]]
@@ -51,24 +51,24 @@ sitesync: true
 >   - [ ] Associação e Composição
 > - [ ] **2. Herança e Polimorfismo**
 >   - [ ] Relacionamento de Generalização/Especialização
->   - [ ] i. Hierarquia de Herança
->   - [ ] ii. O Princípio da Substituição
->   - [ ] iii. Sobrescrita de Métodos
+> 	  - [ ] i. Hierarquia de Herança
+> 	  - [ ] ii. O Princípio da Substituição
+> 	  - [ ] iii. Sobrescrita de Métodos
 >   - [ ] Polimorfismo
->   - [ ] i. Conceito
->   - [ ] ii. Classes Abstratas
->   - [ ] iii. Interfaces
+> 	  - [ ] i. Conceito
+> 	  - [ ] ii. Classes Abstratas
+> 	  - [ ] iii. Interfaces
 >   - [ ] Parametrização de Tipos
 > - [ ] **3. Entrada e Saída e Tratamento de Exceções**
 >   - [ ] Tratamento de Exceções
->   - [ ] i. Lançamento de Exceções
->   - [ ] ii. Captura de Exceções
->   - [ ] iii. Hierarquia de Exceções
+> 	  - [ ] i. Lançamento de Exceções
+> 	  - [ ] ii. Captura de Exceções
+> 	  - [ ] iii. Hierarquia de Exceções
 >   - [ ] Leitura e Escrita de Arquivos
->   - [ ] i. Leitura de Dados
->   - [ ] ii. Gravação de Dados
->   - [ ] iii. Formatação de Dados
->   - [ ] iv. Armazenamento e Recuperação de Objetos
+> 	  - [ ] i. Leitura de Dados
+> 	  - [ ] ii. Gravação de Dados
+> 	  - [ ] iii. Formatação de Dados
+> 	  - [ ] iv. Armazenamento e Recuperação de Objetos
 > - [ ] **4. Coleções**
 >   - [ ] Listas
 >   - [ ] Conjuntos

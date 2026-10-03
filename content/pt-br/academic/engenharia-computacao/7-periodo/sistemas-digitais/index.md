@@ -2,7 +2,7 @@
 publish: false
 title: Sistemas Digitais
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Sistemas Digitais|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sistemas Digitais|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Sistemas Digitais|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Sistemas Digitais|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.53`
@@ -33,9 +33,9 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital|CSECBJI.46 - Eletrônica Digital]]
+> - [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/index|CSECBJI.46 - Eletrônica Digital]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/arquitetura-de-computadores|CSECBJI.61 - Arquitetura de Computadores]]
+> - [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/index|CSECBJI.61 - Arquitetura de Computadores]]
 
 > [!tip]  Conteúdo Programático
 > - **1. Análise e Síntese de Circuitos Digitais**

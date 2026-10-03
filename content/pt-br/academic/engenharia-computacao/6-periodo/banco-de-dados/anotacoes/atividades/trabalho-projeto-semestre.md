@@ -6,11 +6,12 @@ tags:
 - aula
 - engenharia-de-computacao
 created: 2026-09-29 15:36
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:02
 cssclasses:
   - page-layout
 icon: lucide-book-open
 discipline: "[[banco-de-dados]]"
+sitesync: true
 ---
 
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
@@ -21,14 +22,6 @@ discipline: "[[banco-de-dados]]"
 </div>
 
 # Aula projeto-semestre
-
-> [!info]- Informações & Checklist da Aula
-> - **Data da Aula:** 29/09/2026
-> - **Status de Revisão:**
->   - [ ] Anotações em sala de aula
->   - [ ] Revisão e fixação de conceitos
->   - [ ] Resolução de exercícios recomendados
->   - [ ] Destilação para [[07-permanente/notas-permanentes|Notas Permanentes]]
 
 ---
 ## Anotações do Quadro & Conteúdo

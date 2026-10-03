@@ -6,11 +6,12 @@ tags:
 - aula
 - engenharia-de-computacao
 created: 2026-09-14 14:00
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:02
 cssclasses:
   - page-layout
 icon: lucide-book-open
 discipline: "[[eletronica-digital]]"
+sitesync: true
 ---
 
 
@@ -22,14 +23,6 @@ discipline: "[[eletronica-digital]]"
 </div>
 
 # Aula 04
-
-> [!info]- Informações & Checklist da Aula
-> - **Data da Aula:** 14/09/2026
-> - **Status de Revisão:**
->   - [ ] Anotações em sala de aula
->   - [ ] Revisão e fixação de conceitos
->   - [ ] Resolução de exercícios recomendados
->   - [ ] Destilação para [[07-permanente/notas-permanentes|Notas Permanentes]]
 
 ---
 

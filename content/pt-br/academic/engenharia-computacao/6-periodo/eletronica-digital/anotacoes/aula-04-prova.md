@@ -1,16 +1,17 @@
 ---
-publish: false
+publish: true
 title: Atividade 04
+created: 2026-09-28 14:00
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
-  - aula
-  - engenharia-de-computacao
-created: 2026-09-28 14:00
-modified: 2026-09-29 20:11
+- aula
+- engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
-discipline: "[[eletronica-digital]]"
+discipline: '[[eletronica-digital]]'
+sitesync: true
 ---
 
 
@@ -22,14 +23,6 @@ discipline: "[[eletronica-digital]]"
 </div>
 
 # Aula 04
-
-> [!info]- Informações & Checklist da Aula
-> - **Data da Aula:** 14/09/2026
-> - **Status de Revisão:**
->   - [ ] Anotações em sala de aula
->   - [ ] Revisão e fixação de conceitos
->   - [ ] Resolução de exercícios recomendados
->   - [ ] Destilação para [[07-permanente/notas-permanentes|Notas Permanentes]]
 
 ---
 

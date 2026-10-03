@@ -2,7 +2,7 @@
 publish: false
 title: Dimensionamento de Redes de Computadores
 created: 2026-07-18 12:00
-modified: 2026-09-30T15:35:32-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -15,7 +15,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[Anotações/Anotações — Dimensionamento De Redes De Computadores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-dimensionamento-de-redes-de-computadores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[Anotações/Anotações — Dimensionamento De Redes De Computadores|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/atividades-dimensionamento-de-redes-de-computadores|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.81`

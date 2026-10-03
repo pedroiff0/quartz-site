@@ -1,16 +1,17 @@
 ---
-publish: false
-title: 'Aula 05'
+publish: true
+title: Aula 05
+created: 2026-09-23 14:00
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
-created: 2026-09-23 14:00
-modified: 2026-10-01 20:14
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
-discipline: "[[filosofia-da-ciencia-e-tecnologia]]"
+discipline: '[[filosofia-da-ciencia-e-tecnologia]]'
+sitesync: true
 ---
 
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
@@ -21,14 +22,6 @@ discipline: "[[filosofia-da-ciencia-e-tecnologia]]"
 </div>
 
 # Aula 05
-
-> [!info]- Informações & Checklist da Aula
-> - **Data da Aula:** 23/09/2026
-> - **Status de Revisão:**
->   - [ ] Anotações em sala de aula
->   - [ ] Revisão e fixação de conceitos
->   - [ ] Resolução de exercícios recomendados
->   - [ ] Destilação para [[07-permanente/notas-permanentes|Notas Permanentes]]
 
 ---
 

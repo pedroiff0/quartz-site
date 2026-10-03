@@ -2,7 +2,7 @@
 publish: false
 title: Análise de Software Orientada a Objetos
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-09-30T14:05:00-03:00
+modified: 2026-10-01T20:14:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -14,7 +14,7 @@ sitesync: true
 ---
 
 > [!todo]+ Navegação da Disciplina
-> 📘 **[[anotacoes/anotacoes — Analise De Software Orientada A Objetos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Analise De Software Orientada A Objetos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/engenharia-de-computacao|Voltar para Engenharia]]**
+> 📘 **[[anotacoes/anotacoes — Analise De Software Orientada A Objetos|Anotações de Aula]]** &nbsp;|&nbsp; 📋 **[[Anotações/Atividades/Atividades — Analise De Software Orientada A Objetos|Dúvidas & Trabalhos]]** &nbsp;|&nbsp; 🗺️ **[[pt-br/academic/engenharia-computacao/index|Voltar para Engenharia]]**
 
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.42`
@@ -32,9 +32,9 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/engenharia-de-software|CSECBJI.36 - Engenharia de Software]]
+> - [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/index|CSECBJI.36 - Engenharia de Software]]
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/7-periodo/projeto-de-software-orientado-a-objetos/projeto-de-software-orientado-a-objetos|CSECBJI.50 - Projeto de Software Orientado a Objetos]]
+> - [[pt-br/academic/engenharia-computacao/7-periodo/projeto-de-software-orientado-a-objetos/index|CSECBJI.50 - Projeto de Software Orientado a Objetos]]
 
 > [!tip]  Conteúdo Programático
 > - [x] **1. Introdução** [[anotacoes/aula-01-apresentacao|Aula 01]]

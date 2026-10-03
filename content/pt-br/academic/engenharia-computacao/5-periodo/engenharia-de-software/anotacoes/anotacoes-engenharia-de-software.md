@@ -1,17 +1,18 @@
 ---
-publish: false
+publish: true
 title: Anotações — Engenharia De Software
 created: 2026-08-24 21:03
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
-discipline: "[[engenharia-de-software]]"
+discipline: '[[engenharia-de-software]]'
+sitesync: true
 ---
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
   <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
@@ -28,5 +29,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[260326-aula-intro-1\|260326-Aula-Intro-1]] | 26/03/2026 |
 | [[anotacoes-engenharia-de-software\|Anotações — Engenharia De Software]] | 24/08/2026 |

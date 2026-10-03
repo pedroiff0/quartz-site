@@ -1,17 +1,18 @@
 ---
-publish: false
+publish: true
 title: Anotações — Projeto Final De Curso I
 created: 2026-08-24 21:03
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - aula
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
-  - cards
+- page-layout
+- cards
 icon: lucide-book-open
-discipline: "[[projeto-final-de-curso-i]]"
+discipline: '[[projeto-final-de-curso-i]]'
+sitesync: true
 ---
 <div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
   <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>

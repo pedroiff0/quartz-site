@@ -1,17 +1,18 @@
 ---
-publish: false
+publish: true
 title: Atividade 01 - Atividades Abril - Ordenação e Hash
 created: 2026-04-13 14:49
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
-discipline: "[[projeto-e-analise-de-algoritmos]]"
+discipline: '[[projeto-e-analise-de-algoritmos]]'
+sitesync: true
 ---
 # Atividade 01 - Atividades Abril - Ordenação e Hash
 

@@ -1,17 +1,18 @@
 ---
-publish: false
+publish: true
 title: 260423-Aula-Atividades-1
 created: 2026-04-23 13:34
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
-discipline: "[[avaliacao-e-desempenho-de-sistemas]]"
+discipline: '[[avaliacao-e-desempenho-de-sistemas]]'
+sitesync: true
 ---
 # Notas de Aula - Atividades
 ***

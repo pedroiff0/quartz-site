@@ -1,16 +1,17 @@
 ---
-publish: false
+publish: true
 title: Prova 01 - Modelos de Filas
 created: 2026-04-23 14:49
-modified: 2026-10-01 20:14
+modified: 2026-10-02 17:13
 encrypted: true
 tags:
 - prova
 - engenharia-de-computacao
 cssclasses:
-  - page-layout
+- page-layout
 icon: lucide-book-open
-discipline: "[[avaliacao-e-desempenho-de-sistemas]]"
+discipline: '[[avaliacao-e-desempenho-de-sistemas]]'
+sitesync: true
 ---
 # Prova 01 - Modelos de Filas
 
