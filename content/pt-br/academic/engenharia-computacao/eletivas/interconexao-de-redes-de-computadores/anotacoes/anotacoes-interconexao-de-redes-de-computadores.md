@@ -2,7 +2,7 @@
 publish: true
 title: Anotações — Interconexao De Redes De Computadores
 created: 2026-08-24 21:03
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula
@@ -29,4 +29,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[Anotações — Interconexao De Redes De Computadores\|Anotações de Quadro & Conteúdo das Aulas]] | 24/08/2026 |
 | [[anotacoes-interconexao-de-redes-de-computadores\|Anotações — Interconexao De Redes De Computadores]] | 24/08/2026 |

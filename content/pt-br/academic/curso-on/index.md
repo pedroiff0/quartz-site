@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Arqueologia Galáctica e Populações Estelares
 encrypted: true
 created: 2026-07-23 13:04

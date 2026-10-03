@@ -2,7 +2,7 @@
 publish: true
 title: Aula 02 - Classes
 created: 2026-09-16 17:41
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula

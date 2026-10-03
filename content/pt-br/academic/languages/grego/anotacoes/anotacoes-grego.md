@@ -26,6 +26,9 @@ aliases:
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[anotacoes-grego\|Anotações — Grego]] | 14/09/2026 |
+| [[aula-01-alfabeto-fonetica-e-saudacoes\|Aula 01 — O Alfabeto Grego (Alfa ao Ômega), Fonética e Saudações]] | 14/09/2026 |
+| [[aula-02-pronomes-e-verbos-essenciais\|Aula 02 — Pronomes Pessoais e o Verbo Είμαι (Ser/Estar)]] | 14/09/2026 |
+| [[aula-03-numeros-e-apresentacao-pessoal\|Aula 03 — Números, Artigos Determinados e Autoapresentação]] | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
 -  [[02-areas/academico/idiomas/grego/anotacoes/atividades/atividades-grego|Acessar Caderno de Atividades de Grego]]

@@ -2,7 +2,7 @@
 publish: false
 title: 'Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos'
 created: 2026-07-25 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -18,7 +18,7 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Distribuição de metalicidade em halo e bojo, a separação química disco fino/espesso
   no diagrama [α/Fe]-[Fe/H], razões de abundância como diagnóstico de enriquecimento
   e a identificação de estrelas capturadas de galáxias satélites
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

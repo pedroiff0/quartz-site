@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Hub — Eletiva V
 created: '2026-08-24 12:00:00-03:00'
 modified: 2026-10-01T20:14:35-03:00

@@ -1,0 +1,155 @@
+/* Header-Styles.css - Hardcore Life Vault */
+/* Titulos H1 a H6 em tamanhos decrescentes, cores distintas e centralizados (Leitura e Live Preview) */
+
+body, .theme-dark, .theme-light {
+  --h1-size: 1.85rem !important;
+  --h2-size: 1.5rem !important;
+  --h3-size: 1.25rem !important;
+  --h4-size: 1.1rem !important;
+  --h5-size: 0.95rem !important;
+  --h6-size: 0.85rem !important;
+
+  --h1-color: #e06c75 !important; /* Coral Red */
+  --h2-color: #61afef !important; /* Sky Blue */
+  --h3-color: #98c379 !important; /* Emerald Green */
+  --h4-color: #e5c07b !important; /* Golden Amber */
+  --h5-color: #c678dd !important; /* Lavender Purple */
+  --h6-color: #abb2bf !important; /* Muted Slate */
+}
+
+/* --- H1 --- */
+.markdown-rendered h1,
+.markdown-preview-view h1,
+.cm-line.HyperMD-header-1,
+.HyperMD-header-1 {
+  text-align: center !important;
+  color: #e06c75 !important;
+  font-size: var(--h1-size) !important;
+  font-weight: 700 !important;
+  margin-top: 1.4rem !important;
+  margin-bottom: 0.8rem !important;
+}
+.cm-header-1 {
+  font-size: var(--h1-size) !important;
+  color: #e06c75 !important;
+}
+.cm-line.HyperMD-header-1 *,
+.HyperMD-header-1 * {
+  color: #e06c75 !important;
+}
+
+/* --- H2 --- */
+.markdown-rendered h2,
+.markdown-preview-view h2,
+.cm-line.HyperMD-header-2,
+.HyperMD-header-2 {
+  text-align: center !important;
+  color: #61afef !important;
+  font-size: var(--h2-size) !important;
+  font-weight: 650 !important;
+  margin-top: 1.2rem !important;
+  margin-bottom: 0.6rem !important;
+}
+.cm-header-2 {
+  font-size: var(--h2-size) !important;
+  color: #61afef !important;
+}
+.cm-line.HyperMD-header-2 *,
+.HyperMD-header-2 * {
+  color: #61afef !important;
+}
+
+/* --- H3 --- */
+.markdown-rendered h3,
+.markdown-preview-view h3,
+.cm-line.HyperMD-header-3,
+.HyperMD-header-3 {
+  text-align: center !important;
+  color: #98c379 !important;
+  font-size: var(--h3-size) !important;
+  font-weight: 600 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important;
+}
+.cm-header-3 {
+  font-size: var(--h3-size) !important;
+  color: #98c379 !important;
+}
+.cm-line.HyperMD-header-3 *,
+.HyperMD-header-3 * {
+  color: #98c379 !important;
+}
+
+/* --- H4 --- */
+.markdown-rendered h4,
+.markdown-preview-view h4,
+.cm-line.HyperMD-header-4,
+.HyperMD-header-4 {
+  text-align: center !important;
+  color: #e5c07b !important;
+  font-size: var(--h4-size) !important;
+  font-weight: 600 !important;
+  margin-top: 0.8rem !important;
+  margin-bottom: 0.4rem !important;
+}
+.cm-header-4 {
+  font-size: var(--h4-size) !important;
+  color: #e5c07b !important;
+}
+.cm-line.HyperMD-header-4 *,
+.HyperMD-header-4 * {
+  color: #e5c07b !important;
+}
+
+/* --- H5 --- */
+.markdown-rendered h5,
+.markdown-preview-view h5,
+.cm-line.HyperMD-header-5,
+.HyperMD-header-5 {
+  text-align: center !important;
+  color: #c678dd !important;
+  font-size: var(--h5-size) !important;
+  font-weight: 600 !important;
+  margin-top: 0.7rem !important;
+  margin-bottom: 0.3rem !important;
+}
+.cm-header-5 {
+  font-size: var(--h5-size) !important;
+  color: #c678dd !important;
+}
+.cm-line.HyperMD-header-5 *,
+.HyperMD-header-5 * {
+  color: #c678dd !important;
+}
+
+/* --- H6 --- */
+.markdown-rendered h6,
+.markdown-preview-view h6,
+.cm-line.HyperMD-header-6,
+.HyperMD-header-6 {
+  text-align: center !important;
+  color: #abb2bf !important;
+  font-size: var(--h6-size) !important;
+  font-weight: 500 !important;
+  margin-top: 0.6rem !important;
+  margin-bottom: 0.3rem !important;
+}
+.cm-header-6 {
+  font-size: var(--h6-size) !important;
+  color: #abb2bf !important;
+}
+.cm-line.HyperMD-header-6 *,
+.HyperMD-header-6 * {
+  color: #abb2bf !important;
+}
+
+/* Titulos, Cabecalhos e Links dentro de Listas: Rigorosamente a Esquerda */
+.HyperMD-list-line,
+.HyperMD-list-line .cm-header-1,
+.HyperMD-list-line .cm-header-2,
+.HyperMD-list-line .cm-header-3,
+.HyperMD-list-line .cm-header-4,
+.HyperMD-list-line .cm-header-5,
+.HyperMD-list-line .cm-header-6 {
+  text-align: left !important;
+}

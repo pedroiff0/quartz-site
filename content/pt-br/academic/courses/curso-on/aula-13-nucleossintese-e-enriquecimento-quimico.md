@@ -2,7 +2,7 @@
 publish: false
 title: Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 created: 2026-07-25 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -18,7 +18,7 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Nucleossíntese primordial (BBN) e estelar — queima de H/He, dragagens, processos
   alfa/e/s/i/r/p/x/neutrino —, números mágicos e o efeito da metalicidade na formação
   estelar
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

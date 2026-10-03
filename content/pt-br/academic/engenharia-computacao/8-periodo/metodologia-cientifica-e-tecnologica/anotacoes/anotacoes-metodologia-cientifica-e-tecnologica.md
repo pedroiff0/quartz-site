@@ -2,7 +2,7 @@
 publish: true
 title: Anotações — Metodologia Cientifica E Tecnologica
 created: 2026-08-24 21:03
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula
@@ -30,3 +30,4 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[anotacoes-metodologia-cientifica-e-tecnologica\|Anotações — Metodologia Cientifica E Tecnologica]] | 24/08/2026 |
+| [[aula-01-deteccao-de-anomalias-em-estrelas\|Aula 01 - Detecção de Anomalias em Estrelas]] | 06/04/2026 |

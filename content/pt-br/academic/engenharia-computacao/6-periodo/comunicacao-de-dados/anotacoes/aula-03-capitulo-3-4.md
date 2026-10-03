@@ -2,7 +2,7 @@
 publish: true
 title: Aula 03 - Capítulo 3.4
 created: 2026-09-09 16:58
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula

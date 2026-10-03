@@ -123,7 +123,7 @@ function initMermaid() {
                  document.documentElement.getAttribute("data-theme") === "dark";
   const theme = isDark ? "dark" : "default";
 
-  const codeBlocks = Array.from(document.querySelectorAll("pre > code.language-mermaid, pre.mermaid, div.mermaid, .language-mermaid"));
+  const codeBlocks = Array.from(document.querySelectorAll("pre > code.language-mermaid, pre.mermaid, div.mermaid, .language-mermaid, code.mermaid, .mermaid"));
   if (codeBlocks.length === 0) return;
 
   function run() {

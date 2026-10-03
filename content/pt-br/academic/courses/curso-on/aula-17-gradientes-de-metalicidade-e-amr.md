@@ -2,7 +2,7 @@
 publish: false
 title: Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade
 created: 2026-07-25 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -19,7 +19,7 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Gradientes radiais e verticais de metalicidade no disco, bojo e halo, migração
   radial (blurring e churning), gradientes extragalácticos, e o problema histórico
   da relação idade-metalicidade (AMR)
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

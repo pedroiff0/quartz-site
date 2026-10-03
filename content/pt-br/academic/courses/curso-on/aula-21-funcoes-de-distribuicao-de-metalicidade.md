@@ -2,7 +2,7 @@
 publish: false
 title: Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites
 created: 2026-07-25 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -20,7 +20,7 @@ content: O Grupo Local como laboratório de evolução química, a função de d
   de metalicidade (MDF) como registro fóssil de formação estelar e acréscimo, modelos
   químicos com infall/outflow, e as dificuldades práticas (número de objetos, completeza,
   fotometria vs. espectroscopia) de medir uma MDF
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

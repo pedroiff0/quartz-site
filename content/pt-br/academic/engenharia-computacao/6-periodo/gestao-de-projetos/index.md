@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Gestão de Projetos
 created: '2026-08-22 12:00:00-03:00'
 modified: 2026-10-01T20:14:35-03:00

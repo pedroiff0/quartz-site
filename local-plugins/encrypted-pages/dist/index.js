@@ -79,16 +79,16 @@ function resolvePassword(frontmatter, passwordField, filePath) {
   const isProtected = pw === true || enc === true || frontmatter.protected === true;
   if (isProtected) {
     const p = (filePath || "").toLowerCase();
-    if (p.includes("latex") || p.includes("escrita") || p.includes("relatex") || p.includes("modeloslatex")) {
-      return process.env.PASSWORD_LATEX || getBuildFallbackPassword();
+    if (p.includes("latex") || p.includes("escrita") || p.includes("relatex") || p.includes("modeloslatex") || p.includes("modelos-latex")) {
+      return process.env.PASSWORD_LATEX || "latex271";
     }
     if (p.includes("curso-on") || p.includes("cursoon") || p.includes("astronomia") || p.includes("arqueologia") || p.includes("escolainverno") || p.includes("escola-de-inverno") || p.includes("escola")) {
-      return process.env.PASSWORD_CURSO_ON || getBuildFallbackPassword();
+      return process.env.PASSWORD_CURSO_ON || "on2026";
     }
-    if (p.includes("engenharia") || p.includes("engcomp") || p.includes("periodo") || p.includes("disciplina")) {
-      return process.env.PASSWORD_ENGENHARIA || process.env.QUARTZ_ENCRYPT_PASSWORD || getBuildFallbackPassword();
+    if (p.includes("engenharia") || p.includes("engcomp") || p.includes("periodo") || p.includes("disciplina") || p.includes("academic/engenharia-computacao")) {
+      return process.env.PASSWORD_ENGENHARIA || "eng232";
     }
-    return process.env.PASSWORD_DEFAULT || process.env.QUARTZ_ENCRYPT_PASSWORD || getBuildFallbackPassword();
+    return process.env.PASSWORD_DEFAULT || "409182";
   }
 
   return null;

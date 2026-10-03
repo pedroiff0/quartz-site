@@ -2,7 +2,7 @@
 publish: false
 title: Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
 created: 2026-07-25 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -19,7 +19,7 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Aula prática (galpy) — pericentro/apocentro de galáxias satélites, comparação
   entre potenciais, a Grande Nuvem de Magalhães como perturbador em referencial não
   inercial, e ressonâncias orbitais na barra galáctica (corrotação e OLR)
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

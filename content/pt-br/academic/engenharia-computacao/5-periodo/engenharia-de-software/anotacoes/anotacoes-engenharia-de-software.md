@@ -2,7 +2,7 @@
 publish: true
 title: Anotações — Engenharia De Software
 created: 2026-08-24 21:03
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula
@@ -29,4 +29,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[260326-aula-intro-1\|260326-Aula-Intro-1]] | 26/03/2026 |
 | [[anotacoes-engenharia-de-software\|Anotações — Engenharia De Software]] | 24/08/2026 |

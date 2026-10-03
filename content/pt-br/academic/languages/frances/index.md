@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Francês
 status: ativo
 created: 2026-09-14 11:54

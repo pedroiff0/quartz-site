@@ -2,7 +2,7 @@
 publish: true
 title: Aula 01 - Apresentação SO
 created: 2026-09-03 13:28
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula

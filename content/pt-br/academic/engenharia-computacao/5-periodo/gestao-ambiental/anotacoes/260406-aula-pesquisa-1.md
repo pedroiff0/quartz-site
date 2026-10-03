@@ -2,7 +2,7 @@
 publish: true
 title: 260406-Aula-Pesquisa-1
 created: 2026-04-06 14:49
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula

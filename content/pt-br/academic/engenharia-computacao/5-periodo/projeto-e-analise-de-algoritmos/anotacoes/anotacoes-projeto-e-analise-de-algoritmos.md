@@ -2,7 +2,7 @@
 publish: true
 title: Anotações — Projeto E Analise De Algoritmos
 created: 2026-08-24 21:03
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula
@@ -31,3 +31,5 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 | :--- | :---: |
 | [[anotacoes-projeto-e-analise-de-algoritmos\|Anotações — Projeto E Analise De Algoritmos]] | 24/08/2026 |
 | [[atividade-01-atividades-abril-ordenacao-e-hash\|Atividade 01 - Atividades Abril - Ordenação e Hash]] | 13/04/2026 |
+| [[aula-01-comparacao-de-funcoes-de-tempo\|Aula 01 - Comparação de Funções de Tempo]] | 11/06/2026 |
+| [[prova-01-revisao-prova-algoritmos\|Prova 01 - Revisão Prova - Algoritmos]] | 18/06/2026 |

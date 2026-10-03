@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: 6º Período
 created: '2026-07-21 12:00:00-03:00'
 modified: 2026-10-01T20:14:35-03:00

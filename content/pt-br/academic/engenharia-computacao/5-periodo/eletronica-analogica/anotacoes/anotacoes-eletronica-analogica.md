@@ -2,7 +2,7 @@
 publish: true
 title: Anotações — Eletronica Analogica
 created: 2026-08-24 21:03
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula
@@ -29,4 +29,6 @@ Este repositório consolida as anotações detalhadas de quadro, exercícios e m
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
+| [[260324-aula-aula01-1\|260324-Aula-Aula01-1]] | 24/03/2026 |
 | [[anotacoes-eletronica-analogica\|Anotações — Eletronica Analogica]] | 24/08/2026 |
+| [[aula-01-diodos\|Aula 01 - Diodos]] | 05/04/2026 |

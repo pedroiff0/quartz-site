@@ -2,7 +2,7 @@
 publish: true
 title: Sobre Mim
 created: '2026-07-18 20:34:00-03:00'
-modified: '2026-10-03T10:20:00-03:00'
+modified: '2026-10-03T11:43:00-03:00'
 tags:
 - pessoal
 cssclasses:

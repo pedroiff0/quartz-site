@@ -26,6 +26,9 @@ aliases:
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[anotacoes-alemao\|Anotações — Alemão]] | 14/09/2026 |
+| [[aula-01-alfabeto-fonetica-e-saudacoes\|Aula 01 — Alfabeto, Umlauts (Ä, Ö, Ü), Eszett (ß) e Saudações]] | 14/09/2026 |
+| [[aula-02-pronomes-e-verbos-essenciais\|Aula 02 — Pronomes Pessoais e Verbos Sein e Haben]] | 14/09/2026 |
+| [[aula-03-numeros-e-apresentacao-pessoal\|Aula 03 — Números, Gêneros Gramaticais (Der, Die, Das) e Apresentação]] | 14/09/2026 |
 
 ## Caderno de Atividades & Exercícios
 -  [[02-areas/academico/idiomas/alemao/anotacoes/atividades/atividades-alemao|Acessar Caderno de Atividades de Alemão]]

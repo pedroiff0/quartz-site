@@ -2,7 +2,7 @@
 publish: false
 title: Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo
 created: 2026-07-25 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -19,7 +19,7 @@ content: Cronologia da evolução galáctica (parte 2) — o mecanismo da fusão
   sua assinatura cinemática ("Sausage"), a conexão com ω Centauri, sobredensidades
   do halo interno, correntes estelares (Sagitário) e sobredensidades próximas ao plano
   (Monoceros, TriAnd)
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

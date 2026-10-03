@@ -2,7 +2,7 @@
 publish: false
 title: Atividades, Trabalhos & Provas — Eletronica Digital
 created: 2026-08-29 11:58
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - atividade
 - trabalho
@@ -25,6 +25,7 @@ Repositório de **trabalhos práticos, seminários, listas de exercícios e rela
 
 | Atividade / Trabalho | Data |
 | :--- | :---: |
+| [[atividade-1-prova\|Aula 04]] | 14/09/2026 |
 | [[atividades-eletronica-digital\|Atividades, Trabalhos & Provas — Eletronica Digital]] | 29/08/2026 |
 
 ---

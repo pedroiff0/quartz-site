@@ -1,0 +1,43 @@
+/* ==========================================================================
+   CyanVoxel's General Tweaks — hardcore-life vault (Minimalista)
+   ========================================================================== */
+
+.theme-light,
+.theme-dark {
+  --link-decoration: none;
+}
+
+/* Imagens contidas e centralizadas (exceto em links, listas e ícones) */
+.center-images .image-embed img,
+.center-images .markdown-rendered > p > img,
+.center-images .cm-line:not(.HyperMD-list-line) > .image-embed img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.center-images :is(.HyperMD-list-line, li, a, .internal-link, .iconize-icon, .iconize-icon-in-link) img {
+  display: inline !important;
+  margin: 0 !important;
+  vertical-align: middle !important;
+}
+
+.image-borders img {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 4px;
+}
+
+.no-embed-border {
+  --embed-border-left: 0px solid transparent !important;
+}
+
+/* Tipografia de código inline */
+code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.9em;
+}

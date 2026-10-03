@@ -1,0 +1,573 @@
+/* ==========================================================================
+   Folder-Colors.css — Cores de Diretórios e Subdiretórios na Sidebar (File Explorer)
+   hardcore-life vault
+   ========================================================================== */
+
+/* ── TEMA CLARO: Cores Harmonizadas (Vanilla Paper & Toffee) ── */
+.theme-light {
+  --folder-00: #2a9d8f; /* Menta / Mapa */
+  --folder-01: #2563eb; /* Azul Vibrante / Projetos */
+  --folder-02: #0284c7; /* Azul Céu / Áreas */
+  --folder-03: #7c3aed; /* Violeta / Mídia */
+  --folder-04: #d97706; /* Âmbar / Recursos */
+  --folder-05: #e11d48; /* Rosa Carmesim / Inbox */
+  --folder-06: #ea580c; /* Laranja Shiba / Diário */
+  --folder-07: #4f46e5; /* Índigo / Permanente */
+  --folder-08: #57534e; /* Madeira / Arquivos */
+  --folder-09: #0891b2; /* Ciano / Agentes */
+  --folder-99: #64748b; /* Cinza Neutro / Meta */
+}
+
+/* ── TEMA ESCURO: Cores Harmonizadas (Vanilla Noir & Glowing Honey) ── */
+.theme-dark {
+  --folder-00: #4ec2be; /* Ciano Menta / Mapa */
+  --folder-01: #60a5fa; /* Azul Vibrante / Projetos */
+  --folder-02: #38bdf8; /* Azul Celeste / Áreas */
+  --folder-03: #c084fc; /* Lavanda Violeta / Mídia */
+  --folder-04: #fbbf24; /* Âmbar Dourado / Recursos */
+  --folder-05: #fb7185; /* Rosa / Inbox */
+  --folder-06: #f97316; /* Laranja Shiba / Diário */
+  --folder-07: #818cf8; /* Índigo / Permanente */
+  --folder-08: #a8a29e; /* Ardósia Quente / Arquivos */
+  --folder-09: #22d3ee; /* Ciano Elétrico / Agentes */
+  --folder-99: #94a3b8; /* Prata Creme / Meta */
+}
+
+/* Espaçamento e alinhamento dos ícones das pastas */
+.nav-folder-title .icon-folder-icon,
+.nav-file-title .icon-folder-icon,
+.tree-item-self .icon-folder-icon,
+.nav-folder-title .iconize-icon,
+.tree-item-self .iconize-icon {
+  margin-right: 6px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+}
+
+/* ── 00-mapa ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="00"] > .nav-folder-title,
+  [data-path^="00"] > .tree-item-self,
+  .nav-folder[data-path^="00"] .nav-folder-title,
+  .tree-item[data-path^="00"] .tree-item-self,
+  .nav-folder-title[data-path^="00"],
+  .tree-item-self[data-path^="00"]
+) {
+  color: var(--folder-00) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="00"] > .nav-folder-title,
+  [data-path^="00"] > .tree-item-self,
+  .nav-folder[data-path^="00"] .nav-folder-title,
+  .tree-item[data-path^="00"] .tree-item-self,
+  .nav-folder-title[data-path^="00"],
+  .tree-item-self[data-path^="00"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-00) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="00"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="00"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-00) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="00"] > .nav-folder-title,
+  [data-path^="00"] > .tree-item-self,
+  .nav-folder[data-path^="00"] .nav-folder-title,
+  .tree-item[data-path^="00"] .tree-item-self,
+  .nav-folder-title[data-path^="00"],
+  .tree-item-self[data-path^="00"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-00) !important;
+  stroke: var(--folder-00) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="00"] .nav-folder-title:hover,
+  .tree-item[data-path^="00"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-00) 12%, transparent) !important;
+}
+
+/* ── 01-projetos ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="01"] > .nav-folder-title,
+  [data-path^="01"] > .tree-item-self,
+  .nav-folder[data-path^="01"] .nav-folder-title,
+  .tree-item[data-path^="01"] .tree-item-self,
+  .nav-folder-title[data-path^="01"],
+  .tree-item-self[data-path^="01"]
+) {
+  color: var(--folder-01) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="01"] > .nav-folder-title,
+  [data-path^="01"] > .tree-item-self,
+  .nav-folder[data-path^="01"] .nav-folder-title,
+  .tree-item[data-path^="01"] .tree-item-self,
+  .nav-folder-title[data-path^="01"],
+  .tree-item-self[data-path^="01"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-01) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="01"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="01"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-01) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="01"] > .nav-folder-title,
+  [data-path^="01"] > .tree-item-self,
+  .nav-folder[data-path^="01"] .nav-folder-title,
+  .tree-item[data-path^="01"] .tree-item-self,
+  .nav-folder-title[data-path^="01"],
+  .tree-item-self[data-path^="01"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-01) !important;
+  stroke: var(--folder-01) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="01"] .nav-folder-title:hover,
+  .tree-item[data-path^="01"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-01) 12%, transparent) !important;
+}
+
+/* ── 02-areas ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="02"] > .nav-folder-title,
+  [data-path^="02"] > .tree-item-self,
+  .nav-folder[data-path^="02"] .nav-folder-title,
+  .tree-item[data-path^="02"] .tree-item-self,
+  .nav-folder-title[data-path^="02"],
+  .tree-item-self[data-path^="02"]
+) {
+  color: var(--folder-02) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="02"] > .nav-folder-title,
+  [data-path^="02"] > .tree-item-self,
+  .nav-folder[data-path^="02"] .nav-folder-title,
+  .tree-item[data-path^="02"] .tree-item-self,
+  .nav-folder-title[data-path^="02"],
+  .tree-item-self[data-path^="02"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-02) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="02"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="02"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-02) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="02"] > .nav-folder-title,
+  [data-path^="02"] > .tree-item-self,
+  .nav-folder[data-path^="02"] .nav-folder-title,
+  .tree-item[data-path^="02"] .tree-item-self,
+  .nav-folder-title[data-path^="02"],
+  .tree-item-self[data-path^="02"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-02) !important;
+  stroke: var(--folder-02) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="02"] .nav-folder-title:hover,
+  .tree-item[data-path^="02"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-02) 12%, transparent) !important;
+}
+
+/* ── 03-midia ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="03"] > .nav-folder-title,
+  [data-path^="03"] > .tree-item-self,
+  .nav-folder[data-path^="03"] .nav-folder-title,
+  .tree-item[data-path^="03"] .tree-item-self,
+  .nav-folder-title[data-path^="03"],
+  .tree-item-self[data-path^="03"]
+) {
+  color: var(--folder-03) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="03"] > .nav-folder-title,
+  [data-path^="03"] > .tree-item-self,
+  .nav-folder[data-path^="03"] .nav-folder-title,
+  .tree-item[data-path^="03"] .tree-item-self,
+  .nav-folder-title[data-path^="03"],
+  .tree-item-self[data-path^="03"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-03) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="03"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="03"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-03) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="03"] > .nav-folder-title,
+  [data-path^="03"] > .tree-item-self,
+  .nav-folder[data-path^="03"] .nav-folder-title,
+  .tree-item[data-path^="03"] .tree-item-self,
+  .nav-folder-title[data-path^="03"],
+  .tree-item-self[data-path^="03"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-03) !important;
+  stroke: var(--folder-03) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="03"] .nav-folder-title:hover,
+  .tree-item[data-path^="03"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-03) 12%, transparent) !important;
+}
+
+/* ── 04-recursos ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="04"] > .nav-folder-title,
+  [data-path^="04"] > .tree-item-self,
+  .nav-folder[data-path^="04"] .nav-folder-title,
+  .tree-item[data-path^="04"] .tree-item-self,
+  .nav-folder-title[data-path^="04"],
+  .tree-item-self[data-path^="04"]
+) {
+  color: var(--folder-04) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="04"] > .nav-folder-title,
+  [data-path^="04"] > .tree-item-self,
+  .nav-folder[data-path^="04"] .nav-folder-title,
+  .tree-item[data-path^="04"] .tree-item-self,
+  .nav-folder-title[data-path^="04"],
+  .tree-item-self[data-path^="04"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-04) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="04"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="04"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-04) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="04"] > .nav-folder-title,
+  [data-path^="04"] > .tree-item-self,
+  .nav-folder[data-path^="04"] .nav-folder-title,
+  .tree-item[data-path^="04"] .tree-item-self,
+  .nav-folder-title[data-path^="04"],
+  .tree-item-self[data-path^="04"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-04) !important;
+  stroke: var(--folder-04) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="04"] .nav-folder-title:hover,
+  .tree-item[data-path^="04"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-04) 12%, transparent) !important;
+}
+
+/* ── 05-inbox ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="05"] > .nav-folder-title,
+  [data-path^="05"] > .tree-item-self,
+  .nav-folder[data-path^="05"] .nav-folder-title,
+  .tree-item[data-path^="05"] .tree-item-self,
+  .nav-folder-title[data-path^="05"],
+  .tree-item-self[data-path^="05"]
+) {
+  color: var(--folder-05) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="05"] > .nav-folder-title,
+  [data-path^="05"] > .tree-item-self,
+  .nav-folder[data-path^="05"] .nav-folder-title,
+  .tree-item[data-path^="05"] .tree-item-self,
+  .nav-folder-title[data-path^="05"],
+  .tree-item-self[data-path^="05"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-05) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="05"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="05"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-05) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="05"] > .nav-folder-title,
+  [data-path^="05"] > .tree-item-self,
+  .nav-folder[data-path^="05"] .nav-folder-title,
+  .tree-item[data-path^="05"] .tree-item-self,
+  .nav-folder-title[data-path^="05"],
+  .tree-item-self[data-path^="05"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-05) !important;
+  stroke: var(--folder-05) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="05"] .nav-folder-title:hover,
+  .tree-item[data-path^="05"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-05) 12%, transparent) !important;
+}
+
+/* ── 06-diario ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="06"] > .nav-folder-title,
+  [data-path^="06"] > .tree-item-self,
+  .nav-folder[data-path^="06"] .nav-folder-title,
+  .tree-item[data-path^="06"] .tree-item-self,
+  .nav-folder-title[data-path^="06"],
+  .tree-item-self[data-path^="06"]
+) {
+  color: var(--folder-06) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="06"] > .nav-folder-title,
+  [data-path^="06"] > .tree-item-self,
+  .nav-folder[data-path^="06"] .nav-folder-title,
+  .tree-item[data-path^="06"] .tree-item-self,
+  .nav-folder-title[data-path^="06"],
+  .tree-item-self[data-path^="06"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-06) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="06"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="06"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-06) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="06"] > .nav-folder-title,
+  [data-path^="06"] > .tree-item-self,
+  .nav-folder[data-path^="06"] .nav-folder-title,
+  .tree-item[data-path^="06"] .tree-item-self,
+  .nav-folder-title[data-path^="06"],
+  .tree-item-self[data-path^="06"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-06) !important;
+  stroke: var(--folder-06) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="06"] .nav-folder-title:hover,
+  .tree-item[data-path^="06"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-06) 12%, transparent) !important;
+}
+
+/* ── 07-permanente ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="07"] > .nav-folder-title,
+  [data-path^="07"] > .tree-item-self,
+  .nav-folder[data-path^="07"] .nav-folder-title,
+  .tree-item[data-path^="07"] .tree-item-self,
+  .nav-folder-title[data-path^="07"],
+  .tree-item-self[data-path^="07"]
+) {
+  color: var(--folder-07) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="07"] > .nav-folder-title,
+  [data-path^="07"] > .tree-item-self,
+  .nav-folder[data-path^="07"] .nav-folder-title,
+  .tree-item[data-path^="07"] .tree-item-self,
+  .nav-folder-title[data-path^="07"],
+  .tree-item-self[data-path^="07"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-07) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="07"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="07"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-07) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="07"] > .nav-folder-title,
+  [data-path^="07"] > .tree-item-self,
+  .nav-folder[data-path^="07"] .nav-folder-title,
+  .tree-item[data-path^="07"] .tree-item-self,
+  .nav-folder-title[data-path^="07"],
+  .tree-item-self[data-path^="07"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-07) !important;
+  stroke: var(--folder-07) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="07"] .nav-folder-title:hover,
+  .tree-item[data-path^="07"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-07) 12%, transparent) !important;
+}
+
+/* ── 08-arquivos ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="08"] > .nav-folder-title,
+  [data-path^="08"] > .tree-item-self,
+  .nav-folder[data-path^="08"] .nav-folder-title,
+  .tree-item[data-path^="08"] .tree-item-self,
+  .nav-folder-title[data-path^="08"],
+  .tree-item-self[data-path^="08"]
+) {
+  color: var(--folder-08) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="08"] > .nav-folder-title,
+  [data-path^="08"] > .tree-item-self,
+  .nav-folder[data-path^="08"] .nav-folder-title,
+  .tree-item[data-path^="08"] .tree-item-self,
+  .nav-folder-title[data-path^="08"],
+  .tree-item-self[data-path^="08"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-08) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="08"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="08"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-08) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="08"] > .nav-folder-title,
+  [data-path^="08"] > .tree-item-self,
+  .nav-folder[data-path^="08"] .nav-folder-title,
+  .tree-item[data-path^="08"] .tree-item-self,
+  .nav-folder-title[data-path^="08"],
+  .tree-item-self[data-path^="08"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-08) !important;
+  stroke: var(--folder-08) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="08"] .nav-folder-title:hover,
+  .tree-item[data-path^="08"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-08) 12%, transparent) !important;
+}
+
+/* ── 09-agentes ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="09"] > .nav-folder-title,
+  [data-path^="09"] > .tree-item-self,
+  .nav-folder[data-path^="09"] .nav-folder-title,
+  .tree-item[data-path^="09"] .tree-item-self,
+  .nav-folder-title[data-path^="09"],
+  .tree-item-self[data-path^="09"]
+) {
+  color: var(--folder-09) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="09"] > .nav-folder-title,
+  [data-path^="09"] > .tree-item-self,
+  .nav-folder[data-path^="09"] .nav-folder-title,
+  .tree-item[data-path^="09"] .tree-item-self,
+  .nav-folder-title[data-path^="09"],
+  .tree-item-self[data-path^="09"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-09) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="09"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="09"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-09) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="09"] > .nav-folder-title,
+  [data-path^="09"] > .tree-item-self,
+  .nav-folder[data-path^="09"] .nav-folder-title,
+  .tree-item[data-path^="09"] .tree-item-self,
+  .nav-folder-title[data-path^="09"],
+  .tree-item-self[data-path^="09"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-09) !important;
+  stroke: var(--folder-09) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="09"] .nav-folder-title:hover,
+  .tree-item[data-path^="09"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-09) 12%, transparent) !important;
+}
+
+/* ── 99-meta ── */
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="99"] > .nav-folder-title,
+  [data-path^="99"] > .tree-item-self,
+  .nav-folder[data-path^="99"] .nav-folder-title,
+  .tree-item[data-path^="99"] .tree-item-self,
+  .nav-folder-title[data-path^="99"],
+  .tree-item-self[data-path^="99"]
+) {
+  color: var(--folder-99) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="99"] > .nav-folder-title,
+  [data-path^="99"] > .tree-item-self,
+  .nav-folder[data-path^="99"] .nav-folder-title,
+  .tree-item[data-path^="99"] .tree-item-self,
+  .nav-folder-title[data-path^="99"],
+  .tree-item-self[data-path^="99"]
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-99) !important;
+  font-weight: 700 !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="99"] .nav-folder-children .nav-folder-title,
+  .tree-item[data-path^="99"] .tree-item-children .tree-item-self
+) :is(.nav-folder-title-content, .tree-item-inner) {
+  color: var(--folder-99) !important;
+  font-weight: 600 !important;
+  opacity: 0.95;
+}
+:is(.theme-light, .theme-dark) :is(
+  [data-path^="99"] > .nav-folder-title,
+  [data-path^="99"] > .tree-item-self,
+  .nav-folder[data-path^="99"] .nav-folder-title,
+  .tree-item[data-path^="99"] .tree-item-self,
+  .nav-folder-title[data-path^="99"],
+  .tree-item-self[data-path^="99"]
+) :is(.icon-folder-icon, .iconize-icon, .collapse-icon) svg {
+  color: var(--folder-99) !important;
+  stroke: var(--folder-99) !important;
+}
+:is(.theme-light, .theme-dark) :is(
+  .nav-folder[data-path^="99"] .nav-folder-title:hover,
+  .tree-item[data-path^="99"] .tree-item-self:hover
+) {
+  background-color: color-mix(in srgb, var(--folder-99) 12%, transparent) !important;
+}

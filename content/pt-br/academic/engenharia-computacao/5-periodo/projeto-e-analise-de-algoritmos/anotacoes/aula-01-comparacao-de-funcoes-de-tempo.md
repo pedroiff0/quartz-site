@@ -2,7 +2,7 @@
 publish: true
 title: Aula 01 - Comparação de Funções de Tempo
 created: 2026-06-11 14:49
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula

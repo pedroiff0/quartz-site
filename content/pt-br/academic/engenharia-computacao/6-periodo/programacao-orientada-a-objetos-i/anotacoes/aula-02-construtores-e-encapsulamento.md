@@ -2,7 +2,7 @@
 publish: true
 title: Aula 02 - Construtores e Encapsulamento
 created: 2026-09-09 17:03
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula

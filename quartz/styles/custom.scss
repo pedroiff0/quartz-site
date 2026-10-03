@@ -1,5 +1,15 @@
 @use "./variables.scss" as *;
 
+// Hardcore-life vault CSS snippets
+@use "./hardcore-life/cyanvoxels-general-tweaks.scss";
+@use "./hardcore-life/dashboard-cards.scss";
+@use "./hardcore-life/folder-colors.scss";
+@use "./hardcore-life/header-styles.scss";
+@use "./hardcore-life/kanban-tweaks.scss";
+@use "./hardcore-life/layout-tweaks.scss";
+@import "./hardcore-life/table-styles.scss";
+
+
 // Largura do corpo um pouco maior: colunas de conteúdo mais perto das bordas,
 // mantendo margem de segurança (~110px de cada lado em telas 1920px).
 // Base do fork: .page { max-width: calc(desktop + 300px) } = 1500px.

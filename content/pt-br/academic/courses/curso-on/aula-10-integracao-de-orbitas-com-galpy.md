@@ -2,7 +2,7 @@
 publish: false
 title: Aula 10 — Integração de Órbitas com galpy
 created: 2026-07-25 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -19,7 +19,7 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Aula prática (Google Colab/galpy) — construir potenciais galácticos, obter
   dados do Gaia via SQL/TAP, integrar órbitas estelares com incertezas por Monte Carlo,
   e simular o efeito de fricção dinâmica de um satélite (Sagitário) sobre o disco
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

@@ -1,0 +1,103 @@
+/* ==========================================================================
+   KANBAN TWEAKS — hardcore-life vault (Minimalista)
+   ========================================================================== */
+
+.kanban-plugin {
+  font-family: var(--font-interface);
+  --lane-gap: 12px;
+  --card-radius: 6px;
+  --lane-radius: 8px;
+}
+
+/* Colunas do Kanban */
+.kanban-plugin__lane {
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--lane-radius);
+  padding: 10px 8px;
+}
+
+/* Cabeçalho da coluna */
+.kanban-plugin__lane-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 6px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.kanban-plugin__lane-title {
+  font-weight: 600;
+  font-size: 13.5px;
+  color: var(--text-normal);
+}
+
+.kanban-plugin__lane-title-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 18px;
+  padding: 0 5px;
+  border-radius: 9px;
+  background-color: var(--background-modifier-form-field);
+  color: var(--text-muted);
+  font-size: 11px;
+}
+
+/* Cartões (Cards) */
+.kanban-plugin__item {
+  background-color: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--card-radius);
+  padding: 8px 10px;
+  margin-bottom: 6px;
+  transition: border-color 0.15s ease;
+}
+
+.kanban-plugin__item:hover {
+  border-color: var(--interactive-accent);
+}
+
+.kanban-plugin__item-content {
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--text-normal);
+}
+
+.kanban-plugin__item-content a.internal-link {
+  font-weight: 500;
+  color: var(--text-accent);
+  text-decoration: none;
+}
+
+/* Cartões Concluídos */
+.kanban-plugin__item.is-complete {
+  opacity: 0.6;
+}
+
+.kanban-plugin__item.is-complete .kanban-plugin__item-content {
+  text-decoration: line-through;
+  color: var(--text-faint);
+}
+
+/* Rodapé do cartão: Tags */
+.kanban-plugin__item-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.kanban-plugin__item-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 1px 6px;
+  font-size: 10.5px;
+  border-radius: 4px;
+  text-decoration: none !important;
+  color: var(--text-muted) !important;
+  background-color: var(--background-modifier-form-field) !important;
+  border: 1px solid var(--background-modifier-border);
+}

@@ -28,5 +28,4 @@ sitesync: true
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[anotacoes-calculo-ii-2\|Anotações — Calculo Ii 2]] | 24/08/2026 |
 | [[calculo-ii\|Cálculo II]] | 24/08/2026 |

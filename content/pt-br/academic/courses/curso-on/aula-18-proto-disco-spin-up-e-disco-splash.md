@@ -2,7 +2,7 @@
 publish: false
 title: Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
 created: 2026-07-25 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -19,7 +19,7 @@ content: Cronologia da evolução galáctica (parte 1) — do pipeline observaci
   parâmetros orbitais, a Via Láctea proto-galáctica (Kraken, Heracles, Aurora e outras
   candidatas), o disco primordial em z~3, o spin-up do disco e o disco "splash" aquecido
   pela fusão GSE
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

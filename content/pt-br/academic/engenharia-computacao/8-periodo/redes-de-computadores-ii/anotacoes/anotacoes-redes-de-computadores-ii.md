@@ -2,7 +2,7 @@
 publish: true
 title: Anotações — Redes De Computadores Ii
 created: 2026-08-24 21:03
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - aula

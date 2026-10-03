@@ -2,7 +2,7 @@
 publish: false
 title: Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica
 created: 2026-07-25 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -19,7 +19,7 @@ discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacio
 content: Aula prática (APOGEE DR19) — excentricidade, pericentro/apocentro, diagrama
   de Toomre, o espaço (E, Lz) e o "diamante" de ações (JR, Jz, Lz) para separar populações
   estelares e identificar acréscimos
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

@@ -1,0 +1,660 @@
+/* ==========================================================================
+   LAYOUT TWEAKS — hardcore-life vault (Minimalista)
+   1. Contenção e centralização de figuras do plugin PDF++
+   2. Alinhamento de títulos e ícones de callout
+   ========================================================================== */
+
+/* 1. PDF++ & Contenção de Figuras */
+body {
+  --container-pdf-cropped-width: fit-content !important;
+  --container-pdf-cropped-max-width: min(100%, 720px) !important;
+}
+
+.internal-embed.pdf-cropped-embed {
+  display: block !important;
+  width: fit-content !important;
+  max-width: min(100%, 720px) !important;
+  margin: 1rem auto !important;
+  padding: 2px !important;
+  border-radius: 6px !important;
+  overflow: hidden !important;
+  border: 1px solid var(--background-modifier-border) !important;
+  background-color: var(--background-secondary) !important;
+  text-align: center !important;
+}
+
+.internal-embed.pdf-cropped-embed img,
+.internal-embed.pdf-cropped-embed canvas,
+.popover.hover-popover > .pdf-cropped-embed img {
+  display: block !important;
+  max-width: 100% !important;
+  max-height: 500px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+  margin: 0 auto !important;
+  border-radius: 4px !important;
+}
+
+.internal-embed[src*=".pdf"]:not(.pdf-cropped-embed) {
+  max-height: 560px !important;
+  max-width: min(100%, 820px) !important;
+  margin: 1rem auto !important;
+  border-radius: 6px !important;
+  overflow: hidden !important;
+  border: 1px solid var(--background-modifier-border) !important;
+}
+
+/* ==========================================================================
+   2. CENTRALIZAÇÃO PADRÃO GLOBAL DO VAULT
+   Imagens, Mermaid, Dataview, Tabelas, Códigos, Equações e Callouts
+   * O TEXTO NUNCA É CENTRALIZADO (SEMPRE À ESQUERDA) *
+   ========================================================================== */
+
+/* 2.0 Texto e Parágrafos: Alinhamento natural à esquerda (Padrão Nativo do Obsidian para Listas) */
+.markdown-rendered p,
+.markdown-preview-view p,
+.markdown-source-view.mod-cm6 .cm-line:not([class*="HyperMD-header"]) {
+  text-align: left;
+}
+
+/* Garante que o editor CodeMirror 6 ocupe 100% da largura do painel sem encolher */
+.markdown-source-view.mod-cm6 {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: stretch !important;
+  width: 100% !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-editor,
+.markdown-source-view.mod-cm6 .cm-scroller {
+  width: 100% !important;
+  max-width: 100% !important;
+  align-items: stretch !important;
+}
+
+/* Ícones de Links (obsidian-icon-folder) mantidos estritamente inline para não quebrar fluxo */
+.iconize-icon-in-link {
+  display: inline-flex !important;
+  vertical-align: middle !important;
+  margin-right: 4px !important;
+}
+
+.iconize-icon-in-link svg,
+.iconize-icon-in-link img {
+  display: inline !important;
+  width: auto !important;
+  height: 1.1em !important;
+  max-height: 1.2em !important;
+  vertical-align: middle !important;
+  object-fit: contain !important;
+}
+
+/* 2.1 Imagens centralizadas por padrão (Apenas Blocos de Imagem e Embeds Reais) */
+.image-embed,
+.markdown-rendered .image-embed,
+.markdown-preview-view .image-embed {
+  display: block !important;
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.image-embed img,
+.markdown-preview-view .image-embed img,
+.markdown-rendered .image-embed img,
+.markdown-source-view.mod-cm6 .image-embed img,
+.markdown-source-view.mod-cm6 .cm-line:not(.HyperMD-list-line):not(.HyperMD-callout) > .image-embed img {
+  max-width: min(100%, 780px) !important;
+  max-height: 520px;
+  height: auto;
+  object-fit: contain;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* SVG responsivo (com exceção explícita de ícones inline) */
+svg:not(.svg-icon):not(.iconize-icon-in-link svg):not(.iconize-icon svg) {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+/* 2.2 Diagramas Mermaid centralizados por padrão */
+.block-language-mermaid,
+.mermaid,
+.markdown-rendered .mermaid {
+  display: block !important;
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
+
+.mermaid svg,
+.block-language-mermaid svg {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 100% !important;
+}
+
+/* 2.3 Tabelas (Markdown nativo e Dataview) centralizadas por padrão */
+table,
+.table-view-table,
+table.dataview,
+.dataview-container table,
+.markdown-rendered table {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Centralização de Tabelas no Live Preview (Modo Edição) */
+.cm-embed-block:not(.HyperMD-list-line):has(.cm-table-widget),
+.cm-embed-block:not(.HyperMD-list-line):has(table) {
+  display: flex !important;
+  justify-content: center !important;
+  width: 100% !important;
+}
+
+.cm-table-widget {
+  margin: 0.5rem auto !important;
+  width: fit-content !important;
+  max-width: 100% !important;
+}
+
+table td, table th {
+  text-align: left;
+}
+
+.dataview-container,
+.block-language-dataview,
+.block-language-dataviewjs {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: fit-content !important;
+  max-width: 100% !important;
+}
+
+/* 2.4 Blocos de Código centralizados por padrão */
+.markdown-rendered pre,
+.markdown-preview-view pre,
+.markdown-source-view.mod-cm6 pre {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: min(100%, 860px) !important;
+  text-align: left !important;
+}
+
+/* 2.5 Equações e Math KaTeX:
+       - Display Math ($$...$$): BLOCO CENTRALIZADO
+       - Inline Math ($...$): ESTRITAMENTE INLINE (NUNCA BLOCO, NUNCA CENTRALIZADO) */
+.markdown-rendered .math-block:not(.math-inline),
+.markdown-rendered .math-display,
+.markdown-rendered .katex-display,
+.cm-embed-block:not(.HyperMD-list-line):has(.math-block),
+.cm-embed-block.cm-math-block:not(.HyperMD-list-line),
+.markdown-source-view.mod-cm6 .cm-line:not(.HyperMD-list-line):has(> .math-block:only-child) {
+  display: flex !important;
+  justify-content: center !important;
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
+
+.katex-display {
+  display: block !important;
+  text-align: center !important;
+  margin: 0.6rem auto !important;
+}
+
+.katex-display > .katex {
+  text-align: center !important;
+  margin: 0 auto !important;
+}
+
+/* Inline Math KaTeX ($...$): JAMAIS bloco, NUNCA quebra linha, sempre alinhado ao texto corrente */
+.math-inline,
+.math.math-inline,
+.cm-line .math-inline,
+.cm-line span.math:not(.math-block),
+span.math-inline,
+.HyperMD-list-line span.math,
+.HyperMD-list-line .katex {
+  display: inline !important;
+  text-align: inherit !important;
+  width: auto !important;
+  margin: 0 !important;
+  vertical-align: baseline !important;
+}
+
+/* 2.6 Blocos Callouts: Ajuste à largura máxima do body do Obsidian (inclusive colapsáveis), Texto INTERNO estritamente JUSTIFICADO */
+/* Contêiner externo no Live Preview (CodeMirror 6) */
+.cm-callout,
+.cm-embed-block:has(.callout),
+.markdown-source-view.mod-cm6 .cm-callout,
+.markdown-source-view.mod-cm6 .cm-embed-block:has(.callout) {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* O bloco .callout em si (Live Preview, Reading View, normais e colapsáveis) */
+.callout,
+.callout.is-collapsible,
+.callout.is-collapsed,
+.markdown-rendered .callout,
+.markdown-preview-view .callout,
+.cm-callout > .callout,
+.cm-embed-block > .callout,
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-callout {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* Callouts aninhados ocupam 100% do callout pai */
+.callout-content .callout {
+  margin: 1rem 0 !important;
+  max-width: 100% !important;
+}
+
+/* Conteúdo interno do Callout: texto rigorosamente justificado */
+.callout-content,
+.callout-content p,
+.callout-content li,
+.callout-content div:not(.callout-title) {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  hyphens: auto !important;
+}
+
+.callout-title {
+  text-align: left !important;
+}
+
+/* ==========================================================================
+   3. CSSCLASS: Centralização de Página (.center-page, .page-centered, .centered)
+   Centraliza a largura da folha a 860px (TEXTO SEMPRE À ESQUERDA)
+   ========================================================================== */
+.center-page,
+.page-centered,
+.page-center,
+.centered,
+.centralizado {
+  --file-line-width: 860px;
+}
+
+.markdown-preview-view.center-page .markdown-preview-sizer,
+.markdown-preview-view.page-centered .markdown-preview-sizer,
+.markdown-preview-view.page-center .markdown-preview-sizer,
+.markdown-preview-view.centered .markdown-preview-sizer,
+.markdown-preview-view.centralizado .markdown-preview-sizer,
+.markdown-rendered.center-page,
+.markdown-rendered.page-centered,
+.markdown-rendered.page-center,
+.markdown-rendered.centered,
+.markdown-rendered.centralizado,
+.markdown-source-view.mod-cm6.center-page .cm-sizer,
+.markdown-source-view.mod-cm6.page-centered .cm-sizer,
+.markdown-source-view.mod-cm6.page-center .cm-sizer,
+.markdown-source-view.mod-cm6.centered .cm-sizer,
+.markdown-source-view.mod-cm6.centralizado .cm-sizer {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: min(100%, 860px) !important;
+}
+
+/* Títulos H1 a H5 sempre centralizados em notas center-page */
+.center-page h1, .center-page h2, .center-page h3, .center-page h4, .center-page h5, .center-page h6,
+.page-centered h1, .page-centered h2, .page-centered h3, .page-centered h4, .page-centered h5, .page-centered h6,
+.centered h1, .centered h2, .centered h3, .centered h4, .centered h5, .centered h6,
+.centralizado h1, .centralizado h2, .centralizado h3, .centralizado h4, .centralizado h5, .centralizado h6 {
+  text-align: center !important;
+}
+
+/* ==========================================================================
+   4. CSSCLASS: Apenas Centralização do Layout (.center-layout)
+   ========================================================================== */
+.center-layout .markdown-preview-sizer,
+.center-layout.markdown-rendered,
+.markdown-source-view.mod-cm6.center-layout .cm-sizer {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: min(100%, 860px) !important;
+}
+
+/* ==========================================================================
+   5. CSSCLASS: PAGE-LAYOUT & LARGURA COMPLETA DO BODY (100% Fluido)
+   ========================================================================== */
+:root,
+body,
+.theme-dark,
+.theme-light {
+  --file-line-width: 100% !important;
+  --line-width: 100% !important;
+  --line-width-wide: 100% !important;
+  --content-width: 100% !important;
+}
+
+/* Ocupação total da largura da folha/body no Live Preview e Leitura */
+.markdown-source-view.mod-cm6 .cm-sizer,
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer,
+.markdown-source-view.mod-cm6.page-layout .cm-sizer,
+.markdown-preview-view .markdown-preview-sizer,
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer,
+.markdown-preview-view.page-layout .markdown-preview-sizer,
+.markdown-rendered {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-content,
+.markdown-source-view.mod-cm6.page-layout .cm-content {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-line {
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* ==========================================================================
+   6. CHECKLIST VERDE — Padrão Autorizado do Vault
+   ========================================================================== */
+:root {
+  --checkbox-color: #10b981 !important;
+  --checkbox-color-hover: #059669 !important;
+  --checkbox-border-color: #10b981 !important;
+}
+
+input[type="checkbox"]:checked,
+.task-list-item-checkbox:checked,
+.contains-task-list input[type="checkbox"]:checked,
+.markdown-rendered input[type="checkbox"]:checked,
+.markdown-source-view.mod-cm6 input[type="checkbox"]:checked {
+  background-color: #10b981 !important;
+  border-color: #10b981 !important;
+  color: #ffffff !important;
+}
+
+/* ==========================================================================
+   7. BARRA DE NAVEGAÇÃO ACADÊMICA (nav-aula) — Design Técnico & Minimalista
+   ========================================================================== */
+.academic-nav-container {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 8px !important;
+  padding: 10px 14px !important;
+  background-color: var(--background-secondary) !important;
+  border: 1px solid var(--background-modifier-border) !important;
+  border-radius: 8px !important;
+  margin: 1rem auto 1.5rem auto !important;
+  max-width: min(100%, 860px) !important;
+  font-size: 0.88rem !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
+  box-sizing: border-box !important;
+}
+
+.academic-nav-breadcrumb {
+  display: flex !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+  gap: 6px !important;
+  color: var(--text-muted) !important;
+  font-size: 0.78rem !important;
+  border-bottom: 1px solid var(--background-modifier-border) !important;
+  padding-bottom: 6px !important;
+}
+
+.academic-nav-breadcrumb a.internal-link {
+  color: var(--text-muted) !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+  transition: color 0.15s ease !important;
+}
+
+.academic-nav-breadcrumb a.internal-link:hover {
+  color: var(--text-accent) !important;
+  text-decoration: underline !important;
+}
+
+.academic-nav-sep {
+  color: var(--text-faint) !important;
+  font-size: 0.75rem !important;
+  user-select: none !important;
+}
+
+.academic-nav-current-leaf {
+  color: var(--text-normal) !important;
+  font-weight: 600 !important;
+}
+
+.academic-nav-controls {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+  gap: 8px !important;
+}
+
+.academic-nav-side {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.academic-nav-center {
+  display: flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
+}
+
+.academic-nav-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 4px 10px !important;
+  border-radius: 6px !important;
+  background-color: var(--background-primary) !important;
+  border: 1px solid var(--background-modifier-border) !important;
+  color: var(--text-normal) !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+  font-size: 0.82rem !important;
+  line-height: 1.2 !important;
+  transition: all 0.15s ease !important;
+  cursor: pointer !important;
+}
+
+.academic-nav-btn:hover {
+  background-color: var(--background-modifier-hover) !important;
+  border-color: var(--interactive-accent) !important;
+  color: var(--text-accent) !important;
+}
+
+.academic-nav-btn.is-disabled {
+  opacity: 0.35 !important;
+  pointer-events: none !important;
+  border-color: transparent !important;
+  background-color: transparent !important;
+  cursor: default !important;
+}
+
+.academic-nav-btn.is-active {
+  background-color: rgba(var(--color-accent-rgb, 16, 185, 129), 0.12) !important;
+  border-color: var(--interactive-accent) !important;
+  color: var(--text-accent) !important;
+  font-weight: 600 !important;
+}
+
+.academic-nav-counter {
+  font-size: 0.8rem !important;
+  color: var(--text-muted) !important;
+  padding: 0 4px !important;
+  user-select: none !important;
+}
+
+.academic-nav-btn a.internal-link {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-weight: inherit !important;
+  display: inline-block !important;
+}
+
+.academic-nav-btn a.internal-link:hover {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.academic-nav-breadcrumb a.internal-link {
+  color: var(--text-muted) !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+  transition: color 0.15s ease !important;
+}
+
+.academic-nav-breadcrumb a.internal-link:hover {
+  color: var(--text-accent) !important;
+  text-decoration: underline !important;
+}
+
+/* ==========================================================================
+   8. CORES DE TAGS E CSSCLASSES (Propriedades & Corpo do Texto)
+   ========================================================================== */
+
+/* Pílulas de propriedades no topo da nota (Frontmatter / Live Preview) */
+.metadata-container .multi-select-pill {
+  border-radius: 6px !important;
+  padding: 2px 8px !important;
+  font-size: 0.82rem !important;
+  font-weight: 500 !important;
+  transition: all 0.15s ease !important;
+}
+
+/* Pílulas da propriedade 'cssclasses' */
+.metadata-property[data-property-key="cssclasses"] .multi-select-pill {
+  background-color: rgba(56, 189, 248, 0.12) !important;
+  border: 1px solid rgba(56, 189, 248, 0.35) !important;
+  color: #38bdf8 !important;
+}
+
+.metadata-property[data-property-key="cssclasses"] .multi-select-pill:hover {
+  background-color: rgba(56, 189, 248, 0.22) !important;
+  border-color: #38bdf8 !important;
+}
+
+/* Pílulas específicas de cssclasses */
+.metadata-property[data-property-key="cssclasses"] .multi-select-pill[data-value="cards"],
+.metadata-property[data-property-key="cssclasses"] .multi-select-pill[data-property-value="cards"] {
+  background-color: rgba(192, 132, 252, 0.12) !important;
+  border-color: rgba(192, 132, 252, 0.35) !important;
+  color: #c084fc !important;
+}
+
+.metadata-property[data-property-key="cssclasses"] .multi-select-pill[data-value="page-layout"],
+.metadata-property[data-property-key="cssclasses"] .multi-select-pill[data-property-value="page-layout"] {
+  background-color: rgba(56, 189, 248, 0.12) !important;
+  border-color: rgba(56, 189, 248, 0.35) !important;
+  color: #38bdf8 !important;
+}
+
+/* Pílulas de 'tags' no frontmatter */
+.metadata-property[data-property-key="tags"] .multi-select-pill {
+  background-color: rgba(16, 185, 129, 0.12) !important;
+  border: 1px solid rgba(16, 185, 129, 0.35) !important;
+  color: #10b981 !important;
+}
+
+.metadata-property[data-property-key="tags"] .multi-select-pill:hover {
+  background-color: rgba(16, 185, 129, 0.22) !important;
+  border-color: #10b981 !important;
+}
+
+/* Tags no Corpo do Texto (Leitura e Live Preview) */
+.tag,
+a.tag,
+span.cm-hashtag,
+.markdown-source-view.mod-cm6 .cm-hashtag {
+  border-radius: 4px !important;
+  padding: 1px 6px !important;
+  font-weight: 500 !important;
+  font-size: 0.85em !important;
+  text-decoration: none !important;
+  border: 1px solid transparent !important;
+  background-color: rgba(16, 185, 129, 0.12) !important;
+  color: #10b981 !important;
+  transition: all 0.15s ease !important;
+}
+
+.tag:hover,
+a.tag:hover,
+span.cm-hashtag:hover {
+  background-color: rgba(16, 185, 129, 0.22) !important;
+  border-color: #10b981 !important;
+  color: #10b981 !important;
+  text-decoration: none !important;
+}
+
+/* Cores específicas de Tags Canônicas */
+:is(.tag, a.tag, span.cm-hashtag)[href*="diario"],
+:is(.tag, a.tag, span.cm-hashtag)[href*="foco"],
+:is(.tag, a.tag, span.cm-hashtag)[href*="tracking"] {
+  background-color: rgba(249, 115, 22, 0.14) !important;
+  color: #f97316 !important;
+  border-color: rgba(249, 115, 22, 0.3) !important;
+}
+
+:is(.tag, a.tag, span.cm-hashtag)[href*="aula"],
+:is(.tag, a.tag, span.cm-hashtag)[href*="dev"] {
+  background-color: rgba(56, 189, 248, 0.14) !important;
+  color: #38bdf8 !important;
+  border-color: rgba(56, 189, 248, 0.3) !important;
+}
+
+:is(.tag, a.tag, span.cm-hashtag)[href*="disciplina"],
+:is(.tag, a.tag, span.cm-hashtag)[href*="iff"],
+:is(.tag, a.tag, span.cm-hashtag)[href*="academico"] {
+  background-color: rgba(251, 191, 36, 0.14) !important;
+  color: #fbbf24 !important;
+  border-color: rgba(251, 191, 36, 0.3) !important;
+}
+
+:is(.tag, a.tag, span.cm-hashtag)[href*="reuniao"],
+:is(.tag, a.tag, span.cm-hashtag)[href*="ata"] {
+  background-color: rgba(167, 139, 250, 0.14) !important;
+  color: #a78bfa !important;
+  border-color: rgba(167, 139, 250, 0.3) !important;
+}
+
+:is(.tag, a.tag, span.cm-hashtag)[href*="pesquisa"] {
+  background-color: rgba(192, 132, 252, 0.14) !important;
+  color: #c084fc !important;
+  border-color: rgba(192, 132, 252, 0.3) !important;
+}
+
+:is(.tag, a.tag, span.cm-hashtag)[href*="pessoal"] {
+  background-color: rgba(74, 222, 128, 0.14) !important;
+  color: #4ade80 !important;
+  border-color: rgba(74, 222, 128, 0.3) !important;
+}
+
+:is(.tag, a.tag, span.cm-hashtag)[href*="profissional"],
+:is(.tag, a.tag, span.cm-hashtag)[href*="projeto"] {
+  background-color: rgba(96, 165, 250, 0.14) !important;
+  color: #60a5fa !important;
+  border-color: rgba(96, 165, 250, 0.3) !important;
+}
+
+

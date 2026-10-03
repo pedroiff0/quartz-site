@@ -2,7 +2,7 @@
 publish: true
 title: 260423-Aula-Atividades-1
 created: 2026-04-23 13:34
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:21
 encrypted: true
 tags:
 - atividade

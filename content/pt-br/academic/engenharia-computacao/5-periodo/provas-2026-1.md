@@ -2,7 +2,7 @@
 publish: false
 title: 20260320 - provas 2026-1
 created: 2026-03-20 13:34
-modified: 2026-10-02 17:18
+modified: 2026-09-30 13:58
 tags:
 - disciplina
 - engenharia-de-computacao

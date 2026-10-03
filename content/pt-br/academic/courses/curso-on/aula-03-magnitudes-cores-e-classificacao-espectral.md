@@ -2,7 +2,7 @@
 publish: false
 title: Aula 03 — Magnitudes, Cores e Classificação Espectral
 created: 2026-07-23 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -16,7 +16,7 @@ encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 content: Escala de magnitudes, magnitude absoluta, sistemas fotométricos, índices
   de cor e a classificação espectral OBAFGKM
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

@@ -2,7 +2,7 @@
 publish: true
 title: Aula 01 - Portas Lógicas
 created: 2026-08-24 14:50
-modified: 2026-10-02 17:13
+modified: 2026-10-03 11:25
 encrypted: true
 tags:
 - aula
@@ -33,7 +33,7 @@ Nesta aula de **Eletrônica Digital**, estudamos a transição da lógica matem�
 
 ---
 
-### . NÃO (NOT - Inversor)
+### NÃO (NOT - Inversor)
 
 A porta **NOT** realiza a operação lógica de inversão ou complemento.
 
@@ -54,7 +54,7 @@ $$S = \bar{A}$$
 
 ---
 
-### . E (AND - Conjunção)
+### E (AND - Conjunção)
 
 A porta **AND** gera saída alta ($1$) se e somente se todas as suas entradas forem altas ($1$).
 
@@ -77,7 +77,7 @@ $$S = A \cdot B$$
 
 ---
 
-### . OU (OR - Disjunção)
+### OU (OR - Disjunção)
 
 A porta **OR** gera saída alta ($1$) quando pelo menos uma das suas entradas for alta ($1$).
 
@@ -100,7 +100,7 @@ $$S = A + B$$
 
 ---
 
-### . OU EXCLUSIVO (XOR)
+### OU EXCLUSIVO (XOR)
 
 A porta **XOR** (Ou-Exclusivo) produz saída alta ($1$) se e somente se as entradas forem **diferentes**.
 

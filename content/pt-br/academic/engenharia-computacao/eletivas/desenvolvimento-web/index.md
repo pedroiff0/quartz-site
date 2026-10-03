@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Desenvolvimento Web
 created: 2026-07-18 12:00
 modified: 2026-10-01T20:14:35-03:00

@@ -2,7 +2,7 @@
 publish: false
 title: Aula 02 — Diagrama HR e Aglomerados Estelares
 created: 2026-07-23 12:36
-modified: 2026-10-01 20:14
+modified: 2026-10-03 11:21
 tags:
 - curso-on
 - arqueologia-galactica
@@ -16,7 +16,7 @@ encrypted: true
 discipline: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 content: Aglomerados abertos vs. globulares, função de massa inicial (IMF), isócronas
   e a nomenclatura de populações I, II e III
-professor: Hélio Dotto Perottoni
+instructor: Hélio Dotto Perottoni
 icon: lucide-book-open
 ---
 

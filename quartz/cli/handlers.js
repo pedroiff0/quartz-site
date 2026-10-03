@@ -586,23 +586,21 @@ export async function handleBuild(argv) {
   }
 
   if (argv.watch) {
-    const paths = await globby([
-      "**/*.ts",
-      "quartz/cli/*.js",
-      "quartz/static/**/*",
-      "**/*.tsx",
-      "**/*.scss",
-      "package.json",
+    const watchTargets = [
+      "quartz/**/*",
+      "local-plugins/**/*",
       "quartz.config.yaml",
       "quartz.config.default.yaml",
-    ])
+      `${argv.directory}/**/*`,
+    ]
     chokidar
-      .watch(paths, { ignoreInitial: true })
-      .on("add", () => build(clientRefresh))
-      .on("change", () => build(clientRefresh))
-      .on("unlink", () => build(clientRefresh))
+      .watch(watchTargets, { ignoreInitial: true, awaitWriteFinish: { stabilityThreshold: 200 } })
+      .on("all", (event, path) => {
+        if (path.includes(".git") || path.includes("node_modules") || path.includes("public")) return;
+        build(clientRefresh)
+      })
 
-    console.log(styleText("gray", "hint: exit with ctrl+c"))
+    console.log(styleText("gray", "hint: watcher ativo (exit with ctrl+c)"))
   }
 }
 

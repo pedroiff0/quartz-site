@@ -1,0 +1,216 @@
+/* ==========================================================================
+   Dashboard & Cards — hardcore-life vault (Minimalista)
+   ========================================================================== */
+
+/* Grid Layouts para MOCs e Dashboards */
+.grid-2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.85rem;
+  margin: 1rem 0;
+}
+
+.grid-4 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0;
+}
+
+/* Card Clean */
+.vault-card {
+  border-radius: 8px;
+  padding: 1rem;
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  transition: border-color 0.15s ease;
+}
+
+.vault-card:hover {
+  border-color: var(--interactive-accent);
+}
+
+.vault-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.vault-card ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.vault-card li {
+  margin-bottom: 0.25rem;
+  font-size: 0.9rem;
+}
+
+/* Badges minimalistas */
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.badge-active {
+  background-color: rgba(34, 197, 94, 0.15);
+  color: #4ade80;
+  border: 1px solid rgba(74, 222, 128, 0.25);
+}
+
+.badge-wip {
+  background-color: rgba(234, 179, 8, 0.15);
+  color: #facc15;
+  border: 1px solid rgba(250, 204, 21, 0.25);
+}
+
+.badge-archived {
+  background-color: rgba(148, 163, 184, 0.15);
+  color: #94a3b8;
+  border: 1px solid rgba(148, 163, 184, 0.25);
+}
+
+/* ==========================================================================
+   2. SISTEMA CANÔNICO DE CARDS (Dataview & Grids)
+   Ativado por padrão via cssclasses: [cards] ou .cards
+   ========================================================================== */
+
+:root {
+  --cards-min-width: 200px;
+  --cards-max-width: 1fr;
+  --cards-mobile-width: 140px;
+  --cards-image-height: 240px;
+  --cards-padding: 0.85rem;
+  --cards-image-fit: cover;
+  --cards-background: var(--background-secondary);
+  --cards-border-width: 1px;
+}
+
+/* Container de Cards Dataview (Ativo por padrão e via classe .cards) */
+.cards table.dataview,
+.cards .table-view-table,
+.cards-grid table,
+table.dataview:not(.table-normal):not(.no-cards),
+.table-view-table:not(.table-normal):not(.no-cards) {
+  width: 100% !important;
+  margin: 0.75rem auto !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Oculta o cabeçalho tabular padrão em modo cards */
+.cards table.dataview thead,
+.cards .table-view-table thead,
+.cards-grid table thead,
+table.dataview:not(.table-normal):not(.no-cards) thead,
+.table-view-table:not(.table-normal):not(.no-cards) thead {
+  display: none !important;
+}
+
+/* Grid de cartões responsivo */
+.cards table.dataview tbody,
+.cards .table-view-table tbody,
+.cards-grid table tbody,
+table.dataview:not(.table-normal):not(.no-cards) tbody,
+.table-view-table:not(.table-normal):not(.no-cards) tbody {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--cards-min-width)), 1fr)) !important;
+  gap: 0.85rem !important;
+  padding: 0.25rem 0 !important;
+  border: none !important;
+}
+
+/* O cartão individual (cada linha <tr> vira um card) */
+.cards table.dataview > tbody > tr,
+.cards .table-view-table > tbody > tr,
+.cards-grid table > tbody > tr,
+table.dataview:not(.table-normal):not(.no-cards) > tbody > tr,
+.table-view-table:not(.table-normal):not(.no-cards) > tbody > tr {
+  display: flex !important;
+  flex-direction: column !important;
+  background-color: var(--cards-background) !important;
+  border: var(--cards-border-width) solid var(--background-modifier-border) !important;
+  border-radius: 8px !important;
+  padding: var(--cards-padding) !important;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease !important;
+  min-width: 0 !important;
+  box-sizing: border-box !important;
+}
+
+.cards table.dataview > tbody > tr:hover,
+.cards .table-view-table > tbody > tr:hover,
+.cards-grid table > tbody > tr:hover,
+table.dataview:not(.table-normal):not(.no-cards) > tbody > tr:hover,
+.table-view-table:not(.table-normal):not(.no-cards) > tbody > tr:hover {
+  border-color: var(--interactive-accent) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12) !important;
+  transform: translateY(-2px);
+}
+
+/* Células internas do cartão */
+.cards table.dataview > tbody > tr > td,
+.cards .table-view-table > tbody > tr > td,
+.cards-grid table > tbody > tr > td,
+table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td,
+.table-view-table:not(.table-normal):not(.no-cards) > tbody > tr > td {
+  border: none !important;
+  padding: 0.25rem 0 !important;
+  display: block !important;
+  font-size: 0.88rem !important;
+  line-height: 1.4 !important;
+  word-break: break-word !important;
+  color: var(--text-normal);
+}
+
+/* Título do cartão (primeira coluna / link do arquivo) */
+.cards table.dataview > tbody > tr > td:first-child,
+.cards .table-view-table > tbody > tr > td:first-child,
+.cards-grid table > tbody > tr > td:first-child,
+table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td:first-child,
+.table-view-table:not(.table-normal):not(.no-cards) > tbody > tr > td:first-child {
+  font-weight: 600 !important;
+  font-size: 0.98rem !important;
+  color: var(--text-accent) !important;
+  border-bottom: 1px solid var(--background-modifier-border) !important;
+  margin-bottom: 0.4rem !important;
+  padding-bottom: 0.4rem !important;
+}
+
+/* Oculta células vazias */
+.cards table.dataview > tbody > tr > td:empty,
+.cards .table-view-table > tbody > tr > td:empty,
+table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td:empty,
+.table-view-table:not(.table-normal):not(.no-cards) > tbody > tr > td:empty {
+  display: none !important;
+}
+
+/* Imagens dentro dos cartões como capa */
+.cards table.dataview img,
+.cards .table-view-table img {
+  border-radius: 6px !important;
+  max-height: var(--cards-image-height) !important;
+  width: 100% !important;
+  object-fit: var(--cards-image-fit) !important;
+  margin: 0 0 0.5rem 0 !important;
+}
+
+/* Variantes de colunas */
+.cards-cols-2 { --cards-min-width: 320px; }
+.cards-cols-3 { --cards-min-width: 240px; }
+.cards-cols-4 { --cards-min-width: 180px; }
+

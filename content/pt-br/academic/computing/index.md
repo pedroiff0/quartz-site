@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Computação
 created: 2026-07-18 13:04
 modified: 2026-09-07 16:47

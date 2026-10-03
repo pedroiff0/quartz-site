@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Redes de Computadores I
 created: '2026-07-18 12:00:00-03:00'
 modified: 2026-10-01T20:14:35-03:00

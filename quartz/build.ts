@@ -135,17 +135,16 @@ async function startWatching(
     })
   }
 
-  const gitIgnoredMatcher = await isGitIgnored()
   const buildData: BuildData = {
     ctx,
     mut,
     contentMap,
     ignored: (fp) => {
       const pathStr = toPosixPath(fp.toString())
-      if (pathStr.startsWith(".git/")) return true
-      if (gitIgnoredMatcher(pathStr)) return true
+      if (pathStr.startsWith(".git/") || pathStr.includes("node_modules") || pathStr.includes(".quartz-cache")) return true
+      const fullPathStr = joinSegments(argv.directory, pathStr)
       for (const pattern of cfg.configuration.ignorePatterns) {
-        if (minimatch(pathStr, pattern)) {
+        if (minimatch(pathStr, pattern) || minimatch(fullPathStr, pattern)) {
           return true
         }
       }
