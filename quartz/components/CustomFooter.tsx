@@ -192,14 +192,41 @@ function initMobileScroll() {
   handleScroll();
 }
 
-document.addEventListener("nav", initMobileScroll);
-document.addEventListener("render", initMobileScroll);
-if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", initMobileScroll);
-} else {
-  initMobileScroll();
+function initCallouts() {
+  function toggleCallout(e) {
+    const title = e.currentTarget;
+    const outerBlock = title.closest(".callout") || title.parentElement;
+    if (!outerBlock) return;
+    outerBlock.classList.toggle("is-collapsed");
+    const content = outerBlock.querySelector(".callout-content");
+    if (!content) return;
+    const isCollapsed = outerBlock.classList.contains("is-collapsed");
+    content.style.gridTemplateRows = isCollapsed ? "0fr" : "1fr";
+  }
+
+  const collapsibles = document.querySelectorAll(".callout.is-collapsible, .callout[data-callout-fold]");
+  collapsibles.forEach((el) => {
+    el.classList.add("is-collapsible");
+    const title = el.querySelector(".callout-title");
+    const content = el.querySelector(".callout-content");
+    if (!title || !content) return;
+
+    title.style.cursor = "pointer";
+    title.removeEventListener("click", toggleCallout);
+    title.addEventListener("click", toggleCallout);
+
+    const isCollapsed = el.classList.contains("is-collapsed");
+    content.style.gridTemplateRows = isCollapsed ? "0fr" : "1fr";
+  });
 }
 
+document.addEventListener("nav", initCallouts);
+document.addEventListener("render", initCallouts);
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initCallouts);
+} else {
+  initCallouts();
+}
 `;
 
 export default (() => CustomFooter) satisfies QuartzComponentConstructor

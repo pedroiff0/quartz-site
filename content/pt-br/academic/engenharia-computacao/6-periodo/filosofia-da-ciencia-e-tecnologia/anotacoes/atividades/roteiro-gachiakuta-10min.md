@@ -1,9 +1,27 @@
 ---
-created: 2026-09-30 18:57
-modified: 2026-09-30 18:57
+publish: false
+title: Palácio da Memória — Gachiakuta e a Semiótica do Descarte
+created: 2026-09-26 22:11
+modified: 2026-10-04 11:40
+tags:
+  - atividade
+  - trabalho
+  - filosofia-da-tecnologia
+  - semiotica
+  - engenharia-de-computacao
 cssclasses:
   - page-layout
+icon: lucide-book-open
+discipline: "[[filosofia-da-ciencia-e-tecnologia]]"
+sitesync: true
 ---
+
+<div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
+  <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
+  <div style="background: var(--lightgray, #e2e8f0); border-radius: 4px; overflow: hidden; height: 8px;">
+    <div style="background: var(--secondary, #6d28d9); width: 10%; height: 100%;"></div>
+  </div>
+</div>
 
 # Palácio da Memória: Gachiakuta e a Semiótica do Descarte
 
@@ -13,7 +31,7 @@ cssclasses:
 
 ---
 
-## ✍️ Quadro para a lousa (20 segundos)
+## Quadro para a lousa (20 segundos)
 
 ```text
 1. O SIGNO DO LIXO        ──> Quando algo "útil" passa a ser "lixo" (Reale)
@@ -24,28 +42,28 @@ cssclasses:
 
 ---
 
-## ⏱️ Mapa do tempo
+## Mapa do tempo
 
-⭐ = slide de foco (mais tempo e mais profundidade)
+[Foco] = slide de foco (mais tempo e mais profundidade)
 
 | Slide | Tema | Tempo | Foco |
-|---|---|---|---|
-| 1 | Abertura | 30s | |
-| 2 | O caminho da apresentação | 50s | ⭐ |
-| 3 | O mundo de Gachiakuta | 1m35s | ⭐ |
-| 4 | A ideia que ninguém questiona | 1m35s | ⭐ |
-| 5 | O Paraíso como uma IA | 1m00s | |
-| 6 | Os monstros de lixo | 1m30s | ⭐ |
-| 7 | O espanto que muda tudo | 1m30s | ⭐ |
-| 8 | E na Engenharia de Computação? | 1m10s | ⭐ |
-| 9 | Encerramento | 20s | |
+|:---:|:---|:---:|:---:|
+| 1 | Abertura | 30s | - |
+| 2 | O caminho da apresentação | 50s | Sim |
+| 3 | O mundo de Gachiakuta | 1m35s | Sim |
+| 4 | A ideia que ninguém questiona | 1m35s | Sim |
+| 5 | O Paraíso como uma IA | 1m00s | - |
+| 6 | Os monstros de lixo | 1m30s | Sim |
+| 7 | O espanto que muda tudo | 1m30s | Sim |
+| 8 | E na Engenharia de Computação? | 1m10s | Sim |
+| 9 | Encerramento | 20s | - |
 | | **Total** | **10m00s** | |
 
 ---
 
-## 🗣️ Roteiro oral
+## Roteiro oral
 
-### 🚪 SLIDE 1: Abertura (30s)
+### SLIDE 1: Abertura (30s)
 
 > **Para lembrar:** a pergunta e o mangá como ponte.
 
@@ -55,7 +73,7 @@ Para pensar nisso, vou usar o mangá *Gachiakuta*, de Kei Urana e Hideyoshi Ando
 
 ---
 
-### 🗺️ ⭐ SLIDE 2: O caminho da apresentação (50s)
+### SLIDE 2: O caminho da apresentação (50s)
 
 > **Para lembrar:** quatro passos → mundo, pressuposto, monstros, espanto.
 
@@ -73,7 +91,7 @@ Então a pergunta que vai nos acompanhar é: **quem decide o que é lixo, e o qu
 
 ---
 
-### 🏙️ ⭐ SLIDE 3: O mundo de Gachiakuta (1m35s)
+### SLIDE 3: O mundo de Gachiakuta (1m35s)
 
 > **Para lembrar:** Paraíso em cima, Abismo embaixo → Morumbi e Paraisópolis na vertical → Rudo, Enjin, Zodyl.
 
@@ -99,7 +117,7 @@ Cada um deles representa uma resposta diferente ao descarte: sofrer com ele, cui
 
 ---
 
-### 🙈 ⭐ SLIDE 4: A ideia que ninguém questiona (1m35s)
+### SLIDE 4: A ideia que ninguém questiona (1m35s)
 
 > **Para lembrar:** pressuposto de Reale → "se sumiu da vista, não existe" → celular e lixo eletrônico.
 
@@ -117,7 +135,7 @@ A gente aceita a praticidade sem pensar no custo. E, sem perceber, acaba criando
 
 ---
 
-### ⚙️ SLIDE 5: O Paraíso como uma IA (1m00s)
+### SLIDE 5: O Paraíso como uma IA (1m00s)
 
 > **Para lembrar:** sintaxe = cálculo, semântica = sentido → saber fazer sem saber agir.
 
@@ -129,7 +147,7 @@ Cupani chama isso de **saber fazer sem saber agir**: a capacidade de produzir cr
 
 ---
 
-### 👹 ⭐ SLIDE 6: Os monstros de lixo (1m30s)
+### SLIDE 6: Os monstros de lixo (1m30s)
 
 > **Para lembrar:** lixo sem cuidado vira monstro → falácia da neutralidade → e-waste e dados preconceituosos.
 
@@ -147,7 +165,7 @@ Esses são os nossos monstros. E eles são bem reais."
 
 ---
 
-### ✨ ⭐ SLIDE 7: O espanto que muda tudo (1m30s)
+### SLIDE 7: O espanto que muda tudo (1m30s)
 
 > **Para lembrar:** thauma = espanto → sair do piloto automático → Faxineiros veem história no objeto → Jinki → volição.
 
@@ -163,7 +181,7 @@ Percebam o que aconteceu com o signo. **O objeto é o mesmo. O que mudou foi o o
 
 ---
 
-### 💻 ⭐ SLIDE 8: E na Engenharia de Computação? (1m10s)
+### SLIDE 8: E na Engenharia de Computação? (1m10s)
 
 > **Para lembrar:** não ser engenheiro do Paraíso → ser Faxineiro → exposição + Circuitos Verdes + Luiz Fernando.
 
@@ -177,7 +195,7 @@ Não é só um discurso. É isso que vamos mostrar na prática no Espaço Cultur
 
 ---
 
-### 📚 SLIDE 9: Encerramento (20s)
+### SLIDE 9: Encerramento (20s)
 
 > **Para lembrar:** convite à leitura + referências + obrigado.
 
@@ -187,7 +205,7 @@ As referências são o capítulo 1 da *Introdução à Filosofia* de Miguel Real
 
 ---
 
-## ✅ Antes de apresentar
+## Antes de apresentar
 
 - **Jinki:** confira no mangá. É o nome do poder dos personagens (escrevi assim, e não "Janki").
 - **Faxineiros e Vândalos:** confira os nomes dos grupos na edição que você está usando.

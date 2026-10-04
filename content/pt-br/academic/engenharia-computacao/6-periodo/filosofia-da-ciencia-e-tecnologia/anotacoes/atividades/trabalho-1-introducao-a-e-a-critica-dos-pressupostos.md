@@ -2,7 +2,7 @@
 publish: false
 title: Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
 created: 2026-09-09 19:59
-modified: 2026-10-01 20:14
+modified: 2026-10-04 11:42
 encrypted: true
 tags:
 - atividade
@@ -12,7 +12,16 @@ cssclasses:
   - page-layout
   - center-titles
 icon: lucide-book-open
+discipline: "[[filosofia-da-ciencia-e-tecnologia]]"
+sitesync: true
 ---
+
+<div class="progress-bar-container" style="background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 8px; padding: 12px 16px; margin: 1.5rem 0;">
+  <div style="font-weight: 600; font-size: 0.85rem; color: var(--dark, #334155); margin-bottom: 6px;">Progresso das Aulas da Disciplina</div>
+  <div style="background: var(--lightgray, #e2e8f0); border-radius: 4px; overflow: hidden; height: 8px;">
+    <div style="background: var(--secondary, #6d28d9); width: 10%; height: 100%;"></div>
+  </div>
+</div>
 
 # Trabalho - Introdução à Filosofia e a Crítica dos Pressupostos
 

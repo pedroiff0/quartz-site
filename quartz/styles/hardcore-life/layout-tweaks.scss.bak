@@ -246,6 +246,7 @@ span.math-inline,
 /* O bloco .callout em si (Live Preview, Reading View, normais e colapsáveis) */
 .callout,
 .callout.is-collapsible,
+.callout.is-collapsed,
 .markdown-rendered .callout,
 .markdown-preview-view .callout,
 .cm-callout > .callout,
@@ -257,11 +258,6 @@ span.math-inline,
   margin-left: 0 !important;
   margin-right: 0 !important;
   box-sizing: border-box !important;
-}
-
-.callout.is-collapsible .callout-title {
-  cursor: pointer !important;
-  user-select: none;
 }
 
 /* Callouts aninhados ocupam 100% do callout pai */
