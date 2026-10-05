@@ -1,12 +1,19 @@
 ---
-publish: true
 title: About Me
 created: 2026-07-18
-modified: 2026-07-26T12:36:37.259-03:00
+modified: 2026-10-05T15:39:57-03:00
 published: 2026-07-26T12:36:37.259-03:00
+publish: true
+sitesync: true
+resource-sync: false
 cssclasses:
   - page-layout
+tags:
+  - site
 ---
+
+> [!untranslated] Not translated yet
+> This page has not been translated into English yet. The site content is currently available only in Portuguese; use the language selector to go back to the [[pt-br/index|Portuguese version]].
 
 > [!info] Welcome!
 > This is your starting page! Here you will find everything you need to know about my journey, research, and work. Read in the suggested order to have the best possible experience. > [!abstract] Also check out my portfolio
@@ -16,7 +23,7 @@ cssclasses:
 
 ### 1⃣ First step: About me
 
-<img src="/resource/meta/imagens/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="/static/imagens/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 I am Pedro Henrique, an undergraduate Computer Engineering student at the [Fluminense Federal Institute](https://portal1.iff.edu.br/), in Rio de Janeiro, Brazil. Since 2022, I have been building a bridge between **computer science** and **astronomy**, working on research projects that explore stellar populations and the structure of the Milky Way.
 
@@ -131,19 +138,19 @@ To navigate my work, explore the sections of this site:
 
 <div class="media-carousel">
   <a href="/en/research" class="carousel-slide">
-    <img src="/resource/meta/illustrations/research.svg" alt="Research" />
+    <img src="/static/illustrations/research.svg" alt="Research" />
     <div class="slide-caption">Research</div>
   </a>
   <a href="/en/resource" class="carousel-slide">
-    <img src="/resource/meta/illustrations/resource.svg" alt="Resources" />
+    <img src="/static/illustrations/resource.svg" alt="Resources" />
     <div class="slide-caption">Resources</div>
   </a>
   <a href="/en/resource/engenharia-de-computação" class="carousel-slide">
-    <img src="/resource/meta/illustrations/classes.svg" alt="Classes" />
+    <img src="/static/illustrations/classes.svg" alt="Classes" />
     <div class="slide-caption">Classes</div>
   </a>
   <a href="/en/media" class="carousel-slide">
-    <img src="/resource/meta/imagens/photos/febic2024/febic.jpeg" alt="Media" />
+    <img src="/static/imagens/febic.jpeg" alt="Media" />
     <div class="slide-caption">Media</div>
   </a>
 </div>

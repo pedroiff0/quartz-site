@@ -1,12 +1,19 @@
 ---
-publish: true
 title: Sobre Mí
 created: 2026-07-18
-modified: 2026-07-23
+modified: 2026-10-05T15:39:57-03:00
 published: 2026-07-26T12:36:37.259-03:00
+publish: true
+sitesync: true
+resource-sync: false
 cssclasses:
   - page-layout
+tags:
+  - site
 ---
+
+> [!untranslated] Aún no traducido
+> Esta página aún no ha sido traducida al español. El contenido del sitio está disponible solo en portugués; usa el selector de idioma para volver a la [[pt-br/index|versión en portugués]].
 
 > [!info] ¡Bienvenido(a)!
 > Esta es tu página de inicio. Aquí encontrarás todo lo que necesitas saber sobre mi trayectoria, mis investigaciones y mi trabajo. Lee en el orden sugerido para tener la mejor experiencia posible. > [!abstract] También visita mi portafolio
@@ -16,7 +23,7 @@ cssclasses:
 
 ### 1⃣ Primer paso: Sobre mí
 
-<img src="/resource/meta/imagens/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="/static/imagens/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 Soy Pedro Henrique, estudiante de Ingeniería Informática en el [Instituto Federal Fluminense](https://portal1.iff.edu.br/), en Bom Jesus do Itabapoana, en el interior de Río de Janeiro, Brasil. Desde 2022 vengo construyendo un puente entre la **ciencia de la computación** y la **astronomía**, trabajando en proyectos de investigación que exploran poblaciones estelares y la estructura de la Vía Láctea.
 
@@ -134,19 +141,19 @@ Para navegar mi trabajo, explora las secciones del sitio (en portugués/inglés)
 
 <div class="media-carousel">
   <a href="/pt-br/research" class="carousel-slide">
-    <img src="/resource/meta/illustrations/research.svg" alt="Investigación" />
+    <img src="/static/illustrations/research.svg" alt="Investigación" />
     <div class="slide-caption">Investigación</div>
   </a>
   <a href="/pt-br/academic" class="carousel-slide">
-    <img src="/resource/meta/illustrations/resource.svg" alt="Recursos" />
+    <img src="/static/illustrations/resource.svg" alt="Recursos" />
     <div class="slide-caption">Recursos</div>
   </a>
   <a href="/pt-br/academic/engenharia-de-computação" class="carousel-slide">
-    <img src="/resource/meta/illustrations/classes.svg" alt="Asignaturas" />
+    <img src="/static/illustrations/classes.svg" alt="Asignaturas" />
     <div class="slide-caption">Asignaturas</div>
   </a>
   <a href="/pt-br/media" class="carousel-slide">
-    <img src="/resource/meta/imagens/photos/febic2024/febic.jpeg" alt="Medios" />
+    <img src="/static/imagens/febic.jpeg" alt="Medios" />
     <div class="slide-caption">Medios</div>
   </a>
 </div>

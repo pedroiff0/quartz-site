@@ -1,9 +1,15 @@
 ---
-publish: true
 title: Pedro H. R. de Andrade
 created: 2026-07-18T14:16:01.130-03:00
-modified: 2026-07-31
+modified: 2026-10-05T15:39:20-03:00
 published: 2026-07-26T10:01:47.627-03:00
+publish: true
+sitesync: true
+resource-sync: false
+cssclasses:
+  - page-layout
+tags:
+  - site
 ---
 
 Pesquisa entre **astronomia e computação**, materiais de estudo abertos e registro dos eventos por onde passei — tudo reunido em um lugar só.
@@ -12,22 +18,22 @@ Pesquisa entre **astronomia e computação**, materiais de estudo abertos e regi
 
 <div class="lang-carousel">
   <a href="/pt-br/" class="lang-slide" hreflang="pt-BR">
-    <img src="/resource/meta/illustrations/flag-br.svg" alt="Bandeira do Brasil" />
+    <img src="/static/flags/flag-br.svg" alt="Bandeira do Brasil" />
     <span class="lang-slide-name">Português</span>
     <span class="lang-slide-note">Conteúdo completo, sempre escrito primeiro aqui</span>
   </a>
   <a href="/en/" class="lang-slide" hreflang="en-US">
-    <img src="/resource/meta/illustrations/flag-us.svg" alt="Flag of the United States" />
+    <img src="/static/flags/flag-us.svg" alt="Flag of the United States" />
     <span class="lang-slide-name">English</span>
     <span class="lang-slide-note">Partial — translated as time allows</span>
   </a>
   <a href="/es/" class="lang-slide" hreflang="es-ES">
-    <img src="/resource/meta/illustrations/flag-es.svg" alt="Bandera de España" />
+    <img src="/static/flags/flag-es.svg" alt="Bandera de España" />
     <span class="lang-slide-name">Español</span>
     <span class="lang-slide-note">Solo la página de inicio, por ahora</span>
   </a>
   <a href="/fr/" class="lang-slide" hreflang="fr-FR">
-    <img src="/resource/meta/illustrations/flag-fr.svg" alt="Drapeau de la France" />
+    <img src="/static/flags/flag-fr.svg" alt="Drapeau de la France" />
     <span class="lang-slide-name">Français</span>
     <span class="lang-slide-note">Seulement la page d'accueil, pour l'instant</span>
   </a>
@@ -36,7 +42,7 @@ Pesquisa entre **astronomia e computação**, materiais de estudo abertos e regi
 Prefere links em texto? [[pt-br/index|Sobre mim]] · [[en/index|About me]] · [[es/index|Sobre mí]] · [[fr/index|À propos de moi]]
 
 <div class="astronomy-qrcode-card" style="margin: 2.2rem auto; text-align: center; max-width: 420px; padding: 1.5rem; background: linear-gradient(135deg, rgba(15, 23, 42, 0.03), rgba(56, 189, 248, 0.08)); border: 1px solid var(--lightgray); border-radius: 20px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);">
-  <img src="/assets/qrcode-cosmico-home.png" alt="QR Code Pedro Henrique - www.phrandrade.com" width="340" style="width: 340px; max-width: 82vw; height: auto; border-radius: 14px; box-shadow: 0 6px 20px rgba(0,0,0,0.12); padding: 10px; background: #ffffff; display: block; margin: 0 auto;" />
+  <img src="/static/imagens/qrcode-cosmico-home.png" alt="QR Code Pedro Henrique - www.phrandrade.com" width="340" style="width: 340px; max-width: 82vw; height: auto; border-radius: 14px; box-shadow: 0 6px 20px rgba(0,0,0,0.12); padding: 10px; background: #ffffff; display: block; margin: 0 auto;" />
   <p style="margin-top: 1rem; margin-bottom: 0; font-size: 0.95rem; color: var(--dark); font-weight: 600;">
     <b>www.phrandrade.com</b>
   </p>

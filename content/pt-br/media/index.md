@@ -46,7 +46,6 @@ sitesync: true
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[midia-hub|Mídias]] | 18/07/2026 |
-| [[midia-hub.sync-conflict-20261005-150719-F4IWHE7|Hub Central de Mídia & Eventos — hardcore-life]] | 18/07/2026 |
 
 </div>
 
