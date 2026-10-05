@@ -17,7 +17,7 @@ sitesync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>Mídia</span> <span class="academic-nav-sep">/</span> <span>2024</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">IX FEBIC 2024</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2024</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">IX FEBIC 2024</span>
 
 </div>
 
@@ -31,7 +31,7 @@ sitesync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">Hub</span> <span class="academic-nav-counter">(8 de 10)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(8 de 10)</span>
 
 </div>
 
