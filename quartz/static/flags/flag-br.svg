@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 630" role="img" aria-labelledby="flag-br-title">
+  <title id="flag-br-title">Bandeira do Brasil</title>
+  <rect width="900" height="630" fill="#009c3b"/>
+  <path d="M450 66 826 315 450 564 74 315Z" fill="#ffdf00"/>
+  <circle cx="450" cy="315" r="175" fill="#002776"/>
+  <clipPath id="flag-br-globe"><circle cx="450" cy="315" r="175"/></clipPath>
+  <path d="M283 388a330 330 0 0 1 340 -78" fill="none" stroke="#ffffff" stroke-width="46" clip-path="url(#flag-br-globe)"/>
+</svg>
