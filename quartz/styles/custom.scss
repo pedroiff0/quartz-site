@@ -1805,15 +1805,17 @@ article:is(.cards, .cards-grid) > .markdown-rendered {
   align-items: stretch;
 }
 
-article:is(.cards, .cards-grid) > .markdown-rendered > :not(.callout) {
+article:is(.cards, .cards-grid) > .markdown-rendered > * {
   grid-column: 1 / -1;
   min-width: 0;
 }
 
-article:is(.cards, .cards-grid) > .markdown-rendered > .callout {
-  margin: 0;
-  height: 100%;
-  min-width: 0;
+/* Callouts sempre na largura máxima da página (no Obsidian a cssclass cards só afeta tabelas Dataview) e dobráveis normalmente */
+article .callout {
+  width: 100%;
+  max-width: 100% !important;
+  height: auto;
+  margin: 1rem 0;
   box-sizing: border-box;
 }
 
