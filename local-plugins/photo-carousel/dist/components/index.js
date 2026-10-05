@@ -281,6 +281,7 @@ function PhotoCarouselConstructor() {
     );
   };
   PhotoCarousel.afterDOMLoaded = CAROUSEL_ZOOM_SCRIPT;
+  PhotoCarousel.isPhotoCarousel = true;
   return PhotoCarousel;
 }
 

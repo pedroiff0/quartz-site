@@ -9,6 +9,9 @@ const LanguageToggle = LanguageToggleConstructor()
 const CustomFooter = CustomFooterConstructor()
 const CreatedDate = CreatedDateConstructor()
 
+// O carrossel de fotos (plugin local photo-carousel) vem abaixo de Criado/Modificado, não entre o título e as tags.
+const isCarousel = (C: unknown) => (C as { isPhotoCarousel?: boolean }).isPhotoCarousel === true
+
 /**
  * The default page frame — three-column layout with left sidebar, center
  * content (header + body + afterBody), and right sidebar, followed by a footer.
@@ -42,11 +45,16 @@ export const DefaultFrame: PageFrame = {
               ))}
             </Header>
             <div class="popover-hint">
-              {beforeBody.map((BodyComponent) => (
-                <BodyComponent {...componentData} />
-              ))}
+              {beforeBody
+                .filter((BodyComponent) => !isCarousel(BodyComponent))
+                .map((BodyComponent) => (
+                  <BodyComponent {...componentData} />
+                ))}
             </div>
             <CreatedDate {...componentData} />
+            {beforeBody.filter(isCarousel).map((BodyComponent) => (
+              <BodyComponent {...componentData} />
+            ))}
           </div>
           <Content {...componentData} />
           <hr />
