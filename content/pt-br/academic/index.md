@@ -5,14 +5,13 @@ aliases:
   - Acadêmico Hub
   - Central Acadêmica
 created: 2026-09-30 11:30:00-03:00
-modified: 2026-10-05T14:06:22-03:00
+modified: 2026-10-05T15:19:21-03:00
 tags:
   - academico
   - iff
   - hub
 cssclasses:
   - page-layout
-  - cards
 icon: lucide-graduation-cap
 sitesync: false
 ---
