@@ -1948,3 +1948,13 @@ article .media-carousel {
   min-width: 0 !important;
   max-width: 100% !important;
 }
+
+// Aviso "ainda nao traduzido": callout [!untranslated] das notas de index en/es/fr, so aparece via redirecionamento (?untranslated=1)
+.callout[data-callout="untranslated"] {
+  display: none;
+  --color: #d9822b;
+  --border: #d9822b44;
+  --bg: #d9822b1a;
+  --callout-icon: var(--callout-icon-warning);
+}
+html.show-untranslated .callout[data-callout="untranslated"] { display: block; }

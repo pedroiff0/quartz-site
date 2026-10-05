@@ -33,6 +33,8 @@ NotFound.afterDOMLoaded = `
 function fill404() {
   var root = document.querySelector(".notfound");
   if (!root) return;
+  var m = window.location.pathname.match(/^(.*\\/(?:en|es|fr)\\/)./);
+  if (m) { window.location.replace(m[1] + "?untranslated=1"); return; }
 
   var I18N = {
     pt: {

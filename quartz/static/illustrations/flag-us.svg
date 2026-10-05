@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1235 650" role="img" aria-labelledby="flag-us-title">
+  <title id="flag-us-title">Flag of the United States</title>
+  <defs>
+    <path id="flag-us-star" d="M0,-16 3.59,-4.94 15.22,-4.94 5.81,1.89 9.41,12.94 0,6.11 -9.41,12.94 -5.81,1.89 -15.22,-4.94 -3.59,-4.94Z"/>
+  </defs>
+  <rect width="1235" height="650" fill="#b22234"/>
+  <g fill="#ffffff">
+    <rect y="50" width="1235" height="50"/>
+    <rect y="150" width="1235" height="50"/>
+    <rect y="250" width="1235" height="50"/>
+    <rect y="350" width="1235" height="50"/>
+    <rect y="450" width="1235" height="50"/>
+    <rect y="550" width="1235" height="50"/>
+  </g>
+  <rect width="494" height="350" fill="#3c3b6e"/>
+  <g fill="#ffffff">
+    <use href="#flag-us-star" x="41.2" y="35"/><use href="#flag-us-star" x="123.5" y="35"/><use href="#flag-us-star" x="205.8" y="35"/><use href="#flag-us-star" x="288.2" y="35"/><use href="#flag-us-star" x="370.5" y="35"/><use href="#flag-us-star" x="452.8" y="35"/>
+    <use href="#flag-us-star" x="82.3" y="70"/><use href="#flag-us-star" x="164.7" y="70"/><use href="#flag-us-star" x="247" y="70"/><use href="#flag-us-star" x="329.3" y="70"/><use href="#flag-us-star" x="411.7" y="70"/>
+    <use href="#flag-us-star" x="41.2" y="105"/><use href="#flag-us-star" x="123.5" y="105"/><use href="#flag-us-star" x="205.8" y="105"/><use href="#flag-us-star" x="288.2" y="105"/><use href="#flag-us-star" x="370.5" y="105"/><use href="#flag-us-star" x="452.8" y="105"/>
+    <use href="#flag-us-star" x="82.3" y="140"/><use href="#flag-us-star" x="164.7" y="140"/><use href="#flag-us-star" x="247" y="140"/><use href="#flag-us-star" x="329.3" y="140"/><use href="#flag-us-star" x="411.7" y="140"/>
+    <use href="#flag-us-star" x="41.2" y="175"/><use href="#flag-us-star" x="123.5" y="175"/><use href="#flag-us-star" x="205.8" y="175"/><use href="#flag-us-star" x="288.2" y="175"/><use href="#flag-us-star" x="370.5" y="175"/><use href="#flag-us-star" x="452.8" y="175"/>
+    <use href="#flag-us-star" x="82.3" y="210"/><use href="#flag-us-star" x="164.7" y="210"/><use href="#flag-us-star" x="247" y="210"/><use href="#flag-us-star" x="329.3" y="210"/><use href="#flag-us-star" x="411.7" y="210"/>
+    <use href="#flag-us-star" x="41.2" y="245"/><use href="#flag-us-star" x="123.5" y="245"/><use href="#flag-us-star" x="205.8" y="245"/><use href="#flag-us-star" x="288.2" y="245"/><use href="#flag-us-star" x="370.5" y="245"/><use href="#flag-us-star" x="452.8" y="245"/>
+    <use href="#flag-us-star" x="82.3" y="280"/><use href="#flag-us-star" x="164.7" y="280"/><use href="#flag-us-star" x="247" y="280"/><use href="#flag-us-star" x="329.3" y="280"/><use href="#flag-us-star" x="411.7" y="280"/>
+    <use href="#flag-us-star" x="41.2" y="315"/><use href="#flag-us-star" x="123.5" y="315"/><use href="#flag-us-star" x="205.8" y="315"/><use href="#flag-us-star" x="288.2" y="315"/><use href="#flag-us-star" x="370.5" y="315"/><use href="#flag-us-star" x="452.8" y="315"/>
+  </g>
+</svg>
