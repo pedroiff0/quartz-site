@@ -1,19 +1,22 @@
 /* ==========================================================================
-   Table Styles — Renderização Elegante de Tabelas (Quartz Site)
+   Table Styles — Renderização Elegante de Tabelas (Obsidian + Quartz)
    ========================================================================== */
 
+/* Container & Tabela Base */
 article table,
 main table,
 .page table,
-table.dataview,
 .markdown-rendered table,
-.markdown-preview-view table {
+.markdown-preview-view table,
+.table-view-table,
+table.dataview,
+.dataview-container table {
   width: 100% !important;
   max-width: 100% !important;
   box-sizing: border-box !important;
   border-collapse: separate !important;
   border-spacing: 0 !important;
-  margin: 1rem auto !important;
+  margin: 0.75rem auto !important;
   border-radius: 8px !important;
   overflow: hidden !important;
   border: 1px solid var(--lightgray, rgba(148, 163, 184, 0.18)) !important;
@@ -21,59 +24,131 @@ table.dataview,
   background-color: var(--highlight, rgba(15, 23, 42, 0.35)) !important;
   font-size: 0.92rem !important;
   line-height: 1.5 !important;
+}
 
-  thead {
-    background: rgba(56, 189, 248, 0.08) !important;
+/* Cabeçalho da Tabela */
+.markdown-rendered table thead,
+.table-view-table thead,
+table.dataview thead,
+article table thead,
+main table thead,
+.page table thead {
+  background: rgba(56, 189, 248, 0.08) !important;
+}
 
-    th {
-      padding: 10px 16px !important;
-      font-weight: 600 !important;
-      font-size: 0.825rem !important;
-      letter-spacing: 0.04em !important;
-      text-transform: uppercase !important;
-      color: var(--dark, #e2e8f0) !important;
-      border-bottom: 2px solid var(--secondary, rgba(56, 189, 248, 0.35)) !important;
-      text-align: left;
-    }
-  }
+.markdown-rendered table th,
+.table-view-table th,
+table.dataview th,
+article table th,
+main table th,
+.page table th {
+  padding: 10px 16px !important;
+  font-weight: 600 !important;
+  font-size: 0.825rem !important;
+  letter-spacing: 0.04em !important;
+  text-transform: uppercase !important;
+  color: var(--dark, #e2e8f0) !important;
+  border-bottom: 2px solid var(--secondary, rgba(56, 189, 248, 0.35)) !important;
+  text-align: left;
+}
 
-  tbody {
-    td {
-      padding: 9px 16px !important;
-      color: var(--darkgray, #cbd5e1) !important;
-      border-bottom: 1px solid var(--lightgray, rgba(148, 163, 184, 0.08)) !important;
-      border-top: none !important;
-      border-left: none !important;
-      border-right: none !important;
-      transition: background-color 0.15s ease, color 0.15s ease;
-    }
+/* Células do Corpo */
+.markdown-rendered table td,
+.table-view-table td,
+table.dataview td,
+article table td,
+main table td,
+.page table td {
+  padding: 9px 16px !important;
+  color: var(--darkgray, #cbd5e1) !important;
+  border-bottom: 1px solid var(--lightgray, rgba(148, 163, 184, 0.08)) !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
 
-    tr:last-child td {
-      border-bottom: none !important;
-    }
+/* Remover borda da última linha */
+.markdown-rendered table tbody tr:last-child td,
+.table-view-table tbody tr:last-child td,
+table.dataview tbody tr:last-child td,
+article table tbody tr:last-child td,
+main table tbody tr:last-child td,
+.page table tbody tr:last-child td {
+  border-bottom: none !important;
+}
 
-    tr:nth-child(even) {
-      background-color: rgba(255, 255, 255, 0.015) !important;
-    }
+/* Zebra Striping (Linhas Alternadas) */
+.markdown-rendered table tbody tr:nth-child(even),
+.table-view-table tbody tr:nth-child(even),
+table.dataview tbody tr:nth-child(even),
+article table tbody tr:nth-child(even),
+main table tbody tr:nth-child(even),
+.page table tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.015) !important;
+}
 
-    tr:hover {
-      background-color: rgba(56, 189, 248, 0.08) !important;
+/* Efeito Hover nas Linhas */
+.markdown-rendered table tbody tr:hover,
+.table-view-table tbody tr:hover,
+table.dataview tbody tr:hover,
+article table tbody tr:hover,
+main table tbody tr:hover,
+.page table tbody tr:hover {
+  background-color: rgba(56, 189, 248, 0.08) !important;
+}
 
-      td {
-        color: var(--dark, #f8fafc) !important;
-      }
-    }
-  }
+.markdown-rendered table tbody tr:hover td,
+.table-view-table tbody tr:hover td,
+table.dataview tbody tr:hover td,
+article table tbody tr:hover td,
+main table tbody tr:hover td,
+.page table tbody tr:hover td {
+  color: var(--dark, #f8fafc) !important;
+}
 
-  a {
-    color: var(--secondary, #38bdf8) !important;
-    font-weight: 500 !important;
-    text-decoration: none !important;
-    transition: color 0.15s ease;
+/* Links dentro de Tabelas */
+.markdown-rendered table a,
+.table-view-table a,
+table.dataview a,
+article table a,
+main table a,
+.page table a {
+  color: var(--secondary, #38bdf8) !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+  transition: color 0.15s ease;
+}
 
-    &:hover {
-      color: var(--tertiary, #7dd3fc) !important;
-      text-decoration: underline !important;
-    }
-  }
+.markdown-rendered table a:hover,
+.table-view-table a:hover,
+table.dataview a:hover,
+article table a:hover,
+main table a:hover,
+.page table a:hover {
+  color: var(--tertiary, #7dd3fc) !important;
+  text-decoration: underline !important;
+}
+
+/* Scroll e Enquadramento de Containers de Tabela */
+.cm-table-widget,
+.markdown-rendered .table-wrapper,
+.table-view-table-wrapper {
+  overflow: visible !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0.5rem 0;
+  border-radius: 8px;
+}
+
+/* Tabelas e Wrappers dentro de Callouts */
+.callout .table-view-table-wrapper,
+.callout .markdown-rendered .table-wrapper,
+.callout table,
+.callout table.dataview,
+.callout .table-view-table {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0.5rem 0 !important;
+  overflow: visible !important;
 }

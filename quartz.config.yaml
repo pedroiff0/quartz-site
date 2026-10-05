@@ -386,6 +386,12 @@ plugins:
             "curriculo-cv": "Currículo CV"
           };
 
+          const fmTitle = node.data?.frontmatter?.title ?? (node.data?.title !== "index" ? node.data?.title : undefined);
+          if (fmTitle && String(fmTitle).trim()) {
+            node.displayName = String(fmTitle).trim();
+            return node;
+          }
+
           if (titleMap[seg]) {
             node.displayName = titleMap[seg];
             return node;

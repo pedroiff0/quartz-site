@@ -662,3 +662,9 @@ span.cm-hashtag:hover {
 }
 
 
+
+/* nav estatica gerada pelo sync: markdown dentro de HTML gera <p>; display:contents preserva o flex */
+.academic-nav-container p {
+  display: contents;
+  margin: 0;
+}

@@ -5,7 +5,7 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
   const baseDir = ctx.argv.serve ? "/" : url.pathname
 
   return (
-    <article class="notfound">
+    <article class="notfound page-layout">
       <img
         class="notfound-gif"
         src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif"

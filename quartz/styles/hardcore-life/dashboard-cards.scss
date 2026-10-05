@@ -102,7 +102,7 @@
 /* Container de Cards Dataview (Ativo por padrão e via classe .cards) */
 .cards table.dataview,
 .cards .table-view-table,
-.cards-grid table,
+.cards-grid .dv-table table,
 table.dataview:not(.table-normal):not(.no-cards),
 .table-view-table:not(.table-normal):not(.no-cards) {
   width: 100% !important;
@@ -116,7 +116,7 @@ table.dataview:not(.table-normal):not(.no-cards),
 /* Oculta o cabeçalho tabular padrão em modo cards */
 .cards table.dataview thead,
 .cards .table-view-table thead,
-.cards-grid table thead,
+.cards-grid .dv-table table thead,
 table.dataview:not(.table-normal):not(.no-cards) thead,
 .table-view-table:not(.table-normal):not(.no-cards) thead {
   display: none !important;
@@ -125,7 +125,7 @@ table.dataview:not(.table-normal):not(.no-cards) thead,
 /* Grid de cartões responsivo */
 .cards table.dataview tbody,
 .cards .table-view-table tbody,
-.cards-grid table tbody,
+.cards-grid .dv-table table tbody,
 table.dataview:not(.table-normal):not(.no-cards) tbody,
 .table-view-table:not(.table-normal):not(.no-cards) tbody {
   display: grid !important;
@@ -138,7 +138,7 @@ table.dataview:not(.table-normal):not(.no-cards) tbody,
 /* O cartão individual (cada linha <tr> vira um card) */
 .cards table.dataview > tbody > tr,
 .cards .table-view-table > tbody > tr,
-.cards-grid table > tbody > tr,
+.cards-grid .dv-table table > tbody > tr,
 table.dataview:not(.table-normal):not(.no-cards) > tbody > tr,
 .table-view-table:not(.table-normal):not(.no-cards) > tbody > tr {
   display: flex !important;
@@ -154,7 +154,7 @@ table.dataview:not(.table-normal):not(.no-cards) > tbody > tr,
 
 .cards table.dataview > tbody > tr:hover,
 .cards .table-view-table > tbody > tr:hover,
-.cards-grid table > tbody > tr:hover,
+.cards-grid .dv-table table > tbody > tr:hover,
 table.dataview:not(.table-normal):not(.no-cards) > tbody > tr:hover,
 .table-view-table:not(.table-normal):not(.no-cards) > tbody > tr:hover {
   border-color: var(--interactive-accent) !important;
@@ -165,7 +165,7 @@ table.dataview:not(.table-normal):not(.no-cards) > tbody > tr:hover,
 /* Células internas do cartão */
 .cards table.dataview > tbody > tr > td,
 .cards .table-view-table > tbody > tr > td,
-.cards-grid table > tbody > tr > td,
+.cards-grid .dv-table table > tbody > tr > td,
 table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td,
 .table-view-table:not(.table-normal):not(.no-cards) > tbody > tr > td {
   border: none !important;
@@ -180,7 +180,7 @@ table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td,
 /* Título do cartão (primeira coluna / link do arquivo) */
 .cards table.dataview > tbody > tr > td:first-child,
 .cards .table-view-table > tbody > tr > td:first-child,
-.cards-grid table > tbody > tr > td:first-child,
+.cards-grid .dv-table table > tbody > tr > td:first-child,
 table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td:first-child,
 .table-view-table:not(.table-normal):not(.no-cards) > tbody > tr > td:first-child {
   font-weight: 600 !important;

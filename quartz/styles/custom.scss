@@ -1817,7 +1817,7 @@ article:is(.cards, .cards-grid) > .markdown-rendered > .callout {
   box-sizing: border-box;
 }
 
-article:is(.cards, .cards-grid):not(.no-cards) table {
+article:is(.cards, .cards-grid):not(.no-cards) .dv-table table {
   display: block;
   width: 100%;
   overflow: visible;
@@ -1825,18 +1825,18 @@ article:is(.cards, .cards-grid):not(.no-cards) table {
   background: transparent;
 }
 
-article:is(.cards, .cards-grid):not(.no-cards) table thead {
+article:is(.cards, .cards-grid):not(.no-cards) .dv-table table thead {
   display: none;
 }
 
-article:is(.cards, .cards-grid):not(.no-cards) table tbody {
+article:is(.cards, .cards-grid):not(.no-cards) .dv-table table tbody {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--cards-min-width)), 1fr));
   gap: 0.85rem;
   padding: 0.25rem 0;
 }
 
-article:is(.cards, .cards-grid):not(.no-cards) table tbody tr {
+article:is(.cards, .cards-grid):not(.no-cards) .dv-table table tbody tr {
   display: flex;
   flex-direction: column;
   min-width: 0;
@@ -1857,7 +1857,7 @@ article:is(.cards, .cards-grid):not(.no-cards) table tbody tr {
   }
 }
 
-article:is(.cards, .cards-grid):not(.no-cards) table tbody td {
+article:is(.cards, .cards-grid):not(.no-cards) .dv-table table tbody td {
   display: block;
   border: none;
   padding: 0.25rem 0;
@@ -1866,7 +1866,7 @@ article:is(.cards, .cards-grid):not(.no-cards) table tbody td {
   word-break: break-word;
 }
 
-article:is(.cards, .cards-grid):not(.no-cards) table tbody td:first-child {
+article:is(.cards, .cards-grid):not(.no-cards) .dv-table table tbody td:first-child {
   font-weight: 600;
   font-size: 0.98rem;
   margin-bottom: 0.4rem;
@@ -1874,7 +1874,7 @@ article:is(.cards, .cards-grid):not(.no-cards) table tbody td:first-child {
   border-bottom: 1px solid var(--lightgray);
 }
 
-article:is(.cards, .cards-grid):not(.no-cards) table tbody td:empty {
+article:is(.cards, .cards-grid):not(.no-cards) .dv-table table tbody td:empty {
   display: none;
 }
 
@@ -1889,3 +1889,43 @@ article:is(.cards, .cards-grid):not(.no-cards) table tbody td:empty {
 .badge-active { color: #16a34a; border-color: #16a34a; }
 .badge-wip { color: #d97706; border-color: #d97706; }
 .badge-archived { color: var(--gray); }
+
+/* ==========================================================================
+   Tabelas markdown: mesma apresentação do Obsidian (Table Styles.css) —
+   largura total, cabeçalho translúcido, sem caixa extra em volta.
+   Só tabelas geradas de Dataview (.dv-table) sob cssclass cards viram cards.
+   ========================================================================== */
+article .table-container {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0.75rem 0 !important;
+  overflow-x: auto;
+
+  & > table {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+}
+
+article table:not(.dv-table table) {
+  display: table !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0.75rem 0 !important;
+  overflow: hidden !important;
+
+  th {
+    background: color-mix(in srgb, var(--secondary) 12%, transparent) !important;
+    color: var(--dark) !important;
+    -webkit-text-fill-color: currentColor;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-size: 0.825rem;
+  }
+
+  th a {
+    color: var(--secondary) !important;
+  }
+}
