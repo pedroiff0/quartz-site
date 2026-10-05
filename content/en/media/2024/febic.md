@@ -2,7 +2,7 @@
 publish: true
 title: IX FEBIC
 created: 2024-09-15 13:04:00-03:00
-modified: 2026-10-05T15:58:37-03:00
+modified: 2026-10-05T16:01:12-03:00
 tags:
   - midia
   - en
@@ -16,6 +16,7 @@ lang: en
 translation-of: "[[pt-br/media/2024/febic]]"
 ---
 
+THIS IS JUST A TEST
 # IX FEBIC
 
 > [!note] Resumo
