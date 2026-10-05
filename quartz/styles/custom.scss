@@ -1931,3 +1931,12 @@ article table:not(.dv-table table) {
     color: var(--secondary) !important;
   }
 }
+
+/* Carrossel de fotos: em notas com nav-* ele aparece logo abaixo da nav (movido por script); escondido até ser posicionado. */
+body:has(article .academic-nav-container) .page-header > .media-carousel:not([data-placed]) {
+  display: none;
+}
+
+article .media-carousel {
+  margin: 1rem 0;
+}

@@ -211,6 +211,18 @@ function quartzCarouselZoomSetup() {
 }
 document.addEventListener("nav", quartzCarouselZoomSetup);
 document.addEventListener("render", quartzCarouselZoomSetup);
+
+// O carrossel é renderizado no cabeçalho (após Criado/Modificado); quando a nota tem nav-*, ele vai para logo abaixo da nav.
+function placeCarouselAfterNav() {
+  const nav = document.querySelector("article .academic-nav-container");
+  document.querySelectorAll(".page-header > .media-carousel").forEach((c) => {
+    if (nav) nav.insertAdjacentElement("afterend", c);
+    c.setAttribute("data-placed", "1");
+  });
+}
+document.addEventListener("nav", placeCarouselAfterNav);
+document.addEventListener("render", placeCarouselAfterNav);
+placeCarouselAfterNav();
 `;
 
 function PhotoCarouselConstructor() {
