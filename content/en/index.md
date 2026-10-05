@@ -4,7 +4,7 @@ title: Home
 aliases:
   - Home
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-05T15:52:47-03:00
+modified: 2026-10-05T16:24:00-03:00
 tags:
   - pessoal
   - sobre-mim
