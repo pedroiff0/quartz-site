@@ -1,23 +1,22 @@
 ---
 aliases:
- - Hub de Mídia
- - MOC Mídia
- - Mídia
- - midia
+  - Hub de Mídia
+  - MOC Mídia
+  - Mídia
+  - midia
 publish: true
-title: Mídia & Eventos
+title: Hub Central de Mídia & Eventos — hardcore-life
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-05T14:07:01-03:00
+modified: 2026-10-05T15:07:14-03:00
 tags:
- - moc
- - midia
- - eventos
+  - moc
+  - midia
+  - eventos
 cssclasses:
- - page-layout
- - cards
+  - page-layout
 icon: lucide-newspaper
 order: 4
-sitesync: false
+sitesync: true
 ---
 
 # Hub Central de Mídia & Eventos Científicos
@@ -47,6 +46,7 @@ sitesync: false
 | Aula / Conteúdo | Data |
 | :--- | :---: |
 | [[midia-hub|Hub Central de Mídia & Eventos — hardcore-life]] | 18/07/2026 |
+| [[midia-hub.sync-conflict-20261005-150719-F4IWHE7|Hub Central de Mídia & Eventos — hardcore-life]] | 18/07/2026 |
 
 </div>
 
@@ -58,8 +58,8 @@ Participações em feiras, congressos e eventos científicos — organizadas por
 
 ### 2026
 
-- [[pt-br/media/2026/confict-2026|CONFICT ON - 2026]] — Congresso Fluminense de Iniciação Científica e Tecnológica do IFF e UENF (Campos dos Goytacazes, RJ) — apresentação oral do meu trabalho de pesquisa.
-- [[pt-br/media/2026/escolainverno-2026|Escola de Inverno ON - 2026]] — Escola de Inverno em Astrofísica do Observatório Nacional (Rio de Janeiro) — atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4.
+- [[pt-br/media/2026/confict|CONFICT ON - 2026]] — Congresso Fluminense de Iniciação Científica e Tecnológica do IFF e UENF (Campos dos Goytacazes, RJ) — apresentação oral do meu trabalho de pesquisa.
+- [[pt-br/media/2026/escolainverno|Escola de Inverno ON - 2026]] — Escola de Inverno em Astrofísica do Observatório Nacional (Rio de Janeiro) — atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4.
 
 ### 2025
 

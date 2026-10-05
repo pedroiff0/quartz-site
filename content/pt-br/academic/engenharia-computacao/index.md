@@ -24,7 +24,7 @@ sitesync: true
 
 Bem-vindo ao portal completo da matriz curricular, ementário, fluxo de períodos e mapeamento de dependências (*trancas*) do curso de **Bacharelado em Engenharia de Computação** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**.
 
-- Origem: [[02-areas/academico/academico-hub|Hub Acadêmico]]
+- Origem: [[pt-br/academic/index|Hub Acadêmico]]
 - Kanban do Curso: [[pt-br/academic/engenharia-computacao/KANBAN|Kanban EngComp]]
 
 ---
