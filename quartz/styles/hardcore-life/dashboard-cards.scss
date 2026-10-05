@@ -99,12 +99,10 @@
   --cards-border-width: 1px;
 }
 
-/* Container de Cards Dataview (Ativo por padrão e via classe .cards) */
+/* Container de Cards Dataview (Somente com a cssclass cards no frontmatter) */
 .cards table.dataview,
 .cards .table-view-table,
-.cards-grid .dv-table table,
-table.dataview:not(.table-normal):not(.no-cards),
-.table-view-table:not(.table-normal):not(.no-cards) {
+.cards-grid .dv-table table{
   width: 100% !important;
   margin: 0.75rem auto !important;
   border-collapse: separate !important;
@@ -116,18 +114,14 @@ table.dataview:not(.table-normal):not(.no-cards),
 /* Oculta o cabeçalho tabular padrão em modo cards */
 .cards table.dataview thead,
 .cards .table-view-table thead,
-.cards-grid .dv-table table thead,
-table.dataview:not(.table-normal):not(.no-cards) thead,
-.table-view-table:not(.table-normal):not(.no-cards) thead {
+.cards-grid .dv-table table thead{
   display: none !important;
 }
 
 /* Grid de cartões responsivo */
 .cards table.dataview tbody,
 .cards .table-view-table tbody,
-.cards-grid .dv-table table tbody,
-table.dataview:not(.table-normal):not(.no-cards) tbody,
-.table-view-table:not(.table-normal):not(.no-cards) tbody {
+.cards-grid .dv-table table tbody{
   display: grid !important;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--cards-min-width)), 1fr)) !important;
   gap: 0.85rem !important;
@@ -138,9 +132,7 @@ table.dataview:not(.table-normal):not(.no-cards) tbody,
 /* O cartão individual (cada linha <tr> vira um card) */
 .cards table.dataview > tbody > tr,
 .cards .table-view-table > tbody > tr,
-.cards-grid .dv-table table > tbody > tr,
-table.dataview:not(.table-normal):not(.no-cards) > tbody > tr,
-.table-view-table:not(.table-normal):not(.no-cards) > tbody > tr {
+.cards-grid .dv-table table > tbody > tr{
   display: flex !important;
   flex-direction: column !important;
   background-color: var(--cards-background) !important;
@@ -154,9 +146,7 @@ table.dataview:not(.table-normal):not(.no-cards) > tbody > tr,
 
 .cards table.dataview > tbody > tr:hover,
 .cards .table-view-table > tbody > tr:hover,
-.cards-grid .dv-table table > tbody > tr:hover,
-table.dataview:not(.table-normal):not(.no-cards) > tbody > tr:hover,
-.table-view-table:not(.table-normal):not(.no-cards) > tbody > tr:hover {
+.cards-grid .dv-table table > tbody > tr:hover{
   border-color: var(--interactive-accent) !important;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12) !important;
   transform: translateY(-2px);
@@ -165,9 +155,7 @@ table.dataview:not(.table-normal):not(.no-cards) > tbody > tr:hover,
 /* Células internas do cartão */
 .cards table.dataview > tbody > tr > td,
 .cards .table-view-table > tbody > tr > td,
-.cards-grid .dv-table table > tbody > tr > td,
-table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td,
-.table-view-table:not(.table-normal):not(.no-cards) > tbody > tr > td {
+.cards-grid .dv-table table > tbody > tr > td{
   border: none !important;
   padding: 0.25rem 0 !important;
   display: block !important;
@@ -180,9 +168,7 @@ table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td,
 /* Título do cartão (primeira coluna / link do arquivo) */
 .cards table.dataview > tbody > tr > td:first-child,
 .cards .table-view-table > tbody > tr > td:first-child,
-.cards-grid .dv-table table > tbody > tr > td:first-child,
-table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td:first-child,
-.table-view-table:not(.table-normal):not(.no-cards) > tbody > tr > td:first-child {
+.cards-grid .dv-table table > tbody > tr > td:first-child{
   font-weight: 600 !important;
   font-size: 0.98rem !important;
   color: var(--text-accent) !important;
@@ -193,9 +179,7 @@ table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td:first-child,
 
 /* Oculta células vazias */
 .cards table.dataview > tbody > tr > td:empty,
-.cards .table-view-table > tbody > tr > td:empty,
-table.dataview:not(.table-normal):not(.no-cards) > tbody > tr > td:empty,
-.table-view-table:not(.table-normal):not(.no-cards) > tbody > tr > td:empty {
+.cards .table-view-table > tbody > tr > td:empty{
   display: none !important;
 }
 
