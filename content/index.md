@@ -1,10 +1,11 @@
 ---
 title: Pedro H. R. de Andrade
 created: 2026-07-18T14:16:01.130-03:00
-modified: 2026-10-05T15:39:20-03:00
+modified: 2026-10-05T15:55:16-03:00
 published: 2026-07-26T10:01:47.627-03:00
 publish: true
 sitesync: true
+translate: false
 resource-sync: false
 cssclasses:
   - page-layout

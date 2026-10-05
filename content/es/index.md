@@ -1,10 +1,11 @@
 ---
 title: Sobre Mí
 created: 2026-07-18
-modified: 2026-10-05T15:39:57-03:00
+modified: 2026-10-05T15:55:16-03:00
 published: 2026-07-26T12:36:37.259-03:00
 publish: true
 sitesync: true
+translate: false
 resource-sync: false
 cssclasses:
   - page-layout
