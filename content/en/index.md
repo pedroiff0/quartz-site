@@ -4,7 +4,7 @@ title: Home
 aliases:
   - Home
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-05T15:52:05-03:00
+modified: 2026-10-05T15:52:47-03:00
 tags:
   - pessoal
   - sobre-mim
@@ -15,7 +15,7 @@ cssclasses:
 icon: lucide-user
 order: 1
 lang: en
-translation-of: 02-areas/pessoal/sobre-mim/sobre-mim-hub
+translation-of: "[[pt-br/index]]"
 sitesync: true
 resource-sync: true
 ---
