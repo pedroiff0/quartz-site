@@ -36,9 +36,8 @@ content/assets/documentos/Pedro/
 
 # resource/ substitui assets/ e recursos/ (29/09/2026: recursos/ e documentos pessoais nunca versionados).
 # Versionado: resource/meta, o que ja era publico em assets/ (ja rastreado) e imagens referenciadas (git add -f via tools/add-referenced-images.py).
-content/resource/**/*
-!content/resource/**/
-!content/resource/meta/**
+# content/resource e gerado pelo sync-to-quartz.py (so anexos citados por notas sitesync:true + fotos de eventos); o sync ja bloqueia dados sensiveis.
+# Nao ignorar aqui: o glob do Quartz usa .gitignore e deixaria de emitir as imagens.
 content/resource/**/documentos/
 content/resource/**/curriculo/
 content/resource/areas/pessoal/
