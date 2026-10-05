@@ -1940,3 +1940,11 @@ body:has(article .academic-nav-container) .page-header > .media-carousel:not([da
 article .media-carousel {
   margin: 1rem 0;
 }
+
+/* page-layout: a coluna central sempre ocupa toda a trilha do grid, mesmo em notas curtas (antes encolhia ao tamanho do conteúdo) */
+#quartz-body > .center {
+  justify-self: stretch !important;
+  width: 100% !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
