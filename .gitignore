@@ -39,6 +39,7 @@ content/assets/documentos/Pedro/
 # content/resource e gerado pelo sync-to-quartz.py (so anexos citados por notas sitesync:true + fotos de eventos); o sync ja bloqueia dados sensiveis.
 # Nao ignorar aqui: o glob do Quartz usa .gitignore e deixaria de emitir as imagens.
 content/resource/**/documentos/
-content/resource/**/curriculo/
+content/resource/**/curriculo/*
+!content/resource/areas/profissional/curriculo/portuguesecv.pdf
 content/resource/areas/pessoal/
 content/resource/permanente/chaves*/
