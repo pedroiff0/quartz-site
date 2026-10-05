@@ -1,2 +1,0 @@
-pedro,20
-pedc,0

@@ -1,23 +1,56 @@
 ---
 publish: true
 title: Engenharia de Computação
-created: '2026-07-22 12:00:00-03:00'
-modified: 2026-10-01T20:14:35-03:00
+aliases:
+  - Engenharia de Computação Hub
+  - IFF EngComp Hub
+created: 2026-07-22 12:00:00-03:00
+modified: 2026-10-05T14:07:37-03:00
 tags:
-- matriz-curricular
-- engenharia-de-computacao
-- trancas
-- pre-requisitos
-- iff
+  - matriz-curricular
+  - engenharia-de-computacao
+  - trancas
+  - pre-requisitos
+  - iff
+  - hub
 cssclasses:
   - page-layout
-icon: lucide-book-open
+  - cards
+icon: lucide-cpu
 sitesync: true
 ---
 
 # Bacharelado em Engenharia de Computação — IFF
 
 Bem-vindo ao portal completo da matriz curricular, ementário, fluxo de períodos e mapeamento de dependências (*trancas*) do curso de **Bacharelado em Engenharia de Computação** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**.
+
+- Origem: [[02-areas/academico/academico-hub|Hub Acadêmico]]
+- Kanban do Curso: [[pt-br/academic/engenharia-computacao/KANBAN|Kanban EngComp]]
+
+---
+
+## Períodos Letivos
+
+| Período | Status | Acesso |
+| :--- | :---: | :--- |
+| **1º Período** | Concluído | [[pt-br/academic/engenharia-computacao/1-periodo/1o-periodo\|1º Período]] |
+| **2º Período** | Concluído | [[pt-br/academic/engenharia-computacao/2-periodo/2o-periodo\|2º Período]] |
+| **3º Período** | Concluído | [[pt-br/academic/engenharia-computacao/3-periodo/3o-periodo\|3º Período]] |
+| **4º Período** | Concluído | [[pt-br/academic/engenharia-computacao/4-periodo/4o-periodo\|4º Período]] |
+| **5º Período** | Concluído | [[pt-br/academic/engenharia-computacao/5-periodo/5o-periodo\|5º Período]] |
+| **6º Período** | Concluído | [[pt-br/academic/engenharia-computacao/6-periodo/6o-periodo\|6º Período]] |
+| **7º Período** | Ativo | [[pt-br/academic/engenharia-computacao/7-periodo/7o-periodo\|7º Período]] |
+| **8º Período** | Ativo | [[pt-br/academic/engenharia-computacao/8-periodo/8o-periodo\|8º Período]] |
+| **9º Período** | Futuro | [[pt-br/academic/engenharia-computacao/9-periodo/9o-periodo\|9º Período]] |
+| **10º Período** | Futuro | [[pt-br/academic/engenharia-computacao/10-periodo/10o-periodo\|10º Período]] |
+
+---
+
+## Módulos Suplementares
+
+- *Eletivas* — Disciplinas optativas e trilhas de aprofundamento.
+- *Biblioteca* — Acervo de livros e apostilas de referência do curso.
+- *Documentos* — Regulamentos, PPC e declarações acadêmicas.
 
 ---
 
@@ -51,54 +84,54 @@ Navegue interativamente por cada um dos 10 períodos e disciplinas eletivas da g
 
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/1-periodo" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="1º Período" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="1º Período" />
     <div class="slide-caption">1º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/2-periodo" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="2º Período" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="2º Período" />
     <div class="slide-caption">2º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/3-periodo" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="3º Período" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="3º Período" />
     <div class="slide-caption">3º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/4-periodo" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="4º Período" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="4º Período" />
     <div class="slide-caption">4º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/5-periodo" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="5º Período" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="5º Período" />
     <div class="slide-caption">5º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="6º Período" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="6º Período" />
     <div class="slide-caption">6º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/7-periodo" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="7º Período" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="7º Período" />
     <div class="slide-caption">7º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/8-periodo" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="8º Período" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="8º Período" />
     <div class="slide-caption">8º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/9-periodo" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="9º Período" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="9º Período" />
     <div class="slide-caption">9º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/10-periodo" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="10º Período" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="10º Período" />
     <div class="slide-caption">10º Período</div>
   </a>
   <a href="/pt-br/resource/engenharia-de-computação/eletivas" class="carousel-slide">
-    <img src="/99-meta/attachments/assets/illustrations/classes.svg" alt="Eletivas (optativas)" />
+    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="Eletivas (optativas)" />
     <div class="slide-caption">Eletivas (optativas)</div>
   </a>
 </div>
 
 ---
 
-# Matriz Curricular Geral ( Disciplinas)
+# Matriz Curricular Geral (90 Disciplinas)
 
 Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenharia de Computação** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**.
 
@@ -110,147 +143,147 @@ Estrutura completa das **90 disciplinas** do curso de **Bacharelado em Engenhari
 
 ---
 
-## º Período Letivo ( horas)
-
-| Código      | Componente Curricular                                                                                                                         |                    CH                    | Pré-Requisitos | Observações         |             |
-| :---------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------: | :------------- | :------------------ | ----------- |
-| `CSECBJI.1` | [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao|       Fundamentos de Computação]]        | 40h            | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.2` | [[pt-br/academic/engenharia-computacao/1-periodo/introducao-a-engenharia/index|        Introdução à Engenharia]]         | 40h            | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.3` | [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/index|         Lógica para Computação]]         | 60h            | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.4` | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|               Cálculo I]]                | 120h           | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.5` | [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/index| Álgebra Linear e Geometria Analítica I]] | 80h            | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.6` | [[pt-br/academic/engenharia-computacao/1-periodo/teoria-geral-da-administracao/index|     Teoria Geral da Administração]]      | 60h            | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.7` | [[pt-br/academic/engenharia-computacao/1-periodo/desenho-tecnico-para-engenharia/index|    Desenho Técnico para Engenharia]]     | 80h            | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.8` | [[pt-br/academic/engenharia-computacao/1-periodo/expressao-oral-e-escrita/index|        Expressão Oral e Escrita]]        | 40h            | *Sem pré-requisito* | Obrigatória |
-
----
-
-## º Período Letivo ( horas)
+## 1º Período Letivo (520 horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.9` | [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II]] | 80h | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|Cálculo I]] | Obrigatória |
-| `CSECBJI.10` | [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II]] | 80h | [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/index|Álgebra Linear e Geometria Analítica I]] | Obrigatória |
-| `CSECBJI.11` | [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|Física I]] | 80h | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|Cálculo I]], [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/index|Álgebra Linear e Geometria Analítica I]] | Obrigatória |
-| `CSECBJI.12` | [[pt-br/academic/engenharia-computacao/2-periodo/fisica-experimental-i/index|Física Experimental I]] | 40h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.13` | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação]] | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.14` | [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|Matemática Discreta]] | 60h | [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/index|Lógica para Computação]] | Obrigatória |
-| `CSECBJI.15` | [[pt-br/academic/engenharia-computacao/2-periodo/quimica/index|Química]] | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.16` | [[pt-br/academic/engenharia-computacao/2-periodo/quimica-experimental/index|Química Experimental]] | 40h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.1` | [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao\|Fundamentos de Computação]]        | 40h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.2` | [[pt-br/academic/engenharia-computacao/1-periodo/introducao-a-engenharia/introducao-a-engenharia\|Introdução à Engenharia]]         | 40h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.3` | [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao\|Lógica para Computação]]         | 60h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.4` | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I]]                | 120h           | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.5` | [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i\|Álgebra Linear e Geometria Analítica I]] | 80h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.6` | [[pt-br/academic/engenharia-computacao/1-periodo/teoria-geral-da-administracao/teoria-geral-da-administracao\|Teoria Geral da Administração]]      | 60h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.7` | [[pt-br/academic/engenharia-computacao/1-periodo/desenho-tecnico-para-engenharia/desenho-tecnico-para-engenharia\|Desenho Técnico para Engenharia]]     | 80h            | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.8` | [[pt-br/academic/engenharia-computacao/1-periodo/expressao-oral-e-escrita/expressao-oral-e-escrita\|Expressão Oral e Escrita]]        | 40h            | *Sem pré-requisito* | Obrigatória |
 
 ---
 
-## º Período Letivo ( horas)
+## 2º Período Letivo (500 horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.17` | [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/index|Cálculo III]] | 80h | [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II]] | Obrigatória |
-| `CSECBJI.18` | [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/index|Equações Diferenciais]] | 80h | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|Cálculo I]], [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/index|Álgebra Linear e Geometria Analítica I]] | Obrigatória |
-| `CSECBJI.19` | [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|Física II]] | 80h | [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II]], [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|Física I]] | Obrigatória |
-| `CSECBJI.20` | [[pt-br/academic/engenharia-computacao/3-periodo/fisica-experimental-ii/index|Física Experimental II]] | 40h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.21` | [[pt-br/academic/engenharia-computacao/3-periodo/mecanica-dos-solidos/index|Mecânica dos Sólidos]] | 80h | [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|Física I]] | Obrigatória |
-| `CSECBJI.22` | [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/index|Algoritmos e Estruturas de Dados I]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação]] | Obrigatória |
-| `CSECBJI.23` | [[pt-br/academic/engenharia-computacao/3-periodo/introducao-a-ciencia-dos-materiais/index|Introdução à Ciência dos Materiais]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/quimica/index|Química]] | Obrigatória |
-| `CSECBJI.24` | [[pt-br/academic/engenharia-computacao/3-periodo/ciencias-do-ambiente/index|Ciências do Ambiente]] | 40h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.9` | [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii\|Cálculo II]] | 80h | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I]] | Obrigatória |
+| `CSECBJI.10` | [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II]] | 80h | [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i\|Álgebra Linear e Geometria Analítica I]] | Obrigatória |
+| `CSECBJI.11` | [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i\|Física I]] | 80h | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I]], [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i\|Álgebra Linear e Geometria Analítica I]] | Obrigatória |
+| `CSECBJI.12` | [[pt-br/academic/engenharia-computacao/2-periodo/fisica-experimental-i/fisica-experimental-i\|Física Experimental I]] | 40h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.13` | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação]] | 60h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.14` | [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta\|Matemática Discreta]] | 60h | [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao\|Lógica para Computação]] | Obrigatória |
+| `CSECBJI.15` | [[pt-br/academic/engenharia-computacao/2-periodo/quimica/quimica\|Química]] | 60h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.16` | [[pt-br/academic/engenharia-computacao/2-periodo/quimica-experimental/quimica-experimental\|Química Experimental]] | 40h | *Sem pré-requisito* | Obrigatória |
 
 ---
 
-## º Período Letivo ( horas)
+## 3º Período Letivo (520 horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.25` | [[pt-br/academic/engenharia-computacao/4-periodo/calculo-numerico/index|Cálculo Numérico]] | 80h | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação]] | Obrigatória |
-| `CSECBJI.26` | [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/index|Física III]] | 80h | [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/index|Cálculo III]], [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|Física II]] | Obrigatória |
-| `CSECBJI.27` | [[pt-br/academic/engenharia-computacao/4-periodo/fisica-experimental-iii/index|Física Experimental III]] | 40h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.28` | [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/index|Fenômenos de Transporte]] | 80h | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|Cálculo I]], [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|Física II]] | Obrigatória |
-| `CSECBJI.29` | [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/index|Probabilidade e Estatística]] | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.30` | [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|Algoritmos e Estruturas de Dados II]] | 60h | [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/index|Algoritmos e Estruturas de Dados I]] | Obrigatória |
-| `CSECBJI.31` | [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/index|Cálculo IV]] | 80h | [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/index|Cálculo III]] | Obrigatória |
-| `CSECBJI.32` | [[pt-br/academic/engenharia-computacao/4-periodo/economia/index|Economia]] | 40h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.17` | [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii\|Cálculo III]] | 80h | [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii\|Cálculo II]] | Obrigatória |
+| `CSECBJI.18` | [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais\|Equações Diferenciais]] | 80h | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I]], [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i\|Álgebra Linear e Geometria Analítica I]] | Obrigatória |
+| `CSECBJI.19` | [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii\|Física II]] | 80h | [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii\|Cálculo II]], [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i\|Física I]] | Obrigatória |
+| `CSECBJI.20` | [[pt-br/academic/engenharia-computacao/3-periodo/fisica-experimental-ii/fisica-experimental-ii\|Física Experimental II]] | 40h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.21` | [[pt-br/academic/engenharia-computacao/3-periodo/mecanica-dos-solidos/mecanica-dos-solidos\|Mecânica dos Sólidos]] | 80h | [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i\|Física I]] | Obrigatória |
+| `CSECBJI.22` | [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/algoritmos-e-estruturas-de-dados-i\|Algoritmos e Estruturas de Dados I]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação]] | Obrigatória |
+| `CSECBJI.23` | [[pt-br/academic/engenharia-computacao/3-periodo/introducao-a-ciencia-dos-materiais/Introdução à Ciência dos Materiais\|Introdução à Ciência dos Materiais]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/quimica/quimica\|Química]] | Obrigatória |
+| `CSECBJI.24` | [[pt-br/academic/engenharia-computacao/3-periodo/ciencias-do-ambiente/ciencias-do-ambiente\|Ciências do Ambiente]] | 40h | *Sem pré-requisito* | Obrigatória |
 
 ---
 
-## º Período Letivo ( horas)
+## 4º Período Letivo (520 horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.33` | [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/index|Eletricidade Aplicada]] | 60h | [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/index|Física III]] | Obrigatória |
-| `CSECBJI.34` | [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|Projeto e Análise de Algoritmos]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|Matemática Discreta]], [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|Algoritmos e Estruturas de Dados II]] | Obrigatória |
-| `CSECBJI.35` | [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/index|Modelagem de Dados]] | 40h | [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/index|Lógica para Computação]] | Obrigatória |
-| `CSECBJI.36` | [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/index|Engenharia de Software]] | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.37` | [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/index|Eletrônica Analógica]] | 60h | [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/index|Física III]] | Obrigatória |
-| `CSECBJI.38` | [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/index|Paradigmas de Linguagem de Programação]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação]] | Obrigatória |
-| `CSECBJI.39` | [[pt-br/academic/engenharia-computacao/5-periodo/gestao-ambiental/index|Gestão Ambiental]] | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.40` | [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/index|Linguagens Formais e Autômatos]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|Matemática Discreta]] | Obrigatória |
-| `CSECBJI.41` | [[pt-br/academic/engenharia-computacao/5-periodo/avaliacao-e-desempenho-de-sistemas/index|Avaliação e Desempenho de Sistemas]] | 60h | [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/index|Probabilidade e Estatística]] | Obrigatória |
+| `CSECBJI.25` | [[pt-br/academic/engenharia-computacao/4-periodo/calculo-numerico/calculo-numerico\|Cálculo Numérico]] | 80h | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação]] | Obrigatória |
+| `CSECBJI.26` | [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii\|Física III]] | 80h | [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii\|Cálculo III]], [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii\|Física II]] | Obrigatória |
+| `CSECBJI.27` | [[pt-br/academic/engenharia-computacao/4-periodo/fisica-experimental-iii/fisica-experimental-iii\|Física Experimental III]] | 40h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.28` | [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/fenomenos-de-transporte\|Fenômenos de Transporte]] | 80h | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I]], [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii\|Física II]] | Obrigatória |
+| `CSECBJI.29` | [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/probabilidade-e-estatistica\|Probabilidade e Estatística]] | 60h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.30` | [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii\|Algoritmos e Estruturas de Dados II]] | 60h | [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/algoritmos-e-estruturas-de-dados-i\|Algoritmos e Estruturas de Dados I]] | Obrigatória |
+| `CSECBJI.31` | [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/calculo-iv\|Cálculo IV]] | 80h | [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii\|Cálculo III]] | Obrigatória |
+| `CSECBJI.32` | [[pt-br/academic/engenharia-computacao/4-periodo/economia/economia\|Economia]] | 40h | *Sem pré-requisito* | Obrigatória |
 
 ---
 
-## º Período Letivo ( horas)
+## 5º Período Letivo (520 horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.42` | [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/index|Análise de Software Orientada a Objetos]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/index|Engenharia de Software]] | Obrigatória |
-| `CSECBJI.43` | [[pt-br/academic/engenharia-computacao/6-periodo/filosofia-da-ciencia-e-tecnologia/index|Filosofia da Ciência e Tecnologia]] | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.44` | [[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/index|Banco de Dados]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/index|Modelagem de Dados]] | Obrigatória |
-| `CSECBJI.45` | [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/index|Programação Orientada a Objetos I]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação]], [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/index|Paradigmas de Linguagem de Programação]] | Obrigatória |
-| `CSECBJI.46` | [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/index|Eletrônica Digital]] | 60h | [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/index|Lógica para Computação]], [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/index|Eletrônica Analógica]] | Obrigatória |
-| `CSECBJI.47` | [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/index|Comunicação de Dados]] | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.48` | [[pt-br/academic/engenharia-computacao/6-periodo/compiladores/index|Compiladores]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/index|Linguagens Formais e Autômatos]] | Obrigatória |
-| `CSECBJI.49` | [[pt-br/academic/engenharia-computacao/6-periodo/gestao-de-projetos/index|Gestão de Projetos]] | 80h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.33` | [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada\|Eletricidade Aplicada]] | 60h | [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii\|Física III]] | Obrigatória |
+| `CSECBJI.34` | [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos\|Projeto e Análise de Algoritmos]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta\|Matemática Discreta]], [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii\|Algoritmos e Estruturas de Dados II]] | Obrigatória |
+| `CSECBJI.35` | [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/modelagem-de-dados\|Modelagem de Dados]] | 40h | [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao\|Lógica para Computação]] | Obrigatória |
+| `CSECBJI.36` | [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/engenharia-de-software\|Engenharia de Software]] | 60h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.37` | [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/eletronica-analogica\|Eletrônica Analógica]] | 60h | [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii\|Física III]] | Obrigatória |
+| `CSECBJI.38` | [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/paradigmas-de-linguagem-de-programacao\|Paradigmas de Linguagem de Programação]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação]] | Obrigatória |
+| `CSECBJI.39` | [[pt-br/academic/engenharia-computacao/5-periodo/gestao-ambiental/gestao-ambiental\|Gestão Ambiental]] | 60h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.40` | [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/linguagens-formais-e-automatos\|Linguagens Formais e Autômatos]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta\|Matemática Discreta]] | Obrigatória |
+| `CSECBJI.41` | [[pt-br/academic/engenharia-computacao/5-periodo/avaliacao-e-desempenho-de-sistemas/avaliacao-e-desempenho-de-sistemas\|Avaliação e Desempenho de Sistemas]] | 60h | [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/probabilidade-e-estatistica\|Probabilidade e Estatística]] | Obrigatória |
 
 ---
 
-## º Período Letivo ( horas)
+## 6º Período Letivo (500 horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.50` | [[pt-br/academic/engenharia-computacao/7-periodo/projeto-de-software-orientado-a-objetos/index|Projeto de Software Orientado a Objetos]] | 60h | [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/index|Análise de Software Orientada a Objetos]] | Obrigatória |
-| `CSECBJI.51` | [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/index|Programação Orientada a Objetos II]] | 60h | [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/index|Programação Orientada a Objetos I]] | Obrigatória |
-| `CSECBJI.52` | [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/index|Organização de Computadores]] | 60h | [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao|Fundamentos de Computação]] | Obrigatória |
-| `CSECBJI.53` | [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/index|Sistemas Digitais]] | 60h | [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/index|Eletrônica Digital]] | Obrigatória |
-| `CSECBJI.54` | [[pt-br/academic/engenharia-computacao/7-periodo/computacao-sociedade-e-inclusao/index|Computação, Sociedade e Inclusão]] | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.55` | [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I]] | 60h | [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/index|Comunicação de Dados]] | Obrigatória |
-| `CSECBJI.56` | [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I]] | 60h | [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao|Fundamentos de Computação]] | Obrigatória |
+| `CSECBJI.42` | [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/analise-de-software-orientada-a-objetos\|Análise de Software Orientada a Objetos]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/engenharia-de-software\|Engenharia de Software]] | Obrigatória |
+| `CSECBJI.43` | [[pt-br/academic/engenharia-computacao/6-periodo/filosofia-da-ciencia-e-tecnologia/filosofia-da-ciencia-e-tecnologia\|Filosofia da Ciência e Tecnologia]] | 60h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.44` | [[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/banco-de-dados\|Banco de Dados]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/modelagem-de-dados\|Modelagem de Dados]] | Obrigatória |
+| `CSECBJI.45` | [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i\|Programação Orientada a Objetos I]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação]], [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/paradigmas-de-linguagem-de-programacao\|Paradigmas de Linguagem de Programação]] | Obrigatória |
+| `CSECBJI.46` | [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital\|Eletrônica Digital]] | 60h | [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao\|Lógica para Computação]], [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/eletronica-analogica\|Eletrônica Analógica]] | Obrigatória |
+| `CSECBJI.47` | [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados\|Comunicação de Dados]] | 60h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.48` | [[pt-br/academic/engenharia-computacao/6-periodo/compiladores/compiladores\|Compiladores]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/linguagens-formais-e-automatos\|Linguagens Formais e Autômatos]] | Obrigatória |
+| `CSECBJI.49` | [[pt-br/academic/engenharia-computacao/6-periodo/gestao-de-projetos/gestao-de-projetos\|Gestão de Projetos]] | 80h | *Sem pré-requisito* | Obrigatória |
+
+---
+
+## 7º Período Letivo (540 horas)
+
+| Código | Componente Curricular | CH | Pré-Requisitos | Observações |
+| :--- | :--- | :---: | :--- | :--- |
+| `CSECBJI.50` | [[pt-br/academic/engenharia-computacao/7-periodo/projeto-de-software-orientado-a-objetos/projeto-de-software-orientado-a-objetos\|Projeto de Software Orientado a Objetos]] | 60h | [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/analise-de-software-orientada-a-objetos\|Análise de Software Orientada a Objetos]] | Obrigatória |
+| `CSECBJI.51` | [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii\|Programação Orientada a Objetos II]] | 60h | [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i\|Programação Orientada a Objetos I]] | Obrigatória |
+| `CSECBJI.52` | [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores\|Organização de Computadores]] | 60h | [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao\|Fundamentos de Computação]] | Obrigatória |
+| `CSECBJI.53` | [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/sistemas-digitais\|Sistemas Digitais]] | 60h | [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital\|Eletrônica Digital]] | Obrigatória |
+| `CSECBJI.54` | [[pt-br/academic/engenharia-computacao/7-periodo/computacao-sociedade-e-inclusao/computacao-sociedade-e-inclusao\|Computação, Sociedade e Inclusão]] | 60h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.55` | [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I]] | 60h | [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados\|Comunicação de Dados]] | Obrigatória |
+| `CSECBJI.56` | [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I]] | 60h | [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao\|Fundamentos de Computação]] | Obrigatória |
 | `CSECBJI.57` | **Eletiva I (`CSECBJI.57`)** | 60h | *Sem pré-requisito* | Obrigatória |
 | `CSECBJI.58` | **Eletiva II (`CSECBJI.58`)** | 60h | *Sem pré-requisito* | Obrigatória |
 
 ---
 
-## º Período Letivo ( horas)
+## 8º Período Letivo (480 horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.59` | [[pt-br/academic/engenharia-computacao/8-periodo/redes-de-computadores-ii/index|Redes de Computadores II]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I]] | Obrigatória |
-| `CSECBJI.60` | [[pt-br/academic/engenharia-computacao/8-periodo/seguranca-e-higiene-do-trabalho/index|Segurança e Higiene do Trabalho]] | 80h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.61` | [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/index|Arquitetura de Computadores]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/index|Organização de Computadores]], [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/index|Sistemas Digitais]] | Obrigatória |
-| `CSECBJI.62` | [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/index|Microcontroladores]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/index|Organização de Computadores]] | Obrigatória |
-| `CSECBJI.63` | [[pt-br/academic/engenharia-computacao/8-periodo/sistemas-operacionais-ii/index|Sistemas Operacionais II]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I]] | Obrigatória |
-| `CSECBJI.64` | [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/index|Metodologia Científica e Tecnológica]] | 40h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.59` | [[pt-br/academic/engenharia-computacao/8-periodo/redes-de-computadores-ii/redes-de-computadores-ii\|Redes de Computadores II]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I]] | Obrigatória |
+| `CSECBJI.60` | [[pt-br/academic/engenharia-computacao/8-periodo/seguranca-e-higiene-do-trabalho/seguranca-e-higiene-do-trabalho\|Segurança e Higiene do Trabalho]] | 80h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.61` | [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/arquitetura-de-computadores\|Arquitetura de Computadores]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores\|Organização de Computadores]], [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/sistemas-digitais\|Sistemas Digitais]] | Obrigatória |
+| `CSECBJI.62` | [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/microcontroladores\|Microcontroladores]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores\|Organização de Computadores]] | Obrigatória |
+| `CSECBJI.63` | [[pt-br/academic/engenharia-computacao/8-periodo/sistemas-operacionais-ii/sistemas-operacionais-ii\|Sistemas Operacionais II]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I]] | Obrigatória |
+| `CSECBJI.64` | [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/metodologia-cientifica-e-tecnologica\|Metodologia Científica e Tecnológica]] | 40h | *Sem pré-requisito* | Obrigatória |
 | `CSECBJI.65` | **Eletiva III (`CSECBJI.65`)** | 60h | *Sem pré-requisito* | Obrigatória |
 | `CSECBJI.66` | **Eletiva IV (`CSECBJI.66`)** | 60h | *Sem pré-requisito* | Obrigatória |
 
 ---
 
-## º Período Letivo ( horas)
+## 9º Período Letivo (420 horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.67` | [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/index|Projeto Final de Curso I]] | 80h | [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/index|Metodologia Científica e Tecnológica]] | Obrigatória |
-| `CSECBJI.68` | [[pt-br/academic/engenharia-computacao/9-periodo/empreendedorismo/index|Empreendedorismo]] | 40h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.69` | [[pt-br/academic/engenharia-computacao/9-periodo/direito-etica-e-cidadania/index|Direito, Ética e Cidadania]] | 60h | *Sem pré-requisito* | Obrigatória |
-| `CSECBJI.70` | [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-embarcados/index|Sistemas Embarcados]] | 60h | [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/index|Microcontroladores]] | Obrigatória |
-| `CSECBJI.71` | [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/index|Sistemas Distribuídos]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I]], [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I]] | Obrigatória |
+| `CSECBJI.67` | [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i\|Projeto Final de Curso I]] | 80h | [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/metodologia-cientifica-e-tecnologica\|Metodologia Científica e Tecnológica]] | Obrigatória |
+| `CSECBJI.68` | [[pt-br/academic/engenharia-computacao/9-periodo/empreendedorismo/empreendedorismo\|Empreendedorismo]] | 40h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.69` | [[pt-br/academic/engenharia-computacao/9-periodo/direito-etica-e-cidadania/direito-etica-e-cidadania\|Direito, Ética e Cidadania]] | 60h | *Sem pré-requisito* | Obrigatória |
+| `CSECBJI.70` | [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-embarcados/sistemas-embarcados\|Sistemas Embarcados]] | 60h | [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/microcontroladores\|Microcontroladores]] | Obrigatória |
+| `CSECBJI.71` | [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos\|Sistemas Distribuídos]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I]], [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I]] | Obrigatória |
 | `CSECBJI.72` | **Eletiva V (`CSECBJI.72`)** | 60h | *Sem pré-requisito* | Obrigatória |
 | `CSECBJI.73` | **Eletiva VI (`CSECBJI.73`)** | 60h | *Sem pré-requisito* | Obrigatória |
 
 ---
 
-## º Período Letivo ( horas)
+## 10º Período Letivo (80 horas)
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Observações |
 | :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.74` | [[pt-br/academic/engenharia-computacao/10-periodo/projeto-final-de-curso-ii/index|Projeto Final de Curso II]] | 80h | [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/index|Projeto Final de Curso I]] | Obrigatória |
+| `CSECBJI.74` | [[pt-br/academic/engenharia-computacao/10-periodo/projeto-final-de-curso-ii/projeto-final-de-curso-ii\|Projeto Final de Curso II]] | 80h | [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i\|Projeto Final de Curso I]] | Obrigatória |
 
 ---
 
@@ -260,22 +293,22 @@ O aluno deve integralizar carga horária optativa escolhendo entre o rol de disc
 
 | Código | Componente Curricular | CH | Pré-Requisitos | Área Temática |
 | :--- | :--- | :---: | :--- | :--- |
-| `CSECBJI.75` | [[pt-br/academic/engenharia-computacao/eletivas/libras/index|Libras]] | 60h | *Sem pré-requisito* | Eletiva |
-| `CSECBJI.76` | [[pt-br/academic/engenharia-computacao/eletivas/sociedade-e-tecnologia/index|Sociedade e Tecnologia]] | 60h | *Sem pré-requisito* | Eletiva |
-| `CSECBJI.77` | [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/index|Computação Gráfica]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II]], [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|Algoritmos e Estruturas de Dados II]] | Eletiva |
-| `CSECBJI.78` | [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-imagens/index|Processamento de Imagens]] | 60h | [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/index|Computação Gráfica]] | Eletiva |
-| `CSECBJI.79` | [[pt-br/academic/engenharia-computacao/eletivas/desenvolvimento-web/index|Desenvolvimento Web]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/index|Programação Orientada a Objetos II]] | Eletiva |
-| `CSECBJI.80` | [[pt-br/academic/engenharia-computacao/eletivas/interconexao-de-redes-de-computadores/index|Interconexão de Redes de Computadores]] | 60h | *Sem pré-requisito* | Eletiva |
-| `CSECBJI.81` | [[pt-br/academic/engenharia-computacao/eletivas/dimensionamento-de-redes-de-computadores/index|Dimensionamento de Redes de Computadores]] | 60h | *Sem pré-requisito* | Eletiva |
-| `CSECBJI.82` | [[pt-br/academic/engenharia-computacao/eletivas/energia-e-eficiencia-energetica/index|Energia e Eficiência Energética]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/index|Eletricidade Aplicada]] | Eletiva |
-| `CSECBJI.83` | [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-sinais/index|Processamento de Sinais]] | 60h | [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/index|Cálculo IV]], [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/index|Comunicação de Dados]] | Eletiva |
-| `CSECBJI.84` | [[pt-br/academic/engenharia-computacao/eletivas/geoprocessamento/index|Geoprocessamento]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|Projeto e Análise de Algoritmos]] | Eletiva |
-| `CSECBJI.85` | [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/index|Modelagem Ambiental]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II]], [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/index|Equações Diferenciais]] | Eletiva |
-| `CSECBJI.86` | [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/index|Algoritmos Distribuídos]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I]], [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I]] | Eletiva |
-| `CSECBJI.87` | [[pt-br/academic/engenharia-computacao/eletivas/computacao-paralela-e-distribuida/index|Computação Paralela e Distribuída]] | 60h | [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/index|Algoritmos Distribuídos]] | Eletiva |
-| `CSECBJI.88` | [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/index|Pesquisa Operacional I]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II]] | Eletiva |
-| `CSECBJI.89` | [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-ii/index|Pesquisa Operacional II]] | 60h | [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/index|Pesquisa Operacional I]] | Eletiva |
-| `CSECBJI.90` | [[pt-br/academic/engenharia-computacao/eletivas/inteligencia-artificial/index|Inteligência Artificial]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|Projeto e Análise de Algoritmos]] | Eletiva |
+| `CSECBJI.75` | [[pt-br/academic/engenharia-computacao/eletivas/libras/libras\|Libras]] | 60h | *Sem pré-requisito* | Eletiva |
+| `CSECBJI.76` | [[pt-br/academic/engenharia-computacao/eletivas/sociedade-e-tecnologia/sociedade-e-tecnologia\|Sociedade e Tecnologia]] | 60h | *Sem pré-requisito* | Eletiva |
+| `CSECBJI.77` | [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica\|Computação Gráfica]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II]], [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii\|Algoritmos e Estruturas de Dados II]] | Eletiva |
+| `CSECBJI.78` | [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-imagens/processamento-de-imagens\|Processamento de Imagens]] | 60h | [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica\|Computação Gráfica]] | Eletiva |
+| `CSECBJI.79` | [[pt-br/academic/engenharia-computacao/eletivas/desenvolvimento-web/desenvolvimento-web\|Desenvolvimento Web]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii\|Programação Orientada a Objetos II]] | Eletiva |
+| `CSECBJI.80` | [[pt-br/academic/engenharia-computacao/eletivas/interconexao-de-redes-de-computadores/interconexao-de-redes-de-computadores\|Interconexão de Redes de Computadores]] | 60h | *Sem pré-requisito* | Eletiva |
+| `CSECBJI.81` | [[pt-br/academic/engenharia-computacao/eletivas/dimensionamento-de-redes-de-computadores/dimensionamento-de-redes-de-computadores\|Dimensionamento de Redes de Computadores]] | 60h | *Sem pré-requisito* | Eletiva |
+| `CSECBJI.82` | [[pt-br/academic/engenharia-computacao/eletivas/energia-e-eficiencia-energetica/energia-e-eficiencia-energetica\|Energia e Eficiência Energética]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada\|Eletricidade Aplicada]] | Eletiva |
+| `CSECBJI.83` | [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-sinais/processamento-de-sinais\|Processamento de Sinais]] | 60h | [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/calculo-iv\|Cálculo IV]], [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados\|Comunicação de Dados]] | Eletiva |
+| `CSECBJI.84` | [[pt-br/academic/engenharia-computacao/eletivas/geoprocessamento/geoprocessamento\|Geoprocessamento]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos\|Projeto e Análise de Algoritmos]] | Eletiva |
+| `CSECBJI.85` | [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/modelagem-ambiental\|Modelagem Ambiental]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II]], [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais\|Equações Diferenciais]] | Eletiva |
+| `CSECBJI.86` | [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos\|Algoritmos Distribuídos]] | 60h | [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I]], [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I]] | Eletiva |
+| `CSECBJI.87` | [[pt-br/academic/engenharia-computacao/eletivas/computacao-paralela-e-distribuida/computacao-paralela-e-distribuida\|Computação Paralela e Distribuída]] | 60h | [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos\|Algoritmos Distribuídos]] | Eletiva |
+| `CSECBJI.88` | [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i\|Pesquisa Operacional I]] | 60h | [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II]] | Eletiva |
+| `CSECBJI.89` | [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-ii/pesquisa-operacional-ii\|Pesquisa Operacional II]] | 60h | [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i\|Pesquisa Operacional I]] | Eletiva |
+| `CSECBJI.90` | [[pt-br/academic/engenharia-computacao/eletivas/inteligencia-artificial/inteligencia-artificial\|Inteligência Artificial]] | 60h | [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos\|Projeto e Análise de Algoritmos]] | Eletiva |
 
 ---
 
@@ -529,46 +562,46 @@ A tabela abaixo lista todas as disciplinas que bloqueiam outras disciplinas post
 
 | Disciplina de Origem | Período | Carga | Disciplinas que Ficam Trancadas (Dependentes) |
 | :--- | :---: | :---: | :--- |
-| [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao|Fundamentos de Computação (CSECBJI.1)]] | 1º | 40h | • [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/index|Organização de Computadores (CSECBJI.52)]]<br>• [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I (CSECBJI.56)]] |
-| [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/index|Lógica para Computação (CSECBJI.3)]] | 1º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|Matemática Discreta (CSECBJI.14)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/index|Modelagem de Dados (CSECBJI.35)]]<br>• [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/index|Eletrônica Digital (CSECBJI.46)]] |
-| [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|Cálculo I (CSECBJI.4)]] | 1º | 120h | • [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|Física I (CSECBJI.11)]]<br>• [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II (CSECBJI.9)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/index|Equações Diferenciais (CSECBJI.18)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/index|Fenômenos de Transporte (CSECBJI.28)]] |
-| [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/index|Álgebra Linear e Geometria Analítica I (CSECBJI.5)]] | 1º | 80h | • [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]]<br>• [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|Física I (CSECBJI.11)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/index|Equações Diferenciais (CSECBJI.18)]] |
-| [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II (CSECBJI.9)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/index|Cálculo III (CSECBJI.17)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|Física II (CSECBJI.19)]] |
-| [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/index|Computação Gráfica (CSECBJI.77)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/index|Modelagem Ambiental (CSECBJI.85)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/index|Pesquisa Operacional I (CSECBJI.88)]] |
-| [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|Física I (CSECBJI.11)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|Física II (CSECBJI.19)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/mecanica-dos-solidos/index|Mecânica dos Sólidos (CSECBJI.21)]] |
-| [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação (CSECBJI.13)]] | 2º | 60h | • [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/index|Algoritmos e Estruturas de Dados I (CSECBJI.22)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/calculo-numerico/index|Cálculo Numérico (CSECBJI.25)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/index|Paradigmas de Linguagem de Programação (CSECBJI.38)]]<br>• [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/index|Programação Orientada a Objetos I (CSECBJI.45)]] |
-| [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|Matemática Discreta (CSECBJI.14)]] | 2º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|Projeto e Análise de Algoritmos (CSECBJI.34)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/index|Linguagens Formais e Autômatos (CSECBJI.40)]] |
-| [[pt-br/academic/engenharia-computacao/2-periodo/quimica/index|Química (CSECBJI.15)]] | 2º | 60h | • [[pt-br/academic/engenharia-computacao/3-periodo/introducao-a-ciencia-dos-materiais/index|Introdução à Ciência dos Materiais (CSECBJI.23)]] |
-| [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/index|Cálculo III (CSECBJI.17)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/index|Física III (CSECBJI.26)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/index|Cálculo IV (CSECBJI.31)]] |
-| [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/index|Equações Diferenciais (CSECBJI.18)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/index|Modelagem Ambiental (CSECBJI.85)]] |
-| [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|Física II (CSECBJI.19)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/index|Física III (CSECBJI.26)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/index|Fenômenos de Transporte (CSECBJI.28)]] |
-| [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/index|Algoritmos e Estruturas de Dados I (CSECBJI.22)]] | 3º | 60h | • [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] |
-| [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/index|Física III (CSECBJI.26)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/index|Eletricidade Aplicada (CSECBJI.33)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/index|Eletrônica Analógica (CSECBJI.37)]] |
-| [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/index|Probabilidade e Estatística (CSECBJI.29)]] | 4º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/avaliacao-e-desempenho-de-sistemas/index|Avaliação e Desempenho de Sistemas (CSECBJI.41)]] |
-| [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] | 4º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|Projeto e Análise de Algoritmos (CSECBJI.34)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/index|Computação Gráfica (CSECBJI.77)]] |
-| [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/index|Cálculo IV (CSECBJI.31)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-sinais/index|Processamento de Sinais (CSECBJI.83)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/index|Eletricidade Aplicada (CSECBJI.33)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/energia-e-eficiencia-energetica/index|Energia e Eficiência Energética (CSECBJI.82)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|Projeto e Análise de Algoritmos (CSECBJI.34)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/geoprocessamento/index|Geoprocessamento (CSECBJI.84)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/inteligencia-artificial/index|Inteligência Artificial (CSECBJI.90)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/index|Modelagem de Dados (CSECBJI.35)]] | 5º | 40h | • [[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/index|Banco de Dados (CSECBJI.44)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/index|Engenharia de Software (CSECBJI.36)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/index|Análise de Software Orientada a Objetos (CSECBJI.42)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/index|Eletrônica Analógica (CSECBJI.37)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/index|Eletrônica Digital (CSECBJI.46)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/index|Paradigmas de Linguagem de Programação (CSECBJI.38)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/index|Programação Orientada a Objetos I (CSECBJI.45)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/index|Linguagens Formais e Autômatos (CSECBJI.40)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/compiladores/index|Compiladores (CSECBJI.48)]] |
-| [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/index|Análise de Software Orientada a Objetos (CSECBJI.42)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/projeto-de-software-orientado-a-objetos/index|Projeto de Software Orientado a Objetos (CSECBJI.50)]] |
-| [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/index|Programação Orientada a Objetos I (CSECBJI.45)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/index|Programação Orientada a Objetos II (CSECBJI.51)]] |
-| [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/index|Eletrônica Digital (CSECBJI.46)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/index|Sistemas Digitais (CSECBJI.53)]] |
-| [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/index|Comunicação de Dados (CSECBJI.47)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I (CSECBJI.55)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-sinais/index|Processamento de Sinais (CSECBJI.83)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/index|Programação Orientada a Objetos II (CSECBJI.51)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/desenvolvimento-web/index|Desenvolvimento Web (CSECBJI.79)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/index|Organização de Computadores (CSECBJI.52)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/index|Arquitetura de Computadores (CSECBJI.61)]]<br>• [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/index|Microcontroladores (CSECBJI.62)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/index|Sistemas Digitais (CSECBJI.53)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/index|Arquitetura de Computadores (CSECBJI.61)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I (CSECBJI.55)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/8-periodo/redes-de-computadores-ii/index|Redes de Computadores II (CSECBJI.59)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/index|Algoritmos Distribuídos (CSECBJI.86)]]<br>• [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/index|Sistemas Distribuídos (CSECBJI.71)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I (CSECBJI.56)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/8-periodo/sistemas-operacionais-ii/index|Sistemas Operacionais II (CSECBJI.63)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/index|Algoritmos Distribuídos (CSECBJI.86)]]<br>• [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/index|Sistemas Distribuídos (CSECBJI.71)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/index|Computação Gráfica (CSECBJI.77)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-imagens/index|Processamento de Imagens (CSECBJI.78)]] |
-| [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/index|Microcontroladores (CSECBJI.62)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-embarcados/index|Sistemas Embarcados (CSECBJI.70)]] |
-| [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/index|Metodologia Científica e Tecnológica (CSECBJI.64)]] | 8º | 40h | • [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/index|Projeto Final de Curso I (CSECBJI.67)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/index|Algoritmos Distribuídos (CSECBJI.86)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/computacao-paralela-e-distribuida/index|Computação Paralela e Distribuída (CSECBJI.87)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/index|Pesquisa Operacional I (CSECBJI.88)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-ii/index|Pesquisa Operacional II (CSECBJI.89)]] |
-| [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/index|Projeto Final de Curso I (CSECBJI.67)]] | 9º | 80h | • [[pt-br/academic/engenharia-computacao/10-periodo/projeto-final-de-curso-ii/index|Projeto Final de Curso II (CSECBJI.74)]] |
+| [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao\|Fundamentos de Computação (CSECBJI.1)]] | 1º | 40h | • [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores\|Organização de Computadores (CSECBJI.52)]]<br>• [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I (CSECBJI.56)]] |
+| [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao\|Lógica para Computação (CSECBJI.3)]] | 1º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta\|Matemática Discreta (CSECBJI.14)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/modelagem-de-dados\|Modelagem de Dados (CSECBJI.35)]]<br>• [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital\|Eletrônica Digital (CSECBJI.46)]] |
+| [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I (CSECBJI.4)]] | 1º | 120h | • [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i\|Física I (CSECBJI.11)]]<br>• [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii\|Cálculo II (CSECBJI.9)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais\|Equações Diferenciais (CSECBJI.18)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/fenomenos-de-transporte\|Fenômenos de Transporte (CSECBJI.28)]] |
+| [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i\|Álgebra Linear e Geometria Analítica I (CSECBJI.5)]] | 1º | 80h | • [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]]<br>• [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i\|Física I (CSECBJI.11)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais\|Equações Diferenciais (CSECBJI.18)]] |
+| [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii\|Cálculo II (CSECBJI.9)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii\|Cálculo III (CSECBJI.17)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii\|Física II (CSECBJI.19)]] |
+| [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica\|Computação Gráfica (CSECBJI.77)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/modelagem-ambiental\|Modelagem Ambiental (CSECBJI.85)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i\|Pesquisa Operacional I (CSECBJI.88)]] |
+| [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i\|Física I (CSECBJI.11)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii\|Física II (CSECBJI.19)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/mecanica-dos-solidos/mecanica-dos-solidos\|Mecânica dos Sólidos (CSECBJI.21)]] |
+| [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação (CSECBJI.13)]] | 2º | 60h | • [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/algoritmos-e-estruturas-de-dados-i\|Algoritmos e Estruturas de Dados I (CSECBJI.22)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/calculo-numerico/calculo-numerico\|Cálculo Numérico (CSECBJI.25)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/paradigmas-de-linguagem-de-programacao\|Paradigmas de Linguagem de Programação (CSECBJI.38)]]<br>• [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i\|Programação Orientada a Objetos I (CSECBJI.45)]] |
+| [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta\|Matemática Discreta (CSECBJI.14)]] | 2º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos\|Projeto e Análise de Algoritmos (CSECBJI.34)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/linguagens-formais-e-automatos\|Linguagens Formais e Autômatos (CSECBJI.40)]] |
+| [[pt-br/academic/engenharia-computacao/2-periodo/quimica/quimica\|Química (CSECBJI.15)]] | 2º | 60h | • [[pt-br/academic/engenharia-computacao/3-periodo/introducao-a-ciencia-dos-materiais/Introdução à Ciência dos Materiais\|Introdução à Ciência dos Materiais (CSECBJI.23)]] |
+| [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii\|Cálculo III (CSECBJI.17)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii\|Física III (CSECBJI.26)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/calculo-iv\|Cálculo IV (CSECBJI.31)]] |
+| [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais\|Equações Diferenciais (CSECBJI.18)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/modelagem-ambiental\|Modelagem Ambiental (CSECBJI.85)]] |
+| [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii\|Física II (CSECBJI.19)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii\|Física III (CSECBJI.26)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/fenomenos-de-transporte\|Fenômenos de Transporte (CSECBJI.28)]] |
+| [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/algoritmos-e-estruturas-de-dados-i\|Algoritmos e Estruturas de Dados I (CSECBJI.22)]] | 3º | 60h | • [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii\|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] |
+| [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii\|Física III (CSECBJI.26)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada\|Eletricidade Aplicada (CSECBJI.33)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/eletronica-analogica\|Eletrônica Analógica (CSECBJI.37)]] |
+| [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/probabilidade-e-estatistica\|Probabilidade e Estatística (CSECBJI.29)]] | 4º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/avaliacao-e-desempenho-de-sistemas/avaliacao-e-desempenho-de-sistemas\|Avaliação e Desempenho de Sistemas (CSECBJI.41)]] |
+| [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii\|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] | 4º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos\|Projeto e Análise de Algoritmos (CSECBJI.34)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica\|Computação Gráfica (CSECBJI.77)]] |
+| [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/calculo-iv\|Cálculo IV (CSECBJI.31)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-sinais/processamento-de-sinais\|Processamento de Sinais (CSECBJI.83)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada\|Eletricidade Aplicada (CSECBJI.33)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/energia-e-eficiencia-energetica/energia-e-eficiencia-energetica\|Energia e Eficiência Energética (CSECBJI.82)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos\|Projeto e Análise de Algoritmos (CSECBJI.34)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/geoprocessamento/geoprocessamento\|Geoprocessamento (CSECBJI.84)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/inteligencia-artificial/inteligencia-artificial\|Inteligência Artificial (CSECBJI.90)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/modelagem-de-dados\|Modelagem de Dados (CSECBJI.35)]] | 5º | 40h | • [[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/banco-de-dados\|Banco de Dados (CSECBJI.44)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/engenharia-de-software\|Engenharia de Software (CSECBJI.36)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/analise-de-software-orientada-a-objetos\|Análise de Software Orientada a Objetos (CSECBJI.42)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/eletronica-analogica\|Eletrônica Analógica (CSECBJI.37)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital\|Eletrônica Digital (CSECBJI.46)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/paradigmas-de-linguagem-de-programacao\|Paradigmas de Linguagem de Programação (CSECBJI.38)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i\|Programação Orientada a Objetos I (CSECBJI.45)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/linguagens-formais-e-automatos\|Linguagens Formais e Autômatos (CSECBJI.40)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/compiladores/compiladores\|Compiladores (CSECBJI.48)]] |
+| [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/analise-de-software-orientada-a-objetos\|Análise de Software Orientada a Objetos (CSECBJI.42)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/projeto-de-software-orientado-a-objetos/projeto-de-software-orientado-a-objetos\|Projeto de Software Orientado a Objetos (CSECBJI.50)]] |
+| [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i\|Programação Orientada a Objetos I (CSECBJI.45)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii\|Programação Orientada a Objetos II (CSECBJI.51)]] |
+| [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital\|Eletrônica Digital (CSECBJI.46)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/sistemas-digitais\|Sistemas Digitais (CSECBJI.53)]] |
+| [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados\|Comunicação de Dados (CSECBJI.47)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I (CSECBJI.55)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-sinais/processamento-de-sinais\|Processamento de Sinais (CSECBJI.83)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii\|Programação Orientada a Objetos II (CSECBJI.51)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/desenvolvimento-web/desenvolvimento-web\|Desenvolvimento Web (CSECBJI.79)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores\|Organização de Computadores (CSECBJI.52)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/arquitetura-de-computadores\|Arquitetura de Computadores (CSECBJI.61)]]<br>• [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/microcontroladores\|Microcontroladores (CSECBJI.62)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/sistemas-digitais\|Sistemas Digitais (CSECBJI.53)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/arquitetura-de-computadores\|Arquitetura de Computadores (CSECBJI.61)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I (CSECBJI.55)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/8-periodo/redes-de-computadores-ii/redes-de-computadores-ii\|Redes de Computadores II (CSECBJI.59)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos\|Algoritmos Distribuídos (CSECBJI.86)]]<br>• [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos\|Sistemas Distribuídos (CSECBJI.71)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I (CSECBJI.56)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/8-periodo/sistemas-operacionais-ii/sistemas-operacionais-ii\|Sistemas Operacionais II (CSECBJI.63)]]<br>• [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos\|Algoritmos Distribuídos (CSECBJI.86)]]<br>• [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos\|Sistemas Distribuídos (CSECBJI.71)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica\|Computação Gráfica (CSECBJI.77)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-imagens/processamento-de-imagens\|Processamento de Imagens (CSECBJI.78)]] |
+| [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/microcontroladores\|Microcontroladores (CSECBJI.62)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-embarcados/sistemas-embarcados\|Sistemas Embarcados (CSECBJI.70)]] |
+| [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/metodologia-cientifica-e-tecnologica\|Metodologia Científica e Tecnológica (CSECBJI.64)]] | 8º | 40h | • [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i\|Projeto Final de Curso I (CSECBJI.67)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos\|Algoritmos Distribuídos (CSECBJI.86)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/computacao-paralela-e-distribuida/computacao-paralela-e-distribuida\|Computação Paralela e Distribuída (CSECBJI.87)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i\|Pesquisa Operacional I (CSECBJI.88)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-ii/pesquisa-operacional-ii\|Pesquisa Operacional II (CSECBJI.89)]] |
+| [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i\|Projeto Final de Curso I (CSECBJI.67)]] | 9º | 80h | • [[pt-br/academic/engenharia-computacao/10-periodo/projeto-final-de-curso-ii/projeto-final-de-curso-ii\|Projeto Final de Curso II (CSECBJI.74)]] |
 
 ---
 
@@ -578,59 +611,59 @@ Abaixo, todas as disciplinas que exigem pré-requisitos para matrícula:
 
 | Disciplina | Período | Carga | Pré-Requisitos Obrigatórios para Cursar |
 | :--- | :---: | :---: | :--- |
-| [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II (CSECBJI.9)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|Cálculo I (CSECBJI.4)]] |
-| [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/index|Álgebra Linear e Geometria Analítica I (CSECBJI.5)]] |
-| [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|Física I (CSECBJI.11)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|Cálculo I (CSECBJI.4)]]<br>• [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/index|Álgebra Linear e Geometria Analítica I (CSECBJI.5)]] |
-| [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|Matemática Discreta (CSECBJI.14)]] | 2º | 60h | • [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/index|Lógica para Computação (CSECBJI.3)]] |
-| [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/index|Cálculo III (CSECBJI.17)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II (CSECBJI.9)]] |
-| [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/index|Equações Diferenciais (CSECBJI.18)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|Cálculo I (CSECBJI.4)]]<br>• [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/index|Álgebra Linear e Geometria Analítica I (CSECBJI.5)]] |
-| [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|Física II (CSECBJI.19)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II (CSECBJI.9)]]<br>• [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|Física I (CSECBJI.11)]] |
-| [[pt-br/academic/engenharia-computacao/3-periodo/mecanica-dos-solidos/index|Mecânica dos Sólidos (CSECBJI.21)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|Física I (CSECBJI.11)]] |
-| [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/index|Algoritmos e Estruturas de Dados I (CSECBJI.22)]] | 3º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação (CSECBJI.13)]] |
-| [[pt-br/academic/engenharia-computacao/3-periodo/introducao-a-ciencia-dos-materiais/index|Introdução à Ciência dos Materiais (CSECBJI.23)]] | 3º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/quimica/index|Química (CSECBJI.15)]] |
-| [[pt-br/academic/engenharia-computacao/4-periodo/calculo-numerico/index|Cálculo Numérico (CSECBJI.25)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação (CSECBJI.13)]] |
-| [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/index|Física III (CSECBJI.26)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/index|Cálculo III (CSECBJI.17)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|Física II (CSECBJI.19)]] |
-| [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/index|Fenômenos de Transporte (CSECBJI.28)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|Cálculo I (CSECBJI.4)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|Física II (CSECBJI.19)]] |
-| [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] | 4º | 60h | • [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/index|Algoritmos e Estruturas de Dados I (CSECBJI.22)]] |
-| [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/index|Cálculo IV (CSECBJI.31)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/index|Cálculo III (CSECBJI.17)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/index|Eletricidade Aplicada (CSECBJI.33)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/index|Física III (CSECBJI.26)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|Projeto e Análise de Algoritmos (CSECBJI.34)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|Matemática Discreta (CSECBJI.14)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/index|Modelagem de Dados (CSECBJI.35)]] | 5º | 40h | • [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/index|Lógica para Computação (CSECBJI.3)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/index|Eletrônica Analógica (CSECBJI.37)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/index|Física III (CSECBJI.26)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/index|Paradigmas de Linguagem de Programação (CSECBJI.38)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação (CSECBJI.13)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/index|Linguagens Formais e Autômatos (CSECBJI.40)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|Matemática Discreta (CSECBJI.14)]] |
-| [[pt-br/academic/engenharia-computacao/5-periodo/avaliacao-e-desempenho-de-sistemas/index|Avaliação e Desempenho de Sistemas (CSECBJI.41)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/index|Probabilidade e Estatística (CSECBJI.29)]] |
-| [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/index|Análise de Software Orientada a Objetos (CSECBJI.42)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/index|Engenharia de Software (CSECBJI.36)]] |
-| [[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/index|Banco de Dados (CSECBJI.44)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/index|Modelagem de Dados (CSECBJI.35)]] |
-| [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/index|Programação Orientada a Objetos I (CSECBJI.45)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação (CSECBJI.13)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/index|Paradigmas de Linguagem de Programação (CSECBJI.38)]] |
-| [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/index|Eletrônica Digital (CSECBJI.46)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/index|Lógica para Computação (CSECBJI.3)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/index|Eletrônica Analógica (CSECBJI.37)]] |
-| [[pt-br/academic/engenharia-computacao/6-periodo/compiladores/index|Compiladores (CSECBJI.48)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/index|Linguagens Formais e Autômatos (CSECBJI.40)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/projeto-de-software-orientado-a-objetos/index|Projeto de Software Orientado a Objetos (CSECBJI.50)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/index|Análise de Software Orientada a Objetos (CSECBJI.42)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/index|Programação Orientada a Objetos II (CSECBJI.51)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/index|Programação Orientada a Objetos I (CSECBJI.45)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/index|Organização de Computadores (CSECBJI.52)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao|Fundamentos de Computação (CSECBJI.1)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/index|Sistemas Digitais (CSECBJI.53)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/index|Eletrônica Digital (CSECBJI.46)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I (CSECBJI.55)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/index|Comunicação de Dados (CSECBJI.47)]] |
-| [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I (CSECBJI.56)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao|Fundamentos de Computação (CSECBJI.1)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/index|Computação Gráfica (CSECBJI.77)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/energia-e-eficiencia-energetica/index|Energia e Eficiência Energética (CSECBJI.82)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/index|Eletricidade Aplicada (CSECBJI.33)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-sinais/index|Processamento de Sinais (CSECBJI.83)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/index|Cálculo IV (CSECBJI.31)]]<br>• [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/index|Comunicação de Dados (CSECBJI.47)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/geoprocessamento/index|Geoprocessamento (CSECBJI.84)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|Projeto e Análise de Algoritmos (CSECBJI.34)]] |
-| [[pt-br/academic/engenharia-computacao/8-periodo/redes-de-computadores-ii/index|Redes de Computadores II (CSECBJI.59)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I (CSECBJI.55)]] |
-| [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/index|Arquitetura de Computadores (CSECBJI.61)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/index|Organização de Computadores (CSECBJI.52)]]<br>• [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/index|Sistemas Digitais (CSECBJI.53)]] |
-| [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/index|Microcontroladores (CSECBJI.62)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/index|Organização de Computadores (CSECBJI.52)]] |
-| [[pt-br/academic/engenharia-computacao/8-periodo/sistemas-operacionais-ii/index|Sistemas Operacionais II (CSECBJI.63)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I (CSECBJI.56)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-imagens/index|Processamento de Imagens (CSECBJI.78)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/index|Computação Gráfica (CSECBJI.77)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/index|Modelagem Ambiental (CSECBJI.85)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/index|Equações Diferenciais (CSECBJI.18)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/index|Algoritmos Distribuídos (CSECBJI.86)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I (CSECBJI.55)]]<br>• [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I (CSECBJI.56)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/index|Pesquisa Operacional I (CSECBJI.88)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]] |
-| [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/index|Projeto Final de Curso I (CSECBJI.67)]] | 9º | 80h | • [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/index|Metodologia Científica e Tecnológica (CSECBJI.64)]] |
-| [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-embarcados/index|Sistemas Embarcados (CSECBJI.70)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/index|Microcontroladores (CSECBJI.62)]] |
-| [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/index|Sistemas Distribuídos (CSECBJI.71)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I (CSECBJI.55)]]<br>• [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I (CSECBJI.56)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/desenvolvimento-web/index|Desenvolvimento Web (CSECBJI.79)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/index|Programação Orientada a Objetos II (CSECBJI.51)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/computacao-paralela-e-distribuida/index|Computação Paralela e Distribuída (CSECBJI.87)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/index|Algoritmos Distribuídos (CSECBJI.86)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-ii/index|Pesquisa Operacional II (CSECBJI.89)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/index|Pesquisa Operacional I (CSECBJI.88)]] |
-| [[pt-br/academic/engenharia-computacao/eletivas/inteligencia-artificial/index|Inteligência Artificial (CSECBJI.90)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|Projeto e Análise de Algoritmos (CSECBJI.34)]] |
-| [[pt-br/academic/engenharia-computacao/10-periodo/projeto-final-de-curso-ii/index|Projeto Final de Curso II (CSECBJI.74)]] | 10º | 80h | • [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/index|Projeto Final de Curso I (CSECBJI.67)]] |
+| [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii\|Cálculo II (CSECBJI.9)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I (CSECBJI.4)]] |
+| [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i\|Álgebra Linear e Geometria Analítica I (CSECBJI.5)]] |
+| [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i\|Física I (CSECBJI.11)]] | 2º | 80h | • [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I (CSECBJI.4)]]<br>• [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i\|Álgebra Linear e Geometria Analítica I (CSECBJI.5)]] |
+| [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta\|Matemática Discreta (CSECBJI.14)]] | 2º | 60h | • [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao\|Lógica para Computação (CSECBJI.3)]] |
+| [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii\|Cálculo III (CSECBJI.17)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii\|Cálculo II (CSECBJI.9)]] |
+| [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais\|Equações Diferenciais (CSECBJI.18)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I (CSECBJI.4)]]<br>• [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i\|Álgebra Linear e Geometria Analítica I (CSECBJI.5)]] |
+| [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii\|Física II (CSECBJI.19)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii\|Cálculo II (CSECBJI.9)]]<br>• [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i\|Física I (CSECBJI.11)]] |
+| [[pt-br/academic/engenharia-computacao/3-periodo/mecanica-dos-solidos/mecanica-dos-solidos\|Mecânica dos Sólidos (CSECBJI.21)]] | 3º | 80h | • [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i\|Física I (CSECBJI.11)]] |
+| [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/algoritmos-e-estruturas-de-dados-i\|Algoritmos e Estruturas de Dados I (CSECBJI.22)]] | 3º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação (CSECBJI.13)]] |
+| [[pt-br/academic/engenharia-computacao/3-periodo/introducao-a-ciencia-dos-materiais/Introdução à Ciência dos Materiais\|Introdução à Ciência dos Materiais (CSECBJI.23)]] | 3º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/quimica/quimica\|Química (CSECBJI.15)]] |
+| [[pt-br/academic/engenharia-computacao/4-periodo/calculo-numerico/calculo-numerico\|Cálculo Numérico (CSECBJI.25)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação (CSECBJI.13)]] |
+| [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii\|Física III (CSECBJI.26)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii\|Cálculo III (CSECBJI.17)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii\|Física II (CSECBJI.19)]] |
+| [[pt-br/academic/engenharia-computacao/4-periodo/fenomenos-de-transporte/fenomenos-de-transporte\|Fenômenos de Transporte (CSECBJI.28)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I (CSECBJI.4)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii\|Física II (CSECBJI.19)]] |
+| [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii\|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] | 4º | 60h | • [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/algoritmos-e-estruturas-de-dados-i\|Algoritmos e Estruturas de Dados I (CSECBJI.22)]] |
+| [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/calculo-iv\|Cálculo IV (CSECBJI.31)]] | 4º | 80h | • [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii\|Cálculo III (CSECBJI.17)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada\|Eletricidade Aplicada (CSECBJI.33)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii\|Física III (CSECBJI.26)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos\|Projeto e Análise de Algoritmos (CSECBJI.34)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta\|Matemática Discreta (CSECBJI.14)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii\|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/modelagem-de-dados\|Modelagem de Dados (CSECBJI.35)]] | 5º | 40h | • [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao\|Lógica para Computação (CSECBJI.3)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/eletronica-analogica\|Eletrônica Analógica (CSECBJI.37)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii\|Física III (CSECBJI.26)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/paradigmas-de-linguagem-de-programacao\|Paradigmas de Linguagem de Programação (CSECBJI.38)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação (CSECBJI.13)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/linguagens-formais-e-automatos\|Linguagens Formais e Autômatos (CSECBJI.40)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta\|Matemática Discreta (CSECBJI.14)]] |
+| [[pt-br/academic/engenharia-computacao/5-periodo/avaliacao-e-desempenho-de-sistemas/avaliacao-e-desempenho-de-sistemas\|Avaliação e Desempenho de Sistemas (CSECBJI.41)]] | 5º | 60h | • [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/probabilidade-e-estatistica\|Probabilidade e Estatística (CSECBJI.29)]] |
+| [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/analise-de-software-orientada-a-objetos\|Análise de Software Orientada a Objetos (CSECBJI.42)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/engenharia-de-software\|Engenharia de Software (CSECBJI.36)]] |
+| [[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/banco-de-dados\|Banco de Dados (CSECBJI.44)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/modelagem-de-dados\|Modelagem de Dados (CSECBJI.35)]] |
+| [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i\|Programação Orientada a Objetos I (CSECBJI.45)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação (CSECBJI.13)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/paradigmas-de-linguagem-de-programacao\|Paradigmas de Linguagem de Programação (CSECBJI.38)]] |
+| [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital\|Eletrônica Digital (CSECBJI.46)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao\|Lógica para Computação (CSECBJI.3)]]<br>• [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/eletronica-analogica\|Eletrônica Analógica (CSECBJI.37)]] |
+| [[pt-br/academic/engenharia-computacao/6-periodo/compiladores/compiladores\|Compiladores (CSECBJI.48)]] | 6º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/linguagens-formais-e-automatos\|Linguagens Formais e Autômatos (CSECBJI.40)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/projeto-de-software-orientado-a-objetos/projeto-de-software-orientado-a-objetos\|Projeto de Software Orientado a Objetos (CSECBJI.50)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/analise-de-software-orientada-a-objetos\|Análise de Software Orientada a Objetos (CSECBJI.42)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii\|Programação Orientada a Objetos II (CSECBJI.51)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i\|Programação Orientada a Objetos I (CSECBJI.45)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores\|Organização de Computadores (CSECBJI.52)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao\|Fundamentos de Computação (CSECBJI.1)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/sistemas-digitais\|Sistemas Digitais (CSECBJI.53)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital\|Eletrônica Digital (CSECBJI.46)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I (CSECBJI.55)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados\|Comunicação de Dados (CSECBJI.47)]] |
+| [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I (CSECBJI.56)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao\|Fundamentos de Computação (CSECBJI.1)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica\|Computação Gráfica (CSECBJI.77)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]]<br>• [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii\|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/energia-e-eficiencia-energetica/energia-e-eficiencia-energetica\|Energia e Eficiência Energética (CSECBJI.82)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada\|Eletricidade Aplicada (CSECBJI.33)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-sinais/processamento-de-sinais\|Processamento de Sinais (CSECBJI.83)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/calculo-iv\|Cálculo IV (CSECBJI.31)]]<br>• [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados\|Comunicação de Dados (CSECBJI.47)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/geoprocessamento/geoprocessamento\|Geoprocessamento (CSECBJI.84)]] | 7º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos\|Projeto e Análise de Algoritmos (CSECBJI.34)]] |
+| [[pt-br/academic/engenharia-computacao/8-periodo/redes-de-computadores-ii/redes-de-computadores-ii\|Redes de Computadores II (CSECBJI.59)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I (CSECBJI.55)]] |
+| [[pt-br/academic/engenharia-computacao/8-periodo/arquitetura-de-computadores/arquitetura-de-computadores\|Arquitetura de Computadores (CSECBJI.61)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores\|Organização de Computadores (CSECBJI.52)]]<br>• [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/sistemas-digitais\|Sistemas Digitais (CSECBJI.53)]] |
+| [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/microcontroladores\|Microcontroladores (CSECBJI.62)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores\|Organização de Computadores (CSECBJI.52)]] |
+| [[pt-br/academic/engenharia-computacao/8-periodo/sistemas-operacionais-ii/sistemas-operacionais-ii\|Sistemas Operacionais II (CSECBJI.63)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I (CSECBJI.56)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-imagens/processamento-de-imagens\|Processamento de Imagens (CSECBJI.78)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica\|Computação Gráfica (CSECBJI.77)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/modelagem-ambiental/modelagem-ambiental\|Modelagem Ambiental (CSECBJI.85)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]]<br>• [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais\|Equações Diferenciais (CSECBJI.18)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos\|Algoritmos Distribuídos (CSECBJI.86)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I (CSECBJI.55)]]<br>• [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I (CSECBJI.56)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i\|Pesquisa Operacional I (CSECBJI.88)]] | 8º | 60h | • [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]] |
+| [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i\|Projeto Final de Curso I (CSECBJI.67)]] | 9º | 80h | • [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/metodologia-cientifica-e-tecnologica\|Metodologia Científica e Tecnológica (CSECBJI.64)]] |
+| [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-embarcados/sistemas-embarcados\|Sistemas Embarcados (CSECBJI.70)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/microcontroladores\|Microcontroladores (CSECBJI.62)]] |
+| [[pt-br/academic/engenharia-computacao/9-periodo/sistemas-distribuidos/sistemas-distribuidos\|Sistemas Distribuídos (CSECBJI.71)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I (CSECBJI.55)]]<br>• [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I (CSECBJI.56)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/desenvolvimento-web/desenvolvimento-web\|Desenvolvimento Web (CSECBJI.79)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii\|Programação Orientada a Objetos II (CSECBJI.51)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/computacao-paralela-e-distribuida/computacao-paralela-e-distribuida\|Computação Paralela e Distribuída (CSECBJI.87)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos\|Algoritmos Distribuídos (CSECBJI.86)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-ii/pesquisa-operacional-ii\|Pesquisa Operacional II (CSECBJI.89)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i\|Pesquisa Operacional I (CSECBJI.88)]] |
+| [[pt-br/academic/engenharia-computacao/eletivas/inteligencia-artificial/inteligencia-artificial\|Inteligência Artificial (CSECBJI.90)]] | 9º | 60h | • [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos\|Projeto e Análise de Algoritmos (CSECBJI.34)]] |
+| [[pt-br/academic/engenharia-computacao/10-periodo/projeto-final-de-curso-ii/projeto-final-de-curso-ii\|Projeto Final de Curso II (CSECBJI.74)]] | 10º | 80h | • [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i\|Projeto Final de Curso I (CSECBJI.67)]] |
 
 ---
 
@@ -640,46 +673,46 @@ As disciplinas abaixo são as mais críticas do curso em termos de dependências
 
 | Posição | Disciplina | Período | Total de Disciplinas Trancadas Diretamente |
 | :---: | :--- | :---: | :---: |
-| 1º | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/index|Cálculo I (CSECBJI.4)]] | 1º | **4 disciplinas** |
-| 2º | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/index|Algoritmos e Técnicas de Programação (CSECBJI.13)]] | 2º | **4 disciplinas** |
-| 3º | [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/index|Lógica para Computação (CSECBJI.3)]] | 1º | **3 disciplinas** |
-| 4º | [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/index|Álgebra Linear e Geometria Analítica I (CSECBJI.5)]] | 1º | **3 disciplinas** |
-| 5º | [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/index|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]] | 2º | **3 disciplinas** |
-| 6º | [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/index|Redes de Computadores I (CSECBJI.55)]] | 7º | **3 disciplinas** |
-| 7º | [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/index|Sistemas Operacionais I (CSECBJI.56)]] | 7º | **3 disciplinas** |
-| 8º | [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao|Fundamentos de Computação (CSECBJI.1)]] | 1º | **2 disciplinas** |
-| 9º | [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/index|Física I (CSECBJI.11)]] | 2º | **2 disciplinas** |
-| 10º | [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/index|Matemática Discreta (CSECBJI.14)]] | 2º | **2 disciplinas** |
-| 11º | [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii|Cálculo II (CSECBJI.9)]] | 2º | **2 disciplinas** |
-| 12º | [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/index|Cálculo III (CSECBJI.17)]] | 3º | **2 disciplinas** |
-| 13º | [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/index|Física II (CSECBJI.19)]] | 3º | **2 disciplinas** |
-| 14º | [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/index|Física III (CSECBJI.26)]] | 4º | **2 disciplinas** |
-| 15º | [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/index|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] | 4º | **2 disciplinas** |
-| 16º | [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/index|Projeto e Análise de Algoritmos (CSECBJI.34)]] | 5º | **2 disciplinas** |
-| 17º | [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/index|Comunicação de Dados (CSECBJI.47)]] | 6º | **2 disciplinas** |
-| 18º | [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/index|Organização de Computadores (CSECBJI.52)]] | 7º | **2 disciplinas** |
-| 19º | [[pt-br/academic/engenharia-computacao/2-periodo/quimica/index|Química (CSECBJI.15)]] | 2º | **1 disciplinas** |
-| 20º | [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/index|Equações Diferenciais (CSECBJI.18)]] | 3º | **1 disciplinas** |
-| 21º | [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/index|Algoritmos e Estruturas de Dados I (CSECBJI.22)]] | 3º | **1 disciplinas** |
-| 22º | [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/index|Probabilidade e Estatística (CSECBJI.29)]] | 4º | **1 disciplinas** |
-| 23º | [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/index|Cálculo IV (CSECBJI.31)]] | 4º | **1 disciplinas** |
-| 24º | [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/index|Eletricidade Aplicada (CSECBJI.33)]] | 5º | **1 disciplinas** |
-| 25º | [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/index|Modelagem de Dados (CSECBJI.35)]] | 5º | **1 disciplinas** |
-| 26º | [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/index|Engenharia de Software (CSECBJI.36)]] | 5º | **1 disciplinas** |
-| 27º | [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/index|Eletrônica Analógica (CSECBJI.37)]] | 5º | **1 disciplinas** |
-| 28º | [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/index|Paradigmas de Linguagem de Programação (CSECBJI.38)]] | 5º | **1 disciplinas** |
-| 29º | [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/index|Linguagens Formais e Autômatos (CSECBJI.40)]] | 5º | **1 disciplinas** |
-| 30º | [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/index|Análise de Software Orientada a Objetos (CSECBJI.42)]] | 6º | **1 disciplinas** |
-| 31º | [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/index|Programação Orientada a Objetos I (CSECBJI.45)]] | 6º | **1 disciplinas** |
-| 32º | [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/index|Eletrônica Digital (CSECBJI.46)]] | 6º | **1 disciplinas** |
-| 33º | [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/index|Programação Orientada a Objetos II (CSECBJI.51)]] | 7º | **1 disciplinas** |
-| 34º | [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/index|Sistemas Digitais (CSECBJI.53)]] | 7º | **1 disciplinas** |
-| 35º | [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/index|Computação Gráfica (CSECBJI.77)]] | 7º | **1 disciplinas** |
-| 36º | [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/index|Microcontroladores (CSECBJI.62)]] | 8º | **1 disciplinas** |
-| 37º | [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/index|Metodologia Científica e Tecnológica (CSECBJI.64)]] | 8º | **1 disciplinas** |
-| 38º | [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/index|Algoritmos Distribuídos (CSECBJI.86)]] | 8º | **1 disciplinas** |
-| 39º | [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/index|Pesquisa Operacional I (CSECBJI.88)]] | 8º | **1 disciplinas** |
-| 40º | [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/index|Projeto Final de Curso I (CSECBJI.67)]] | 9º | **1 disciplinas** |
+| 1º | [[pt-br/academic/engenharia-computacao/1-periodo/calculo-i/calculo-i\|Cálculo I (CSECBJI.4)]] | 1º | **4 disciplinas** |
+| 2º | [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao/algoritmos-e-tecnicas-de-programacao\|Algoritmos e Técnicas de Programação (CSECBJI.13)]] | 2º | **4 disciplinas** |
+| 3º | [[pt-br/academic/engenharia-computacao/1-periodo/logica-para-computacao/logica-para-computacao\|Lógica para Computação (CSECBJI.3)]] | 1º | **3 disciplinas** |
+| 4º | [[pt-br/academic/engenharia-computacao/1-periodo/algebra-linear-e-geometria-analitica-i/algebra-linear-e-geometria-analitica-i\|Álgebra Linear e Geometria Analítica I (CSECBJI.5)]] | 1º | **3 disciplinas** |
+| 5º | [[pt-br/academic/engenharia-computacao/2-periodo/algebra-linear-e-geometria-analitica-ii/algebra-linear-e-geometria-analitica-ii\|Álgebra Linear e Geometria Analítica II (CSECBJI.10)]] | 2º | **3 disciplinas** |
+| 6º | [[pt-br/academic/engenharia-computacao/7-periodo/redes-de-computadores-i/redes-de-computadores-i\|Redes de Computadores I (CSECBJI.55)]] | 7º | **3 disciplinas** |
+| 7º | [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-operacionais-i/sistemas-operacionais-i\|Sistemas Operacionais I (CSECBJI.56)]] | 7º | **3 disciplinas** |
+| 8º | [[pt-br/academic/engenharia-computacao/1-periodo/fundamentos-da-computacao/fundamentos-de-computacao\|Fundamentos de Computação (CSECBJI.1)]] | 1º | **2 disciplinas** |
+| 9º | [[pt-br/academic/engenharia-computacao/2-periodo/fisica-i/fisica-i\|Física I (CSECBJI.11)]] | 2º | **2 disciplinas** |
+| 10º | [[pt-br/academic/engenharia-computacao/2-periodo/matematica-discreta/matematica-discreta\|Matemática Discreta (CSECBJI.14)]] | 2º | **2 disciplinas** |
+| 11º | [[pt-br/academic/engenharia-computacao/2-periodo/calculo-ii-2/calculo-ii\|Cálculo II (CSECBJI.9)]] | 2º | **2 disciplinas** |
+| 12º | [[pt-br/academic/engenharia-computacao/3-periodo/calculo-iii/calculo-iii\|Cálculo III (CSECBJI.17)]] | 3º | **2 disciplinas** |
+| 13º | [[pt-br/academic/engenharia-computacao/3-periodo/fisica-ii/fisica-ii\|Física II (CSECBJI.19)]] | 3º | **2 disciplinas** |
+| 14º | [[pt-br/academic/engenharia-computacao/4-periodo/fisica-iii/fisica-iii\|Física III (CSECBJI.26)]] | 4º | **2 disciplinas** |
+| 15º | [[pt-br/academic/engenharia-computacao/4-periodo/algoritmos-e-estruturas-de-dados-ii/algoritmos-e-estruturas-de-dados-ii\|Algoritmos e Estruturas de Dados II (CSECBJI.30)]] | 4º | **2 disciplinas** |
+| 16º | [[pt-br/academic/engenharia-computacao/5-periodo/projeto-e-analise-de-algoritmos/projeto-e-analise-de-algoritmos\|Projeto e Análise de Algoritmos (CSECBJI.34)]] | 5º | **2 disciplinas** |
+| 17º | [[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados/comunicacao-de-dados\|Comunicação de Dados (CSECBJI.47)]] | 6º | **2 disciplinas** |
+| 18º | [[pt-br/academic/engenharia-computacao/7-periodo/organizacao-de-computadores/organizacao-de-computadores\|Organização de Computadores (CSECBJI.52)]] | 7º | **2 disciplinas** |
+| 19º | [[pt-br/academic/engenharia-computacao/2-periodo/quimica/quimica\|Química (CSECBJI.15)]] | 2º | **1 disciplinas** |
+| 20º | [[pt-br/academic/engenharia-computacao/3-periodo/equacoes-diferenciais/equacoes-diferenciais\|Equações Diferenciais (CSECBJI.18)]] | 3º | **1 disciplinas** |
+| 21º | [[pt-br/academic/engenharia-computacao/3-periodo/algoritmos-e-estruturas-de-dados-i/algoritmos-e-estruturas-de-dados-i\|Algoritmos e Estruturas de Dados I (CSECBJI.22)]] | 3º | **1 disciplinas** |
+| 22º | [[pt-br/academic/engenharia-computacao/4-periodo/probabilidade-e-estatistica/probabilidade-e-estatistica\|Probabilidade e Estatística (CSECBJI.29)]] | 4º | **1 disciplinas** |
+| 23º | [[pt-br/academic/engenharia-computacao/4-periodo/calculo-iv/calculo-iv\|Cálculo IV (CSECBJI.31)]] | 4º | **1 disciplinas** |
+| 24º | [[pt-br/academic/engenharia-computacao/5-periodo/eletricidade-aplicada/eletricidade-aplicada\|Eletricidade Aplicada (CSECBJI.33)]] | 5º | **1 disciplinas** |
+| 25º | [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados/modelagem-de-dados\|Modelagem de Dados (CSECBJI.35)]] | 5º | **1 disciplinas** |
+| 26º | [[pt-br/academic/engenharia-computacao/5-periodo/engenharia-de-software/engenharia-de-software\|Engenharia de Software (CSECBJI.36)]] | 5º | **1 disciplinas** |
+| 27º | [[pt-br/academic/engenharia-computacao/5-periodo/eletronica-analogica/eletronica-analogica\|Eletrônica Analógica (CSECBJI.37)]] | 5º | **1 disciplinas** |
+| 28º | [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao/paradigmas-de-linguagem-de-programacao\|Paradigmas de Linguagem de Programação (CSECBJI.38)]] | 5º | **1 disciplinas** |
+| 29º | [[pt-br/academic/engenharia-computacao/5-periodo/linguagens-formais-e-automatos/linguagens-formais-e-automatos\|Linguagens Formais e Autômatos (CSECBJI.40)]] | 5º | **1 disciplinas** |
+| 30º | [[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos/analise-de-software-orientada-a-objetos\|Análise de Software Orientada a Objetos (CSECBJI.42)]] | 6º | **1 disciplinas** |
+| 31º | [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/programacao-orientada-a-objetos-i\|Programação Orientada a Objetos I (CSECBJI.45)]] | 6º | **1 disciplinas** |
+| 32º | [[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital/eletronica-digital\|Eletrônica Digital (CSECBJI.46)]] | 6º | **1 disciplinas** |
+| 33º | [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii/programacao-orientada-a-objetos-ii\|Programação Orientada a Objetos II (CSECBJI.51)]] | 7º | **1 disciplinas** |
+| 34º | [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais/sistemas-digitais\|Sistemas Digitais (CSECBJI.53)]] | 7º | **1 disciplinas** |
+| 35º | [[pt-br/academic/engenharia-computacao/eletivas/computacao-grafica/computacao-grafica\|Computação Gráfica (CSECBJI.77)]] | 7º | **1 disciplinas** |
+| 36º | [[pt-br/academic/engenharia-computacao/8-periodo/microcontroladores/microcontroladores\|Microcontroladores (CSECBJI.62)]] | 8º | **1 disciplinas** |
+| 37º | [[pt-br/academic/engenharia-computacao/8-periodo/metodologia-cientifica-e-tecnologica/metodologia-cientifica-e-tecnologica\|Metodologia Científica e Tecnológica (CSECBJI.64)]] | 8º | **1 disciplinas** |
+| 38º | [[pt-br/academic/engenharia-computacao/eletivas/algoritmos-distribuidos/algoritmos-distribuidos\|Algoritmos Distribuídos (CSECBJI.86)]] | 8º | **1 disciplinas** |
+| 39º | [[pt-br/academic/engenharia-computacao/eletivas/pesquisa-operacional-i/pesquisa-operacional-i\|Pesquisa Operacional I (CSECBJI.88)]] | 8º | **1 disciplinas** |
+| 40º | [[pt-br/academic/engenharia-computacao/9-periodo/projeto-final-de-curso-i/projeto-final-de-curso-i\|Projeto Final de Curso I (CSECBJI.67)]] | 9º | **1 disciplinas** |
 
 ---
 

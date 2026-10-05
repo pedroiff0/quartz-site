@@ -1,6 +1,0 @@
-aab
-abab
-acacb
-cabab
-bcaab
-ccaacb

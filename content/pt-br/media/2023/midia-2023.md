@@ -1,18 +1,50 @@
 ---
 publish: true
 title: 2023
-created: 2026-07-23 13:04
-modified: 2026-10-01 20:14
+created: 2026-07-23 13:04:00-03:00
+modified: 2026-10-05T12:00:53-03:00
 tags:
-- midia
+  - midia
 cssclasses:
   - page-layout
 icon: lucide-newspaper
 sitesync: true
 ---
 
+<div class="academic-nav-container">
+
+<div class="academic-nav-breadcrumb">
+
+<span>Mídia</span> <span class="academic-nav-sep">/</span> <span>2023</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">2023</span>
+
+</div>
+
+<div class="academic-nav-controls">
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn">[[pt-br/media/2023/febrace|← FEBRACE 2023]]</span>
+
+</div>
+
+<div class="academic-nav-center">
+
+<span class="academic-nav-btn">Hub</span> <span class="academic-nav-counter">(4 de 10)</span>
+
+</div>
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn">[[pt-br/media/2023/mostratec|MOSTRATEC 2023 →]]</span>
+
+</div>
+
+</div>
+
+</div>
+
 > [!note] Resumo
 > Participações em feiras e eventos científicos em 2023.
 
-- [[03-midia/2023/febrace-2023|FEBRACE 2023]] — primeira participação do campus na maior feira de ciências e engenharia do Brasil; projeto sobre matéria escura selecionado entre 200 finalistas de mais de 3.200 inscritos.
-- [[03-midia/2023/mostratec-2023|MOSTRATEC 2023]] — mesmo projeto, na maior e mais tradicional feira de ciências da América Latina (Novo Hamburgo, RS), com financiamento do CNPq.
+- [[pt-br/media/2023/febrace|FEBRACE 2023]] — primeira participação do campus na maior feira de ciências e engenharia do Brasil; projeto sobre matéria escura selecionado entre 200 finalistas de mais de 3.200 inscritos.
+- [[pt-br/media/2023/mostratec|MOSTRATEC 2023]] — mesmo projeto, na maior e mais tradicional feira de ciências da América Latina (Novo Hamburgo, RS), com financiamento do CNPq.

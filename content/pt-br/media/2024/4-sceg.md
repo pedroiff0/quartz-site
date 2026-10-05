@@ -1,10 +1,10 @@
 ---
 publish: true
 title: 4ª SCEG 2024
-created: 2024-10-22 13:04
-modified: 2026-10-01 20:14
+created: 2024-10-22 13:04:00-03:00
+modified: 2026-10-05T12:00:37-03:00
 tags:
-- midia
+  - midia
 cssclasses:
   - page-layout
 icon: lucide-newspaper
@@ -12,6 +12,38 @@ photoFolder: 4sceg2024
 type: blog
 sitesync: true
 ---
+
+<div class="academic-nav-container">
+
+<div class="academic-nav-breadcrumb">
+
+<span>Mídia</span> <span class="academic-nav-sep">/</span> <span>2024</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">4ª SCEG 2024</span>
+
+</div>
+
+<div class="academic-nav-controls">
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn">[[pt-br/media/2023/mostratec|← MOSTRATEC 2023]]</span>
+
+</div>
+
+<div class="academic-nav-center">
+
+<span class="academic-nav-btn">Hub</span> <span class="academic-nav-counter">(6 de 10)</span>
+
+</div>
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn">[[pt-br/media/2024/e-jiniff|e-JINIFF 2024 →]]</span>
+
+</div>
+
+</div>
+
+</div>
 
 # ª SCEG
 
@@ -30,4 +62,4 @@ Fui organizador do evento, que priorizou protagonismo estudantil: minicursos de 
 ## Referências e correlatos
 
 - Fonte: [IFF — Tecnologia, inovação e-sports e capacitação marcam programação da 4ª SCEG](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/tecnologia-inovacao-e-sports-e-capacitacao-marcam-programacao-da-4-sceg)
-- [[03-midia/2024/e-jiniff-2024|e-JINIFF 2024]] — outra frente de e-sports estudantis no campus
+- [[pt-br/media/2024/e-jiniff|e-JINIFF 2024]] — outra frente de e-sports estudantis no campus

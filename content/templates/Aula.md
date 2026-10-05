@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Aula 
 created: 2026-08-26
 modified: '2026-08-26'

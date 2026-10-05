@@ -1,8 +1,0 @@
-c
-ac
-ca
-abc
-ccc
-bac
-abccc
-cabaa
