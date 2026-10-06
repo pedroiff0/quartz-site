@@ -4,7 +4,7 @@ title: Inicio
 aliases:
   - Inicio
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-05T16:24:00-03:00
+modified: 2026-10-05T21:58:58-03:00
 tags:
   - pessoal
   - sobre-mim
@@ -19,6 +19,38 @@ translation-of: "[[pt-br/index]]"
 sitesync: true
 resource-sync: true
 ---
+
+<div class="academic-nav-container">
+
+<div class="academic-nav-breadcrumb">
+
+<span>[[pt-br/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Sobre Mim Hub Es</span>
+
+</div>
+
+<div class="academic-nav-controls">
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn is-disabled">← Início</span>
+
+</div>
+
+<div class="academic-nav-center">
+
+<span class="academic-nav-btn">[[pt-br/index|Hub]]</span>
+
+</div>
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn is-disabled">Fim →</span>
+
+</div>
+
+</div>
+
+</div>
 
 > [!untranslated] Aún no traducido
 > La página que solicitaste aún no ha sido traducida al español, por eso fuiste redirigido aquí. La mayor parte del sitio sigue disponible solo en portugués: consulta la [[pt-br/index|versión en portugués]].

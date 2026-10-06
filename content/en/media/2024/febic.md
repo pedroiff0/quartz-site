@@ -16,6 +16,38 @@ lang: en
 translation-of: "[[pt-br/media/2024/febic]]"
 ---
 
+<div class="academic-nav-container">
+
+<div class="academic-nav-breadcrumb">
+
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2024</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Febic En</span>
+
+</div>
+
+<div class="academic-nav-controls">
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn is-disabled">← Início</span>
+
+</div>
+
+<div class="academic-nav-center">
+
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span>
+
+</div>
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn is-disabled">Fim →</span>
+
+</div>
+
+</div>
+
+</div>
+
 THIS IS JUST A TEST
 # IX FEBIC
 

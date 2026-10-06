@@ -7,7 +7,7 @@ aliases:
 publish: true
 title: Mídias
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-05T15:19:00-03:00
+modified: 2026-10-05T21:25:33-03:00
 tags:
   - moc
   - midia

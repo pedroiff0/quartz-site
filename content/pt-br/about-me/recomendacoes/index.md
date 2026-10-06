@@ -2,7 +2,7 @@
 publish: true
 title: Recomendações
 created: 2026-09-07 16:47:01-03:00
-modified: 2026-10-05T15:28:50-03:00
+modified: 2026-10-05T21:46:12-03:00
 tags:
   - pessoal
 icon: lucide-user
@@ -13,6 +13,38 @@ cssclasses:
   - page-layout
 sitesync: true
 ---
+
+<div class="academic-nav-container">
+
+<div class="academic-nav-breadcrumb">
+
+<span>[[pt-br/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span>Recomendacoes</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Recomendações</span>
+
+</div>
+
+<div class="academic-nav-controls">
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn">[[pt-br/about-me/minhas-coisas/index|← Minhas Coisas]]</span>
+
+</div>
+
+<div class="academic-nav-center">
+
+<span class="academic-nav-btn">[[pt-br/index|Hub]]</span> <span class="academic-nav-counter">(2 de 3)</span>
+
+</div>
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn">[[pt-br/about-me/setup/index|Setup →]]</span>
+
+</div>
+
+</div>
+
+</div>
 
 # Recomendações de Livros, Ferramentas & Recursos
 

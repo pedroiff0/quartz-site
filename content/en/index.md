@@ -4,7 +4,7 @@ title: Home
 aliases:
   - Home
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-05T16:24:00-03:00
+modified: 2026-10-05T21:58:58-03:00
 tags:
   - pessoal
   - sobre-mim
@@ -19,6 +19,38 @@ translation-of: "[[pt-br/index]]"
 sitesync: true
 resource-sync: true
 ---
+
+<div class="academic-nav-container">
+
+<div class="academic-nav-breadcrumb">
+
+<span>[[pt-br/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Sobre Mim Hub En</span>
+
+</div>
+
+<div class="academic-nav-controls">
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn is-disabled">← Início</span>
+
+</div>
+
+<div class="academic-nav-center">
+
+<span class="academic-nav-btn">[[pt-br/index|Hub]]</span>
+
+</div>
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn is-disabled">Fim →</span>
+
+</div>
+
+</div>
+
+</div>
 
 > [!untranslated] Not translated yet
 > The page you requested has not been translated into English yet, so you were redirected here. Most of the site is still available only in Portuguese: see the [[pt-br/index|Portuguese version]].
