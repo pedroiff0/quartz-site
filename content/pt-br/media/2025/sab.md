@@ -1,0 +1,71 @@
+---
+publish: true
+title: SAB 2025
+created: 2025-09-28 13:04:00-03:00
+modified: 2026-10-06T09:27:59-03:00
+tags:
+  - midia
+cssclasses:
+  - page-layout
+icon: lucide-newspaper
+photoFolder: sab2025
+type: blog
+sitesync: true
+---
+
+<div class="academic-nav-container">
+
+<div class="academic-nav-breadcrumb">
+
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2025</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">SAB 2025</span>
+
+</div>
+
+<div class="academic-nav-controls">
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn">[[pt-br/media/2025/index|← 2025]]</span>
+
+</div>
+
+<div class="academic-nav-center">
+
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(12 de 15)</span>
+
+</div>
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn">[[pt-br/media/2026/conepe|CONEPE →]]</span>
+
+</div>
+
+</div>
+
+</div>
+
+# SAB
+
+> [!note] Resumo
+> Reunião Anual da Sociedade Astronômica Brasileira, em Caxambu (MG) — apresentei "Women in the Skies" (oral) e o pôster sobre detecção de anomalias em dados do Gaia/GALAH DR4.
+
+## Sobre o evento
+
+Página dedicada à participação na **Reunião Anual da Sociedade Astronômica Brasileira (SAB 2025)**, em Caxambu (MG), de 28 de setembro a 2 de outubro de 2025 — a maior reunião de pesquisa em astronomia da América Latina, com cerca de 500 participantes e mais de 200 trabalhos apresentados.
+
+Ao lado da professora [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja), apresentei o trabalho **"[[pt-br/projects/academic/anomaly-detection/README|Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4]]"** (pôster, análise de cerca de 6.000 estrelas com dados do satélite Gaia).
+
+> [!note] Opinião
+> Essa foi a minha primeira participação em congresso nacionais. Foi extremamente interessante reparar que o propósito é muito diferente de uma Feira de Ciências (como as que participe nos anos anteriores). Como resumi na época: "em um congresso não existe competição, você só quer mostrar que está fazendo ciência... mas de forma colaborativa.". É muito legal de apresentar o trabalho para pessoas que entendem da área e que com certeza podem contribuir, mesmo que de forma mínima para a ciência e construção dele. Tive a oportunidade de conhecer pesquisadores que acompanho os trabalhos, fui convidado para um grupo de "Journal Club", da Via Láctea (o MilkWayBR), e fiquei muito feliz de estar em um ambiente voltado para a Astronomia. Como sou aluno do interior, tópicos como esse são pouco falados, e por isso é muito mágico estar em um local que falam sobre!
+
+## Banner
+
+> [!note] Banner apresentado:
+>  *Pôster: Stellar properties and chemical features of GCNS (SAB 2025)*
+
+## Referências e correlatos
+
+- Fonte: [IFF — Maior reunião sobre pesquisa em astronomia da América Latina tem participação do IFF Bom Jesus](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/maior-reuniao-sobre-pesquisa-em-astronomia-da-america-latina-tem-participacao-do-iff-bom-jesus)
+- [[pt-br/projects/academic/anomaly-detection/README|Detecção de Anomalias em Dados do Gaia]] — página de pesquisa completa do pôster apresentado aqui
+- [[pt-br/media/2026/escolainverno|Escola de Inverno ON - 2026]] — mesmo pôster, atualizado, apresentado meses depois

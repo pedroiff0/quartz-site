@@ -38,7 +38,7 @@ sitesync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/about-me/recomendacoes/index|Recomendações →]]</span>
+<span class="academic-nav-btn">[[pt-br/about-me/recomendacoes|Recomendações →]]</span>
 
 </div>
 

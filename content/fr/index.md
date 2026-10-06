@@ -199,8 +199,8 @@ Vous préférez ne pas ouvrir votre messagerie ? Remplissez les champs ci-dessou
 
 ### Troisième étape : Pages personnelles
 
-- [[pt-br/about-me/setup/index|Mon setup]] — Matériel, écrans, périphériques et environnement de travail.
-- [[pt-br/about-me/minhas-coisas/index|Mes affaires]] — Inventaire d'objets personnels, projets, loisirs et collections.
+- [[pt-br/about-me/setup/setup-hub|Mon setup]] — Matériel, écrans, périphériques et environnement de travail.
+- [[pt-br/about-me/minhas-coisas/coisas-hub|Mes affaires]] — Inventaire d'objets personnels, projets, loisirs et collections.
 - [[pt-br/about-me/recomendacoes/recomendacoes|Recommandations]] — Livres, films, outils et références favorites.
 
 ---

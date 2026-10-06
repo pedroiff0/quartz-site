@@ -173,8 +173,8 @@ Meu CV no idioma desta página e o repositório (LaTeX, multilíngue) que o gera
 ## Seções Pessoais
 
 - Origem: [[02-areas/pessoal/pessoal-hub|Hub Pessoal]]
-- [[pt-br/about-me/setup/index|Meu Setup]] — Hardware, monitores, periféricos e ambiente de trabalho.
-- [[pt-br/about-me/minhas-coisas/index|Minhas Coisas]] — Inventário de pertences pessoais, projetos, hobbies e coleções.
+- [[pt-br/about-me/setup/setup-hub|Meu Setup]] — Hardware, monitores, periféricos e ambiente de trabalho.
+- [[pt-br/about-me/minhas-coisas/coisas-hub|Minhas Coisas]] — Inventário de pertences pessoais, projetos, hobbies e coleções.
 - [[pt-br/about-me/recomendacoes/recomendacoes|Recomendações]] — Livros, filmes, ferramentas e referências favoritas.
 
 ---

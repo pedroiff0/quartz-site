@@ -208,8 +208,8 @@ My CV and the (multilingual LaTeX) repository that builds it:
 ## Personal Sections
 
 - Origin: [[02-areas/pessoal/pessoal-hub|Personal Hub]]
-- [[pt-br/about-me/setup/index|My Setup]] — Hardware, monitors, peripherals and work environment.
-- [[pt-br/about-me/minhas-coisas/index|My Things]] — Inventory of personal belongings, projects, hobbies and collections.
+- [[pt-br/about-me/setup/setup-hub|My Setup]] — Hardware, monitors, peripherals and work environment.
+- [[pt-br/about-me/minhas-coisas/coisas-hub|My Things]] — Inventory of personal belongings, projects, hobbies and collections.
 - [[pt-br/about-me/recomendacoes/recomendacoes|Recommendations]] — Favorite books, movies, tools and references.
 
 ---

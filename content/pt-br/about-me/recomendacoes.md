@@ -26,7 +26,7 @@ sitesync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/about-me/minhas-coisas/index|← Minhas Coisas]]</span>
+<span class="academic-nav-btn">[[pt-br/about-me/minhas-coisas|← Minhas Coisas]]</span>
 
 </div>
 
@@ -38,7 +38,7 @@ sitesync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/about-me/setup/index|Setup →]]</span>
+<span class="academic-nav-btn">[[pt-br/about-me/setup|Setup →]]</span>
 
 </div>
 

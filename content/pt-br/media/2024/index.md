@@ -29,13 +29,13 @@ sitesync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(9 de 13)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(9 de 15)</span>
 
 </div>
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2025/index|2025 →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2025/mctia|MCTIA 2025 →]]</span>
 
 </div>
 

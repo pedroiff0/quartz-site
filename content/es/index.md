@@ -199,8 +199,8 @@ Mi CV y el repositorio (LaTeX, multilingüe) que lo genera:
 
 ### Tercer paso: Páginas personales
 
-- [[pt-br/about-me/setup/index|Mi setup]] — Hardware, monitores, periféricos y entorno de trabajo.
-- [[pt-br/about-me/minhas-coisas/index|Mis cosas]] — Inventario de pertenencias personales, proyectos, hobbies y colecciones.
+- [[pt-br/about-me/setup/setup-hub|Mi setup]] — Hardware, monitores, periféricos y entorno de trabajo.
+- [[pt-br/about-me/minhas-coisas/coisas-hub|Mis cosas]] — Inventario de pertenencias personales, proyectos, hobbies y colecciones.
 - [[pt-br/about-me/recomendacoes/recomendacoes|Recomendaciones]] — Libros, películas, herramientas y referencias favoritas.
 
 ---
