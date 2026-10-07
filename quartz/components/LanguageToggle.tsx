@@ -17,7 +17,7 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
       <script dangerouslySetInnerHTML={{
         __html: `
           if (!window.goLang) {
-            // Sem traducao ainda: vai para o index do idioma com ?untranslated=1,
+            // Sem traducao ainda: vai para a pagina inicial do idioma (about-me) com ?untranslated=1,
             // que revela o callout "untranslated" da nota de index.
             window.goLang = function(target) {
               const dest = window.translatePath(window.location.pathname, target);
@@ -27,8 +27,8 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
               const key = dest.replace(/^\\/|\\/$/g, '').toLowerCase();
               (window.fetchData || Promise.resolve({})).then(function(idx) {
                 const found = idx[key] != null || idx[key + '/index'] != null;
-                window.location.href = found ? dest : root + '?untranslated=1';
-              }).catch(function() { window.location.href = root + '?untranslated=1'; });
+                window.location.href = found ? dest : root + 'about-me/?untranslated=1';
+              }).catch(function() { window.location.href = root + 'about-me/?untranslated=1'; });
             };
           }
           if (new URLSearchParams(window.location.search).has('untranslated')) {

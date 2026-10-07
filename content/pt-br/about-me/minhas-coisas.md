@@ -18,7 +18,7 @@ sitesync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span>Minhas Coisas</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Minhas Coisas</span>
+<span>[[pt-br/about-me/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span>Minhas Coisas</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Minhas Coisas</span>
 
 </div>
 
@@ -32,7 +32,7 @@ sitesync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/index|Hub]]</span> <span class="academic-nav-counter">(1 de 3)</span>
+<span class="academic-nav-btn">[[pt-br/about-me/index|Hub]]</span> <span class="academic-nav-counter">(1 de 3)</span>
 
 </div>
 
@@ -48,7 +48,7 @@ sitesync: true
 
 # Minhas Coisas, Interesses & Hobbies
 
-- Origem: [[pt-br/index|Sobre Mim Hub]]
+- Origem: [[pt-br/about-me/index|Sobre Mim Hub]]
 
 > [!note] Projetos pessoais, coleções e anotações diversas.
 

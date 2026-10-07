@@ -1,7 +1,7 @@
 ---
 title: Pedro H. R. de Andrade
 created: 2026-07-18T14:16:01.130-03:00
-modified: 2026-10-05T16:24:00-03:00
+modified: 2026-10-06T22:23:22-03:00
 published: 2026-07-26T10:01:47.627-03:00
 publish: true
 sitesync: true
@@ -17,29 +17,29 @@ Pesquisa entre **astronomia e computação**, materiais de estudo abertos e regi
 **Escolha um idioma para começar** · Choose a language to get started · Elige un idioma para empezar · Choisissez une langue pour commencer
 
 <div class="lang-carousel">
-  <a href="/pt-br/" class="lang-slide" hreflang="pt-BR">
+  <a href="/pt-br/about-me/" class="lang-slide" hreflang="pt-BR">
     <img src="/static/flags/flag-br.svg" alt="Bandeira do Brasil" />
     <span class="lang-slide-name">Português</span>
     <span class="lang-slide-note">Conteúdo completo, sempre escrito primeiro aqui (idioma padrão por enquanto)</span>
   </a>
-  <a href="/en/" class="lang-slide" hreflang="en-US">
+  <a href="/en/about-me/" class="lang-slide" hreflang="en-US">
     <img src="/static/flags/flag-us.svg" alt="Flag of the United States" />
     <span class="lang-slide-name">English</span>
-    <span class="lang-slide-note">Home and a few pages — translated as time allows</span>
+    <span class="lang-slide-note">Only the home page is translated — the rest is in Portuguese</span>
   </a>
-  <a href="/es/" class="lang-slide" hreflang="es-ES">
+  <a href="/es/about-me/" class="lang-slide" hreflang="es-ES">
     <img src="/static/flags/flag-es.svg" alt="Bandera de España" />
     <span class="lang-slide-name">Español</span>
-    <span class="lang-slide-note">Solo la página de inicio, sin traducir por ahora</span>
+    <span class="lang-slide-note">Solo la página de inicio está traducida; el resto está en portugués</span>
   </a>
-  <a href="/fr/" class="lang-slide" hreflang="fr-FR">
+  <a href="/fr/about-me/" class="lang-slide" hreflang="fr-FR">
     <img src="/static/flags/flag-fr.svg" alt="Drapeau de la France" />
     <span class="lang-slide-name">Français</span>
-    <span class="lang-slide-note">Seulement la page d'accueil, pas encore traduite</span>
+    <span class="lang-slide-note">Seule la page d'accueil est traduite ; le reste est en portugais</span>
   </a>
 </div>
 
-Prefere links em texto? [[pt-br/index|Início]] · [[en/index|Home]] · [[es/index|Sobre mí]] · [[fr/index|À propos de moi]]
+Prefere links em texto? [[pt-br/about-me/index|Sobre Mim]] · [[en/about-me/index|About Me]] · [[es/about-me/index|Sobre mí]] · [[fr/about-me/index|À propos de moi]]
 
 <div class="astronomy-qrcode-card" style="margin: 2.2rem auto; text-align: center; max-width: 420px; padding: 1.5rem; background: linear-gradient(135deg, rgba(15, 23, 42, 0.03), rgba(56, 189, 248, 0.08)); border: 1px solid var(--lightgray); border-radius: 20px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);">
   <img src="/static/imagens/qrcode-cosmico-home.png" alt="QR Code Pedro Henrique - www.phrandrade.com" width="340" style="width: 340px; max-width: 82vw; height: auto; border-radius: 14px; box-shadow: 0 6px 20px rgba(0,0,0,0.12); padding: 10px; background: #ffffff; display: block; margin: 0 auto;" />
@@ -52,9 +52,9 @@ Prefere links em texto? [[pt-br/index|Início]] · [[en/index|Home]] · [[es/ind
 </div>
 
 > [!tip] Idiomas
-> O conteúdo é escrito em português. O botão **EN** no topo da barra lateral leva à mesma página em inglês, quando ela já foi traduzida. Se ainda não existir tradução, você cai na página inicial do idioma com um aviso, em vez de um erro. Espanhol e francês têm por enquanto só a página inicial.
+> O conteúdo é escrito em português. O botão **EN** no topo da barra lateral leva à mesma página em inglês, quando ela já foi traduzida. Se ainda não existir tradução, você cai na página inicial do idioma (Sobre Mim) com um aviso, em vez de um erro. Em todos os idiomas só a página inicial está traduzida por enquanto.
 >
-> _The content is written in Portuguese. The **EN** button at the top of the sidebar takes you to the same page in English when it has been translated; otherwise you land on the English home page with a notice instead of an error. Spanish and French currently have only a home page._
+> _The content is written in Portuguese. The **EN** button at the top of the sidebar takes you to the same page in English when it has been translated; otherwise you land on the English home page (About Me) with a notice instead of an error. In every language only the home page is translated for now._
 
 > [!abstract] Portfólio de projetos · Projects portfolio · Portafolio de proyectos · Portfolio de projets
 > Resumo rápido de tudo que construí no GitHub — repositórios, bolsas e contatos numa página só.

@@ -18,7 +18,7 @@ sitesync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span>Setup</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Setup</span>
+<span>[[pt-br/about-me/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span>Setup</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Setup</span>
 
 </div>
 
@@ -32,7 +32,7 @@ sitesync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/index|Hub]]</span> <span class="academic-nav-counter">(3 de 3)</span>
+<span class="academic-nav-btn">[[pt-br/about-me/index|Hub]]</span> <span class="academic-nav-counter">(3 de 3)</span>
 
 </div>
 
@@ -48,7 +48,7 @@ sitesync: true
 
 # Meu Setup de Trabalho & Estudo
 
-- Origem: [[pt-br/index|Sobre Mim Hub]]
+- Origem: [[pt-br/about-me/index|Sobre Mim Hub]]
 
 > [!info] Hardware, SO, periféricos e ambiente de desenvolvimento.
 

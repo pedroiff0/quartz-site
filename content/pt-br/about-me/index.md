@@ -1,13 +1,13 @@
 ---
 publish: true
-title: Início
+title: Sobre Mim
 aliases:
   - Sobre Mim Hub
   - Sobre Mim
   - Início
   - sobre-mim
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-05T16:24:00-03:00
+modified: 2026-10-06T22:11:42-03:00
 tags:
   - pessoal
   - sobre-mim
@@ -173,9 +173,9 @@ Meu CV no idioma desta página e o repositório (LaTeX, multilíngue) que o gera
 ## Seções Pessoais
 
 - Origem: [[02-areas/pessoal/pessoal-hub|Hub Pessoal]]
-- [[pt-br/about-me/setup/setup-hub|Meu Setup]] — Hardware, monitores, periféricos e ambiente de trabalho.
-- [[pt-br/about-me/minhas-coisas/coisas-hub|Minhas Coisas]] — Inventário de pertences pessoais, projetos, hobbies e coleções.
-- [[pt-br/about-me/recomendacoes/recomendacoes|Recomendações]] — Livros, filmes, ferramentas e referências favoritas.
+- [[pt-br/about-me/setup|Meu Setup]] — Hardware, monitores, periféricos e ambiente de trabalho.
+- [[pt-br/about-me/minhas-coisas|Minhas Coisas]] — Inventário de pertences pessoais, projetos, hobbies e coleções.
+- [[pt-br/about-me/recomendacoes|Recomendações]] — Livros, filmes, ferramentas e referências favoritas.
 
 ---
 

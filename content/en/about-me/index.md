@@ -1,21 +1,21 @@
 ---
 publish: true
-title: Inicio
+title: About Me
 aliases:
-  - Inicio
+  - Home
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-05T21:58:58-03:00
+modified: 2026-10-06T22:23:22-03:00
 tags:
   - pessoal
   - sobre-mim
   - hub
-  - es
+  - en
 cssclasses:
   - page-layout
 icon: lucide-user
 order: 1
-lang: es
-translation-of: "[[pt-br/index]]"
+lang: en
+translation-of: "[[pt-br/about-me/index]]"
 sitesync: true
 resource-sync: true
 ---
@@ -24,7 +24,7 @@ resource-sync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Sobre Mim Hub Es</span>
+<span>[[pt-br/about-me/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Sobre Mim Hub En</span>
 
 </div>
 
@@ -38,7 +38,7 @@ resource-sync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/index|Hub]]</span>
+<span class="academic-nav-btn">[[pt-br/about-me/index|Hub]]</span>
 
 </div>
 
@@ -52,38 +52,82 @@ resource-sync: true
 
 </div>
 
-> [!untranslated] Aún no traducido
-> La página que solicitaste aún no ha sido traducida al español, por eso fuiste redirigido aquí. La mayor parte del sitio sigue disponible solo en portugués: consulta la [[pt-br/index|versión en portugués]].
+> [!untranslated] Not translated yet
+> The page you requested has not been translated into English yet, so you were redirected here. Only the home page (About Me) is translated; the rest of the site is available only in Portuguese: see the [[pt-br/about-me/index|Portuguese version]].
 
-> [!note] Resumen
-> Estudiante de Ingeniería de Computación en el Instituto Federal Fluminense (IFF) e investigador en métodos computacionales aplicados a la astrofísica y la arqueología galáctica.
+> [!note] Summary
+> Computer Engineering student at the Federal Institute Fluminense (IFF) and researcher in computational methods applied to astrophysics and galactic archaeology.
 
-> [!info] ¡Bienvenido(a)!
-> Esta es tu página de inicio. Aquí encontrarás todo lo que necesitas saber sobre mi trayectoria, mis investigaciones y mi trabajo. Lee en el orden sugerido para tener la mejor experiencia posible.
+> [!info] Welcome!
+> This is your starting page! Here you will find everything you need to know about my journey, research, and work. Read in the suggested order to have the best possible experience.
 
-> [!abstract] También conoce mi portafolio
-> Si llegaste desde mi **[portafolio de proyectos](https://pedroiff0.github.io/webpage/)** (o quieres una vista rápida de todo lo que he construido), allí están todos mis repositorios de GitHub —públicos y privados— con un *short brief* de cada uno, además de las becas de investigación y los contactos reunidos en una sola página. Este sitio es el contenido más completo (investigación, asignaturas, medios y blog).
+> [!abstract] Also check out my portfolio
+> If you came from my **[projects portfolio](https://pedroiff0.github.io/webpage/)** (or just want a quick overview of everything I've built), it lists all my GitHub repositories — public and private — each with a *short brief*, plus my research grants and all contacts on a single page. This site is the full content (research, classes, media and blog).
 
-## ¿Por dónde empezar?
+## Explore the content
 
-### Primer paso: Sobre mí
+<div class="media-carousel">
+  <a href="/pt-br/research/" class="carousel-slide">
+    <img src="/static/illustrations/research.svg" alt="Research" />
+    <div class="slide-caption">Research</div>
+  </a>
+  <a href="/pt-br/academic/engenharia-computacao/" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="Computer Engineering" />
+    <div class="slide-caption">Computer Engineering</div>
+  </a>
+  <a href="/pt-br/projects/" class="carousel-slide">
+    <img src="/static/illustrations/projects.svg" alt="Projects" />
+    <div class="slide-caption">Projects</div>
+  </a>
+  <a href="/pt-br/media/" class="carousel-slide">
+    <img src="/static/illustrations/lncc.svg" alt="Media & Events" />
+    <div class="slide-caption">Media & Events</div>
+  </a>
+</div>
+
+- [[pt-br/research/index|Research]] — My current projects.
+- [[pt-br/academic/engenharia-computacao/index|Computer Engineering]] — Course subjects and notes.
+- [[01-projetos/projetos-hub|Projects]] — Tools, systems and repositories.
+- [[pt-br/media/index|Media & Events]] — Events, fairs and presentations.
+
+---
+
+## Introduction
 
 <img src="/static/imagens/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
-Soy **Pedro Henrique Rocha de Andrade**, estudiante de Ingeniería de Computación en el [Instituto Federal Fluminense (IFF)](https://portal1.iff.edu.br/), campus Bom Jesus do Itabapoana, Río de Janeiro, Brasil. Desde 2022 desarrollo investigaciones científicas que integran computación de alto rendimiento, aprendizaje automático y astrofísica, con foco en la dinámica y la evolución química de la Vía Láctea.
+I am **Pedro Henrique Rocha de Andrade**, a Computer Engineering student at the [Federal Institute Fluminense (IFF)](https://portal1.iff.edu.br/), Bom Jesus do Itabapoana campus, Rio de Janeiro, Brazil. Since 2022, I have been carrying out scientific research that combines high-performance computing, machine learning and astrophysics, focused on the dynamics and chemical evolution of the Milky Way.
 
-Mi trabajo se ubica en la intersección entre **métodos computacionales avanzados** y **problemas astrofísicos**. Creo que las herramientas de código abierto, los pipelines automatizados y los flujos de trabajo reproducibles son esenciales para hacer avanzar la ciencia y hacerla más accesible a todos.
+I believe open-source tools, automated pipelines and reproducible workflows are essential to advance science and make it accessible to everyone.
 
-### Identificadores y redes académicas
+---
 
-- [**Currículo Lattes (CNPq)**](http://lattes.cnpq.br/6818168089966785) — Registro académico oficial, producciones e historial de becas
-- [**ORCID (0009-0003-6724-4640)**](https://orcid.org/0009-0003-6724-4640) — Identificador digital de autor y publicaciones
-- [**GitHub (`pedroiff0`)**](https://github.com/pedroiff0) — Repositorios de código, frameworks y proyectos abiertos
-- [**LinkedIn**](https://www.linkedin.com/in/pedroiff0/) — Perfil profesional y conexiones
-- [**Instagram (`@ra.pedroh`)**](https://instagram.com/ra.pedroh) — Registro personal y participación en eventos
-- [**Correo académico / personal**](mailto:pedroiff0@gmail.com) — Contacto directo
+## Areas of Work & Interest
 
-### Publicaciones en Instagram ([@ra.pedroh](https://instagram.com/ra.pedroh))
+### Astrophysics & Astronomy
+- Galactic archaeology, stellar populations and Milky Way evolution.
+- Analysis and mining of large astronomical datasets (Gaia DR3/DR4, GALAH DR4, APOGEE).
+- Spectral and photometric anomaly detection in stellar surveys.
+- Dynamical simulations of collisions and shocks in galaxy clusters.
+
+### Computer Science & Engineering
+- Scientific computing, data pipeline architecture and automation.
+- Supervised and unsupervised machine learning applied to physical data.
+- Distributed systems, compilers, software engineering and TeX/LaTeX tooling (ReLaTeX).
+- Development of open tools and academic documentation portals.
+
+---
+
+## Identifiers & Academic Networks
+
+- [**Lattes CV (CNPq)**](http://lattes.cnpq.br/6818168089966785) — Official academic record, publications and grant history
+- [**ORCID (0009-0003-6724-4640)**](https://orcid.org/0009-0003-6724-4640) — Author identifier and publications
+- [**GitHub (`pedroiff0`)**](https://github.com/pedroiff0) — Code repositories, frameworks and open projects
+- [**LinkedIn**](https://www.linkedin.com/in/pedroiff0/) — Professional profile and connections
+- [**Instagram (`@ra.pedroh`)**](https://instagram.com/ra.pedroh) — Personal record and event participation
+- [**Academic / Personal e-mail**](mailto:pedroiff0@gmail.com) — Direct contact
+
+### Instagram Posts ([@ra.pedroh](https://instagram.com/ra.pedroh))
 
 <div class="media-carousel instagram-embed-carousel" style="display: flex; gap: 1.25rem; overflow-x: auto; padding: 1rem 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
   <div class="carousel-slide" style="flex: 0 0 min(280px, 80%); scroll-snap-align: center; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); background: ffffff; border: 1px solid var(--lightgray);">
@@ -122,14 +166,14 @@ Mi trabajo se ubica en la intersección entre **métodos computacionales avanzad
 </div>
 
 <p style="text-align: center; margin-top: 0.5rem; margin-bottom: 2rem;">
-  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="jc-button" style="text-decoration: none;"> Abrir el perfil completo @ra.pedroh en Instagram ↗</a>
+  <a href="https://instagram.com/ra.pedroh" target="_blank" rel="noopener noreferrer" class="jc-button" style="text-decoration: none;"> Open the full @ra.pedroh profile on Instagram ↗</a>
 </p>
 
 ---
 
-### Currículum y código fuente
+## CV & Source Code
 
-Mi CV y el repositorio (LaTeX, multilingüe) que lo genera:
+My CV and the (multilingual LaTeX) repository that builds it:
 
 <div class="cv-cards-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.25rem; margin: 1.5rem 0;">
 
@@ -137,10 +181,10 @@ Mi CV y el repositorio (LaTeX, multilingüe) que lo genera:
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
         <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV (PDF)</div>
-        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Diseño en dos columnas (LaTeX)</div>
+        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Two-column layout (LaTeX)</div>
       </div>
       <div style="margin-top: 1.25rem; font-weight: 600; font-size: 0.85rem; color: var(--secondary); display: flex; align-items: center; gap: 0.35rem;">
-        <span>Ver PDF</span> <span>↗</span>
+        <span>View PDF</span> <span>↗</span>
       </div>
     </div>
   </a>
@@ -148,11 +192,11 @@ Mi CV y el repositorio (LaTeX, multilingüe) que lo genera:
   <a href="https://github.com/pedroiff0/curriculo" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
-        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">Repositorio del CV</div>
-        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Código fuente TeX multilingüe en GitHub</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV Repository</div>
+        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Multilingual TeX source on GitHub</div>
       </div>
       <div style="margin-top: 1.25rem; font-weight: 600; font-size: 0.85rem; color: var(--secondary); display: flex; align-items: center; gap: 0.35rem;">
-        <span>Ver en GitHub</span> <span>↗</span>
+        <span>View on GitHub</span> <span>↗</span>
       </div>
     </div>
   </a>
@@ -161,58 +205,53 @@ Mi CV y el repositorio (LaTeX, multilingüe) que lo genera:
 
 ---
 
-### Contáctame
+## Personal Sections
 
-¿Prefieres no abrir tu programa de correo? Completa los campos y el mensaje llega directo a mi bandeja de entrada.
+- Origin: [[02-areas/pessoal/pessoal-hub|Personal Hub]]
+- [[pt-br/about-me/setup|My Setup]] — Hardware, monitors, peripherals and work environment.
+- [[pt-br/about-me/minhas-coisas|My Things]] — Inventory of personal belongings, projects, hobbies and collections.
+- [[pt-br/about-me/recomendacoes|Recommendations]] — Favorite books, movies, tools and references.
+
+---
+
+## Contact me
+
+Prefer not to open your e-mail client? Fill in the fields below and the message goes straight to my inbox.
 
 <form id="contact-form" class="contact-form" style="max-width: 580px; margin: 1.5rem 0;">
   <div style="display: flex; flex-direction: column; gap: 0.85rem;">
-    <input type="text" name="from_name" placeholder="Tu nombre" required style="padding: 0.75rem 1rem; border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light); color: var(--dark); font-family: inherit;">
-    <input type="email" name="reply_to" placeholder="Tu correo de contacto" required style="padding: 0.75rem 1rem; border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light); color: var(--dark); font-family: inherit;">
-    <textarea name="message" placeholder="Tu mensaje" rows="4" required style="padding: 0.75rem 1rem; border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light); color: var(--dark); font-family: inherit; resize: vertical;"></textarea>
-    <button type="submit" class="jc-button" style="align-self: flex-start; cursor: pointer;">Enviar mensaje</button>
+    <input type="text" name="from_name" placeholder="Your name" required style="padding: 0.75rem 1rem; border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light); color: var(--dark); font-family: inherit;">
+    <input type="email" name="reply_to" placeholder="Your contact e-mail" required style="padding: 0.75rem 1rem; border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light); color: var(--dark); font-family: inherit;">
+    <textarea name="message" placeholder="Your message" rows="4" required style="padding: 0.75rem 1rem; border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light); color: var(--dark); font-family: inherit; resize: vertical;"></textarea>
+    <button type="submit" class="jc-button" style="align-self: flex-start; cursor: pointer;">Send Message</button>
     <p id="contact-form-status" style="font-size: 0.9rem; color: var(--gray); margin: 0;"></p>
   </div>
 </form>
 
 <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script>
+(function() {
+  var EMAILJS_PUBLIC_KEY = "fh5Z3HcsBAXFKJ-Jd";
+  var EMAILJS_SERVICE_ID = "service_myxxjn7";
+  var EMAILJS_TEMPLATE_ID = "template_1baqk12";
 
----
+  var form = document.getElementById("contact-form");
+  var status = document.getElementById("contact-form-status");
+  if (!form || window.emailjs === undefined) return;
+  emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
 
-### Segundo paso: Áreas de interés
-
-#### Astrofísica y Astronomía
-
-- Arqueología galáctica, poblaciones estelares y evolución de la Vía Láctea.
-- Análisis y minería de grandes bases de datos astronómicos (Gaia DR3/DR4, GALAH DR4, APOGEE).
-- Detección de anomalías espectrales y fotométricas en relevamientos estelares.
-- Simulaciones dinámicas de colisiones y choques en cúmulos de galaxias.
-
-#### Ciencia de la Computación e Ingeniería
-
-- Computación científica, arquitectura de pipelines de datos y automatización.
-- Aprendizaje automático supervisado y no supervisado aplicado a datos físicos.
-- Sistemas distribuidos, compiladores, ingeniería de software y herramientas TeX/LaTeX (ReLaTeX).
-- Desarrollo de herramientas abiertas y portales de documentación académica.
-
----
-
-### Tercer paso: Páginas personales
-
-- [[pt-br/about-me/setup/setup-hub|Mi setup]] — Hardware, monitores, periféricos y entorno de trabajo.
-- [[pt-br/about-me/minhas-coisas/coisas-hub|Mis cosas]] — Inventario de pertenencias personales, proyectos, hobbies y colecciones.
-- [[pt-br/about-me/recomendacoes/recomendacoes|Recomendaciones]] — Libros, películas, herramientas y referencias favoritas.
-
----
-
-### Cuarto paso: Explorar el contenido
-
-<div class="media-carousel">
-  <a href="/pt-br/research/" class="carousel-slide">
-    <img src="/static/illustrations/research.svg" alt="Investigación" />
-    <div class="slide-caption">Investigación</div>
-
-- [[pt-br/research/index|Investigación]] — Conoce mis proyectos actuales.
-- [[pt-br/academic/engenharia-computacao/index|Ingeniería de Computación]] — Asignaturas y apuntes del curso.
-- [[01-projetos/projetos-hub|Proyectos]] — Herramientas, sistemas y repositorios.
-- [[pt-br/media/index|Medios y eventos]] — Participaciones en eventos, ferias y presentaciones.
+  form.addEventListener("submit", function(e) {
+    e.preventDefault();
+    status.textContent = "Sending…";
+    emailjs.sendForm(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, form).then(
+      function() {
+        status.textContent = "Message sent successfully!";
+        form.reset();
+      },
+      function(err) {
+        status.textContent = "Delivery failed. Please e-mail pedroiff0@gmail.com directly";
+      }
+    );
+  });
+})();
+</script>

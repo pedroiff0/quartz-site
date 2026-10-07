@@ -45,7 +45,7 @@ sitesync: true
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[midia-hub|Mídias]] | 18/07/2026 |
+| [[pt-br/media/index\|Mídias]] | 18/07/2026 |
 
 </div>
 

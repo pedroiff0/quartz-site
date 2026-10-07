@@ -5,7 +5,7 @@ aliases:
   - Engenharia de Computação Hub
   - IFF EngComp Hub
 created: 2026-07-22 12:00:00-03:00
-modified: 2026-10-05T15:19:21-03:00
+modified: 2026-10-06T20:55:29-03:00
 tags:
   - matriz-curricular
   - engenharia-de-computacao
@@ -69,9 +69,9 @@ Bem-vindo ao portal completo da matriz curricular, ementário, fluxo de período
 
 > [!info]  Sistema Acadêmico IFF & Recursos Centrais
 > **Plataforma Integrada de Gestão Curricular**
-> -  **[Mapeamento de Trancas Diretas & Recursivas](-mapeamento-completo-de-trancas-e-dependências-curriculares)** — *Fluxogramas visuais em Mermaid, cadeias críticas e fecho transitivo.*
-> -  **[Matriz Curricular dos 10 Períodos](-matriz-curricular-geral-90-disciplinas)** — *Grade completa com cargas horárias e componentes obrigatórios/eletivos.*
-> -  **[Documentos Oficiais & Ementário Completo](-fontes-documentos-oficiais--materiais-de-apoio)** — *PPC Completo, relatórios e ementas originais arquivados em materiais.*
+> -  **[Mapeamento de Trancas Diretas & Recursivas](#-mapeamento-completo-de-trancas-e-dependências-curriculares)** — *Fluxogramas visuais em Mermaid, cadeias críticas e fecho transitivo.*
+> -  **[Matriz Curricular dos 10 Períodos](#-matriz-curricular-geral-90-disciplinas)** — *Grade completa com cargas horárias e componentes obrigatórios/eletivos.*
+> -  **[Documentos Oficiais & Ementário Completo](#-fontes-documentos-oficiais--materiais-de-apoio)** — *PPC Completo, relatórios e ementas originais arquivados em materiais.*
 > -  **[Repositório no GitHub (Sistema Acadêmico)](https://github.com/pedroiff0/sistema-academico)** — *Código-fonte, APIs e scripts de extração.*
 > -  **[Aplicação Online em Produção](https://planck.dwelf-bull.ts.net)** — *Acesse o sistema em execução no servidor `planck.dwelf-bull.ts.net`.*
 
@@ -82,48 +82,48 @@ Bem-vindo ao portal completo da matriz curricular, ementário, fluxo de período
 Navegue interativamente por cada um dos 10 períodos e disciplinas eletivas da grade curricular:
 
 <div class="media-carousel">
-  <a href="/pt-br/resource/engenharia-de-computação/1-periodo" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="1º Período" />
+  <a href="/pt-br/academic/engenharia-computacao/1-periodo" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="1º Período" />
     <div class="slide-caption">1º Período</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/2-periodo" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="2º Período" />
+  <a href="/pt-br/academic/engenharia-computacao/2-periodo" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="2º Período" />
     <div class="slide-caption">2º Período</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/3-periodo" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="3º Período" />
+  <a href="/pt-br/academic/engenharia-computacao/3-periodo" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="3º Período" />
     <div class="slide-caption">3º Período</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/4-periodo" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="4º Período" />
+  <a href="/pt-br/academic/engenharia-computacao/4-periodo" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="4º Período" />
     <div class="slide-caption">4º Período</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/5-periodo" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="5º Período" />
+  <a href="/pt-br/academic/engenharia-computacao/5-periodo" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="5º Período" />
     <div class="slide-caption">5º Período</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/6-periodo" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="6º Período" />
+  <a href="/pt-br/academic/engenharia-computacao/6-periodo" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="6º Período" />
     <div class="slide-caption">6º Período</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/7-periodo" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="7º Período" />
+  <a href="/pt-br/academic/engenharia-computacao/7-periodo" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="7º Período" />
     <div class="slide-caption">7º Período</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/8-periodo" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="8º Período" />
+  <a href="/pt-br/academic/engenharia-computacao/8-periodo" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="8º Período" />
     <div class="slide-caption">8º Período</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/9-periodo" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="9º Período" />
+  <a href="/pt-br/academic/engenharia-computacao/9-periodo" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="9º Período" />
     <div class="slide-caption">9º Período</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/10-periodo" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="10º Período" />
+  <a href="/pt-br/academic/engenharia-computacao/10-periodo" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="10º Período" />
     <div class="slide-caption">10º Período</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/eletivas" class="carousel-slide">
-    <img src="/04-recursos/99-meta/illustrations/classes.svg" alt="Eletivas (optativas)" />
+  <a href="/pt-br/academic/engenharia-computacao/eletivas" class="carousel-slide">
+    <img src="/static/illustrations/classes.svg" alt="Eletivas (optativas)" />
     <div class="slide-caption">Eletivas (optativas)</div>
   </a>
 </div>
@@ -312,7 +312,7 @@ O aluno deve integralizar carga horária optativa escolhendo entre o rol de disc
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="/pt-br/resource/engenharia-de-computação" class="btn btn-primary"> Voltar à Página Principal de Engenharia de Computação</a>
+  <a href="/pt-br/academic/engenharia-computacao/" class="btn btn-primary"> Voltar à Página Principal de Engenharia de Computação</a>
 </div>
 
 ---
@@ -716,7 +716,7 @@ As disciplinas abaixo são as mais críticas do curso em termos de dependências
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="/pt-br/resource/engenharia-de-computação" class="btn btn-primary"> Voltar à Página Principal de Engenharia de Computação</a>
+  <a href="/pt-br/academic/engenharia-computacao/" class="btn btn-primary"> Voltar à Página Principal de Engenharia de Computação</a>
 </div>
 
 ---

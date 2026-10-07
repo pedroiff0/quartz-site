@@ -37,11 +37,11 @@ Central de gestão acadêmica, graduação em Engenharia de Computação (IFF), 
 
 ### 2. Idiomas
 - [[pt-br/academic/languages/index|Hub de Idiomas]]
-  - [[pt-br/academic/languages/italiano/italiano|Italiano]] | [[pt-br/academic/languages/frances/frances|Francês]] | [[pt-br/academic/languages/mandarim/mandarim|Mandarim]] | [[pt-br/academic/languages/alemao/alemao|Alemão]] | [[pt-br/academic/languages/ingles/ingles|Inglês]] | [[pt-br/academic/languages/espanhol/espanhol|Espanhol]] | [[pt-br/academic/languages/russo/russo|Russo]] | [[pt-br/academic/languages/japones/japones|Japonês]] | [[pt-br/academic/languages/grego/grego|Grego]] | [[pt-br/academic/languages/portugues/portugues|Português]]
+  - [[pt-br/academic/languages/italiano|Italiano]] | [[pt-br/academic/languages/frances|Francês]] | [[pt-br/academic/languages/mandarim|Mandarim]] | [[pt-br/academic/languages/alemao|Alemão]] | [[pt-br/academic/languages/ingles|Inglês]] | [[pt-br/academic/languages/espanhol|Espanhol]] | [[pt-br/academic/languages/russo|Russo]] | [[pt-br/academic/languages/japones|Japonês]] | [[pt-br/academic/languages/grego|Grego]] | [[pt-br/academic/languages/portugues|Português]]
 
 ### 3. Pesquisas & Astronomia
 - [[pt-br/research/papers/index|Biblioteca de Artigos & Papers]]
-- [[pt-br/research/deteccao-de-anomalias-iff-2025/deteccao-de-anomalias-iff-2025|Detecção de Anomalias (GALAH DR4)]]
+- [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias (GALAH DR4)]]
 - [[pt-br/research/journal-clubs/mwbr/journal-club-mwbr|Journal Club — MWBR]]
 
 ### 4. Computação & Cursos
@@ -58,7 +58,7 @@ Central de gestão acadêmica, graduação em Engenharia de Computação (IFF), 
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[academico-hub|Hub Central Acadêmico]] | 30/09/2026 |
+| Hub Central Acadêmico | 30/09/2026 |
 
 </div>
 

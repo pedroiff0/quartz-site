@@ -1958,3 +1958,8 @@ article .media-carousel {
   --callout-icon: var(--callout-icon-warning);
 }
 html.show-untranslated .callout[data-callout="untranslated"] { display: block; }
+
+/* Breadcrumbs: oculta o segmento do idioma (pt-br/en/es/fr) logo apos Home */
+.breadcrumb-container > .breadcrumb-element:nth-child(2) {
+  display: none;
+}
