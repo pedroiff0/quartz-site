@@ -67,27 +67,27 @@ resource-sync: true
 ## Explore the content
 
 <div class="media-carousel">
-  <a href="/pt-br/research/" class="carousel-slide">
+  <span class="carousel-slide">
     <img src="/static/illustrations/research.svg" alt="Research" />
     <div class="slide-caption">Research</div>
-  </a>
+  </span>
   <a href="/pt-br/academic/engenharia-computacao/" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="Computer Engineering" />
     <div class="slide-caption">Computer Engineering</div>
   </a>
-  <a href="/pt-br/projects/" class="carousel-slide">
+  <span class="carousel-slide">
     <img src="/static/illustrations/projects.svg" alt="Projects" />
     <div class="slide-caption">Projects</div>
-  </a>
+  </span>
   <a href="/pt-br/media/" class="carousel-slide">
     <img src="/static/illustrations/lncc.svg" alt="Media & Events" />
     <div class="slide-caption">Media & Events</div>
   </a>
 </div>
 
-- [[pt-br/research/index|Research]] — My current projects.
+- Research — My current projects.
 - [[pt-br/academic/engenharia-computacao/index|Computer Engineering]] — Course subjects and notes.
-- [[01-projetos/projetos-hub|Projects]] — Tools, systems and repositories.
+- Projects — Tools, systems and repositories.
 - [[pt-br/media/index|Media & Events]] — Events, fairs and presentations.
 
 ---
@@ -207,7 +207,7 @@ My CV and the (multilingual LaTeX) repository that builds it:
 
 ## Personal Sections
 
-- Origin: [[02-areas/pessoal/pessoal-hub|Personal Hub]]
+- Origin: Personal Hub
 - [[pt-br/about-me/setup|My Setup]] — Hardware, monitors, peripherals and work environment.
 - [[pt-br/about-me/minhas-coisas|My Things]] — Inventory of personal belongings, projects, hobbies and collections.
 - [[pt-br/about-me/recomendacoes|Recommendations]] — Favorite books, movies, tools and references.

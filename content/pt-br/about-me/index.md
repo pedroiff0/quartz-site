@@ -32,27 +32,27 @@ resource-sync: true
 ## Explorar o conteúdo
 
 <div class="media-carousel">
-  <a href="/pt-br/research/" class="carousel-slide">
+  <span class="carousel-slide">
     <img src="/static/illustrations/research.svg" alt="Pesquisas" />
     <div class="slide-caption">Pesquisas</div>
-  </a>
+  </span>
   <a href="/pt-br/academic/engenharia-computacao/" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="Engenharia de Computação" />
     <div class="slide-caption">Engenharia de Computação</div>
   </a>
-  <a href="/pt-br/projects/" class="carousel-slide">
+  <span class="carousel-slide">
     <img src="/static/illustrations/projects.svg" alt="Projetos" />
     <div class="slide-caption">Projetos</div>
-  </a>
+  </span>
   <a href="/pt-br/media/" class="carousel-slide">
     <img src="/static/illustrations/lncc.svg" alt="Mídia & Eventos" />
     <div class="slide-caption">Mídia & Eventos</div>
   </a>
 </div>
 
-- [[pt-br/research/index|Pesquisas]] — Conheça meus projetos atuais.
+- Pesquisas — Conheça meus projetos atuais.
 - [[pt-br/academic/engenharia-computacao/index|Engenharia de Computação]] — Disciplinas e anotações do curso.
-- [[01-projetos/projetos-hub|Projetos]] — Ferramentas, sistemas e repositórios.
+- Projetos — Ferramentas, sistemas e repositórios.
 - [[pt-br/media/index|Mídia & Eventos]] — Participações em eventos, feiras e apresentações.
 
 ---
@@ -172,7 +172,7 @@ Meu CV no idioma desta página e o repositório (LaTeX, multilíngue) que o gera
 
 ## Seções Pessoais
 
-- Origem: [[02-areas/pessoal/pessoal-hub|Hub Pessoal]]
+- Origem: Hub Pessoal
 - [[pt-br/about-me/setup|Meu Setup]] — Hardware, monitores, periféricos e ambiente de trabalho.
 - [[pt-br/about-me/minhas-coisas|Minhas Coisas]] — Inventário de pertences pessoais, projetos, hobbies e coleções.
 - [[pt-br/about-me/recomendacoes|Recomendações]] — Livros, filmes, ferramentas e referências favoritas.

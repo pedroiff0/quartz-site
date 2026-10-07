@@ -31,13 +31,13 @@ sitesync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn is-active">[[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/index|Hub Disciplina]]</span> <span class="academic-nav-btn">[[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/anotacoes/index|Anotações]]</span> <span class="academic-nav-btn">[[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/anotacoes/atividades/index|Atividades / Trabalhos]]</span> <span class="academic-nav-counter">(1 aulas registradas)</span>
+<span class="academic-nav-btn is-active">[[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados|Hub Disciplina]]</span> <span class="academic-nav-counter">(0 aulas registradas)</span>
 
 </div>
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/anotacoes/aula-07-ddl|Acessar Aulas →]]</span>
+<span class="academic-nav-btn is-disabled">Sem Aulas</span>
 
 </div>
 
@@ -49,7 +49,7 @@ sitesync: true
 > - **Código:** `CSECBJI.44`
 > - **Período:** 6º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Halisson Rocha (contato@iff.edu.br)
-> - **Livro / Material Didático Principal:** [[resource/areas/academico/iff-engenharia-de-computacao/6-periodo/banco-de-dados/livro-bd.pdf|livro-bd]]
+> - **Livro / Material Didático Principal:** livro-bd
 
 > [!note]  Ementa e Objetivos Pedagógicos
 > **Ementa**
@@ -59,7 +59,7 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados|CSECBJI.35 - Modelagem de Dados]]
+> - CSECBJI.35 - Modelagem de Dados
 > **Disciplinas Trancadas (Liberadas após conclusão):**
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
@@ -101,4 +101,4 @@ sitesync: true
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados/anotacoes/index|Anotações da Disciplina]]**
+- **Anotações da Disciplina**

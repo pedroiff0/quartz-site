@@ -31,13 +31,13 @@ sitesync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn is-active">[[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/index|Hub Disciplina]]</span> <span class="academic-nav-btn">[[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/index|Anotações]]</span> <span class="academic-nav-btn">[[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/atividades/index|Atividades / Trabalhos]]</span> <span class="academic-nav-counter">(0 aulas registradas)</span>
+<span class="academic-nav-btn is-active">[[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i|Hub Disciplina]]</span> <span class="academic-nav-counter">(0 aulas registradas)</span>
 
 </div>
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/index|Ver Anotações →]]</span>
+<span class="academic-nav-btn is-disabled">Sem Aulas</span>
 
 </div>
 
@@ -63,19 +63,19 @@ sitesync: true
 
 > [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
 > **Pré-requisitos Exigidos:**
-> - [[pt-br/academic/engenharia-computacao/2-periodo/algoritmos-e-tecnicas-de-programacao|CSECBJI.13 - Algoritmos e Técnicas de Programação]]
-> - [[pt-br/academic/engenharia-computacao/5-periodo/paradigmas-de-linguagem-de-programacao|CSECBJI.38 - Paradigmas de Linguagem de Programação]]
+> - CSECBJI.13 - Algoritmos e Técnicas de Programação
+> - CSECBJI.38 - Paradigmas de Linguagem de Programação
 > **Disciplinas Trancadas (Liberadas após conclusão):**
-> - [[pt-br/academic/engenharia-computacao/7-periodo/programacao-orientada-a-objetos-ii|CSECBJI.51 - Programação Orientada a Objetos II]]
+> - CSECBJI.51 - Programação Orientada a Objetos II
 
 > [!tip]  Conteúdo Programático
-> - [/] **1. Classes e Objetos** [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introducao|Aula 01]], [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-03-construtores-e-encapsulamento|Aula 02]]
->   - [x] Conceito [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introducao|Aula 01]]
->   - [x] Atributos e Operações: Classe e Instância [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introducao|Aula 01]]
->   - [x] Tipo de Dados: Referência e Valor [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-01-introducao|Aula 01]]
->   - [x] Visibilidade de Atributos e Operações [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-03-construtores-e-encapsulamento|Aula 02]]
->   - [x] Encapsulamento [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-03-construtores-e-encapsulamento|Aula 02]]
->   - [x] Construtores e Destrutores [[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i/anotacoes/aula-03-construtores-e-encapsulamento|Aula 02]]
+> - [/] **1. Classes e Objetos** Aula 01, Aula 02
+>   - [x] Conceito Aula 01
+>   - [x] Atributos e Operações: Classe e Instância Aula 01
+>   - [x] Tipo de Dados: Referência e Valor Aula 01
+>   - [x] Visibilidade de Atributos e Operações Aula 02
+>   - [x] Encapsulamento Aula 02
+>   - [x] Construtores e Destrutores Aula 02
 >   - [ ] Sobrecarga de Operação
 >   - [ ] Associação e Composição
 > - [ ] **2. Herança e Polimorfismo**
@@ -117,4 +117,4 @@ sitesync: true
 > 
 
 ## Anotações e Arquivos Didáticos
-- **[[Anotações/Anotações — Programacao Orientada A Objetos I|Anotações da Disciplina]]**
+- **Anotações da Disciplina**

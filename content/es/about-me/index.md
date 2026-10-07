@@ -4,7 +4,7 @@ title: Sobre Mí
 aliases:
   - Inicio
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-06T22:23:22-03:00
+modified: 2026-10-07T09:56:51-03:00
 tags:
   - pessoal
   - sobre-mim
@@ -208,11 +208,13 @@ Mi CV y el repositorio (LaTeX, multilingüe) que lo genera:
 ### Cuarto paso: Explorar el contenido
 
 <div class="media-carousel">
-  <a href="/pt-br/research/" class="carousel-slide">
+  <span class="carousel-slide">
     <img src="/static/illustrations/research.svg" alt="Investigación" />
     <div class="slide-caption">Investigación</div>
+  </span>
+</div>
 
-- [[pt-br/research/index|Investigación]] — Conoce mis proyectos actuales.
+- Investigación — Conoce mis proyectos actuales.
 - [[pt-br/academic/engenharia-computacao/index|Ingeniería de Computación]] — Asignaturas y apuntes del curso.
-- [[01-projetos/projetos-hub|Proyectos]] — Herramientas, sistemas y repositorios.
+- Proyectos — Herramientas, sistemas y repositorios.
 - [[pt-br/media/index|Medios y eventos]] — Participaciones en eventos, ferias y presentaciones.

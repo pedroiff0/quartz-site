@@ -31,11 +31,11 @@ sitesync: true
 
 | Ano | Eventos em Destaque | Hub Anual |
 | :---: | :--- | :--- |
-| **2026** | CONFICT ON, Escola de Inverno ON, Mostra IFF, CONEPE, SAB 2026 | [[pt-br/media/2026/midia-2026\|Registros 2026]] |
-| **2025** | SAB 2025 (Caxambu), MCTIA 2025 (Belém - 1º Lugar Ciências Exatas) | [[pt-br/media/2025/midia-2025\|Registros 2025]] |
-| **2024** | IX FEBIC (Pomerode - 3º Lugar), e-JINIFF (1º Lugar Valorant), 4ª SCEG | [[pt-br/media/2024/midia-2024\|Registros 2024]] |
-| **2023** | FEBRACE 2023 (Finalista Nacional), MOSTRATEC 2023 (Financiamento CNPq) | [[pt-br/media/2023/midia-2023\|Registros 2023]] |
-| **2022** | Visita Técnica LNCC (Supercomputador Santos Dumont, Petrópolis) | [[pt-br/media/2022/midia-2022\|Registros 2022]] |
+| **2026** | CONFICT ON, Escola de Inverno ON, Mostra IFF, CONEPE, SAB 2026 | Registros 2026 |
+| **2025** | SAB 2025 (Caxambu), MCTIA 2025 (Belém - 1º Lugar Ciências Exatas) | Registros 2025 |
+| **2024** | IX FEBIC (Pomerode - 3º Lugar), e-JINIFF (1º Lugar Valorant), 4ª SCEG | Registros 2024 |
+| **2023** | FEBRACE 2023 (Finalista Nacional), MOSTRATEC 2023 (Financiamento CNPq) | Registros 2023 |
+| **2022** | Visita Técnica LNCC (Supercomputador Santos Dumont, Petrópolis) | Registros 2022 |
 
 ---
 
@@ -45,7 +45,7 @@ sitesync: true
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| [[pt-br/media/index\|Mídias]] | 18/07/2026 |
+| Mídias | 18/07/2026 |
 
 </div>
 
@@ -57,8 +57,8 @@ Participações em feiras, congressos e eventos científicos — organizadas por
 
 ### 2026
 
-- [[pt-br/media/2026/confict|CONFICT ON - 2026]] — Congresso Fluminense de Iniciação Científica e Tecnológica do IFF e UENF (Campos dos Goytacazes, RJ) — apresentação oral do meu trabalho de pesquisa.
-- [[pt-br/media/2026/escolainverno|Escola de Inverno ON - 2026]] — Escola de Inverno em Astrofísica do Observatório Nacional (Rio de Janeiro) — atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4.
+- CONFICT ON - 2026 — Congresso Fluminense de Iniciação Científica e Tecnológica do IFF e UENF (Campos dos Goytacazes, RJ) — apresentação oral do meu trabalho de pesquisa.
+- Escola de Inverno ON - 2026 — Escola de Inverno em Astrofísica do Observatório Nacional (Rio de Janeiro) — atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4.
 
 ### 2025
 
@@ -83,4 +83,4 @@ Participações em feiras, congressos e eventos científicos — organizadas por
 ---
 
 ## Conexões
-- [[00-mapa/home|← Central de Comando (Home)]]
+- ← Central de Comando (Home)

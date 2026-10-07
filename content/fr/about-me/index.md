@@ -4,7 +4,7 @@ title: À propos de moi
 aliases:
   - Accueil
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-06T22:23:22-03:00
+modified: 2026-10-07T09:56:51-03:00
 tags:
   - pessoal
   - sobre-mim
@@ -208,11 +208,13 @@ Vous préférez ne pas ouvrir votre messagerie ? Remplissez les champs ci-dessou
 ### Quatrième étape : Explorer le contenu
 
 <div class="media-carousel">
-  <a href="/pt-br/research/" class="carousel-slide">
+  <span class="carousel-slide">
     <img src="/static/illustrations/research.svg" alt="Recherche" />
     <div class="slide-caption">Recherche</div>
+  </span>
+</div>
 
-- [[pt-br/research/index|Recherche]] — Découvrez mes projets actuels.
+- Recherche — Découvrez mes projets actuels.
 - [[pt-br/academic/engenharia-computacao/index|Ingénierie informatique]] — Matières et notes du cursus.
-- [[01-projetos/projetos-hub|Projets]] — Outils, systèmes et dépôts.
+- Projets — Outils, systèmes et dépôts.
 - [[pt-br/media/index|Médias et événements]] — Participations à des événements, salons et présentations.

@@ -46,7 +46,7 @@ sitesync: false
 > [!note] Resumo
 > Participações em feiras e eventos científicos em 2026.
 
-- [[pt-br/media/2026/confict|CONFICT - 2026]] — Congresso Fluminense de Iniciação Científica e Tecnológica do IFF e UENF (Campos dos Goytacazes, RJ) — apresentação oral do meu trabalho de pesquisa.
-- [[pt-br/media/2026/escolainverno|Escola de Inverno ON - 2026]] — Escola de Inverno em Astrofísica do Observatório Nacional (Rio de Janeiro) — atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4.
+- CONFICT - 2026 — Congresso Fluminense de Iniciação Científica e Tecnológica do IFF e UENF (Campos dos Goytacazes, RJ) — apresentação oral do meu trabalho de pesquisa.
+- Escola de Inverno ON - 2026 — Escola de Inverno em Astrofísica do Observatório Nacional (Rio de Janeiro) — atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4.
 - [[pt-br/media/2026/sbpc|SBPC - 2026]] — Reunião Anual da Sociedade Brasileira para o Progresso da Ciência (Niterói, RJ) — reapresentação do pôster de detecção de anomalias em dados do Gaia/GALAH DR4, da [[pt-br/media/2025/sab|SAB2025]].
-- [[pt-br/media/2026/sab-2026|SAB - 2026]] — Reunião Anual da Sociedade Astrônoma Brasileira (Natal, RN) — atualização e avanços do pôster de detecção de anomalias em dados do Gaia/GALAH DR4, da [[pt-br/media/2025/sab|SAB2025]].
+- SAB - 2026 — Reunião Anual da Sociedade Astrônoma Brasileira (Natal, RN) — atualização e avanços do pôster de detecção de anomalias em dados do Gaia/GALAH DR4, da [[pt-br/media/2025/sab|SAB2025]].
