@@ -30,10 +30,10 @@ Central de gestão acadêmica, graduação em Engenharia de Computação (IFF), 
 - [[pt-br/academic/engenharia-computacao/index|Engenharia de Computação — Matriz e Ementário]]
 - Kanban do Curso
 - Períodos Ativos e Históricos:
-  - 7º Período
-  - 8º Período
-  - 9º Período
-  - 10º Período
+  - [[pt-br/academic/engenharia-computacao/7-periodo|7º Período]]
+  - [[pt-br/academic/engenharia-computacao/8-periodo|8º Período]]
+  - [[pt-br/academic/engenharia-computacao/9-periodo|9º Período]]
+  - [[pt-br/academic/engenharia-computacao/10-periodo|10º Período]]
 
 ### 2. Idiomas
 - Hub de Idiomas

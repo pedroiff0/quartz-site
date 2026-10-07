@@ -2,7 +2,7 @@
 publish: true
 title: Banco de Dados
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-06T21:27:06-03:00
+modified: 2026-10-07T10:51:10-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -17,7 +17,7 @@ sitesync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/academic/engenharia-computacao/index|Engenharia de Computação]]</span> <span class="academic-nav-sep">/</span> <span>[[pt-br/academic/engenharia-computacao/6-periodo/index|6º Período]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">banco-de-dados</span>
+<span>[[pt-br/academic/engenharia-computacao/index|Engenharia de Computação]]</span> <span class="academic-nav-sep">/</span> <span>[[pt-br/academic/engenharia-computacao/6-periodo/index|6º Período]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Banco de Dados</span>
 
 </div>
 
@@ -49,18 +49,18 @@ sitesync: true
 > - **Código:** `CSECBJI.44`
 > - **Período:** 6º Período | **Núcleo:** Específica | **Carga Horária:** 60
 > - **Docente Responsável:** Halisson Rocha (contato@iff.edu.br)
-> - **Livro / Material Didático Principal:** livro-bd
+> - **Livro / Material Didático Principal:** Livro de Banco de Dados
 
 > [!note]  Ementa e Objetivos Pedagógicos
-> **Ementa**
 > Recuperação de falhas. Controle de concorrência. Noções básicas de bancos de dados distribuídos. Aspectos de segurança e privacidade. Implementação de visões, stored procedures e triggers.
-> **Objetivos**
+
+> [!note] Objetivos
 > - Proporcionar aos alunos conhecimentos teóricos e práticos em Banco de Dados, envolvendo o estudo de conceitos fundamentais de Projeto de Sistemas de Banco de Dados, além da sua aplicação através do ensino de uma linguagem de programação de banco de dados e do desenvolvimento de aplicações de bancos de dados.
 
-> [!warning]  Pré-requisitos e Dependências Curriculares (Trancas)
-> **Pré-requisitos Exigidos:**
-> - CSECBJI.35 - Modelagem de Dados
-> **Disciplinas Trancadas (Liberadas após conclusão):**
+> [!warning]  Pré-requisitos
+> - [[pt-br/academic/engenharia-computacao/5-periodo/modelagem-de-dados|CSECBJI.35 - Modelagem de Dados]]
+
+> [!warning] Dependências Curriculares 
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 > [!tip]  Conteúdo Programático
@@ -87,18 +87,17 @@ sitesync: true
 >   - [ ] Criptografia de Dados
 
 > [!info]  Bibliografia Básica e Complementar (ABNT)
-> **Bibliografia Básica**
 > 1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004.
 > 2. HEUSER, C. A. Projeto de Banco de Dados. 6ª Edição. Porto Alegre: Bookman, 2008.
 > 3. SILBERSCHATZ, A, KORTH, H. F. SUDARSHAN, S. Sistema de banco de dados. 6. ed. Rio de Janeiro, RJ: Elsevier, 2012.
-> **Bibliografia Complementar**
-> 4. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012.
-> 5. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015.
-> 6. MACHADO, F. N. R., ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 17ª Edição. São Paulo: Érica, 2012.
-> 7. ROB, P., CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Administração. São Paulo: Cengage, 2010.
-> 8. TEOREY, T., LIGHTSTONE, S., NARDEAU, T., JAGADISH, H. V. Projeto e Modelagem de Dados. 2ª Edição. São Paulo: Elsevier, 2013.
-> 
-> 
+
+> [!info]  Bibliografia Complementar (ABNT)
+> 1. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012.
+> 2. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015.
+> 3. MACHADO, F. N. R., ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 17ª Edição. São Paulo: Érica, 2012.
+> 4. ROB, P., CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Administração. São Paulo: Cengage, 2010.
+> 5. TEOREY, T., LIGHTSTONE, S., NARDEAU, T., JAGADISH, H. V. Projeto e Modelagem de Dados. 2ª Edição. São Paulo: Elsevier, 2013.
+>
 
 ## Anotações e Arquivos Didáticos
-- **Anotações da Disciplina**
+- **Anotações Banco de Dados**

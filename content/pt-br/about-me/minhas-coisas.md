@@ -18,7 +18,7 @@ sitesync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/about-me/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span>Minhas Coisas</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Minhas Coisas</span>
+<span>[[pt-br/about-me/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Minhas Coisas</span>
 
 </div>
 

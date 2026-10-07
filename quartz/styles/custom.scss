@@ -605,7 +605,7 @@ body[data-slug="mapa/index"] .backlinks {
   height: 300px;
   object-fit: cover;
   display: block;
-  cursor: zoom-in;
+  cursor: pointer;
 }
 
 /* Hover "lightbox", driven by the .zoomed class (toggled by JS in this
@@ -1752,8 +1752,9 @@ article img {
 }
 
 /* center-titles: h1 do titulo (fora do article) e h1-h6 do corpo */
-body:has(article.center-titles) h1.article-title,
-article.center-titles :is(h1, h2, h3, h4, h5, h6) {
+/* Titulos centralizados em todo o site, como no Obsidian (header-styles.scss) */
+h1.article-title,
+article :is(h1, h2, h3, h4, h5, h6) {
   text-align: center;
 }
 
@@ -1933,13 +1934,50 @@ article table:not(.dv-table table) {
 }
 
 /* Carrossel de fotos: em notas com nav-* ele aparece logo abaixo da nav (movido por script); escondido até ser posicionado. */
-body:has(article .academic-nav-container) .page-header > .media-carousel:not([data-placed]) {
+body:has(article .academic-nav-container) .page-header > .media-carousel:not([data-placed]),
+body:has(article .academic-nav-container) .page-header > .carousel-nav-wrap:not([data-placed]) {
   display: none;
 }
 
 article .media-carousel {
   margin: 1rem 0;
 }
+
+/* Carrossel com autoplay e botoes nas bordas (local-plugins/photo-carousel) */
+.carousel-nav-wrap {
+  position: relative;
+}
+.carousel-nav-wrap > .media-carousel {
+  margin: 0;
+}
+.carousel-edge {
+  position: absolute;
+  top: calc(50% - 0.5rem);
+  transform: translateY(-50%);
+  z-index: 5;
+  width: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0 0.15rem;
+  border: none;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 1.6rem;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0.75;
+  transition: opacity 0.2s ease, background 0.2s ease;
+}
+.carousel-edge:hover,
+.carousel-edge:focus-visible {
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.75);
+}
+.carousel-edge-prev { left: 0.5rem; }
+.carousel-edge-next { right: 0.5rem; }
 
 /* page-layout: a coluna central sempre ocupa toda a trilha do grid, mesmo em notas curtas (antes encolhia ao tamanho do conteúdo) */
 #quartz-body > .center {

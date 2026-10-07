@@ -522,6 +522,15 @@ input[type="checkbox"]:checked,
   color: inherit !important;
 }
 
+.academic-nav-btn a.internal,
+.academic-nav-btn a.internal-link,
+.academic-nav-breadcrumb a.internal,
+.academic-nav-breadcrumb a.internal-link {
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+}
+
 .academic-nav-breadcrumb a.internal-link {
   color: var(--text-muted) !important;
   text-decoration: none !important;

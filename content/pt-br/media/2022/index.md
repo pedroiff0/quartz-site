@@ -15,7 +15,7 @@ sitesync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2022</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">2022</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">2022</span>
 
 </div>
 

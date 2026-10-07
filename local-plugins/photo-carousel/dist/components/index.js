@@ -79,150 +79,75 @@ function slide(href, imgSrc, alt, caption) {
   );
 }
 
-// Hover-zoom "lightbox": waits for a sustained hover before promoting the
-// image to a fixed, centered, enlarged preview over a blurred backdrop.
-// Done in JS (not CSS transition-delay) because `position` is a discrete
-// property — browsers apply it immediately regardless of transition-delay
-// when mixed with continuously-animatable properties under `all`, which
-// made the old CSS-only version briefly flash the image in the wrong
-// spot before snapping to the delayed, correct one.
-//
-// Runs against every `.carousel-slide` on the page, not just ones this
-// component renders — several pages (research/index.md, computacao/
-// index.md, etc.) hand-write their own `<div class="media-carousel">`
-// blocks directly in markdown, and they get the same lightbox + controls.
+// Carrossel: avanca sozinho (autoplay), com botoes anterior/proximo nas bordas.
+// Sem zoom automatico por hover; os slides continuam sendo links normais.
+// Roda contra todo `.media-carousel` da pagina (inclusive os escritos a mao em markdown).
 const CAROUSEL_ZOOM_SCRIPT = `
-function quartzCarouselZoomSetup() {
-  var OPEN_DELAY = 1000;
-  // Grace period before an unzoom-on-leave actually closes the lightbox —
-  // long enough to cross the gap between the slide's original spot and its
-  // fixed-position enlarged image (or over to the prev/next button) without
-  // pixel-perfect aim, short enough to still feel responsive.
-  var CLOSE_GRACE = 500;
+function quartzCarouselSetup() {
+  var INTERVAL = 3500;
+  document.querySelectorAll(".media-carousel").forEach(function (car) {
+    if (car.dataset.carouselBound === "true") return;
+    car.dataset.carouselBound = "true";
 
-  document.querySelectorAll(".carousel-slide").forEach(function (slide) {
-    if (slide.dataset.zoomBound === "true") return;
-    slide.dataset.zoomBound = "true";
+    var wrap = document.createElement("div");
+    wrap.className = "carousel-nav-wrap";
+    car.parentNode.insertBefore(wrap, car);
+    wrap.appendChild(car);
 
-    var closeBtn = document.createElement("button");
-    closeBtn.type = "button";
-    closeBtn.className = "carousel-zoom-close";
-    closeBtn.setAttribute("aria-label", "Fechar");
-    closeBtn.textContent = "\\u2715";
-    slide.appendChild(closeBtn);
-
-    var prevBtn = document.createElement("button");
-    prevBtn.type = "button";
-    prevBtn.className = "carousel-zoom-prev";
-    prevBtn.setAttribute("aria-label", "Foto anterior");
-    prevBtn.textContent = "\\u2039";
-    slide.appendChild(prevBtn);
-
-    var nextBtn = document.createElement("button");
-    nextBtn.type = "button";
-    nextBtn.className = "carousel-zoom-next";
-    nextBtn.setAttribute("aria-label", "Pr\\u00f3xima foto");
-    nextBtn.textContent = "\\u203a";
-    slide.appendChild(nextBtn);
-
-    var openTimer = null;
-    var closeTimer = null;
-
-    function open() {
-      clearTimeout(closeTimer);
-      slide.classList.add("zoomed");
+    function mkBtn(cls, label, glyph) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "carousel-edge " + cls;
+      b.setAttribute("aria-label", label);
+      b.textContent = glyph;
+      wrap.appendChild(b);
+      return b;
     }
-    function close() {
-      slide.classList.remove("zoomed");
-    }
-    function siblingSlides() {
-      var carousel = slide.closest(".media-carousel");
-      var scope = carousel || document;
-      return Array.prototype.slice.call(scope.querySelectorAll(".carousel-slide"));
-    }
-    function navigate(delta) {
-      var slides = siblingSlides();
-      var idx = slides.indexOf(slide);
-      if (idx === -1) return;
-      var target = slides[(idx + delta + slides.length) % slides.length];
-      if (target && target !== slide) {
-        close();
-        target.classList.add("zoomed");
-      }
+    var prevBtn = mkBtn("carousel-edge-prev", "Anterior", "\u2039");
+    var nextBtn = mkBtn("carousel-edge-next", "Pr\u00f3ximo", "\u203a");
+
+    function step(dir) {
+      var slides = car.querySelectorAll(".carousel-slide");
+      if (!slides.length) return;
+      var gap = parseFloat(getComputedStyle(car).columnGap) || 16;
+      var w = slides[0].getBoundingClientRect().width + gap;
+      var max = car.scrollWidth - car.clientWidth;
+      if (max <= 4) return;
+      if (dir > 0 && car.scrollLeft >= max - 4) car.scrollTo({ left: 0, behavior: "smooth" });
+      else if (dir < 0 && car.scrollLeft <= 4) car.scrollTo({ left: max, behavior: "smooth" });
+      else car.scrollBy({ left: dir * w, behavior: "smooth" });
     }
 
-    // Exposed on the element so the single document-level keydown listener
-    // below can drive whichever slide is currently zoomed, without needing
-    // its own closure over every slide's open/close/navigate functions.
-    slide.__carouselClose = close;
-    slide.__carouselNavigate = navigate;
+    var paused = false;
+    var timer = setInterval(function () {
+      if (!car.isConnected) { clearInterval(timer); return; }
+      if (paused || document.hidden) return;
+      step(1);
+    }, INTERVAL);
 
-    slide.addEventListener("mouseenter", function () {
-      clearTimeout(closeTimer);
-      // Already open (e.g. the mouse briefly crossed a gap between this
-      // slide's original spot and its fixed-position enlarged image) —
-      // just cancel the pending close, don't restart the open delay.
-      if (slide.classList.contains("zoomed")) return;
-      clearTimeout(openTimer);
-      openTimer = setTimeout(open, OPEN_DELAY);
-    });
-    slide.addEventListener("mouseleave", function () {
-      clearTimeout(openTimer);
-      closeTimer = setTimeout(close, CLOSE_GRACE);
-    });
-
-    closeBtn.addEventListener("click", function (e) {
-      e.preventDefault();
-      e.stopPropagation();
-      clearTimeout(openTimer);
-      close();
-    });
-    prevBtn.addEventListener("click", function (e) {
-      e.preventDefault();
-      e.stopPropagation();
-      navigate(-1);
-    });
-    nextBtn.addEventListener("click", function (e) {
-      e.preventDefault();
-      e.stopPropagation();
-      navigate(1);
-    });
+    prevBtn.addEventListener("click", function (e) { e.preventDefault(); e.stopPropagation(); step(-1); });
+    nextBtn.addEventListener("click", function (e) { e.preventDefault(); e.stopPropagation(); step(1); });
+    wrap.addEventListener("mouseenter", function () { paused = true; });
+    wrap.addEventListener("mouseleave", function () { paused = false; });
+    wrap.addEventListener("focusin", function () { paused = true; });
+    wrap.addEventListener("focusout", function () { paused = false; });
+    wrap.addEventListener("touchstart", function () { paused = true; }, { passive: true });
+    wrap.addEventListener("touchend", function () { setTimeout(function () { paused = false; }, 4000); }, { passive: true });
   });
-
-  // Bound once globally (not per-slide, since this setup runs again on every
-  // SPA navigation) — looks up whichever slide is currently zoomed, if any.
-  if (!window.__quartzCarouselKeydownBound) {
-    window.__quartzCarouselKeydownBound = true;
-    document.addEventListener("keydown", function (e) {
-      var zoomed = document.querySelector(".carousel-slide.zoomed");
-      if (!zoomed) return;
-      if (e.key === "ArrowRight") {
-        e.preventDefault();
-        if (zoomed.__carouselNavigate) zoomed.__carouselNavigate(1);
-      } else if (e.key === "ArrowLeft") {
-        e.preventDefault();
-        if (zoomed.__carouselNavigate) zoomed.__carouselNavigate(-1);
-      } else if (e.key === "Escape") {
-        e.preventDefault();
-        if (zoomed.__carouselClose) zoomed.__carouselClose();
-      }
-    });
-  }
 }
-document.addEventListener("nav", quartzCarouselZoomSetup);
-document.addEventListener("render", quartzCarouselZoomSetup);
 
-// O carrossel é renderizado no cabeçalho (após Criado/Modificado); quando a nota tem nav-*, ele vai para logo abaixo da nav.
+// O carrossel e renderizado no cabecalho (apos Criado/Modificado); quando a nota tem nav-*, ele vai para logo abaixo da nav.
 function placeCarouselAfterNav() {
-  const nav = document.querySelector("article .academic-nav-container");
-  document.querySelectorAll(".page-header > .media-carousel").forEach((c) => {
+  var nav = document.querySelector("article .academic-nav-container");
+  document.querySelectorAll(".page-header > .media-carousel, .page-header > .carousel-nav-wrap").forEach(function (c) {
     if (nav) nav.insertAdjacentElement("afterend", c);
     c.setAttribute("data-placed", "1");
   });
 }
-document.addEventListener("nav", placeCarouselAfterNav);
-document.addEventListener("render", placeCarouselAfterNav);
-placeCarouselAfterNav();
+function quartzCarouselInit() { placeCarouselAfterNav(); quartzCarouselSetup(); placeCarouselAfterNav(); }
+document.addEventListener("nav", quartzCarouselInit);
+document.addEventListener("render", quartzCarouselInit);
+quartzCarouselInit();
 `;
 
 function PhotoCarouselConstructor() {

@@ -5,7 +5,7 @@ aliases:
   - Engenharia de Computação Hub
   - IFF EngComp Hub
 created: 2026-07-22 12:00:00-03:00
-modified: 2026-10-06T20:55:29-03:00
+modified: 2026-10-07T10:04:56-03:00
 tags:
   - matriz-curricular
   - engenharia-de-computacao
@@ -82,50 +82,50 @@ Bem-vindo ao portal completo da matriz curricular, ementário, fluxo de período
 Navegue interativamente por cada um dos 10 períodos e disciplinas eletivas da grade curricular:
 
 <div class="media-carousel">
-  <span class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-computacao/1-periodo" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="1º Período" />
     <div class="slide-caption">1º Período</div>
-  </span>
-  <span class="carousel-slide">
+  </a>
+  <a href="/pt-br/academic/engenharia-computacao/2-periodo" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="2º Período" />
     <div class="slide-caption">2º Período</div>
-  </span>
-  <span class="carousel-slide">
+  </a>
+  <a href="/pt-br/academic/engenharia-computacao/3-periodo" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="3º Período" />
     <div class="slide-caption">3º Período</div>
-  </span>
-  <span class="carousel-slide">
+  </a>
+  <a href="/pt-br/academic/engenharia-computacao/4-periodo" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="4º Período" />
     <div class="slide-caption">4º Período</div>
-  </span>
-  <span class="carousel-slide">
+  </a>
+  <a href="/pt-br/academic/engenharia-computacao/5-periodo" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="5º Período" />
     <div class="slide-caption">5º Período</div>
-  </span>
+  </a>
   <a href="/pt-br/academic/engenharia-computacao/6-periodo" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="6º Período" />
     <div class="slide-caption">6º Período</div>
   </a>
-  <span class="carousel-slide">
+  <a href="/pt-br/academic/engenharia-computacao/7-periodo" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="7º Período" />
     <div class="slide-caption">7º Período</div>
-  </span>
-  <span class="carousel-slide">
+  </a>
+  <a href="/pt-br/academic/engenharia-computacao/8-periodo" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="8º Período" />
     <div class="slide-caption">8º Período</div>
-  </span>
-  <span class="carousel-slide">
+  </a>
+  <a href="/pt-br/academic/engenharia-computacao/9-periodo" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="9º Período" />
     <div class="slide-caption">9º Período</div>
-  </span>
-  <span class="carousel-slide">
+  </a>
+  <a href="/pt-br/academic/engenharia-computacao/10-periodo" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="10º Período" />
     <div class="slide-caption">10º Período</div>
-  </span>
-  <span class="carousel-slide">
+  </a>
+  <a href="/pt-br/academic/engenharia-computacao/eletivas" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="Eletivas (optativas)" />
     <div class="slide-caption">Eletivas (optativas)</div>
-  </span>
+  </a>
 </div>
 
 ---

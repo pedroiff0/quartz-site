@@ -15,7 +15,7 @@ sitesync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2025</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">2025</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">2025</span>
 
 </div>
 
