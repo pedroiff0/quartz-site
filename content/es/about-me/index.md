@@ -208,13 +208,13 @@ Mi CV y el repositorio (LaTeX, multilingüe) que lo genera:
 ### Cuarto paso: Explorar el contenido
 
 <div class="media-carousel">
-  <span class="carousel-slide">
+  <a href="/pt-br/research/" class="carousel-slide">
     <img src="/static/illustrations/research.svg" alt="Investigación" />
     <div class="slide-caption">Investigación</div>
-  </span>
+  </a>
 </div>
 
-- Investigación — Conoce mis proyectos actuales.
+- [[pt-br/research/index|Investigación]] — Conoce mis proyectos actuales.
 - [[pt-br/academic/engenharia-computacao/index|Ingeniería de Computación]] — Asignaturas y apuntes del curso.
 - Proyectos — Herramientas, sistemas y repositorios.
 - [[pt-br/media/index|Medios y eventos]] — Participaciones en eventos, ferias y presentaciones.

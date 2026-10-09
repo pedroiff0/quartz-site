@@ -67,10 +67,10 @@ resource-sync: true
 ## Explore the content
 
 <div class="media-carousel">
-  <span class="carousel-slide">
+  <a href="/pt-br/research/" class="carousel-slide">
     <img src="/static/illustrations/research.svg" alt="Research" />
     <div class="slide-caption">Research</div>
-  </span>
+  </a>
   <a href="/pt-br/academic/engenharia-computacao/" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="Computer Engineering" />
     <div class="slide-caption">Computer Engineering</div>
@@ -85,7 +85,7 @@ resource-sync: true
   </a>
 </div>
 
-- Research — My current projects.
+- [[pt-br/research/index|Research]] — My current projects.
 - [[pt-br/academic/engenharia-computacao/index|Computer Engineering]] — Course subjects and notes.
 - Projects — Tools, systems and repositories.
 - [[pt-br/media/index|Media & Events]] — Events, fairs and presentations.

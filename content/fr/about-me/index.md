@@ -208,13 +208,13 @@ Vous préférez ne pas ouvrir votre messagerie ? Remplissez les champs ci-dessou
 ### Quatrième étape : Explorer le contenu
 
 <div class="media-carousel">
-  <span class="carousel-slide">
+  <a href="/pt-br/research/" class="carousel-slide">
     <img src="/static/illustrations/research.svg" alt="Recherche" />
     <div class="slide-caption">Recherche</div>
-  </span>
+  </a>
 </div>
 
-- Recherche — Découvrez mes projets actuels.
+- [[pt-br/research/index|Recherche]] — Découvrez mes projets actuels.
 - [[pt-br/academic/engenharia-computacao/index|Ingénierie informatique]] — Matières et notes du cursus.
 - Projets — Outils, systèmes et dépôts.
 - [[pt-br/media/index|Médias et événements]] — Participations à des événements, salons et présentations.

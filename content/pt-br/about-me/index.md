@@ -32,10 +32,10 @@ resource-sync: true
 ## Explorar o conteúdo
 
 <div class="media-carousel">
-  <span class="carousel-slide">
+  <a href="/pt-br/research/" class="carousel-slide">
     <img src="/static/illustrations/research.svg" alt="Pesquisas" />
     <div class="slide-caption">Pesquisas</div>
-  </span>
+  </a>
   <a href="/pt-br/academic/engenharia-computacao/" class="carousel-slide">
     <img src="/static/illustrations/classes.svg" alt="Engenharia de Computação" />
     <div class="slide-caption">Engenharia de Computação</div>
@@ -50,7 +50,7 @@ resource-sync: true
   </a>
 </div>
 
-- Pesquisas — Conheça meus projetos atuais.
+- [[pt-br/research/index|Pesquisas]] — Conheça meus projetos atuais.
 - [[pt-br/academic/engenharia-computacao/index|Engenharia de Computação]] — Disciplinas e anotações do curso.
 - Projetos — Ferramentas, sistemas e repositórios.
 - [[pt-br/media/index|Mídia & Eventos]] — Participações em eventos, feiras e apresentações.

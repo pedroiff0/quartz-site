@@ -1,11 +1,11 @@
 ---
 publish: true
-title: Acadêmico
+title: Hub Central Acadêmico
 aliases:
   - Acadêmico Hub
   - Central Acadêmica
 created: 2026-09-30 11:30:00-03:00
-modified: 2026-10-05T21:25:33-03:00
+modified: 2026-10-08T20:24:36-03:00
 tags:
   - academico
   - iff
@@ -13,7 +13,7 @@ tags:
 cssclasses:
   - page-layout
 icon: lucide-graduation-cap
-sitesync: false
+sitesync: true
 ---
 
 # Hub Central Acadêmico
@@ -41,7 +41,7 @@ Central de gestão acadêmica, graduação em Engenharia de Computação (IFF), 
 
 ### 3. Pesquisas & Astronomia
 - Biblioteca de Artigos & Papers
-- Detecção de Anomalias (GALAH DR4)
+- [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias (GALAH DR4)]]
 - Journal Club — MWBR
 
 ### 4. Computação & Cursos
