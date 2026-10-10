@@ -2,7 +2,7 @@
 publish: true
 title: Disciplinas Eletivas
 created: '2026-07-21 12:00:00-03:00'
-modified: 2026-10-07T10:05:14-03:00
+modified: 2026-10-09T15:19:41-03:00
 tags:
 - disciplina
 - engenharia-de-computacao

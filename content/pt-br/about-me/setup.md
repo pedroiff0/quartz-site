@@ -2,7 +2,7 @@
 publish: true
 title: Setup
 created: 2026-09-07 16:47:01-03:00
-modified: 2026-10-05T21:46:12-03:00
+modified: 2026-10-09T15:19:49-03:00
 tags:
   - pessoal
 cssclasses:

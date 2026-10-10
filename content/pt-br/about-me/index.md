@@ -7,7 +7,7 @@ aliases:
   - Início
   - sobre-mim
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-06T22:11:42-03:00
+modified: 2026-10-09T15:19:49-03:00
 tags:
   - pessoal
   - sobre-mim

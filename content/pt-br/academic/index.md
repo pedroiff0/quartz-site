@@ -5,7 +5,7 @@ aliases:
   - Acadêmico Hub
   - Central Acadêmica
 created: 2026-09-30 11:30:00-03:00
-modified: 2026-10-08T20:24:36-03:00
+modified: 2026-10-09T15:19:51-03:00
 tags:
   - academico
   - iff

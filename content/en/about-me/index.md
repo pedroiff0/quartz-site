@@ -4,7 +4,7 @@ title: About Me
 aliases:
   - Home
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-06T22:23:22-03:00
+modified: 2026-10-09T15:19:49-03:00
 tags:
   - pessoal
   - sobre-mim

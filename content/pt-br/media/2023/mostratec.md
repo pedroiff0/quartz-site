@@ -2,7 +2,7 @@
 publish: true
 title: MOSTRATEC 2023
 created: 2023-10-23 13:04:00-03:00
-modified: 2026-10-05T12:00:53-03:00
+modified: 2026-10-09T15:19:52-03:00
 tags:
   - midia
 cssclasses:

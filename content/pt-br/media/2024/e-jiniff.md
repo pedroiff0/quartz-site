@@ -2,7 +2,7 @@
 publish: true
 title: e-JINIFF 2024
 created: 2024-08-23 13:04:00-03:00
-modified: 2026-10-05T11:50:36-03:00
+modified: 2026-10-09T15:19:52-03:00
 tags:
   - midia
 cssclasses:

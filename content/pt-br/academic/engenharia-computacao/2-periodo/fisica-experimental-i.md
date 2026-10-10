@@ -2,7 +2,7 @@
 publish: true
 title: Física Experimental I
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-07T10:51:10-03:00
+modified: 2026-10-09T15:19:25-03:00
 tags:
 - disciplina
 - engenharia-de-computacao

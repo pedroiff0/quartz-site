@@ -2,7 +2,7 @@
 publish: true
 title: Laboratório Nacional de Computação Científica
 created: 2022-12-14 13:04:00-03:00
-modified: 2026-10-05T14:17:15-03:00
+modified: 2026-10-09T15:19:52-03:00
 tags:
   - midia
 cssclasses:

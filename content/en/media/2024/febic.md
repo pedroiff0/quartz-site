@@ -2,7 +2,7 @@
 publish: true
 title: IX FEBIC
 created: 2024-09-15 13:04:00-03:00
-modified: 2026-10-05T16:01:12-03:00
+modified: 2026-10-09T15:19:52-03:00
 tags:
   - midia
   - en

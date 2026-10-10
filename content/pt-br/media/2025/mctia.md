@@ -2,7 +2,7 @@
 publish: true
 title: MCTIA 2025
 created: 2025-12-01 13:04:00-03:00
-modified: 2026-10-06T09:28:05-03:00
+modified: 2026-10-09T15:19:52-03:00
 tags:
   - midia
 cssclasses:
