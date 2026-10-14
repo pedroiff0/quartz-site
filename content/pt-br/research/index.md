@@ -1,11 +1,11 @@
 ---
 publish: true
-title: Hub Central de Pesquisas Científicas
+title: Pesquisas
 aliases:
   - Pesquisas Hub
   - Central de Pesquisas
 created: 2026-09-30 11:59:00-03:00
-modified: 2026-10-09T15:19:49-03:00
+modified: 2026-10-13T15:42:10-03:00
 tags:
   - pesquisa
   - astronomia
@@ -20,7 +20,7 @@ sitesync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/research/index|Pesquisas]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Hub Central de Pesquisas Científicas</span>
+<span>[[pt-br/research/index|Pesquisas]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Pesquisas</span>
 
 </div>
 
@@ -74,7 +74,7 @@ Repositório de projetos de iniciação científica, bolsas de pesquisa, astrof�
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| Hub Central de Pesquisas Científicas | 30/09/2026 |
+| Pesquisas | 30/09/2026 |
 
 </div>
 

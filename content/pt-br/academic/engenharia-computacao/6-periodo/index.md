@@ -2,7 +2,7 @@
 publish: true
 title: 6º Período
 created: 2026-07-21 12:00:00-03:00
-modified: 2026-10-09T15:19:44-03:00
+modified: 2026-10-13T20:20:28-03:00
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -50,10 +50,10 @@ sitesync: true
 > - **Resumo Pedagógico:** Análise e engenharia orientada a objetos, bancos de dados relacionais e avançados, circuitos lógicos digitais, teoria e construção de compiladores, telecomunicações e redes físicas, reflexão epistemológica e viabilidade técnica/econômica de projetos de engenharia.
 
 > [!note]  Grade Curricular e Disciplinas Integrantes
-> -  **[[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos|Análise de Software Orientada a Objetos]]** (`60h` · Prof. Pablo · Quarta 13:40–16:30)
-> -  **[[pt-br/academic/engenharia-computacao/6-periodo/filosofia-da-ciencia-e-tecnologia|Filosofia da Ciência e Tecnologia]]** (`60h` · Prof. Dr. Rafel Tardin · Quarta 19:20–22:00)
-> -  **[[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados|Banco de Dados]]** (`60h` · Prof. Pablo · Terça 13:40–16:30)
-> -  **[[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i|Programação Orientada a Objetos I]]** (`60h` · Prof. Me. Andeson Veiga · Quarta 16:40–19:20)
+> -  **[[pt-br/academic/engenharia-computacao/6-periodo/analise-de-software-orientada-a-objetos|Análise de Software Orientada a Objetos]]** (`60h` · Prof. Halisson José · Quarta 13:40–16:30)
+> -  **[[pt-br/academic/engenharia-computacao/6-periodo/filosofia-da-ciencia-e-tecnologia|Filosofia da Ciência e Tecnologia]]** (`60h` · Prof. Rafel Tardin · Quarta 19:20–22:00)
+> -  **[[pt-br/academic/engenharia-computacao/6-periodo/banco-de-dados|Banco de Dados]]** (`60h` · Prof. Halisson José · Terça 13:40–16:30)
+> -  **[[pt-br/academic/engenharia-computacao/6-periodo/programacao-orientada-a-objetos-i|Programação Orientada a Objetos I]]** (`60h` · Prof. Andeson Veiga · Quarta 16:40–19:20)
 > -  **[[pt-br/academic/engenharia-computacao/6-periodo/eletronica-digital|Eletrônica Digital]]** (`60h` · Prof. Dr. Fabrício Barros Gonçalves · Segunda 16:40–19:20)
 > -  **[[pt-br/academic/engenharia-computacao/6-periodo/comunicacao-de-dados|Comunicação de Dados]]** (`60h` · Prof. Me. Luiz Carlos Ferreira Garcez· Terça 16:40–19:20)
 > -  **[[pt-br/academic/engenharia-computacao/6-periodo/compiladores|Compiladores]]** (`60h` · Prof.  Dr. Fabrício Barros Gonçalves · Sexta 13:40–16:30)

@@ -2,7 +2,7 @@
 publish: true
 title: Filosofia da Ciência e Tecnologia
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-09T15:19:11-03:00
+modified: 2026-10-13T20:23:55-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -48,7 +48,7 @@ sitesync: true
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.43`
 > - **Período:** 6º Período | **Núcleo:** Específica | **Carga Horária:** 60
-> - **Docente Responsável:** Rafael Tardin (contato@iff.edu.br)
+> - **Docente Responsável:** Rafael Tardin (rafael.silva@iff.edu.br)
 > - **Livro / Material Didático Principal:** Filosofia da Tecnologia: um convite (Alberto Cupani)
 
 > [!note]  Ementa e Objetivos Pedagógicos

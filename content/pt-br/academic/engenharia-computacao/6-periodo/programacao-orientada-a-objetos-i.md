@@ -2,7 +2,7 @@
 publish: true
 title: Programação Orientada a Objetos I
 created: 2026-07-18 12:00:00-03:00
-modified: 2026-10-09T15:19:11-03:00
+modified: 2026-10-13T20:23:23-03:00
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -48,7 +48,7 @@ sitesync: true
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.45`
 > - **Período:** 6º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
-> - **Docente Responsável:** Me. Anderson Veiga Souza (a.veiga@iff.edu.br)
+> - **Docente Responsável:** Me. Anderson Veiga Souza (anderson.silva@iff.edu.br)
 > - **Livro / Material Didático Principal:** Introdução à Programação Orientada a Objetos (Batista & Moraes, ETEC)
 
 > [!note]  Ementa e Objetivos Pedagógicos

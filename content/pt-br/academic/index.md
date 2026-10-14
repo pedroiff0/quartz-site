@@ -1,11 +1,11 @@
 ---
 publish: true
-title: Hub Central Acadêmico
+title: Acadêmico
 aliases:
   - Acadêmico Hub
   - Central Acadêmica
 created: 2026-09-30 11:30:00-03:00
-modified: 2026-10-09T15:19:51-03:00
+modified: 2026-10-13T15:40:09-03:00
 tags:
   - academico
   - iff
@@ -46,9 +46,9 @@ Central de gestão acadêmica, graduação em Engenharia de Computação (IFF), 
 
 ### 4. Computação & Cursos
 - Recursos de Computação
-- LaTeX e Escrita Científica
+- [[pt-br/academic/cursos/latex/index|LaTeX e Escrita Científica]]
 - Curso de Astronomia (ON)
-- Escola de Inverno (ON)
+- [[pt-br/academic/cursos/escola-de-inverno/index|Escola de Inverno (ON)]]
 
 ---
 
@@ -58,7 +58,7 @@ Central de gestão acadêmica, graduação em Engenharia de Computação (IFF), 
 
 | Aula / Conteúdo | Data |
 | :--- | :---: |
-| Hub Central Acadêmico | 30/09/2026 |
+| Acadêmico | 30/09/2026 |
 
 </div>
 

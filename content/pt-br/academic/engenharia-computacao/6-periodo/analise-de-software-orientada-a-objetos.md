@@ -2,7 +2,7 @@
 publish: true
 title: Análise de Software Orientada a Objetos
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-09T15:19:08-03:00
+modified: 2026-10-13T20:22:05-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -48,7 +48,7 @@ sitesync: true
 > [!info]  Informações Gerais da Disciplina
 > - **Código:** `CSECBJI.42`
 > - **Período:** 6º Período | **Núcleo:** Profissionalizante | **Carga Horária:** —
-> - **Docente Responsável:** Halisson José Soares da Rocha (contato@iff.edu.br)
+> - **Docente Responsável:** Halisson José Soares da Rocha (hj_rocha@iff.edu.br)
 > - **Livro / Material Didático Principal:** Análise e Design Orientados a Objetos para Sistemas de Informação
 
 > [!note]  Ementa e Objetivos Pedagógicos

@@ -36,7 +36,7 @@ sitesync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/research/index|Hub Central de Pesquisas Científicas →]]</span>
+<span class="academic-nav-btn">[[pt-br/research/index|Pesquisas →]]</span>
 
 </div>
 
