@@ -2,7 +2,7 @@
 publish: true
 title: Teoria Geral da Administração
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-09T15:19:14-03:00
+modified: 2026-10-16T10:47:31-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -11,6 +11,7 @@ cssclasses:
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">

@@ -2,13 +2,14 @@
 publish: true
 title: 2024
 created: 2026-07-23 13:04:00-03:00
-modified: 2026-10-09T15:19:52-03:00
+modified: 2026-10-15T18:33:10-03:00
 tags:
   - midia
 cssclasses:
   - page-layout
 icon: lucide-newspaper
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">
@@ -29,7 +30,7 @@ sitesync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(9 de 15)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(9 de 18)</span>
 
 </div>
 

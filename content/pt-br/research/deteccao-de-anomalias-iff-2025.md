@@ -2,7 +2,7 @@
 publish: true
 title: Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)
 created: 2026-09-19T13:18:29-03:00
-modified: 2026-10-09T15:19:33-03:00
+modified: 2026-10-16T10:48:17-03:00
 tags:
   - pesquisa
   - academico
@@ -10,6 +10,7 @@ cssclasses:
   - page-layout
 icon: lucide-book-open
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">

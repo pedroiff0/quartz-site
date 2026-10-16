@@ -5,7 +5,7 @@ aliases:
   - Engenharia de Computação Hub
   - IFF EngComp Hub
 created: 2026-07-22 12:00:00-03:00
-modified: 2026-10-09T15:19:42-03:00
+modified: 2026-10-16T10:48:29-03:00
 tags:
   - matriz-curricular
   - engenharia-de-computacao
@@ -17,6 +17,7 @@ cssclasses:
   - page-layout
 icon: lucide-cpu
 sitesync: true
+resource-sync: false
 ---
 
 # Bacharelado em Engenharia de Computação — IFF

@@ -2,7 +2,7 @@
 publish: true
 title: Minhas Coisas
 created: 2026-09-07 16:47:01-03:00
-modified: 2026-10-09T15:19:47-03:00
+modified: 2026-10-16T10:48:56-03:00
 tags:
   - pessoal
 icon: lucide-user
@@ -12,6 +12,7 @@ aliases:
 cssclasses:
   - page-layout
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">

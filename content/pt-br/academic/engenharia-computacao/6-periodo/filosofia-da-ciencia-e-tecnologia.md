@@ -2,7 +2,7 @@
 publish: true
 title: Filosofia da Ciência e Tecnologia
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-13T20:23:55-03:00
+modified: 2026-10-16T10:47:25-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -11,6 +11,7 @@ cssclasses:
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">
@@ -64,13 +65,13 @@ sitesync: true
 > - *Esta disciplina não tranca nenhuma outra disciplina posterior.*
 
 > [!tip]  Conteúdo Programático
-> - [x] **1. Teoria do conhecimento: arte, técnica, ciência e engenharia** Aula 01, Trabalho 1
->   - [x] Definição e contextualização sobre a condição humana Aula 01
->   - [x] Definições ciência, técnica e tecnologia Trabalho 1
->   - [x] O contexto do século XXI
+> - [x] **1. Teoria do conhecimento: arte, técnica, ciência e engenharia** Aula 01, Trabalho 1 ✅ 2026-10-05
+>   - [x] Definição e contextualização sobre a condição humana Aula 01 ✅ 2026-10-05
+>   - [x] Definições ciência, técnica e tecnologia Trabalho 1 ✅ 2026-09-22
+>   - [x] O contexto do século XXI ✅ 2026-09-22
 > - [/] **2. O Progresso Científico e o Progresso Tecnológico** Aula 02, Trabalho 2
->   - [x] Paradigma científico dominante Aula 02
->   - [x] Definições sobre crise da Ciência, crise do paradigma científico Trabalho 2
+>   - [x] Paradigma científico dominante Aula 02 ✅ 2026-10-05
+>   - [x] Definições sobre crise da Ciência, crise do paradigma científico Trabalho 2 ✅ 2026-09-22
 >   - [ ] Contexto do século XXI
 > - [ ] **3. Civilização Tecnológica, Ciência, Tecnologia e Humanismo**
 >   - [ ] O laboratório como ambiente de conflito e crise

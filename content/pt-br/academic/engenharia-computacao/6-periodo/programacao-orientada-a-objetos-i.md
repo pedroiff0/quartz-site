@@ -2,7 +2,7 @@
 publish: true
 title: Programação Orientada a Objetos I
 created: 2026-07-18 12:00:00-03:00
-modified: 2026-10-13T20:23:23-03:00
+modified: 2026-10-16T10:47:25-03:00
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -11,6 +11,7 @@ cssclasses:
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">
@@ -70,12 +71,12 @@ sitesync: true
 
 > [!tip]  Conteúdo Programático
 > - [/] **1. Classes e Objetos** Aula 01, Aula 02
->   - [x] Conceito Aula 01
->   - [x] Atributos e Operações: Classe e Instância Aula 01
->   - [x] Tipo de Dados: Referência e Valor Aula 01
->   - [x] Visibilidade de Atributos e Operações Aula 02
->   - [x] Encapsulamento Aula 02
->   - [x] Construtores e Destrutores Aula 02
+>   - [x] Conceito Aula 01 ✅ 2026-10-05
+>   - [x] Atributos e Operações: Classe e Instância Aula 01 ✅ 2026-10-05
+>   - [x] Tipo de Dados: Referência e Valor Aula 01 ✅ 2026-10-05
+>   - [x] Visibilidade de Atributos e Operações Aula 02 ✅ 2026-10-05
+>   - [x] Encapsulamento Aula 02 ✅ 2026-10-05
+>   - [x] Construtores e Destrutores Aula 02 ✅ 2026-10-05
 >   - [ ] Sobrecarga de Operação
 >   - [ ] Associação e Composição
 > - [ ] **2. Herança e Polimorfismo**

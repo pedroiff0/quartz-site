@@ -2,7 +2,7 @@
 publish: true
 title: Análise de Software Orientada a Objetos
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-13T20:22:05-03:00
+modified: 2026-10-16T10:47:22-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -11,6 +11,7 @@ cssclasses:
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">
@@ -66,10 +67,10 @@ sitesync: true
 > - [[pt-br/academic/engenharia-computacao/7-periodo/projeto-de-software-orientado-a-objetos|CSECBJI.50 - Projeto de Software Orientado a Objetos]]
 
 > [!tip]  Conteúdo Programático
-> - [x] **1. Introdução** Aula 01
->   - [x] Desenvolvimento de Sistemas Orientados a Objetos
->   - [x] Linguagem de Modelagem Unificada
->   - [x] Processo Unificado
+> - [x] **1. Introdução** Aula 01 ✅ 2026-10-05
+>   - [x] Desenvolvimento de Sistemas Orientados a Objetos ✅ 2026-09-22
+>   - [x] Linguagem de Modelagem Unificada ✅ 2026-09-22
+>   - [x] Processo Unificado ✅ 2026-09-22
 > - [ ] **2. Modelagem de Negócio**
 >   - [ ] Introdução à Modelagem de Negócio
 >   - [ ] Visão Geral do Sistema

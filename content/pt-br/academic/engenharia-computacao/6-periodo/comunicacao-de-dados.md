@@ -2,7 +2,7 @@
 publish: true
 title: Comunicação de Dados
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-09T15:19:27-03:00
+modified: 2026-10-16T11:47:25-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -11,6 +11,7 @@ cssclasses:
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">
@@ -66,12 +67,12 @@ sitesync: true
 > - [[pt-br/academic/engenharia-computacao/eletivas/processamento-de-sinais|CSECBJI.83 - Processamento de Sinais]]
 
 > [!tip]  Conteúdo Programático
-> - [x] **1. Transmissão de Dados** Aula 01, Aula 02, Aula 03
->   - [x] Conceitos e Terminologias de Transmissão de Dados
->   - [x] Transmissão de Dados Analógica Aula 01
->   - [x] Transmissão de Dados Digital Aula 02
->   - [x] Problemas de Transmissão Aula 03
->   - [x] Capacidade de Canal Aula 03
+> - [x] **1. Transmissão de Dados** Aula 01, Aula 02, Aula 03 ✅ 2026-09-22
+>   - [x] Conceitos e Terminologias de Transmissão de Dados ✅ 2026-09-22
+>   - [x] Transmissão de Dados Analógica Aula 01 ✅ 2026-09-22
+>   - [x] Transmissão de Dados Digital Aula 02 ✅ 2026-09-22
+>   - [x] Problemas de Transmissão Aula 03 ✅ 2026-09-22
+>   - [x] Capacidade de Canal Aula 03 ✅ 2026-09-22
 > - [ ] **2. Meios de Transmissão**
 >   - [ ] Transmissão Guiada e Meios de Transmissão Guiada
 >   - [ ] Transmissão Sem Fio

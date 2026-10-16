@@ -2,7 +2,7 @@
 publish: true
 title: CONEPE
 created: 2026-07-18 13:34:00-03:00
-modified: 2026-10-09T15:19:52-03:00
+modified: 2026-10-16T09:55:43-03:00
 tags:
   - midia
 cssclasses:
@@ -11,6 +11,7 @@ icon: lucide-newspaper
 photoFolder: conepe2026
 type: blog
 sitesync: true
+resource-sync: true
 ---
 
 <div class="academic-nav-container">
@@ -31,13 +32,13 @@ sitesync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(13 de 15)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(13 de 18)</span>
 
 </div>
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/index|2026 →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/confict|CONFICT - 2026 →]]</span>
 
 </div>
 

@@ -2,7 +2,7 @@
 publish: true
 title: Segurança e Higiene do Trabalho
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-09T15:19:12-03:00
+modified: 2026-10-16T10:47:28-03:00
 tags:
 - atividade
 - trabalho
@@ -12,6 +12,7 @@ cssclasses:
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">

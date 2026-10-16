@@ -7,16 +7,17 @@ aliases:
 publish: true
 title: Mídias
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-09T15:19:52-03:00
+modified: 2026-10-16T10:12:16-03:00
 tags:
   - moc
   - midia
-  - eventos
+  - evento
 cssclasses:
   - page-layout
 icon: lucide-newspaper
 order: 4
 sitesync: true
+resource-sync: false
 ---
 
 # Hub Central de Mídia & Eventos Científicos
@@ -57,8 +58,8 @@ Participações em feiras, congressos e eventos científicos — organizadas por
 
 ### 2026
 
-- CONFICT ON - 2026 — Congresso Fluminense de Iniciação Científica e Tecnológica do IFF e UENF (Campos dos Goytacazes, RJ) — apresentação oral do meu trabalho de pesquisa.
-- Escola de Inverno ON - 2026 — Escola de Inverno em Astrofísica do Observatório Nacional (Rio de Janeiro) — atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4.
+- [[pt-br/media/2026/confict|CONFICT ON - 2026]] — Congresso Fluminense de Iniciação Científica e Tecnológica do IFF e UENF (Campos dos Goytacazes, RJ) — apresentação oral do meu trabalho de pesquisa.
+- [[pt-br/media/2026/escolainverno|Escola de Inverno ON - 2026]] — Escola de Inverno em Astrofísica do Observatório Nacional (Rio de Janeiro) — atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4.
 
 ### 2025
 

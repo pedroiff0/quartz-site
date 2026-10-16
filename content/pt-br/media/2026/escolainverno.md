@@ -1,0 +1,79 @@
+---
+publish: true
+title: Escola de Inverno ON - 2026
+created: 2026-07-18 13:34:00-03:00
+modified: 2026-10-16T09:56:18-03:00
+tags:
+  - midia
+cssclasses:
+  - page-layout
+icon: lucide-newspaper
+photoFolder: escolainverno2026
+type: blog
+sitesync: true
+resource-sync: true
+---
+
+<div class="academic-nav-container">
+
+<div class="academic-nav-breadcrumb">
+
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Escola de Inverno ON - 2026</span>
+
+</div>
+
+<div class="academic-nav-controls">
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn">[[pt-br/media/2026/confict|← CONFICT - 2026]]</span>
+
+</div>
+
+<div class="academic-nav-center">
+
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(15 de 18)</span>
+
+</div>
+
+<div class="academic-nav-side">
+
+<span class="academic-nav-btn">[[pt-br/media/2026/index|2026 →]]</span>
+
+</div>
+
+</div>
+
+</div>
+
+# Escola de Inverno ON -
+
+> [!note] Resumo
+> Escola de Inverno em Astrofísica 2026 do Observatório Nacional, no Rio de Janeiro — apresentei uma atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4 já levado à SAB 2025.
+
+## Sobre o evento
+
+Página dedicada à participação na **Escola de Inverno em Astrofísica 2026** do [Observatório Nacional (ON)](https://www.gov.br/observatorio2026), realizada de 20 a 24 de julho de 2026, no Rio de Janeiro.
+
+## Minha participação
+
+Se você chegou aqui escaneando o QR code do meu pôster, seja bem-vindo(a)! O pôster apresentado nesta escola é uma atualização do que levei à SAB 2025, em Caxambu (MG) — com o mapeamento não supervisionado via t-SNE e as projeções mais recentes. Veja o texto completo de preparação da apresentação em Apresentação de Pesquisa, e o estado atual da pesquisa em [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias em Dados do Gaia]].
+
+> [!note] Opinião
+> Meu segundo congresso de Astronomia em menos de um ano! Foi uma oportunidade muito legal e importante, o contato com as diferentes áreas de pesquisa mostrou as muitas possibilidades de seguir pesquisa, o networking com os professores/pesquisadores da minha área de pesquisa também enriqueceu bastante o progresso do meu trabalho em colaboração com as professores [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja) e [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com)
+
+## Banner
+
+> [!note] Banners apresentados:
+> Versão Antiga:  *Pôster: Detecção de Anomalias em Dados do Gaia (SBPC 2026)*
+
+> [!note] Banners apresentados:
+> Versão Correta:  *Pôster: Detecção de Anomalias (Escola de Inverno ON 2026)*
+
+Mais detalhes da pesquisa podem ser encontrados em [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias em Dados do Gaia]]; uma versão mais atualizada será apresentada também na SAB 2026, que ocorrerá em Natal (RN) dos dias 25 a 30 de outubro de 2026.
+
+## Referências e correlatos
+
+-  Notas de aula completas, por minicurso: [[pt-br/academic/cursos/escola-de-inverno/index|Escola de Inverno (ON 2026)]]
+- [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias em Dados do Gaia]] — pesquisa completa por trás do pôster
+- [[pt-br/media/2025/sab|SAB 2025]] — versão anterior do mesmo pôster

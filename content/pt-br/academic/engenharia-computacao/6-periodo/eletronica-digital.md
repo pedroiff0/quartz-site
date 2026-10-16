@@ -2,7 +2,7 @@
 publish: true
 title: Eletrônica Digital
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-09T15:19:29-03:00
+modified: 2026-10-16T10:47:51-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -11,6 +11,7 @@ cssclasses:
 cover: 99-meta/attachments/assets/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">
@@ -67,23 +68,23 @@ sitesync: true
 > - [[pt-br/academic/engenharia-computacao/7-periodo/sistemas-digitais|CSECBJI.53 - Sistemas Digitais]]
 
 > [!tip]  Conteúdo Programático
-> - [x] **1. Sistema de Numeração**
->   - [x] Notação Posicional
->   - [x] Sistemas Numéricos
-> 	  - [x] i. Decimal
-> 	  - [x] ii. Octal
-> 	  - [x] iii. Binário
-> 	  - [x] iv. Hexadecimal
->   - [x] Conversão entre Bases
-> - [x] **2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole Portas Lógicas**
->   - [x] Funções Lógicas Portas Lógicas
->   - [x] Tabelas Verdade Portas Lógicas
->   - [x] Álgebra Booleana Portas Lógicas
->   - [x] Teoremas de De Morgan Portas Lógicas
->   - [x] Teorema da Dualidade Portas Lógicas
->   - [x] Mintermos e Maxtermos Portas Lógicas
->   - [x] Simplificação de Equações e Circuitos Lógicos Aula 02 - Mapas de Karnough
->   - [x] Mapas de Karnaugh Aula 02 - Mapas de Karnough
+> - [x] **1. Sistema de Numeração** ✅ 2026-09-22
+>   - [x] Notação Posicional ✅ 2026-09-22
+>   - [x] Sistemas Numéricos ✅ 2026-09-22
+> 	  - [x] i. Decimal ✅ 2026-10-07
+> 	  - [x] ii. Octal ✅ 2026-10-07
+> 	  - [x] iii. Binário ✅ 2026-10-07
+> 	  - [x] iv. Hexadecimal ✅ 2026-10-07
+>   - [x] Conversão entre Bases ✅ 2026-09-22
+> - [x] **2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole Portas Lógicas** ✅ 2026-09-22
+>   - [x] Funções Lógicas Portas Lógicas ✅ 2026-09-22
+>   - [x] Tabelas Verdade Portas Lógicas ✅ 2026-09-22
+>   - [x] Álgebra Booleana Portas Lógicas ✅ 2026-09-22
+>   - [x] Teoremas de De Morgan Portas Lógicas ✅ 2026-09-22
+>   - [x] Teorema da Dualidade Portas Lógicas ✅ 2026-09-22
+>   - [x] Mintermos e Maxtermos Portas Lógicas ✅ 2026-09-22
+>   - [x] Simplificação de Equações e Circuitos Lógicos Aula 02 - Mapas de Karnough ✅ 2026-09-22
+>   - [x] Mapas de Karnaugh Aula 02 - Mapas de Karnough ✅ 2026-09-22
 > - **3. Circuitos Combinacionais**
 >   - Multiplexadores
 >   - Demultiplexadores

@@ -2,7 +2,7 @@
 publish: true
 title: 6º Período
 created: 2026-07-21 12:00:00-03:00
-modified: 2026-10-13T20:20:28-03:00
+modified: 2026-10-16T10:48:31-03:00
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -10,6 +10,7 @@ cssclasses:
   - page-layout
 icon: lucide-book-open
 sitesync: true
+resource-sync: false
 ---
 
 <div class="academic-nav-container">

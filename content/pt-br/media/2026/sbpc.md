@@ -1,8 +1,8 @@
 ---
 publish: true
-title: SBPC - 2026
+title: SBPC
 created: 2026-07-18 13:34:00-03:00
-modified: 2026-10-09T15:19:52-03:00
+modified: 2026-10-16T09:56:07-03:00
 tags:
   - midia
 cssclasses:
@@ -11,13 +11,14 @@ icon: lucide-newspaper
 photoFolder: sbpc2026
 type: blog
 sitesync: true
+resource-sync: true
 ---
 
 <div class="academic-nav-container">
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">SBPC - 2026</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">SBPC</span>
 
 </div>
 
@@ -25,13 +26,13 @@ sitesync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/index|← 2026]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/mostra-iff|← Mostra do Conhecimento]]</span>
 
 </div>
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(15 de 15)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(18 de 18)</span>
 
 </div>
 
