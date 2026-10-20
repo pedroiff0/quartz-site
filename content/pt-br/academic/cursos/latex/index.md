@@ -2,7 +2,7 @@
 publish: true
 title: LaTeX & Escrita Acadêmica
 created: 2026-08-04 13:34
-modified: 2026-10-16T10:48:30-03:00
+modified: 2026-10-20T11:21:31-03:00
 tags:
   - latex
   - escrita-academica
@@ -14,6 +14,7 @@ cssclasses:
 icon: lucide-book-open
 course: "modelos-de-documento"
 sitesync: true
+hub: true
 resource-sync: false
 ---
 

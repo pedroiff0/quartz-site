@@ -2,13 +2,14 @@
 publish: true
 title: 2024
 created: 2026-07-23 13:04:00-03:00
-modified: 2026-10-15T18:33:10-03:00
+modified: 2026-10-20T11:21:31-03:00
 tags:
   - midia
 cssclasses:
   - page-layout
 icon: lucide-newspaper
 sitesync: true
+hub: true
 resource-sync: false
 ---
 

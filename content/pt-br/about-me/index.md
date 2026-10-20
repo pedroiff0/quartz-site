@@ -7,7 +7,7 @@ aliases:
   - Início
   - sobre-mim
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-16T11:08:48-03:00
+modified: 2026-10-20T11:21:31-03:00
 tags:
   - pessoal
   - sobre-mim
@@ -17,6 +17,7 @@ cssclasses:
 icon: lucide-user
 order: 1
 sitesync: true
+hub: true
 resource-sync: true
 ---
 

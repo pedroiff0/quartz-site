@@ -5,7 +5,7 @@ aliases:
   - Pesquisas Hub
   - Central de Pesquisas
 created: 2026-09-30 11:59:00-03:00
-modified: 2026-10-16T10:48:58-03:00
+modified: 2026-10-20T11:21:31-03:00
 tags:
   - pesquisa
   - astronomia
@@ -14,6 +14,7 @@ cssclasses:
   - page-layout
 icon: lucide-microscope
 sitesync: true
+hub: true
 resource-sync: false
 ---
 

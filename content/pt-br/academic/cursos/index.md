@@ -7,7 +7,7 @@ aliases:
   - Cursos e Formações
   - cursos
 created: 2026-09-15 21:50:00-03:00
-modified: 2026-10-15T18:33:10-03:00
+modified: 2026-10-20T11:21:31-03:00
 tags:
   - curso
   - extensao
@@ -17,6 +17,7 @@ cssclasses:
   - page-layout
 icon: lucide-award
 sitesync: true
+hub: true
 resource-sync: false
 ---
 

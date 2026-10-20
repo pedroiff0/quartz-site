@@ -5,7 +5,7 @@ aliases:
   - Acadêmico Hub
   - Central Acadêmica
 created: 2026-09-30 11:30:00-03:00
-modified: 2026-10-16T11:08:48-03:00
+modified: 2026-10-20T11:21:31-03:00
 tags:
   - academico
   - iff
@@ -14,6 +14,7 @@ cssclasses:
   - page-layout
 icon: lucide-graduation-cap
 sitesync: true
+hub: true
 resource-sync: false
 ---
 

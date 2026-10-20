@@ -7,7 +7,7 @@ aliases:
 publish: true
 title: Mídias
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-16T10:12:16-03:00
+modified: 2026-10-20T11:21:31-03:00
 tags:
   - moc
   - midia
@@ -17,6 +17,7 @@ cssclasses:
 icon: lucide-newspaper
 order: 4
 sitesync: true
+hub: true
 resource-sync: false
 ---
 

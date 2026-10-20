@@ -2,7 +2,7 @@
 publish: true
 title: Setup
 created: 2026-09-07 16:47:01-03:00
-modified: 2026-10-16T10:48:58-03:00
+modified: 2026-10-20T11:21:31-03:00
 tags:
   - pessoal
 cssclasses:
@@ -12,6 +12,7 @@ aliases:
   - Setup
   - setup
 sitesync: true
+hub: true
 resource-sync: false
 ---
 
