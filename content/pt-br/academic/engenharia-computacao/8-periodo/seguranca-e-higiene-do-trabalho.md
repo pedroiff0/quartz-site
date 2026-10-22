@@ -2,14 +2,14 @@
 publish: true
 title: Segurança e Higiene do Trabalho
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-16T10:47:28-03:00
+modified: 2026-10-21T15:24:02-03:00
 tags:
 - atividade
 - trabalho
 - engenharia-de-computacao
 cssclasses:
   - page-layout
-cover: 99-meta/attachments/assets/illustrations/computacao.svg
+cover: 04-recursos/99-meta/illustrations/computacao.svg
 icon: lucide-book-open
 sitesync: true
 resource-sync: false
