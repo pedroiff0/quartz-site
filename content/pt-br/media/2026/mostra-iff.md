@@ -32,13 +32,13 @@ resource-sync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(17 de 18)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(17 de 19)</span>
 
 </div>
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/sbpc|SBPC →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/sab/anotacoes|Anotações Gerais →]]</span>
 
 </div>
 

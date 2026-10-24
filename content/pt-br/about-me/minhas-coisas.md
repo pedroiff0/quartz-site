@@ -2,7 +2,7 @@
 publish: true
 title: Minhas Coisas
 created: 2026-09-07 16:47:01-03:00
-modified: 2026-10-20T11:21:31-03:00
+modified: 2026-10-23T15:21:09-03:00
 tags:
   - pessoal
 icon: lucide-user
@@ -54,6 +54,7 @@ resource-sync: false
 
 > [!note] Projetos pessoais, coleções e anotações diversas.
 
--  **Observação Astronômica & Astrofotografia**
+-  **Observação Astronômica**
 -  **Música & Podcasting**
 -  **Café & Produtividade**
+- **Idiomas & Aprendizado**

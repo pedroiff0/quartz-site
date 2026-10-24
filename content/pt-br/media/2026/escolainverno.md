@@ -2,7 +2,7 @@
 publish: true
 title: Escola de Inverno ON - 2026
 created: 2026-07-18 13:34:00-03:00
-modified: 2026-10-16T09:56:18-03:00
+modified: 2026-10-23T15:22:50-03:00
 tags:
   - midia
 cssclasses:
@@ -32,7 +32,7 @@ resource-sync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(15 de 18)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(15 de 19)</span>
 
 </div>
 

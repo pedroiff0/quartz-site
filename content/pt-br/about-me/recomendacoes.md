@@ -2,7 +2,7 @@
 publish: true
 title: Recomendações
 created: 2026-09-07 16:47:01-03:00
-modified: 2026-10-16T10:48:55-03:00
+modified: 2026-10-23T15:20:15-03:00
 tags:
   - pessoal
 icon: lucide-user
@@ -61,4 +61,7 @@ resource-sync: false
 ## Ferramentas & Software
 - **Obsidian**: Gestão de conhecimento com Zettelkasten e Markdown.
 - **Quartz**: Publicação de jardins digitais e sites estáticos.
-- **VS Code**: Editor principal de código e desenvolvimento.
+- **VS Code**: Editor principal de código e desenvolvimento
+- **Claude**: Agente de IA
+- **Antigravity**: Agente de IA
+- 
