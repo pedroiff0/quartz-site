@@ -2,13 +2,13 @@
 publish: true
 title: Mostra do Conhecimento
 created: 2026-07-18 13:34:00-03:00
-modified: 2026-10-16T09:55:36-03:00
+modified: 2026-10-26T17:33:11-03:00
 tags:
   - midia
 cssclasses:
   - page-layout
 icon: lucide-newspaper
-photoFolder: mostra2026
+photoFolder: mostra-iff-2026
 type: blog
 sitesync: true
 resource-sync: true

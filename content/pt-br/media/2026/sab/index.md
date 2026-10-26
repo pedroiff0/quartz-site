@@ -2,7 +2,7 @@
 publish: true
 title: XLIV RASAB
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-26T14:23:57-03:00
+modified: 2026-10-26T17:32:10-03:00
 tags:
   - midia
   - evento
@@ -52,6 +52,9 @@ resource-sync: true
 > [!abstract] Resumo
 > Reunião Anual da Sociedade Astronômica Brasileira (SAB 2026), em Natal - RN, de 25/10/2026 a 30/10/2026. Apresento o banner com a continuação do trabalho de detecção de anomalias em espectros do GALAH DR4, que no SAB 2025 olhou só os parâmetros estelares.
 
+> [!tip] Pesquisa por trás do pôster
+> Resultados, figuras do banner e cronologia 2025 a 2026: [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)]].
+
 ## Ficha do evento
 
 | Campo            | Detalhe                                                                                       |
@@ -76,93 +79,10 @@ Preencher durante e depois do evento: sessão e horário do pôster, perguntas r
 
 ## Anotações
 
-Copie o bloco do tipo de atividade, cole em "Registro por dia" e preencha. Um parágrafo é sempre uma linha só. Datas no corpo em DD/MM/YYYY.
+Registro do que vi em cada dia do congresso. Um parágrafo é sempre uma linha só. Datas no corpo em DD/MM/YYYY.
 
-### Modelos
-
-#### Plenária
-
-```markdown
-##### DD/MM/YYYY HH:mm · Plenária · Título da fala
-- **Palestrante:** Nome (instituição)
-- **Sala / horário:** 
-- **Tema em uma linha:** 
-- **Ideias centrais:** 
-  - 
-  - 
-- **Números, dados e figuras que vale guardar:** 
-- **Relação com o meu trabalho (GALAH DR4, t-SNE, anomalias):** 
-- **Perguntas que ficaram:** 
-- **Para ler depois:** [artigo ou arXiv](https://)
-- **Nota (0 a 5) e por quê:** 
-```
-
-#### Conferência
-
-```markdown
-##### DD/MM/YYYY HH:mm · Conferência · Título da fala
-- **Conferencista:** Nome (instituição)
-- **Sala / horário:** 
-- **Pergunta que a fala responde:** 
-- **Método e dados usados:** 
-- **Resultado principal:** 
-- **Limitações que o palestrante admitiu:** 
-- **Relação com o meu trabalho:** 
-- **Perguntas feitas e respostas:** 
-- **Contato ou colaboração possível:** 
-- **Para ler depois:** [artigo ou arXiv](https://)
-```
-
-#### Sessão paralela (oral)
-
-```markdown
-##### DD/MM/YYYY HH:mm · Sessão paralela · Nome da sessão
-- **Sala / coordenador:** 
-- **Trabalho:** Título (autores, instituição)
-- **Objeto e dados:** 
-- **Técnica ou método:** 
-- **Resultado em uma linha:** 
-- **Uso possível no meu trabalho:** 
-- **Pergunta que eu faria ou fiz:** 
-- **Contato:** 
-```
-
-#### Sessão de pôsteres
-
-```markdown
-##### DD/MM/YYYY HH:mm · Pôster · Título
-- **Autores / instituição:** 
-- **Código do pôster:** 
-- **Objeto e dados:** 
-- **Método:** 
-- **Resultado:** 
-- **Conexão com GALAH, Gaia, t-SNE ou detecção de anomalias:** 
-- **Conversa que tive / contato:** 
-- **Foto:** `04-recursos/03-midia/2026/sab-2026/arquivo.jpg`
-```
-
-#### Meu pôster (atendimento)
-
-```markdown
-##### DD/MM/YYYY HH:mm · Meu pôster
-- **Quem passou (nome, instituição):** 
-- **O que perguntou ou comentou:** 
-- **O que respondi:** 
-- **Sugestão recebida (método, dado, referência):** 
-- **Convite ou colaboração:** 
-- **Ação de volta para casa:** 
-```
-
-#### Contato
-
-```markdown
-##### Nome (instituição)
-- **Onde conheci / data:** 
-- **Área e interesse:** 
-- **Combinado:** 
-- **E-mail ou perfil:** 
-- **Prazo do próximo passo:** DD/MM/YYYY
-```
+> [!tip] Modelos de anotação
+> Os modelos para copiar e colar (plenária, conferência, sessão paralela, pôster, meu pôster e contato) ficam em Modelos de anotação do SAB 2026.
 
 ### Registro por dia
 
@@ -187,16 +107,21 @@ Copie o bloco do tipo de atividade, cole em "Registro por dia" e preencha. Um pa
 ## Material apresentado
 
 > [!info] Banner
-> **Pôster:** mapa t-SNE central das 5.304 estrelas com espectros completos (de 6.198 do GCNS x GALAH DR4), com painéis de colorações, flags, cortes, subclusters de emissão, outras projeções e espectros.
+> **Pôster:** mapa t-SNE central das 5.304 estrelas com espectros completos (de 6.198 do GCNS x GALAH DR4), com painéis de colorações, flags, cortes, subclusters de emissão, outras projeções e espectros. PDFs: [[resource/meta/banners/bannersab26-mapa-mental.pdf|versão mapa mental]] e [[resource/meta/banners/bannersab26-base-v3.pdf|versão base]].
 
-O fio condutor: o SAB 2025 mostrou o que os parâmetros dizem; o SAB 2026 pergunta o que o espectro inteiro acrescenta. Roteiro completo (Context, Aims, Methods, Results, Conclusion), figuras e referências em Narrativa do banner SAB26.
+> [!tip] Pesquisa completa
+> Todos os gráficos do banner, o pôster do SAB 2025 em detalhe, a cronologia de 2025 a 2026 e os trabalhos futuros estão na nota da pesquisa: [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)]]. Para mexer no mapa, use o [painel interativo](https://anomaly.phrandrade.com).
 
 ### Resultados em destaque
 
-- A ordenação por Teff emerge no t-SNE e no UMAP sem rótulos, em todas as configurações testadas.
-- O bit de emissão (286 estrelas) forma cinco subclusters: S0 frio e de [Fe/H] solar; S1 e S2 pobres em metais.
-- Os cortes de S/N e Teff só filtram a exibição: 52% das estrelas mapeadas têm a flag de S/N baixo.
-- Candidatos, não classes: HDBSCAN e cortes ainda não foram varridos. Próximo passo: o GALAH DR4 inteiro.
+O SAB 2025 descreveu a vizinhança solar só pelos parâmetros do catálogo. O SAB 2026 pergunta o que o espectro inteiro acrescenta, e esses são os resultados, os mesmos da seção "SAB 2026: a continuação" da [[pt-br/research/deteccao-de-anomalias-iff-2025|nota da pesquisa]].
+
+- **Amostra:** 6.198 estrelas do GCNS x GALAH DR4. Entram no mapa 5.304; as outras 894 não têm os 4 CCDs completos e nunca são preenchidas.
+- **Ordenação por Teff:** emerge no t-SNE e no UMAP sem rótulos, em todas as configurações testadas.
+- **Estrelas com emissão:** são 286 e formam cinco subclusters por HDBSCAN. O S0 (138 estrelas) é frio e de [Fe/H] solar; o S1 e o S2 são pobres em metais.
+- **Cortes só filtram:** os cortes de S/N e de Teff mudam o que aparece, não recalculam o mapa, e 52% das estrelas mapeadas têm a flag de S/N baixo.
+- **Candidatos, não classes:** o HDBSCAN e os cortes ainda não foram varridos.
+- **Próximo passo:** estender a análise ao GALAH DR4 inteiro (905.415 espectros já extraídos). Detalhes em "Trabalhos futuros" na nota da pesquisa.
 
 ## Opinião
 
@@ -206,5 +131,5 @@ O fio condutor: o SAB 2025 mostrou o que os parâmetros dizem; o SAB 2026 pergun
 ## Referências e correlatos
 
 - Fonte: [Site oficial do evento](https://sab-astro.org.br/)
-- [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias em Estrelas da Via Láctea]]: pesquisa completa por trás do pôster
+- [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)]]: pesquisa completa por trás do pôster, com figuras e cronologia 2025 a 2026
 - [[pt-br/media/2025/sab|SAB 2025]]: edição anterior
