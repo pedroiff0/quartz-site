@@ -14,6 +14,16 @@ tags:
 
 Pesquisa entre **astronomia e computação**, materiais de estudo abertos e registro dos eventos por onde passei — tudo reunido em um lugar só.
 
+<div class="event-card" style="margin: 1.6rem auto; max-width: 720px; padding: 1.2rem 1.4rem; border: 1px solid var(--lightgray); border-radius: 18px; background: linear-gradient(135deg, rgba(56, 189, 248, 0.10), rgba(15, 23, 42, 0.03)); box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);">
+  <p style="margin: 0 0 0.2rem; font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--gray);">SAB 2026 · Natal, RN · 25/10/2026 a 30/10/2026</p>
+  <p style="margin: 0 0 0.9rem; font-weight: 700; font-size: 1.1rem; color: var(--dark);">Veio pelo QR code do banner? Comece por aqui. · Came from the poster QR code? Start here.</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.6rem;">
+    <a href="/pt-br/media/2026/sab/" style="display:inline-block;flex:1 1 220px;text-align:center;padding:.7rem 1rem;border-radius:12px;border:1px solid var(--lightgray);background:var(--light);color:var(--dark);font-weight:600;font-size:.92rem;text-decoration:none;">SAB 2026: o evento e o que apresentei<br /><span style="font-weight: 400; font-size: 0.8rem; color: var(--gray);">The event and my poster</span></a>
+    <a href="/pt-br/research/deteccao-de-anomalias-iff-2025" style="display:inline-block;flex:1 1 220px;text-align:center;padding:.7rem 1rem;border-radius:12px;border:1px solid var(--lightgray);background:var(--light);color:var(--dark);font-weight:600;font-size:.92rem;text-decoration:none;">Pesquisa: detecção de anomalias, 2025 a 2026<br /><span style="font-weight: 400; font-size: 0.8rem; color: var(--gray);">The research behind the poster</span></a>
+    <a href="https://anomaly.phrandrade.com" style="display:inline-block;flex:1 1 220px;text-align:center;padding:.7rem 1rem;border-radius:12px;border:1px solid var(--lightgray);background:var(--light);color:var(--dark);font-weight:600;font-size:.92rem;text-decoration:none;">Painel interativo do mapa t-SNE<br /><span style="font-weight: 400; font-size: 0.8rem; color: var(--gray);">Interactive t-SNE map</span></a>
+  </div>
+</div>
+
 **Escolha um idioma para começar** · Choose a language to get started · Elige un idioma para empezar · Choisissez une langue pour commencer
 
 <div class="lang-carousel">

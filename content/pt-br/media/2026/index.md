@@ -31,7 +31,7 @@ resource-sync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(16 de 19)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(16 de 20)</span>
 
 </div>
 
@@ -51,4 +51,4 @@ resource-sync: true
 - [[pt-br/media/2026/confict|CONFICT - 2026]] — Congresso Fluminense de Iniciação Científica e Tecnológica do IFF e UENF (Campos dos Goytacazes, RJ) — apresentação oral do meu trabalho de pesquisa.
 - [[pt-br/media/2026/escolainverno|Escola de Inverno ON - 2026]] — Escola de Inverno em Astrofísica do Observatório Nacional (Rio de Janeiro) — atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4.
 - [[pt-br/media/2026/sbpc|SBPC - 2026]] — Reunião Anual da Sociedade Brasileira para o Progresso da Ciência (Niterói, RJ) — reapresentação do pôster de detecção de anomalias em dados do Gaia/GALAH DR4, da [[pt-br/media/2025/sab|SAB2025]].
-- SAB - 2026 — Reunião Anual da Sociedade Astrônoma Brasileira (Natal, RN) — atualização e avanços do pôster de detecção de anomalias em dados do Gaia/GALAH DR4, da [[pt-br/media/2025/sab|SAB2025]].
+- [[pt-br/media/2026/sab/index|SAB - 2026]] — Reunião Anual da Sociedade Astrônoma Brasileira (Natal, RN) — atualização e avanços do pôster de detecção de anomalias em dados do Gaia/GALAH DR4, da [[pt-br/media/2025/sab|SAB2025]].

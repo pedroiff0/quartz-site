@@ -33,13 +33,13 @@ resource-sync: false
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(18 de 19)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(18 de 20)</span>
 
 </div>
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/sbpc|SBPC →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/sab/index|XLIV RASAB →]]</span>
 
 </div>
 

@@ -32,7 +32,7 @@ resource-sync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(15 de 19)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(15 de 20)</span>
 
 </div>
 
@@ -70,7 +70,7 @@ Se você chegou aqui escaneando o QR code do meu pôster, seja bem-vindo(a)! O p
 > [!note] Banners apresentados:
 > Versão Correta:  *Pôster: Detecção de Anomalias (Escola de Inverno ON 2026)*
 
-Mais detalhes da pesquisa podem ser encontrados em [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias em Dados do Gaia]]; uma versão mais atualizada será apresentada também na SAB 2026, que ocorrerá em Natal (RN) dos dias 25 a 30 de outubro de 2026.
+Mais detalhes da pesquisa podem ser encontrados em [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias em Dados do Gaia]]; uma versão mais atualizada será apresentada também na [[pt-br/media/2026/sab/index|SAB 2026]], que ocorrerá em Natal (RN) dos dias 25 a 30 de outubro de 2026.
 
 ## Referências e correlatos
 
