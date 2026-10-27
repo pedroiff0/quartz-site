@@ -1,7 +1,7 @@
 ---
 title: Pedro H. R. de Andrade
 created: 2026-07-18T14:16:01.130-03:00
-modified: 2026-10-26T16:21:14-03:00
+modified: 2026-10-27T12:23:41-03:00
 published: 2026-07-26T10:01:47.627-03:00
 publish: true
 sitesync: true
@@ -22,6 +22,7 @@ Pesquisa entre **astronomia e computação**, materiais de estudo abertos e regi
     <a href="/pt-br/research/deteccao-de-anomalias-iff-2025" style="display:inline-block;flex:1 1 220px;text-align:center;padding:.7rem 1rem;border-radius:12px;border:1px solid var(--lightgray);background:var(--light);color:var(--dark);font-weight:600;font-size:.92rem;text-decoration:none;">Pesquisa: detecção de anomalias, 2025 a 2026<br /><span style="font-weight: 400; font-size: 0.8rem; color: var(--gray);">The research behind the poster</span></a>
     <a href="https://anomaly.phrandrade.com" style="display:inline-block;flex:1 1 220px;text-align:center;padding:.7rem 1rem;border-radius:12px;border:1px solid var(--lightgray);background:var(--light);color:var(--dark);font-weight:600;font-size:.92rem;text-decoration:none;">Painel interativo do mapa t-SNE<br /><span style="font-weight: 400; font-size: 0.8rem; color: var(--gray);">Interactive t-SNE map</span></a>
   </div>
+  <p style="margin: 0.9rem 0 0; font-size: 0.82rem; color: var(--gray);">O painel interativo é temporário e será desativado após a SAB. Para mais informações, escreva para <a href="mailto:pedroiff0@gmail.com">pedroiff0@gmail.com</a>.<br />The interactive panel is temporary and will be shut down after SAB. For more information, contact <a href="mailto:pedroiff0@gmail.com">pedroiff0@gmail.com</a>.</p>
 </div>
 
 **Escolha um idioma para começar** · Choose a language to get started · Elige un idioma para empezar · Choisissez une langue pour commencer

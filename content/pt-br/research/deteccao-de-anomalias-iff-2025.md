@@ -2,7 +2,7 @@
 publish: true
 title: Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)
 created: 2026-09-19T13:18:29-03:00
-modified: 2026-10-26T18:12:49-03:00
+modified: 2026-10-27T12:32:51-03:00
 tags:
   - pesquisa
   - academico
@@ -124,6 +124,10 @@ A ideia do pôster era descrever a vizinhança do Sol só com os números do cat
 
 O resultado em poucas linhas: cerca de 6.000 estrelas, a maioria parecida com o Sol (com algumas mais quentes), temperaturas entre 3000 K e 8000 K, idade mediana de 1,5 bilhão de anos, um pouco menos de metal que o Sol e quase todas no disco. A lacuna que ficou é que tudo isso veio do catálogo. Os espectros ficaram de fora, e é daí que sai o trabalho de 2026.
 
+### Banner do SAB 2025
+
+![[resource/meta/site-static/banners/bannersab25.pdf]]
+
 ## SAB 2026: a continuação
 
 O SAB 2026 é em Natal (RN). A nota do evento está em [[pt-br/media/2026/sab/index|SAB 2026]]. O trabalho se chama *How varied are stellar populations in the Solar vicinity? Exploring GCNS and GALAH DR4 with t-SNE* e é feito com a [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com) e a [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja). Os banners estão em [[resource/meta/banners/bannersab26-mapa-mental.pdf|versão mapa mental]] e [[resource/meta/banners/bannersab26-base-v3.pdf|versão base]].
@@ -159,6 +163,18 @@ No diagrama de Kiel, as estrelas com emissão ficam na sequência principal fria
 ![[resource/areas/academico/pesquisas/deteccao-de-anomalias-iff-2025/arquivos/sab26-fig7-espectros.png|760]]
 
 O que fica do banner: a ordem por temperatura aparece sozinha, sem ninguém dizer ao método o que é temperatura, em todas as versões que testei, e as estrelas com emissão se dividem em cinco grupos. Por enquanto esses grupos são candidatos, não classes definitivas: ainda falta testar com cuidado se eles se mantêm quando mudo os ajustes.
+
+### Banners do SAB 2026
+
+A versão mapa mental é a que será apresentada: o mapa central e, ao redor, as perguntas sobre ele. A versão base segue o layout linear do banner do SAB 2025.
+
+#### Versão mapa mental
+
+![[resource/meta/site-static/banners/bannersab26-mapa-mental.pdf]]
+
+#### Versão base
+
+![[resource/meta/site-static/banners/bannersab26-base-v3.pdf]]
 
 ## Trabalhos futuros: o GALAH completo
 
