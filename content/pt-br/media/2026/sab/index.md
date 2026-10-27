@@ -2,7 +2,7 @@
 publish: true
 title: XLIX RASAB
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-27T12:32:28-03:00
+modified: 2026-10-27T15:26:02-03:00
 tags:
   - midia
   - evento
@@ -57,16 +57,17 @@ resource-sync: true
 
 ## Ficha do evento
 
-| Campo | Detalhe |
-| :--- | :--- |
-| **Evento** | XLIX Reunião Anual da Sociedade Astronômica Brasileira (RASAB 2026) |
-| **Local** | Praiamar Natal Hotel & Convention, Natal - RN |
-| **Período** | 25/10/2026 a 30/10/2026 (viagem de 23/10/2026 a 31/10/2026) |
-| **Modalidade** | Pôster, Sessão 2, painel nº 7 (código 4DXD) |
-| **Área** | 04 - A Galáxia & Meio Interestelar |
-| **Trabalho** | *How varied are stellar populations in the Solar vicinity? Exploring GCNS and GALAH DR4 with t-SNE* |
-| **Autores** | Pedro Henrique Rocha de Andrade, [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com) e [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja) |
-| **Programação** | [Programação oficial](https://rasab2026.sab-astro.org.br/programacao/) · [[resource/midia/2026/sab/sab2026_planner.html|planejador interativo da programação]] |
+| Campo           | Detalhe                                                                                                                                                                 |     |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| **Evento**      | XLIX Reunião Anual da Sociedade Astronômica Brasileira (RASAB 2026)                                                                                                     |     |
+| **Local**       | Praiamar Natal Hotel & Convention, Natal - RN                                                                                                                           |     |
+| **Período**     | 25/10/2026 a 30/10/2026 (viagem de 23/10/2026 a 31/10/2026)                                                                                                             |     |
+| **Modalidade**  | Pôster, Sessão 2, painel nº 7 (código 4DXD)                                                                                                                             |     |
+| **Área**        | 04 - A Galáxia & Meio Interestelar                                                                                                                                      |     |
+| **Trabalho**    | *How varied are stellar populations in the Solar vicinity? Exploring GCNS and GALAH DR4 with t-SNE*                                                                     |     |
+| **Autores**     | Pedro Henrique Rocha de Andrade, [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com) e [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja) |     |
+| **Programação** | [Programação oficial](https://rasab2026.sab-astro.org.br/programacao/)                                                                                                  |     |
+|                 |                                                                                                                                                                         |     |
 
 ## Meu pôster
 
@@ -88,7 +89,7 @@ resource-sync: true
 > [!info] Fontes
 > Programação completa do [[resource/midia/2026/sab/sab2026_planner.html|planejador interativo]] (atualizado em 2026-10-26 18:03) e minha agenda do arquivo `sab2026_agenda.ics`. A coluna "Na agenda" marca o que está no .ics; o .ics é atualizado ao final do congresso. Gerado por `99-meta/scripts/evento-programacao.py`: não editar este bloco à mão.
 
-### Minha agenda (52 itens)
+### Minha agenda
 
 #### Domingo, 25/10/2026
 
@@ -229,9 +230,6 @@ Plenário e eventos gerais; as paralelas estão resumidas por sessão mais abaix
 | 11:45 a 12:05 | *O Observatório Vera Rubin e o LSST: novidades, acesso aos dados e oportunidades para o Brasil* | Julia de Figueiredo Gschwend | Sessão especial | a confirmar |  |
 | 12:05 a 12:30 | *O Primeiro Data Release do J-PAS: Dados, Oportunidades e Desafios* | Simone Daflon | Sessão especial | a confirmar |  |
 
-> [!example] Meu pôster
-> Sessão de pôster, 10:30 a 11:25, painel nº 7 (código 4DXD).
-
 #### Quinta, 29/10/2026
 
 | Horário | Atividade | Quem | Tipo | Local | Na agenda |
@@ -247,10 +245,6 @@ Plenário e eventos gerais; as paralelas estão resumidas por sessão mais abaix
 | 18:30 a 20:00 | Assembleia da SAB |  | Geral | Plenário | x |
 | 20:00 a 22:00 | Luau |  | Social | Plenário | x |
 
-> [!example] Meu pôster
-> Sessão de pôster, 10:30 a 11:25, painel nº 7 (código 4DXD).
-> Sessão de pôster, 15:35 a 16:30, painel nº 7 (código 4DXD).
-
 #### Sexta, 30/10/2026
 
 | Horário | Atividade | Quem | Tipo | Local | Na agenda |
@@ -260,24 +254,21 @@ Plenário e eventos gerais; as paralelas estão resumidas por sessão mais abaix
 | 10:10 a 10:30 | *Três décadas de uma estrela jovem: rotação, acreção e possível ciclo magnético em V2129 Oph* | Barbara Silva Castelões (UFMG) | Plenária | Plenário |  |
 | 15:05 a 15:30 | Encerramento |  | Geral | Plenário | x |
 
-> [!example] Meu pôster
-> Sessão de pôster, 10:30 a 11:25, painel nº 7 (código 4DXD).
-
 ### Sessões paralelas (resumo)
 
 Cada linha é uma sessão com as palestras de 10 minutos; "Na agenda" conta as minhas. Títulos e horários de cada palestra estão no planejador.
 
 #### Segunda, 26/10/2026
 
-| Horário | Sessão | Chair | Sala | Palestras | Na agenda |
-| :--- | :--- | :--- | :--- | :---: | :---: |
-| 11:30 a 12:30 | Sessão Temática Paralela 1A | Maria Luiza Linhares Dantas | a confirmar | 6 | 6 |
-| 11:30 a 12:30 | Sessão Temática Paralela 1B | Denimara Dias dos Santos | a confirmar | 6 |  |
-| 11:30 a 12:30 | Sessão Temática Paralela 1C | Micheli Trindade Moura | a confirmar | 6 |  |
-| 11:30 a 12:30 | Sessão Temática Paralela 1D | Eder Martioli | a confirmar | 6 |  |
-| 14:35 a 15:35 | Sessão Temática Paralela 2A | Hélio Dotto Perottoni | a confirmar | 6 |  |
-| 14:35 a 15:35 | Sessão Temática Paralela 2C | Sandro Barboza Rembold | a confirmar | 6 |  |
-| 14:35 a 15:35 | Sessão Temática Paralela 2D | Carlos Alexandre Wuensche de Souza | a confirmar | 6 |  |
+| Horário       | Sessão                      | Chair                              | Sala        | Palestras | Na agenda |
+| :------------ | :-------------------------- | :--------------------------------- | :---------- | :-------: | :-------: |
+| 11:30 a 12:30 | Sessão Temática Paralela 1A | Maria Luiza Linhares Dantas        | a confirmar |     6     |     6     |
+| 11:30 a 12:30 | Sessão Temática Paralela 1B | Denimara Dias dos Santos           | a confirmar |     6     |           |
+| 11:30 a 12:30 | Sessão Temática Paralela 1C | Micheli Trindade Moura             | a confirmar |     6     |           |
+| 11:30 a 12:30 | Sessão Temática Paralela 1D | Eder Martioli                      | a confirmar |     6     |           |
+| 14:35 a 15:35 | Sessão Temática Paralela 2A | Hélio Dotto Perottoni              | a confirmar |     6     |           |
+| 14:35 a 15:35 | Sessão Temática Paralela 2C | Sandro Barboza Rembold             | a confirmar |     6     |           |
+| 14:35 a 15:35 | Sessão Temática Paralela 2D | Carlos Alexandre Wuensche de Souza | a confirmar |     6     |           |
 
 #### Terça, 27/10/2026
 
@@ -356,9 +347,6 @@ Registro do que vi em cada dia do congresso. Um parágrafo é sempre uma linha s
 #### Segunda, 26/10/2026
 
 #### Terça, 27/10/2026
-
-Sarah presentation
-* 
 
 #### Quarta, 28/10/2026
 
