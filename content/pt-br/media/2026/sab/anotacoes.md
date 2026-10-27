@@ -39,7 +39,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/sab/index|XLIV RASAB →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/sab/index|XLIX RASAB →]]</span>
 
 </div>
 

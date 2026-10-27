@@ -2,7 +2,7 @@
 publish: true
 title: Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)
 created: 2026-09-19T13:18:29-03:00
-modified: 2026-10-26T17:22:02-03:00
+modified: 2026-10-26T18:12:49-03:00
 tags:
   - pesquisa
   - academico
@@ -65,14 +65,14 @@ O espectro de uma estrela é a luz dela separada em cores, como um arco-íris ch
 
 Essa pesquisa tem uma história de dois congressos. No SAB 2025 eu mostrei o que os números do catálogo dizem sobre as estrelas perto do Sol. No SAB 2026 eu volto com uma pergunta maior: e se a gente olhar o espectro inteiro de cada estrela, o que aparece que esses números não mostram? Entre um congresso e outro, o projeto parou, voltou, mudou de método e ganhou um painel na web.
 
-| Quando | Fase | O que saiu dela |
+| Fase | Quando | O que aconteceu |
 | :--- | :--- | :--- |
-| Meados de 2025 | Começo | Análise dos números do catálogo, artigo em LaTeX e o banner do SAB 2025 |
-| Fim de 2025 | Transição | Fotometria do Gaia, primeiros testes de aprendizado de máquina e primeira leitura dos espectros |
-| Primeira metade de 2026 | Meio | Muitos testes de métodos, primeira versão do TCC e uma pausa longa |
-| Segunda metade de 2026 | Retomada | Espectro usado como ele vem e extração dos espectros de todo o GALAH |
-| Fim de 2026 | Fim da etapa | Banner do SAB 2026 e o painel na web |
-| 2027 a 2028 | Próxima etapa | GALAH DR4 completo e o TCC |
+| Começo | 2025 | Uma pergunta sobre as estrelas perto do Sol, respondida com os números do catálogo e levada ao SAB 2025 |
+| Transição | Fim de 2025 | Primeiros testes com aprendizado de máquina e a primeira tentativa de ler os espectros |
+| Meio | 2026 | Muitos testes de métodos, uma primeira versão do TCC e uma pausa |
+| Retomada | 2026 | A decisão de usar o espectro do jeito que ele vem e a extração dos espectros de todo o GALAH |
+| Agora | SAB 2026 | O banner de mapa mental e o painel na web para explorar o mapa |
+| Próxima etapa | Próximos anos | O mapa com o GALAH completo e o TCC |
 
 ### O começo: o que o catálogo diz
 
