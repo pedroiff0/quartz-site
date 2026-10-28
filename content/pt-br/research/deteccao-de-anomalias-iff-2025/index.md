@@ -45,7 +45,7 @@ resource-sync: true
 
 </div>
 
-# Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)
+# Detecção de Anomalias Espectrais em Estrelas da vizinhança solar
 
 > [!warning] Em construção
 > Esta página está em construção e sujeita a mudanças.

@@ -2,7 +2,7 @@
 publish: true
 title: XLIX RASAB
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-28T08:34:03-03:00
+modified: 2026-10-28T09:25:33-03:00
 tags:
   - midia
   - evento
@@ -92,7 +92,7 @@ translation-of: "[[pt-br/media/2026/sab/index]]"
 
 ### Who stopped by the poster
 
-Want to appear here? Leave your name in the [interactive panel](https://anomaly.phrandrade.com), on the Overview tab, at the bottom of the page. Names are added after my review.
+Want to appear here? Leave your name in the [interactive panel](https://anomaly.phrandrade.com), on the Overview tab, at the bottom of the page. Names are added automatically.
 
 %% visitantes:fim %%
 

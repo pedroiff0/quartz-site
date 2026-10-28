@@ -2,7 +2,7 @@
 publish: true
 title: Interactive Anomaly Detection Panel (Anomaly Viewer)
 created: 2026-10-28T08:20:00-03:00
-modified: 2026-10-28T08:23:42-03:00
+modified: 2026-10-28T09:19:58-03:00
 published: 2026-10-28T08:20:00-03:00
 tags:
   - projeto

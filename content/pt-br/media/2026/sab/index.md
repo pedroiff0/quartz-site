@@ -2,7 +2,7 @@
 publish: true
 title: XLIX RASAB
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-28T08:34:03-03:00
+modified: 2026-10-28T09:32:33-03:00
 tags:
   - midia
   - evento
@@ -80,8 +80,6 @@ resource-sync: true
 | Quinta, 29/10/2026, 10:30 a 11:25 |
 | Quinta, 29/10/2026, 15:35 a 16:30 |
 | Sexta, 30/10/2026, 10:30 a 11:25  |
-|                                   |
-%% colocar aqui um script automático, se a pessoa quiser preencher q veio e deixar o nome aparecendo aqui? tipo um form q a pessoa preenche e envia, mas nao tem backend %%
 
 > [!note] Minha participação
 > Preencher durante e depois do evento: quem passou pelo pôster, perguntas recebidas, contatos feitos e convites.
@@ -90,7 +88,7 @@ resource-sync: true
 
 ### Quem passou pelo pôster
 
-Quer aparecer aqui? Deixe seu nome no [painel interativo](https://anomaly.phrandrade.com), na aba Visão geral, no fim da página. Os nomes entram depois da minha revisão.
+Quer aparecer aqui? Deixe seu nome no [painel interativo](https://anomaly.phrandrade.com), na aba Visão geral, no fim da página. Os nomes são adicionados automaticamente.
 
 %% visitantes:fim %%
 
