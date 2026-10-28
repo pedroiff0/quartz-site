@@ -171,45 +171,55 @@ body:not([data-slug^="pt-br"])
   display: none !important;
 }
 
-/* Language Toggle CSS */
+/* Language Toggle CSS: dois botões em pílula (PT-BR e EN), o idioma atual em destaque */
 .nav-lang {
   display: flex;
-  gap: 0.5rem;
+  flex-wrap: wrap;
+  gap: 0.45rem;
   margin-bottom: 1rem;
 }
 
 .nav-lang a {
-  font-size: 0.9rem;
-  padding: 0.3rem 0.6rem;
-  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  min-height: 2.2rem;
+  padding: 0.3rem 0.85rem 0.3rem 0.65rem;
+  border-radius: 999px;
   background: var(--lightgray);
+  border: 1px solid transparent;
   color: var(--dark) !important;
   text-decoration: none;
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 0.5rem;
   transition:
     transform 0.2s ease,
-    background 0.2s ease;
-}
-
-.nav-lang a {
-  gap: 0.4rem;
+    background 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .nav-lang-flag {
   display: block;
-  width: 24px;
-  height: 16px;
+  width: 26px;
+  height: 17px;
   object-fit: cover;
-  border-radius: 2px;
-  box-shadow: 0 0 0 1px var(--gray);
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25);
   margin: 0;
 }
 
 .nav-lang a:hover {
-  transform: scale(1.05);
+  transform: translateY(-1px);
   background: var(--gray);
+}
+
+.nav-lang a.is-active {
+  background: var(--secondary);
+  border-color: var(--secondary);
+  color: #fff !important;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.18);
 }
 
 /* Author Profile CSS */
@@ -1223,7 +1233,7 @@ body[data-slug="mapa/index"] .backlinks {
       flex: 1 1 100% !important;
       width: 100% !important;
       display: grid !important;
-      grid-template-columns: repeat(4, 1fr) !important;
+      grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
       gap: 0.45rem !important;
       margin: 0.25rem 0 !important;
 
@@ -1246,6 +1256,12 @@ body[data-slug="mapa/index"] .backlinks {
         &:active {
           transform: scale(0.96);
           background: var(--gray) !important;
+        }
+
+        &.is-active {
+          background: var(--secondary) !important;
+          border-color: var(--secondary) !important;
+          color: #fff !important;
         }
       }
     }

@@ -1,7 +1,9 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+const LanguageToggle: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
+  const curLang = (fileData?.slug ?? "").split("/")[0]
+  const active = (lang: string) => (curLang === lang || (lang === "pt-br" && !["en", "es", "fr"].includes(curLang)) ? "is-active" : "")
   // pathname already starts with "/" (or is just "/" with nothing after it),
   // so stripping a trailing slash gives "" for a bare-domain baseUrl and
   // "/subpath" for a project-page baseUrl -- either way `${basePath}/en/`
@@ -11,8 +13,9 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
     : ""
 
   return (
-    <div class={classNames(displayClass, "nav-lang")}>
-      <a href={`${basePath}/en/`} title="English" data-lang="en" data-router-ignore onclick="event.preventDefault(); window.goLang('en')"><img class="nav-lang-flag" src={`${basePath}/static/flags/flag-us.svg`} alt="English" width="24" height="16" loading="lazy" /><span class="nav-lang-label">EN</span></a>
+    <div class={classNames(displayClass, "nav-lang")} role="group" aria-label="Idioma / Language">
+      <a href={`${basePath}/pt-br/about-me/`} class={active("pt-br")} aria-current={active("pt-br") ? "true" : undefined} title="Português (Brasil)" data-lang="pt-br" data-router-ignore onclick="event.preventDefault(); window.goLang('pt-br')"><img class="nav-lang-flag" src={`${basePath}/static/flags/flag-br.svg`} alt="Português (Brasil)" width="24" height="16" loading="lazy" /><span class="nav-lang-label">PT-BR</span></a>
+      <a href={`${basePath}/en/`} class={active("en")} aria-current={active("en") ? "true" : undefined} title="English" data-lang="en" data-router-ignore onclick="event.preventDefault(); window.goLang('en')"><img class="nav-lang-flag" src={`${basePath}/static/flags/flag-us.svg`} alt="English" width="24" height="16" loading="lazy" /><span class="nav-lang-label">EN</span></a>
 
       <script dangerouslySetInnerHTML={{
         __html: `
@@ -21,7 +24,7 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
             // que revela o callout "untranslated" da nota de index.
             window.goLang = function(target) {
               const dest = window.translatePath(window.location.pathname, target);
-              if (target === 'pt-br') { window.location.href = dest; return; }
+              if (target === 'pt-br') { window.location.href = /\\/pt-br\\/$/.test(dest) ? dest + 'about-me/' : dest; return; }
               const root = dest.replace(/^(.*\\/(?:en|es|fr)\\/).*$/, '$1');
               if (dest === root) { window.location.href = dest; return; }
               const key = dest.replace(/^\\/|\\/$/g, '').toLowerCase();
