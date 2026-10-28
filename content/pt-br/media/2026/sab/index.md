@@ -2,7 +2,7 @@
 publish: true
 title: XLIX RASAB
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-27T15:26:02-03:00
+modified: 2026-10-28T08:34:03-03:00
 tags:
   - midia
   - evento
@@ -27,13 +27,13 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/sab/anotacoes|← Anotações Gerais]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/mostra-iff|← Mostra do Conhecimento]]</span>
 
 </div>
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(19 de 20)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(18 de 19)</span>
 
 </div>
 
@@ -47,13 +47,13 @@ resource-sync: true
 
 </div>
 
-# SAB 2026
+# Reunião Anual da SAB 2026
 
 > [!abstract] Resumo
 > XLIX Reunião Anual da Sociedade Astronômica Brasileira (RASAB 2026), em Natal - RN, de 25/10/2026 a 30/10/2026. Levo o banner que continua o trabalho do SAB 2025: no ano passado eu olhei só os números do catálogo; agora pergunto o que o espectro inteiro de cada estrela mostra.
 
 > [!tip] Pesquisa por trás do pôster
-> Resultados, figuras do banner e a história do projeto: [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)]].
+> Resultados, figuras do banner e a história do projeto: [[pt-br/research/deteccao-de-anomalias-iff-2025/index|Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)]].
 
 ## Ficha do evento
 
@@ -71,16 +71,25 @@ resource-sync: true
 
 ## Meu pôster
 
-| Quando | O quê |
-| :--- | :--- |
-| Terça, 27/10/2026, 18:00 a 20:00 | Colocação dos painéis da Sessão 2 |
-| Quarta, 28/10/2026, 10:30 a 11:25 | Sessão de pôster |
-| Quinta, 29/10/2026, 10:30 a 11:25 | Sessão de pôster |
-| Quinta, 29/10/2026, 15:35 a 16:30 | Sessão de pôster |
-| Sexta, 30/10/2026, 10:30 a 11:25 | Sessão de pôster |
+| Quando                            |
+| :-------------------------------- |
+| Quarta, 28/10/2026, 10:30 a 11:25 |
+| Quinta, 29/10/2026, 10:30 a 11:25 |
+| Quinta, 29/10/2026, 15:35 a 16:30 |
+| Sexta, 30/10/2026, 10:30 a 11:25  |
+|                                   |
+%% colocar aqui um script automático, se a pessoa quiser preencher q veio e deixar o nome aparecendo aqui? tipo um form q a pessoa preenche e envia, mas nao tem backend %%
 
 > [!note] Minha participação
 > Preencher durante e depois do evento: quem passou pelo pôster, perguntas recebidas, contatos feitos e convites.
+
+%% visitantes:inicio %%
+
+### Quem passou pelo pôster
+
+Quer aparecer aqui? Deixe seu nome no [painel interativo](https://anomaly.phrandrade.com), na aba Visão geral, no fim da página. Os nomes entram depois da minha revisão.
+
+%% visitantes:fim %%
 
 %% programacao:inicio %%
 
@@ -102,23 +111,23 @@ resource-sync: true
 
 #### Segunda, 26/10/2026
 
-| Horário | Atividade | Quem | Tipo | Local |
-| :--- | :--- | :--- | :--- | :--- |
-| 09:00 a 09:30 | *Agência Espacial Brasileira e a Unidade Regional do Rio Grande do Norte* | Douglas do Nascimento Silva (AEB) | Conferência | Plenário |
-| 09:30 a 09:50 | *Free-floating stars in the outskirts of proto-clusters of galaxies* | Stephane Werner (Durham University, UK) | Plenária | Plenário |
-| 09:50 a 10:10 | *Frozen in Time: What Relic Galaxies Reveal About the Early Universe* | Micheli Trindade Moura (IAG/USP) | Plenária | Plenário |
-| 10:10 a 10:30 | *The Chemical Imprint of Star Formation and Black Hole Growth in Galaxies* | Karín Menéndez-Delmestre (CBPF/MCTI) | Plenária | Plenário |
-| 11:30 a 11:40 | *Narrowband Photometric Selection of Blue Horizontal-branch Stars with S-PLUS DR5 and the Distance Gradient Across the Sagittarius Stream* | Franklin Sampaio | Paralela | a confirmar |
-| 11:40 a 11:50 | *Metallicity Gradients in the Inner Sagittarius System Revealed by JEDIS* | Matheus Agenor | Paralela | a confirmar |
-| 11:50 a 12:00 | *Chemical Gradients in the Stellar Halo Induced by a GSE-like Merger* | Hélio Dotto Perottoni | Paralela | a confirmar |
-| 12:00 a 12:10 | *Tracing Jets and Outflows in HMYSOs through Radio SEDs and Water Masers* | Elis Cristina Silva Sales | Paralela | a confirmar |
-| 12:10 a 12:20 | *GHOSTs of the Outer Disk: The Case of Young Open Cluster UBC 1329* | Millena Brandão Maciel | Paralela | a confirmar |
-| 12:20 a 12:30 | *Tracing variability in young stars of the Lupus association with multi-epoch TESS observations* | Thais dos Santos Silva | Paralela | a confirmar |
-| 14:35 a 14:55 | *SOAR: Operações em 2025-2026, Instrumentação e Perspectivas para o Próximo Ano* | Felipe Navarete | Sessão especial | a confirmar |
-| 14:55 a 15:15 | *Gemini: Instrumentação e Observações no maior telescópio brasileiro* | Murilo Marinello | Sessão especial | a confirmar |
-| 15:15 a 15:35 | *OPD: operações, instrumentação e perspectivas* | Luciano Fraga | Sessão especial | a confirmar |
-| 16:35 a 18:40 | Apresentação do Plano Nacional de Astronomia e a criação da Rede Nacional de Astronomia – ReNAst | Helio Jaques Rocha-Pinto, Alan Alves Brito (UFRGS), Bruno Castilho (LNA), Karín Menéndez-Delmestre (UFRJ), Reinaldo Roberto Rosa (INPE) | Geral | Plenário |
-| 19:30 a 22:00 | Oficinas AEB (Oficina 1: Astronomia e Astronáutica na Prática · Oficina 2: CubeSat Didático na Prática) | Agência Espacial Brasileira – UR/RN | Oficina | Plenário |
+| Horário       | Atividade                                                                                                                                  | Quem                                                                                                                                    | Tipo            | Local       |
+| :------------ | :----------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- | :-------------- | :---------- |
+| 09:00 a 09:30 | *Agência Espacial Brasileira e a Unidade Regional do Rio Grande do Norte*                                                                  | Douglas do Nascimento Silva (AEB)                                                                                                       | Conferência     | Plenário    |
+| 09:30 a 09:50 | *Free-floating stars in the outskirts of proto-clusters of galaxies*                                                                       | Stephane Werner (Durham University, UK)                                                                                                 | Plenária        | Plenário    |
+| 09:50 a 10:10 | *Frozen in Time: What Relic Galaxies Reveal About the Early Universe*                                                                      | Micheli Trindade Moura (IAG/USP)                                                                                                        | Plenária        | Plenário    |
+| 10:10 a 10:30 | *The Chemical Imprint of Star Formation and Black Hole Growth in Galaxies*                                                                 | Karín Menéndez-Delmestre (CBPF/MCTI)                                                                                                    | Plenária        | Plenário    |
+| 11:30 a 11:40 | *Narrowband Photometric Selection of Blue Horizontal-branch Stars with S-PLUS DR5 and the Distance Gradient Across the Sagittarius Stream* | Franklin Sampaio                                                                                                                        | Paralela        | a confirmar |
+| 11:40 a 11:50 | *Metallicity Gradients in the Inner Sagittarius System Revealed by JEDIS*                                                                  | Matheus Agenor                                                                                                                          | Paralela        | a confirmar |
+| 11:50 a 12:00 | *Chemical Gradients in the Stellar Halo Induced by a GSE-like Merger*                                                                      | Hélio Dotto Perottoni                                                                                                                   | Paralela        | a confirmar |
+| 12:00 a 12:10 | *Tracing Jets and Outflows in HMYSOs through Radio SEDs and Water Masers*                                                                  | Elis Cristina Silva Sales                                                                                                               | Paralela        | a confirmar |
+| 12:10 a 12:20 | *GHOSTs of the Outer Disk: The Case of Young Open Cluster UBC 1329*                                                                        | Millena Brandão Maciel                                                                                                                  | Paralela        | a confirmar |
+| 12:20 a 12:30 | *Tracing variability in young stars of the Lupus association with multi-epoch TESS observations*                                           | Thais dos Santos Silva                                                                                                                  | Paralela        | a confirmar |
+| 14:35 a 14:55 | *SOAR: Operações em 2025-2026, Instrumentação e Perspectivas para o Próximo Ano*                                                           | Felipe Navarete                                                                                                                         | Sessão especial | a confirmar |
+| 14:55 a 15:15 | *Gemini: Instrumentação e Observações no maior telescópio brasileiro*                                                                      | Murilo Marinello                                                                                                                        | Sessão especial | a confirmar |
+| 15:15 a 15:35 | *OPD: operações, instrumentação e perspectivas*                                                                                            | Luciano Fraga                                                                                                                           | Sessão especial | a confirmar |
+| 16:35 a 18:40 | Apresentação do Plano Nacional de Astronomia e a criação da Rede Nacional de Astronomia – ReNAst                                           | Helio Jaques Rocha-Pinto, Alan Alves Brito (UFRGS), Bruno Castilho (LNA), Karín Menéndez-Delmestre (UFRJ), Reinaldo Roberto Rosa (INPE) | Geral           | Plenário    |
+| 19:30 a 22:00 | Oficinas AEB (Oficina 1: Astronomia e Astronáutica na Prática · Oficina 2: CubeSat Didático na Prática)                                    | Agência Espacial Brasileira – UR/RN                                                                                                     | Oficina         | Plenário    |
 
 #### Terça, 27/10/2026
 
@@ -165,13 +174,13 @@ resource-sync: true
 
 #### Sexta, 30/10/2026
 
-| Horário | Atividade | Quem | Tipo | Local |
-| :--- | :--- | :--- | :--- | :--- |
-| 11:50 a 12:00 | *Hidden Chemistry in Cold: Physicochemical Modeling of Irradiated Astrophysical Ice Analogs with the PROCODA code* | Sergio Pilling | Paralela | a confirmar |
-| 12:20 a 12:30 | *From Simple Ices to Molecular Complexity: Radiation-Driven Chemistry in Astrophysical Ices* | Svitlana Gerasimenko | Paralela | a confirmar |
-| 14:00 a 14:10 | *In the Quest for Pulsation in Main-sequence M Dwarf Stars from TESS Observations: First Results* | Rillck Guilherme de Souza Barros de Amorim | Paralela | a confirmar |
-| 14:40 a 14:50 | *Variáveis cataclísmicas polares observadas com o polarímetro brasileiro SPARC4* | Natália Palivanas | Paralela | a confirmar |
-| 15:05 a 15:30 | Encerramento |  | Geral | Plenário |
+| Horário       | Atividade                                                                                                          | Quem                                       | Tipo     | Local       |
+| :------------ | :----------------------------------------------------------------------------------------------------------------- | :----------------------------------------- | :------- | :---------- |
+| 11:50 a 12:00 | *Hidden Chemistry in Cold: Physicochemical Modeling of Irradiated Astrophysical Ice Analogs with the PROCODA code* | Sergio Pilling                             | Paralela | a confirmar |
+| 12:20 a 12:30 | *From Simple Ices to Molecular Complexity: Radiation-Driven Chemistry in Astrophysical Ices*                       | Svitlana Gerasimenko                       | Paralela | a confirmar |
+| 14:00 a 14:10 | *In the Quest for Pulsation in Main-sequence M Dwarf Stars from TESS Observations: First Results*                  | Rillck Guilherme de Souza Barros de Amorim | Paralela | a confirmar |
+| 14:40 a 14:50 | *Variáveis cataclísmicas polares observadas com o polarímetro brasileiro SPARC4*                                   | Natália Palivanas                          | Paralela | a confirmar |
+| 15:05 a 15:30 | Encerramento                                                                                                       |                                            | Geral    | Plenário    |
 
 ### Programação completa
 
@@ -325,20 +334,7 @@ Cada linha é uma sessão com as palestras de 10 minutos; "Na agenda" conta as m
 > | Sexta, 30/10/2026 | 11:30 | *Time-Domain Astronomy at Scale: A Machine-Learning Framework for Be Star Census in the LSST era* | Clara Amorim Navarro |
 > | Sexta, 30/10/2026 | 14:00 | *Abundance analysis of weak lines in APOGEE DR19 spectra* | Anderson da Silva Andrade |
 
-## Programação assistida
-
-O que eu assisti de fato e o que tirei de cada uma.
-
-| Data | Atividade | Palestrante | Aprendizado |
-| :--- | :--- | :--- | :--- |
-| | | | |
-
 ## Anotações
-
-Registro do que vi em cada dia do congresso. Um parágrafo é sempre uma linha só. Datas no corpo em DD/MM/YYYY.
-
-> [!tip] Modelos de anotação
-> Os modelos para copiar e colar (plenária, conferência, sessão paralela, pôster, meu pôster e contato) ficam em Modelos de anotação do SAB 2026.
 
 ### Registro por dia
 
@@ -374,11 +370,11 @@ Registro do que vi em cada dia do congresso. Um parágrafo é sempre uma linha s
 ![[resource/meta/site-static/banners/bannersab26-base-v3.pdf]]
 
 > [!tip] Pesquisa completa
-> Todos os gráficos do banner, o pôster do SAB 2025 em detalhe, a história do projeto e os trabalhos futuros estão na nota da pesquisa: [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)]]. Para mexer no mapa, use o [painel interativo](https://anomaly.phrandrade.com).
+> Todos os gráficos do banner, o pôster do SAB 2025 em detalhe, a história do projeto e os trabalhos futuros estão na nota da pesquisa: [[pt-br/research/deteccao-de-anomalias-iff-2025/index|Detecção de Anomalias Espectrais em Estrelas da Vizinhança Solar]]. Para mexer no mapa, use o [painel interativo](https://anomaly.phrandrade.com).
 
 ### Resultados em destaque
 
-O SAB 2025 descreveu a vizinhança solar só pelos números do catálogo. O SAB 2026 pergunta o que o espectro inteiro acrescenta, e estes são os resultados, os mesmos da seção "SAB 2026: a continuação" da [[pt-br/research/deteccao-de-anomalias-iff-2025|nota da pesquisa]].
+O SAB 2025 descreveu a vizinhança solar só pelos números do catálogo. O SAB 2026 pergunta o que o espectro inteiro acrescenta, e estes são os resultados, os mesmos da seção "SAB 2026: a continuação" da [[pt-br/research/deteccao-de-anomalias-iff-2025/index|nota da pesquisa]].
 
 - **Amostra:** 6.198 estrelas do GCNS x GALAH DR4. Entram no mapa 5.304; as outras 894 não têm o espectro completo das quatro câmeras e nunca são preenchidas.
 - **Ordem por temperatura:** aparece no t-SNE e no UMAP sem rótulos, em todas as configurações testadas.
@@ -390,10 +386,10 @@ O SAB 2025 descreveu a vizinhança solar só pelos números do catálogo. O SAB 
 ## Opinião
 
 > [!note] Reflexão
-> Preencher após o evento.
+> Legal (brincadeira, ainda to escrevendo)!
 
 ## Referências e correlatos
 
 - Fonte: [Programação oficial da RASAB 2026](https://rasab2026.sab-astro.org.br/programacao/) e [site da SAB](https://sab-astro.org.br/)
-- [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)]]: pesquisa completa por trás do pôster
+- [[pt-br/research/deteccao-de-anomalias-iff-2025/index|Detecção de Anomalias Espectrais em Estrelas da Vizinhança Solar]]: pesquisa completa por trás do pôster
 - [[pt-br/media/2025/sab|SAB 2025]]: edição anterior

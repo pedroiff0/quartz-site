@@ -32,13 +32,13 @@ resource-sync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(17 de 20)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(17 de 19)</span>
 
 </div>
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/sab/anotacoes|Anotações Gerais →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/sab/index|XLIX RASAB →]]</span>
 
 </div>
 
@@ -75,5 +75,5 @@ _(seção opcional — apague esta seção inteira se o evento não teve program
 
 ## Referências e correlatos
 
-- [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias em Dados do Gaia]] — pesquisa completa por trás do pôster
+- [[pt-br/research/deteccao-de-anomalias-iff-2025/index|Detecção de Anomalias em Dados do Gaia]] — pesquisa completa por trás do pôster
 - [[pt-br/media/2025/sab|SAB 2025]] — versão anterior do mesmo pôster

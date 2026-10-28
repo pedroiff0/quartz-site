@@ -32,7 +32,7 @@ resource-sync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(13 de 20)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(13 de 19)</span>
 
 </div>
 

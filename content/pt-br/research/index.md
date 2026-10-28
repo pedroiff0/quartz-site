@@ -30,7 +30,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/research/deteccao-de-anomalias-iff-2025|← Detecção de Anomalias Espectrais em Est…]]</span>
+<span class="academic-nav-btn">[[pt-br/research/deteccao-de-anomalias-iff-2025/index|← Detecção de Anomalias Espectrais em Est…]]</span>
 
 </div>
 
@@ -60,7 +60,7 @@ Repositório de projetos de iniciação científica, bolsas de pesquisa, astrof�
 
 ## Linhas de Pesquisa Ativas & Históricas
 
-- [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias em Estrelas (GALAH DR4)]] — Projeto principal de iniciação científica.
+- [[pt-br/research/deteccao-de-anomalias-iff-2025/index|Detecção de Anomalias em Estrelas (GALAH DR4)]] — Projeto principal de iniciação científica.
 - Journal Club — MWBR — Milky Way Bulge Run e simulações N-corpos.
 - Domo IFF 2026 — Planetário e divulgação científica.
 - ReLaTeX Classe IFF 2026 — Padronização de modelos ABNT.

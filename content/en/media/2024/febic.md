@@ -21,7 +21,7 @@ resource-sync: false
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2024</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Febic En</span>
+<span>[[pt-br/media/index|Media]]</span> <span class="academic-nav-sep">/</span> <span>2024</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">IX FEBIC</span>
 
 </div>
 
@@ -29,7 +29,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn is-disabled">← Início</span>
+<span class="academic-nav-btn is-disabled">←</span>
 
 </div>
 
@@ -41,7 +41,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn is-disabled">Fim →</span>
+<span class="academic-nav-btn is-disabled">→</span>
 
 </div>
 

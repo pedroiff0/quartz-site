@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)
+title: Detecção de Anomalias Espectrais em Estrelas da Vizinhança Solar
 created: 2026-09-19T13:18:29-03:00
-modified: 2026-10-27T12:32:51-03:00
+modified: 2026-10-28T08:08:30-03:00
 tags:
   - pesquisa
   - academico
@@ -17,7 +17,7 @@ resource-sync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/research/index|Pesquisas]]</span> <span class="academic-nav-sep">/</span> <span>Deteccao De Anomalias Iff 2025</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)</span>
+<span>[[pt-br/research/index|Pesquisas]]</span> <span class="academic-nav-sep">/</span> <span>Deteccao De Anomalias Iff 2025</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Detecção de Anomalias Espectrais em Estrelas da Vizinhança Solar</span>
 
 </div>
 
@@ -48,7 +48,7 @@ resource-sync: true
 # Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)
 
 > [!abstract] Ficha da Pesquisa
-> - **Projeto:** procurar estrelas diferentes das outras olhando o espectro de cada uma, com dados do GALAH DR4 e do Gaia
+> - **Projeto:** procurar estrelas diferentes das outras olhando o espectro de cada uma, com dados do GALAH DR4 e do Gaia Nearby Stars Catalogue
 > - **Equipe:** Pedro Henrique Rocha de Andrade, [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com) e [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)
 > - **Instituição:** Instituto Federal Fluminense (IFF) e Pontificia Universidad Católica de Chile, com apoio do CNPq
 > - **Status:** em andamento
@@ -59,11 +59,13 @@ resource-sync: true
 
 O espectro de uma estrela é a luz dela separada em cores, como um arco-íris cheio de linhas escuras e claras. Cada estrela tem o seu, e ele diz do que ela é feita, quão quente ela é e se tem alguma coisa estranha acontecendo. A pesquisa usa métodos de aprendizado de máquina que não recebem nenhuma resposta pronta: eles só olham os espectros e agrupam os parecidos. A pergunta é o que aparece quando a gente deixa os próprios espectros se organizarem, e quais estrelas ficam fora do padrão.
 
+Vale ressaltar que executo essa pesquisa estando em um curso de bacharelado em engenharia de computação, em um campus do interior, no instituto federal fluminense!
+
 ---
 
 ## A história até aqui
 
-Essa pesquisa tem uma história de dois congressos. No SAB 2025 eu mostrei o que os números do catálogo dizem sobre as estrelas perto do Sol. No SAB 2026 eu volto com uma pergunta maior: e se a gente olhar o espectro inteiro de cada estrela, o que aparece que esses números não mostram? Entre um congresso e outro, o projeto parou, voltou, mudou de método e ganhou um painel na web.
+Essa pesquisa tem uma história de dois congressos. Na RASAB 2025 eu mostrei o que os números do catálogo dizem sobre as estrelas perto do Sol. Na RASAB 2026 eu volto com uma pergunta maior: e se a gente olhar o espectro inteiro de cada estrela, o que aparece que esses números não mostram? Entre um congresso e outro, o projeto parou, voltou, mudou de método e ganhou um painel na web.
 
 | Fase | Quando | O que aconteceu |
 | :--- | :--- | :--- |
@@ -78,7 +80,7 @@ Essa pesquisa tem uma história de dois congressos. No SAB 2025 eu mostrei o que
 
 Tudo começou com uma pergunta simples: quão variadas são as estrelas que estão a até 100 parsecs do Sol (cerca de 326 anos-luz)? Para responder, eu cruzei dois catálogos. O Gaia Catalogue of Nearby Stars (GCNS) diz quais são as estrelas mais próximas, e o GALAH DR4 diz como elas são por dentro. Sobraram 6.198 estrelas que aparecem nos dois. Nessa fase eu usei só o que já vem pronto no catálogo, como temperatura, gravidade na superfície, quantidade de metais, idade e velocidade, sem abrir nenhum espectro.
 
-Foi um período de trabalho pesado: medir a composição química, as idades e a metalicidade, montar os diagramas que separam as estrelas por tipo e por movimento, escrever um artigo em LaTeX e fechar o banner que levei ao SAB 2025, em Caxambu. Logo depois ainda fiz a fotometria do Gaia, que mostra o brilho e a cor de cada estrela, e organizei o repositório do projeto.
+Foi um período de trabalho pesado: visualizar a composição química, as idades e a metalicidade, montar os diagramas que separam as estrelas por tipo e por movimento, e fechar o banner que levei ao SAB 2025, em Caxambu. Logo depois ainda fiz a fotometria do Gaia, que mostra o brilho e a cor de cada estrela;
 
 ### O meio: dos números ao espectro
 
@@ -94,11 +96,11 @@ Agora o trabalho está no SAB 2026, em Natal, com um banner novo e um painel na 
 
 ## SAB 2025: o pôster em detalhe
 
-O SAB 2025 foi em Caxambu (MG) e foi a minha primeira participação em um congresso nacional. A nota do evento está em [[pt-br/media/2025/sab|SAB 2025]]. O pôster se chama *Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4* e foi feito com a [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com) e a [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja). O banner completo está em [[resource/meta/banners/bannersab25.pdf|bannersab25.pdf]].
+A RASAB 2025 foi em Caxambu (MG) e foi a minha primeira participação em um congresso nacional. A nota do evento está em [[pt-br/media/2025/sab|SAB 2025]]. O pôster se chama *Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4* e foi feito com a [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com) e a [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja). O banner completo está em [[resource/meta/banners/bannersab25.pdf|Banner SAB25.pdf]].
 
 A ideia do pôster era descrever a vizinhança do Sol só com os números do catálogo. As figuras abaixo estão na ordem em que eu as usaria para explicar.
 
-**Metais.** Para a astronomia, "metal" é qualquer elemento mais pesado que o hélio. O histograma mostra quanto ferro as estrelas têm em comparação com o Sol ([Fe/H]). A mediana fica em -0,19, ou seja, as estrelas por aqui têm um pouco menos metal que o Sol, e a cauda para a esquerda mostra as estrelas mais antigas e mais pobres.
+**Metais.** O histograma mostra quanto ferro as estrelas têm em comparação com o Sol ([Fe/H]). A mediana fica em -0,19, ou seja, as estrelas por aqui têm um pouco menos metal que o Sol.
 
 ![[resource/areas/academico/pesquisas/deteccao-de-anomalias-iff-2025/arquivos/sab25-fig2-feh.png|560]]
 
@@ -130,7 +132,7 @@ O resultado em poucas linhas: cerca de 6.000 estrelas, a maioria parecida com o 
 
 ## SAB 2026: a continuação
 
-O SAB 2026 é em Natal (RN). A nota do evento está em [[pt-br/media/2026/sab/index|SAB 2026]]. O trabalho se chama *How varied are stellar populations in the Solar vicinity? Exploring GCNS and GALAH DR4 with t-SNE* e é feito com a [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com) e a [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja). Os banners estão em [[resource/meta/banners/bannersab26-mapa-mental.pdf|versão mapa mental]] e [[resource/meta/banners/bannersab26-base-v3.pdf|versão base]].
+A RASAB 2026 é em Natal (RN). A nota do evento está em [[pt-br/media/2026/sab/index|SAB 2026]]. O trabalho se chama *How varied are stellar populations in the Solar vicinity? Exploring GCNS and GALAH DR4 with t-SNE* e é feito com a [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com) e a [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja). Os banners estão em [[resource/meta/banners/bannersab26-mapa-mental.pdf|versão mapa mental]] e [[resource/meta/banners/bannersab26-base-v3.pdf|versão base]].
 
 As estrelas são as mesmas 6.198, mas agora eu olho o espectro inteiro de cada uma, ponto por ponto: são 14.245 pontos por estrela, vindos das quatro câmeras do instrumento, uma para cada faixa de cor. Eu uso o espectro do jeito que ele vem, sem ajustes. Entram no mapa 5.304 estrelas. As outras 894 ficam de fora porque falta o pedaço de alguma das câmeras, e eu nunca invento o que falta. No banner de mapa mental, o mapa fica no centro e cada painel ao redor é uma pergunta sobre ele.
 

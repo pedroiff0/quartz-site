@@ -24,7 +24,7 @@ resource-sync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/about-me/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Sobre Mim Hub En</span>
+<span>[[pt-br/about-me/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">About Me</span>
 
 </div>
 
@@ -32,7 +32,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn is-disabled">← Início</span>
+<span class="academic-nav-btn is-disabled">← Start</span>
 
 </div>
 
@@ -44,7 +44,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn is-disabled">Fim →</span>
+<span class="academic-nav-btn is-disabled">End →</span>
 
 </div>
 
@@ -75,10 +75,10 @@ resource-sync: true
     <img src="/static/illustrations/classes.svg" alt="Computer Engineering" />
     <div class="slide-caption">Computer Engineering</div>
   </a>
-  <span class="carousel-slide">
+  <a href="/pt-br/projects/" class="carousel-slide">
     <img src="/static/illustrations/projects.svg" alt="Projects" />
     <div class="slide-caption">Projects</div>
-  </span>
+  </a>
   <a href="/pt-br/media/" class="carousel-slide">
     <img src="/static/illustrations/lncc.svg" alt="Media & Events" />
     <div class="slide-caption">Media & Events</div>

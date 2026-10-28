@@ -41,10 +41,10 @@ resource-sync: true
     <img src="/static/illustrations/classes.svg" alt="Engenharia de Computação" />
     <div class="slide-caption">Engenharia de Computação</div>
   </a>
-  <span class="carousel-slide">
+  <a href="/pt-br/projects/" class="carousel-slide">
     <img src="/static/illustrations/projects.svg" alt="Projetos" />
     <div class="slide-caption">Projetos</div>
-  </span>
+  </a>
   <a href="/pt-br/media/" class="carousel-slide">
     <img src="/static/illustrations/lncc.svg" alt="Mídia & Eventos" />
     <div class="slide-caption">Mídia & Eventos</div>

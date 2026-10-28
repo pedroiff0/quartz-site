@@ -32,7 +32,7 @@ resource-sync: true
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(14 de 20)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(14 de 19)</span>
 
 </div>
 
@@ -70,5 +70,5 @@ Apresentei o meu trabalho de pesquisa em uma sessão de apresentação oral, e a
 
 ## Referências e correlatos
 
-- [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias em Dados do Gaia]] — pesquisa completa por trás do pôster
+- [[pt-br/research/deteccao-de-anomalias-iff-2025/index|Detecção de Anomalias em Dados do Gaia]] — pesquisa completa por trás do pôster
 - [[pt-br/media/2025/sab|SAB 2025]] — versão anterior do mesmo pôster

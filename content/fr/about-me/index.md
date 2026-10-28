@@ -24,7 +24,7 @@ resource-sync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/about-me/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Sobre Mim Hub Fr</span>
+<span>[[pt-br/about-me/index|Sobre Mim]]</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">À propos de moi</span>
 
 </div>
 

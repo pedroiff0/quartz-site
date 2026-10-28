@@ -43,7 +43,7 @@ Central de gestão acadêmica, graduação em Engenharia de Computação (IFF), 
 
 ### 3. Pesquisas & Astronomia
 - Biblioteca de Artigos & Papers
-- [[pt-br/research/deteccao-de-anomalias-iff-2025|Detecção de Anomalias (GALAH DR4)]]
+- [[pt-br/research/deteccao-de-anomalias-iff-2025/index|Detecção de Anomalias (GALAH DR4)]]
 - Journal Club — MWBR
 
 ### 4. Computação & Cursos

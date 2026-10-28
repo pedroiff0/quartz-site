@@ -31,7 +31,7 @@ resource-sync: false
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(4 de 20)</span>
+<span class="academic-nav-btn">[[pt-br/media/index|Hub]]</span> <span class="academic-nav-counter">(4 de 19)</span>
 
 </div>
 
