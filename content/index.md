@@ -1,7 +1,7 @@
 ---
 title: Pedro H. R. de Andrade
 created: 2026-07-18T14:16:01.130-03:00
-modified: 2026-10-27T12:23:41-03:00
+modified: 2026-10-28T09:40:43-03:00
 published: 2026-07-26T10:01:47.627-03:00
 publish: true
 sitesync: true
@@ -13,21 +13,23 @@ tags:
 ---
 
 <style>
-body:has(.home-hero) .page-header :is(.article-title, .content-meta, .tags) { display: none; }
+body:has(.home-hero) .page-header :is(.article-title, .content-meta, .tags), body:has(.home-hero) .created-date { display: none; }
 .home-hero { margin: 0.4rem auto 1.6rem; max-width: 720px; padding: 1.1rem 1.2rem; border: 1px solid var(--lightgray); border-radius: 18px; background: linear-gradient(135deg, rgba(56, 189, 248, 0.12), rgba(15, 23, 42, 0.03)); box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06); }
 .home-hero p { margin: 0; text-align: left; }
+body:has(.home-hero) article h1 { margin: 0.2rem 0 0.3rem; }
 .home-hero .hh-kicker { font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--gray); }
 .home-hero .hh-head { margin-top: 0.3rem; font-weight: 700; font-size: 1.3rem; line-height: 1.25; color: var(--dark); }
 .home-hero .hh-sub { margin-bottom: 0.9rem; font-size: 0.95rem; color: var(--gray); }
 .home-hero .hh-list { display: grid; gap: 0.6rem; }
 .home-hero .hh-row { display: flex; gap: 0.5rem; align-items: stretch; }
 .home-hero .hh-main { flex: 1; display: flex; flex-direction: column; justify-content: center; min-height: 3.6rem; padding: 0.7rem 1rem; border: 1px solid var(--lightgray); border-radius: 14px; background: var(--light); color: var(--dark); font-weight: 600; font-size: 1rem; line-height: 1.25; text-decoration: none; }
+.home-hero .hh-main svg { display: none; }
 .home-hero .hh-main small { font-weight: 400; font-size: 0.82rem; color: var(--gray); }
 .home-hero .hh-main.is-primary { border-color: var(--secondary); }
 .home-hero .hh-en { flex: 0 0 3.4rem; display: flex; align-items: center; justify-content: center; border: 1px solid var(--lightgray); border-radius: 14px; background: var(--light); color: var(--secondary); font-weight: 700; font-size: 0.85rem; text-decoration: none; }
 .home-hero .hh-main:hover, .home-hero .hh-en:hover { border-color: var(--secondary); }
 .home-hero .hh-note { margin-top: 0.9rem; font-size: 0.82rem; line-height: 1.45; color: var(--gray); }
-@media (max-width: 768px) { .home-hero { margin-top: 0; padding: 1rem; border-radius: 16px; } .home-hero .hh-head { font-size: 1.15rem; } .astronomy-qrcode-card { display: none; } }
+@media (max-width: 768px) { .home-hero { margin-top: 0; padding: 1rem; border-radius: 16px; } .home-hero .hh-head { font-size: 1.15rem; } .astronomy-qrcode-card { display: none; } .lang-carousel { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem; margin: 1rem 0; } .lang-slide { max-width: none; padding: 0.7rem 0.5rem; } .lang-slide img { max-width: 64px; } .lang-slide-note { display: none; } }
 </style>
 <div class="home-hero">
   <p class="hh-kicker">SAB 2026 · Natal, RN · 25/10/2026 a 30/10/2026</p>
