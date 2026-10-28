@@ -49,6 +49,9 @@ resource-sync: true
 
 # Reunião Anual da SAB 2026
 
+> [!warning] Em construção
+> Esta página está em construção e sujeita a mudanças.
+
 > [!abstract] Resumo
 > XLIX Reunião Anual da Sociedade Astronômica Brasileira (RASAB 2026), em Natal - RN, de 25/10/2026 a 30/10/2026. Levo o banner que continua o trabalho do SAB 2025: no ano passado eu olhei só os números do catálogo; agora pergunto o que o espectro inteiro de cada estrela mostra.
 

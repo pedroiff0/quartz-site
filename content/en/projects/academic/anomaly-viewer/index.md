@@ -54,6 +54,9 @@ translation-of: "[[pt-br/projects/academic/anomaly-viewer/index]]"
 
 # Interactive Anomaly Detection Panel (Anomaly Viewer)
 
+> [!warning] Under construction
+> This page is under construction and subject to change.
+
 > [!abstract] Summary
 > A web panel to explore the maps of stellar spectra from the research [[en/research/deteccao-de-anomalias-iff-2025/index|Spectral Anomaly Detection in Stars (GALAH DR4)]]. It is a Python (Streamlit) application running on a server of mine, at [anomaly.phrandrade.com](https://anomaly.phrandrade.com), and it was built for SAB 2026: anyone looking at the poster can open the QR code and play with the same maps.
 

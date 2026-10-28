@@ -48,6 +48,9 @@ resource-sync: false
 
 # SAB
 
+> [!warning] Em construção
+> Esta página está em construção e sujeita a mudanças.
+
 > [!note] Resumo
 > Reunião Anual da Sociedade Astronômica Brasileira, em Caxambu (MG) — apresentei "Women in the Skies" (oral) e o pôster sobre detecção de anomalias em dados do Gaia/GALAH DR4.
 

@@ -51,6 +51,9 @@ resource-sync: false
 
 # Painel interativo de Detecção de Anomalias (Anomaly Viewer)
 
+> [!warning] Em construção
+> Esta página está em construção e sujeita a mudanças.
+
 > [!abstract] Resumo
 > Um painel na web para explorar os mapas de espectros de estrelas da pesquisa [[pt-br/research/deteccao-de-anomalias-iff-2025/index|Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)]]. É um aplicativo em Python (Streamlit) que roda num servidor meu, em [anomaly.phrandrade.com](https://anomaly.phrandrade.com), e foi feito para o SAB 2026: quem vê o banner pode abrir o QR code e mexer nos mesmos mapas.
 

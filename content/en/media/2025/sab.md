@@ -51,6 +51,9 @@ resource-sync: false
 
 # SAB
 
+> [!warning] Under construction
+> This page is under construction and subject to change.
+
 > [!note] Summary
 > Annual Meeting of the Brazilian Astronomical Society, in Caxambu (MG) — I presented "Women in the Skies" (oral) and the poster on anomaly detection in Gaia/GALAH DR4 data.
 

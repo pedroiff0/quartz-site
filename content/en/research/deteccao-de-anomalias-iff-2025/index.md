@@ -50,6 +50,9 @@ translation-of: "[[pt-br/research/deteccao-de-anomalias-iff-2025/index]]"
 
 # Spectral Anomaly Detection in Stars (GALAH DR4)
 
+> [!warning] Under construction
+> This page is under construction and subject to change.
+
 > [!abstract] Research Fact Sheet
 > - **Project:** look for stars that differ from the others by examining the spectrum of each one, using data from GALAH DR4 and the Gaia Catalogue of Nearby Stars
 > - **Team:** Pedro Henrique Rocha de Andrade, [Dr. Maria Luiza Linhares Dantas](https://www.mlldantas.com) and [Dr. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)

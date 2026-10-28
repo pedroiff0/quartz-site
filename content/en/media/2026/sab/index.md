@@ -52,6 +52,9 @@ translation-of: "[[pt-br/media/2026/sab/index]]"
 
 # SAB 2026 Annual Meeting
 
+> [!warning] Under construction
+> This page is under construction and subject to change.
+
 > [!abstract] Summary
 > XLIX Annual Meeting of the Brazilian Astronomical Society (RASAB 2026), in Natal - RN, from 25/10/2026 to 30/10/2026. I bring the poster that continues the SAB 2025 work: last year I looked only at the catalogue numbers; now I ask what the whole spectrum of each star shows.
 

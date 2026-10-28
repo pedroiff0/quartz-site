@@ -47,6 +47,9 @@ resource-sync: true
 
 # Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)
 
+> [!warning] Em construção
+> Esta página está em construção e sujeita a mudanças.
+
 > [!abstract] Ficha da Pesquisa
 > - **Projeto:** procurar estrelas diferentes das outras olhando o espectro de cada uma, com dados do GALAH DR4 e do Gaia Nearby Stars Catalogue
 > - **Equipe:** Pedro Henrique Rocha de Andrade, [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com) e [Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)
