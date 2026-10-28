@@ -15,7 +15,7 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg, fileData }: Quartz
   return (
     <div class={classNames(displayClass, "nav-lang")} role="group" aria-label="Idioma / Language">
       <a href={`${basePath}/pt-br/about-me/`} class={active("pt-br")} aria-current={active("pt-br") ? "true" : undefined} title="Português (Brasil)" data-lang="pt-br" data-router-ignore onclick="event.preventDefault(); window.goLang('pt-br')"><img class="nav-lang-flag" src={`${basePath}/static/flags/flag-br.svg`} alt="Português (Brasil)" width="24" height="16" loading="lazy" /><span class="nav-lang-label">PT-BR</span></a>
-      <a href={`${basePath}/en/`} class={active("en")} aria-current={active("en") ? "true" : undefined} title="English" data-lang="en" data-router-ignore onclick="event.preventDefault(); window.goLang('en')"><img class="nav-lang-flag" src={`${basePath}/static/flags/flag-us.svg`} alt="English" width="24" height="16" loading="lazy" /><span class="nav-lang-label">EN</span></a>
+      <a href={`${basePath}/en/about-me/`} class={active("en")} aria-current={active("en") ? "true" : undefined} title="English" data-lang="en" data-router-ignore onclick="event.preventDefault(); window.goLang('en')"><img class="nav-lang-flag" src={`${basePath}/static/flags/flag-us.svg`} alt="English" width="24" height="16" loading="lazy" /><span class="nav-lang-label">EN</span></a>
 
       <script dangerouslySetInnerHTML={{
         __html: `
@@ -26,9 +26,9 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg, fileData }: Quartz
               const dest = window.translatePath(window.location.pathname, target);
               if (target === 'pt-br') { window.location.href = /\\/pt-br\\/$/.test(dest) ? dest + 'about-me/' : dest; return; }
               const root = dest.replace(/^(.*\\/(?:en|es|fr)\\/).*$/, '$1');
-              if (dest === root) { window.location.href = dest; return; }
+              if (dest === root) { window.location.href = dest + 'about-me/'; return; }
               const key = dest.replace(/^\\/|\\/$/g, '').toLowerCase();
-              (window.fetchData || Promise.resolve({})).then(function(idx) {
+              (typeof fetchData !== 'undefined' ? fetchData : Promise.resolve({})).then(function(idx) {
                 const found = idx[key] != null || idx[key + '/index'] != null;
                 window.location.href = found ? dest : root + 'about-me/?untranslated=1';
               }).catch(function() { window.location.href = root + 'about-me/?untranslated=1'; });
