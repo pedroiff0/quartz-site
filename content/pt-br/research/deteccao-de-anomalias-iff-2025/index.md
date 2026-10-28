@@ -2,7 +2,7 @@
 publish: true
 title: Detecção de Anomalias Espectrais em Estrelas da Vizinhança Solar
 created: 2026-09-19T13:18:29-03:00
-modified: 2026-10-28T08:08:30-03:00
+modified: 2026-10-28T09:32:20-03:00
 tags:
   - pesquisa
   - academico
