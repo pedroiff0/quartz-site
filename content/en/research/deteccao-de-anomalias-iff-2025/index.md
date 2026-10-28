@@ -2,7 +2,7 @@
 publish: true
 title: Spectral Anomaly Detection in Stars of the Solar Neighbourhood
 created: 2026-09-19T13:18:29-03:00
-modified: 2026-10-28T09:19:58-03:00
+modified: 2026-10-28T09:53:15-03:00
 tags:
   - pesquisa
   - academico
@@ -48,7 +48,7 @@ translation-of: "[[pt-br/research/deteccao-de-anomalias-iff-2025/index]]"
 
 </div>
 
-# Spectral Anomaly Detection in Stars (GALAH DR4)
+# Spectral Anomaly Detection in Stars of the Solar Neighbourhood
 
 > [!warning] Under construction
 > This page is under construction and subject to change.

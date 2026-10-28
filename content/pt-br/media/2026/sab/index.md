@@ -2,7 +2,7 @@
 publish: true
 title: XLIX RASAB
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-28T09:32:33-03:00
+modified: 2026-10-28T10:11:05-03:00
 tags:
   - midia
   - evento
@@ -89,6 +89,8 @@ resource-sync: true
 ### Quem passou pelo pôster
 
 Quer aparecer aqui? Deixe seu nome no [painel interativo](https://anomaly.phrandrade.com), na aba Visão geral, no fim da página. Os nomes são adicionados automaticamente.
+
+<div class="vis-box"><style>.vis-box{margin:.4rem 0 1rem}.vis-box .vis-n{margin:0 0 .6rem;font-size:.85rem;color:var(--gray)}.vis-box ul.vis-chips{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.45rem}.vis-box ul.vis-chips li{margin:0;padding:.35rem .8rem;border:1px solid var(--lightgray);border-radius:999px;background:var(--light);line-height:1.25}.vis-box ul.vis-chips li::before{content:none}.vis-box ul.vis-chips b{font-weight:600;color:var(--dark)}.vis-box ul.vis-chips small{margin-left:.4rem;color:var(--gray);font-size:.8rem}</style><p class="vis-n">1 pessoa</p><ul class="vis-chips"><li><b>pedro</b></li></ul></div>
 
 %% visitantes:fim %%
 

@@ -1,7 +1,7 @@
 ---
 title: Pedro H. R. de Andrade
 created: 2026-07-18T14:16:01.130-03:00
-modified: 2026-10-28T09:40:43-03:00
+modified: 2026-10-28T10:03:52-03:00
 published: 2026-07-26T10:01:47.627-03:00
 publish: true
 sitesync: true
@@ -21,13 +21,18 @@ body:has(.home-hero) article h1 { margin: 0.2rem 0 0.3rem; }
 .home-hero .hh-head { margin-top: 0.3rem; font-weight: 700; font-size: 1.3rem; line-height: 1.25; color: var(--dark); }
 .home-hero .hh-sub { margin-bottom: 0.9rem; font-size: 0.95rem; color: var(--gray); }
 .home-hero .hh-list { display: grid; gap: 0.6rem; }
-.home-hero .hh-row { display: flex; gap: 0.5rem; align-items: stretch; }
-.home-hero .hh-main { flex: 1; display: flex; flex-direction: column; justify-content: center; min-height: 3.6rem; padding: 0.7rem 1rem; border: 1px solid var(--lightgray); border-radius: 14px; background: var(--light); color: var(--dark); font-weight: 600; font-size: 1rem; line-height: 1.25; text-decoration: none; }
+.home-hero .hh-row { display: flex; flex-direction: column; gap: 0.55rem; padding: 0.75rem 1rem; border: 1px solid var(--lightgray); border-radius: 14px; background: var(--light); }
+.home-hero .hh-row.is-primary { border-color: var(--secondary); }
+.home-hero .hh-row:hover { border-color: var(--secondary); }
+.home-hero .hh-main, .home-hero .hh-lang a { background: none !important; }
+.home-hero .hh-main { display: flex; flex-direction: column; color: var(--dark); font-weight: 600; font-size: 1rem; line-height: 1.25; text-decoration: none; }
 .home-hero .hh-main svg { display: none; }
-.home-hero .hh-main small { font-weight: 400; font-size: 0.82rem; color: var(--gray); }
-.home-hero .hh-main.is-primary { border-color: var(--secondary); }
-.home-hero .hh-en { flex: 0 0 3.4rem; display: flex; align-items: center; justify-content: center; border: 1px solid var(--lightgray); border-radius: 14px; background: var(--light); color: var(--secondary); font-weight: 700; font-size: 0.85rem; text-decoration: none; }
-.home-hero .hh-main:hover, .home-hero .hh-en:hover { border-color: var(--secondary); }
+.home-hero .hh-main small { margin-top: 0.15rem; font-weight: 400; font-size: 0.82rem; color: var(--gray); }
+.home-hero .hh-lang { align-self: flex-start; display: inline-flex; border: 1px solid var(--lightgray); border-radius: 999px; overflow: hidden; font-size: 0.78rem; font-weight: 600; line-height: 1; }
+.home-hero .hh-lang a { padding: 0.4rem 0.8rem; color: var(--gray); text-decoration: none; }
+.home-hero .hh-lang a + a { border-left: 1px solid var(--lightgray); }
+.home-hero .hh-lang a:hover { color: var(--secondary); }
+.home-hero .hh-lang a.is-active { background: var(--secondary) !important; color: var(--light); }
 .home-hero .hh-note { margin-top: 0.9rem; font-size: 0.82rem; line-height: 1.45; color: var(--gray); }
 @media (max-width: 768px) { .home-hero { margin-top: 0; padding: 1rem; border-radius: 16px; } .home-hero .hh-head { font-size: 1.15rem; } .astronomy-qrcode-card { display: none; } .lang-carousel { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem; margin: 1rem 0; } .lang-slide { max-width: none; padding: 0.7rem 0.5rem; } .lang-slide img { max-width: 64px; } .lang-slide-note { display: none; } }
 </style>
@@ -36,8 +41,8 @@ body:has(.home-hero) article h1 { margin: 0.2rem 0 0.3rem; }
   <p class="hh-head">Veio pelo QR code do banner? Comece por aqui.</p>
   <p class="hh-sub">Came from the poster QR code? Start here.</p>
   <div class="hh-list">
-    <div class="hh-row"><a class="hh-main is-primary" href="/pt-br/media/2026/sab/">SAB 2026: o evento e o que apresentei<small>The event and my poster</small></a><a class="hh-en" href="/en/media/2026/sab/" hreflang="en">EN</a></div>
-    <div class="hh-row"><a class="hh-main" href="/pt-br/research/deteccao-de-anomalias-iff-2025">Pesquisa: detecção de anomalias, 2025 a 2026<small>The research behind the poster</small></a><a class="hh-en" href="/en/research/deteccao-de-anomalias-iff-2025" hreflang="en">EN</a></div>
+    <div class="hh-row is-primary"><a class="hh-main" href="/pt-br/media/2026/sab/">SAB 2026: o evento e o que apresentei<small>The event and my poster</small></a><span class="hh-lang"><a class="is-active" href="/pt-br/media/2026/sab/" hreflang="pt-BR">PT-BR</a><a href="/en/media/2026/sab/" hreflang="en">EN</a></span></div>
+    <div class="hh-row"><a class="hh-main" href="/pt-br/research/deteccao-de-anomalias-iff-2025">Pesquisa: detecção de anomalias, 2025 a 2026<small>The research behind the poster</small></a><span class="hh-lang"><a class="is-active" href="/pt-br/research/deteccao-de-anomalias-iff-2025" hreflang="pt-BR">PT-BR</a><a href="/en/research/deteccao-de-anomalias-iff-2025" hreflang="en">EN</a></span></div>
     <div class="hh-row"><a class="hh-main" href="https://anomaly.phrandrade.com">Painel interativo do mapa t-SNE<small>Interactive t-SNE map (PT/EN)</small></a></div>
   </div>
   <p class="hh-note">No painel você pode deixar seu nome na lista de quem passou pelo pôster. Como ele foi feito: <a href="/pt-br/projects/academic/anomaly-viewer">leia aqui</a>.<br />In the panel you can leave your name on the poster visitors list. How it was built: <a href="/en/projects/academic/anomaly-viewer">read here</a>.</p>

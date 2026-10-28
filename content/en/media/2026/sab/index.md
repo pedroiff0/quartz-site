@@ -2,7 +2,7 @@
 publish: true
 title: XLIX RASAB
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-28T09:25:33-03:00
+modified: 2026-10-28T10:11:05-03:00
 tags:
   - midia
   - evento
@@ -83,8 +83,6 @@ translation-of: "[[pt-br/media/2026/sab/index]]"
 | Thursday, 29/10/2026, 15:35 to 16:30 |
 | Friday, 30/10/2026, 10:30 to 11:25 |
 
-%% put an automatic script here, if the person wants to fill in that they came and leave their name showing here? like a form that the person fills in and sends, but with no backend %%
-
 > [!note] My participation
 > To fill in during and after the event: who stopped by the poster, questions received, contacts made and invitations.
 
@@ -93,6 +91,8 @@ translation-of: "[[pt-br/media/2026/sab/index]]"
 ### Who stopped by the poster
 
 Want to appear here? Leave your name in the [interactive panel](https://anomaly.phrandrade.com), on the Overview tab, at the bottom of the page. Names are added automatically.
+
+<div class="vis-box"><style>.vis-box{margin:.4rem 0 1rem}.vis-box .vis-n{margin:0 0 .6rem;font-size:.85rem;color:var(--gray)}.vis-box ul.vis-chips{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.45rem}.vis-box ul.vis-chips li{margin:0;padding:.35rem .8rem;border:1px solid var(--lightgray);border-radius:999px;background:var(--light);line-height:1.25}.vis-box ul.vis-chips li::before{content:none}.vis-box ul.vis-chips b{font-weight:600;color:var(--dark)}.vis-box ul.vis-chips small{margin-left:.4rem;color:var(--gray);font-size:.8rem}</style><p class="vis-n">1 person</p><ul class="vis-chips"><li><b>pedro</b></li></ul></div>
 
 %% visitantes:fim %%
 
