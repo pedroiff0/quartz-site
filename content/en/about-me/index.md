@@ -62,7 +62,7 @@ resource-sync: true
 > This is your starting page! Here you will find everything you need to know about my journey, research, and work. Read in the suggested order to have the best possible experience.
 
 > [!abstract] Also check out my portfolio
-> If you came from my **[projects portfolio](https://pedroiff0.github.io/webpage/)** (or just want a quick overview of everything I've built), it lists all my GitHub repositories — public and private — each with a *short brief*, plus my research grants and all contacts on a single page. This site is the full content (research, classes, media and blog).
+> If you came from my **[projects portfolio](https://portfolio.phrandrade.com/)** (or just want a quick overview of everything I've built), it lists all my GitHub repositories — public and private — each with a *short brief*, plus my research grants and all contacts on a single page. This site is the full content (research, classes, media and blog).
 
 ## Explore the content
 

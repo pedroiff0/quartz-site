@@ -97,9 +97,9 @@ Prefere links em texto? [[pt-br/about-me/index|Sobre Mim]] · [[en/about-me/inde
 
 > [!abstract]- Portfólio de projetos · Projects portfolio · Portafolio de proyectos · Portfolio de projets
 > Resumo rápido de tudo que construí no GitHub — repositórios, bolsas e contatos numa página só.
-> - Se veio do meu [portfólio de projetos](https://pedroiff0.github.io/webpage/), lá estão todos os meus repositórios com um *short brief* e os contatos reunidos.
-> - Came from my [projects portfolio](https://pedroiff0.github.io/webpage/)? It lists all my GitHub repos with a short brief and all contacts in one page.
-> - Si vienes de mi [portafolio de proyectos](https://pedroiff0.github.io/webpage/), allí están todos mis repos con un *short brief* y los contactos.
-> - Depuis mon [portfolio de projets](https://pedroiff0.github.io/webpage/)? Il liste tous mes dépôts avec un *short brief* et les contacts réunis.
+> - Se veio do meu [portfólio de projetos](https://portfolio.phrandrade.com/), lá estão todos os meus repositórios com um *short brief* e os contatos reunidos.
+> - Came from my [projects portfolio](https://portfolio.phrandrade.com/)? It lists all my GitHub repos with a short brief and all contacts in one page.
+> - Si vienes de mi [portafolio de proyectos](https://portfolio.phrandrade.com/), allí están todos mis repos con un *short brief* y los contactos.
+> - Depuis mon [portfolio de projets](https://portfolio.phrandrade.com/)? Il liste tous mes dépôts avec un *short brief* et les contacts réunis.
 
 ---

@@ -62,7 +62,7 @@ resource-sync: true
 > Esta es tu página de inicio. Aquí encontrarás todo lo que necesitas saber sobre mi trayectoria, mis investigaciones y mi trabajo. Lee en el orden sugerido para tener la mejor experiencia posible.
 
 > [!abstract] También conoce mi portafolio
-> Si llegaste desde mi **[portafolio de proyectos](https://pedroiff0.github.io/webpage/)** (o quieres una vista rápida de todo lo que he construido), allí están todos mis repositorios de GitHub —públicos y privados— con un *short brief* de cada uno, además de las becas de investigación y los contactos reunidos en una sola página. Este sitio es el contenido más completo (investigación, asignaturas, medios y blog).
+> Si llegaste desde mi **[portafolio de proyectos](https://portfolio.phrandrade.com/)** (o quieres una vista rápida de todo lo que he construido), allí están todos mis repositorios de GitHub —públicos y privados— con un *short brief* de cada uno, además de las becas de investigación y los contactos reunidos en una sola página. Este sitio es el contenido más completo (investigación, asignaturas, medios y blog).
 
 ## ¿Por dónde empezar?
 

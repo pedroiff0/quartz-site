@@ -28,7 +28,7 @@ resource-sync: true
 > Esta é sua página de partida! Aqui você encontra tudo que precisa saber para conhecer minha jornada, pesquisas e trabalhos. Leia na ordem sugerida para ter a melhor experiência possível. 
 
 > [!abstract] Conheça também o meu portfólio
-> Se você veio do meu **[portfólio de projetos](https://pedroiff0.github.io/webpage/)** (ou quer uma visão rápida de tudo que construí), lá estão todos os meus repositórios do GitHub — públicos e privados — com um *short brief* de cada um, além das bolsas de pesquisa e dos contatos reunidos numa página só. Este site aqui é o conteúdo mais completo (pesquisa, disciplinas, mídia e blog).
+> Se você veio do meu **[portfólio de projetos](https://portfolio.phrandrade.com/)** (ou quer uma visão rápida de tudo que construí), lá estão todos os meus repositórios do GitHub — públicos e privados — com um *short brief* de cada um, além das bolsas de pesquisa e dos contatos reunidos numa página só. Este site aqui é o conteúdo mais completo (pesquisa, disciplinas, mídia e blog).
 
 ## Explorar o conteúdo
 
