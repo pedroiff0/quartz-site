@@ -2,7 +2,7 @@
 publish: true
 title: Spectral Anomaly Detection in Stars of the Solar Neighbourhood
 created: 2026-09-19T13:18:29-03:00
-modified: 2026-10-28T09:53:15-03:00
+modified: 2026-10-28T09:53:17-03:00
 tags:
   - pesquisa
   - academico
