@@ -40,7 +40,6 @@ content/assets/documentos/Pedro/
 # Nao ignorar aqui: o glob do Quartz usa .gitignore e deixaria de emitir as imagens.
 content/resource/**/documentos/
 content/resource/**/curriculo/*
-!content/resource/areas/profissional/curriculo/portuguesecv.pdf
 !content/resource/areas/profissional/curriculo/cv-academico-*.pdf
 !content/resource/areas/profissional/curriculo/cv-profissional-*.pdf
 content/resource/areas/pessoal/
