@@ -26,7 +26,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2023/mostratec|← MOSTRATEC 2023]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2023/mostratec|← 37ª MOSTRATEC]]</span>
 
 </div>
 
@@ -38,7 +38,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2024/e-jiniff|e-JINIFF 2024 →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2024/e-jiniff|e-JINIFF →]]</span>
 
 </div>
 

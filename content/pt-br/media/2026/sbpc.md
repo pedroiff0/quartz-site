@@ -1,8 +1,8 @@
 ---
 publish: true
-title: SBPC
+title: 78ª SBPC
 created: 2026-07-18 13:34:00-03:00
-modified: 2026-10-16T09:56:07-03:00
+modified: 2026-11-03T10:36:04-03:00
 tags:
   - midia
 cssclasses:
@@ -18,7 +18,7 @@ resource-sync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">SBPC</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">78ª SBPC</span>
 
 </div>
 

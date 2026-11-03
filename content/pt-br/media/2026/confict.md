@@ -1,8 +1,8 @@
 ---
 publish: true
-title: CONFICT - 2026
+title: XVII CONFICT
 created: 2026-07-18 13:34:00-03:00
-modified: 2026-10-16T09:55:53-03:00
+modified: 2026-11-03T10:36:22-03:00
 tags:
   - midia
 cssclasses:
@@ -18,7 +18,7 @@ resource-sync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">CONFICT - 2026</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">XVII CONFICT</span>
 
 </div>
 
@@ -26,7 +26,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/conepe|← CONEPE]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/conepe|← XIII CONEPE]]</span>
 
 </div>
 
@@ -38,7 +38,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/escolainverno|Escola de Inverno ON - 2026 →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/escolainverno|Escola de Inverno ON →]]</span>
 
 </div>
 

@@ -1,8 +1,8 @@
 ---
 publish: true
-title: SAB 2025
+title: XLVIII SAB
 created: 2025-09-28 13:04:00-03:00
-modified: 2026-10-28T09:19:58-03:00
+modified: 2026-11-03T10:36:58-03:00
 tags:
   - midia
 cssclasses:
@@ -18,7 +18,7 @@ resource-sync: false
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2025</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">SAB 2025</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2025</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">XLVIII SAB</span>
 
 </div>
 
@@ -38,7 +38,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/conepe|CONEPE →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/conepe|XIII CONEPE →]]</span>
 
 </div>
 

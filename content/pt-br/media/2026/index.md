@@ -25,7 +25,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/escolainverno|← Escola de Inverno ON - 2026]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/escolainverno|← Escola de Inverno ON]]</span>
 
 </div>
 
@@ -37,7 +37,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/mostra-iff|Mostra do Conhecimento →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/mostra-iff|XIV Mostra do Conhecimento →]]</span>
 
 </div>
 

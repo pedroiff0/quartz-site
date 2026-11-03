@@ -1,8 +1,8 @@
 ---
 publish: true
-title: CONEPE
+title: XIII CONEPE
 created: 2026-07-18 13:34:00-03:00
-modified: 2026-10-16T09:55:43-03:00
+modified: 2026-11-03T10:36:32-03:00
 tags:
   - midia
 cssclasses:
@@ -18,7 +18,7 @@ resource-sync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">CONEPE</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">XIII CONEPE</span>
 
 </div>
 
@@ -26,7 +26,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2025/sab|← SAB 2025]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2025/sab|← XLVIII SAB]]</span>
 
 </div>
 
@@ -38,7 +38,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/confict|CONFICT - 2026 →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/confict|XVII CONFICT →]]</span>
 
 </div>
 

@@ -25,7 +25,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2025/mctia|← MCTIA 2025]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2025/mctia|← XVI MCTIA]]</span>
 
 </div>
 
@@ -37,7 +37,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2025/sab|SAB 2025 →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2025/sab|XLVIII SAB →]]</span>
 
 </div>
 

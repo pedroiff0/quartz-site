@@ -1,8 +1,8 @@
 ---
 publish: true
-title: e-JINIFF 2024
+title: e-JINIFF
 created: 2024-08-23 13:04:00-03:00
-modified: 2026-10-15T18:33:10-03:00
+modified: 2026-11-03T10:37:35-03:00
 tags:
   - midia
 cssclasses:
@@ -18,7 +18,7 @@ resource-sync: false
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2024</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">e-JINIFF 2024</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2024</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">e-JINIFF</span>
 
 </div>
 
@@ -38,7 +38,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2024/febic|IX FEBIC 2024 →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2024/febic|IX FEBIC →]]</span>
 
 </div>
 

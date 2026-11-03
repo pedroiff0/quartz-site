@@ -1,8 +1,8 @@
 ---
 publish: true
-title: MOSTRATEC 2023
+title: 37ª MOSTRATEC
 created: 2023-10-23 13:04:00-03:00
-modified: 2026-10-15T18:33:10-03:00
+modified: 2026-11-03T10:39:20-03:00
 tags:
   - midia
 cssclasses:
@@ -18,7 +18,7 @@ resource-sync: false
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2023</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">MOSTRATEC 2023</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2023</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">37ª MOSTRATEC</span>
 
 </div>
 

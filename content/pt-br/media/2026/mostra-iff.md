@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Mostra do Conhecimento
+title: XIV Mostra do Conhecimento
 created: 2026-07-18 13:34:00-03:00
-modified: 2026-10-26T17:33:11-03:00
+modified: 2026-11-03T10:35:10-03:00
 tags:
   - midia
 cssclasses:
@@ -18,7 +18,7 @@ resource-sync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Mostra do Conhecimento</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">XIV Mostra do Conhecimento</span>
 
 </div>
 

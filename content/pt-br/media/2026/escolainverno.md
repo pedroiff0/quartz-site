@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Escola de Inverno ON - 2026
+title: Escola de Inverno ON
 created: 2026-07-18 13:34:00-03:00
-modified: 2026-10-23T15:22:50-03:00
+modified: 2026-11-03T10:34:56-03:00
 tags:
   - midia
 cssclasses:
@@ -18,7 +18,7 @@ resource-sync: true
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Escola de Inverno ON - 2026</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2026</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Escola de Inverno ON</span>
 
 </div>
 
@@ -26,7 +26,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/confict|← CONFICT - 2026]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/confict|← XVII CONFICT]]</span>
 
 </div>
 

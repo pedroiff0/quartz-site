@@ -25,7 +25,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2023/febrace|← FEBRACE 2023]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2023/febrace|← 21ª FEBRACE]]</span>
 
 </div>
 
@@ -37,7 +37,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2023/mostratec|MOSTRATEC 2023 →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2023/mostratec|37ª MOSTRATEC →]]</span>
 
 </div>
 

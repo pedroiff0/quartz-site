@@ -2,7 +2,7 @@
 publish: true
 title: Comunicação de Dados
 created: '2026-07-18 12:00:00-03:00'
-modified: 2026-10-21T15:24:02-03:00
+modified: 2026-11-02T13:02:10-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -117,5 +117,6 @@ resource-sync: false
 
 ## Anotações e Arquivos Didáticos
 - **Anotações Comunicação de Dados**
+- **Esboço — Resumo para a 1ª prova (caps. 3 e 4)**
 - **Esboço — Estudo Dirigido e Teste Rápido (Caps. 3.3 e 3.4)**
 - **Esboço — Resolução das 48 Atividades do Cap. 3 (Forouzan)**

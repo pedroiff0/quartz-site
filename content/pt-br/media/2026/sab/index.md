@@ -27,7 +27,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/mostra-iff|← Mostra do Conhecimento]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/mostra-iff|← XIV Mostra do Conhecimento]]</span>
 
 </div>
 
@@ -39,7 +39,7 @@ resource-sync: true
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2026/sbpc|SBPC →]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2026/sbpc|78ª SBPC →]]</span>
 
 </div>
 

@@ -1,8 +1,8 @@
 ---
 publish: true
-title: IX FEBIC 2024
+title: IX FEBIC
 created: 2024-09-15 13:04:00-03:00
-modified: 2026-10-15T18:33:10-03:00
+modified: 2026-11-03T10:37:46-03:00
 tags:
   - midia
 cssclasses:
@@ -18,7 +18,7 @@ resource-sync: false
 
 <div class="academic-nav-breadcrumb">
 
-<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2024</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">IX FEBIC 2024</span>
+<span>[[pt-br/media/index|Mídia]]</span> <span class="academic-nav-sep">/</span> <span>2024</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">IX FEBIC</span>
 
 </div>
 
@@ -26,7 +26,7 @@ resource-sync: false
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/media/2024/e-jiniff|← e-JINIFF 2024]]</span>
+<span class="academic-nav-btn">[[pt-br/media/2024/e-jiniff|← e-JINIFF]]</span>
 
 </div>
 
