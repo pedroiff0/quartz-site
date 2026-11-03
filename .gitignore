@@ -41,5 +41,7 @@ content/assets/documentos/Pedro/
 content/resource/**/documentos/
 content/resource/**/curriculo/*
 !content/resource/areas/profissional/curriculo/portuguesecv.pdf
+!content/resource/areas/profissional/curriculo/cv-academico-*.pdf
+!content/resource/areas/profissional/curriculo/cv-profissional-*.pdf
 content/resource/areas/pessoal/
 content/resource/permanente/chaves*/

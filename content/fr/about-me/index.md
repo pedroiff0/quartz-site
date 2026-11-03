@@ -4,7 +4,7 @@ title: À propos de moi
 aliases:
   - Accueil
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-10-29T12:03:20-03:00
+modified: 2026-11-03T12:10:00-03:00
 tags:
   - pessoal
   - sobre-mim
@@ -129,15 +129,15 @@ Mon travail se situe à l'intersection des **méthodes computationnelles avancé
 
 ### CV et code source
 
-Mon CV et le dépôt (LaTeX, multilingue) qui le génère :
+Mes CV dans la langue de cette page : le CV académique (recherche, publications et événements) et le CV professionnel (projets logiciels). Tous deux en LaTeX, édités dans ReLaTeX.
 
 <div class="cv-cards-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.25rem; margin: 1.5rem 0;">
 
-  <a href="/resource/areas/profissional/curriculo/portuguesecv.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
+  <a href="/resource/areas/profissional/curriculo/cv-academico-fr.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
-        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV (PDF)</div>
-        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Mise en page sur deux colonnes (LaTeX)</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV académique</div>
+        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Recherche, publications, prix et présentations (2 pages)</div>
       </div>
       <div style="margin-top: 1.25rem; font-weight: 600; font-size: 0.85rem; color: var(--secondary); display: flex; align-items: center; gap: 0.35rem;">
         <span>Voir le PDF</span> <span>↗</span>
@@ -145,11 +145,23 @@ Mon CV et le dépôt (LaTeX, multilingue) qui le génère :
     </div>
   </a>
 
-  <a href="https://github.com/pedroiff0/curriculo" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
+  <a href="/resource/areas/profissional/curriculo/cv-profissional-fr.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
+    <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
+      <div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV professionnel</div>
+        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Projets logiciels, stack et formation (1 page)</div>
+      </div>
+      <div style="margin-top: 1.25rem; font-weight: 600; font-size: 0.85rem; color: var(--secondary); display: flex; align-items: center; gap: 0.35rem;">
+        <span>Voir le PDF</span> <span>↗</span>
+      </div>
+    </div>
+  </a>
+
+  <a href="https://github.com/pedroiff0/cv" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
     <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
       <div>
         <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">Dépôt du CV</div>
-        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Source TeX multilingue sur GitHub</div>
+        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Versions antérieures et compilation multilingue sur GitHub</div>
       </div>
       <div style="margin-top: 1.25rem; font-weight: 600; font-size: 0.85rem; color: var(--secondary); display: flex; align-items: center; gap: 0.35rem;">
         <span>Voir sur GitHub</span> <span>↗</span>
@@ -158,6 +170,8 @@ Mon CV et le dépôt (LaTeX, multilingue) qui le génère :
   </a>
 
 </div>
+
+<p style="font-size: 0.85rem; color: var(--gray);"><strong>Autres langues</strong> | CV académique: <a href="/resource/areas/profissional/curriculo/cv-academico-pt.pdf" target="_blank" rel="noopener noreferrer">PT</a> · <a href="/resource/areas/profissional/curriculo/cv-academico-en.pdf" target="_blank" rel="noopener noreferrer">EN</a> · <a href="/resource/areas/profissional/curriculo/cv-academico-es.pdf" target="_blank" rel="noopener noreferrer">ES</a> · <a href="/resource/areas/profissional/curriculo/cv-academico-fr.pdf" target="_blank" rel="noopener noreferrer">FR</a> · <a href="/resource/areas/profissional/curriculo/cv-academico-it.pdf" target="_blank" rel="noopener noreferrer">IT</a> · <a href="/resource/areas/profissional/curriculo/cv-academico-zh.pdf" target="_blank" rel="noopener noreferrer">中文</a> | CV professionnel: <a href="/resource/areas/profissional/curriculo/cv-profissional-pt.pdf" target="_blank" rel="noopener noreferrer">PT</a> · <a href="/resource/areas/profissional/curriculo/cv-profissional-en.pdf" target="_blank" rel="noopener noreferrer">EN</a> · <a href="/resource/areas/profissional/curriculo/cv-profissional-es.pdf" target="_blank" rel="noopener noreferrer">ES</a> · <a href="/resource/areas/profissional/curriculo/cv-profissional-fr.pdf" target="_blank" rel="noopener noreferrer">FR</a> · <a href="/resource/areas/profissional/curriculo/cv-profissional-it.pdf" target="_blank" rel="noopener noreferrer">IT</a> · <a href="/resource/areas/profissional/curriculo/cv-profissional-zh.pdf" target="_blank" rel="noopener noreferrer">中文</a></p>
 
 ---
 
