@@ -4,7 +4,7 @@ title: Sobre Mí
 aliases:
   - Inicio
 created: 2026-07-18 20:34:00-03:00
-modified: 2026-11-03T12:10:00-03:00
+modified: 2026-11-03T12:06:04-03:00
 tags:
   - pessoal
   - sobre-mim

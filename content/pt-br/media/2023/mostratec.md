@@ -2,7 +2,7 @@
 publish: true
 title: 37ª MOSTRATEC
 created: 2023-10-23 13:04:00-03:00
-modified: 2026-11-03T10:39:20-03:00
+modified: 2026-11-03T10:39:22-03:00
 tags:
   - midia
 cssclasses:

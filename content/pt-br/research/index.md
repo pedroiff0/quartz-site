@@ -5,7 +5,7 @@ aliases:
   - Pesquisas Hub
   - Central de Pesquisas
 created: 2026-09-30 11:59:00-03:00
-modified: 2026-11-03T10:49:19-03:00
+modified: 2026-11-03T15:40:10-03:00
 tags:
   - pesquisa
   - astronomia
@@ -65,6 +65,7 @@ Repositório de projetos de iniciação científica, bolsas de pesquisa, astrof�
 - Domo IFF 2026 — Planetário e divulgação científica.
 - ReLaTeX Classe IFF 2026 — Padronização de modelos ABNT.
 - Computação Aplicada à Astrofísica (IFF 2026) — Ensino, pesquisa e extensão: Computação para alunos de fora da área.
+- Formulários Animados (IFF 2026) — Ensino: vídeos de deduções no estilo 3Blue1Brown (Manim + VoiceStudio).
 - Satélites IFF 2024 — Rastreamento de satélites e telecomunicações.
 - MOBFOG Maker IFF 2023 — Foguetemodelismo e sensores.
 - Matéria Escura IFF 2022 — Curvas de rotação galáctica.
