@@ -44,7 +44,7 @@ translation-of: "[[pt-br/projects/academic/anomaly-viewer/index]]"
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn is-disabled">End →</span>
+<span class="academic-nav-btn is-disabled">→</span>
 
 </div>
 

@@ -35,13 +35,13 @@ resource-sync: false
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">Hub</span> <span class="academic-nav-counter">(1 de 1)</span>
+<span class="academic-nav-btn">Hub</span> <span class="academic-nav-counter">(1 de 2)</span>
 
 </div>
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn is-disabled">Fim →</span>
+<span class="academic-nav-btn">[[pt-br/projects/personal/baton/index|Baton →]]</span>
 
 </div>
 
