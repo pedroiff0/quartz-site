@@ -2,6 +2,7 @@ name: CI
 
 on:
   pull_request:
+    paths-ignore: ["**.md", "docs/**", "LICENSE"]
     branches: [main, master]
   workflow_dispatch:
 
