@@ -2,7 +2,7 @@
 publish: true
 title: XLIX RASAB
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-10-28T10:11:05-03:00
+modified: 2026-11-09T13:50:08-03:00
 tags:
   - midia
   - evento
@@ -13,6 +13,7 @@ icon: lucide-newspaper
 photoFolder: sab2026
 type: blog
 sitesync: true
+collapse: 4
 resource-sync: true
 lang: en
 translation-of: "[[pt-br/media/2026/sab/index]]"

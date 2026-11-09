@@ -1,0 +1,20 @@
+{
+  "name": "collapsible-headings",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Headings colapsaveis (details/summary) so em notas com collapse: N no frontmatter",
+  "exports": { ".": "./dist/index.js", "./package.json": "./package.json" },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "collapsible-headings",
+    "displayName": "Collapsible Headings",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 65,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

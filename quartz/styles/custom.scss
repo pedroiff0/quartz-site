@@ -2037,3 +2037,43 @@ html::-webkit-scrollbar,
 body::-webkit-scrollbar {
   display: none !important;
 }
+
+details.collapsible-heading {
+  margin: 0.4rem 0;
+  border-bottom: 1px solid var(--lightgray);
+
+  > summary {
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: "▸";
+      color: var(--gray);
+      transition: transform 0.15s ease;
+    }
+
+    > :is(h1, h2, h3, h4, h5, h6) {
+      margin: 0.4rem 0;
+      flex: 1;
+    }
+
+    &:hover::before {
+      color: var(--secondary);
+    }
+  }
+
+  &[open] > summary::before {
+    transform: rotate(90deg);
+  }
+
+  > .collapsible-heading-body {
+    padding: 0.25rem 0 0.75rem 1.25rem;
+  }
+}

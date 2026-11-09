@@ -466,6 +466,10 @@ plugins:
     enabled: true
     options: {}
     order: 55
+  - source: ./local-plugins/collapsible-headings
+    enabled: true
+    options: {}
+    order: 65
   - source: ./local-plugins/page-title-i18n
     enabled: true
     layout:
