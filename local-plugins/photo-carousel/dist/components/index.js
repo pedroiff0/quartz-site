@@ -73,18 +73,123 @@ function listPhotos(folder) {
 function slide(href, imgSrc, alt, caption) {
   return h(
     "a",
-    { href, class: "carousel-slide" },
-    imgSrc ? h("img", { src: imgSrc, alt, loading: "lazy" }) : null,
+    { href, class: "carousel-slide carousel-card" },
+    imgSrc ? h("img", { src: imgSrc, alt, loading: "lazy", decoding: "async" }) : null,
     caption ? h("div", { class: "slide-caption" }, caption) : null,
   );
 }
 
 // Carrossel: avanca sozinho (autoplay), com botoes anterior/proximo nas bordas.
-// Sem zoom automatico por hover; os slides continuam sendo links normais.
+// Fotos (modo 1): clique abre um lightbox grande (foto inteira, setas, Esc, deslize); sem JS o link abre a foto.
+// Cartoes de evento (modo 2): seguem como links para a nota.
 // Roda contra todo `.media-carousel` da pagina (inclusive os escritos a mao em markdown).
 const CAROUSEL_ZOOM_SCRIPT = `
+var quartzLb = window.__quartzCarouselLb || (window.__quartzCarouselLb = { el: null, img: null, count: null, items: [], i: 0, opener: null, open: false });
+
+function quartzLbBuild() {
+  if (quartzLb.el) return;
+  var el = document.createElement("div");
+  el.className = "carousel-lightbox";
+  el.setAttribute("role", "dialog");
+  el.setAttribute("aria-modal", "true");
+  el.setAttribute("aria-label", "Foto ampliada");
+  function btn(cls, label, glyph, fn) {
+    var b = document.createElement("button");
+    b.type = "button";
+    b.className = "carousel-lightbox-btn " + cls;
+    b.setAttribute("aria-label", label);
+    b.textContent = glyph;
+    b.addEventListener("click", function (e) { e.stopPropagation(); fn(); });
+    el.appendChild(b);
+    return b;
+  }
+  quartzLb.close = btn("carousel-lightbox-close", "Fechar", "\\u00d7", quartzLbClose);
+  quartzLb.prev = btn("carousel-lightbox-prev", "Foto anterior", "\\u2039", function () { quartzLbGo(-1); });
+  quartzLb.next = btn("carousel-lightbox-next", "Pr\\u00f3xima foto", "\\u203a", function () { quartzLbGo(1); });
+  var img = document.createElement("img");
+  img.alt = "";
+  img.draggable = false;
+  el.appendChild(img);
+  var cnt = document.createElement("div");
+  cnt.className = "carousel-lightbox-count";
+  cnt.setAttribute("aria-live", "polite");
+  el.appendChild(cnt);
+  el.addEventListener("click", function () { quartzLbClose(); });
+  var x0 = null;
+  el.addEventListener("touchstart", function (e) { x0 = e.touches.length === 1 ? e.touches[0].clientX : null; }, { passive: true });
+  el.addEventListener("touchend", function (e) {
+    if (x0 === null) return;
+    var dx = e.changedTouches[0].clientX - x0;
+    x0 = null;
+    if (Math.abs(dx) > 50) quartzLbGo(dx < 0 ? 1 : -1);
+  }, { passive: true });
+  document.addEventListener("keydown", function (e) {
+    if (!quartzLb.open) return;
+    if (e.key === "Escape") { e.preventDefault(); quartzLbClose(); }
+    else if (e.key === "ArrowLeft") { e.preventDefault(); quartzLbGo(-1); }
+    else if (e.key === "ArrowRight") { e.preventDefault(); quartzLbGo(1); }
+    else if (e.key === "Tab") {
+      var f = [quartzLb.close, quartzLb.prev, quartzLb.next].filter(function (b) { return b.style.display !== "none"; });
+      var k = f.indexOf(document.activeElement);
+      e.preventDefault();
+      f[(k + (e.shiftKey ? f.length - 1 : 1)) % f.length].focus();
+    }
+  });
+  document.body.appendChild(el);
+  quartzLb.el = el;
+  quartzLb.img = img;
+  quartzLb.count = cnt;
+}
+
+function quartzLbShow() {
+  var it = quartzLb.items[quartzLb.i];
+  quartzLb.img.src = it.href;
+  quartzLb.img.alt = it.alt;
+  var multi = quartzLb.items.length > 1;
+  quartzLb.prev.style.display = multi ? "" : "none";
+  quartzLb.next.style.display = multi ? "" : "none";
+  quartzLb.count.textContent = multi ? (quartzLb.i + 1) + " / " + quartzLb.items.length : "";
+}
+
+function quartzLbGo(d) {
+  var n = quartzLb.items.length;
+  if (n < 2) return;
+  quartzLb.i = (quartzLb.i + d + n) % n;
+  quartzLbShow();
+}
+
+function quartzLbOpen(items, i, opener) {
+  quartzLbBuild();
+  quartzLb.items = items;
+  quartzLb.i = i;
+  quartzLb.opener = opener;
+  quartzLbShow();
+  quartzLb.el.classList.add("open");
+  document.body.classList.add("carousel-lightbox-open");
+  quartzLb.open = true;
+  quartzLb.close.focus();
+}
+
+function quartzLbClose() {
+  if (!quartzLb.open) return;
+  quartzLb.open = false;
+  quartzLb.el.classList.remove("open");
+  document.body.classList.remove("carousel-lightbox-open");
+  var o = quartzLb.opener;
+  var it = quartzLb.items[quartzLb.i];
+  if (o && o.isConnected) {
+    if (it && it.slide && it.slide.isConnected) {
+      var car = it.slide.parentNode;
+      var r = it.slide.getBoundingClientRect(), c = car.getBoundingClientRect();
+      car.scrollTo({ left: car.scrollLeft + (r.left - c.left) - (car.clientWidth - r.width) / 2, behavior: "auto" });
+      it.slide.focus({ preventScroll: true });
+    } else o.focus({ preventScroll: true });
+  }
+}
+
 function quartzCarouselSetup() {
   var INTERVAL = 3500;
+  var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   document.querySelectorAll(".media-carousel").forEach(function (car) {
     if (car.dataset.carouselBound === "true") return;
     car.dataset.carouselBound = "true";
@@ -103,25 +208,37 @@ function quartzCarouselSetup() {
       wrap.appendChild(b);
       return b;
     }
-    var prevBtn = mkBtn("carousel-edge-prev", "Anterior", "\u2039");
-    var nextBtn = mkBtn("carousel-edge-next", "Pr\u00f3ximo", "\u203a");
+    var prevBtn = mkBtn("carousel-edge-prev", "Anterior", "\\u2039");
+    var nextBtn = mkBtn("carousel-edge-next", "Pr\\u00f3ximo", "\\u203a");
 
+    function slides() { return Array.prototype.slice.call(car.querySelectorAll(".carousel-slide")); }
+    function centerOf(s) {
+      var r = s.getBoundingClientRect(), c = car.getBoundingClientRect();
+      return car.scrollLeft + (r.left - c.left) + r.width / 2;
+    }
+    function nearest() {
+      var mid = car.scrollLeft + car.clientWidth / 2, best = 0, bd = Infinity;
+      slides().forEach(function (s, i) { var d = Math.abs(centerOf(s) - mid); if (d < bd) { bd = d; best = i; } });
+      return best;
+    }
+    function goTo(i) {
+      var ss = slides();
+      if (!ss[i]) return;
+      car.scrollTo({ left: Math.max(0, centerOf(ss[i]) - car.clientWidth / 2), behavior: reduce ? "auto" : "smooth" });
+    }
     function step(dir) {
-      var slides = car.querySelectorAll(".carousel-slide");
-      if (!slides.length) return;
-      var gap = parseFloat(getComputedStyle(car).columnGap) || 16;
-      var w = slides[0].getBoundingClientRect().width + gap;
-      var max = car.scrollWidth - car.clientWidth;
-      if (max <= 4) return;
-      if (dir > 0 && car.scrollLeft >= max - 4) car.scrollTo({ left: 0, behavior: "smooth" });
-      else if (dir < 0 && car.scrollLeft <= 4) car.scrollTo({ left: max, behavior: "smooth" });
-      else car.scrollBy({ left: dir * w, behavior: "smooth" });
+      var n = slides().length;
+      if (n < 2 || car.scrollWidth - car.clientWidth <= 4) return;
+      var max = car.scrollWidth - car.clientWidth, i = nearest() + dir;
+      if (dir > 0 && (i >= n || car.scrollLeft >= max - 4)) i = 0;
+      else if (dir < 0 && (i < 0 || car.scrollLeft <= 4)) i = n - 1;
+      goTo(i);
     }
 
     var paused = false;
-    var timer = setInterval(function () {
+    var timer = reduce ? null : setInterval(function () {
       if (!car.isConnected) { clearInterval(timer); return; }
-      if (paused || document.hidden) return;
+      if (paused || document.hidden || quartzLb.open) return;
       step(1);
     }, INTERVAL);
 
@@ -133,6 +250,19 @@ function quartzCarouselSetup() {
     wrap.addEventListener("focusout", function () { paused = false; });
     wrap.addEventListener("touchstart", function () { paused = true; }, { passive: true });
     wrap.addEventListener("touchend", function () { setTimeout(function () { paused = false; }, 4000); }, { passive: true });
+
+    car.addEventListener("click", function (e) {
+      var a = e.target.closest ? e.target.closest(".carousel-slide[data-zoom]") : null;
+      if (!a || !car.contains(a)) return;
+      if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      e.preventDefault();
+      var zs = slides().filter(function (s) { return s.hasAttribute("data-zoom"); });
+      var items = zs.map(function (s) {
+        var im = s.querySelector("img");
+        return { href: s.getAttribute("href"), alt: im ? im.alt : "", slide: s };
+      });
+      quartzLbOpen(items, zs.indexOf(a), a);
+    });
   });
 }
 
@@ -144,7 +274,7 @@ function placeCarouselAfterNav() {
     c.setAttribute("data-placed", "1");
   });
 }
-function quartzCarouselInit() { placeCarouselAfterNav(); quartzCarouselSetup(); placeCarouselAfterNav(); }
+function quartzCarouselInit() { quartzLbClose(); placeCarouselAfterNav(); quartzCarouselSetup(); placeCarouselAfterNav(); }
 document.addEventListener("nav", quartzCarouselInit);
 document.addEventListener("render", quartzCarouselInit);
 quartzCarouselInit();
@@ -168,8 +298,8 @@ function PhotoCarouselConstructor() {
         photos.map((p) => {
           return h(
             "a",
-            { href: p.url, class: "carousel-slide", target: "_blank", rel: "noopener" },
-            h("img", { src: p.url, alt: title, loading: "lazy" }),
+            { href: p.url, class: "carousel-slide", "data-zoom": "1", "data-router-ignore": "", target: "_blank", rel: "noopener" },
+            h("img", { src: p.url, alt: title, loading: "lazy", decoding: "async" }),
           );
         }),
       );

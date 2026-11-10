@@ -580,13 +580,17 @@ body[data-slug="mapa/index"] .backlinks {
 }
 
 /* --- Media Carousel --- */
+/* Palco de altura fluida: cada slide ocupa a proporcao da propria foto (nada cortado, sem barras). */
 .media-carousel {
+  --carousel-h: clamp(220px, 45vh, 480px);
   display: flex;
+  align-items: stretch;
+  height: var(--carousel-h);
   overflow-x: auto;
+  overflow-y: hidden;
   scroll-snap-type: x mandatory;
   scroll-behavior: smooth;
   gap: 1rem;
-  padding-bottom: 1rem;
   margin: 2rem 0;
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
@@ -597,11 +601,15 @@ body[data-slug="mapa/index"] .backlinks {
 }
 
 .carousel-slide {
-  flex: 0 0 85%;
+  flex: 0 0 auto;
+  height: 100%;
+  min-width: 8rem;
+  max-width: 100%;
   scroll-snap-align: center;
   position: relative;
   border-radius: 12px;
   overflow: hidden;
+  background: var(--lightgray);
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s ease;
 }
@@ -611,102 +619,89 @@ body[data-slug="mapa/index"] .backlinks {
 }
 
 .carousel-slide img {
-  width: 100%;
-  height: 300px;
-  object-fit: cover;
   display: block;
+  height: 100%;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  cursor: zoom-in;
+}
+
+/* Cartoes de evento (indice de midia): link para a nota, nao ampliam */
+.carousel-slide.carousel-card img {
   cursor: pointer;
 }
 
-/* Hover "lightbox", driven by the .zoomed class (toggled by JS in this
-   plugin's afterDOMLoaded script, after 1s of sustained hover — see
-   dist/components/index.js). CSS :hover/transition-delay alone couldn't
-   do this reliably: `position` is a discrete property, so browsers were
-   applying it immediately regardless of transition-delay, flashing the
-   image in the wrong spot for that first second before snapping to the
-   correct centered/enlarged one. Explicit class toggling has no such
-   ambiguity — nothing here reacts until JS says so, and reverts the
-   instant the mouse leaves. Mouse-only by nature (no touch equivalent). */
-.carousel-slide.zoomed::before {
-  content: "";
+/* Lightbox: criado uma vez no body pelo script do plugin (dist/components/index.js). */
+.carousel-lightbox {
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.55);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  z-index: 500;
-  /* Let hover/click pass through to whatever's actually underneath —
-     otherwise this full-viewport layer would itself count as "still
-     hovering the slide" everywhere on screen, and mouseleave would only
-     ever fire when the pointer left the browser window entirely. */
-  pointer-events: none;
-}
-
-.carousel-slide.zoomed img {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  /* auto width/height (capped by max-*) instead of a fixed box — the
-     lightbox hugs the photo's real aspect ratio, no letterboxing bars. */
-  width: auto;
-  height: auto;
-  max-width: min(90vw, 1200px);
-  max-height: 88vh;
-  object-fit: contain;
-  border-radius: 12px;
-  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.6);
-  cursor: zoom-out;
-  z-index: 501;
-}
-
-.carousel-zoom-close,
-.carousel-zoom-prev,
-.carousel-zoom-next {
+  z-index: 1000;
   display: none;
-  position: fixed;
-  z-index: 502;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.94);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+.carousel-lightbox.open {
+  display: flex;
+}
+.carousel-lightbox img {
+  /* ocupa a tela toda; contain mantem a proporcao (foto inteira, sem corte) e amplia as pequenas */
+  width: 96vw;
+  height: 92vh;
+  object-fit: contain;
+  cursor: zoom-out;
+  touch-action: pinch-zoom;
+  user-select: none;
+}
+.carousel-lightbox-btn {
+  position: absolute;
+  z-index: 1;
+  display: flex;
   align-items: center;
   justify-content: center;
   width: 44px;
   height: 44px;
-  border: none;
+  padding: 0 0 0.15rem;
+  border: 1px solid rgba(255, 255, 255, 0.35);
   border-radius: 50%;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.55);
   color: #fff;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   line-height: 1;
   cursor: pointer;
   transition: background 0.15s ease;
 }
-
-.carousel-zoom-close:hover,
-.carousel-zoom-prev:hover,
-.carousel-zoom-next:hover {
-  background: rgba(0, 0, 0, 0.85);
+.carousel-lightbox-btn:hover,
+.carousel-lightbox-btn:focus-visible {
+  background: rgba(255, 255, 255, 0.3);
+}
+.carousel-lightbox-close { top: max(1rem, env(safe-area-inset-top)); right: 1rem; }
+.carousel-lightbox-prev { top: 50%; left: 1rem; transform: translateY(-50%); }
+.carousel-lightbox-next { top: 50%; right: 1rem; transform: translateY(-50%); }
+.carousel-lightbox-count {
+  position: absolute;
+  bottom: max(1rem, env(safe-area-inset-bottom));
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+body.carousel-lightbox-open {
+  overflow: hidden;
 }
 
-.carousel-slide.zoomed .carousel-zoom-close,
-.carousel-slide.zoomed .carousel-zoom-prev,
-.carousel-slide.zoomed .carousel-zoom-next {
-  display: flex;
-}
-
-.carousel-slide.zoomed .carousel-zoom-close {
-  top: 1.5rem;
-  right: 1.5rem;
-}
-
-.carousel-slide.zoomed .carousel-zoom-prev {
-  top: 50%;
-  left: 1.5rem;
-  transform: translateY(-50%);
-}
-
-.carousel-slide.zoomed .carousel-zoom-next {
-  top: 50%;
-  right: 1.5rem;
-  transform: translateY(-50%);
+@media (prefers-reduced-motion: reduce) {
+  .media-carousel {
+    scroll-behavior: auto;
+  }
+  .carousel-slide,
+  .carousel-lightbox-btn {
+    transition: none;
+  }
 }
 
 .slide-caption {
@@ -1968,11 +1963,11 @@ article .media-carousel {
 }
 .carousel-edge {
   position: absolute;
-  top: calc(50% - 0.5rem);
+  top: 50%;
   transform: translateY(-50%);
   z-index: 5;
-  width: 2.4rem;
-  height: 2.4rem;
+  width: 2.75rem;
+  height: 2.75rem;
   display: flex;
   align-items: center;
   justify-content: center;
