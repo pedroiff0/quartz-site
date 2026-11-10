@@ -5,7 +5,7 @@ aliases:
   - Pesquisas Hub
   - Central de Pesquisas
 created: 2026-09-30 11:59:00-03:00
-modified: 2026-11-03T15:40:10-03:00
+modified: 2026-11-10T10:01:05-03:00
 tags:
   - pesquisa
   - astronomia

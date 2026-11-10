@@ -5,7 +5,7 @@ aliases:
   - Acadêmico Hub
   - Central Acadêmica
 created: 2026-09-30 11:30:00-03:00
-modified: 2026-10-20T11:21:31-03:00
+modified: 2026-11-10T11:11:01-03:00
 tags:
   - academico
   - iff
@@ -30,7 +30,6 @@ Central de gestão acadêmica, graduação em Engenharia de Computação (IFF), 
 
 ### 1. Graduação — Engenharia de Computação (IFF)
 - [[pt-br/academic/engenharia-computacao/index|Engenharia de Computação — Matriz e Ementário]]
-- Kanban do Curso
 - Períodos Ativos e Históricos:
   - [[pt-br/academic/engenharia-computacao/7-periodo|7º Período]]
   - [[pt-br/academic/engenharia-computacao/8-periodo|8º Período]]
