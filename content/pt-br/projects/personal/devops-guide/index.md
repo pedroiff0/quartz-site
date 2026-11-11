@@ -2,7 +2,7 @@
 publish: true
 title: Guia de DevOps e Infraestrutura
 created: '2026-09-28T22:55:00-03:00'
-modified: 2026-11-11T15:31:30-03:00
+modified: 2026-11-11T15:34:00-03:00
 tags:
 - projeto
 - publico
@@ -21,7 +21,7 @@ mirror_of: pedroiff0/devops-guide/README.md
 
 # O.C.T.A. — Omni Clarified Technical Atlas
 
-[![CI](https://github.com/pedroiff0/devops-guide/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/devops-guide/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/devops-guide)](https://github.com/pedroiff0/devops-guide/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/devops-guide?style=flat&logo=github)](https://github.com/pedroiff0/devops-guide/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
+[![CI](https://github.com/pedroiff0/devops-guide/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/devops-guide/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/devops-guide)](https://github.com/pedroiff0/devops-guide/blob/HEAD/LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/devops-guide?style=flat&logo=github)](https://github.com/pedroiff0/devops-guide/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
 
 Jardim digital bilíngue (PT-BR e EN-US) de engenharia e DevOps, publicado em [octa.phrandrade.com](https://octa.phrandrade.com) com Quartz v4: guias de Git e GitHub, Docker, Cloudflare, Claude, Hermes Agent, Lovable e OceanGate.
 
@@ -137,7 +137,7 @@ python3 scripts/check-i18n-mirror.py
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Todo texto novo em `pt-br` precisa do espelho em `en`.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/CHANGELOG).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/CHANGELOG.md).
 
 ## Status e próximos passos
 
@@ -150,30 +150,32 @@ Estado atual: **ativo**. O pilar de GitHub está completo; os demais estão em e
 
 ## Como contribuir
 
-Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/devops-guide/blob/HEAD/CONTRIBUTING).
+Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/devops-guide/blob/HEAD/CONTRIBUTING.md).
 
 1. Abra uma issue descrevendo o problema ou a ideia.
 2. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 3. Faça commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
-4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/CHANGELOG).
+4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/CHANGELOG.md).
 
 ## Código de conduta
 
-Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/devops-guide/blob/HEAD/CODE_OF_CONDUCT). Ao participar, você concorda em segui-lo.
+Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/devops-guide/blob/HEAD/CODE_OF_CONDUCT.md). Ao participar, você concorda em segui-lo.
 
 ## Segurança
 
-Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/SECURITY) para reportar de forma confidencial.
+Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/SECURITY.md) para reportar de forma confidencial.
 
 ## Suporte
 
-Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/SUPPORT).
+Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/SUPPORT.md).
 
 ## Estrelas e atividade
 
 [![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/devops-guide&type=Date)](https://star-history.com/#pedroiff0/devops-guide&Date)
 
 [![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/devops-guide?logo=github)](https://github.com/pedroiff0/devops-guide/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/devops-guide?logo=git&logoColor=white)](https://github.com/pedroiff0/devops-guide/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/devops-guide)](https://github.com/pedroiff0/devops-guide/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/devops-guide)](https://github.com/pedroiff0/devops-guide/pulls)
+
+<div align="center">
 
 ## Autor
 
@@ -187,9 +189,11 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/devo
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/devops-guide)](https://github.com/pedroiff0/devops-guide/graphs/contributors)
 
+</div>
+
 ## Licença
 
-Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/devops-guide/blob/HEAD/LICENSE):
+Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/devops-guide/blob/HEAD/LICENSE.md):
 
 ```txt
 MIT License

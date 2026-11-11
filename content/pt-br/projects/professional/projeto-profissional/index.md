@@ -2,7 +2,7 @@
 publish: true
 title: Projeto Profissional (template)
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:31:30-03:00
+modified: 2026-11-11T15:34:00-03:00
 tags:
 - template
 - boilerplate
@@ -53,7 +53,7 @@ mirror_of: pedroiff0/projeto-profissional/README.md
 
 # Projeto Profissional
 
-[![CI](https://github.com/pedroiff0/projeto-profissional/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/projeto-profissional/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/projeto-profissional)](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/projeto-profissional?style=flat&logo=github)](https://github.com/pedroiff0/projeto-profissional/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#roadmap)
+[![CI](https://github.com/pedroiff0/projeto-profissional/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/projeto-profissional/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/projeto-profissional)](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/projeto-profissional?style=flat&logo=github)](https://github.com/pedroiff0/projeto-profissional/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#roadmap)
 
 Template base para aplicações web completas: autenticação JWT, papéis `admin` e `user`, validação com Zod, renderização no servidor com EJS, Docker Compose para desenvolvimento e produção e testes Jest em memória.
 
@@ -209,7 +209,7 @@ make lint
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Rode `make test` e `make lint` antes de abrir o pull request.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CHANGELOG).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CHANGELOG.md).
 
 ## Roadmap
 
@@ -220,30 +220,32 @@ make lint
 
 ## Como contribuir
 
-Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CONTRIBUTING).
+Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CONTRIBUTING.md).
 
 1. Abra uma issue descrevendo o problema ou a ideia.
 2. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 3. Faça commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
-4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CHANGELOG).
+4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CHANGELOG.md).
 
 ## Código de conduta
 
-Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CODE_OF_CONDUCT). Ao participar, você concorda em segui-lo.
+Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CODE_OF_CONDUCT.md). Ao participar, você concorda em segui-lo.
 
 ## Segurança
 
-Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/SECURITY) para reportar de forma confidencial.
+Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/SECURITY.md) para reportar de forma confidencial.
 
 ## Suporte
 
-Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/SUPPORT).
+Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/SUPPORT.md).
 
 ## Estrelas e atividade
 
 [![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/projeto-profissional&type=Date)](https://star-history.com/#pedroiff0/projeto-profissional&Date)
 
 [![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/projeto-profissional?logo=github)](https://github.com/pedroiff0/projeto-profissional/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/projeto-profissional?logo=git&logoColor=white)](https://github.com/pedroiff0/projeto-profissional/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/projeto-profissional)](https://github.com/pedroiff0/projeto-profissional/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/projeto-profissional)](https://github.com/pedroiff0/projeto-profissional/pulls)
+
+<div align="center">
 
 ## Autor
 
@@ -257,9 +259,11 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/proj
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/projeto-profissional)](https://github.com/pedroiff0/projeto-profissional/graphs/contributors)
 
+</div>
+
 ## Licença
 
-Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/LICENSE):
+Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/LICENSE.md):
 
 ```txt
 MIT License

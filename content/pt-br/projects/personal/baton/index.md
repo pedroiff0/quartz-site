@@ -2,7 +2,7 @@
 publish: true
 title: Baton
 created: '2026-11-04T12:00:00-03:00'
-modified: 2026-11-11T15:31:30-03:00
+modified: 2026-11-11T15:34:00-03:00
 published: '2026-11-04T12:00:00-03:00'
 tags:
 - projeto
@@ -56,7 +56,7 @@ mirror_of: pedroiff0/baton/README.md
 
 # Baton
 
-[![Licença](https://img.shields.io/github/license/pedroiff0/baton)](https://github.com/pedroiff0/baton/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/baton?style=flat&logo=github)](https://github.com/pedroiff0/baton/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
+[![Licença](https://img.shields.io/github/license/pedroiff0/baton)](https://github.com/pedroiff0/baton/blob/HEAD/LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/baton?style=flat&logo=github)](https://github.com/pedroiff0/baton/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
 
 Passador de slides pelo celular: o iPhone ou Android controla qualquer app de apresentação no macOS, Windows ou Linux, com laser, foco, caneta, marca-texto, cortina, notas e zoom. Somente biblioteca padrão do Python 3.8+.
 
@@ -181,7 +181,7 @@ BATON_BACKEND=log BATON_OVERLAY=log python3 baton.py --sem-abrir
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Mantenha apenas a biblioteca padrão do Python e adicione testes em `tests/`.
-4. Registre a mudança na seção `Não lançado` de [CHANGELOG.md](https://github.com/pedroiff0/baton/blob/HEAD/CHANGELOG).
+4. Registre a mudança na seção `Não lançado` de [CHANGELOG.md](https://github.com/pedroiff0/baton/blob/HEAD/CHANGELOG.md).
 
 ## Status e próximos passos
 
@@ -194,30 +194,32 @@ Estado atual: **ativo**. A camada do macOS e o Windows ainda dependem de teste e
 
 ## Como contribuir
 
-Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/baton/blob/HEAD/CONTRIBUTING).
+Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/baton/blob/HEAD/CONTRIBUTING.md).
 
 1. Abra uma issue descrevendo o problema ou a ideia.
 2. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 3. Faça commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
-4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/baton/blob/HEAD/CHANGELOG).
+4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/baton/blob/HEAD/CHANGELOG.md).
 
 ## Código de conduta
 
-Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/baton/blob/HEAD/CODE_OF_CONDUCT). Ao participar, você concorda em segui-lo.
+Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/baton/blob/HEAD/CODE_OF_CONDUCT.md). Ao participar, você concorda em segui-lo.
 
 ## Segurança
 
-Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/baton/blob/HEAD/SECURITY) para reportar de forma confidencial.
+Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/baton/blob/HEAD/SECURITY.md) para reportar de forma confidencial.
 
 ## Suporte
 
-Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/baton/blob/HEAD/SUPPORT).
+Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/baton/blob/HEAD/SUPPORT.md).
 
 ## Estrelas e atividade
 
 [![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/baton&type=Date)](https://star-history.com/#pedroiff0/baton&Date)
 
 [![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/baton?logo=github)](https://github.com/pedroiff0/baton/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/baton?logo=git&logoColor=white)](https://github.com/pedroiff0/baton/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/baton)](https://github.com/pedroiff0/baton/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/baton)](https://github.com/pedroiff0/baton/pulls)
+
+<div align="center">
 
 ## Autor
 
@@ -231,9 +233,11 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/bato
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/baton)](https://github.com/pedroiff0/baton/graphs/contributors)
 
+</div>
+
 ## Licença
 
-Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/baton/blob/HEAD/LICENSE):
+Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/baton/blob/HEAD/LICENSE.md):
 
 ```txt
 MIT License

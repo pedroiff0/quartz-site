@@ -9,7 +9,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T15:31:30-03:00
+modified: 2026-11-11T15:34:00-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -50,7 +50,7 @@ mirror_of: pedroiff0/formularios/README.md
 
 # Formulários
 
-[![CI](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/formularios)](https://github.com/pedroiff0/formularios/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/formularios?style=flat&logo=github)](https://github.com/pedroiff0/formularios/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status)
+[![CI](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/formularios)](https://github.com/pedroiff0/formularios/blob/HEAD/LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/formularios?style=flat&logo=github)](https://github.com/pedroiff0/formularios/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status)
 
 Coleção de folhas de fórmulas e resumos em LaTeX, organizada por disciplina (Cálculo e Física), com um PDF por capítulo e um PDF combinado.
 
@@ -192,7 +192,7 @@ make fisicas-fast
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Rode `make combined` antes de abrir o pull request.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/formularios/blob/HEAD/CHANGELOG).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/formularios/blob/HEAD/CHANGELOG.md).
 
 ### Convenções
 
@@ -208,34 +208,36 @@ Estado atual: **ativo**. Faltam capítulos das disciplinas dos próximos períod
 
 ## Como citar
 
-Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do GitHub).
+Use o arquivo [CITATION.cff](https://github.com/pedroiff0/formularios/blob/HEAD/CITATION.cff) (botão "Cite this repository" do GitHub).
 
 ## Como contribuir
 
-Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/formularios/blob/HEAD/CONTRIBUTING).
+Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/formularios/blob/HEAD/CONTRIBUTING.md).
 
 1. Abra uma issue descrevendo o problema ou a ideia.
 2. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 3. Faça commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
-4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/formularios/blob/HEAD/CHANGELOG).
+4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/formularios/blob/HEAD/CHANGELOG.md).
 
 ## Código de conduta
 
-Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/formularios/blob/HEAD/CODE_OF_CONDUCT). Ao participar, você concorda em segui-lo.
+Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/formularios/blob/HEAD/CODE_OF_CONDUCT.md). Ao participar, você concorda em segui-lo.
 
 ## Segurança
 
-Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/formularios/blob/HEAD/SECURITY) para reportar de forma confidencial.
+Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/formularios/blob/HEAD/SECURITY.md) para reportar de forma confidencial.
 
 ## Suporte
 
-Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/formularios/blob/HEAD/SUPPORT).
+Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/formularios/blob/HEAD/SUPPORT.md).
 
 ## Estrelas e atividade
 
 [![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/formularios&type=Date)](https://star-history.com/#pedroiff0/formularios&Date)
 
 [![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/formularios?logo=github)](https://github.com/pedroiff0/formularios/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/formularios?logo=git&logoColor=white)](https://github.com/pedroiff0/formularios/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/formularios)](https://github.com/pedroiff0/formularios/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/formularios)](https://github.com/pedroiff0/formularios/pulls)
+
+<div align="center">
 
 ## Autor
 
@@ -249,9 +251,11 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/form
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/formularios)](https://github.com/pedroiff0/formularios/graphs/contributors)
 
+</div>
+
 ## Licença
 
-Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/formularios/blob/HEAD/LICENSE):
+Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/formularios/blob/HEAD/LICENSE.md):
 
 ```txt
 # MIT License

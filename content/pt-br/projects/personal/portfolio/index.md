@@ -2,7 +2,7 @@
 publish: true
 title: Portfólio
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:31:30-03:00
+modified: 2026-11-11T15:34:00-03:00
 tags:
 - portfolio
 - pagina-unica
@@ -52,7 +52,7 @@ mirror_of: pedroiff0/portfolio/README.md
 
 # Portfolio
 
-[![CI](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/portfolio)](https://github.com/pedroiff0/portfolio/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/portfolio?style=flat&logo=github)](https://github.com/pedroiff0/portfolio/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#roadmap)
+[![CI](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/portfolio)](https://github.com/pedroiff0/portfolio/blob/HEAD/LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/portfolio?style=flat&logo=github)](https://github.com/pedroiff0/portfolio/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#roadmap)
 
 Portfólio de Pedro Rocha: página estática única, minimalista, com tema claro e escuro e seis idiomas (PT, EN, ES, FR, IT, ZH), publicada no GitHub Pages em [portfolio.phrandrade.com](https://portfolio.phrandrade.com).
 
@@ -204,7 +204,7 @@ npm test
 1. Crie uma branch a partir de `master`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Edite o conteúdo só em português; as demais línguas saem do script de tradução.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/portfolio/blob/HEAD/CHANGELOG).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/portfolio/blob/HEAD/CHANGELOG.md).
 
 ## Roadmap
 
@@ -215,30 +215,32 @@ npm test
 
 ## Como contribuir
 
-Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/portfolio/blob/HEAD/CONTRIBUTING).
+Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/portfolio/blob/HEAD/CONTRIBUTING.md).
 
 1. Abra uma issue descrevendo o problema ou a ideia.
 2. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 3. Faça commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
-4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/portfolio/blob/HEAD/CHANGELOG).
+4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/portfolio/blob/HEAD/CHANGELOG.md).
 
 ## Código de conduta
 
-Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/portfolio/blob/HEAD/CODE_OF_CONDUCT). Ao participar, você concorda em segui-lo.
+Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/portfolio/blob/HEAD/CODE_OF_CONDUCT.md). Ao participar, você concorda em segui-lo.
 
 ## Segurança
 
-Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/portfolio/blob/HEAD/SECURITY) para reportar de forma confidencial.
+Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/portfolio/blob/HEAD/SECURITY.md) para reportar de forma confidencial.
 
 ## Suporte
 
-Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/portfolio/blob/HEAD/SUPPORT).
+Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/portfolio/blob/HEAD/SUPPORT.md).
 
 ## Estrelas e atividade
 
 [![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/portfolio&type=Date)](https://star-history.com/#pedroiff0/portfolio&Date)
 
 [![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/portfolio?logo=github)](https://github.com/pedroiff0/portfolio/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/portfolio?logo=git&logoColor=white)](https://github.com/pedroiff0/portfolio/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/portfolio)](https://github.com/pedroiff0/portfolio/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/portfolio)](https://github.com/pedroiff0/portfolio/pulls)
+
+<div align="center">
 
 ## Autor
 
@@ -252,9 +254,11 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/port
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/portfolio)](https://github.com/pedroiff0/portfolio/graphs/contributors)
 
+</div>
+
 ## Licença
 
-Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/portfolio/blob/HEAD/LICENSE):
+Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/portfolio/blob/HEAD/LICENSE.md):
 
 ```txt
 The MIT License (MIT)

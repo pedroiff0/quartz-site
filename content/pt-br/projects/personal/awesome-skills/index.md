@@ -2,7 +2,7 @@
 publish: true
 title: awesome-skills
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:31:30-03:00
+modified: 2026-11-11T15:34:00-03:00
 tags:
 - ia
 - agente
@@ -53,7 +53,7 @@ mirror_of: pedroiff0/awesome-skills/README.md
 
 # awesome-skills
 
-[![CI](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/awesome-skills)](https://github.com/pedroiff0/awesome-skills/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/awesome-skills?style=flat&logo=github)](https://github.com/pedroiff0/awesome-skills/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
+[![CI](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/awesome-skills)](https://github.com/pedroiff0/awesome-skills/blob/HEAD/LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/awesome-skills?style=flat&logo=github)](https://github.com/pedroiff0/awesome-skills/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
 
 Catálogo de skills procedurais (`SKILL.md`), servidores MCP e plugins para agentes de IA, com instalador que equipa Antigravity, Hermes Agent, Claude Code, Codex, Cursor, Windsurf, Roo/Cline e OpenCode a partir de um único formato.
 
@@ -161,7 +161,7 @@ flowchart LR
     B --> E[Antigravity, Hermes, Cursor...]
 ```
 
-Índice completo das skills em [skills/](skills/).
+Índice completo das skills em [skills/](https://github.com/pedroiff0/awesome-skills/blob/HEAD/skills/).
 
 ## Trabalhando no projeto
 
@@ -173,7 +173,7 @@ python -m pytest
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Rode os testes antes de abrir o pull request.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CHANGELOG).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CHANGELOG.md).
 
 ## Status e próximos passos
 
@@ -186,30 +186,32 @@ Estado atual: **ativo**. Linux é a plataforma verificada; macOS e Windows têm 
 
 ## Como contribuir
 
-Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CONTRIBUTING).
+Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CONTRIBUTING.md).
 
 1. Abra uma issue descrevendo o problema ou a ideia.
 2. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 3. Faça commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
-4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CHANGELOG).
+4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CHANGELOG.md).
 
 ## Código de conduta
 
-Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CODE_OF_CONDUCT). Ao participar, você concorda em segui-lo.
+Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CODE_OF_CONDUCT.md). Ao participar, você concorda em segui-lo.
 
 ## Segurança
 
-Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/SECURITY) para reportar de forma confidencial.
+Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/SECURITY.md) para reportar de forma confidencial.
 
 ## Suporte
 
-Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/SUPPORT).
+Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/SUPPORT.md).
 
 ## Estrelas e atividade
 
 [![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/awesome-skills&type=Date)](https://star-history.com/#pedroiff0/awesome-skills&Date)
 
 [![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/awesome-skills?logo=github)](https://github.com/pedroiff0/awesome-skills/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/awesome-skills?logo=git&logoColor=white)](https://github.com/pedroiff0/awesome-skills/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/awesome-skills)](https://github.com/pedroiff0/awesome-skills/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/awesome-skills)](https://github.com/pedroiff0/awesome-skills/pulls)
+
+<div align="center">
 
 ## Autor
 
@@ -223,9 +225,11 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/awes
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/awesome-skills)](https://github.com/pedroiff0/awesome-skills/graphs/contributors)
 
+</div>
+
 ## Licença
 
-Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/awesome-skills/blob/HEAD/LICENSE):
+Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/awesome-skills/blob/HEAD/LICENSE.md):
 
 ```txt
 MIT License
