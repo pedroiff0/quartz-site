@@ -9,7 +9,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T15:19:40-03:00
+modified: 2026-11-11T15:22:18-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -228,4 +228,14 @@ Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do Git
 
 MIT. Veja [LICENSE](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/LICENSE).
 
-Pedro Henrique Rocha de Andrade, 2026.
+---
+
+<div align="center">
+
+<img src="https://api.iconify.design/mdi/star-shooting.svg?color=%23c678dd" width="20" valign="middle" /> *"Keep looking up."*
+
+<br>
+
+<sub>© 2026 Pedro Rocha — Computer Engineering & Computational Astrophysics · IFF / PIBIC-CNPq, made with ☕, code and ☄️ by Pedro Henrique Rocha de Andrade</sub>
+
+</div>

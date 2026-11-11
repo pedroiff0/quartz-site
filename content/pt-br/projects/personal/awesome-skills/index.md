@@ -2,7 +2,7 @@
 publish: true
 title: awesome-skills
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:19:40-03:00
+modified: 2026-11-11T15:22:18-03:00
 tags:
 - ia
 - agente
@@ -207,4 +207,14 @@ Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.co
 
 MIT. Veja [LICENSE](https://github.com/pedroiff0/awesome-skills/blob/HEAD/LICENSE). Cada skill mantém o crédito do autor original.
 
-Pedro Henrique Rocha de Andrade, 2026.
+---
+
+<div align="center">
+
+<img src="https://api.iconify.design/mdi/star-shooting.svg?color=%23c678dd" width="20" valign="middle" /> *"Keep looking up."*
+
+<br>
+
+<sub>© 2026 Pedro Rocha — Computer Engineering & Computational Astrophysics · IFF / PIBIC-CNPq, made with ☕, code and ☄️ by Pedro Henrique Rocha de Andrade</sub>
+
+</div>

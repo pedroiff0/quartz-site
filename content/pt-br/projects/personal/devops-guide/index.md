@@ -2,7 +2,7 @@
 publish: true
 title: Guia de DevOps e Infraestrutura
 created: '2026-09-28T22:55:00-03:00'
-modified: 2026-11-11T15:19:40-03:00
+modified: 2026-11-11T15:22:18-03:00
 tags:
 - projeto
 - publico
@@ -171,4 +171,14 @@ Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.co
 
 MIT. Veja [LICENSE](https://github.com/pedroiff0/devops-guide/blob/HEAD/LICENSE).
 
-Pedro Henrique Rocha de Andrade, 2026.
+---
+
+<div align="center">
+
+<img src="https://api.iconify.design/mdi/star-shooting.svg?color=%23c678dd" width="20" valign="middle" /> *"Keep looking up."*
+
+<br>
+
+<sub>© 2026 Pedro Rocha — Computer Engineering & Computational Astrophysics · IFF / PIBIC-CNPq, made with ☕, code and ☄️ by Pedro Henrique Rocha de Andrade</sub>
+
+</div>

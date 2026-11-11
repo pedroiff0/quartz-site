@@ -2,7 +2,7 @@
 publish: true
 title: Baton
 created: '2026-11-04T12:00:00-03:00'
-modified: 2026-11-11T15:19:40-03:00
+modified: 2026-11-11T15:22:18-03:00
 published: '2026-11-04T12:00:00-03:00'
 tags:
 - projeto
@@ -215,4 +215,14 @@ Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.co
 
 MIT. Veja [LICENSE](https://github.com/pedroiff0/baton/blob/HEAD/LICENSE). O pdf.js (Apache-2.0) e o qrcode-generator (MIT) vêm de `vendor/` com as licenças originais.
 
-Pedro Henrique Rocha de Andrade, 2026.
+---
+
+<div align="center">
+
+<img src="https://api.iconify.design/mdi/star-shooting.svg?color=%23c678dd" width="20" valign="middle" /> *"Keep looking up."*
+
+<br>
+
+<sub>© 2026 Pedro Rocha — Computer Engineering & Computational Astrophysics · IFF / PIBIC-CNPq, made with ☕, code and ☄️ by Pedro Henrique Rocha de Andrade</sub>
+
+</div>

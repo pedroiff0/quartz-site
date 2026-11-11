@@ -2,7 +2,7 @@
 publish: true
 title: Projeto Profissional (template)
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:19:40-03:00
+modified: 2026-11-11T15:22:22-03:00
 tags:
 - template
 - boilerplate
@@ -251,4 +251,14 @@ Veja [CONTRIBUTING.md](https://github.com/pedroiff0/projeto-profissional/blob/HE
 
 MIT. Veja [LICENSE](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/LICENSE).
 
-Pedro Henrique Rocha de Andrade, 2026.
+---
+
+<div align="center">
+
+<img src="https://api.iconify.design/mdi/star-shooting.svg?color=%23c678dd" width="20" valign="middle" /> *"Keep looking up."*
+
+<br>
+
+<sub>© 2026 Pedro Rocha — Computer Engineering & Computational Astrophysics · IFF / PIBIC-CNPq, made with ☕, code and ☄️ by Pedro Henrique Rocha de Andrade</sub>
+
+</div>
