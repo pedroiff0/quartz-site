@@ -1,9 +1,6 @@
 # quartz-site
 
-[![CI](https://github.com/pedroiff0/quartz-site/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/quartz-site/actions/workflows/ci.yml)
-[![Licença](https://img.shields.io/github/license/pedroiff0/quartz-site)](LICENSE)
-[![Estrelas](https://img.shields.io/github/stars/pedroiff0/quartz-site?style=flat&logo=github)](https://github.com/pedroiff0/quartz-site/stargazers)
-[![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
+[![CI](https://github.com/pedroiff0/quartz-site/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/quartz-site/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/quartz-site)](LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/quartz-site?style=flat&logo=github)](https://github.com/pedroiff0/quartz-site/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
 
 Jardim digital e portfólio acadêmico de Pedro Henrique Rocha de Andrade, publicado em [phrandrade.com](https://www.phrandrade.com) com Quartz v5 e sincronizado com o cofre Obsidian.
 
