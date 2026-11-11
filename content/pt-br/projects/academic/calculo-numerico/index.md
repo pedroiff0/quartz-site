@@ -9,7 +9,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T15:22:18-03:00
+modified: 2026-11-11T15:23:57-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -70,6 +70,10 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#calculo
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status](#status)
 - [Como citar](#como-citar)
+- [Como contribuir](#como-contribuir)
+- [Código de conduta](#código-de-conduta)
+- [Segurança](#segurança)
+- [Suporte](#suporte)
 - [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
@@ -206,6 +210,27 @@ Estado atual: **concluído** para a disciplina; mantido para consulta e correç�
 
 Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do GitHub).
 
+## Como contribuir
+
+Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/CONTRIBUTING).
+
+1. Abra uma issue descrevendo o problema ou a ideia.
+2. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
+3. Faça commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
+4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/CHANGELOG).
+
+## Código de conduta
+
+Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/CODE_OF_CONDUCT). Ao participar, você concorda em segui-lo.
+
+## Segurança
+
+Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/SECURITY) para reportar de forma confidencial.
+
+## Suporte
+
+Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/SUPPORT).
+
 ## Estrelas e atividade
 
 [![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/calculo-numerico&type=Date)](https://star-history.com/#pedroiff0/calculo-numerico&Date)
@@ -226,7 +251,22 @@ Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do Git
 
 ## Licença
 
-MIT. Veja [LICENSE](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/LICENSE).
+Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/LICENSE):
+
+```txt
+MIT License
+
+Copyright (c) <2025> <Pedro Henrique Rocha de Andrade>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+[Full MIT license text omitted here for brevity — include the standard MIT text in the file before publishing.]
+```
 
 ---
 

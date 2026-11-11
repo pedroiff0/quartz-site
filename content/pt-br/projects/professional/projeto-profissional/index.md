@@ -2,7 +2,7 @@
 publish: true
 title: Projeto Profissional (template)
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:22:22-03:00
+modified: 2026-11-11T15:23:57-03:00
 tags:
 - template
 - boilerplate
@@ -70,9 +70,10 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#projeto
 - [Arquitetura](#arquitetura)
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Roadmap](#roadmap)
-- [Suporte](#suporte)
+- [Como contribuir](#como-contribuir)
+- [Código de conduta](#código-de-conduta)
 - [Segurança](#segurança)
-- [Contribuindo](#contribuindo)
+- [Suporte](#suporte)
 - [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
@@ -217,17 +218,26 @@ make lint
 - [ ] Recuperação de senha por e-mail
 - [ ] Exemplo de módulo de domínio completo
 
-## Suporte
+## Como contribuir
 
-Veja [SUPPORT.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/SUPPORT).
+Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CONTRIBUTING).
+
+1. Abra uma issue descrevendo o problema ou a ideia.
+2. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
+3. Faça commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
+4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CHANGELOG).
+
+## Código de conduta
+
+Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CODE_OF_CONDUCT). Ao participar, você concorda em segui-lo.
 
 ## Segurança
 
-Veja [SECURITY.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/SECURITY) para reportar vulnerabilidades de forma confidencial.
+Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/SECURITY) para reportar de forma confidencial.
 
-## Contribuindo
+## Suporte
 
-Veja [CONTRIBUTING.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CONTRIBUTING) e [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CODE_OF_CONDUCT).
+Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/SUPPORT).
 
 ## Estrelas e atividade
 
@@ -249,7 +259,31 @@ Veja [CONTRIBUTING.md](https://github.com/pedroiff0/projeto-profissional/blob/HE
 
 ## Licença
 
-MIT. Veja [LICENSE](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/LICENSE).
+Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/LICENSE):
+
+```txt
+MIT License
+
+Copyright (c) 2026 Pedro Henrique Rocha de Andrade
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 ---
 

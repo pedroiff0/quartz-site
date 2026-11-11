@@ -2,7 +2,7 @@
 publish: true
 title: Guia de DevOps e Infraestrutura
 created: '2026-09-28T22:55:00-03:00'
-modified: 2026-11-11T15:22:18-03:00
+modified: 2026-11-11T15:23:57-03:00
 tags:
 - projeto
 - publico
@@ -38,7 +38,10 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#devops-
 - [Como funciona](#como-funciona)
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status e próximos passos](#status-e-próximos-passos)
-- [Contribuindo e suporte](#contribuindo-e-suporte)
+- [Como contribuir](#como-contribuir)
+- [Código de conduta](#código-de-conduta)
+- [Segurança](#segurança)
+- [Suporte](#suporte)
 - [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
@@ -145,9 +148,26 @@ Estado atual: **ativo**. O pilar de GitHub está completo; os demais estão em e
 - [ ] Completar Docker, Cloudflare e Claude
 - [ ] Completar Hermes Agent, Lovable e OceanGate
 
-## Contribuindo e suporte
+## Como contribuir
 
-Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/CONTRIBUTING), [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/CODE_OF_CONDUCT) e [SUPPORT.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/SUPPORT). Vulnerabilidades seguem [SECURITY.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/SECURITY).
+Contribuições são bem-vindas. Antes de começar, leia o [guia de contribuição](https://github.com/pedroiff0/devops-guide/blob/HEAD/CONTRIBUTING).
+
+1. Abra uma issue descrevendo o problema ou a ideia.
+2. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
+3. Faça commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
+4. Abra o pull request e registre a mudança em [CHANGELOG.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/CHANGELOG).
+
+## Código de conduta
+
+Este projeto adota o [Código de Conduta](https://github.com/pedroiff0/devops-guide/blob/HEAD/CODE_OF_CONDUCT). Ao participar, você concorda em segui-lo.
+
+## Segurança
+
+Não abra issue pública para vulnerabilidades. Siga o procedimento de [SECURITY.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/SECURITY) para reportar de forma confidencial.
+
+## Suporte
+
+Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/SUPPORT).
 
 ## Estrelas e atividade
 
@@ -169,7 +189,31 @@ Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.co
 
 ## Licença
 
-MIT. Veja [LICENSE](https://github.com/pedroiff0/devops-guide/blob/HEAD/LICENSE).
+Distribuído sob a licença MIT. Texto completo do arquivo [LICENSE](https://github.com/pedroiff0/devops-guide/blob/HEAD/LICENSE):
+
+```txt
+MIT License
+
+Copyright (c) 2025 Pedro
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 ---
 
