@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 9º Período
-created: '2026-07-21 12:00:00-03:00'
-modified: 2026-10-16T10:48:31-03:00
+created: '2026-07-21T12:00:00-03:00'
+modified: 2026-11-10T13:52:35-03:00
 tags:
 - disciplina
 - engenharia-de-computacao

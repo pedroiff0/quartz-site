@@ -6,8 +6,8 @@ aliases:
   - Sobre Mim
   - Início
   - sobre-mim
-created: 2026-07-18 20:34:00-03:00
-modified: 2026-11-03T12:06:04-03:00
+created: '2026-07-18T20:34:00-03:00'
+modified: 2026-11-10T12:03:46-03:00
 tags:
   - pessoal
   - sobre-mim

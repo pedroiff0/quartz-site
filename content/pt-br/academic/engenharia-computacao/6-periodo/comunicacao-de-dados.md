@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Comunicação de Dados
-created: '2026-07-18 12:00:00-03:00'
-modified: 2026-11-02T13:02:10-03:00
+created: '2026-07-18T12:00:00-03:00'
+modified: 2026-11-10T16:16:25-03:00
 tags:
 - disciplina
 - engenharia-de-computacao

@@ -4,8 +4,8 @@ title: Engenharia de Computação
 aliases:
   - Engenharia de Computação Hub
   - IFF EngComp Hub
-created: 2026-07-22 12:00:00-03:00
-modified: 2026-10-20T11:21:31-03:00
+created: '2026-07-22T12:00:00-03:00'
+modified: 2026-11-10T13:52:35-03:00
 tags:
   - matriz-curricular
   - engenharia-de-computacao

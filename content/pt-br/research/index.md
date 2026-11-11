@@ -4,8 +4,8 @@ title: Pesquisas
 aliases:
   - Pesquisas Hub
   - Central de Pesquisas
-created: 2026-09-30 11:59:00-03:00
-modified: 2026-11-10T10:01:05-03:00
+created: '2026-09-30T11:59:00-03:00'
+modified: 2026-11-10T13:52:36-03:00
 tags:
   - pesquisa
   - astronomia

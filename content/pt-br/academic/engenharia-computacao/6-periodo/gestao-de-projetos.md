@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Gestão de Projetos
-created: '2026-08-22 12:00:00-03:00'
-modified: 2026-10-21T15:24:02-03:00
+created: '2026-08-22T12:00:00-03:00'
+modified: 2026-11-10T13:52:36-03:00
 tags:
 - disciplina
 - engenharia-de-computacao

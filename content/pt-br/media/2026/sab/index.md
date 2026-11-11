@@ -2,7 +2,7 @@
 publish: true
 title: XLIX RASAB
 created: 2026-07-18T13:34:00-03:00
-modified: 2026-11-09T13:50:08-03:00
+modified: 2026-11-10T17:07:43-03:00
 tags:
   - midia
   - evento
@@ -85,6 +85,8 @@ resource-sync: true
 > [!note] Minha participação
 > Preencher durante e depois do evento: quem passou pelo pôster, perguntas recebidas, contatos feitos e convites.
 
+- [ ] Preencher Minha participação e Opinião (SAB 2026)
+
 %% visitantes:inicio %%
 
 ### Quem passou pelo pôster
@@ -100,7 +102,7 @@ Quer aparecer aqui? Deixe seu nome no [painel interativo](https://anomaly.phrand
 ## Programação
 
 > [!info] Fontes
-> Programação completa do [[resource/midia/2026/sab/sab2026_planner.html|planejador interativo]] (atualizado em 2026-10-26 18:03) e minha agenda do arquivo `sab2026_agenda.ics`. A coluna "Na agenda" marca o que está no .ics; o .ics é atualizado ao final do congresso. Gerado por `99-meta/scripts/evento-programacao.py`: não editar este bloco à mão.
+> Programação completa do [[resource/midia/2026/sab/sab2026-planner.html|planejador interativo]] (atualizado em 2026-10-26 18:03) e minha agenda do arquivo `sab2026_agenda.ics`. A coluna "Na agenda" marca o que está no .ics; o .ics é atualizado ao final do congresso. Gerado por `99-meta/scripts/evento-programacao.py`: não editar este bloco à mão.
 
 ### Minha agenda
 
@@ -397,3 +399,8 @@ O SAB 2025 descreveu a vizinhança solar só pelos números do catálogo. O SAB 
 - Fonte: [Programação oficial da RASAB 2026](https://rasab2026.sab-astro.org.br/programacao/) e [site da SAB](https://sab-astro.org.br/)
 - [[pt-br/research/deteccao-de-anomalias-iff-2025/index|Detecção de Anomalias Espectrais em Estrelas da Vizinhança Solar]]: pesquisa completa por trás do pôster
 - [[pt-br/media/2025/sab|SAB 2025]]: edição anterior
+
+## Pendências do SAB26
+
+- [ ] SAB26: finalizar as pendências e deixar o site pronto, com o web viewer (continua ativo, acesso restrito total, mesma configuração atual) e a tag NFC de aproximação #pesquisa
+- [ ] SAB26: no banner, levar o QR code para junto do cabeçalho (embaixo ficou ruim de escanear) #pesquisa

@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 4ª SCEG 2024
-created: 2024-10-22 13:04:00-03:00
-modified: 2026-10-15T18:33:10-03:00
+created: '2024-10-22T13:04:00-03:00'
+modified: 2026-11-10T13:52:36-03:00
 tags:
   - midia
 cssclasses:

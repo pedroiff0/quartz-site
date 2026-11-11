@@ -6,8 +6,8 @@ aliases:
   - Central de Cursos
   - Cursos e Formações
   - cursos
-created: 2026-09-15 21:50:00-03:00
-modified: 2026-10-20T11:21:31-03:00
+created: '2026-09-15T21:50:00-03:00'
+modified: 2026-11-10T12:03:45-03:00
 tags:
   - curso
   - extensao

@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Setup
-created: 2026-09-07 16:47:01-03:00
-modified: 2026-10-20T11:21:31-03:00
+created: '2026-09-07T16:47:01-03:00'
+modified: 2026-11-10T13:52:36-03:00
 tags:
   - pessoal
 cssclasses:

@@ -1,8 +1,8 @@
 ---
 publish: true
 title: XVI MCTIA
-created: 2025-12-01 13:04:00-03:00
-modified: 2026-11-03T10:37:25-03:00
+created: '2025-12-01T13:04:00-03:00'
+modified: 2026-11-10T13:52:36-03:00
 tags:
   - midia
 cssclasses:

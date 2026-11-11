@@ -3,8 +3,8 @@ publish: true
 title: About Me
 aliases:
   - Home
-created: 2026-07-18 20:34:00-03:00
-modified: 2026-11-03T12:06:04-03:00
+created: '2026-07-18T20:34:00-03:00'
+modified: 2026-11-10T13:52:36-03:00
 tags:
   - pessoal
   - sobre-mim

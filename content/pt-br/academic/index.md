@@ -4,8 +4,8 @@ title: Acadêmico
 aliases:
   - Acadêmico Hub
   - Central Acadêmica
-created: 2026-09-30 11:30:00-03:00
-modified: 2026-11-10T11:11:01-03:00
+created: '2026-09-30T11:30:00-03:00'
+modified: 2026-11-10T12:03:45-03:00
 tags:
   - academico
   - iff

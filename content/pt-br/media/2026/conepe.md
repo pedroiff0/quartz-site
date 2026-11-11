@@ -1,8 +1,8 @@
 ---
 publish: true
 title: XIII CONEPE
-created: 2026-07-18 13:34:00-03:00
-modified: 2026-11-03T10:36:33-03:00
+created: '2026-07-18T13:34:00-03:00'
+modified: 2026-11-10T13:52:36-03:00
 tags:
   - midia
 cssclasses:

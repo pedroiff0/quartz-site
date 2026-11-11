@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 2026
-created: 2026-07-23 13:04:00-03:00
-modified: 2026-11-04T09:42:45-03:00
+created: '2026-07-23T13:04:00-03:00'
+modified: 2026-11-10T16:16:25-03:00
 tags:
   - midia
 cssclasses:

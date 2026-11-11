@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 6º Período
-created: 2026-07-21 12:00:00-03:00
-modified: 2026-10-16T10:48:31-03:00
+created: '2026-07-21T12:00:00-03:00'
+modified: 2026-11-10T17:07:43-03:00
 tags:
   - disciplina
   - engenharia-de-computacao
@@ -154,3 +154,8 @@ Navegue interativamente pelas disciplinas deste bloco letivo:
     <div class="slide-caption">Gestão de Projetos</div>
   </a>
 </div>
+
+## Pendências do período
+
+- [ ] Marcar como "Sem aula" as aulas do 6º período canceladas (Mostra, provas e feriados) e anotar as aulas vazias (50 de 78 já ocorridas em 03/11/2026, a maioria em Compiladores, Filosofia e POO I)
+- [ ] Decidir se `date:` deve existir nas notas de atividade (7 sem o campo em Banco de Dados, Filosofia e ASOO; Pedro disse em 10/11/2026 que não deveria existir) e ajustar as consultas das disciplinas
