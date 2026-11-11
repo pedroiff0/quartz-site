@@ -2087,7 +2087,8 @@ a.external:has(> img) .external-icon {
 /* Páginas de projeto (README) e hubs: todos os h1 centralizados e badges lado a lado, como no GitHub. */
 body[data-slug*="/projects/"] {
   article .article-title,
-  article h1 {
+  article h1,
+  article h2 {
     width: 100% !important;
     max-width: 100% !important;
     text-align: center !important;
