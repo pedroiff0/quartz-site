@@ -2072,3 +2072,8 @@ details.collapsible-heading {
     padding: 0.25rem 0 0.75rem 1.25rem;
   }
 }
+
+a.external:has(> img)::after,
+a.external:has(> img) .external-icon {
+  display: none;
+}
