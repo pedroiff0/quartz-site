@@ -2119,3 +2119,14 @@ article p[align="center"] {
     display: inline-block;
   }
 }
+
+/* Tabela do autor (foto e nome) centralizada dentro de blocos align=center */
+article div[align="center"] .table-container {
+  display: flex;
+  justify-content: center;
+}
+
+article div[align="center"] table {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
