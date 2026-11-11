@@ -2084,11 +2084,15 @@ a.external:has(> img) .external-icon {
   display: none;
 }
 
-/* Páginas de projeto (README): título centralizado e badges lado a lado, como no GitHub. Os hubs ficam de fora. */
-body[data-slug*="/projects/"]:not([data-slug$="/projects/index"]):not([data-slug$="/academic/index"]):not([data-slug$="/personal/index"]):not([data-slug$="/professional/index"]) {
+/* Páginas de projeto (README) e hubs: todos os h1 centralizados e badges lado a lado, como no GitHub. */
+body[data-slug*="/projects/"] {
   article .article-title,
   article h1 {
-    text-align: center;
+    width: 100% !important;
+    max-width: 100% !important;
+    text-align: center !important;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   article p:has(> a > img),
