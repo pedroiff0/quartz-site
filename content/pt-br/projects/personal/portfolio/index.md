@@ -2,7 +2,7 @@
 publish: true
 title: Portfólio
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:23:57-03:00
+modified: 2026-11-11T15:31:30-03:00
 tags:
 - portfolio
 - pagina-unica
@@ -285,6 +285,8 @@ SOFTWARE.
 <div align="center">
 
 <img src="https://api.iconify.design/mdi/star-shooting.svg?color=%23c678dd" width="20" valign="middle" /> *"Keep looking up."*
+
+<img src="https://raw.githubusercontent.com/pedroiff0/pedroiff0/main/assets/pedroiff0.gif" width="480" alt="pedroiff0" />
 
 <br>
 

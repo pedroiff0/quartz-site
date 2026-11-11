@@ -2,7 +2,7 @@
 publish: true
 title: Análise de Software Orientada a Objetos
 created: '2026-07-18T12:00:00-03:00'
-modified: 2026-11-10T13:52:36-03:00
+modified: 2026-11-11T15:29:45-03:00
 tags:
 - disciplina
 - engenharia-de-computacao
@@ -72,27 +72,27 @@ resource-sync: false
 >   - [x] Linguagem de Modelagem Unificada ✅ 2026-09-22
 >   - [x] Processo Unificado ✅ 2026-09-22
 > - [ ] **2. Modelagem de Negócio**
->   - [ ] Introdução à Modelagem de Negócio
->   - [ ] Visão Geral do Sistema
->   - [ ] Casos de Uso de Negócio
->   - [ ] Diagrama de Atividades de Negócio
->   - [ ] Aspectos do Negócio Dependente de Estado
-> - [ ] **3. Requisitos de Alto Nível**
->   - [ ] Introdução aos Requisitos de Alto Nível
->   - [ ] Atores de Sistema
->   - [ ] Casos de Uso de Sistema
->   - [ ] Como Encontrar Casos de Uso de Sistema no Modelo de Negócio
+>   - [x] Introdução à Modelagem de Negócio ✅ 2026-11-11
+>   - [x] Visão Geral do Sistema ✅ 2026-11-11
+>   - [x] Casos de Uso de Negócio ✅ 2026-11-11
+>   - [x] Diagrama de Atividades de Negócio ✅ 2026-11-11
+>   - [x] Aspectos do Negócio Dependente de Estado ✅ 2026-11-11
+> - [x] **3. Requisitos de Alto Nível** ✅ 2026-11-11
+>   - [x] Introdução aos Requisitos de Alto Nível ✅ 2026-11-11
+>   - [x] Atores de Sistema ✅ 2026-11-11
+>   - [x] Casos de Uso de Sistema ✅ 2026-11-11
+>   - [x] Como Encontrar Casos de Uso de Sistema no Modelo de Negócio ✅ 2026-11-11
 >   - [ ] Requisitos
->   - [ ] Modelo Conceitual
-> - [ ] **4. Planejamento de Projeto Baseado em Casos de Uso**
->   - [ ] Introdução à Estimação de Esforço e Análise de Risco em Projetos de Software
->   - [ ] Análise de Pontos de Caso de Uso
+>   - [x] Modelo Conceitual ✅ 2026-11-11
+> - [x] **4. Planejamento de Projeto Baseado em Casos de Uso** ✅ 2026-11-11
+>   - [x] Introdução à Estimação de Esforço e Análise de Risco em Projetos de Software ✅ 2026-11-11
+>   - [x] Análise de Pontos de Caso de Uso ✅ 2026-11-11
 >   - [ ] Planejamento de Projeto Iterativo
 > - [ ] **5. Casos de Uso Expandidos**
->   - [ ] Introdução aos Casos de Uso Expandidos
->   - [ ] Fluxo Principal
->   - [ ] Fluxos Alternativos
->   - [ ] Recomendações de Escrita
+>   - [x] Introdução aos Casos de Uso Expandidos ✅ 2026-11-11
+>   - [x] Fluxo Principal ✅ 2026-11-11
+>   - [x] Fluxos Alternativos ✅ 2026-11-11
+>   - [x] Recomendações de Escrita ✅ 2026-11-11
 >   - [ ] Casos de Uso Incluídos e Fragmentos
 >   - [ ] Expansão de Casos de Uso Expandido
 >   - [ ] Outras Seções de um Caso de Uso Expandido
