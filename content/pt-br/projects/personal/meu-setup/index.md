@@ -2,7 +2,7 @@
 publish: true
 title: meu-setup
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T14:25:41-03:00
+modified: 2026-11-11T15:11:50-03:00
 tags:
 - dotfiles
 - provisionamento
@@ -71,7 +71,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#meu-set
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status e próximos passos](#status-e-próximos-passos)
 - [Contribuindo e suporte](#contribuindo-e-suporte)
-- [Autores](#autores)
+- [Autor](#autor)
 - [Licença](#licença)
 
 ## Por que existe
@@ -189,7 +189,7 @@ Estado atual: **ativo** (versão 2.0.0). Linux é a plataforma mais testada; mac
 
 Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/CONTRIBUTING), [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/CODE_OF_CONDUCT) e [SUPPORT.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/SUPPORT). Vulnerabilidades seguem [SECURITY.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/SECURITY).
 
-## Autores
+## Autor
 
 <table>
   <tr>

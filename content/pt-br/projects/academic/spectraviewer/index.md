@@ -10,7 +10,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T14:25:41-03:00
+modified: 2026-11-11T15:11:50-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -71,7 +71,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#spectra
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status](#status)
 - [Como citar](#como-citar)
-- [Autores](#autores)
+- [Autor](#autor)
 - [Licença](#licença)
 
 ## Resumo
@@ -205,7 +205,7 @@ Estado atual: **ativo**.
 
 Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do GitHub). Cite também o GALAH DR4 (Buder et al.).
 
-## Autores
+## Autor
 
 <table>
   <tr>

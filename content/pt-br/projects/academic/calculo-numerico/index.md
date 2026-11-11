@@ -9,7 +9,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T14:25:41-03:00
+modified: 2026-11-11T15:11:50-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -70,7 +70,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#calculo
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status](#status)
 - [Como citar](#como-citar)
-- [Autores](#autores)
+- [Autor](#autor)
 - [Licença](#licença)
 
 ## Resumo
@@ -205,7 +205,17 @@ Estado atual: **concluído** para a disciplina; mantido para consulta e correç�
 
 Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do GitHub).
 
-## Autores
+## Autor
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/pedroiff0"><img src="https://github.com/pedroiff0.png?size=120" width="96" height="96" alt="Pedro Henrique Rocha de Andrade" /><br /><sub><b>Pedro Henrique Rocha de Andrade</b></sub></a><br />Autor e mantenedor</td>
+  </tr>
+</table>
+
+### Contribuidores
+
+[![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/calculo-numerico)](https://github.com/pedroiff0/calculo-numerico/graphs/contributors)
 
 ## Licença
 

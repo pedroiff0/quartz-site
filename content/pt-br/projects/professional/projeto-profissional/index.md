@@ -2,7 +2,7 @@
 publish: true
 title: Projeto Profissional (template)
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T14:25:41-03:00
+modified: 2026-11-11T15:11:50-03:00
 tags:
 - template
 - boilerplate
@@ -73,7 +73,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#projeto
 - [Suporte](#suporte)
 - [Segurança](#segurança)
 - [Contribuindo](#contribuindo)
-- [Autores](#autores)
+- [Autor](#autor)
 - [Licença](#licença)
 
 ## O que é
@@ -232,7 +232,17 @@ Veja [SECURITY.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/S
 
 Veja [CONTRIBUTING.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CONTRIBUTING) e [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CODE_OF_CONDUCT).
 
-## Autores
+## Autor
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/pedroiff0"><img src="https://github.com/pedroiff0.png?size=120" width="96" height="96" alt="Pedro Henrique Rocha de Andrade" /><br /><sub><b>Pedro Henrique Rocha de Andrade</b></sub></a><br />Autor e mantenedor</td>
+  </tr>
+</table>
+
+### Contribuidores
+
+[![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/projeto-profissional)](https://github.com/pedroiff0/projeto-profissional/graphs/contributors)
 
 ## Licença
 

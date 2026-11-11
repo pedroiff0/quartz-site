@@ -2,7 +2,7 @@
 publish: true
 title: Portfólio
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T14:25:41-03:00
+modified: 2026-11-11T15:11:50-03:00
 tags:
 - portfolio
 - pagina-unica
@@ -70,7 +70,7 @@ Portfólio de Pedro Rocha: página estática única, minimalista, com tema claro
 - [Suporte](#suporte)
 - [Segurança](#segurança)
 - [Contribuindo](#contribuindo)
-- [Autores](#autores)
+- [Autor](#autor)
 - [Licença](#licença)
 
 ## O que é
@@ -229,7 +229,7 @@ Veja [SECURITY.md](https://github.com/pedroiff0/portfolio/blob/HEAD/SECURITY).
 
 Veja [CONTRIBUTING.md](https://github.com/pedroiff0/portfolio/blob/HEAD/CONTRIBUTING) e [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/portfolio/blob/HEAD/CODE_OF_CONDUCT).
 
-## Autores
+## Autor
 
 <table>
   <tr>

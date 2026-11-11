@@ -2,7 +2,7 @@
 publish: true
 title: Baton
 created: '2026-11-04T12:00:00-03:00'
-modified: 2026-11-11T14:25:41-03:00
+modified: 2026-11-11T15:11:50-03:00
 published: '2026-11-04T12:00:00-03:00'
 tags:
 - projeto
@@ -74,7 +74,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#baton) 
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status e próximos passos](#status-e-próximos-passos)
 - [Contribuindo e suporte](#contribuindo-e-suporte)
-- [Autores](#autores)
+- [Autor](#autor)
 - [Licença](#licença)
 
 ## Por que existe
@@ -197,7 +197,7 @@ Estado atual: **ativo**. A camada do macOS e o Windows ainda dependem de teste e
 
 Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.com/pedroiff0/baton/blob/HEAD/CONTRIBUTING), [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/baton/blob/HEAD/CODE_OF_CONDUCT) e [SUPPORT.md](https://github.com/pedroiff0/baton/blob/HEAD/SUPPORT). Vulnerabilidades seguem [SECURITY.md](https://github.com/pedroiff0/baton/blob/HEAD/SECURITY).
 
-## Autores
+## Autor
 
 <table>
   <tr>
