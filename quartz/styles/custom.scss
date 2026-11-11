@@ -2110,8 +2110,10 @@ body[data-slug*="/projects/"] {
 
 /* Blocos HTML alinhados no centro (rodapé dos READMEs, <div align="center">) */
 article div[align="center"],
+article div[align="center"] p,
+article div[align="center"] sub,
 article p[align="center"] {
-  text-align: center;
+  text-align: center !important;
 
   img {
     display: inline-block;
