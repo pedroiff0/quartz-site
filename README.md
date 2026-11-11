@@ -18,6 +18,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#quartz-
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status e próximos passos](#status-e-próximos-passos)
 - [Contribuindo e suporte](#contribuindo-e-suporte)
+- [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
 
@@ -35,15 +36,7 @@ Notas, pesquisas e projetos vivem no cofre Obsidian, que é privado. O site publ
 
 ## Tecnologias
 
-## Tecnologias
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=gnu&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Preact](https://img.shields.io/badge/Preact-673AB8?style=flat&logo=preact&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white)
 
 ## Instalação
 
@@ -134,6 +127,12 @@ Estado atual: **ativo**.
 ## Contribuindo e suporte
 
 Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) e [SUPPORT.md](SUPPORT.md). Vulnerabilidades seguem [SECURITY.md](SECURITY.md).
+
+## Estrelas e atividade
+
+[![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/quartz-site&type=Date)](https://star-history.com/#pedroiff0/quartz-site&Date)
+
+[![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/quartz-site?logo=github)](https://github.com/pedroiff0/quartz-site/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/quartz-site?logo=git&logoColor=white)](https://github.com/pedroiff0/quartz-site/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/quartz-site)](https://github.com/pedroiff0/quartz-site/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/quartz-site)](https://github.com/pedroiff0/quartz-site/pulls)
 
 ## Autor
 
