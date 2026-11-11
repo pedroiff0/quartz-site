@@ -2,7 +2,7 @@
 publish: true
 title: Projeto Profissional (template)
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T14:05:05-03:00
+modified: 2026-11-11T14:25:41-03:00
 tags:
 - template
 - boilerplate
@@ -31,7 +31,7 @@ mirror_of: pedroiff0/projeto-profissional/README.md
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/projects/personal/portfolio/index|← Portfólio (este site)]]</span>
+<span class="academic-nav-btn">[[pt-br/projects/personal/portfolio/index|← Portfólio]]</span>
 
 </div>
 
@@ -53,10 +53,7 @@ mirror_of: pedroiff0/projeto-profissional/README.md
 
 # Projeto Profissional
 
-[![CI](https://github.com/pedroiff0/projeto-profissional/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/projeto-profissional/actions/workflows/ci.yml)
-[![Licença](https://img.shields.io/github/license/pedroiff0/projeto-profissional)](LICENSE.md)
-[![Estrelas](https://img.shields.io/github/stars/pedroiff0/projeto-profissional?style=flat&logo=github)](https://github.com/pedroiff0/projeto-profissional/stargazers)
-[![Status](https://img.shields.io/badge/status-ativo-informational)](#roadmap)
+[![CI](https://github.com/pedroiff0/projeto-profissional/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/projeto-profissional/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/projeto-profissional)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/projeto-profissional?style=flat&logo=github)](https://github.com/pedroiff0/projeto-profissional/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#roadmap)
 
 Template base para aplicações web completas: autenticação JWT, papéis `admin` e `user`, validação com Zod, renderização no servidor com EJS, Docker Compose para desenvolvimento e produção e testes Jest em memória.
 

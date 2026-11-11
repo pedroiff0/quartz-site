@@ -2,7 +2,7 @@
 publish: true
 title: awesome-skills
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T14:05:05-03:00
+modified: 2026-11-11T14:25:41-03:00
 tags:
 - ia
 - agente
@@ -53,10 +53,7 @@ mirror_of: pedroiff0/awesome-skills/README.md
 
 # awesome-skills
 
-[![CI](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml)
-[![Licença](https://img.shields.io/github/license/pedroiff0/awesome-skills)](LICENSE.md)
-[![Estrelas](https://img.shields.io/github/stars/pedroiff0/awesome-skills?style=flat&logo=github)](https://github.com/pedroiff0/awesome-skills/stargazers)
-[![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
+[![CI](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/awesome-skills)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/awesome-skills?style=flat&logo=github)](https://github.com/pedroiff0/awesome-skills/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
 
 Catálogo de skills procedurais (`SKILL.md`), servidores MCP e plugins para agentes de IA, com instalador que equipa Antigravity, Hermes Agent, Claude Code, Codex, Cursor, Windsurf, Roo/Cline e OpenCode a partir de um único formato.
 

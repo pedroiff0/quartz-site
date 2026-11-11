@@ -9,7 +9,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T14:05:05-03:00
+modified: 2026-11-11T14:25:41-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -50,10 +50,7 @@ mirror_of: pedroiff0/formularios/README.md
 
 # Formulários
 
-[![CI](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml)
-[![Licença](https://img.shields.io/github/license/pedroiff0/formularios)](LICENSE.md)
-[![Estrelas](https://img.shields.io/github/stars/pedroiff0/formularios?style=flat&logo=github)](https://github.com/pedroiff0/formularios/stargazers)
-[![Status](https://img.shields.io/badge/status-ativo-informational)](#status)
+[![CI](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/formularios)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/formularios?style=flat&logo=github)](https://github.com/pedroiff0/formularios/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status)
 
 Coleção de folhas de fórmulas e resumos em LaTeX, organizada por disciplina (Cálculo e Física), com um PDF por capítulo e um PDF combinado.
 

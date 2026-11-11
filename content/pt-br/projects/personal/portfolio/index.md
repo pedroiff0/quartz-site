@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Portfólio (este site)
+title: Portfólio
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T14:05:05-03:00
+modified: 2026-11-11T14:25:41-03:00
 tags:
 - portfolio
 - pagina-unica
@@ -22,7 +22,7 @@ mirror_of: pedroiff0/portfolio/README.md
 
 <div class="academic-nav-breadcrumb">
 
-<span>Projetos Públicos</span> <span class="academic-nav-sep">/</span> <span>Portfolio</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Portfólio (este site)</span>
+<span>Projetos Públicos</span> <span class="academic-nav-sep">/</span> <span class="academic-nav-current-leaf">Portfólio</span>
 
 </div>
 
@@ -52,10 +52,7 @@ mirror_of: pedroiff0/portfolio/README.md
 
 # Portfolio
 
-[![CI](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml)
-[![Licença](https://img.shields.io/github/license/pedroiff0/portfolio)](LICENSE.md)
-[![Estrelas](https://img.shields.io/github/stars/pedroiff0/portfolio?style=flat&logo=github)](https://github.com/pedroiff0/portfolio/stargazers)
-[![Status](https://img.shields.io/badge/status-ativo-informational)](#roadmap)
+[![CI](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/portfolio)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/portfolio?style=flat&logo=github)](https://github.com/pedroiff0/portfolio/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#roadmap)
 
 Portfólio de Pedro Rocha: página estática única, minimalista, com tema claro e escuro e seis idiomas (PT, EN, ES, FR, IT, ZH), publicada no GitHub Pages em [portfolio.phrandrade.com](https://portfolio.phrandrade.com).
 

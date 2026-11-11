@@ -2,7 +2,7 @@
 publish: true
 title: Guia de DevOps e Infraestrutura
 created: '2026-09-28T22:55:00-03:00'
-modified: 2026-11-11T14:05:05-03:00
+modified: 2026-11-11T14:25:41-03:00
 tags:
 - projeto
 - publico
@@ -21,10 +21,7 @@ mirror_of: pedroiff0/devops-guide/README.md
 
 # O.C.T.A. — Omni Clarified Technical Atlas
 
-[![CI](https://github.com/pedroiff0/devops-guide/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/devops-guide/actions/workflows/ci.yml)
-[![Licença](https://img.shields.io/github/license/pedroiff0/devops-guide)](LICENSE.md)
-[![Estrelas](https://img.shields.io/github/stars/pedroiff0/devops-guide?style=flat&logo=github)](https://github.com/pedroiff0/devops-guide/stargazers)
-[![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
+[![CI](https://github.com/pedroiff0/devops-guide/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/devops-guide/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/devops-guide)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/devops-guide?style=flat&logo=github)](https://github.com/pedroiff0/devops-guide/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
 
 Jardim digital bilíngue (PT-BR e EN-US) de engenharia e DevOps, publicado em [octa.phrandrade.com](https://octa.phrandrade.com) com Quartz v4: guias de Git e GitHub, Docker, Cloudflare, Claude, Hermes Agent, Lovable e OceanGate.
 

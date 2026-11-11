@@ -2,7 +2,7 @@
 publish: true
 title: meu-setup
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T14:05:05-03:00
+modified: 2026-11-11T14:25:41-03:00
 tags:
 - dotfiles
 - provisionamento
@@ -43,7 +43,7 @@ mirror_of: pedroiff0/meu-setup/README.md
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/projects/personal/portfolio/index|Portfólio (este site) →]]</span>
+<span class="academic-nav-btn">[[pt-br/projects/personal/portfolio/index|Portfólio →]]</span>
 
 </div>
 
@@ -53,10 +53,7 @@ mirror_of: pedroiff0/meu-setup/README.md
 
 # meu-setup
 
-[![CI](https://github.com/pedroiff0/meu-setup/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/meu-setup/actions/workflows/ci.yml)
-[![Licença](https://img.shields.io/github/license/pedroiff0/meu-setup)](LICENSE.md)
-[![Estrelas](https://img.shields.io/github/stars/pedroiff0/meu-setup?style=flat&logo=github)](https://github.com/pedroiff0/meu-setup/stargazers)
-[![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
+[![CI](https://github.com/pedroiff0/meu-setup/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/meu-setup/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/meu-setup)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/meu-setup?style=flat&logo=github)](https://github.com/pedroiff0/meu-setup/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
 
 Instalador declarativo e idempotente do meu ambiente de desenvolvimento para Linux, macOS e Windows: temas, ajustes de sistema para servidor 24/7 e energia, e um catálogo de mais de 100 aplicações.
 

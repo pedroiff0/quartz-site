@@ -9,7 +9,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T14:05:05-03:00
+modified: 2026-11-11T14:25:41-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -50,10 +50,7 @@ mirror_of: pedroiff0/calculo-numerico/README.md
 
 # Cálculo Numérico
 
-[![CI](https://github.com/pedroiff0/calculo-numerico/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/calculo-numerico/actions/workflows/ci.yml)
-[![Licença](https://img.shields.io/github/license/pedroiff0/calculo-numerico)](LICENSE.md)
-[![Estrelas](https://img.shields.io/github/stars/pedroiff0/calculo-numerico?style=flat&logo=github)](https://github.com/pedroiff0/calculo-numerico/stargazers)
-[![Status](https://img.shields.io/badge/status-concluído-informational)](#status)
+[![CI](https://github.com/pedroiff0/calculo-numerico/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/calculo-numerico/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/calculo-numerico)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/calculo-numerico?style=flat&logo=github)](https://github.com/pedroiff0/calculo-numerico/stargazers) [![Status](https://img.shields.io/badge/status-concluído-informational)](#status)
 
 Implementação em Python dos algoritmos da disciplina de Cálculo Numérico (2025.2, IFF Bom Jesus do Itabapoana), com 96 testes unitários, documentação Sphinx e um guia em LaTeX.
 
