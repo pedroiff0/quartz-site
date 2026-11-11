@@ -2107,3 +2107,13 @@ body[data-slug*="/projects/"] {
     }
   }
 }
+
+/* Blocos HTML alinhados no centro (rodapé dos READMEs, <div align="center">) */
+article div[align="center"],
+article p[align="center"] {
+  text-align: center;
+
+  img {
+    display: inline-block;
+  }
+}
