@@ -2077,3 +2077,14 @@ a.external:has(> img)::after,
 a.external:has(> img) .external-icon {
   display: none;
 }
+
+/* Tabelas ajustadas ao conteúdo: 2 ou 3 colunas não esticam até a largura máxima; as largas rolam na horizontal. */
+article table,
+main table,
+.page table,
+.markdown-rendered table,
+table {
+  width: fit-content !important;
+  min-width: 50%;
+  max-width: 100% !important;
+}

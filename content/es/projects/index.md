@@ -7,3 +7,5 @@ tags: []
 ---
 
 Herramientas, aplicaciones y material didáctico fuera de la investigación.
+
+Aún sin proyectos publicados.
