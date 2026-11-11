@@ -154,6 +154,8 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](SUPPORT.md).
 
 [![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/quartz-site?logo=github)](https://github.com/pedroiff0/quartz-site/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/quartz-site?logo=git&logoColor=white)](https://github.com/pedroiff0/quartz-site/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/quartz-site)](https://github.com/pedroiff0/quartz-site/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/quartz-site)](https://github.com/pedroiff0/quartz-site/pulls)
 
+<div align="center">
+
 ## Autor
 
 <table>
@@ -165,6 +167,8 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](SUPPORT.md).
 ### Contribuidores
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/quartz-site)](https://github.com/pedroiff0/quartz-site/graphs/contributors)
+
+</div>
 
 ## Licença
 
