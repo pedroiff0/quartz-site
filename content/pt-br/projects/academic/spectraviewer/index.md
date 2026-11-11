@@ -51,7 +51,7 @@ mirror_of: pedroiff0/spectraviewer/README.md
 
 # SpectraViewer
 
-[![CI](https://github.com/pedroiff0/spectraviewer/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/spectraviewer/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/spectraviewer)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/spectraviewer?style=flat&logo=github)](https://github.com/pedroiff0/spectraviewer/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status)
+[![CI](https://github.com/pedroiff0/spectraviewer/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/spectraviewer/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/spectraviewer)](https://github.com/pedroiff0/spectraviewer/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/spectraviewer?style=flat&logo=github)](https://github.com/pedroiff0/spectraviewer/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status)
 
 Visualizador interativo de espectros estelares do catálogo GALAH DR4 (Galactic Archaeology with HERMES), com as quatro bandas, linhas espectrais de referência e metadados estelares.
 
@@ -187,7 +187,7 @@ pip install -r requirements.txt
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Teste com ao menos uma estrela de amostra antes do pull request.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](CHANGELOG.md).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/spectraviewer/blob/HEAD/CHANGELOG).
 
 ### Convenções
 
@@ -219,6 +219,6 @@ Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do Git
 
 ## Licença
 
-MIT. Veja [LICENSE](LICENSE.md).
+MIT. Veja [LICENSE](https://github.com/pedroiff0/spectraviewer/blob/HEAD/LICENSE).
 
 Pedro Henrique Rocha de Andrade, 2026.

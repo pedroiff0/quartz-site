@@ -53,7 +53,7 @@ mirror_of: pedroiff0/awesome-skills/README.md
 
 # awesome-skills
 
-[![CI](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/awesome-skills)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/awesome-skills?style=flat&logo=github)](https://github.com/pedroiff0/awesome-skills/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
+[![CI](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/awesome-skills/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/awesome-skills)](https://github.com/pedroiff0/awesome-skills/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/awesome-skills?style=flat&logo=github)](https://github.com/pedroiff0/awesome-skills/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
 
 Catálogo de skills procedurais (`SKILL.md`), servidores MCP e plugins para agentes de IA, com instalador que equipa Antigravity, Hermes Agent, Claude Code, Codex, Cursor, Windsurf, Roo/Cline e OpenCode a partir de um único formato.
 
@@ -169,7 +169,7 @@ python -m pytest
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Rode os testes antes de abrir o pull request.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](CHANGELOG.md).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CHANGELOG).
 
 ## Status e próximos passos
 
@@ -182,12 +182,12 @@ Estado atual: **ativo**. Linux é a plataforma verificada; macOS e Windows têm 
 
 ## Contribuindo e suporte
 
-Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) e [SUPPORT.md](SUPPORT.md). Vulnerabilidades seguem [SECURITY.md](SECURITY.md).
+Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CONTRIBUTING), [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/CODE_OF_CONDUCT) e [SUPPORT.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/SUPPORT). Vulnerabilidades seguem [SECURITY.md](https://github.com/pedroiff0/awesome-skills/blob/HEAD/SECURITY).
 
 ## Autores
 
 ## Licença
 
-MIT. Veja [LICENSE](LICENSE.md). Cada skill mantém o crédito do autor original.
+MIT. Veja [LICENSE](https://github.com/pedroiff0/awesome-skills/blob/HEAD/LICENSE). Cada skill mantém o crédito do autor original.
 
 Pedro Henrique Rocha de Andrade, 2026.

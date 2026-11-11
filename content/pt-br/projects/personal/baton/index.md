@@ -56,7 +56,7 @@ mirror_of: pedroiff0/baton/README.md
 
 # Baton
 
-[![Licença](https://img.shields.io/github/license/pedroiff0/baton)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/baton?style=flat&logo=github)](https://github.com/pedroiff0/baton/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
+[![Licença](https://img.shields.io/github/license/pedroiff0/baton)](https://github.com/pedroiff0/baton/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/baton?style=flat&logo=github)](https://github.com/pedroiff0/baton/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
 
 Passador de slides pelo celular: o iPhone ou Android controla qualquer app de apresentação no macOS, Windows ou Linux, com laser, foco, caneta, marca-texto, cortina, notas e zoom. Somente biblioteca padrão do Python 3.8+.
 
@@ -182,7 +182,7 @@ BATON_BACKEND=log BATON_OVERLAY=log python3 baton.py --sem-abrir
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Mantenha apenas a biblioteca padrão do Python e adicione testes em `tests/`.
-4. Registre a mudança na seção `Não lançado` de [CHANGELOG.md](CHANGELOG.md).
+4. Registre a mudança na seção `Não lançado` de [CHANGELOG.md](https://github.com/pedroiff0/baton/blob/HEAD/CHANGELOG).
 
 ## Status e próximos passos
 
@@ -195,7 +195,7 @@ Estado atual: **ativo**. A camada do macOS e o Windows ainda dependem de teste e
 
 ## Contribuindo e suporte
 
-Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) e [SUPPORT.md](SUPPORT.md). Vulnerabilidades seguem [SECURITY.md](SECURITY.md).
+Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.com/pedroiff0/baton/blob/HEAD/CONTRIBUTING), [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/baton/blob/HEAD/CODE_OF_CONDUCT) e [SUPPORT.md](https://github.com/pedroiff0/baton/blob/HEAD/SUPPORT). Vulnerabilidades seguem [SECURITY.md](https://github.com/pedroiff0/baton/blob/HEAD/SECURITY).
 
 ## Autores
 
@@ -211,6 +211,6 @@ Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](CONTRIBUTING.md),
 
 ## Licença
 
-MIT. Veja [LICENSE](LICENSE.md). O pdf.js (Apache-2.0) e o qrcode-generator (MIT) vêm de `vendor/` com as licenças originais.
+MIT. Veja [LICENSE](https://github.com/pedroiff0/baton/blob/HEAD/LICENSE). O pdf.js (Apache-2.0) e o qrcode-generator (MIT) vêm de `vendor/` com as licenças originais.
 
 Pedro Henrique Rocha de Andrade, 2026.

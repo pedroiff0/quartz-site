@@ -53,7 +53,7 @@ mirror_of: pedroiff0/meu-setup/README.md
 
 # meu-setup
 
-[![CI](https://github.com/pedroiff0/meu-setup/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/meu-setup/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/meu-setup)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/meu-setup?style=flat&logo=github)](https://github.com/pedroiff0/meu-setup/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
+[![CI](https://github.com/pedroiff0/meu-setup/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/meu-setup/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/meu-setup)](https://github.com/pedroiff0/meu-setup/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/meu-setup?style=flat&logo=github)](https://github.com/pedroiff0/meu-setup/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status-e-próximos-passos)
 
 Instalador declarativo e idempotente do meu ambiente de desenvolvimento para Linux, macOS e Windows: temas, ajustes de sistema para servidor 24/7 e energia, e um catálogo de mais de 100 aplicações.
 
@@ -175,7 +175,7 @@ python3 -m pytest
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Rode os testes antes de abrir o pull request.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](CHANGELOG.md).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/CHANGELOG).
 
 ## Status e próximos passos
 
@@ -187,7 +187,7 @@ Estado atual: **ativo** (versão 2.0.0). Linux é a plataforma mais testada; mac
 
 ## Contribuindo e suporte
 
-Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) e [SUPPORT.md](SUPPORT.md). Vulnerabilidades seguem [SECURITY.md](SECURITY.md).
+Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/CONTRIBUTING), [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/CODE_OF_CONDUCT) e [SUPPORT.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/SUPPORT). Vulnerabilidades seguem [SECURITY.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/SECURITY).
 
 ## Autores
 
@@ -203,6 +203,6 @@ Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](CONTRIBUTING.md),
 
 ## Licença
 
-MIT. Veja [LICENSE](LICENSE.md).
+MIT. Veja [LICENSE](https://github.com/pedroiff0/meu-setup/blob/HEAD/LICENSE).
 
 Pedro Henrique Rocha de Andrade, 2026.

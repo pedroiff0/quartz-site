@@ -52,7 +52,7 @@ mirror_of: pedroiff0/portfolio/README.md
 
 # Portfolio
 
-[![CI](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/portfolio)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/portfolio?style=flat&logo=github)](https://github.com/pedroiff0/portfolio/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#roadmap)
+[![CI](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/portfolio/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/portfolio)](https://github.com/pedroiff0/portfolio/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/portfolio?style=flat&logo=github)](https://github.com/pedroiff0/portfolio/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#roadmap)
 
 Portfólio de Pedro Rocha: página estática única, minimalista, com tema claro e escuro e seis idiomas (PT, EN, ES, FR, IT, ZH), publicada no GitHub Pages em [portfolio.phrandrade.com](https://portfolio.phrandrade.com).
 
@@ -208,7 +208,7 @@ npm test
 1. Crie uma branch a partir de `master`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Edite o conteúdo só em português; as demais línguas saem do script de tradução.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](CHANGELOG.md).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/portfolio/blob/HEAD/CHANGELOG).
 
 ## Roadmap
 
@@ -219,15 +219,15 @@ npm test
 
 ## Suporte
 
-Veja [SUPPORT.md](SUPPORT.md).
+Veja [SUPPORT.md](https://github.com/pedroiff0/portfolio/blob/HEAD/SUPPORT).
 
 ## Segurança
 
-Veja [SECURITY.md](SECURITY.md).
+Veja [SECURITY.md](https://github.com/pedroiff0/portfolio/blob/HEAD/SECURITY).
 
 ## Contribuindo
 
-Veja [CONTRIBUTING.md](CONTRIBUTING.md) e [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+Veja [CONTRIBUTING.md](https://github.com/pedroiff0/portfolio/blob/HEAD/CONTRIBUTING) e [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/portfolio/blob/HEAD/CODE_OF_CONDUCT).
 
 ## Autores
 
@@ -243,6 +243,6 @@ Veja [CONTRIBUTING.md](CONTRIBUTING.md) e [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.m
 
 ## Licença
 
-MIT. Veja [LICENSE](LICENSE.md).
+MIT. Veja [LICENSE](https://github.com/pedroiff0/portfolio/blob/HEAD/LICENSE).
 
 Pedro Henrique Rocha de Andrade, 2026.

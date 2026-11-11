@@ -50,7 +50,7 @@ mirror_of: pedroiff0/formularios/README.md
 
 # Formulários
 
-[![CI](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/formularios)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/formularios?style=flat&logo=github)](https://github.com/pedroiff0/formularios/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status)
+[![CI](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/formularios/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/formularios)](https://github.com/pedroiff0/formularios/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/formularios?style=flat&logo=github)](https://github.com/pedroiff0/formularios/stargazers) [![Status](https://img.shields.io/badge/status-ativo-informational)](#status)
 
 Coleção de folhas de fórmulas e resumos em LaTeX, organizada por disciplina (Cálculo e Física), com um PDF por capítulo e um PDF combinado.
 
@@ -193,7 +193,7 @@ make fisicas-fast
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Rode `make combined` antes de abrir o pull request.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](CHANGELOG.md).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/formularios/blob/HEAD/CHANGELOG).
 
 ### Convenções
 
@@ -215,6 +215,6 @@ Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do Git
 
 ## Licença
 
-MIT. Veja [LICENSE](LICENSE.md).
+MIT. Veja [LICENSE](https://github.com/pedroiff0/formularios/blob/HEAD/LICENSE).
 
 Pedro Henrique Rocha de Andrade, 2026.

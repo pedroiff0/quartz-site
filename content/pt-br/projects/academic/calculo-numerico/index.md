@@ -50,7 +50,7 @@ mirror_of: pedroiff0/calculo-numerico/README.md
 
 # Cálculo Numérico
 
-[![CI](https://github.com/pedroiff0/calculo-numerico/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/calculo-numerico/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/calculo-numerico)](LICENSE.md) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/calculo-numerico?style=flat&logo=github)](https://github.com/pedroiff0/calculo-numerico/stargazers) [![Status](https://img.shields.io/badge/status-concluído-informational)](#status)
+[![CI](https://github.com/pedroiff0/calculo-numerico/actions/workflows/ci.yml/badge.svg)](https://github.com/pedroiff0/calculo-numerico/actions/workflows/ci.yml) [![Licença](https://img.shields.io/github/license/pedroiff0/calculo-numerico)](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/LICENSE) [![Estrelas](https://img.shields.io/github/stars/pedroiff0/calculo-numerico?style=flat&logo=github)](https://github.com/pedroiff0/calculo-numerico/stargazers) [![Status](https://img.shields.io/badge/status-concluído-informational)](#status)
 
 Implementação em Python dos algoritmos da disciplina de Cálculo Numérico (2025.2, IFF Bom Jesus do Itabapoana), com 96 testes unitários, documentação Sphinx e um guia em LaTeX.
 
@@ -187,7 +187,7 @@ make test
 1. Crie uma branch a partir de `main`: `git checkout -b feat/<assunto-curto>`.
 2. Commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 3. Rode `make test` antes de abrir o pull request.
-4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](CHANGELOG.md).
+4. Registre a mudança na seção `Unreleased` de [CHANGELOG.md](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/CHANGELOG).
 
 ### Convenções
 
@@ -209,6 +209,6 @@ Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do Git
 
 ## Licença
 
-MIT. Veja [LICENSE](LICENSE.md).
+MIT. Veja [LICENSE](https://github.com/pedroiff0/calculo-numerico/blob/HEAD/LICENSE).
 
 Pedro Henrique Rocha de Andrade, 2026.
