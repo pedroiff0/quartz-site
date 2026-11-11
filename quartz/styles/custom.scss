@@ -1944,6 +1944,12 @@ article table:not(.dv-table table) {
   }
 }
 
+/* Tabelas de até 3 colunas se ajustam ao conteúdo (não esticam até a largura máxima); 4 ou mais continuam em largura total. */
+article table:not(.dv-table table):not(:has(tr > :nth-child(4))) {
+  width: fit-content !important;
+  min-width: 40%;
+}
+
 /* Carrossel de fotos: em notas com nav-* ele aparece logo abaixo da nav (movido por script); escondido até ser posicionado. */
 body:has(article .academic-nav-container) .page-header > .media-carousel:not([data-placed]),
 body:has(article .academic-nav-container) .page-header > .carousel-nav-wrap:not([data-placed]) {
@@ -2076,17 +2082,6 @@ details.collapsible-heading {
 a.external:has(> img)::after,
 a.external:has(> img) .external-icon {
   display: none;
-}
-
-/* Tabelas ajustadas ao conteúdo: 2 ou 3 colunas não esticam até a largura máxima; as largas rolam na horizontal. */
-article table,
-main table,
-.page table,
-.markdown-rendered table,
-table {
-  width: fit-content !important;
-  min-width: 50%;
-  max-width: 100% !important;
 }
 
 /* Páginas de projeto (README): título centralizado e badges lado a lado, como no GitHub. Os hubs ficam de fora. */
