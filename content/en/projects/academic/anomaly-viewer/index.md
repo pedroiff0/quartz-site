@@ -102,5 +102,5 @@ The maps in the panel come from a separate processing program, designed to run i
 
 - [[en/research/deteccao-de-anomalias-iff-2025/index|Spectral Anomaly Detection in Stars (GALAH DR4)]]: the research behind the panel
 - [[en/media/2026/sab/index|XLIX RASAB (2026)]]: the event where the panel was presented
-- SpectraViewer: another GALAH DR4 spectrum viewer
+- [[pt-br/projects/academic/spectraviewer/index|SpectraViewer]]: another GALAH DR4 spectrum viewer
 - Origin: Public Site

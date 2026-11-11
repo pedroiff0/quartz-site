@@ -34,19 +34,19 @@ mirror_of: pedroiff0/baton/README.md
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/projects/academic/anomaly-viewer/index|← Painel interativo de Detecção de Anomal…]]</span>
+<span class="academic-nav-btn">[[pt-br/projects/personal/awesome-skills/index|← awesome-skills]]</span>
 
 </div>
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">Hub</span> <span class="academic-nav-counter">(2 de 2)</span>
+<span class="academic-nav-btn">Hub</span> <span class="academic-nav-counter">(3 de 10)</span>
 
 </div>
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn is-disabled">Fim →</span>
+<span class="academic-nav-btn">[[pt-br/projects/academic/calculo-numerico/index|Cálculo Numérico →]]</span>
 
 </div>
 

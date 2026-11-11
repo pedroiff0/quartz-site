@@ -35,13 +35,13 @@ resource-sync: false
 
 <div class="academic-nav-center">
 
-<span class="academic-nav-btn">Hub</span> <span class="academic-nav-counter">(1 de 2)</span>
+<span class="academic-nav-btn">Hub</span> <span class="academic-nav-counter">(1 de 10)</span>
 
 </div>
 
 <div class="academic-nav-side">
 
-<span class="academic-nav-btn">[[pt-br/projects/personal/baton/index|Baton →]]</span>
+<span class="academic-nav-btn">[[pt-br/projects/personal/awesome-skills/index|awesome-skills →]]</span>
 
 </div>
 
@@ -99,5 +99,5 @@ Os mapas do painel vêm de um programa de processamento separado, pensado para r
 
 - [[pt-br/research/deteccao-de-anomalias-iff-2025/index|Detecção de Anomalias Espectrais em Estrelas (GALAH DR4)]]: a pesquisa por trás do painel
 - [[pt-br/media/2026/sab/index|XLIX RASAB (2026)]]: o evento em que o painel foi apresentado
-- SpectraViewer: outro visualizador de espectros do GALAH DR4
+- [[pt-br/projects/academic/spectraviewer/index|SpectraViewer]]: outro visualizador de espectros do GALAH DR4
 - Origem: Site Público
