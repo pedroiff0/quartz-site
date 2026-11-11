@@ -253,6 +253,8 @@ plugins:
             "projetos": isEn ? "Projects" : isEs ? "Proyectos" : isFr ? "Projets" : "Projetos",
             "academic": isEn ? "Academic" : isEs ? "Académico" : isFr ? "Académique" : "Acadêmico",
             "academico": isEn ? "Academic" : isEs ? "Académico" : isFr ? "Académique" : "Acadêmico",
+            "personal": isEn ? "Personal" : isEs ? "Personal" : isFr ? "Personnel" : "Pessoal",
+            "pessoal": isEn ? "Personal" : isEs ? "Personal" : isFr ? "Personnel" : "Pessoal",
             "anotacoes": "Anotações",
             "atividades": "Atividades",
             "minhas-coisas": "Minhas Coisas",
