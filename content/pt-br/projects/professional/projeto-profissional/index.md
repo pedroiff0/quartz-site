@@ -2,7 +2,7 @@
 publish: true
 title: Projeto Profissional (template)
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:34:00-03:00
+modified: 2026-11-11T16:07:46-03:00
 tags:
 - template
 - boilerplate
@@ -76,6 +76,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#projeto
 - [Suporte](#suporte)
 - [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
+- [Contribuidores](#contribuidores)
 - [Licença](#licença)
 
 ## O que é
@@ -255,7 +256,7 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/proj
   </tr>
 </table>
 
-### Contribuidores
+## Contribuidores
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/projeto-profissional)](https://github.com/pedroiff0/projeto-profissional/graphs/contributors)
 

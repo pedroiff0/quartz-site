@@ -2,7 +2,7 @@
 publish: true
 title: Portfólio
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:34:00-03:00
+modified: 2026-11-11T16:07:46-03:00
 tags:
 - portfolio
 - pagina-unica
@@ -73,6 +73,7 @@ Portfólio de Pedro Rocha: página estática única, minimalista, com tema claro
 - [Suporte](#suporte)
 - [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
+- [Contribuidores](#contribuidores)
 - [Licença](#licença)
 
 ## O que é
@@ -250,7 +251,7 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/port
   </tr>
 </table>
 
-### Contribuidores
+## Contribuidores
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/portfolio)](https://github.com/pedroiff0/portfolio/graphs/contributors)
 

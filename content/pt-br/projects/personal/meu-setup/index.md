@@ -2,7 +2,7 @@
 publish: true
 title: meu-setup
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:34:00-03:00
+modified: 2026-11-11T16:07:46-03:00
 tags:
 - dotfiles
 - provisionamento
@@ -76,6 +76,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#meu-set
 - [Suporte](#suporte)
 - [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
+- [Contribuidores](#contribuidores)
 - [Licença](#licença)
 
 ## Por que existe
@@ -220,7 +221,7 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/meu-
   </tr>
 </table>
 
-### Contribuidores
+## Contribuidores
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/meu-setup)](https://github.com/pedroiff0/meu-setup/graphs/contributors)
 

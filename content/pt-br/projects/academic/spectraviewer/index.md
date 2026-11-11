@@ -10,7 +10,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T15:34:00-03:00
+modified: 2026-11-11T16:07:46-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -77,6 +77,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#spectra
 - [Suporte](#suporte)
 - [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
+- [Contribuidores](#contribuidores)
 - [Licença](#licença)
 
 ## Resumo
@@ -243,7 +244,7 @@ Dúvidas e pedidos de ajuda: veja [SUPPORT.md](https://github.com/pedroiff0/spec
   </tr>
 </table>
 
-### Contribuidores
+## Contribuidores
 
 [![Contribuidores](https://contrib.rocks/image?repo=pedroiff0/spectraviewer)](https://github.com/pedroiff0/spectraviewer/graphs/contributors)
 
