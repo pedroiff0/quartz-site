@@ -2,7 +2,7 @@
 publish: true
 title: Guia de DevOps e Infraestrutura
 created: '2026-09-28T22:55:00-03:00'
-modified: 2026-11-11T15:11:50-03:00
+modified: 2026-11-11T15:19:40-03:00
 tags:
 - projeto
 - publico
@@ -39,6 +39,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#devops-
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status e próximos passos](#status-e-próximos-passos)
 - [Contribuindo e suporte](#contribuindo-e-suporte)
+- [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
 
@@ -57,7 +58,7 @@ A documentação oficial costuma ser densa, dispersa ou só descritiva. O O.C.T.
 
 ## Tecnologias
 
-## Tecnologias
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ## Instalação
 
@@ -147,6 +148,12 @@ Estado atual: **ativo**. O pilar de GitHub está completo; os demais estão em e
 ## Contribuindo e suporte
 
 Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/CONTRIBUTING), [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/CODE_OF_CONDUCT) e [SUPPORT.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/SUPPORT). Vulnerabilidades seguem [SECURITY.md](https://github.com/pedroiff0/devops-guide/blob/HEAD/SECURITY).
+
+## Estrelas e atividade
+
+[![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/devops-guide&type=Date)](https://star-history.com/#pedroiff0/devops-guide&Date)
+
+[![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/devops-guide?logo=github)](https://github.com/pedroiff0/devops-guide/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/devops-guide?logo=git&logoColor=white)](https://github.com/pedroiff0/devops-guide/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/devops-guide)](https://github.com/pedroiff0/devops-guide/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/devops-guide)](https://github.com/pedroiff0/devops-guide/pulls)
 
 ## Autor
 

@@ -10,7 +10,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T15:11:50-03:00
+modified: 2026-11-11T15:19:40-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -71,6 +71,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#spectra
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status](#status)
 - [Como citar](#como-citar)
+- [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
 
@@ -89,11 +90,7 @@ Ferramenta de apoio à pesquisa em arqueologia galáctica, usada para inspeciona
 
 ## Tecnologias
 
-## Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=gnu&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ## Começando
 
@@ -204,6 +201,12 @@ Estado atual: **ativo**.
 ## Como citar
 
 Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do GitHub). Cite também o GALAH DR4 (Buder et al.).
+
+## Estrelas e atividade
+
+[![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/spectraviewer&type=Date)](https://star-history.com/#pedroiff0/spectraviewer&Date)
+
+[![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/spectraviewer?logo=github)](https://github.com/pedroiff0/spectraviewer/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/spectraviewer?logo=git&logoColor=white)](https://github.com/pedroiff0/spectraviewer/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/spectraviewer)](https://github.com/pedroiff0/spectraviewer/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/spectraviewer)](https://github.com/pedroiff0/spectraviewer/pulls)
 
 ## Autor
 

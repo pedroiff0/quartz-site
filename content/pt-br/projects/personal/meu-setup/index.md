@@ -2,7 +2,7 @@
 publish: true
 title: meu-setup
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:11:50-03:00
+modified: 2026-11-11T15:19:40-03:00
 tags:
 - dotfiles
 - provisionamento
@@ -71,6 +71,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#meu-set
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status e próximos passos](#status-e-próximos-passos)
 - [Contribuindo e suporte](#contribuindo-e-suporte)
+- [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
 
@@ -88,13 +89,7 @@ Refazer o ambiente a cada formatação ou máquina nova levava horas e nunca fic
 
 ## Tecnologias
 
-## Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=gnu&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ## Instalação
 
@@ -188,6 +183,12 @@ Estado atual: **ativo** (versão 2.0.0). Linux é a plataforma mais testada; mac
 ## Contribuindo e suporte
 
 Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/CONTRIBUTING), [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/CODE_OF_CONDUCT) e [SUPPORT.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/SUPPORT). Vulnerabilidades seguem [SECURITY.md](https://github.com/pedroiff0/meu-setup/blob/HEAD/SECURITY).
+
+## Estrelas e atividade
+
+[![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/meu-setup&type=Date)](https://star-history.com/#pedroiff0/meu-setup&Date)
+
+[![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/meu-setup?logo=github)](https://github.com/pedroiff0/meu-setup/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/meu-setup?logo=git&logoColor=white)](https://github.com/pedroiff0/meu-setup/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/meu-setup)](https://github.com/pedroiff0/meu-setup/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/meu-setup)](https://github.com/pedroiff0/meu-setup/pulls)
 
 ## Autor
 

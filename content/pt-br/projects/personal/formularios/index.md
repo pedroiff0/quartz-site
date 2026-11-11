@@ -9,7 +9,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T15:11:50-03:00
+modified: 2026-11-11T15:19:40-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -70,6 +70,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#formula
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status](#status)
 - [Como citar](#como-citar)
+- [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
 
@@ -89,13 +90,7 @@ Material de estudo da graduação em Engenharia de Computação (IFF), mantido p
 
 ## Tecnologias
 
-## Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=gnu&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=gnu&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ## Começando
 
@@ -210,6 +205,12 @@ Estado atual: **ativo**. Faltam capítulos das disciplinas dos próximos períod
 ## Como citar
 
 Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do GitHub).
+
+## Estrelas e atividade
+
+[![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/formularios&type=Date)](https://star-history.com/#pedroiff0/formularios&Date)
+
+[![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/formularios?logo=github)](https://github.com/pedroiff0/formularios/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/formularios?logo=git&logoColor=white)](https://github.com/pedroiff0/formularios/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/formularios)](https://github.com/pedroiff0/formularios/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/formularios)](https://github.com/pedroiff0/formularios/pulls)
 
 ## Autor
 

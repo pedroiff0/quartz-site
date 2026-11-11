@@ -9,7 +9,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T15:11:50-03:00
+modified: 2026-11-11T15:19:40-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
@@ -70,6 +70,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#calculo
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status](#status)
 - [Como citar](#como-citar)
+- [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
 
@@ -89,7 +90,7 @@ Projeto da disciplina de Cálculo Numérico, semestre 2025.2, curso de Engenhari
 
 ## Tecnologias
 
-## Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat&logo=sympy&logoColor=white) ![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=flat&logo=sphinx&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ## Começando
 
@@ -204,6 +205,12 @@ Estado atual: **concluído** para a disciplina; mantido para consulta e correç�
 ## Como citar
 
 Use o arquivo [CITATION.cff](CITATION.cff) (botão "Cite this repository" do GitHub).
+
+## Estrelas e atividade
+
+[![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/calculo-numerico&type=Date)](https://star-history.com/#pedroiff0/calculo-numerico&Date)
+
+[![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/calculo-numerico?logo=github)](https://github.com/pedroiff0/calculo-numerico/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/calculo-numerico?logo=git&logoColor=white)](https://github.com/pedroiff0/calculo-numerico/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/calculo-numerico)](https://github.com/pedroiff0/calculo-numerico/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/calculo-numerico)](https://github.com/pedroiff0/calculo-numerico/pulls)
 
 ## Autor
 

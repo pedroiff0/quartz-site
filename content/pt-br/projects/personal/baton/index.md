@@ -2,7 +2,7 @@
 publish: true
 title: Baton
 created: '2026-11-04T12:00:00-03:00'
-modified: 2026-11-11T15:11:50-03:00
+modified: 2026-11-11T15:19:40-03:00
 published: '2026-11-04T12:00:00-03:00'
 tags:
 - projeto
@@ -74,6 +74,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#baton) 
 - [Trabalhando no projeto](#trabalhando-no-projeto)
 - [Status e próximos passos](#status-e-próximos-passos)
 - [Contribuindo e suporte](#contribuindo-e-suporte)
+- [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
 
@@ -92,12 +93,7 @@ Passadores físicos não têm laser digital, notas nem cronômetro, e os apps de
 
 ## Tecnologias
 
-## Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## Instalação
 
@@ -196,6 +192,12 @@ Estado atual: **ativo**. A camada do macOS e o Windows ainda dependem de teste e
 ## Contribuindo e suporte
 
 Issues e pull requests são bem-vindos: veja [CONTRIBUTING.md](https://github.com/pedroiff0/baton/blob/HEAD/CONTRIBUTING), [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/baton/blob/HEAD/CODE_OF_CONDUCT) e [SUPPORT.md](https://github.com/pedroiff0/baton/blob/HEAD/SUPPORT). Vulnerabilidades seguem [SECURITY.md](https://github.com/pedroiff0/baton/blob/HEAD/SECURITY).
+
+## Estrelas e atividade
+
+[![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/baton&type=Date)](https://star-history.com/#pedroiff0/baton&Date)
+
+[![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/baton?logo=github)](https://github.com/pedroiff0/baton/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/baton?logo=git&logoColor=white)](https://github.com/pedroiff0/baton/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/baton)](https://github.com/pedroiff0/baton/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/baton)](https://github.com/pedroiff0/baton/pulls)
 
 ## Autor
 

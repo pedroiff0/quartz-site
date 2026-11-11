@@ -2,7 +2,7 @@
 publish: true
 title: Projeto Profissional (template)
 created: '2026-08-08T13:04:00-03:00'
-modified: 2026-11-11T15:11:50-03:00
+modified: 2026-11-11T15:19:40-03:00
 tags:
 - template
 - boilerplate
@@ -73,6 +73,7 @@ Este projeto faz parte do [portfólio](https://portfolio.phrandrade.com/#projeto
 - [Suporte](#suporte)
 - [Segurança](#segurança)
 - [Contribuindo](#contribuindo)
+- [Estrelas e atividade](#estrelas-e-atividade)
 - [Autor](#autor)
 - [Licença](#licença)
 
@@ -88,13 +89,9 @@ O Projeto Profissional resolve o início repetitivo de aplicações web para que
 - Docker Compose com perfis de desenvolvimento e produção e segredos isolados.
 - Suíte Jest com Supertest e `mongodb-memory-server`.
 
-### Stack
-
-Node.js 22, Express 4, MongoDB 7 com Mongoose 8, EJS, Jest e Docker Compose.
-
 ## Tecnologias
 
-## Tecnologias
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 
 ## Começando
 
@@ -231,6 +228,12 @@ Veja [SECURITY.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/S
 ## Contribuindo
 
 Veja [CONTRIBUTING.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CONTRIBUTING) e [CODE_OF_CONDUCT.md](https://github.com/pedroiff0/projeto-profissional/blob/HEAD/CODE_OF_CONDUCT).
+
+## Estrelas e atividade
+
+[![Histórico de estrelas](https://api.star-history.com/svg?repos=pedroiff0/projeto-profissional&type=Date)](https://star-history.com/#pedroiff0/projeto-profissional&Date)
+
+[![Commits por mês](https://img.shields.io/github/commit-activity/m/pedroiff0/projeto-profissional?logo=github)](https://github.com/pedroiff0/projeto-profissional/graphs/commit-activity) [![Último commit](https://img.shields.io/github/last-commit/pedroiff0/projeto-profissional?logo=git&logoColor=white)](https://github.com/pedroiff0/projeto-profissional/commits) [![Issues](https://img.shields.io/github/issues/pedroiff0/projeto-profissional)](https://github.com/pedroiff0/projeto-profissional/issues) [![Pull requests](https://img.shields.io/github/issues-pr/pedroiff0/projeto-profissional)](https://github.com/pedroiff0/projeto-profissional/pulls)
 
 ## Autor
 
