@@ -5,7 +5,7 @@ aliases:
   - Engenharia de Computação Hub
   - IFF EngComp Hub
 created: '2026-07-22T12:00:00-03:00'
-modified: 2026-11-10T13:52:35-03:00
+modified: 2026-11-11T16:10:47-03:00
 tags:
   - matriz-curricular
   - engenharia-de-computacao

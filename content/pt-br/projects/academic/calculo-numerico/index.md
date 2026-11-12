@@ -9,7 +9,7 @@ status: público
 cssclasses:
   - page-layout
 created: '2026-09-14T11:17:03-03:00'
-modified: 2026-11-11T16:07:45-03:00
+modified: 2026-11-11T16:07:46-03:00
 icon: lucide-notebookpen
 sitesync: true
 resource-sync: false
